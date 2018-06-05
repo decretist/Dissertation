@@ -1,21 +1,3 @@
----
-author: Paul Evans
-bibliography: chapter2.bib
-csl: chicago-fullnote-bibliography.csl
-reference-section-title: Bibliography
-title: Chapter 2
-abstract: |
-  The second order of business is to discuss Winroth's findings and
-  explain that you will concentrate on what he proposed was the
-  first recension. I think the explanation for this focus is that
-  the discovery of the first recension opens up questions about how
-  the second recension developed. The conjecture that the first
-  recension had one author—as W surmises—and that the second might
-  have had several is natural. You want to explore the question of
-  whether the first Gratian was in fact one person. Having done
-  that, one could then move on to study the nature of W's Gratian
-  2.
----
 The purpose of the following short introduction, addressed primarily to
 non-medievalist (DH) readers, is to indicate the importance of Gratian's
 *Decretum,* and to contextualize the composition of the *Decretum*
