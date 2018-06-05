@@ -197,32 +197,6 @@ own authoritative texts (their authority deriving from the fact
 that they consisted mainly of quotations) to be able to effectively
 teach their subjects."[@winroth_making_2000, 191]
 
-## Gratian
-
-The starting point for all modern scholarship on Gratian himself
-is John T. Noonan Jr.'s classic 1979 *Traditio* article "Gratian
-slept here: The changing identity of the father of the systematic
-study of canon law". Noonan's approach is apophatic, demonstrating
-that there is no sound historical basis for most of the affirmative
-statements, for example that Gratian was a Camaldolese monk at SS.
-Felix and Nabor in Bologna, that many mid-twentieth century handbooks
-and reference works presented as commonplace.
-
-Very little is known about the historical Gratian, and almost
-everything that previous generations thought was known about Gratian
-has proved, on closer examination, to be myth.[@noonan_gratian_1979]
-On the evidence found in the *Decretum*, Gratian seems to have been
-less interested in contemporary ecclesiastical or secular politics
-in general, and in the Investiture Controversy in particular, than
-some modern scholars think he should have been. Gratian similarly
-seems, based on the relatively limited use he makes in the *Decretum*
-of material from the *Codex* and *Digest* of Justinian, to have
-been either less interested in, or less aware of, the revival of
-the study of Roman law in the early twelfth century than we think
-he should have been. On the other hand, he seems to have been more
-aware of, and more interested in, the emergence of scholastic
-theology in northern France than we can easily explain.
-
 [^3]: "Quidam habens filium ..." C.1, d.init., edF. 1.357.
 
 [^5]: The idea that the *Correctores* were trying to reproduce the text
