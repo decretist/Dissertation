@@ -46,7 +46,7 @@ participants in a legal system that, at least in its conceptual
 outlines, was first systematized by Gratian in cases 27-36 in Part II of
 the *Decretum*, the so-called marriage *causae*.
 
-Presentation
+## Presentation
 
 Having considered how Gratian sourced and *collected* his materials --
 the question of what canons are and where Gratian got them -- we now
@@ -99,8 +99,7 @@ actually wrote and are therefore subject to function word analysis for
 authorship attribution.\]
 
 "The *dicta* in Gratian's *Decretum* bring the reader closer to its
-author than any other part of the text." (Winroth, *The Making of
-Gratian's Decretum*, 187)
+author than any other part of the text."[@winroth_making_2000, 187]
 
 The hypothetical case statements or *themata* that introduce each of the
 thirty-six *causae* (cases) that constitute Part II of the *Decretum*
@@ -120,18 +119,19 @@ professional, rather than a member of the landed aristocracy, since his
 wealth, the source of several bribes, is so readily convertible into
 cash.)
 
-Organization
+## Organization
 
-The *Decretum* in the form that circulated after around 1150 (the Köln
-Dombibliothek manuscripts 127 and 128 are good early examples) has three
-parts. The first part consists of 101 distinctions. Groups of
-distinctions form treatises within the work: distinctions 1-20, for
-example, form a treatise on laws (*tractatus de legibus*) that explores
-the sources of law. Other topics covered include ecclesiastical
-hierarchy and clerical discipline. The second part consists of 36 cases.
-A treatise on penance (*tractatus de penitentia*) is attached to the
-third question of case 33. The third part of the *Decretum* is a
-treatise on consecration (*tractatus de consecratione*).[^4]
+The *Decretum* in the form that circulated after around 1150 (the
+Köln Dombibliothek manuscripts 127 and 128 are good early examples)
+has three parts. The first part consists of 101 distinctions. Groups
+of distinctions form treatises within the work: distinctions 1-20,
+for example, form a treatise on laws (*tractatus de legibus*) that
+explores the sources of law. Other topics covered include ecclesiastical
+hierarchy and clerical discipline. The second part consists of 36
+cases.  A treatise on penance (*tractatus de penitentia*) is attached
+to the third question of case 33. The third part of the *Decretum*
+is a treatise on consecration (*tractatus de consecratione*).
+[@winroth_making_2000, 5]
 
 The cases are hypotheticals like those used in modern law schools, and
 some of them are quite far-fetched. In case 28, for example, a married
@@ -147,7 +147,7 @@ a man can take another wife if his previous wife is still alive; and
 whether someone who had one wife before he was baptized and another wife
 after he was baptized should be considered a bigamist.
 
-*Correctores Romani* edition (1582)
+## *Correctores Romani* edition (1582)
 
 The *Decretum* never received the kind of formal ecclesiastical (papal
 or conciliar) recognition that was conferred on decretal collections
@@ -183,6 +183,8 @@ for modern scholars to consult the ordinary gloss, which is an important
 tool for understanding the reception of Gratian\'s text by medieval
 jurists.
 
+## General Notes
+
 There is a convention in scholarly writing where the researcher presents
 their results, but carefully removes the scaffolding and effaces the
 process by which those results were actually arrived at. \[My intention
@@ -197,8 +199,7 @@ chapter: to the extent that there's some one person we can point to as
 mapping to our idea of Gratian, it's the author of the first-recension
 dicta.\]
 
-Notes from 10 August 2017 (*depositio Gratiani*) meeting with Stan
-Chodorow:
+## Notes from 10 August 2017 meeting with Stan Chodorow:
 
 -   1120: "Holy shit, we're independent!"
 
@@ -207,13 +208,12 @@ Chodorow:
 
 -   Transition: Where do Gratian and the *Decretum* lie along the
     (ground track or trajectory of) transition of the church from Leo IX
-    († 1054) to Innocent III († 1216)?
+    (†1054) to Innocent III (†1216)?
 
-Notes 15 September 2017
+## Notes 15 September 2017
 
-"Considering that the first \[recension\] may be a record of the first
-'university course' in canon law ..." Winroth, *The Making of Gratian's
-Decretum*, 194
+"Considering that the first [recension] may be a record of the first
+'university course' in canon law ..."[@winroth_making_2000, 194]
 
 Yes, but not in the way Anders is envisioning here. Rather, the first
 university course in canon law consisted of the Master reading from a
@@ -222,61 +222,57 @@ list of hypothetical case statements (*themata*). The first recension
 represents a reconstruction of that course by some of the original
 Master's students.
 
-"Gratian 1 and the Lombard were in effect forced to create their own
-authoritative texts (their authority deriving from the fact that they
-consisted mainly of quotations) to be able to effectively teach their
-subjects." (Winroth, *The Making of Gratian's Decretum*, 191.)
+"Gratian 1 and the Lombard were in effect forced to create their
+own authoritative texts (their authority deriving from the fact
+that they consisted mainly of quotations) to be able to effectively
+teach their subjects."[@winroth_making_2000, 191]
 
-Gratian
+## Gratian
 
-The starting point for all modern scholarship on Gratian himself is John
-T. Noonan Jr.'s classic 1979 *Traditio* article "Gratian slept here: The
-changing identity of the father of the systematic study of canon law".
-Noonan's approach is apophatic, demonstrating that there is no sound
-historical basis for most of the affirmative statements, for example
-that Gratian was a Camaldolese monk at SS. Felix and Nabor in Bologna,
-that many mid-twentieth century handbooks and reference works presented
-as commonplace.
+The starting point for all modern scholarship on Gratian himself
+is John T. Noonan Jr.'s classic 1979 *Traditio* article "Gratian
+slept here: The changing identity of the father of the systematic
+study of canon law". Noonan's approach is apophatic, demonstrating
+that there is no sound historical basis for most of the affirmative
+statements, for example that Gratian was a Camaldolese monk at SS.
+Felix and Nabor in Bologna, that many mid-twentieth century handbooks
+and reference works presented as commonplace.
 
-Very little is known about the historical Gratian, and almost everything
-that previous generations thought was known about Gratian has proved, on
-closer examination, to be myth.[^6] On the evidence found in the
-*Decretum*, Gratian seems to have been less interested in contemporary
-ecclesiastical or secular politics in general, and in the Investiture
-Controversy in particular, than some modern scholars think he should
-have been. Gratian similarly seems, based on the relatively limited use
-he makes in the *Decretum* of material from the *Codex* and *Digest* of
-Justinian, to have been either less interested in, or less aware of, the
-revival of the study of Roman law in the early twelfth century than we
-think he should have been. On the other hand, he seems to have been more
-aware of, and more interested in, the emergence of scholastic theology
-in northern France than we can easily explain.
+Very little is known about the historical Gratian, and almost
+everything that previous generations thought was known about Gratian
+has proved, on closer examination, to be myth.[@noonan_gratian_1979]
+On the evidence found in the *Decretum*, Gratian seems to have been
+less interested in contemporary ecclesiastical or secular politics
+in general, and in the Investiture Controversy in particular, than
+some modern scholars think he should have been. Gratian similarly
+seems, based on the relatively limited use he makes in the *Decretum*
+of material from the *Codex* and *Digest* of Justinian, to have
+been either less interested in, or less aware of, the revival of
+the study of Roman law in the early twelfth century than we think
+he should have been. On the other hand, he seems to have been more
+aware of, and more interested in, the emergence of scholastic
+theology in northern France than we can easily explain.
 
-[^1]: The manuscript is Vat. Lat. 4030. Jean Duvernoy, ed., *Le Registre
-    d'inquisition de Jacques Fournier, Évêque de Pamiers (1318-1325)*, 3
-    vols., Bibliothèque Méridonale. 2. Ser, t. 41 (Toulouse: É. Privat,
-    1965). See also [Inquisition Records of Jacques
-    Fournier](http://www.sjsu.edu/people/nancy.stork/jacquesfournier/)
-    ("An on-going English translation of the Inquisition Records of
-    Jacques Fournier, Bishop of Pamiers, France, 1318-1325") by Nancy P.
-    Stork (SJSU).
+[^1]: The manuscript is Vat. Lat. 4030. [@duvernoy_registre_1965]
+    See also [Inquisition Records of Jacques
+    Fournier](http://www.sjsu.edu/people/nancy.stork/jacquesfournier/) ("An
+    on-going English translation of the Inquisition Records of
+    Jacques Fournier, Bishop of Pamiers, France, 1318-1325") by
+    Nancy P. Stork (SJSU).
 
 [^2]: These numbers get thrown around a lot, but where do they come
     from? "My listing of more than 600 manuscripts containing the
-    *Decretum* will appear in Kenneth Pennington and Wilfried Hartmann,
-    eds., *History of Medieval Canon Law*, 11." Anders Winroth, *The
-    Making of Gratian's Decretum* (Cambridge: Cambridge University
-    Press, 2000) 122, fn.2. This list has never made it into print as
-    far as I know. For a reasonably complete and current list, see the
-    entry for
+    *Decretum* will appear in Kenneth Pennington and Wilfried
+    Hartmann, eds., *History of Medieval Canon Law*, 11."
+    [@winroth_making_2000, 122n2] This list has never made it into
+    print as far as I know. For a reasonably complete and current
+    list, see the entry for
     [Gratian](http://amesfoundation.law.harvard.edu/BioBibCanonists/Report_Biobib2.php?record_id=a242)
     in Kenneth Pennington's Bio-Bibliographic Guide to Medieval and
     Early Modern Jurists hosted by the Ames Foundation at Harvard
     University.
 
 [^3]: "Quidam habens filium ..." C.1, d.init., edF. 1.357.
-
-[^4]: Anders Winroth, *The Making of Gratian's* Decretum, 5.
 
 [^5]: The idea that the *Correctores* were trying to reproduce the text
     of the *Decretum* as they though Gratian should have written it, as
@@ -291,5 +287,3 @@ in northern France than we can easily explain.
     An
     Evaluation](http://mahan.wonkwang.ac.kr/link/med/law/canon-law/gratianus/friedberg.html)".)
 
-[^6]: John T. Noonan, Jr. "Gratian slept here: The changing identity of
-    the father of the systematic study of canon law", *Traditio*, 1979
