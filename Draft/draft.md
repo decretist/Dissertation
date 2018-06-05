@@ -1,10 +1,10 @@
 ---
 author: Paul Evans
-title: Dissertation
-subtitle: June 2018 Draft 
+date: 31 May 2018
 bibliography: project.bib
 csl: chicago-fullnote-bibliography.csl
 reference-section-title: Bibliography
+title: Dissertation
 ---
 It appears unlikely that the author of the case statements or
 _themata_ is the same person as the author or authors of the
