@@ -14,8 +14,8 @@ Modern scholars of Gratian's _Decretum_ customarily offer _apologia_
 for the object of their study, lauding Gratian as the "Father of
 the Systematic Study of Canon Law", and citing the contemporary
 relevance of the _Decretum_ as the vital source, for example, of
-the Roman Catholic canon law of marriage.The appeal to marriage law
-is an effective one, because the workings of dicesan marriage
+the Roman Catholic canon law of marriage. The appeal to marriage
+law is an effective one, because the workings of dicesan marriage
 tribunals have touched, directly or indirectly, most Catholic
 families in twenty-first century North America, and media therefore
 cover controversies over Catholic marriage law as front-page news.

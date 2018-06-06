@@ -36,9 +36,9 @@ electronic version of the text can be cleanly taken apart using a
 recursive descent parser), and should be thought of as a sequence of
 hierarchically nested containers. The canon is the atomic container from
 which the immediately higher-order containers (distinctions and
-questions) in the Decretum are organized. \[We will unpack the canon
+questions) in the Decretum are organized. [We will unpack the canon
 container into rubric, inscription, one or more texts, and *dictum*
-*post*.\]
+*post*.]
 
 A canon is usually, though not always, introduced by a rubric, which is
 a very short summary of what the canon is about. In 398 cases (wrong
@@ -46,19 +46,19 @@ number), the rubric just says "*de eodem*", which means "about the same
 thing" (as the canon before). Most canons have an inscription, which
 identifies the authority that is the source for the canon (usually a
 papal decretal, a canon from an ecumenical council or a provincial
-synod, or a patristic text). \[Eichbauer, p. 115, blur between rubric
+synod, or a patristic text). [Eichbauer, p. 115, blur between rubric
 and inscription. "Gratian rarely took his rubrics from earlier
 collections. Rather he created his own and often melded the rubrics with
-the dicta." p.107\] Because Gratian was getting his texts from previous
+the dicta." p.107] Because Gratian was getting his texts from previous
 collections, the inscription was frequently incorrect, especially if the
 text in question was one that had been included in the Pseudo-Isidorian
 forgeries. This raises the need to distinguish between Gratian's
-material sources \-- the original letter of Pope Gregory I, for example
-\-- and his formal sources \-- the collection Gratian was actually
+material sources -- the original letter of Pope Gregory I, for example
+-- and his formal sources -- the collection Gratian was actually
 looking at when copying his text. Finally, there are the *dicta*
 (literally, "things having been said"), which are statements Gratian is
 making on his own authority as a jurist. It is the *dicta* that carry
-the thread of Gratian's argument. \[Here I am only talking about *dicta
+the thread of Gratian's argument. [Here I am only talking about *dicta
 post canones*. Dicta ante canones are not part of the canon container
 but instead part of the distinction or question container (always
 d.a.c.1 or equivalent). There are three kinds of dicta: d.init (first
@@ -66,7 +66,7 @@ leaf node of case or *causa* container), d.a.c. (first leaf node of
 distinction or question container), and d.p.c. (optional last leaf of
 canon container). Dicta are text that Gratian (whoever we think he is)
 actually wrote and are therefore subject to function word analysis for
-authorship attribution.\]
+authorship attribution.]
 
 "The *dicta* in Gratian's *Decretum* bring the reader closer to its
 author than any other part of the text."[@winroth_making_2000, 187]
@@ -106,7 +106,7 @@ is a treatise on consecration (*tractatus de consecratione*).
 The cases are hypotheticals like those used in modern law schools, and
 some of them are quite far-fetched. In case 28, for example, a married
 infidel converts to Christianity, as a result of which his wife
-separates from him out of hatred for his new faith. (By \"infidel,\"
+separates from him out of hatred for his new faith. (By "infidel,"
 Gratian means a Muslim.) The convert then takes a new Christian wife,
 and after she dies, he is made a priest. Finally, "on account of the
 merit of his life and learning," he is elected bishop. Gratian extracts
@@ -135,7 +135,7 @@ for the age of the printing press.
 
 The *Correctores *proceeded from the Renaissance Humanist assumption
 that their job was to identify and include the most textually correct
-version of the material source for each of Gratian\'s authorities. In
+version of the material source for each of Gratian's authorities. In
 this sense the *Correctores* were less concerned with getting at the
 text of the collection Gratian actually compiled, and more concerned
 with getting at the text that they thought Gratian should have compiled,
@@ -147,27 +147,27 @@ the standardized commentary by [Johannes
 Teutonicus](http://amesfoundation.law.harvard.edu/BioBibCanonists/Report_Biobib2.php?record_id=a303) (c.1170--1245)
 in 1216, which was revised and updated by [Bartholomeus
 Brixiensis](http://amesfoundation.law.harvard.edu/BioBibCanonists/Report_Biobib2.php?record_id=a050) (fl.1234--1258)
-around 1240-1245. UCLA\'s online version of the [Corpus Iuris Canonici
+around 1240-1245. UCLA's online version of the [Corpus Iuris Canonici
 (1582)](http://digital.library.ucla.edu/canonlaw/) is a convenient way
 for modern scholars to consult the ordinary gloss, which is an important
-tool for understanding the reception of Gratian\'s text by medieval
+tool for understanding the reception of Gratian's text by medieval
 jurists.
 
 ## General Notes
 
 There is a convention in scholarly writing where the researcher presents
 their results, but carefully removes the scaffolding and effaces the
-process by which those results were actually arrived at. \[My intention
+process by which those results were actually arrived at. [My intention
 is to show rather than hide the process by which I arrived at the
-results that I am presenting.\] I did not start out my dissertation
+results that I am presenting.] I did not start out my dissertation
 project thinking of the authorship of the case statements or *themata*
 introducing each of the 36 *causae* that make up Part II of the
 *Decretum* as a research problem. I assumed that, by definition, the
 author of the case statements was identical with the author of at least
-the first-recension *dicta*. \[Tie this in with Winroth's two Gratians
+the first-recension *dicta*. [Tie this in with Winroth's two Gratians
 chapter: to the extent that there's some one person we can point to as
 mapping to our idea of Gratian, it's the author of the first-recension
-dicta.\]
+dicta.]
 
 ## Notes from 10 August 2017 meeting with Stan Chodorow:
 
@@ -208,7 +208,7 @@ teach their subjects."[@winroth_making_2000, 191]
     mind that the *Correctores Romani* had, as the *Decretum* was
     restored, not how it was composed by Gratian, but how it ought to
     have been composed by Gratian." trans. PLE) (edF 1.lxxviii, see also
-    Anders Winroth, "[Emil Friedberg\'s Edition of Gratian\'s Decretum:
+    Anders Winroth, "[Emil Friedberg's Edition of Gratian's Decretum:
     An
     Evaluation](http://mahan.wonkwang.ac.kr/link/med/law/canon-law/gratianus/friedberg.html)".)
 
