@@ -40,33 +40,42 @@ questions) in the Decretum are organized. [We will unpack the canon
 container into rubric, inscription, one or more texts, and *dictum*
 *post*.]
 
-A canon is usually, though not always, introduced by a rubric, which is
-a very short summary of what the canon is about. In 398 cases (wrong
-number), the rubric just says "*de eodem*", which means "about the same
-thing" (as the canon before). Most canons have an inscription, which
-identifies the authority that is the source for the canon (usually a
-papal decretal, a canon from an ecumenical council or a provincial
-synod, or a patristic text). [Eichbauer, p. 115, blur between rubric
-and inscription. "Gratian rarely took his rubrics from earlier
-collections. Rather he created his own and often melded the rubrics with
-the dicta." p.107] Because Gratian was getting his texts from previous
-collections, the inscription was frequently incorrect, especially if the
-text in question was one that had been included in the Pseudo-Isidorian
+A canon is usually, though not always, introduced by a rubric, which
+is a very short summary of what the canon is about. In 398 cases
+(wrong number), the rubric just says "*de eodem*", which means
+"about the same thing" (as the canon before). Most canons have an
+inscription, which identifies the authority that is the source for
+the canon (usually a papal decretal, a canon from an ecumenical
+council or a provincial synod, or a patristic text).[^eichbauer]
+Because Gratian was getting his texts from previous collections,
+the inscription was frequently incorrect, especially if the text
+in question was one that had been included in the Pseudo-Isidorian
 forgeries. This raises the need to distinguish between Gratian's
-material sources -- the original letter of Pope Gregory I, for example
--- and his formal sources -- the collection Gratian was actually
-looking at when copying his text. Finally, there are the *dicta*
-(literally, "things having been said"), which are statements Gratian is
-making on his own authority as a jurist. It is the *dicta* that carry
-the thread of Gratian's argument. [Here I am only talking about *dicta
-post canones*. Dicta ante canones are not part of the canon container
-but instead part of the distinction or question container (always
-d.a.c.1 or equivalent). There are three kinds of dicta: d.init (first
-leaf node of case or *causa* container), d.a.c. (first leaf node of
-distinction or question container), and d.p.c. (optional last leaf of
-canon container). Dicta are text that Gratian (whoever we think he is)
-actually wrote and are therefore subject to function word analysis for
-authorship attribution.]
+material sources -- the original letter of Pope Gregory I, for
+example -- and his formal sources -- the collection Gratian was
+actually looking at when copying his text. Finally, there are the
+*dicta* (literally, "things having been said"), which are statements
+Gratian is making on his own authority as a jurist. It is the *dicta*
+that carry the thread of Gratian's argument. [Here I am only talking
+about *dicta post canones*. Dicta ante canones are not part of the
+canon container but instead part of the distinction or question
+container (always d.a.c.1 or equivalent). There are three kinds of
+dicta: d.init (first leaf node of case or *causa* container), d.a.c.
+(first leaf node of distinction or question container), and d.p.c.
+(optional last leaf of canon container). Dicta are text that Gratian
+(whoever we think he is) actually wrote and are therefore subject
+to function word analysis for authorship attribution.]
+
+[^eichbauer]: The distinction between rubrics and *dicta* is blurry:
+"Gratian rarely took his rubrics from earlier collections. Rather
+he created his own and often melded the rubrics with the dicta."
+[@eichbauer_redactions_2007, 107] "Both J. Rambaud-Buhot and John
+Noonan, Jr. have highlighted the similarity between dicta and
+rubrics, that is, a rubric very often echoes the dictum that
+immediately preceded it." and "These isolated instances in the first
+cluster show that Gratian felt that the dictum was sufficient for
+summarizing the following *auctoritas*." [@eichbauer_redactions_2007,
+115] **Expand to include inscriptions.**
 
 "The *dicta* in Gratian's *Decretum* bring the reader closer to its
 author than any other part of the text."[@winroth_making_2000, 187]
