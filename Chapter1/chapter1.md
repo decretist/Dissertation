@@ -595,8 +595,7 @@ ideological orientation.
 
 Appelt, Heinrich, ed. *Die Urkunden der deutschen Könige und Kaiser*.
 Vol. X,2. Monumenta Germaniae historica. Diplomata regum et imperatorum
-Germaniae. Berlin: Weidmannsche Verlagsbuchhandlung, 1979. (UCSD DD3.M8
-.D7 v.10 no.2)
+Germaniae. Berlin: Weidmannsche Verlagsbuchhandlung, 1979.
 
 Chodorow, Stanley. *Christian Political Theory and Church Politics in
 the Mid-Twelfth Century; the Ecclesiology of Gratian's Decretum*.
@@ -625,8 +624,7 @@ Washington, D.C: Catholic University of America Press, 2008.
 Jansen, Katherine Ludwig, Joanna H Drell, and Frances Andrews, eds.
 "Roman Law and Legal Studies: Three Texts (ca. 1124-66)." In *Medieval
 Italy: Texts in Translation*, 167--72. The Middle Ages Series.
-Philadelphia: University of Pennsylvania Press, 2009. (UCSD DG501 .M535
-2009)
+Philadelphia: University of Pennsylvania Press, 2009.
 
 Manaresi, Cesare, ed. *I placiti del "Regnum Italiae."* 3 vols. Fonti
 per la storia d'Italia, pubblicate dall' Istituto storico italiano per
@@ -642,7 +640,7 @@ Ages." *Bulletin of Medieval Canon Law* 20 (1990): 1--29.
 Paolo Nardi, "Fonti canoniche in una sentenza senese del 1150", in
 *Life, Law, and Letters: Historical Studies in Honour of Antonio García
 y García*, ed. Peter Linehan, Studia Gratiana 29 (Rome: Libr. Ateneo
-Salesiano, 1998), 661-70. (CUA BV 103 .G77)\
+Salesiano, 1998), 661-70.\
 <http://catalog.wrlc.org/cgi-bin/Pwebrecon.cgi?BBID=1024288>
 
 Noonan, John T. "Gratian Slept Here: The Changing Identity of the Father
@@ -693,10 +691,10 @@ America Press, 2016.
 
 Weigand, Rudolf. "Frühe Kanonisten und ihre Karriere in der Kirsche."
 *Zeitschrift der Savigny-Stiftung für Rechtsgeschichte, Kanonistische
-Abteilung* 76 (1990): 135--55. (CUA BV 102 .Z48 K16)
+Abteilung* 76 (1990): 135--55.
 
 Winroth, Anders. *The Making of Gratian's Decretum*. Cambridge:
-Cambridge University Press, 2000. (UCSD K 3282 .C2 G7339 2000)
+Cambridge University Press, 2000.
 
 Winroth, Anders. "Law Schools in the Twelfth Century." In *Mélanges en
 l'honneur d'Anne Lefebvre-Teillard*, edited by Bernard d'Alteroche,
@@ -771,10 +769,10 @@ Paris: Éd. Panthéon-Assas, 2009.
     Law*, 5 (USD KBR160 .H57 2008) The standard modern edition of the
     *Digest* can be found in Paul Krüger and Theodor Mommsen, eds.,
     *Corpus Iuris Civilis*, 3 vols. (Berolini: apud Weidmannos, 1928).
-    (CUA Canon Law KC9 .K94 1928) There is a recent English translation
+    There is a recent English translation
     of the *Digest* in Alan Watson, ed., *The Digest of Justinian*
-    (Philadelphia, Pa: University of Pennsylvania Press, 1985). (UCSD K0
-    .D5438 1985) \[See review by Charlie Donohue, Jr. in *Stanford Law
+    (Philadelphia, Pa: University of Pennsylvania Press, 1985).
+    \[See review by Charlie Donohue, Jr. in *Stanford Law
     Review* (<https://www.jstor.org/stable/1228877>)\] There is an
     excellent facsimile edition of the *Codex* *Florentinus* (Firenze,
     Biblioteca Laurenziana, *sine* *numero*), the sixth- or
@@ -782,18 +780,17 @@ Paris: Éd. Panthéon-Assas, 2009.
     basis for the eleventh- and twelfth-century recovery of the *Digest*
     in Alessandro Corbino and Bernardo Santalucia, eds., *Justiniani
     Augusti Pandectarum Codex Florentinus* (Firenze: Olschki, 1988).
-    (CUA Canon Law KJA1113.C34)
 
 [^4]: The reference is to Dig. 48.4.7.3. "XIII, 49 Iohanni defensori
     exempla legum tradit, secundum quas iudicet" in Dag Ludvig Norberg,
     ed., S. Gregorii Magni Registrum Epistularum, Libri VIII-XIV,
     Appendix, Corpus Christianorum. Series Latina, 140 A (Turnholti:
-    Brepols, 1982) 1058-1064. (UCSD BR60 .C49 v.140A) Translated as
+    Brepols, 1982) 1058-1064. Translated as
     "13.49 Gregory to John, his defender, going to Spain. An example of
     a law," August 603, in John R. C. Martyn, trans., The Letters of
     Gregory the Great, vol. 3, Books 10-14, Mediaeval Sources in
     Translation 40 (Toronto: Pontifical Institute of Mediaeval Studies,
-    2004), 863-866. (UCSD BR65.G53 R4313 2004)
+    2004), 863-866.
 
 [^5]: Cesare Manaresi, ed., *I Placiti del "Regnum Italiae.,"* 3 vols.,
     Fonti per la storia d'Italia, pubblicate dall' Istituto storico
@@ -826,7 +823,6 @@ Paris: Éd. Panthéon-Assas, 2009.
     and Its Practice 21 (Leiden: Brill, 2016). (See [West Texas A&M
     University: Order in the Court: Medieval Procedural Treatises in
     Translation](http://www.wtamu.edu/academics/order-in-the-court.aspx).)
-    (CUA BV 110 .O73 2016)
 
 [^6]: D.1, c.8. *Decretum* *Gratiani*, First Recension, edition in
     progress. Anders Winroth, 3/21/2017, 2. English translation from
@@ -877,7 +873,7 @@ Paris: Éd. Panthéon-Assas, 2009.
     Frances Andrews, eds., "Roman Law and Legal Studies: Three Texts
     (ca. 1124-66)," in *Medieval Italy: Texts in Translation*, trans.
     Sean Gilsdorf, The Middle Ages Series (Philadelphia: University of
-    Pennsylvania Press, 2009), 167--72. (UCSD DG501 .M535 2009)
+    Pennsylvania Press, 2009), 167--72.
 
 [^16]: "\[O\]mnibus, qui causa studiorum peregrinantur, scolaribus et
     maxime divinarum atque sacrarum legum professoribus hoc nostre
@@ -887,7 +883,7 @@ Paris: Éd. Panthéon-Assas, 2009.
     Walter Koch, eds., *Friderici I. Diplomata inde ab a. MCLVIII usque
     ad a. MCLXVII*, vol. 10/2, MGH DD F I (Hannover: Hahn, 1979),
     [39](http://www.dmgh.de/de/fs1/object/display/bsb00000457_00048.html).
-    (UCSD DD3.M8 D7 v.10 no. 2) "\[W\]e bestow this pious gift upon all
+    "\[W\]e bestow this pious gift upon all
     who travel for the purpose of study, students and especially
     teachers of divine and sacred laws: namely, that they as well as
     their messengers may travel safely to the place where they are
@@ -896,7 +892,7 @@ Paris: Éd. Panthéon-Assas, 2009.
     Law and Legal Studies: Three Texts (ca. 1124-66)," in *Medieval
     Italy: Texts in Translation*, trans. Sean Gilsdorf, The Middle Ages
     Series (Philadelphia: University of Pennsylvania Press, 2009),
-    167--72. (UCSD DG501 .M535 2009)
+    167--72.
 
     The date of *Authentica* *Habita* is uncertain. Frederick ordered
     the constitution inserted into the *Codex* as an act of imperial
@@ -1054,7 +1050,7 @@ Paris: Éd. Panthéon-Assas, 2009.
     Latin text, see Bruce Clark Brasington, ed., *Ways of Mercy: The
     Prologue of Ivo of Chartres ; Edition and Analysis*, Vita Regularis,
     Bd. 2 (Münster : Piscataway, N.J: LIT ; Distributed in North America
-    by Transaction Publishers, 2004). (CUA KBR1347.A3 P7 2003) For an
+    by Transaction Publishers, 2004). For an
     English translation, see Robert Somerville and Bruce Clark
     Brasington, eds., *Prefaces to Canon Law Books in Latin
     Christianity: Selected Translations, 500-1245* (New Haven, Conn:
