@@ -84,7 +84,7 @@ by extension, the modern European university. Gratian's *Decretum* can
 be seen from the point of view of this series of historical developments
 as the textbook that invented the university.
 
-**Roman Law**
+## Roman Law
 
 There is good evidence that canon law emerged as a distinct, formally
 organized, academic discipline about two decades after Roman law, and
@@ -242,7 +242,7 @@ in the classroom ultimately had consequences in the courtroom,
 consequences that were enacted on the rights and property, on the bodies
 and lives, of women and men in the real world.
 
-**The *Decretum***
+## The *Decretum*
 
 The *Decretum* represents a towering intellectual achievement of the
 renaissance of the twelfth century that ushered in the high middle ages
@@ -373,7 +373,7 @@ continue to use the name Gratian as a conventional label for its author
 or authors, while withholding judgment as to whether one person or many
 stand behind the name
 
-**Collection and Selection**
+## Collection and Selection
 
 A canon is an authoritative text, or an excerpt from one, that provides
 a rule or norm for Christian life, either for an individual Christian
@@ -591,7 +591,7 @@ important filters -- the ninth-century pseudo-Isidorean forgers and the
 eleventh-century Gregorian reformers -- had had an extremely strong
 ideological orientation.
 
-**Bibliography**
+# Bibliography
 
 Appelt, Heinrich, ed. *Die Urkunden der deutschen Könige und Kaiser*.
 Vol. X,2. Monumenta Germaniae historica. Diplomata regum et imperatorum
