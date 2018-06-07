@@ -25,21 +25,21 @@ written from the ground up as a university textbook. (Abelard's
 *Sic et Non* is the other book for which such an argument might be
 advanced.)
 
-Gratian's exposition of his method -- the *content* of the
-*Decretum* -- transformed the study of canon law into a rigorous
-academic discipline. The existence of the *Decretum* transformed the
-social context for the teaching and study of canon law. It seems likely
+Gratian's exposition of his method -- the *content* of the *Decretum*
+-- transformed the study of canon law into a rigorous academic
+discipline. The existence of the *Decretum* transformed the social
+context for the teaching and study of canon law. It seems likely
 that Gratian's own teaching took place in a fairly informal and
 unstructured environment: a master surrounded by a circle of students
 for whose studies he provided a focus. But the existence of a
 standardized textbook paved the way for academic faculties formally
-organized along disciplinary lines to offer standardized courses of
-instruction and to confer degrees on those who completed them. Within a
-few generations, and certainly by the end of the twelfth century,
-organized faculties of canon law had largely displaced -- at least at
-major centers such as Bologna, Paris, and Oxford -- informal gatherings
-of students around a master, although the older model probably continued
-at more peripheral schools.[^2]
+organized along disciplinary lines to offer standardized courses
+of instruction and to confer degrees on those who completed them.
+Within a few generations, and certainly by the end of the twelfth
+century, organized faculties of canon law had largely displaced --
+at least at major centers such as Bologna, Paris, and Oxford --
+informal gatherings of students around a master, although the older
+model probably continued at more peripheral schools.[^2]
 
 The emergence of faculties of canon law in the middle decades of the
 twelfth century was a feature of a wider intellectual and social
@@ -746,15 +746,11 @@ Paris: Éd. Panthéon-Assas, 2009.
     subject matter and intention.)" [@mclaughlin_summa_1952, 1]
     English translation from [@somerville_prefaces_1998, 201].
 
-[^2]: "By the first decade of the thirteenth century the private schools
+[^2]: "By the first decade of the thirteenth century the private
+schools
     of canon law had become part of the corporate structure of the
     universities in all three places [Bologna, Paris, and Oxford]."
-    James A. Brundage, "The Teaching and Study of Canon Law in the Law
-    Schools," in *The History of Medieval Canon Law in the Classical
-    Period, 1140-1234: From Gratian to the Decretals of Pope Gregory
-    IX*, ed. Wilfried Hartmann and Kenneth Pennington, History of
-    Medieval Canon Law (Washington, D.C: Catholic University of America
-    Press, 2008), 98--99.
+    [@brundage_teaching_2008, 98-99].
 
 [^3]: The Digest was not recovered all at once, but in three parts: the
     *Digestum vetus* (Dig. 1.1-24.2), the *Infortiatum* (Dig.
