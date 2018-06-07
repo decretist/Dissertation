@@ -41,48 +41,49 @@ at least at major centers such as Bologna, Paris, and Oxford --
 informal gatherings of students around a master, although the older
 model probably continued at more peripheral schools.[^2]
 
-The emergence of faculties of canon law in the middle decades of the
-twelfth century was a feature of a wider intellectual and social
-revolution. There had been a revival in Bologna of the formal study of
-Roman law during the second and third decades of the twelfth century.
-The immediate impetus for the revival was the recovery of the great
-*libri legales* of the late Roman world, most important, because it
-provided the pattern for jurisprudence as a systematic intellectual
-activity, the *Digest* of Justinian.[^3] The twelfth-century revolution
-in legal science did not take place in a vacuum. It took place because
-of the emergence, especially in Italy, of an increasingly urban and
-commercial society with many moving parts. Such a society needed a
-correspondingly complex and sophisticated legal system, and, because it
-had much in common with the society of the ancient Roman world, it was
-able to borrow extensively from Roman law.
+The emergence of faculties of canon law in the middle decades of
+the twelfth century was a feature of a wider intellectual and social
+revolution. There had been a revival in Bologna of the formal study
+of Roman law during the second and third decades of the twelfth
+century.  The immediate impetus for the revival was the recovery
+of the great *libri legales* of the late Roman world, most important,
+because it provided the pattern for jurisprudence as a systematic
+intellectual activity, the *Digest* of Justinian.[^3] The twelfth-century
+revolution in legal science did not take place in a vacuum. It took
+place because of the emergence, especially in Italy, of an increasingly
+urban and commercial society with many moving parts. Such a society
+needed a correspondingly complex and sophisticated legal system,
+and, because it had much in common with the society of the ancient
+Roman world, it was able to borrow extensively from Roman law.
 
 Gratian, in compiling the *Decretum*, solved a problem for the new
-academic discipline of canon law that his counterparts teaching Roman
-law had sidestepped: the Romanists had not needed to create textbooks
-for their students because they had recovered the textbooks from which
-the law had been taught in late antiquity.
+academic discipline of canon law that his counterparts teaching
+Roman law had sidestepped: the Romanists had not needed to create
+textbooks for their students because they had recovered the textbooks
+from which the law had been taught in late antiquity.
 
-By doing so, Gratian blazed a trail for canon law that theology followed
-about two decades later. The appearance around 1160 of Peter Lombard's
-*Sentences* served as the catalyst for a similar transformation of
-theology into a rigorous academic discipline taught from a standardized
-textbook in the context of a formally organized curriculum by a
-degree-granting faculty, and for the displacement of more loosely
-organized regional schools, such as the one at Laon, by the preeminent
-theology faculty of Paris.
+By doing so, Gratian blazed a trail for canon law that theology
+followed about two decades later. The appearance around 1160 of
+Peter Lombard's *Sentences* served as the catalyst for a similar
+transformation of theology into a rigorous academic discipline
+taught from a standardized textbook in the context of a formally
+organized curriculum by a degree-granting faculty, and for the
+displacement of more loosely organized regional schools, such as
+the one at Laon, by the preeminent theology faculty of Paris.
 
 The emergence of distinct faculties of Roman law, canon law, and
-theology in the middle decades of the twelfth century gave rise to a
-rapidly proliferating number of major universities throughout Europe,
-recognizably continuous in form with those of the present day. The
-existence of standardized textbooks such as Gratian's *Decretum* and
-later Lombard's *Sentences* was an absolutely essential precondition for
-the formation of academic faculties organized along formal disciplinary
-lines, offering standardized courses of instruction for their students.
-Those faculties in turn supplied the foundation for the medieval, and,
-by extension, the modern European university. Gratian's *Decretum* can
-be seen from the point of view of this series of historical developments
-as the textbook that invented the university.
+theology in the middle decades of the twelfth century gave rise to
+a rapidly proliferating number of major universities throughout
+Europe, recognizably continuous in form with those of the present
+day. The existence of standardized textbooks such as Gratian's
+*Decretum* and later Lombard's *Sentences* was an absolutely essential
+precondition for the formation of academic faculties organized along
+formal disciplinary lines, offering standardized courses of instruction
+for their students.  Those faculties in turn supplied the foundation
+for the medieval, and, by extension, the modern European university.
+Gratian's *Decretum* can be seen from the point of view of this
+series of historical developments as the textbook that invented the
+university.
 
 ## Roman Law
 
@@ -747,35 +748,23 @@ Paris: Éd. Panthéon-Assas, 2009.
     English translation from [@somerville_prefaces_1998, 201].
 
 [^2]: "By the first decade of the thirteenth century the private
-schools
-    of canon law had become part of the corporate structure of the
-    universities in all three places [Bologna, Paris, and Oxford]."
-    [@brundage_teaching_2008, 98-99].
+    schools of canon law had become part of the corporate structure
+    of the universities in all three places [Bologna, Paris, and
+    Oxford]." [@brundage_teaching_2008, 98-99].
 
-[^3]: The Digest was not recovered all at once, but in three parts: the
-    *Digestum vetus* (Dig. 1.1-24.2), the *Infortiatum* (Dig.
-    24.3-38.17), and the *Digestum novum* (Dig. 39.1-50.17). Manlio
-    Bellomo, *The Common Legal Past of Europe: 1000-1800*, Studies in
-    Medieval and Early Modern Canon Law, v. 4 (Washington, D.C: Catholic
-    University of America Press, 1995), 62-63. Wolfgang P. Müller, "The
-    Recovery of Justinian's Digest in the Middle Ages," *Bulletin of
-    Medieval Canon Law* 20 (1990): 1--29. Michael H. Hoeflich and
-    Jasonne M. Grabher, "The Establishment of Normative Legal Texts: The
-    Beginnings of the *Ius commune*", in *The History of Medieval Canon
-    Law*, 5. The standard modern edition of the
-    *Digest* can be found in Paul Krüger and Theodor Mommsen, eds.,
-    *Corpus Iuris Civilis*, 3 vols. (Berolini: apud Weidmannos, 1928).
-    There is a recent English translation
-    of the *Digest* in Alan Watson, ed., *The Digest of Justinian*
-    (Philadelphia, Pa: University of Pennsylvania Press, 1985).
-    [See review by Charlie Donohue, Jr. in *Stanford Law
-    Review* (<https://www.jstor.org/stable/1228877>)] There is an
-    excellent facsimile edition of the *Codex Florentinus* (Firenze,
-    Biblioteca Laurenziana, *sine numero*), the sixth- or
-    seventh-century manuscript that served at least indirectly as the
-    basis for the eleventh- and twelfth-century recovery of the *Digest*
-    in Alessandro Corbino and Bernardo Santalucia, eds., *Justiniani
-    Augusti Pandectarum Codex Florentinus* (Firenze: Olschki, 1988).
+[^3]: The Digest was not recovered all at once, but in three parts:
+    the *Digestum vetus* (Dig. 1.1-24.2), the *Infortiatum* (Dig.
+    24.3-38.17), and the *Digestum novum* (Dig. 39.1-50.17).
+    [@bellomo_common_1995, 62-63]. [@muller_recovery_1990, 1-29].
+    [@hoeflich_establishment_2008, 5]. The standard modern edition
+    of the *Digest* can be found in [@kruger_corpus_1928]. There
+    is a recent English translation of the *Digest* in
+    [@watson_digest_1985]. [See review in [@donahue_translating_1987].]
+    There is an excellent facsimile edition of the *Codex Florentinus*
+    (Firenze, Biblioteca Laurenziana, *sine numero*), the sixth-
+    or seventh-century manuscript that served at least indirectly
+    as the basis for the eleventh- and twelfth-century recovery of
+    the *Digest* in [@corbino_pandectarum_1988].
 
 [^4]: The reference is to Dig. 48.4.7.3. "XIII, 49 Iohanni defensori
     exempla legum tradit, secundum quas iudicet" in Dag Ludvig Norberg,
