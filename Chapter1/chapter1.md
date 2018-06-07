@@ -46,7 +46,7 @@ twelfth century was a feature of a wider intellectual and social
 revolution. There had been a revival in Bologna of the formal study of
 Roman law during the second and third decades of the twelfth century.
 The immediate impetus for the revival was the recovery of the great
-*libri* *legales* of the late Roman world, most important, because it
+*libri legales* of the late Roman world, most important, because it
 provided the pattern for jurisprudence as a systematic intellectual
 activity, the *Digest* of Justinian.[^3] The twelfth-century revolution
 in legal science did not take place in a vacuum. It took place because
@@ -228,7 +228,7 @@ of due process. Indeed, Hermann Kantorowicz (†1940) brought the story of
 Mengho to the attention of medieval legal historians, and it remains
 well known today, precisely because Kantorowicz considered it a textbook
 example of inquisitorial (as opposed to adversarial) procedure under the
-*ordo* *iudiciarius* derived from Roman law.[^19]
+*ordo iudiciarius* derived from Roman law.[^19]
 
 The fact that Mengho was tortured and executed was not the point of the
 story for Kantorowicz, but it is for us. In the twenty-first century,
@@ -304,7 +304,7 @@ But long before the discovery of the first recension in the late
 twentieth century, the first twelfth-century readers of the *Decretum*
 were distinctly aware of the limited extent to which it could be thought
 of as the work of a single author. Even those early readers,
-near-contemporaries like the author of the *Summa* *Parisiensis*, who
+near-contemporaries like the author of the *Summa Parisiensis*, who
 implicitly endorsed the single author theory by subsuming the entire
 vulgate text of the *Decretum* under the eponym "Gratian," recognized
 that whoever Gratian was, he was not directly responsible either for the
@@ -546,7 +546,7 @@ interference as a necessary precondition for effective clerical and
 monastic reform. It is significant that the most important canon law
 collections of the reform period were compiled by prelates sympathetic
 with the reform movement, such as Anselm, bishop of Lucca (†1086),
-compiler of the *Collectio* *canonum*; Gregory, cardinal of San
+compiler of the *Collectio canonum*; Gregory, cardinal of San
 Grisogono (†1113), compiler of the *Polycarpus*; and Ivo, bishop of
 Chartres (†1115), compiler of the *Panormia*. These collections were
 compiled by and reflected the concerns of reform-minded church
@@ -774,8 +774,8 @@ Paris: Éd. Panthéon-Assas, 2009.
     (Philadelphia, Pa: University of Pennsylvania Press, 1985).
     [See review by Charlie Donohue, Jr. in *Stanford Law
     Review* (<https://www.jstor.org/stable/1228877>)] There is an
-    excellent facsimile edition of the *Codex* *Florentinus* (Firenze,
-    Biblioteca Laurenziana, *sine* *numero*), the sixth- or
+    excellent facsimile edition of the *Codex Florentinus* (Firenze,
+    Biblioteca Laurenziana, *sine numero*), the sixth- or
     seventh-century manuscript that served at least indirectly as the
     basis for the eleventh- and twelfth-century recovery of the *Digest*
     in Alessandro Corbino and Bernardo Santalucia, eds., *Justiniani
@@ -795,7 +795,7 @@ Paris: Éd. Panthéon-Assas, 2009.
 [^5]: Cesare Manaresi, ed., *I Placiti del "Regnum Italiae.,"* 3 vols.,
     Fonti per la storia d'Italia, pubblicate dall' Istituto storico
     italiano per il Medio Evo [no. 92] 96-97 (Roma: Tip. del Senato,
-    1955). [no. 437, 333-335. Volume?] The *Marturi* *placitum* does
+    1955). [no. 437, 333-335. Volume?] The *Marturi placitum* does
     not explicitly identify the passage in the *Digest* to which the
     citation refers, but the fact that the legal principle being invoked
     is *restitutio in integrum* is by itself sufficient to narrow it
@@ -818,20 +818,20 @@ Paris: Éd. Panthéon-Assas, 2009.
     Digest that an advocate for one or the other of the litigants
     brought to the attention of the court in support of their case as
     having been "introduced." For an English translation of the
-    *Marturi* *placitum*, see Bruce Clark Brasington, ed., *Order in the
+    *Marturi placitum*, see Bruce Clark Brasington, ed., *Order in the
     Court: Medieval Procedural Treatises in Translation*, Medieval Law
     and Its Practice 21 (Leiden: Brill, 2016). (See [West Texas A&M
     University: Order in the Court: Medieval Procedural Treatises in
     Translation](http://www.wtamu.edu/academics/order-in-the-court.aspx).)
 
-[^6]: D.1, c.8. *Decretum* *Gratiani*, First Recension, edition in
+[^6]: D.1, c.8. *Decretum Gratiani*, First Recension, edition in
     progress. Anders Winroth, 3/21/2017, 2. English translation from
     Augustine Thompson and James Gordley, trans., *The Treatise on Laws:
     (Decretum DD. 1-20)*, Studies in Medieval and Early Modern Canon
     Law, v. 2 (Washington, D.C: Catholic University of America Press,
     1993), 7.
 
-[^7]: D.1, c.12. *Decretum* *Gratiani*, First Recension, edition in
+[^7]: D.1, c.12. *Decretum Gratiani*, First Recension, edition in
     progress. Anders Winroth, 3/21/2017, 3.
 
 [^8]: Charles Radding, *The Origins of Medieval Jurisprudence: Pavia and
@@ -893,7 +893,7 @@ Paris: Éd. Panthéon-Assas, 2009.
     Series (Philadelphia: University of Pennsylvania Press, 2009),
     167--72.
 
-    The date of *Authentica* *Habita* is uncertain. Frederick ordered
+    The date of *Authentica Habita* is uncertain. Frederick ordered
     the constitution inserted into the *Codex* as an act of imperial
     propaganda. No medieval manuscripts of the *Codex* give a date for
     the proclamation. Early modern print editions of the *Codex*,
@@ -905,7 +905,7 @@ Paris: Éd. Panthéon-Assas, 2009.
     first-hand account of an incident that took place near Bologna in
     1155 in which Frederick, in response to a petition brought by a
     deputation of doctors and scholars from the city, issued a
-    proclamation matching the description of *Authentica* *Habita*. Some
+    proclamation matching the description of *Authentica Habita*. Some
     modern scholars attempt to split the difference by accepting the
     November 1158 date for the version of the text that we have, but
     characterizing it as a re-issue of the 1155 proclamation described
@@ -913,7 +913,7 @@ Paris: Éd. Panthéon-Assas, 2009.
     believe that *Authentica Habita* was promulgated twice, in 1155 and
     1158, as opposed to just once, in 1155. In any event, the
     uncertainty (within a narrow and circumscribed range) about the date
-    *Authentica* *Habita* was promulgated does not take anything away
+    *Authentica Habita* was promulgated does not take anything away
     from the validity of the point Pennington is making.
 
 [^17]: Ken Pennington, "[A Short History of Canon Law from Apostolic
@@ -1031,7 +1031,7 @@ Paris: Éd. Panthéon-Assas, 2009.
     (Washington, D.C: The Catholic University of America Press, 2014)
     12-13, fn.30. "My refusal to apply the standard label of 'canonical
     collection' to the *Decretum* is meant to make clear that I do not
-    classify the rest of the *Decretum* *Gratiani* as a canonical
+    classify the rest of the *Decretum Gratiani* as a canonical
     collection in the exact way that the work of Regino, Burchard,
     Anselm of Lucca, or even Ivo of Chartres (and many anonymous
     compilers) was, and yet it was a canonical collection in many
@@ -1071,11 +1071,11 @@ Paris: Éd. Panthéon-Assas, 2009.
     The Changing Identity of the Father of the Systematic Study of Canon
     Law," *Traditio* 35 (January 1, 1979): 162-163.
 
-[^35]: D.3, c.1-2. *Decretum* *Gratiani*, First Recension, edition in
+[^35]: D.3, c.1-2. *Decretum Gratiani*, First Recension, edition in
     progress. Anders Winroth, 3/21/2017, p.5, l.13-18.
 
 [^36]: "Porro canonum alii sunt decreta Pontificum, alii statuta
-    conciliorum." D.3, d.p.c.2. *Decretum* *Gratiani*, First Recension,
+    conciliorum." D.3, d.p.c.2. *Decretum Gratiani*, First Recension,
     edition in progress. Anders Winroth, 3/21/2017, p.5, l.19-20.
 
 [^37]: In addition to genuine papal material, for example a large number
@@ -1094,10 +1094,10 @@ Paris: Éd. Panthéon-Assas, 2009.
     | Columbia University
     Libraries](http://library.columbia.edu/locations/butler/medieval-studies/guides/papaldoc.html)]
 
-[^39]: D.3, d.p.c.2. *Decretum* *Gratiani*, First Recension, edition in
+[^39]: D.3, d.p.c.2. *Decretum Gratiani*, First Recension, edition in
     progress. Anders Winroth, 3/21/2017.
 
-[^40]: D.16, c.11. *Decretum* *Gratiani*, First Recension, edition in
+[^40]: D.16, c.11. *Decretum Gratiani*, First Recension, edition in
     progress. Anders Winroth, 3/21/2017. p.32, l.7-9.
 
 [^41]: Verify that the enumeration is in the first recension.
