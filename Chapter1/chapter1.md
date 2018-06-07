@@ -754,7 +754,7 @@ Paris: Éd. Panthéon-Assas, 2009.
     Period, 1140-1234: From Gratian to the Decretals of Pope Gregory
     IX*, ed. Wilfried Hartmann and Kenneth Pennington, History of
     Medieval Canon Law (Washington, D.C: Catholic University of America
-    Press, 2008), 98--99. (USD KBR160 .H57 2008)
+    Press, 2008), 98--99.
 
 [^3]: The Digest was not recovered all at once, but in three parts: the
     *Digestum vetus* (Dig. 1.1-24.2), the *Infortiatum* (Dig.
@@ -766,7 +766,7 @@ Paris: Éd. Panthéon-Assas, 2009.
     Medieval Canon Law* 20 (1990): 1--29. Michael H. Hoeflich and
     Jasonne M. Grabher, "The Establishment of Normative Legal Texts: The
     Beginnings of the *Ius commune*", in *The History of Medieval Canon
-    Law*, 5 (USD KBR160 .H57 2008) The standard modern edition of the
+    Law*, 5. The standard modern edition of the
     *Digest* can be found in Paul Krüger and Theodor Mommsen, eds.,
     *Corpus Iuris Civilis*, 3 vols. (Berolini: apud Weidmannos, 1928).
     There is a recent English translation
@@ -835,8 +835,7 @@ Paris: Éd. Panthéon-Assas, 2009.
     progress. Anders Winroth, 3/21/2017, 3.
 
 [^8]: Charles Radding, *The Origins of Medieval Jurisprudence: Pavia and
-    Bologna, 850- 1150* (New Haven: Yale University Press, 1988). (USD
-    KJA1570 .R33 1988)
+    Bologna, 850- 1150* (New Haven: Yale University Press, 1988).
 
 [^9]: Ken: defined so as to sidestep (for now) the controversy over Sg.
 
@@ -1157,6 +1156,6 @@ Paris: Éd. Panthéon-Assas, 2009.
     is the source for the numbers: "146 chapters of 252". But cf. J. T.
     Gilchrist, ed., *The Collection in Seventy-Four Titles: A Canon Law
     Manual of the Gregorian Reform*, Mediaeval Sources in Translation 22
-    (Toronto: Pontifical Institute of Mediaeval Studies, 1980) 15. (USD
-    BX1935 .D6113 1980) "Altogether I have estimated that 252 out of the
+    (Toronto: Pontifical Institute of Mediaeval Studies, 1980) 15.
+    "Altogether I have estimated that 252 out of the
     315 *capitula* were taken from Pseudo-Isidore."
