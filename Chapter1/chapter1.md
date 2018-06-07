@@ -192,7 +192,7 @@ Some corollaries to Winroth's argument that Roman law teaching got off
 to a late start are fairly far out of the mainstream. A notable example
 is his dating of the famous letter of an anonymous monk to abbot B
 (probably Bernard III Garin) of Saint-Victor, Marseille (the content of
-which Winroth has so memorably summarized as "\[m\]y donkey is dead, so
+which Winroth has so memorably summarized as "[m]y donkey is dead, so
 I am going to law school") to the 1180s rather than the 1120s. But it is
 extremely difficult to imagine that a letter that shows no apparent
 awareness that either civil (Roman) or canon law were being taught in
@@ -306,7 +306,7 @@ were distinctly aware of the limited extent to which it could be thought
 of as the work of a single author. Even those early readers,
 near-contemporaries like the author of the *Summa* *Parisiensis*, who
 implicitly endorsed the single author theory by subsuming the entire
-vulgate text of the *Decretum* under the eponym \"Gratian,\" recognized
+vulgate text of the *Decretum* under the eponym "Gratian," recognized
 that whoever Gratian was, he was not directly responsible either for the
 bulk of the text or for certain notable formal features of the work,
 like the division of Part I into *distinctiones*.[^29] Gratian was
@@ -497,7 +497,7 @@ ultimately has to correspond with and respond to the needs of
 contemporary society, and by the ninth century the Church, especially
 north of the Alps, was operating in a very different political and
 social environment from that of the Mediterranean world of late
-antiquity, which had produced the sources for Dionysius\'s collection.
+antiquity, which had produced the sources for Dionysius's collection.
 When faced with the need for new law to cope with new circumstances,
 some enterprising Carolingian churchmen took more recent material --
 mostly canons from provincial synods -- and repackaged them, attributing
@@ -520,13 +520,13 @@ of office by emperor, king, or metropolitan. They did this by building
 up the pope as the only superior who could judge a bishop. This was
 convenient, because while popes in the ninth century had considerable
 moral authority north of the Alps, they had little real power. The
-intent of the forgers\' program therefore was to render bishops
+intent of the forgers' program therefore was to render bishops
 effectively impervious to judgment. The collections that resulted from
 this effort, the so-called Pseudo-Isidorian *Decretals* and *Benedictus
 Levita*, were accepted everywhere as genuine in an age lacking any
 serious historical-critical awareness, and survived to become important
 sources for canonical collectors in the eleventh century.[^49] Many of
-these forged canons eventually found their way into Gratian\'s
+these forged canons eventually found their way into Gratian's
 *Decretum*.
 
 The reform papacy that reached its apogee with the pontificate of
@@ -628,7 +628,7 @@ Philadelphia: University of Pennsylvania Press, 2009.
 
 Manaresi, Cesare, ed. *I placiti del "Regnum Italiae."* 3 vols. Fonti
 per la storia d'Italia, pubblicate dall' Istituto storico italiano per
-il Medio Evo \[no. 92\] 96-97. Roma: Tip. del Senato, 1955.
+il Medio Evo [no. 92] 96-97. Roma: Tip. del Senato, 1955.
 
 Martyn, John R. C., trans. *The Letters of Gregory the Great*. Mediaeval
 Sources in Translation 40. Toronto: Pontifical Institute of Mediaeval
@@ -748,7 +748,7 @@ Paris: Éd. Panthéon-Assas, 2009.
 
 [^2]: "By the first decade of the thirteenth century the private schools
     of canon law had become part of the corporate structure of the
-    universities in all three places \[Bologna, Paris, and Oxford\]."
+    universities in all three places [Bologna, Paris, and Oxford]."
     James A. Brundage, "The Teaching and Study of Canon Law in the Law
     Schools," in *The History of Medieval Canon Law in the Classical
     Period, 1140-1234: From Gratian to the Decretals of Pope Gregory
@@ -772,8 +772,8 @@ Paris: Éd. Panthéon-Assas, 2009.
     There is a recent English translation
     of the *Digest* in Alan Watson, ed., *The Digest of Justinian*
     (Philadelphia, Pa: University of Pennsylvania Press, 1985).
-    \[See review by Charlie Donohue, Jr. in *Stanford Law
-    Review* (<https://www.jstor.org/stable/1228877>)\] There is an
+    [See review by Charlie Donohue, Jr. in *Stanford Law
+    Review* (<https://www.jstor.org/stable/1228877>)] There is an
     excellent facsimile edition of the *Codex* *Florentinus* (Firenze,
     Biblioteca Laurenziana, *sine* *numero*), the sixth- or
     seventh-century manuscript that served at least indirectly as the
@@ -794,20 +794,20 @@ Paris: Éd. Panthéon-Assas, 2009.
 
 [^5]: Cesare Manaresi, ed., *I Placiti del "Regnum Italiae.,"* 3 vols.,
     Fonti per la storia d'Italia, pubblicate dall' Istituto storico
-    italiano per il Medio Evo \[no. 92\] 96-97 (Roma: Tip. del Senato,
-    1955). \[no. 437, 333-335. Volume?\] The *Marturi* *placitum* does
+    italiano per il Medio Evo [no. 92] 96-97 (Roma: Tip. del Senato,
+    1955). [no. 437, 333-335. Volume?] The *Marturi* *placitum* does
     not explicitly identify the passage in the *Digest* to which the
     citation refers, but the fact that the legal principle being invoked
     is *restitutio in integrum* is by itself sufficient to narrow it
     down to *Dig*. 4. Radding and Ciaralli identify the passage as
     *Dig*. 4.6.26.4 (with some wording borrowed from *Dig*. 4.1.5)
-    \[Charles Radding and Antonio Ciaralli, *The Corpus Iuris Civilis in
+    [Charles Radding and Antonio Ciaralli, *The Corpus Iuris Civilis in
     the Middle Ages: Manuscripts and Transmission from the Sixth Century
     to the Juristic Revival*, Brill's Studies in Intellectual History,
-    v. 147 (Leiden ; Boston: Brill, 2007) 183-184\]. Nordillus, the
+    v. 147 (Leiden ; Boston: Brill, 2007) 183-184]. Nordillus, the
     judge, decided the case "*lege Digestorum libris inserta
     considerata* (after he considered the law inserted into the books of
-    the *Digest*)" \[translation suggested by Atria Larson\]. The
+    the *Digest*)" [translation suggested by Atria Larson]. The
     translation turns on the interpretation of the participial adjective
     *inserta*. "I think the straight-up 'inserted' makes sense here. The
     writer would seem to be noticing that the Digest is not itself
@@ -868,14 +868,14 @@ Paris: Éd. Panthéon-Assas, 2009.
     Gouron, "L'attrait Des 'Leges': Note Sur La Lettre d'un Moine
     Victorin (Vers 1124/1127)," *Studia et Documenta Historiae et Iuris*
     45 (1979): 504--29. For an English translation of the letter, see
-    Anonymous, Letter to Abbot B\[ernard III\] of Saint-Victor,
+    Anonymous, Letter to Abbot B[ernard III] of Saint-Victor,
     Marseille (1124/27) in Katherine Ludwig Jansen, Joanna H. Drell, and
     Frances Andrews, eds., "Roman Law and Legal Studies: Three Texts
     (ca. 1124-66)," in *Medieval Italy: Texts in Translation*, trans.
     Sean Gilsdorf, The Middle Ages Series (Philadelphia: University of
     Pennsylvania Press, 2009), 167--72.
 
-[^16]: "\[O\]mnibus, qui causa studiorum peregrinantur, scolaribus et
+[^16]: "[O]mnibus, qui causa studiorum peregrinantur, scolaribus et
     maxime divinarum atque sacrarum legum professoribus hoc nostre
     pietatis beneficium indulgemus, ut ad loca, in quibus litterarum
     exercentur studium, tam ipsi quam eorum nuntii veniant et habitent
@@ -883,7 +883,7 @@ Paris: Éd. Panthéon-Assas, 2009.
     Walter Koch, eds., *Friderici I. Diplomata inde ab a. MCLVIII usque
     ad a. MCLXVII*, vol. 10/2, MGH DD F I (Hannover: Hahn, 1979),
     [39](http://www.dmgh.de/de/fs1/object/display/bsb00000457_00048.html).
-    "\[W\]e bestow this pious gift upon all
+    "[W]e bestow this pious gift upon all
     who travel for the purpose of study, students and especially
     teachers of divine and sacred laws: namely, that they as well as
     their messengers may travel safely to the place where they are
@@ -899,9 +899,9 @@ Paris: Éd. Panthéon-Assas, 2009.
     propaganda. No medieval manuscripts of the *Codex* give a date for
     the proclamation. Early modern print editions of the *Codex*,
     however, associated it with the Diet of Roncaglia in November 1158,
-    and modern editions have retained the ascribed date. \[Kenneth
+    and modern editions have retained the ascribed date. [Kenneth
     Pennington, "The Beginnings of Law Schools in the Twelfth Century",
-    p.20, fn.53\] The uncertainty arises because a contemporary poem,
+    p.20, fn.53] The uncertainty arises because a contemporary poem,
     the *Carmen de gestis Frederici I. Imperatoris in Lombardia* gives a
     first-hand account of an incident that took place near Bologna in
     1155 in which Frederick, in response to a petition brought by a
@@ -928,9 +928,9 @@ Paris: Éd. Panthéon-Assas, 2009.
     mention "students and especially teachers of divine and sacred laws"
     so it is not clear to me why both Pennington and Winroth contest the
     latter point. Ken Pennington, "The Beginnings of Law Schools in the
-    Twelfth Century", 18: "It \[*Authentica Habita*\] did not mention
+    Twelfth Century", 18: "It [*Authentica Habita*] did not mention
     Bologna nor law students." Anders Winroth, "The Teaching of Law in
-    the Twelfth Century", 7-8: "The law \[*Authentica Habita*\] does not
+    the Twelfth Century", 7-8: "The law [*Authentica Habita*] does not
     mention Bologna at all, nor does it mention studies of law."
     Winroth's "The Teaching of Law in the Twelfth Century" (2007) was a
     conference paper (ASLH?) and has since been superseded by "Law
@@ -965,9 +965,9 @@ Paris: Éd. Panthéon-Assas, 2009.
     memorable than one to Sankt Gallen, Stiftsbibliothek 673. Rudolf
     Weigand (†1998) generated the original list of *sigla* in the course
     of his groundbreaking study of early glossed manuscripts of the
-    *Decretum* \[Rudolf Weigand, *Die Glossen zum "Dekret" Gratians:
+    *Decretum* [Rudolf Weigand, *Die Glossen zum "Dekret" Gratians:
     Studien zu den Frühen Glossen und Glosskompositionen*, Studia
-    Gratiana 25--26 (Rome, 1991)\]. In the context of Weigand's study
+    Gratiana 25--26 (Rome, 1991)]. In the context of Weigand's study
     early means before 1216, when Johannes Teutonicus (†1245) finalized
     the ordinary gloss, or standardized commentary, on the *Decretum*.
     Manuscripts falling outside the original scope of Weigand's
@@ -1087,13 +1087,13 @@ Paris: Éd. Panthéon-Assas, 2009.
 [^38]: JK 255. Jaffé, Philipp. *Regesta pontificum romanorum ab condita
     ecclesia ad annum post Christum natum MCXCVIII.* 2nd ed. corrected &
     supplemented by Samuel Loewenfeld, Ferdinand Kaltenbrunner & Paul
-    Ewald. 2 vols. Graz, 1956. p. 40 \[Regenerate footnote from
-    Zotero.\] \["Register of papal letters to 1198. Reflecting the
+    Ewald. 2 vols. Graz, 1956. p. 40 [Regenerate footnote from
+    Zotero.] ["Register of papal letters to 1198. Reflecting the
     editors who contributed to various time periods, the work is
     conventionally given an abbreviated citation as JK to the year 590,
     JE for 590-882 and JL for 883-1198." [Papal Documents: A Finding Aid
-    \| Columbia University
-    Libraries](http://library.columbia.edu/locations/butler/medieval-studies/guides/papaldoc.html)\]
+    | Columbia University
+    Libraries](http://library.columbia.edu/locations/butler/medieval-studies/guides/papaldoc.html)]
 
 [^39]: D.3, d.p.c.2. *Decretum* *Gratiani*, First Recension, edition in
     progress. Anders Winroth, 3/21/2017.
@@ -1140,11 +1140,11 @@ Paris: Éd. Panthéon-Assas, 2009.
     *Decretales Pseudo-Isidorianae, et, Capitula Angilramni: Ad Fidem
     Librorum Manuscriptorum Recensuit, Fontes Indicavit, Commentationem
     de Collectione Pseudo-Isidori Praemisit* (Aalen: Scientia Verlag,
-    1963). See also [Zum Inhalt von \"Projekt
-    Pseudoisidor\"](http://www.pseudoisidor.mgh.de/) by Karl-Georg
+    1963). See also [Zum Inhalt von "Projekt
+    Pseudoisidor"](http://www.pseudoisidor.mgh.de/) by Karl-Georg
     Schon. See also [Introduction to Pseudo-Isidore - Decretum
     Gratiani](https://sites.google.com/a/yale.edu/decretumgratiani/introduction-to-pseudo-isidore)
-    by Eric Knibbs. See also [Pseudo-Isidore \| An edition-in-progress
+    by Eric Knibbs. See also [Pseudo-Isidore | An edition-in-progress
     of the False Decretals](https://pseudo-isidore.com/) by Eric Knibbs.
     Klaus Zechiel-Eckes, "Ein Blick in Pseudoisidors Werkstatt. Studien
     Zum Entstehungsprozeß Der Falschen Dekretalen. Mit Einem
