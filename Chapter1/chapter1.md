@@ -45,7 +45,7 @@ The emergence of faculties of canon law in the middle decades of
 the twelfth century was a feature of a wider intellectual and social
 revolution. There had been a revival in Bologna of the formal study
 of Roman law during the second and third decades of the twelfth
-century.  The immediate impetus for the revival was the recovery
+century. The immediate impetus for the revival was the recovery
 of the great *libri legales* of the late Roman world, most important,
 because it provided the pattern for jurisprudence as a systematic
 intellectual activity, the *Digest* of Justinian.[^3] The twelfth-century
@@ -79,7 +79,7 @@ day. The existence of standardized textbooks such as Gratian's
 *Decretum* and later Lombard's *Sentences* was an absolutely essential
 precondition for the formation of academic faculties organized along
 formal disciplinary lines, offering standardized courses of instruction
-for their students.  Those faculties in turn supplied the foundation
+for their students. Those faculties in turn supplied the foundation
 for the medieval, and, by extension, the modern European university.
 Gratian's *Decretum* can be seen from the point of view of this
 series of historical developments as the textbook that invented the
@@ -88,30 +88,31 @@ university.
 ## Roman Law
 
 There is good evidence that canon law emerged as a distinct, formally
-organized, academic discipline about two decades after Roman law, and
-about two decades before theology. Therefore, any information that
-allows us to refine our knowledge of the dates by which those
+organized, academic discipline about two decades after Roman law,
+and about two decades before theology. Therefore, any information
+that allows us to refine our knowledge of the dates by which those
 disciplines, but especially Roman law, emerged has considerable
-evidentiary value for the dating of the emergence of canon law as well.
-The current consensus among historians is that the teaching of Roman law
-got under way as an organized activity in Bologna between 1100 and 1110
-and that the teaching of canon law got under way, also at Bologna, a
-little later, perhaps between 1120 and 1130.
+evidentiary value for the dating of the emergence of canon law as
+well. The current consensus among historians is that the teaching
+of Roman law got under way as an organized activity in Bologna
+between 1100 and 1110 and that the teaching of canon law got under
+way, also at Bologna, a little later, perhaps between 1120 and 1130.
 
 It is first necessary to distinguish the body of Roman law formally
-codified in the sixth century under the emperor Justinian (†565) from
-the forms of Roman law that had survived through continuous use and
-adaptation in southern Europe from late antiquity into the eleventh
-century. Early medieval Europe had not been unaware of Roman law, and in
-particular, the *Lex Romana Visigothorum* or *Breviary of Alaric* (506),
-derived from the Theodosian Code (438), was a major source of Roman law
-concepts and terminology throughout the early middle ages. The
-codification produced by Justinian's commissioners under the guidance of
-Tribonian (†545?) received limited reception in the sixth century in
-those parts of Italy then under Byzantine control. However, it
-disappeared from view around the beginning of the seventh century. The
-last known reference to the *Digest* in the Latin-speaking and -writing
-West is found in a letter of pope Gregory I in 603.[^4]
+codified in the sixth century under the emperor Justinian (†565)
+from the forms of Roman law that had survived through continuous
+use and adaptation in southern Europe from late antiquity into the
+eleventh century. Early medieval Europe had not been unaware of
+Roman law, and in particular, the *Lex Romana Visigothorum* or
+*Breviary of Alaric* (506), derived from the Theodosian Code (438),
+was a major source of Roman law concepts and terminology throughout
+the early middle ages. The codification produced by Justinian's
+commissioners under the guidance of Tribonian (†545?) received
+limited reception in the sixth century in those parts of Italy then
+under Byzantine control. However, it disappeared from view around
+the beginning of the seventh century. The last known reference to
+the *Digest* in the Latin-speaking and -writing West is found in a
+letter of pope Gregory I in 603.[^4]
 
 What was new in Italy from the late eleventh century on was the revival
 of the study and application of Roman law as codified in the *Corpus
@@ -655,15 +656,10 @@ ideological orientation.
     the *Digest* in [@corbino_pandectarum_1988].
 
 [^4]: The reference is to Dig. 48.4.7.3. "XIII, 49 Iohanni defensori
-    exempla legum tradit, secundum quas iudicet" in Dag Ludvig Norberg,
-    ed., S. Gregorii Magni Registrum Epistularum, Libri VIII-XIV,
-    Appendix, Corpus Christianorum. Series Latina, 140 A (Turnholti:
-    Brepols, 1982) 1058-1064. Translated as
-    "13.49 Gregory to John, his defender, going to Spain. An example of
-    a law," August 603, in John R. C. Martyn, trans., The Letters of
-    Gregory the Great, vol. 3, Books 10-14, Mediaeval Sources in
-    Translation 40 (Toronto: Pontifical Institute of Mediaeval Studies,
-    2004), 863-866.
+    exempla legum tradit, secundum quas iudicet" in
+    [@norberg_registrum_1982, 1058-1064]. Translated as "13.49
+    Gregory to John, his defender, going to Spain. An example of a
+    law," August 603, in [@martyn_letters_2004, 863-866].
 
 [^5]: Cesare Manaresi, ed., *I Placiti del "Regnum Italiae.,"* 3 vols.,
     Fonti per la storia d'Italia, pubblicate dall' Istituto storico
