@@ -123,82 +123,88 @@ documentary evidence for this revival is a reference to the *Digest*
 found in the *Marturi placitum*, the record of a court case held
 in 1076 in present-day Poggibonsi in Tuscany.[^5]
 
-Because of the title *Corpus iuris civilis*, "the body of civil law",
-Roman law was also referred to as civil law, and students, teachers, and
-practitioners of Roman law were referred to as civilians. Gratian,
-following Isidore of Seville (†636), used a much older definition: "*Ius
-civile est, quod quisque populus vel civitas sibi proprium divina
-humanaque causa constituit* (Civil law is what each people and each
-commonwealth establishes as its own law for divine or human
-reasons)."[^6] Gratian, again following Isidore, referred to Roman law
-as the law of the Quirites (*Ius Quiritum*).[^7]
+Because of the title *Corpus iuris civilis*, "the body of civil
+law", Roman law was also referred to as civil law, and students,
+teachers, and practitioners of Roman law were referred to as
+civilians. Gratian, following Isidore of Seville (†636), used a
+much older definition: "*Ius civile est, quod quisque populus vel
+civitas sibi proprium divina humanaque causa constituit* (Civil law
+is what each people and each commonwealth establishes as its own
+law for divine or human reasons)."[^6] Gratian, again following
+Isidore, referred to Roman law as the law of the Quirites (*Ius
+Quiritum*).[^7]
 
-There have been two notable recent outliers, Charles Radding and Anders
-Winroth, to the scholarly consensus that the teaching of Roman and canon
-law were going concerns in Bologna by around 1110 and 1130 respectively.
-Radding has proposed that the epicenter of the revival of the study of
-Roman law was not Bologna, but Pavia, and places the date somewhat
-earlier, in the late eleventh century. Radding's claim is that research
-into Roman law developed from its having been used as an analytical tool
-for the explication of the central text of the Lombard law tradition,
-the *Liber Legis Langobardorum* or *Liber Papiensis*. Radding's argument
-has not met with widespread acceptance.[@radding_origins_1988]
+There have been two notable recent outliers, Charles Radding and
+Anders Winroth, to the scholarly consensus that the teaching of
+Roman and canon law were going concerns in Bologna by around 1110
+and 1130 respectively. Radding has proposed that the epicenter of
+the revival of the study of Roman law was not Bologna, but Pavia,
+and places the date somewhat earlier, in the late eleventh century.
+Radding's claim is that research into Roman law developed from its
+having been used as an analytical tool for the explication of the
+central text of the Lombard law tradition, the *Liber Legis
+Langobardorum* or *Liber Papiensis*. Radding's argument has not met
+with widespread acceptance.[@radding_origins_1988]
 
-Anders Winroth is by far the more consequential outlier to the consensus
-that masters of Roman law were offering organized courses of instruction
-in Bologna by around 1110. He draws attention to the underdeveloped way
-in which Gratian uses Justinianic Roman law in what Winroth calls the
-first recension, the earliest version of the *Decretum* to survive in
-more than one manuscript.[^9]
+Anders Winroth is by far the more consequential outlier to the
+consensus that masters of Roman law were offering organized courses
+of instruction in Bologna by around 1110. He draws attention to the
+underdeveloped way in which Gratian uses Justinianic Roman law in
+what Winroth calls the first recension, the earliest version of the
+*Decretum* to survive in more than one manuscript.[^9]
 
 There are only three places in the first recension of the *Decretum*
-that incorporate textual material taken directly from Justinianic Roman
-law sources: C.2, q.6, c.28 (an excerpt from the *Authenticum*), and
-C.15, q.3, cc.1-3 and C.15, q.3, c.4 (three excerpts from the *Codex*
-and four from the *Digest*).[@winroth_making_2000, 146-148]
+that incorporate textual material taken directly from Justinianic
+Roman law sources: C.2, q.6, c.28 (an excerpt from the *Authenticum*),
+and C.15, q.3, cc.1-3 and C.15, q.3, c.4 (three excerpts from the
+*Codex* and four from the *Digest*).[@winroth_making_2000, 146-148]
 
-Gratian does not deploy the proper Justinianic shades of meaning to the
-concepts of ownership and possession when discussing the issue of
-*restitutio in integrum* in the first-recension version of C.3, q.1,
-d.p.c.2. Instead, Gratian uses concepts and vocabulary that Winroth
-argues derive from pre-Justinianic Roman law sources such as the *Lex
-Romana Visigothorum*.[@winroth_making_2000, 148-151]
+Gratian does not deploy the proper Justinianic shades of meaning
+to the concepts of ownership and possession when discussing the
+issue of *restitutio in integrum* in the first-recension version
+of C.3, q.1, d.p.c.2. Instead, Gratian uses concepts and vocabulary
+that Winroth argues derive from pre-Justinianic Roman law sources
+such as the *Lex Romana Visigothorum*.[@winroth_making_2000, 148-151]
 
-Furthermore, there are places in the first recension where Gratian, in
-Winroth's opinion, would have reached different conclusions had he used
-Justinianic Roman law. He points to Gratian's treatment of false (or at
-least unsuccessful) accusers in C.2, q.3, and the penalties, including
-infamy, incurred by them. Gratian's analysis -- he distinguishes three
-categories of false accusers based on material indirectly derived from
-the *Lex Romana Visigothorum* -- is incompatible with the well-developed
-Justinianic jurisprudence on the subject.[@winroth_making_2000, 153-156]
+Furthermore, there are places in the first recension where Gratian,
+in Winroth's opinion, would have reached different conclusions had
+he used Justinianic Roman law. He points to Gratian's treatment of
+false (or at least unsuccessful) accusers in C.2, q.3, and the
+penalties, including infamy, incurred by them. Gratian's analysis
+-- he distinguishes three categories of false accusers based on
+material indirectly derived from the *Lex Romana Visigothorum* --
+is incompatible with the well-developed Justinianic jurisprudence
+on the subject.[@winroth_making_2000, 153-156]
 
-But there is one question -- C.15, q.3 -- in the first recension of the
-*Decretum* in which Gratian makes substantive use of Justinianic Roman
-law concepts and vocabulary as a part of his argument in the *dicta* and
-does so more or less correctly in Winroth's judgment. This is
-significant from Winroth's point of view, because it demonstrates that
-Gratian did not have an ideological objection to the use of Roman law,
-as Vetulani and Chodorow argued.[^13] Rather, Winroth argues that where
-Gratian either failed to use Roman law, or used it incorrectly, it was
-because he lacked the knowledge to do so.[@winroth_making_2000, 151-153]
+But there is one question -- C.15, q.3 -- in the first recension
+of the *Decretum* in which Gratian makes substantive use of Justinianic
+Roman law concepts and vocabulary as a part of his argument in the
+*dicta* and does so more or less correctly in Winroth's judgment.
+This is significant from Winroth's point of view, because it
+demonstrates that Gratian did not have an ideological objection to
+the use of Roman law, as Vetulani and Chodorow argued.[^13] Rather,
+Winroth argues that where Gratian either failed to use Roman law,
+or used it incorrectly, it was because he lacked the knowledge to
+do so.[@winroth_making_2000, 151-153]
 
 For reasons that I will discuss more fully below, Winroth is convinced
-that the first recension of the *Decretum* cannot have been completed or
-entered circulation earlier than around 1140. The underdeveloped way in
-which Justinianic Roman law is used in the first recension therefore
-leads Winroth to argue that the study and teaching of Roman law in
-Bologna had not progressed nearly as far by 1140 as the consensus holds.
+that the first recension of the *Decretum* cannot have been completed
+or entered circulation earlier than around 1140. The underdeveloped
+way in which Justinianic Roman law is used in the first recension
+therefore leads Winroth to argue that the study and teaching of
+Roman law in Bologna had not progressed nearly as far by 1140 as
+the consensus holds.
 
-Some corollaries to Winroth's argument that Roman law teaching got off
-to a late start are fairly far out of the mainstream. A notable example
-is his dating of the famous letter of an anonymous monk to abbot B
-(probably Bernard III Garin) of Saint-Victor, Marseille (the content of
-which Winroth has so memorably summarized as "[m]y donkey is dead, so
-I am going to law school") to the 1180s rather than the 1120s. But it is
-extremely difficult to imagine that a letter that shows no apparent
-awareness that either civil (Roman) or canon law were being taught in
-Bologna can have been written in the 1180s.[^15]
+Some corollaries to Winroth's argument that Roman law teaching got
+off to a late start are fairly far out of the mainstream. A notable
+example is his dating of the famous letter of an anonymous monk to
+abbot B (probably Bernard III Garin) of Saint-Victor, Marseille
+(the content of which Winroth has so memorably summarized as "[m]y
+donkey is dead, so I am going to law school") to the 1180s rather
+than the 1120s. But it is extremely difficult to imagine that a
+letter that shows no apparent awareness that either civil (Roman)
+or canon law were being taught in Bologna can have been written in
+the 1180s.[^15]
 
 Kenneth Pennington has pointed to the *Authentica Habita* (1155/1158)
 issued by the emperor Frederick I (†1190), which has traditionally been
@@ -687,8 +693,8 @@ ideological orientation.
     Translation](http://www.wtamu.edu/academics/order-in-the-court.aspx).)
 
 [^6]: D.1, c.8. *Decretum Gratiani*, First Recension, edition in
-    progress. Anders Winroth, 3/21/2017, 2. English translation from
-    [@thompson_treatise_1993, 7].
+    progress. Anders Winroth, 3/21/2017, 2. English translation
+    from [@thompson_treatise_1993, 7].
 
 [^7]: D.1, c.12. *Decretum Gratiani*, First Recension, edition in
     progress. Anders Winroth, 3/21/2017, 3.
