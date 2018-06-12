@@ -45,8 +45,8 @@ The emergence of faculties of canon law in the middle decades of
 the twelfth century was a feature of a wider intellectual and social
 revolution. There had been a revival in Bologna of the formal study
 of Roman law during the second and third decades of the twelfth
-century. The immediate impetus for the revival was the recovery
-of the great *libri legales* of the late Roman world, most important,
+century. The immediate impetus for the revival was the recovery of
+the great *libri legales* of the late Roman world, most important,
 because it provided the pattern for jurisprudence as a systematic
 intellectual activity, the *Digest* of Justinian.[^3] The twelfth-century
 revolution in legal science did not take place in a vacuum. It took
@@ -114,14 +114,14 @@ the beginning of the seventh century. The last known reference to
 the *Digest* in the Latin-speaking and -writing West is found in a
 letter of pope Gregory I in 603.[^4]
 
-What was new in Italy from the late eleventh century on was the revival
-of the study and application of Roman law as codified in the *Corpus
-iuris civilis* of Justinian: the *Institutes*, the *Codex*, the *Digest*
-or *Pandects*, and the *Novels*, translated from Greek into Latin in the
-form of the *Authenticum*. The first documentary evidence for this
-revival is a reference to the *Digest* found in the *Marturi placitum*,
-the record of a court case held in 1076 in present-day Poggibonsi in
-Tuscany.[^5]
+What was new in Italy from the late eleventh century on was the
+revival of the study and application of Roman law as codified in
+the *Corpus iuris civilis* of Justinian: the *Institutes*, the
+*Codex*, the *Digest* or *Pandects*, and the *Novels*, translated
+from Greek into Latin in the form of the *Authenticum*. The first
+documentary evidence for this revival is a reference to the *Digest*
+found in the *Marturi placitum*, the record of a court case held
+in 1076 in present-day Poggibonsi in Tuscany.[^5]
 
 Because of the title *Corpus iuris civilis*, "the body of civil law",
 Roman law was also referred to as civil law, and students, teachers, and
@@ -661,35 +661,28 @@ ideological orientation.
     Gregory to John, his defender, going to Spain. An example of a
     law," August 603, in [@martyn_letters_2004, 863-866].
 
-[^5]: Cesare Manaresi, ed., *I Placiti del "Regnum Italiae.,"* 3 vols.,
-    Fonti per la storia d'Italia, pubblicate dall' Istituto storico
-    italiano per il Medio Evo [no. 92] 96-97 (Roma: Tip. del Senato,
-    1955). [no. 437, 333-335. Volume?] The *Marturi placitum* does
-    not explicitly identify the passage in the *Digest* to which the
-    citation refers, but the fact that the legal principle being invoked
-    is *restitutio in integrum* is by itself sufficient to narrow it
-    down to *Dig*. 4. Radding and Ciaralli identify the passage as
-    *Dig*. 4.6.26.4 (with some wording borrowed from *Dig*. 4.1.5)
-    [Charles Radding and Antonio Ciaralli, *The Corpus Iuris Civilis in
-    the Middle Ages: Manuscripts and Transmission from the Sixth Century
-    to the Juristic Revival*, Brill's Studies in Intellectual History,
-    v. 147 (Leiden ; Boston: Brill, 2007) 183-184]. Nordillus, the
-    judge, decided the case "*lege Digestorum libris inserta
-    considerata* (after he considered the law inserted into the books of
-    the *Digest*)" [translation suggested by Atria Larson]. The
-    translation turns on the interpretation of the participial adjective
-    *inserta*. "I think the straight-up 'inserted' makes sense here. The
-    writer would seem to be noticing that the Digest is not itself
-    *lex* but includes commentary on the *lex*, the written law, and
-    refers to and inserts many elements of *lex* throughout." (Atria
-    Larson, email to Paul Evans, July 21, 2017.) The alternative is to
-    translate *inserta* as "introduced", describing a passage from the
-    Digest that an advocate for one or the other of the litigants
-    brought to the attention of the court in support of their case as
-    having been "introduced." For an English translation of the
-    *Marturi placitum*, see Bruce Clark Brasington, ed., *Order in the
-    Court: Medieval Procedural Treatises in Translation*, Medieval Law
-    and Its Practice 21 (Leiden: Brill, 2016). (See [West Texas A&M
+[^5]: [@manaresi_placiti_1955, 333-335]. (no. 437) The *Marturi
+    placitum* does not explicitly identify the passage in the
+    *Digest* to which the citation refers, but the fact that the
+    legal principle being invoked is *restitutio in integrum* is
+    by itself sufficient to narrow it down to *Dig*. 4. Radding and
+    Ciaralli identify the passage as *Dig*. 4.6.26.4 (with some
+    wording borrowed from *Dig*. 4.1.5). [@radding_corpus_2007,
+    183-184]. Nordillus, the judge, decided the case "*lege Digestorum
+    libris inserta considerata* (after he considered the law inserted
+    into the books of the *Digest*)" [translation suggested by Atria
+    Larson]. The translation turns on the interpretation of the
+    participial adjective *inserta*. "I think the straight-up
+    'inserted' makes sense here. The writer would seem to be noticing
+    that the Digest is not itself *lex* but includes commentary on
+    the *lex*, the written law, and refers to and inserts many
+    elements of *lex* throughout." (Atria Larson, email to Paul
+    Evans, July 21, 2017.) The alternative is to translate *inserta*
+    as "introduced", describing a passage from the Digest that an
+    advocate for one or the other of the litigants brought to the
+    attention of the court in support of their case as having been
+    "introduced." For an English translation of the *Marturi
+    placitum*, see [@brasington_order_2016]. (See [West Texas A&M
     University: Order in the Court: Medieval Procedural Treatises in
     Translation](http://www.wtamu.edu/academics/order-in-the-court.aspx).)
 
