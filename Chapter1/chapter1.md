@@ -142,7 +142,7 @@ earlier, in the late eleventh century. Radding's claim is that research
 into Roman law developed from its having been used as an analytical tool
 for the explication of the central text of the Lombard law tradition,
 the *Liber Legis Langobardorum* or *Liber Papiensis*. Radding's argument
-has not met with widespread acceptance.[^8]
+has not met with widespread acceptance.[@radding_origins_1988]
 
 Anders Winroth is by far the more consequential outlier to the consensus
 that masters of Roman law were offering organized courses of instruction
@@ -155,14 +155,14 @@ There are only three places in the first recension of the *Decretum*
 that incorporate textual material taken directly from Justinianic Roman
 law sources: C.2, q.6, c.28 (an excerpt from the *Authenticum*), and
 C.15, q.3, cc.1-3 and C.15, q.3, c.4 (three excerpts from the *Codex*
-and four from the *Digest*).[^10]
+and four from the *Digest*).[@winroth_making_2000, 146-148]
 
 Gratian does not deploy the proper Justinianic shades of meaning to the
 concepts of ownership and possession when discussing the issue of
 *restitutio in integrum* in the first-recension version of C.3, q.1,
 d.p.c.2. Instead, Gratian uses concepts and vocabulary that Winroth
 argues derive from pre-Justinianic Roman law sources such as the *Lex
-Romana Visigothorum*.[^11]
+Romana Visigothorum*.[@winroth_making_2000, 148-151]
 
 Furthermore, there are places in the first recension where Gratian, in
 Winroth's opinion, would have reached different conclusions had he used
@@ -171,7 +171,7 @@ least unsuccessful) accusers in C.2, q.3, and the penalties, including
 infamy, incurred by them. Gratian's analysis -- he distinguishes three
 categories of false accusers based on material indirectly derived from
 the *Lex Romana Visigothorum* -- is incompatible with the well-developed
-Justinianic jurisprudence on the subject.[^12]
+Justinianic jurisprudence on the subject.[@winroth_making_2000, 153-156]
 
 But there is one question -- C.15, q.3 -- in the first recension of the
 *Decretum* in which Gratian makes substantive use of Justinianic Roman
@@ -181,7 +181,7 @@ significant from Winroth's point of view, because it demonstrates that
 Gratian did not have an ideological objection to the use of Roman law,
 as Vetulani and Chodorow argued.[^13] Rather, Winroth argues that where
 Gratian either failed to use Roman law, or used it incorrectly, it was
-because he lacked the knowledge to do so.[^14]
+because he lacked the knowledge to do so.[@winroth_making_2000, 151-153]
 
 For reasons that I will discuss more fully below, Winroth is convinced
 that the first recension of the *Decretum* cannot have been completed or
@@ -268,7 +268,7 @@ preserve the text of what Winroth called the first recension of the
 *Decretum*.[^23] In 1998, Carlos Larrainzar identified Paris,
 Bibliothèque Nationale de France, latin 3884 I, fo. 1 (Pfr) as a
 one-page fragment of a first-recension manuscript of the
-*Decretum*.[^24] And in 2011, Atria Larson discovered that München,
+*Decretum*.[@winroth_making_2000, 32] And in 2011, Atria Larson discovered that München,
 Bayerische Staatsbibliothek, lat. 22272 (Mw) contains an abbreviation of
 the first recension of the *Decretum*.[^25]
 
@@ -478,7 +478,7 @@ Peter Landau suggested in 1984 that Gratian had relied primarily on just
 five formal sources in writing the Decretum: Anselm of Lucca's
 *Collectio canonum*, the pseudo-Ivonian *Collectio Tripartita*, Ivo of
 Chartes's *Panormia*, Gregory of San Grisogono's *Polycarpus*, and an
-anonymous *Collection in Three Books* (*3L*).[^46] (Note that this
+anonymous *Collection in Three Books* (*3L*).[@winroth_making_2000, 15-17] (Note that this
 hypothesis is not universally accepted. Pennington, for example,
 believes that Gratian may have relied on one or more now-lost Central
 Italian collections similar to 9L.)[^47]
@@ -688,39 +688,18 @@ ideological orientation.
 
 [^6]: D.1, c.8. *Decretum Gratiani*, First Recension, edition in
     progress. Anders Winroth, 3/21/2017, 2. English translation from
-    Augustine Thompson and James Gordley, trans., *The Treatise on Laws:
-    (Decretum DD. 1-20)*, Studies in Medieval and Early Modern Canon
-    Law, v. 2 (Washington, D.C: Catholic University of America Press,
-    1993), 7.
+    [@thompson_treatise_1993, 7].
 
 [^7]: D.1, c.12. *Decretum Gratiani*, First Recension, edition in
     progress. Anders Winroth, 3/21/2017, 3.
 
-[^8]: Charles Radding, *The Origins of Medieval Jurisprudence: Pavia and
-    Bologna, 850- 1150* (New Haven: Yale University Press, 1988).
-
 [^9]: Ken: defined so as to sidestep (for now) the controversy over Sg.
 
-[^10]: Anders Winroth, *The Making of Gratian's Decretum* (Cambridge:
-    Cambridge University Press, 2000), 146-148.
-
-[^11]: Anders Winroth, *The Making of Gratian's Decretum* (Cambridge:
-    Cambridge University Press, 2000), 148-151.
-
-[^12]: Anders Winroth, *The Making of Gratian's Decretum* (Cambridge:
-    Cambridge University Press, 2000), 153-156.
-
 [^13]: Chodorow explains Gratian's "deletion" of Roman law as a
-    consequence of what he sees as Gratian's adherence to the party of
-    the papal chancellor Haimeric and proponents of the Concordat of
-    Worms (1122). Stanley Chodorow, *Christian Political Theory and
-    Church Politics in the Mid-Twelfth Century; the Ecclesiology of
-    Gratian's Decretum*, Publications of the Center for Medieval and
-    Renaissance Studies, U.C.L.A., 5 (Berkeley: University of California
-    Press, 1972) 60-63. Extend footnote to include views of Vetulani.
-
-[^14]: Anders Winroth, *The Making of Gratian's Decretum* (Cambridge:
-    Cambridge University Press, 2000), 151-153.
+    consequence of what he sees as Gratian's adherence to the party
+    of the papal chancellor Haimeric and proponents of the Concordat
+    of Worms (1122). [@chodorow_ecclesiology_1972, 60-63] **Extend
+    footnote to include views of Vetulani.**
 
 [^15]: Anders Winroth, "Law Schools in the Twelfth Century," in
     *Mélanges en l'honneur d'Anne Lefebvre-Teillard*, ed. Bernard
@@ -842,9 +821,6 @@ ideological orientation.
     *Handschriftenliste* adhere consistently to the two-letter
     convention, some of the *sigla* supplied by other scholars deviate
     from it, e.g., P, Pfr.)
-
-[^24]: Anders Winroth, *The Making of Gratian's Decretum* (Cambridge:
-    Cambridge University Press, 2000), 32.
 
 [^25]: Atria A. Larson, "An *Abbreviatio* of the First Recension of
     Gratian's Decretum in Munich?", *Bulletin of Medieval Canon Law* 29
@@ -987,8 +963,6 @@ ideological orientation.
 [^45]: Comment on use of Lombard law and Germanic law sources in the
     first-recension version of the *Decretum*, especially in light of
     *Lombarda* glosses in early *Decretum* manuscripts.
-
-[^46]: Anders Winroth, *The Making of Gratian's* Decretum, 15-17.
 
 [^47]: Connect the tradition of research into Gratian's formal sources
     to Kuttner's "Acta and Agenda".
