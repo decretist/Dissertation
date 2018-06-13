@@ -707,19 +707,11 @@ ideological orientation.
     of Worms (1122). [@chodorow_ecclesiology_1972, 60-63] **Extend
     footnote to include views of Vetulani.**
 
-[^15]: Anders Winroth, "Law Schools in the Twelfth Century," in
-    *Mélanges en l'honneur d'Anne Lefebvre-Teillard*, ed. Bernard
-    d'Alteroche et al. (Paris: Éd. Panthéon-Assas, 2009), 1060. For the
-    text of the letter, see Jean Dufour, Gérard Giordanegno, and André
-    Gouron, "L'attrait Des 'Leges': Note Sur La Lettre d'un Moine
-    Victorin (Vers 1124/1127)," *Studia et Documenta Historiae et Iuris*
-    45 (1979): 504--29. For an English translation of the letter, see
-    Anonymous, Letter to Abbot B[ernard III] of Saint-Victor,
-    Marseille (1124/27) in Katherine Ludwig Jansen, Joanna H. Drell, and
-    Frances Andrews, eds., "Roman Law and Legal Studies: Three Texts
-    (ca. 1124-66)," in *Medieval Italy: Texts in Translation*, trans.
-    Sean Gilsdorf, The Middle Ages Series (Philadelphia: University of
-    Pennsylvania Press, 2009), 167--72.
+[^15]: [@winroth_schools_2009, 1060] For the text of the letter,
+    see [@dufour_attrait_1979] For an English translation of the
+    letter, see Anonymous, Letter to Abbot B[ernard III] of
+    Saint-Victor, Marseille (1124/27) in [@jansen_roman_2009,
+    167-172].
 
 [^16]: "[O]mnibus, qui causa studiorum peregrinantur, scolaribus et
     maxime divinarum atque sacrarum legum professoribus hoc nostre
