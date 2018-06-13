@@ -781,10 +781,10 @@ ideological orientation.
     commune*](http://legalhistorysources.com/Law508/CriminalProcedure.htm).
 
 [^20]: R.I. Moore observes that the establishment of the new order
-    brought about by the legal revolution "required another change, no
-    less profound: the replacement of warriors by literate clerks as the
-    agents of government and the confidants of princes." Moore, *The
-    Formation of a Persecuting Society* 2e, 128.
+    brought about by the legal revolution "required another change,
+    no less profound: the replacement of warriors by literate clerks
+    as the agents of government and the confidants of princes."
+    [@moore_formation_2007, 128].
 
 [^21]: John T. Noonan, "Gratian Slept Here: The Changing Identity of the
     Father of the Systematic Study of Canon Law," *Traditio* 35 (January
