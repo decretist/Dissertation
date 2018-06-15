@@ -213,7 +213,22 @@ by starting with all the *dicta* in parts 1 and 2 of the Friedberg
 edition, and then taking away every word that appeared in the
 first-recension *dicta*. For the case statements, I simply used the
 text from the vulgate *Decretum* as it appears in the Friedberg
-edition.
+edition.[^a]
+
+[^a]: **This is perhaps not entirely satisfactory. It would be more
+methodologically consistent with the way in which the samples of
+the first-recension dicta were prepared to apply the differences
+found in Winroth's appendix to the case statements as well, however
+the differences are quite minimal. The only case statement (*thema*)
+for which Winroth notes a textual difference is C.19 d.init.
+(Winroth, 216). The first-recension version of the text omits a
+13-word clause added to the second recension version, seemingly for
+the purpose of piling up descriptive detail. (*unus relicta propria
+ecclesia eo inuito, alter dimissa regulari canonica cenobio se
+contulit*). None of the wordlists used to perform the principle
+components analyses include any of these 13 words, so the use of
+the vulgate rather than a proxy first-recension version of the text
+of C.19 d.init. has no effect on the outcome of these tests.**
 
 Because stylometric analysis for authorship attribution depends on
 the frequencies of prepositions and conjunctions, it is important
@@ -379,5 +394,4 @@ either the one Gratian or two Gratians variety). If we cannot
 satisfactorily answer the question "was there one Gratian or were
 there two?" it is probably because that is not the right question
 to ask.
-
 
