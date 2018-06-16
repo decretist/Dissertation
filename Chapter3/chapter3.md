@@ -9,7 +9,7 @@ abstract: |
   efforts, from the *Summa Parisiensis* on, of legal scholars and
   historians to find the man behind the name Gratian. Here, you
   need to lay out the traditional evidence used for solving this
-  puzzle.  You are lucky that Noonan, Pennington etc. have laid out
+  puzzle. You are lucky that Noonan, Pennington etc. have laid out
   the evidence and played with it for you.\
   – Stan Chodorow
 ---
@@ -38,7 +38,13 @@ been either less interested in, or less aware of, the revival of
 the study of Roman law in the early twelfth century than we think
 he should have been. On the other hand, he seems to have been more
 aware of, and more interested in, the emergence of scholastic
-theology in northern France than we can easily explain.
+theology in northern France than we can easily explain.[^1]
+
+[^1]: See [@kuttner_father_1941]. Kuttner argues is that Gratian
+applied Ivo's program as it had been developed in the intervening
+forty years by scholastic theology, most notably by Abelard, not
+in its original form: scholastic theology got the program from Ivo,
+Gratian got it from scholastic theology. See also [@luscombe_abelard_1969].
 
 Odofredus (†1265), a professor of law at Bologna, claimed that
 Gratian "was staying" (stabat) at the monastery of SS. Felice and
