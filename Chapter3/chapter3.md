@@ -105,3 +105,11 @@ in this regard, citing as late as 1995 Gratian's supposed association
 with the Camaldolese order to advance an argument that he had never
 been a teacher. [@southern_scholastic_1995, 286]. **Include quote!**
 
+Considering the fact that Gratian was universally credited as the
+author of the foundationl textbook for the study of canon law in
+the classical period, one of the truly stellar intellectual
+achievements of the renaissance of the twelfth century, his complete
+absence from the kinds of academic genealogies and origin stories
+that Odofredus (†.1265) handed down to his own Roman law students
+is striking indeed.
+
