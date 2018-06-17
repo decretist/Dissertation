@@ -82,3 +82,26 @@ canons are a last-minute addition, and poorly if at all integrated
 into the argument of the *Decretum*.[@pennington_biography_2014,
 686]
 
+### Gratian's teaching career
+
+Evidence concerning Gratian's career as a teacher of canon law is
+contradictory. On the one hand, most medieval and modern readers
+of the *Decretum* have seen it as a teaching text, both in the sense
+that its intended use (or at least one of its intended uses) was
+as an introductory textbook, and also in the sense that it reflected
+the author's experience as a classroom teacher. On the other hand,
+Gratian's personal obscurity is so profound --- Stephan Kuttner
+compared Gratian to the anonymous builders of Gothic cathedrals ---
+as to suggest a short, or even no, teaching career.[^2][^3]
+
+[^2]: "He is one of those deeply admirable men of pious modesty,
+like the builders of the medieval cathedrals, whose person is hidden
+and effaced completely behind their immortal works." [@kuttner_father_1941,
+4].
+
+[^3]: **Expand: Winroth argues for a short teaching career, Southern
+agues for no teaching career.** R.W. Southern is the extreme outlier
+in this regard, citing as late as 1995 Gratian's supposed association
+with the Camaldolese order to advance an argument that he had never
+been a teacher. [@southern_scholastic_1995, 286]. **Include quote!**
+
