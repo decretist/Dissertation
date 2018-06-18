@@ -76,7 +76,7 @@ expected if they had been copied from a Vulgate *Decretum*, these
 manuscripts represent an intermediate "next-to-last" stage in the
 development of the *Decretum* text intermediate the pre-Vulgate and
 Vulgate versions. Furthermore, the fact that the Lateran II canons
-*are* present in this "next-to-last" stage undermines the agument
+*are* present in this "next-to-last" stage undermines the argument
 going back to Fransen and supported by Lenherr that the Lateran II
 canons are a last-minute addition, and poorly if at all integrated
 into the argument of the *Decretum*.[@pennington_biography_2014,
@@ -85,14 +85,19 @@ into the argument of the *Decretum*.[@pennington_biography_2014,
 ### Gratian's teaching career
 
 Evidence concerning Gratian's career as a teacher of canon law is
-contradictory. On the one hand, most medieval and modern readers
-of the *Decretum* have seen it as a teaching text, both in the sense
-that its intended use (or at least one of its intended uses) was
-as an introductory textbook, and also in the sense that it reflected
-the author's experience as a classroom teacher. On the other hand,
-Gratian's personal obscurity is so profound --- Stephan Kuttner
-compared Gratian to the anonymous builders of Gothic cathedrals ---
-as to suggest a short, or even no, teaching career.[^2][^3]
+contradictory. Most medieval and modern readers of the *Decretum*
+have seen it as a teaching text, both in the sense that its intended
+use (or at least one of its intended uses) was as an introductory
+textbook, and also in the sense that it reflected the author's
+experience as a classroom teacher. On the one hand, the early
+manuscript tradition for the *Decretum* displays enough variation,
+even among the first-recension manuscripts Aa, Bc, Fd, and P, to
+suggest that the text developed continuously over the span of, and
+in parallel with, a relatively long teaching career --- almost
+certainly a decade or more. On the other hand, Gratian's personal
+obscurity is so profound --- Stephan Kuttner compared Gratian to
+the anonymous builders of Gothic cathedrals[^2] --- as to suggest
+a short, or even no, teaching career.[^3]
 
 [^2]: "He is one of those deeply admirable men of pious modesty,
 like the builders of the medieval cathedrals, whose person is hidden
@@ -103,13 +108,33 @@ and effaced completely behind their immortal works." [@kuttner_father_1941,
 agues for no teaching career.** R.W. Southern is the extreme outlier
 in this regard, citing as late as 1995 Gratian's supposed association
 with the Camaldolese order to advance an argument that he had never
-been a teacher. [@southern_scholastic_1995, 286]. **Include quote!**
+been a teacher: "Reliable writers after his death affirmed that
+Gratian was a Benedictine monk of the Camaldolesian Order, a small
+Italian branch of the Benedictines, which combined austerity of
+life with considerable freedom to contribute to the work of the
+Church in a wide variety of ways. This is what Gratian did. He
+engaged in a very un-monastic branch of study, and produced a law
+book which became the most widely distributed and probably most
+generally used of all the masterpieces of twelfth-century learning."
+"the book, and not the teaching of pupils, was the offering Gratian's
+monastic life brought to the Church". [@southern_scholastic_1995,
+286-287, 304]. Southern also asserts that no one claims to have been Gratian's
+student --- "none of the earliest users of his work claims to have
+been taught by him". "although other scholars made some very early
+alterations and additions to the text of the *Decretum*, none of
+them claimed to have been taught by him." [@southern_scholastic_1995,
+287, 304].
 
 Considering the fact that Gratian was universally credited as the
-author of the foundationl textbook for the study of canon law in
+author of the foundational textbook for the study of canon law in
 the classical period, one of the truly stellar intellectual
 achievements of the renaissance of the twelfth century, his complete
 absence from the kinds of academic genealogies and origin stories
 that Odofredus (†.1265) handed down to his own Roman law students
 is striking indeed.
+
+We might be better able to assess Gratian's teaching career and how
+it influenced the development and transmission of the *Decretum*
+were we in a position to positively identify at least a few of his
+students. Here again, however, the evidence is mixed at best.
 
