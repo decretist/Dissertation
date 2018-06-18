@@ -595,7 +595,7 @@ older stratum of mostly chronologically arranged canonical collections.
 To a certain extent, it was formal sources (almost) all the way down.
 Gratian was selecting from a body of canonical material that had already
 passed through a fairly rigorous filtering process, and two of the most
-important filters -- the ninth-century pseudo-Isidorean forgers and the
+important filters -- the ninth-century pseudo-Isidorian forgers and the
 eleventh-century Gregorian reformers -- had had an extremely strong
 ideological orientation.
 
