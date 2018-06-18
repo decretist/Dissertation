@@ -1,8 +1,5 @@
-draft.docx:	draft.md project.bib reference.docx
-	pandoc -o draft.docx --filter pandoc-citeproc --reference-doc=reference.docx draft.md
-
-reference.docx:
-	pandoc --print-default-data-file reference.docx > reference.docx
+draft.docx:	draft.md project.bib ../reference/reference.docx
+	pandoc -o draft.docx --filter pandoc-citeproc --reference-doc=../reference/reference.docx draft.md
 
 clean:
 	rm -i draft.docx
