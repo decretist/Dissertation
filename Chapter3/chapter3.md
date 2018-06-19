@@ -118,20 +118,32 @@ book which became the most widely distributed and probably most
 generally used of all the masterpieces of twelfth-century learning."
 "the book, and not the teaching of pupils, was the offering Gratian's
 monastic life brought to the Church". [@southern_scholastic_1995,
-286-287, 304]. Southern also asserts that no one claims to have been Gratian's
-student --- "none of the earliest users of his work claims to have
-been taught by him". "although other scholars made some very early
-alterations and additions to the text of the *Decretum*, none of
-them claimed to have been taught by him." [@southern_scholastic_1995,
-287, 304].
+286-287, 304]. Southern also asserts that no one claims to have
+been Gratian's student --- "none of the earliest users of his work
+claims to have been taught by him". "although other scholars made
+some very early alterations and additions to the text of the
+*Decretum*, none of them claimed to have been taught by him."
+[@southern_scholastic_1995, 287, 304].
 
 Considering the fact that Gratian was universally credited as the
 author of the foundational textbook for the study of canon law in
 the classical period, one of the truly stellar intellectual
 achievements of the renaissance of the twelfth century, his complete
 absence from the kinds of academic genealogies and origin stories
-that Odofredus (†.1265) handed down to his own Roman law students
-is striking indeed.
+that Odofredus (†1265) handed down to his own Roman law students
+is striking indeed.[^4]
+
+[^4]: **Expand:** The tradition of Roman law teaching in Bologna
+preserved an elaborate genealogy of masters and their students:
+Pepo preceded Wernerius [Irnerius], who taught the Four Doctors.
+Odofredus is an important source for this tradition, and his remarks
+about Irnerius can be found in his commentary on *Dig.* 1.1.6.
+Odofredus, *Lectura super Digesto veteri*, (2 volumes, Lyon:
+1550-1552; repr. Bologna 1967-1968). For a short excerpt from the
+Latin text with accompanying English translation, see
+[@radding_origins_1988, 159-160] **See also Pennington "Big Bang".**
+Note that Odofredus is also the source for associating Gratian with
+the monastery of SS. Felix and Nabor. [@noonan_gratian_1979, 148].
 
 We might be better able to assess Gratian's teaching career and how
 it influenced the development and transmission of the *Decretum*
