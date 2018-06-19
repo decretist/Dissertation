@@ -146,7 +146,23 @@ Note that Odofredus is also the source for associating Gratian with
 the monastery of SS. Felix and Nabor. [@noonan_gratian_1979, 148].
 
 We might be better able to assess Gratian's teaching career and how
-it influenced the development and transmission of the *Decretum*
+it influenced the compilation and transmission of the *Decretum*
 were we in a position to positively identify at least a few of his
-students. Here again, however, the evidence is mixed at best.
+students. Here again, however, the evidence is mixed at best. Three
+twelfth-century canonist have, with varying degrees of plausibility,
+been identified as having been students of Gratian: Paucapalea (fl.
+1140s), Simon of Bisignano (fl. 1174--1179), Omnebene (d. 1185).
+
+Pennington flatly states that Paucapalea was "[a] pupil of Gratian
+and the author of the first commentary on the Decretum".[^5] But
+in the preface to that commentary, Paucapalea does not refer to
+Gratian by name: "*Magistri autem hoc opus condentis ipsa decreta
+sunt materia.* The decrees themselves, however, are the subject
+matter of the master producing this work."[^6]
+
+[^5]: Kenneth Pennington,
+[Paucapalea](http://amesfoundation.law.harvard.edu/BioBibCanonists/Report_Biobib2.php?record_id=a366),
+*Bio-Bibliographic Guide to Medieval and Early Modern Jurists.*
+
+[^6]: [@paucapalea_summa_1890, 3] [@somerville_prefaces_1998, 184]
 
