@@ -1,7 +1,7 @@
 ---
 author: Paul Evans
 bibliography: chapter3.bib
-csl: chicago-fullnote-bibliography.csl
+csl: ../csl/chicago-fullnote-bibliography.csl
 reference-section-title: Bibliography
 title: Chapter 3
 abstract: |
@@ -153,16 +153,44 @@ twelfth-century canonist have, with varying degrees of plausibility,
 been identified as having been students of Gratian: Paucapalea (fl.
 1140s), Simon of Bisignano (fl. 1174--1179), Omnebene (d. 1185).
 
-Pennington flatly states that Paucapalea was "[a] pupil of Gratian
-and the author of the first commentary on the Decretum".[^5] But
-in the preface to that commentary, Paucapalea does not refer to
-Gratian by name: "*Magistri autem hoc opus condentis ipsa decreta
-sunt materia.* The decrees themselves, however, are the subject
-matter of the master producing this work."[^6]
+Paucapalea was easily the most prominent figure from the early
+period of the Bolognese school of decretists who followed in Gratian's
+immediate footsteps. Pennington flatly states that Paucapalea was
+"[a] pupil of Gratian and the author of the first commentary on
+the Decretum".[^5] But in the preface to that commentary, Paucapalea
+does not refer to Gratian by name: "*Magistri autem hoc opus condentis
+ipsa decreta sunt materia.* The decrees themselves, however, are
+the subject matter of the master producing this work."[^6]
 
 [^5]: Kenneth Pennington,
 [Paucapalea](http://amesfoundation.law.harvard.edu/BioBibCanonists/Report_Biobib2.php?record_id=a366),
 *Bio-Bibliographic Guide to Medieval and Early Modern Jurists.*
 
 [^6]: [@paucapalea_summa_1890, 3] [@somerville_prefaces_1998, 184]
+Indeed, based on a search through the OCR text layer of a PDF file
+scanned from the Schulte edition and provided to me by Ken Pennington,
+Paucapalea appears not to refer to Gratian by name anywhere in his
+*summa*.
+
+The omission is potentially significant. Prefaces to academic books
+in the twelfth century formed a recognized genre with well-established
+conventions. In an age resistant to any attempt by the human present
+to appropriate the authority of the divine past, a commentator like
+Paucapalea would have been expected to offer an explicit statement
+in his preface affirming the authority of both the work commented
+on and its author. If Paucapalea had had something to say about the
+authority of Gratian, his readers would have expected him to do so
+in his preface. That he did not suggests that he may not have known
+enough about Gratian to credibly do so.[^7]
+
+[^7]: **Going to need a very heavyweight footnote here referencing
+Minnis.**
+
+Furthermore, Paucapalea in the preface to his *summa* clearly shows
+both that he is aware of the third part of the *Decretum*, *de
+Consecratione*, and that he uncritically accepts it as having been
+compiled by the same Master responsible for the rest of the work:
+"*In extremis de ecclesiarum dedicatione et corpore et sanguine
+domini atque baptismo nec non et confirmatione pleniter tractat,
+et in his suum tractatum terminat.*" [@paucapalea_summa_1890, 3]
 
