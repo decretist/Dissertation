@@ -2,7 +2,7 @@
 title: New evidence for the authorship of case statements and _dicta_ in Gratian's _Decretum_
 author: Paul Evans
 bibliography: project.bib
-csl: chicago-fullnote-bibliography.csl
+csl: ../csl/chicago-fullnote-bibliography.csl
 abstract: |
   Since the discovery by Winroth in 1996 of a first recension of
   Gratian's _Decretum_, there has been scholarly controversy over

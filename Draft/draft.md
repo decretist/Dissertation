@@ -2,7 +2,7 @@
 author: Paul Evans
 date: 31 May 2018
 bibliography: project.bib
-csl: chicago-fullnote-bibliography.csl
+csl: ../csl/chicago-fullnote-bibliography.csl
 reference-section-title: Bibliography
 title: Dissertation
 ---

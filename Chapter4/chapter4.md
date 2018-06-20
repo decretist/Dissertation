@@ -2,7 +2,7 @@
 author: Paul Evans
 date: 20 July 2016
 bibliography: chapter4.bib
-csl: chicago-fullnote-bibliography.csl
+csl: ../csl/chicago-fullnote-bibliography.csl
 reference-section-title: Bibliography
 title: Chapter 4
 subtitle: New evidence for the authorship of case statements and *dicta* in Gratian's *Decretum*

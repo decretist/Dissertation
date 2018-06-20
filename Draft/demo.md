@@ -2,7 +2,7 @@
 title: Key to all Mythologies
 author: Rev. Edward Casaubon
 bibliography: project.bib
-csl: chicago-fullnote-bibliography.csl
+csl: ../csl/chicago-fullnote-bibliography.csl
 ---
 Stylometric analysis can be carried out using any quantifiable
 feature of a text, but for the purpose of authorship attribution, some

@@ -1,7 +1,7 @@
 ---
 author: Paul Evans
 bibliography: chapter1.bib
-csl: chicago-fullnote-bibliography.csl
+csl: ../csl/chicago-fullnote-bibliography.csl
 nocite: |
   @*
 reference-section-title: Bibliography

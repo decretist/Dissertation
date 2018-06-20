@@ -2,7 +2,7 @@
 author: Paul Evans
 date: 6 November 2017
 bibliography: chapter1.bib
-csl: chicago-fullnote-bibliography.csl
+csl: ../csl/chicago-fullnote-bibliography.csl
 reference-section-title: Bibliography
 title: Chapter 1
 ---
