@@ -940,23 +940,22 @@ ideological orientation.
 [^43]: First recension D.15 c.3, §1-§16 in Friedberg, §2-§17 in Thompson
     and Gordley.
 
-[^44]: "The *Moralia*: based on talks Gregory gave on the Book of Job to
-    his 'brethren' who accompanied him to Constantinople while he held
-    the office of papal *apocrisiarius* (see above). The work as we have
-    it is the result of Gregory's revision and completion of it soon
-    after his accession to the papal office." R. A. Markus, *Gregory the
-    Great and His World* (Cambridge ; New York: Cambridge University
-    Press, 1997) 15. Verify that Gratian uses *Moralia in Job* in the
-    first recension of the *Decretum*, and that it is one of the few
-    texts where Gratian uses the material source directly, like Isidore
-    of Seville's *Etymologies*.
+[^44]: "The *Moralia*: based on talks Gregory gave on the Book of
+    Job to his 'brethren' who accompanied him to Constantinople
+    while he held the office of papal *apocrisiarius* (see above).
+    The work as we have it is the result of Gregory's revision and
+    completion of it soon after his accession to the papal office."
+    [@markus_gregory_1997, 15] Verify that Gratian uses *Moralia
+    in Job* in the first recension of the *Decretum*, and that it
+    is one of the few texts where Gratian uses the material source
+    directly, like Isidore of Seville's *Etymologies*.
 
-[^45]: Comment on use of Lombard law and Germanic law sources in the
-    first-recension version of the *Decretum*, especially in light of
-    *Lombarda* glosses in early *Decretum* manuscripts.
+[^45]: Comment on use of Lombard law and Germanic law sources in
+    the first-recension version of the *Decretum*, especially in
+    light of *Lombarda* glosses in early *Decretum* manuscripts.
 
-[^47]: Connect the tradition of research into Gratian's formal sources
-    to Kuttner's "Acta and Agenda".
+[^47]: Connect the tradition of research into Gratian's formal
+    sources to Kuttner's "Acta and Agenda".
 
 [^48]: See [@de_jong_penitential_2009].
 
