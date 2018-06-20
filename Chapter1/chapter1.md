@@ -958,9 +958,7 @@ ideological orientation.
 [^47]: Connect the tradition of research into Gratian's formal sources
     to Kuttner's "Acta and Agenda".
 
-[^48]: See Mayke De Jong, *The Penitential State: Authority and
-    Atonement in the Age of Louis the Pious, 814-840* (Cambridge, UK ;
-    New York: Cambridge University Press, 2009).
+[^48]: See [@de_jong_penitential_2009].
 
 [^49]: For the much-criticized 1863 edition, see Paul Hinschius, ed.,
     *Decretales Pseudo-Isidorianae, et, Capitula Angilramni: Ad Fidem
