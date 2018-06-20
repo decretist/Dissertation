@@ -184,7 +184,7 @@ in his preface. That he did not suggests that he may not have known
 enough about Gratian to credibly do so.[^10]
 
 [^10]: **Going to need a very heavyweight footnote here referencing
-Minnis.**
+Minnis.** [@minnis_medieval_1988] [@hunt_introductions_1980]
 
 Furthermore, Paucapalea in the preface to his *summa* clearly shows
 both that he is aware of the third part of the *Decretum*, *de
