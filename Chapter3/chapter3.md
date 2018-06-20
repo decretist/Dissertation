@@ -38,9 +38,9 @@ been either less interested in, or less aware of, the revival of
 the study of Roman law in the early twelfth century than we think
 he should have been. On the other hand, he seems to have been more
 aware of, and more interested in, the emergence of scholastic
-theology in northern France than we can easily explain.[^1]
+theology in northern France than we can easily explain.[^3]
 
-[^1]: See [@kuttner_father_1941]. Kuttner argues is that Gratian
+[^3]: See [@kuttner_father_1941]. Kuttner argues is that Gratian
 applied Ivo's program as it had been developed in the intervening
 forty years by scholastic theology, most notably by Abelard, not
 in its original form: scholastic theology got the program from Ivo,
@@ -96,15 +96,15 @@ suggest that the text developed continuously over the span of, and
 in parallel with, a relatively long teaching career --- almost
 certainly a decade or more. On the other hand, Gratian's personal
 obscurity is so profound --- Stephan Kuttner compared Gratian to
-the anonymous builders of Gothic cathedrals[^2] --- as to suggest
-a short, or even no, teaching career.[^3]
+the anonymous builders of Gothic cathedrals[^5] --- as to suggest
+a short, or even no, teaching career.[^6]
 
-[^2]: "He is one of those deeply admirable men of pious modesty,
+[^5]: "He is one of those deeply admirable men of pious modesty,
 like the builders of the medieval cathedrals, whose person is hidden
 and effaced completely behind their immortal works." [@kuttner_father_1941,
 4].
 
-[^3]: **Expand: Winroth argues for a short teaching career, Southern
+[^6]: **Expand: Winroth argues for a short teaching career, Southern
 agues for no teaching career.** R.W. Southern is the extreme outlier
 in this regard, citing as late as 1995 Gratian's supposed association
 with the Camaldolese order to advance an argument that he had never
@@ -131,9 +131,9 @@ the classical period, one of the truly stellar intellectual
 achievements of the renaissance of the twelfth century, his complete
 absence from the kinds of academic genealogies and origin stories
 that Odofredus (†1265) handed down to his own Roman law students
-is striking indeed.[^4]
+is striking indeed.[^7]
 
-[^4]: **Expand:** The tradition of Roman law teaching in Bologna
+[^7]: **Expand:** The tradition of Roman law teaching in Bologna
 preserved an elaborate genealogy of masters and their students:
 Pepo preceded Wernerius [Irnerius], who taught the Four Doctors.
 Odofredus is an important source for this tradition, and his remarks
@@ -157,16 +157,16 @@ Paucapalea was easily the most prominent figure from the early
 period of the Bolognese school of decretists who followed in Gratian's
 immediate footsteps. Pennington flatly states that Paucapalea was
 "[a] pupil of Gratian and the author of the first commentary on
-the Decretum".[^5] But in the preface to that commentary, Paucapalea
+the Decretum".[^8] But in the preface to that commentary, Paucapalea
 does not refer to Gratian by name: "*Magistri autem hoc opus condentis
 ipsa decreta sunt materia.* The decrees themselves, however, are
-the subject matter of the master producing this work."[^6]
+the subject matter of the master producing this work."[^9]
 
-[^5]: Kenneth Pennington,
+[^8]: Kenneth Pennington,
 [Paucapalea](http://amesfoundation.law.harvard.edu/BioBibCanonists/Report_Biobib2.php?record_id=a366),
 *Bio-Bibliographic Guide to Medieval and Early Modern Jurists.*
 
-[^6]: [@paucapalea_summa_1890, 3] [@somerville_prefaces_1998, 184]
+[^9]: [@paucapalea_summa_1890, 3] [@somerville_prefaces_1998, 184]
 Indeed, based on a search through the OCR text layer of a PDF file
 scanned from the Schulte edition and provided to me by Ken Pennington,
 Paucapalea appears not to refer to Gratian by name anywhere in his
@@ -181,9 +181,9 @@ in his preface affirming the authority of both the work commented
 on and its author. If Paucapalea had had something to say about the
 authority of Gratian, his readers would have expected him to do so
 in his preface. That he did not suggests that he may not have known
-enough about Gratian to credibly do so.[^7]
+enough about Gratian to credibly do so.[^10]
 
-[^7]: **Going to need a very heavyweight footnote here referencing
+[^10]: **Going to need a very heavyweight footnote here referencing
 Minnis.**
 
 Furthermore, Paucapalea in the preface to his *summa* clearly shows
@@ -192,5 +192,12 @@ Consecratione*, and that he uncritically accepts it as having been
 compiled by the same Master responsible for the rest of the work:
 "*In extremis de ecclesiarum dedicatione et corpore et sanguine
 domini atque baptismo nec non et confirmatione pleniter tractat,
-et in his suum tractatum terminat.*" [@paucapalea_summa_1890, 3]
+et in his suum tractatum terminat.* In the end, he treats fully the
+dedication of churches, the body and blood of the Lord, baptism,
+and also confirmation, and with these things concludes his treatise."[^11]
+
+[^11]: [@paucapalea_summa_1890, 3] [@somerville_prefaces_1998, 184-185]
+
+If Rambaud is correct, this indicates that Paucapalea was personally
+unfamiliar with the author and his plan of work.
 
