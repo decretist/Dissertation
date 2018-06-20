@@ -880,16 +880,10 @@ ideological orientation.
 
 [^31]: Define systematic vs. chronological canonical collections?
 
-[^32]: The prolog was prepended (in slightly different forms) to both
-    the *Decretum* and *Panormia* of Ivo of Chartres. For the edited
-    Latin text, see Bruce Clark Brasington, ed., *Ways of Mercy: The
-    Prologue of Ivo of Chartres ; Edition and Analysis*, Vita Regularis,
-    Bd. 2 (Münster : Piscataway, N.J: LIT ; Distributed in North America
-    by Transaction Publishers, 2004). For an
-    English translation, see Robert Somerville and Bruce Clark
-    Brasington, eds., *Prefaces to Canon Law Books in Latin
-    Christianity: Selected Translations, 500-1245* (New Haven, Conn:
-    Yale University Press, 1998), 132-158.
+[^32]: The prologue was prepended (in slightly different forms) to
+    both the *Decretum* and *Panormia* of Ivo of Chartres. For the
+    edited Latin text, see [@brasington_ways_2004] For an English
+    translation, see [@somerville_prefaces_1998, 132-158].
 
 [^33]: Especially in *de Penitentia*.
 
