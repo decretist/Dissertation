@@ -887,19 +887,18 @@ ideological orientation.
 
 [^33]: Especially in *de Penitentia*.
 
-[^34]: "There are two difficulties when this authorship comes to be
-    determined. One is that the *Concordia* is a book in three
+[^34]: "There are two difficulties when this authorship comes to
+    be determined. One is that the *Concordia* is a book in three
     distinctive parts, with several distinctive sections within the
-    parts, and these parts have undergone editing as to chapter heading,
-    chapter insertions, and chapter order. Whatever the later formal
-    ascription, is Gratian responsible for all these parts? The other
-    difficulty is the range of roles the one 'responsible' person might
-    have had -- compiler, commentator, rubricator, reviser. Was Gratian
-    one or all? The difficulties relate to one another, because evidence
-    that Gratian was, say, the commentator of Part II does not establish
-    what role he had in Part I." John T. Noonan, "Gratian Slept Here:
-    The Changing Identity of the Father of the Systematic Study of Canon
-    Law," *Traditio* 35 (January 1, 1979): 162-163.
+    parts, and these parts have undergone editing as to chapter
+    heading, chapter insertions, and chapter order. Whatever the
+    later formal ascription, is Gratian responsible for all these
+    parts? The other difficulty is the range of roles the one
+    'responsible' person might have had -- compiler, commentator,
+    rubricator, reviser. Was Gratian one or all? The difficulties
+    relate to one another, because evidence that Gratian was, say,
+    the commentator of Part II does not establish what role he had
+    in Part I." [@noonan_gratian_1979, 162-163].
 
 [^35]: D.3, c.1-2. *Decretum Gratiani*, First Recension, edition in
     progress. Anders Winroth, 3/21/2017, p.5, l.13-18.
