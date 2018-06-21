@@ -159,7 +159,27 @@ only two function words.
 
 Increasing the number of function words one collects data for
 increases the accuracy of the stylometric analysis (up to a point).
-But it also introduces a new problem. We were able to represent our
+The reason that there is a limit to the marginal value of each
+additional word included in the analysis is that word frequencies
+in a sample of text fall off approximately according to an observed
+empirical relationship know as Zipf's law. If the words in a sample
+are rank-ordered from most to least frequent, Zipf's laws postulates
+that, as a first-order approximation, the frequency of each word
+will be 1/N times that of the most frequent word, where N is the
+rank.^[**Footnote Jockers. Renumber footnotes. I need to provide
+examples with numbers that agree with the data for *in* and *non*
+above. In reality, the word frequencies for the *dicta* do not
+appear to drop off nearly as sharply as Zipf's law (1/N) would
+predict. I also need to address the issue that as the wordlist
+extends downward, the mix shifts from disproportionately function
+words to disproportionately content word. 16 of the first 20 words
+are function words usable for analysis (even if I discard *si* for
+other reasons), but I have to go all the way down to 240 to get
+somewhere in the neighborhood of 50 suitable function words for
+analysis.**]
+
+But increasing the number of function words also introduces a new problem.
+We were able to represent our
 stylometric analysis of the frequency of "*in*" and "*non*" in the
 samples from the first- and second-recension *dicta* on a two-dimensional
 graph. But there will be as many dimensions on the graph as there
