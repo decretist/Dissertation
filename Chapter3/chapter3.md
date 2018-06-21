@@ -48,7 +48,7 @@ Gratian got it from scholastic theology. See also [@luscombe_abelard_1969].
 
 Odofredus (†1265), a professor of law at Bologna, claimed that
 Gratian "was staying" (stabat) at the monastery of SS. Felice and
-Nabor while working as a rubricator. Odofredus did not indicate the
+Nabor while working as a rubricator.[^a] Odofredus did not indicate the
 basis for his statement that Gratian had been a resident of SS.
 Felice and Nabor, nor did he say that Gratian had been a monk. In
 1758, Camaldolese scholars Mittarelli and Costadono discovered papal
@@ -59,6 +59,22 @@ intervening years. The claim that Gratian had a connection to the
 Camaldolese order attracted criticism in the eighteenth century,
 and fell out of favor in the nineteenth century, but was put back
 into circulation in the mid-twentieth century by Van Hove.
+
+[^a]: Noonan identifies Odofredus as the source for associating
+Gratian with SS. Felix and Nabor ([-@noonan_gratian_1979, 148]),
+but cf. [@southern_scholastic_1995, 286n5]. Southern draws attention
+to an inscription found in a Geneva manuscript of the *Decretum*,
+Bibliothèque publique et universitaire, MS Lat. 60: *Anno domini
+MCL a Gratiano S. Feliciani Bononiensis monacho editum*. Pennington
+does not identify the manuscript as one known to date from the
+twelfth century (see
+[Gratianus](http://amesfoundation.law.harvard.edu/BioBibCanonists/Report_Biobib2.php?record_id=a242)
+in Bio-Bibliographical Guide to Medieval and Early Modern Jurists),
+and of course there is no way of knowing how long after the manuscript
+was produced the inscription was added. The value of the inscription
+as independent evidence attesting to a connection between Gratian
+and SS. Felix and Nabor is therefore unknown, but it is possible
+that it predates Odofredus.
 
 Noonan (†2017) was a distinguished professor of law and an appellate
 judge who applied the standards of evidence of the law school and
