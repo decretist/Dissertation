@@ -109,8 +109,18 @@ explores the sources of law. Other topics covered include ecclesiastical
 hierarchy and clerical discipline. The second part consists of 36
 cases. A treatise on penance (*tractatus de penitentia*) is attached
 to the third question of case 33. The third part of the *Decretum*
-is a treatise on consecration (*tractatus de consecratione*).
+is a treatise on sacraments (*tractatus de consecratione*).
 [@winroth_making_2000, 5]
+
+Contemporaries like Rufinus and Stephen of Tournai understood the
+parts to treat respectively of ministries, business or problems,
+and sacraments: "... he divides his book into three parts, the first
+of which he devotes to ecclesiastical ministries, the second to
+[ecclesiastical] business, and the third to ecclesiastical sacraments."
+(Rufinus)[@somerville_prefaces_1998, 192-193] "The first of these
+parts is devoted to ecclesiastical ministries, the second to
+ecclesiastical problems, the third to ecclesiastical sacraments."
+(Stephen of Tournai)[@somerville_prefaces_1998, 201]
 
 The cases are hypotheticals like those used in modern law schools, and
 some of them are quite far-fetched. In case 28, for example, a married
@@ -125,6 +135,14 @@ be marriage between infidels, whether there is ever a situation in which
 a man can take another wife if his previous wife is still alive; and
 whether someone who had one wife before he was baptized and another wife
 after he was baptized should be considered a bigamist.
+
+The third part, *de Consecratione*, is problematic in several ways.
+That *de Cons.* is a very late addition is not in doubt -- it is
+absent from all first-recension (R1) manuscripts, nor was it included
+in the earliest manuscripts of the more widely circulated
+second-recension (R2) version of the *Decretum* as indicated by
+glosses found in the Gt, Pf, and Tr manuscripts describing Gratian's
+work as "principally divided into two parts."
 
 ## *Correctores Romani* edition (1582)
 
