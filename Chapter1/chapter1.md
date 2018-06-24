@@ -844,22 +844,18 @@ ideological orientation.
     ..." [@mclaughlin_summa_1952, 1] (Paucapalea arranged the
     distinctions in the first part and the last, trans. PLE)
 
-[^30]: Cf. Atria A. Larson, *Master of Penance: Gratian and the
-    Development of Penitential Thought and Law in the Twelfth Century*,
-    Studies in Medieval and Early Modern Canon Law, volume 11
-    (Washington, D.C: The Catholic University of America Press, 2014)
-    12-13, fn.30. "My refusal to apply the standard label of 'canonical
-    collection' to the *Decretum* is meant to make clear that I do not
-    classify the rest of the *Decretum Gratiani* as a canonical
-    collection in the exact way that the work of Regino, Burchard,
-    Anselm of Lucca, or even Ivo of Chartres (and many anonymous
-    compilers) was, and yet it was a canonical collection in many
-    respects, especially considering much of its source material and how
-    it was used. Many abbreviations of the *Decretum*, for instance, are
-    clear testimony that some religious houses and episcopal courts
-    wanted the canons, not the *dicta*; they wanted a pure canonical
-    collection that could serve as a reference manual to the church's
-    law."
+[^30]: Cf. [@larson_master_2014, 12-13, n30] "My refusal to apply
+    the standard label of 'canonical collection' to the *Decretum*
+    is meant to make clear that I do not classify the rest of the
+    *Decretum Gratiani* as a canonical collection in the exact way
+    that the work of Regino, Burchard, Anselm of Lucca, or even Ivo
+    of Chartres (and many anonymous compilers) was, and yet it was
+    a canonical collection in many respects, especially considering
+    much of its source material and how it was used. Many abbreviations
+    of the *Decretum*, for instance, are clear testimony that some
+    religious houses and episcopal courts wanted the canons, not
+    the *dicta*; they wanted a pure canonical collection that could
+    serve as a reference manual to the church's law."
 
 [^31]: Define systematic vs. chronological canonical collections?
 
@@ -883,45 +879,42 @@ ideological orientation.
     the commentator of Part II does not establish what role he had
     in Part I." [@noonan_gratian_1979, 162-163].
 
-[^35]: D.3, c.1-2. *Decretum Gratiani*, First Recension, edition in
-    progress. Anders Winroth, 3/21/2017, p.5, l.13-18.
+[^35]: D.3, c.1-2. *Decretum Gratiani*, First Recension, edition
+    in progress. Anders Winroth, 3/21/2017, p.5, l.13-18.
 
 [^36]: "Porro canonum alii sunt decreta Pontificum, alii statuta
     conciliorum." D.3, d.p.c.2. *Decretum Gratiani*, First Recension,
     edition in progress. Anders Winroth, 3/21/2017, p.5, l.19-20.
 
-[^37]: In addition to genuine papal material, for example a large number
-    of excerpts from the register containing the letters of Gregory I,
-    Gratian used a number of pseudo-papal sources, which will be
-    discussed below in the context of Gratian's formal sources.
+[^37]: In addition to genuine papal material, for example a large
+    number of excerpts from the register containing the letters of
+    Gregory I, Gratian used a number of pseudo-papal sources, which
+    will be discussed below in the context of Gratian's formal
+    sources.
 
-[^38]: JK 255. Jaffé, Philipp. *Regesta pontificum romanorum ab condita
-    ecclesia ad annum post Christum natum MCXCVIII.* 2nd ed. corrected &
-    supplemented by Samuel Loewenfeld, Ferdinand Kaltenbrunner & Paul
-    Ewald. 2 vols. Graz, 1956. p. 40 [Regenerate footnote from
-    Zotero.] ["Register of papal letters to 1198. Reflecting the
-    editors who contributed to various time periods, the work is
-    conventionally given an abbreviated citation as JK to the year 590,
-    JE for 590-882 and JL for 883-1198." [Papal Documents: A Finding Aid
-    | Columbia University
+[^38]: JK 255. [@jaffe_regesta_1956, 40] ["Register of papal letters
+    to 1198. Reflecting the editors who contributed to various time
+    periods, the work is conventionally given an abbreviated citation
+    as JK to the year 590, JE for 590-882 and JL for 883-1198."
+    [Papal Documents: A Finding Aid | Columbia University
     Libraries](http://library.columbia.edu/locations/butler/medieval-studies/guides/papaldoc.html)]
 
-[^39]: D.3, d.p.c.2. *Decretum Gratiani*, First Recension, edition in
-    progress. Anders Winroth, 3/21/2017.
+[^39]: D.3, d.p.c.2. *Decretum Gratiani*, First Recension, edition
+    in progress. Anders Winroth, 3/21/2017.
 
-[^40]: D.16, c.11. *Decretum Gratiani*, First Recension, edition in
-    progress. Anders Winroth, 3/21/2017. p.32, l.7-9.
+[^40]: D.16, c.11. *Decretum Gratiani*, First Recension, edition
+    in progress. Anders Winroth, 3/21/2017. p.32, l.7-9.
 
 [^41]: Verify that the enumeration is in the first recension.
 
-[^42]: Ambrose, Augustine, Gregory the Great, and Jerome were formally
-    recognized as doctors by Boniface VIII in 1298 in the *Liber*
-    *Sextus*, VI 3.22, *Gloriosus Deus in sanctis suis* in *De reliquiis
-    et veneratione sanctorum* (edF 2.1059-1060). Leo the Great was only
-    added to the list in 1754.
+[^42]: Ambrose, Augustine, Gregory the Great, and Jerome were
+    formally recognized as doctors by Boniface VIII in 1298 in the
+    *Liber* *Sextus*, VI 3.22, *Gloriosus Deus in sanctis suis* in
+    *De reliquiis et veneratione sanctorum* (edF 2.1059-1060). Leo
+    the Great was only added to the list in 1754.
 
-[^43]: First recension D.15 c.3, §1-§16 in Friedberg, §2-§17 in Thompson
-    and Gordley.
+[^43]: First recension D.15 c.3, §1-§16 in Friedberg, §2-§17 in
+    Thompson and Gordley.
 
 [^44]: "The *Moralia*: based on talks Gregory gave on the Book of
     Job to his 'brethren' who accompanied him to Constantinople
