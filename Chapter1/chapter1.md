@@ -252,31 +252,33 @@ and lives, of women and men in the real world.
 
 ## The *Decretum*
 
-The *Decretum* represents a towering intellectual achievement of the
-renaissance of the twelfth century that ushered in the high middle ages
-in Europe. But whose achievement was it? In particular, is the
-*Decretum* the achievement of a single author, or was it the product of
-a collaborative authorship? Because so little is reliably known about
-the historical Gratian, and because almost everything that previous
-generations thought was known about Gratian has proved, on closer
-examination, to be myth,[^21] it is best to make our first approach
-(*accessus*) to the author through his text.[^22] The approach is made
-more difficult by the fact that, like many modern university textbooks,
-the *Decretum* underwent at least one major revision, and was probably
-the product of a process of continuous revision.
+The *Decretum* represents a towering intellectual achievement of
+the renaissance of the twelfth century that ushered in the high
+middle ages in Europe. But whose achievement was it? In particular,
+is the *Decretum* the achievement of a single author, or was it the
+product of a collaborative authorship? Because so little is reliably
+known about the historical Gratian, and because almost everything
+that previous generations thought was known about Gratian has proved,
+on closer examination, to be myth,[@noonan_gratian_1979] it is best
+to make our first approach (*accessus*) to the author through his
+text.[^22] The approach is made more difficult by the fact that,
+like many modern university textbooks, the *Decretum* underwent at
+least one major revision, and was probably the product of a process
+of continuous revision.
 
 In 1996, Anders Winroth discovered that four surviving twelfth-century
-manuscripts -- Florence, Biblioteca Nazionale Centrale, Conv. Soppr. A.
-1.402 (Fd); Barcelona, Arxiu de la Corona d'Aragó, Santa Maria de Ripoll
-78 (Bc); Paris, Bibliothèque Nationale de France, nouvelles acquisitions
-latines 1761 (P); and Admont, Stiftsbibliothek 23 and 43 (Aa) --
-preserve the text of what Winroth called the first recension of the
-*Decretum*.[^23] In 1998, Carlos Larrainzar identified Paris,
-Bibliothèque Nationale de France, latin 3884 I, fo. 1 (Pfr) as a
-one-page fragment of a first-recension manuscript of the
-*Decretum*.[@winroth_making_2000, 32] And in 2011, Atria Larson discovered that München,
-Bayerische Staatsbibliothek, lat. 22272 (Mw) contains an abbreviation of
-the first recension of the *Decretum*.[^25]
+manuscripts -- Florence, Biblioteca Nazionale Centrale, Conv. Soppr.
+A. 1.402 (Fd); Barcelona, Arxiu de la Corona d'Aragó, Santa Maria
+de Ripoll 78 (Bc); Paris, Bibliothèque Nationale de France, nouvelles
+acquisitions latines 1761 (P); and Admont, Stiftsbibliothek 23 and
+43 (Aa) -- preserve the text of what Winroth called the first
+recension of the *Decretum*.[^23] In 1998, Carlos Larrainzar
+identified Paris, Bibliothèque Nationale de France, latin 3884 I,
+fo. 1 (Pfr) as a one-page fragment of a first-recension manuscript
+of the *Decretum*.[@winroth_making_2000, 32] And in 2011, Atria
+Larson discovered that München, Bayerische Staatsbibliothek, lat.
+22272 (Mw) contains an abbreviation of the first recension of the
+*Decretum*.[@larson_abbreviatio_2011]
 
 Winroth's discovery of the first recension suggests one obvious way in
 which it might be problematic to refer simplistically to Gratian as the
@@ -713,24 +715,20 @@ ideological orientation.
     Saint-Victor, Marseille (1124/27) in [@jansen_roman_2009,
     167-172].
 
-[^16]: "[O]mnibus, qui causa studiorum peregrinantur, scolaribus et
-    maxime divinarum atque sacrarum legum professoribus hoc nostre
-    pietatis beneficium indulgemus, ut ad loca, in quibus litterarum
-    exercentur studium, tam ipsi quam eorum nuntii veniant et habitent
-    in eis securi." Heinrich Appelt with Rainer Maria Herkenrath, and
-    Walter Koch, eds., *Friderici I. Diplomata inde ab a. MCLVIII usque
-    ad a. MCLXVII*, vol. 10/2, MGH DD F I (Hannover: Hahn, 1979),
-    [39](http://www.dmgh.de/de/fs1/object/display/bsb00000457_00048.html).
-    "[W]e bestow this pious gift upon all
-    who travel for the purpose of study, students and especially
-    teachers of divine and sacred laws: namely, that they as well as
-    their messengers may travel safely to the place where they are
-    engaged in the study of letters and safely dwell there." Katherine
-    Ludwig Jansen, Joanna H. Drell, and Frances Andrews, eds., "Roman
-    Law and Legal Studies: Three Texts (ca. 1124-66)," in *Medieval
-    Italy: Texts in Translation*, trans. Sean Gilsdorf, The Middle Ages
-    Series (Philadelphia: University of Pennsylvania Press, 2009),
-    167--72.
+[^16]: "[O]mnibus, qui causa studiorum peregrinantur, scolaribus
+    et maxime divinarum atque sacrarum legum professoribus hoc
+    nostre pietatis beneficium indulgemus, ut ad loca, in quibus
+    litterarum exercentur studium, tam ipsi quam eorum nuntii veniant
+    et habitent in eis securi." Heinrich Appelt with Rainer Maria
+    Herkenrath, and Walter Koch, eds., *Friderici I. Diplomata inde
+    ab a. MCLVIII usque ad a. MCLXVII*, vol. 10/2, MGH DD F I
+    (Hannover: Hahn, 1979), 39. **Regenerate footnote from Zotero,
+    BibTeX, and Pandoc.** [@appelt_urkunden_1979, 39]. "[W]e bestow
+    this pious gift upon all who travel for the purpose of study,
+    students and especially teachers of divine and sacred laws:
+    namely, that they as well as their messengers may travel safely
+    to the place where they are engaged in the study of letters and
+    safely dwell there." [@jansen_roman_2009, 167-72].
 
     The date of *Authentica Habita* is uncertain. Frederick ordered
     the constitution inserted into the *Codex* as an act of imperial
@@ -786,80 +784,65 @@ ideological orientation.
     as the agents of government and the confidants of princes."
     [@moore_formation_2007, 128].
 
-[^21]: John T. Noonan, "Gratian Slept Here: The Changing Identity of the
-    Father of the Systematic Study of Canon Law," *Traditio* 35 (January
-    1, 1979): 145--72.
+[^22]: "Given this lack of reliable extrinsic evidence, our best
+    source of evidence about Gratian is his book(s)". [@wei_gratian_2016,
+    33].
 
-[^22]: "Given this lack of reliable extrinsic evidence, our best source
-    of evidence about Gratian is his book(s)". John C. Wei, *Gratian the
-    Theologian*, Studies in Medieval and Early Modern Canon Law, Volume
-    13 (Washington, D.C: Catholic University of America Press, 2016),
-    33.
-
-[^23]: Manuscripts of Gratian's *Decretum* are frequently referred to in
-    recent scholarly literature by two-letter abbreviations or *sigla*
-    derived from their shelfmarks. A reference to Sg (to use a
-    particularly controversial example) is much more compact and
-    memorable than one to Sankt Gallen, Stiftsbibliothek 673. Rudolf
-    Weigand (†1998) generated the original list of *sigla* in the course
-    of his groundbreaking study of early glossed manuscripts of the
-    *Decretum* [Rudolf Weigand, *Die Glossen zum "Dekret" Gratians:
-    Studien zu den Frühen Glossen und Glosskompositionen*, Studia
-    Gratiana 25--26 (Rome, 1991)]. In the context of Weigand's study
-    early means before 1216, when Johannes Teutonicus (†1245) finalized
-    the ordinary gloss, or standardized commentary, on the *Decretum*.
-    Manuscripts falling outside the original scope of Weigand's
-    investigation are now assigned *sigla* following the pattern he set.
-    For example, Paris, Bibliothèque Nationale de France, nouvelles
-    acquisitions latines 1761, although an extremely important and early
-    (possible the earliest) manuscript of the *Decretum*, was not
-    glossed, and was therefore not assigned a *siglum* by Weigand.
-    Winroth (verify) supplied the *siglum* P by which the manuscript is
-    now commonly identified. (Although the *sigla* in Weigand's
+[^23]: Manuscripts of Gratian's *Decretum* are frequently referred
+    to in recent scholarly literature by two-letter abbreviations
+    or *sigla* derived from their shelfmarks. A reference to Sg (to
+    use a particularly controversial example) is much more compact
+    and memorable than one to Sankt Gallen, Stiftsbibliothek 673.
+    Rudolf Weigand (†1998) generated the original list of *sigla*
+    in the course of his groundbreaking study of early glossed
+    manuscripts of the *Decretum*, [-@weigand_glossen_1991]. In the
+    context of Weigand's study early means before 1216, when Johannes
+    Teutonicus (†1245) finalized the ordinary gloss, or standardized
+    commentary, on the *Decretum*. Manuscripts falling outside the
+    original scope of Weigand's investigation are now assigned
+    *sigla* following the pattern he set. For example, Paris,
+    Bibliothèque Nationale de France, nouvelles acquisitions latines
+    1761, although an extremely important and early (possible the
+    earliest) manuscript of the *Decretum*, was not glossed, and
+    was therefore not assigned a *siglum* by Weigand. **Winroth
+    supplied the *siglum* P by which the manuscript is now commonly
+    identified. (verify)** (Although the *sigla* in Weigand's
     *Handschriftenliste* adhere consistently to the two-letter
-    convention, some of the *sigla* supplied by other scholars deviate
-    from it, e.g., P, Pfr.)
+    convention, some of the *sigla* supplied by other scholars
+    deviate from it, e.g., P, Pfr.)
 
-[^25]: Atria A. Larson, "An *Abbreviatio* of the First Recension of
-    Gratian's Decretum in Munich?", *Bulletin of Medieval Canon Law* 29
-    (2012 2011): 51--118.
-
-[^26]: "The first recension of the *Decretum* was not a living text. It
-    was a finished product which its author considered ready to be
-    circulated. This is evident from its text, which is as much a
-    finished and polished product as could be expected of any
-    twelfth-century text. Further, it is also evident from the fact that
-    the first recension survives in one version only; what differences
-    there are among the manuscripts are all minor (the apparent
-    exception of Aa will be discussed below). They are differences one
-    would expect to find in any manuscript tradition, arising from
-    scribal mistake or ingenuity. In other words, the manuscripts do not
-    represent different stages in the development of the text, in the
-    manner of 'classically' living texts, such as the *Song of Roland*,
-    where each different manuscript version has an equally valid claim
-    to authenticity." Anders Winroth, *The Making of Gratian's Decretum*
-    (Cambridge: Cambridge University Press, 2000), 130.
+[^26]: "The first recension of the *Decretum* was not a living text.
+    It was a finished product which its author considered ready to
+    be circulated. This is evident from its text, which is as much
+    a finished and polished product as could be expected of any
+    twelfth-century text. Further, it is also evident from the fact
+    that the first recension survives in one version only; what
+    differences there are among the manuscripts are all minor (the
+    apparent exception of Aa will be discussed below). They are
+    differences one would expect to find in any manuscript tradition,
+    arising from scribal mistake or ingenuity. In other words, the
+    manuscripts do not represent different stages in the development
+    of the text, in the manner of 'classically' living texts, such
+    as the *Song of Roland*, where each different manuscript version
+    has an equally valid claim to authenticity." [@winroth_making_2000,
+    130].
 
 [^27]: "In the interests of simplicity and clarity, I have therefore
-    chosen to call the author of the first recension Gratian 1 and the
-    author of the second recension Gratian 2. These labels are not
-    intended to suggest that Gratian 1 and Gratian 2 could not have been
-    the same person." Anders Winroth, *The Making of Gratian's Decretum*
-    (Cambridge: Cambridge University Press, 2000), 122. "It is
+    chosen to call the author of the first recension Gratian 1 and
+    the author of the second recension Gratian 2. These labels are
+    not intended to suggest that Gratian 1 and Gratian 2 could not
+    have been the same person." [@winroth_making_2000, 122] "It is
     impossible to draw any certain conclusions, but the evidence
-    presented in the last two chapters supports the view that that two
-    recensions had difference authors." Anders Winroth, *The Making of
-    Gratian's Decretum* (Cambridge: Cambridge University Press, 2000),
-    194-195.
+    presented in the last two chapters supports the view that that
+    two recensions had difference authors." [@winroth_making_2000,
+    194-195].
 
-[^28]: Excepting only that there is no first-recension version of Part
-    III.
+[^28]: Excepting only that there is no first-recension version of
+    Part III.
 
-[^29]: "Distinctiones apposuit in prima parte et ultima Paucapalea ..."
-    (Paucapalea added the distinctions in the first part and the last)
-    Terence P. McLaughlin, ed., *The Summa Parisiensis on the Decretum
-    Gratiani* (Toronto: Pontifical Institute of Mediaeval Studies,
-    1952), 1.
+[^29]: "Distinctiones apposuit in prima parte et ultima Paucapalea
+    ..." [@mclaughlin_summa_1952, 1] (Paucapalea arranged the
+    distinctions in the first part and the last, trans. PLE)
 
 [^30]: Cf. Atria A. Larson, *Master of Penance: Gratian and the
     Development of Penitential Thought and Law in the Twelfth Century*,
