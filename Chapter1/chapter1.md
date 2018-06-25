@@ -790,10 +790,8 @@ orientation.
     the Twelfth Century" (2009), which does not mention *Authentica
     Habita*.
 
-[^19]: *Albertus Gandinus und das Strafrecht der Scholastik, Erster
-    Band: Die Praxis*, 1907. See also Ken Pennington, [The Development
-    of Criminal Procedure in the *Ius
-    commune*](http://legalhistorysources.com/Law508/CriminalProcedure.htm).
+[^19]: [@kantorowicz_albertus_1907, 203-218] See also
+    [@pennington_procedure_2004].
 
 [^20]: R.I. Moore observes that the establishment of the new order
     brought about by the legal revolution "required another change,
