@@ -779,15 +779,15 @@ orientation.
     engaged in the study of letters". But *Authentica Habita* does
     specifically mention "students and especially teachers of divine
     and sacred laws" so it is not clear to me why both Pennington
-    and Winroth contest the latter point. Ken Pennington, "The
-    Beginnings of Law Schools in the Twelfth Century", 18: "It
-    [*Authentica Habita*] did not mention Bologna nor law students."
-    Anders Winroth, "The Teaching of Law in the Twelfth Century",
-    7-8: "The law [*Authentica Habita*] does not mention Bologna
-    at all, nor does it mention studies of law." Winroth's "The
-    Teaching of Law in the Twelfth Century" (2007) was a conference
-    paper (ASLH?) and has since been superseded by "Law Schools in
-    the Twelfth Century" (2009), which does not mention *Authentica
+    and Winroth contest the latter point. "It [*Authentica Habita*]
+    did not mention Bologna nor law students." Ken Pennington, "The
+    Beginnings of Law Schools in the Twelfth Century", 18.
+
+    "The law [*Authentica Habita*] does not mention Bologna at all,
+    nor does it mention studies of law." [@winroth_teaching_2006]
+    **Page numbers 7-8 in MS Word doc.** "The Teaching of Law in
+    the Twelfth Century" has since been superseded by "Law Schools
+    in the Twelfth Century", which does not mention *Authentica
     Habita*.
 
 [^19]: [@kantorowicz_albertus_1907, 203-218] See also
