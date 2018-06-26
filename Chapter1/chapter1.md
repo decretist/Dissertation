@@ -10,11 +10,11 @@ title: Chapter 1
 
 Around 1140, a revolutionary textbook transformed the study of canon
 law into a systematic academic discipline. It did not have an
-attribution of authorship. It did not even have a title. As it
+attribution of authorship. It did not even have a title. However, as it
 entered widespread circulation in the middle decades of the twelfth
-century, however, the new textbook gave rise to a considerable body
+century, the new textbook gave rise to a considerable body
 of commentary, and some early glosses referred to it as the *Concordia
-discordantium canonum* ("Agreement of disagreeing canons"). The
+discordantium canonum* ("Concordance of discordant canons"). The
 same glosses identified Gratian, an otherwise unknown teacher thought
 to have worked in Bologna, as its author.[^1] As a result, the book
 came to be commonly known as the *Decretum Gratiani* ("Gratian's
@@ -41,7 +41,7 @@ at least at major centers such as Bologna, Paris, and Oxford --
 informal gatherings of students around a master, although the older
 model probably continued at more peripheral schools.[^2]
 
-The emergence of faculties of canon law in the middle decades of
+The emergence of faculties of canon law in the second half of
 the twelfth century was a feature of a wider intellectual and social
 revolution. There had been a revival in Bologna of the formal study
 of Roman law during the second and third decades of the twelfth
@@ -61,7 +61,6 @@ academic discipline of canon law that his counterparts teaching
 Roman law had sidestepped: the Romanists had not needed to create
 textbooks for their students because they had recovered the textbooks
 from which the law had been taught in late antiquity.
-
 By doing so, Gratian blazed a trail for canon law that theology
 followed about two decades later. The appearance around 1160 of
 Peter Lombard's *Sentences* served as the catalyst for a similar
@@ -76,13 +75,13 @@ theology in the middle decades of the twelfth century gave rise to
 a rapidly proliferating number of major universities throughout
 Europe, recognizably continuous in form with those of the present
 day. The existence of standardized textbooks such as Gratian's
-*Decretum* and later Lombard's *Sentences* was an absolutely essential
+*Decretum* and later Peter Lombard's *Sentences* was an absolutely essential
 precondition for the formation of academic faculties organized along
 formal disciplinary lines, offering standardized courses of instruction
 for their students. Those faculties in turn supplied the foundation
 for the medieval, and, by extension, the modern European university.
 Gratian's *Decretum* can be seen from the point of view of this
-series of historical developments as the textbook that invented the
+series of historical developments as the textbook that set the stage for the emergence of the
 university.
 
 ## Roman Law
@@ -102,7 +101,7 @@ It is first necessary to distinguish the body of Roman law formally
 codified in the sixth century under the emperor Justinian (†565)
 from the forms of Roman law that had survived through continuous
 use and adaptation in southern Europe from late antiquity into the
-eleventh century. Early medieval Europe had not been unaware of
+eleventh century. Early medieval Europe had not forgotten
 Roman law, and in particular, the *Lex Romana Visigothorum* or
 *Breviary of Alaric* (506), derived from the Theodosian Code (438),
 was a major source of Roman law concepts and terminology throughout
@@ -124,7 +123,7 @@ found in the *Marturi placitum*, the record of a court case held
 in 1076 in present-day Poggibonsi in Tuscany.[^5]
 
 Because of the title *Corpus iuris civilis*, "the body of civil
-law", Roman law was also referred to as civil law, and students,
+law," Roman law was also referred to as civil law, and students,
 teachers, and practitioners of Roman law were referred to as
 civilians. Gratian, following Isidore of Seville (†636), used a
 much older definition: "*Ius civile est, quod quisque populus vel
@@ -134,10 +133,10 @@ law for divine or human reasons)."[^6] Gratian, again following
 Isidore, referred to Roman law as the law of the Quirites (*Ius
 Quiritum*).[^7]
 
-There have been two notable recent outliers, Charles Radding and
-Anders Winroth, to the scholarly consensus that the teaching of
-Roman and canon law were going concerns in Bologna by around 1110
-and 1130 respectively. Radding has proposed that the epicenter of
+The scholarly consensus that the teaching of Roman and canon law
+were going concerns in Bologna by around 1110 and 1130 respectively
+has had two notable recent dissenters, Charles Radding and Anders
+Winroth. Radding has proposed that the epicenter of
 the revival of the study of Roman law was not Bologna, but Pavia,
 and places the date somewhat earlier, in the late eleventh century.
 Radding's claim is that research into Roman law developed from its
@@ -146,15 +145,14 @@ central text of the Lombard law tradition, the *Liber Legis
 Langobardorum* or *Liber Papiensis*. Radding's argument has not met
 with widespread acceptance.[@radding_origins_1988]
 
-Anders Winroth is by far the more consequential outlier to the
-consensus that masters of Roman law were offering organized courses
-of instruction in Bologna by around 1110. He draws attention to the
+Anders Winroth is by far the more consequential dissenter from the
+consensus. He draws attention to the
 underdeveloped way in which Gratian uses Justinianic Roman law in
 what Winroth calls the first recension, the earliest version of the
 *Decretum* to survive in more than one manuscript.[^9]
 
 There are only three places in the first recension of the *Decretum*
-that incorporate textual material taken directly from Justinianic
+that incorporate material taken directly from Justinianic
 Roman law sources: C.2, q.6, c.28 (an excerpt from the *Authenticum*),
 and C.15, q.3, cc.1-3 and C.15, q.3, c.4 (three excerpts from the
 *Codex* and four from the *Digest*).[@winroth_making_2000, 146-148]
@@ -163,7 +161,7 @@ Gratian does not deploy the proper Justinianic shades of meaning
 to the concepts of ownership and possession when discussing the
 issue of *restitutio in integrum* in the first-recension version
 of C.3, q.1, d.p.c.2. Instead, Gratian uses concepts and vocabulary
-that Winroth argues derive from pre-Justinianic Roman law sources
+that, Winroth argues, derive from pre-Justinianic Roman law sources
 such as the *Lex Romana Visigothorum*.[@winroth_making_2000, 148-151]
 
 Furthermore, there are places in the first recension where Gratian,
@@ -199,8 +197,8 @@ Some corollaries to Winroth's argument that Roman law teaching got
 off to a late start are fairly far out of the mainstream. A notable
 example is his dating of the famous letter of an anonymous monk to
 abbot B (probably Bernard III Garin) of Saint-Victor, Marseille
-(the content of which Winroth has so memorably summarized as "[m]y
-donkey is dead, so I am going to law school") to the 1180s rather
+-- the content of which Winroth has so memorably summarized as "[m]y
+donkey is dead, so I am going to law school" -- to the 1180s rather
 than the 1120s. But it is extremely difficult to imagine that a
 letter that shows no apparent awareness that either civil (Roman)
 or canon law were being taught in Bologna can have been written in
@@ -231,8 +229,14 @@ carried out during the course of the investigation into the crime,
 and he was found to be in possession of the stolen goods, a state
 of affairs that he was unable to credibly explain. Neither can it
 be seriously doubted that Mengho's case was conducted according to
-the due process standards prevailing in that time and place, torture
-being very much a normal part of due process. Indeed, Hermann
+the due process standards prevailing in that time and place.
+Full proof necessary to convict a criminal defendant (*reus*) under
+Roman law required either a confession or the testimony of two
+witnesses, testimony unlikely to be forthcoming in the case of a
+crime of stealth committed at night such as Mengho's. In the absence
+of a voluntary confession or witness testimony, torture of the
+defendant in order to obtain an involuntary confession was simply
+the next routine step of due process. Indeed, Hermann
 Kantorowicz (†1940) brought the story of Mengho to the attention
 of medieval legal historians, and it remains well known today,
 precisely because Kantorowicz considered it a textbook example of
@@ -257,8 +261,8 @@ of women and men in the real world.
 The *Decretum* represents a towering intellectual achievement of
 the renaissance of the twelfth century that ushered in the high
 middle ages in Europe. But whose achievement was it? In particular,
-is the *Decretum* the achievement of a single author, or was it the
-product of a collaborative authorship? Because so little is reliably
+is the *Decretum* the achievement of a single author or was it the
+product of serial or even collaborative authorship? Because so little is reliably
 known about the historical Gratian, and because almost everything
 that previous generations thought was known about Gratian has proved,
 on closer examination, to be myth,[@noonan_gratian_1979] it is best
@@ -287,8 +291,8 @@ in which it might be problematic to refer simplistically to Gratian
 as the author of the *Decretum,* as I have done thus far. Winroth
 rejects any presumption of monolithic authorship on stratigraphic
 grounds. He argues that the first recension is "coherent and
-complete", and that its author intentionally released it into
-circulation as a "finished product".[^26] (In other words, it did
+complete," and that its author intentionally released it into
+circulation as a "finished product."[^26] (In other words, it did
 not just prematurely escape into the wild like parts of Augustine's
 *de Trinitate*.) Winroth thinks of the first and second recensions
 as distinct textual layers and argues that two different authors
@@ -309,7 +313,7 @@ same as the Gratian of Parts I and II.) Furthermore, nothing logically
 excludes the possibility that Winroth and Noonan are both right and
 that the Gratian of the first-recension version of Part I is not
 necessarily the same as the Gratian of the second-recension version
-of Part I, and so on through all the possible permutation and
+of Part I, and so on through all the possible permutations and
 combinations of recensions (first and second) and parts (I, II, and
 III).[^28]
 
@@ -404,7 +408,7 @@ vel quod distortum pravumque est corrigat.* ('Canon' is Greek for
 what is called a 'rule' in Latin. It is called a rule because it
 leads one aright and never takes one astray. But others say that
 it is called a rule because it rules, presents a norm for right
-living, or sets aright what is twisted and bent.)[^35] The late
+living, or sets aright what is twisted and bent.")[^35] The late
 first- or early second-century *Didache* is an example of a very
 early Christian text that contains such rules or norms. After the
 official recognition of Christianity by Constantine in 313, the
@@ -414,8 +418,8 @@ councils, and somewhat later by papal decretals.
 
 Gratian, strictly speaking, defines canons as either *decreta
 Pontificum* ("decrees of pontiffs") or *statuta conciliorum*
-("statutes of councils").[^36] The bishops of Rome had cultivated
-from a relatively early date the practice of issuing decretal
+("statutes of councils").[^36] From a relatively early date,
+the bishops of Rome had cultivated the practice of issuing decretal
 letters, consciously modeled after Roman imperial rescripts, in
 which they laid down disciplinary and doctrinal norms in response
 to questions put to them, usually by other bishops.[^37] The earliest
@@ -426,13 +430,13 @@ The letter, sometimes referred to by the first word of its text as
 the *Directa* decretal, remains an important source for norms
 concerning clerical celibacy in late antiquity. The most familiar
 example for modern readers of an imperial rescript, the genre after
-which the papal decretal letter was modeled, is the early first-century
+which the papal decretal letter was modeled, is the early second-century
 (ca. 112) correspondence between Pliny the Younger and the emperor
 Trajan (†117) concerning how Pliny, as Roman provincial governor
 of Bithynia and Pontus, ought to proceed against the Christians.
 
 Another extremely important source for the *Decretum* is canons
-from the ecumenical councils and from the more historically important
+from the ecumenical councils and from the historically important
 provincial synods: *Conciliorum vero alia sunt universalia, alia
 provincialia*. ("Some councils are universal, others provincial.")[^39]
 Although the Council of Nicaea (325) is primarily remembered for
@@ -462,7 +466,7 @@ to see how works such as Ambrose of Milan's *De officiis* ("On
 duties") -- a Christian answer to the work of Cicero with the same
 title -- could be a rich source of norms. Gratian provides an
 explicit list of "the works of the holy fathers that are received
-in the Catholic Church".[^43] (It is necessary to distinguish the
+in the Catholic Church."[^43] (It is necessary to distinguish the
 papal from the patristic when dealing with figures like Gregory.
 While textual excerpts from the letters found in the registers of
 Gregory clearly derive their authority from the fact that Gregory
@@ -501,7 +505,7 @@ Pennington, for example, believes that Gratian may have relied on
 one or more now-lost Central Italian collections similar to 9L.)[^47]
 
 By the end of the Patristic period, the canons of the ecumenical
-and of the more historically important provincial councils constituted
+and of the historically important provincial councils constituted
 a substantial body of canon law, which were gathered into collections
 such as the *Collectio Dionysiana* (ca. 500). A later revision of
 the *Dionysiana*, the *Collectio Dionysio-Hadriana* (774), exercised
@@ -545,7 +549,7 @@ therefore was to render bishops effectively impervious to judgment.
 The collections that resulted from this effort, the so-called
 Pseudo-Isidorian *Decretals* and *Benedictus Levita*, were accepted
 everywhere as genuine in an age lacking any serious historical-critical
-awareness, and survived to become important sources for canonical
+awareness and survived to become important sources for canonical
 collectors in the eleventh century.[^49] Many of these forged canons
 eventually found their way into Gratian's *Decretum*.
 
@@ -554,7 +558,7 @@ Hildebrand, who reigned as Gregory VII from 1073 to 1085, provided
 a new impetus for the collection and study of canons. The special
 concerns of the Gregorian reformers also shaped their approach to
 the collection and presentation of canons. The consuming interest
-of the reform generation was with the relationship between *regnum*
+of the reform generation was the relationship between *regnum*
 and *sacerdotium* (church and state). Like the eighth- and ninth-century
 Carolingian reformers, the eleventh-century reformers were intensely
 concerned with the reform and renewal of monastic and clerical life.
@@ -604,7 +608,7 @@ ruler for their landholdings.
 
 Conclusion: Gratian depended on a relatively small number of eleventh-
 and early twelfth-century systematic canonical collections, his
-formal sources, and that those predecessor collections, in turn,
+formal sources, and those predecessor collections, in turn,
 depended on an older stratum of mostly chronologically arranged
 canonical collections. To a certain extent, it was formal sources
 (almost) all the way down. Gratian was selecting from a body of
@@ -699,7 +703,7 @@ orientation.
     the *lex*, the written law, and refers to and inserts many
     elements of *lex* throughout." (Atria Larson, email to Paul
     Evans, July 21, 2017.) The alternative is to translate *inserta*
-    as "introduced", describing a passage from the Digest that an
+    as "introduced," describing a passage from the Digest that an
     advocate for one or the other of the litigants brought to the
     attention of the court in support of their case as having been
     "introduced." For an English translation of the *Marturi
@@ -751,8 +755,8 @@ orientation.
     for the proclamation. Early modern print editions of the *Codex*,
     however, associated it with the Diet of Roncaglia in November
     1158, and modern editions have retained the ascribed date.
-    [Kenneth Pennington, "The Beginnings of Law Schools in the
-    Twelfth Century", p.20, fn.53] The uncertainty arises because
+    [@pennington_beginnings_2018] **p.20, fn.53 in MS Word version.**
+    The uncertainty arises because
     a contemporary poem, the *Carmen de gestis Frederici I. Imperatoris
     in Lombardia* gives a first-hand account of an incident that
     took place near Bologna in 1155 in which Frederick, in response
@@ -771,24 +775,22 @@ orientation.
 
 [^17]: Ken Pennington, "[A Short History of Canon Law from Apostolic
     Times to
-    1917](http://legalhistorysources.com/Canon%20Law/PenningtonShortHistoryCanonLaw.pdf)",
+    1917](http://legalhistorysources.com/Canon%20Law/PenningtonShortHistoryCanonLaw.pdf),"
     17. (Fr. Bradley's PDF file)
 
 [^18]: It is true that *Authentica Habita* does not mention Bologna
     explicitly, but instead refers to "the place where they are
-    engaged in the study of letters". But *Authentica Habita* does
+    engaged in the study of letters." But *Authentica Habita* does
     specifically mention "students and especially teachers of divine
     and sacred laws" so it is not clear to me why both Pennington
     and Winroth contest the latter point. "It [*Authentica Habita*]
-    did not mention Bologna nor law students." Ken Pennington, "The
-    Beginnings of Law Schools in the Twelfth Century", 18.
-
-    "The law [*Authentica Habita*] does not mention Bologna at all,
-    nor does it mention studies of law." [@winroth_teaching_2006]
-    **Page numbers 7-8 in MS Word doc.** "The Teaching of Law in
-    the Twelfth Century" has since been superseded by "Law Schools
-    in the Twelfth Century", which does not mention *Authentica
-    Habita*.
+    did not mention Bologna nor law students."
+    [@pennington_beginnings_2018] **p.18 in MS Word version.** "The
+    law [*Authentica Habita*] does not mention Bologna at all, nor
+    does it mention studies of law." [@winroth_teaching_2006]
+    **pp.7-8 in MS Word version.** "The Teaching of Law in the
+    Twelfth Century" has since been superseded by "Law Schools in
+    the Twelfth Century," which does not mention *Authentica Habita*.
 
 [^19]: [@kantorowicz_albertus_1907, 203-218] See also
     [@pennington_procedure_2004].
@@ -800,7 +802,7 @@ orientation.
     [@moore_formation_2007, 128].
 
 [^22]: "Given this lack of reliable extrinsic evidence, our best
-    source of evidence about Gratian is his book(s)". [@wei_gratian_2016,
+    source of evidence about Gratian is his book(s)." [@wei_gratian_2016,
     33].
 
 [^23]: Manuscripts of Gratian's *Decretum* are frequently referred
@@ -946,7 +948,7 @@ orientation.
     light of *Lombarda* glosses in early *Decretum* manuscripts.
 
 [^47]: Connect the tradition of research into Gratian's formal
-    sources to Kuttner's "Acta and Agenda".
+    sources to Kuttner's "Acta and Agenda."
 
 [^48]: See [@de_jong_penitential_2009].
 
