@@ -583,7 +583,7 @@ Unsurprisingly, given their concern with asserting the jurisdictional
 supremacy of the papacy and the independence of the church from lay
 interference, the eleventh-century collectors showed considerable
 interest in the forged decretals of the ninth century. In particular,
-146 out of the 252 chapters of the anonymous *Collection in 74
+252 out of the 315 chapters of the anonymous *Collection in 74
 Titles* (ca. 1050) are drawn from the Pseudo-Isidorian *Decretals*.[^50]
 
 The program of the Gregorian reformers collided with two practical
@@ -950,28 +950,17 @@ orientation.
 
 [^48]: See [@de_jong_penitential_2009].
 
-[^49]: For the much-criticized 1863 edition, see Paul Hinschius,
-ed.,
-    *Decretales Pseudo-Isidorianae, et, Capitula Angilramni: Ad
-    Fidem Librorum Manuscriptorum Recensuit, Fontes Indicavit,
-    Commentationem de Collectione Pseudo-Isidori Praemisit* (Aalen:
-    Scientia Verlag, 1963). See also [Zum Inhalt von "Projekt
+[^49]: For the much-criticized 1863 edition, see
+    [@hinschius_decretales_1963]. See also [@zechiel-eckes_blick_2001];
+    [Zum Inhalt von "Projekt
     Pseudoisidor"](http://www.pseudoisidor.mgh.de/) by Karl-Georg
-    Schon. See also [Introduction to Pseudo-Isidore - Decretum
+    Schon; [Introduction to Pseudo-Isidore - Decretum
     Gratiani](https://sites.google.com/a/yale.edu/decretumgratiani/introduction-to-pseudo-isidore)
-    by Eric Knibbs. See also [Pseudo-Isidore | An edition-in-progress
+    by Eric Knibbs; and [Pseudo-Isidore | An edition-in-progress
     of the False Decretals](https://pseudo-isidore.com/) by Eric
-    Knibbs.  Klaus Zechiel-Eckes, "Ein Blick in Pseudoisidors
-    Werkstatt. Studien Zum Entstehungsprozeß Der Falschen Dekretalen.
-    Mit Einem Exemplarischen Editorischen Anhang (Pseudo-Julius an
-    Die Orientalischen Bischöfe, JK †196)," Francia 28, no. 1 (2001):
-    37--90.
+    Knibbs.
 
-[^50]: Ken Pennington, "[Canonical Collections of the Eleventh
-    Century](http://legalhistorysources.com/Canon%20Law/GregorianReform/Collections1000-1100.html)"
-    is the source for the numbers: "146 chapters of 252". But cf.
-    J. T.  Gilchrist, ed., *The Collection in Seventy-Four Titles:
-    A Canon Law Manual of the Gregorian Reform*, Mediaeval Sources
-    in Translation 22 (Toronto: Pontifical Institute of Mediaeval
-    Studies, 1980) 15.  "Altogether I have estimated that 252 out
-    of the 315 *capitula* were taken from Pseudo-Isidore."
+[^50]: "Altogether I have estimated that 252 out of the 315 *capitula*
+    were taken from Pseudo-Isidore." [@gilchrist_collection_1980,
+    15]
+
