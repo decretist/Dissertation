@@ -197,8 +197,8 @@ Some corollaries to Winroth's argument that Roman law teaching got
 off to a late start are fairly far out of the mainstream. A notable
 example is his dating of the famous letter of an anonymous monk to
 abbot B (probably Bernard III Garin) of Saint-Victor, Marseille
--- the content of which Winroth has so memorably summarized as "[m]y
-donkey is dead, so I am going to law school" -- to the 1180s rather
+---the content of which Winroth has so memorably summarized as "[m]y
+donkey is dead, so I am going to law school"--- to the 1180s rather
 than the 1120s. But it is extremely difficult to imagine that a
 letter that shows no apparent awareness that either civil (Roman)
 or canon law were being taught in Bologna can have been written in
@@ -408,7 +408,7 @@ vel quod distortum pravumque est corrigat.* ('Canon' is Greek for
 what is called a 'rule' in Latin. It is called a rule because it
 leads one aright and never takes one astray. But others say that
 it is called a rule because it rules, presents a norm for right
-living, or sets aright what is twisted and bent.")[^35] The late
+living, or sets aright what is twisted and bent.)"[^35] The late
 first- or early second-century *Didache* is an example of a very
 early Christian text that contains such rules or norms. After the
 official recognition of Christianity by Constantine in 313, the
@@ -446,8 +446,8 @@ twenty canons of a disciplinary nature. Provincial synods tended
 to assume an outsized importance in the canonical tradition when
 figures such as Augustine of Hippo (†430) or Caesarius of Arles
 (†542) either participated in or presided over them: "*Etiam S.
-Augustinus Yponensis episcopus in eadem sinodo legitur fuisse,
-temporibus Honorii Augusti.* (It is read that St. Augustine, bishop
+Augustinus Yponensis episcopus in eadem sinodo legitur fuisse."*
+(It is read that St. Augustine, bishop
 of Hippo, also attended this synod.)"[^40] By the time the *Decretum*
 was compiled, the cumulative output of the ecumenical councils and
 provincial synods amounted to a considerable mass of material, and
@@ -500,9 +500,10 @@ on just five formal sources in writing the Decretum: Anselm of
 Lucca's *Collectio canonum*, the pseudo-Ivonian *Collectio Tripartita*,
 Ivo of Chartes's *Panormia*, Gregory of San Grisogono's *Polycarpus*,
 and an anonymous *Collection in Three Books* (*3L*).[@winroth_making_2000,
-15-17] (Note that this hypothesis is not universally accepted.
+15-17] This hypothesis is not universally accepted:
 Pennington, for example, believes that Gratian may have relied on
-one or more now-lost Central Italian collections similar to 9L.)[^47]
+one or more now-lost Central Italian collections similar to 
+the *Collection in Nine Books* (*9L*).[^47]
 
 By the end of the Patristic period, the canons of the ecumenical
 and of the historically important provincial councils constituted
@@ -947,8 +948,10 @@ orientation.
     the first-recension version of the *Decretum*, especially in
     light of *Lombarda* glosses in early *Decretum* manuscripts.
 
-[^47]: Connect the tradition of research into Gratian's formal
-    sources to Kuttner's "Acta and Agenda."
+[^47]: **Connect the tradition of research into Gratian's formal
+    sources to Kuttner's "Acta and Agenda."** For the *Collectio
+    IX librorum* of the Ms Vat. lat. 1349 (*9L*), see
+    [@fowler-magerl_clavis_2005, 79-82]
 
 [^48]: See [@de_jong_penitential_2009].
 
