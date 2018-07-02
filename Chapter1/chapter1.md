@@ -20,6 +20,40 @@ to have worked in Bologna, as its author.[^1] As a result, the book
 came to be commonly known as the *Decretum Gratiani* ("Gratian's
 *Decretum*").
 
+The *Decretum* is *not* the kind of document, like the Fournier
+Register, the record of an episcopal inquisition into Albigensian
+heretics surviving in a single manuscript, that many non-specialists,
+with a journalistic eye for the exotic and the extreme, take to be
+the central concern of medieval studies.[^a] The *Decretum* was,
+instead, both a normal and a normative text in its own time, and
+for centuries thereafter. The *Decretum* survives in an unusually
+large number of manuscripts -- around 150-200 from the twelfth
+century and around 600 for the medieval period overall.[^b] The
+*Decretum* was the fundamental textbook for first-year university
+instruction in canon law through the seventeenth century. As the
+first volume of the *Corpus iuris canonici*, the *Decretum* remained
+valid law in the Roman Catholic Church right up until 1917, and
+exercised enormous influence over the 1917 and 1983 codifications
+of canon law that replaced the old *Corpus*.
+
+[^a]: The manuscript is Vat. Lat. 4030. [@duvernoy_registre_1965]
+    See also [Inquisition Records of Jacques
+    Fournier](http://www.sjsu.edu/people/nancy.stork/jacquesfournier/) ("An
+    on-going English translation of the Inquisition Records of
+    Jacques Fournier, Bishop of Pamiers, France, 1318-1325") by
+    Nancy P. Stork (SJSU).
+
+[^b]: "My listing of more than 600 manuscripts containing the
+    *Decretum* will appear in Kenneth Pennington and Wilfried
+    Hartmann, eds., *History of Medieval Canon Law*, 11."
+    [@winroth_making_2000, 122n2] This list has never made it into
+    print to my knowledge. For a reasonably complete and current
+    list, see the entry for
+    [Gratian](http://amesfoundation.law.harvard.edu/BioBibCanonists/Report_Biobib2.php?record_id=a242)
+    in Kenneth Pennington's Bio-Bibliographic Guide to Medieval and
+    Early Modern Jurists hosted by the Ames Foundation at Harvard
+    University.
+
 The *Decretum* was arguably the first book in the European tradition
 written from the ground up as a university textbook. (Abelard's
 *Sic et Non* is the other book for which such an argument might be
