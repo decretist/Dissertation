@@ -354,8 +354,8 @@ III).[^28]
 But long before the discovery of the first recension in the late
 twentieth century, the first twelfth-century readers of the *Decretum*
 were distinctly aware of the limited extent to which it could be
-thought of as the work of a single author. Even those early readers,
-near-contemporaries like the author of the *Summa Parisiensis*, who
+thought of as the work of a single author. Even early readers,
+such as the author of the *Summa Parisiensis*, who
 implicitly endorsed the single author theory by subsuming the entire
 vulgate text of the *Decretum* under the eponym "Gratian," recognized
 that whoever Gratian was, he was not directly responsible either
@@ -364,8 +364,9 @@ the work, like the division of Part I into *distinctiones*.[^29]
 Gratian was working within a well-established genre of academic
 writing in medieval Latin literature, the canonical collection.[^30]
 The *Decretum* followed in the footsteps of any number of systematic
-canonical collections that had been in circulation since the beginning
-of the eleventh century.[^31]
+canonical collections in which the material was organized by topic
+that had been in circulation since the beginning of the eleventh
+century.[^31]
 
 Twelfth-century readers of a canonical collection did not necessarily
 expect all (or even any) of the words they read to have been written
@@ -465,12 +466,13 @@ the *Directa* decretal, remains an important source for norms
 concerning clerical celibacy in late antiquity. The most familiar
 example for modern readers of an imperial rescript, the genre after
 which the papal decretal letter was modeled, is the early second-century
-(ca. 112) correspondence between Pliny the Younger and the emperor
-Trajan (†117) concerning how Pliny, as Roman provincial governor
-of Bithynia and Pontus, ought to proceed against the Christians.
+(ca. 112) response of the emperor Trajan (†117) to a letter from
+Pliny the Younger inquiring as to how Pliny, then Roman provincial
+governor of Bithynia and Pontus, ought to proceed against those
+accused of being Christians.
 
 Another extremely important source for the *Decretum* is canons
-from the ecumenical councils and from the historically important
+from the ecumenical councils and from historically important
 provincial synods: *Conciliorum vero alia sunt universalia, alia
 provincialia*. ("Some councils are universal, others provincial.")[^39]
 Although the Council of Nicaea (325) is primarily remembered for
@@ -540,7 +542,7 @@ one or more now-lost Central Italian collections similar to
 the *Collection in Nine Books* (*9L*).[^47]
 
 By the end of the Patristic period, the canons of the ecumenical
-and of the historically important provincial councils constituted
+and of historically important provincial councils constituted
 a substantial body of canon law, which were gathered into collections
 such as the *Collectio Dionysiana* (ca. 500). A later revision of
 the *Dionysiana*, the *Collectio Dionysio-Hadriana* (774), exercised
@@ -613,10 +615,8 @@ reflected the concerns of reform-minded church administrators.
 Burchard of Worms (†1025) was a forerunner of this group -- although
 he died before the reform papacy or the investiture controversy,
 his *Decretum* has more in common with the collections that came
-after it than with those that came before it. His collection is
-systematic -- the presentation of the material is organized by topic
--- rather than chronological and reflects concerns similar to those
-of his successors.
+after it than with those that came before it, insofar as it is
+systematic and reflects concerns similar to those of his successors.
 
 Unsurprisingly, given their concern with asserting the jurisdictional
 supremacy of the papacy and the independence of the church from lay
@@ -909,7 +909,8 @@ orientation.
     the *dicta*; they wanted a pure canonical collection that could
     serve as a reference manual to the church's law."
 
-[^31]: Define systematic vs. chronological canonical collections?
+[^31]: In earlier collections such as the *Collectio Dionysiana*
+    (ca.500) the material was organized chronologically.
 
 [^32]: The prologue was prepended (in slightly different forms) to
     both the *Decretum* and *Panormia* of Ivo of Chartres. For the
