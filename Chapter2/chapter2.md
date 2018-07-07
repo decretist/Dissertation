@@ -53,7 +53,7 @@ in question was one that had been included in the Pseudo-Isidorian
 forgeries. This raises the need to distinguish between Gratian's
 material sources -- the original letter of Pope Gregory I, for
 example -- and his formal sources -- the collection Gratian was
-actually looking at when copying his text. Finally, there are the
+actually looking at when copying his text.[^register] Finally, there are the
 *dicta* (literally, "things having been said"), which are statements
 Gratian is making on his own authority as a jurist. It is the *dicta*
 that carry the thread of Gratian's argument. [Here I am only talking
@@ -76,6 +76,16 @@ immediately preceded it." and "These isolated instances in the first
 cluster show that Gratian felt that the dictum was sufficient for
 summarizing the following *auctoritas*." [@eichbauer_redactions_2007,
 115] **Expand to include inscriptions.**
+
+[^register]: "Since Gratian frequently took fragments of letters
+from the Register of Gregory I---266 in all---using the inscription
+'in registro', older research assumed that he must have used this
+important source in the form of the *Registrum Hadrianum*. According
+to more recent research (Landau), even these texts from the Register
+of Gregory I found in Gratian derive almost without exception from
+canonical collections predating Gratian; the direct use of the
+Register is probable in only a single case." [C.27 q.1 c.19 (JE
+1496)] [@landau_gratian_2008, 34].
 
 "The *dicta* in Gratian's *Decretum* bring the reader closer to its
 author than any other part of the text."[@winroth_making_2000, 187]
@@ -186,15 +196,7 @@ There is a convention in scholarly writing where the researcher presents
 their results, but carefully removes the scaffolding and effaces the
 process by which those results were actually arrived at. [My intention
 is to show rather than hide the process by which I arrived at the
-results that I am presenting.] I did not start out my dissertation
-project thinking of the authorship of the case statements or *themata*
-introducing each of the 36 *causae* that make up Part II of the
-*Decretum* as a research problem. I assumed that, by definition, the
-author of the case statements was identical with the author of at least
-the first-recension *dicta*. [Tie this in with Winroth's two Gratians
-chapter: to the extent that there's some one person we can point to as
-mapping to our idea of Gratian, it's the author of the first-recension
-dicta.]
+results that I am presenting.]
 
 ## Notes from 10 August 2017 meeting with Stan Chodorow:
 
