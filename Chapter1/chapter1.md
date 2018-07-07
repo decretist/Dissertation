@@ -974,10 +974,14 @@ orientation.
     while he held the office of papal *apocrisiarius* (see above).
     The work as we have it is the result of Gregory's revision and
     completion of it soon after his accession to the papal office."
-    [@markus_gregory_1997, 15] Verify that Gratian uses *Moralia
-    in Job* in the first recension of the *Decretum*, and that it
-    is one of the few texts where Gratian uses the material source
-    directly, like Isidore of Seville's *Etymologies*.
+    @markus_gregory_1997, 15. "In the case of Gratian's chapters
+    from Gregory I's *Moralia in Job*, the unusually precise citations
+    in Gratian's inscriptions lead to the conclusion that he used
+    this work directly (as Munier already argued)." @landau_gratian_2008,
+    35. "There are six chapters taken from the *Moralia*, and Gratian
+    noted the book and chapter of the text in his inscription: D.13
+    c.2; D.45 c.9 and c.14; D.46 c.1 and c.2; D.47 c.3. Each text
+    is also in the first recension." @landau_gratian_2008, 35n22.
 
 [^45]: Comment on use of Lombard law and Germanic law sources in
     the first-recension version of the *Decretum*, especially in
