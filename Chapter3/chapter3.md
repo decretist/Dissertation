@@ -217,3 +217,17 @@ and also confirmation, and with these things concludes his treatise."[^11]
 If Rambaud is correct, this indicates that Paucapalea was personally
 unfamiliar with the author and his plan of work.
 
+### Epilogue
+
+By the beginning of the thirteenth century, the systematic study
+of canon law had evolved in a direction of which its father Gratian
+would probably not have approved, and which he may even have had
+difficulty recognizing as the same practical or applied branch of
+theology his own work presupposed it to be. After around 1190, the
+attention of both academic and practicing canonists decisively
+turned away from theological jurisprudence in the tradition of
+Gratian, based on a rich collection of scriptural, patristic,
+conciliar, and papal source texts, and towards a much more narrowly
+circumscribed technical jurisprudence focused exclusively on
+contemporary papal decretals.
+
