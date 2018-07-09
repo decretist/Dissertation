@@ -596,15 +596,18 @@ a new impetus for the collection and study of canons. The special
 concerns of the Gregorian reformers also shaped their approach to
 the collection and presentation of canons. The consuming interest
 of the reform generation was the relationship between *regnum*
-and *sacerdotium* (church and state). Like the eighth- and ninth-century
-Carolingian reformers, the eleventh-century reformers were intensely
-concerned with the reform and renewal of monastic and clerical life.
-The Carolingians had thought that cooperation between ecclesiastical
-and secular authorities was essential for the reform of religious
-life. The eleventh-century reformers believed that secular rulers
-had to acknowledge the jurisdictional supremacy of the papacy and
-the independence of the church from lay interference as a necessary
-precondition for effective clerical and monastic reform. It is
+and *sacerdotium* (church and state).
+This interest in the problem of church-state relations was instrumental:
+the ultimate concern of the eleventh-century reformers, as it had
+been for their eighth- and ninth-century Carolingian predecessors,
+was for the reform and renewal of monastic and clerical life. Unlike
+the Carolingians, however, who had thought that cooperation between
+ecclesiastical and secular authorities was essential for the reform
+of religious life, the eleventh-century reformers believed that
+secular rulers had to acknowledge the jurisdictional supremacy of
+the papacy and the independence of the church from lay interference
+as a necessary precondition for effective clerical and monastic
+reform. It is
 significant that the most important canon law collections of the
 reform period were compiled by prelates sympathetic with the reform
 movement, such as Anselm, bishop of Lucca (†1086), compiler of the
@@ -699,7 +702,66 @@ orientation.
 [^2]: "By the first decade of the thirteenth century the private
     schools of canon law had become part of the corporate structure
     of the universities in all three places [Bologna, Paris, and
-    Oxford]." [@brundage_teaching_2008, 98-99].
+    Oxford]." [@brundage_teaching_2008, 98-99]. **Brundage here
+    somewhat overstates the degree of institutional evolution the
+    proto-universities had attained at this time. The corporate
+    structure of the university had fully emerged by the first
+    decade of the thirteenth century only at Bologna. It did not
+    do so at Paris and Oxford until the second decade of the century.
+    The standard handbooks on the history of the university in
+    medieval Europe, [@rashdall_universities_1936] and
+    [@ridder-symoens_universities_1992], are less helpful on this
+    point than might be hoped.**
+
+    **Bologna:** "Bologna vies with Paris for the title of oldest
+    and most distinguished university of medieval Europe, but whereas
+    Paris was essentially a guild of masters, Bologna was in origin
+    an association of students. The *universitas scholarium* emerged
+    around 1190 as an organization of the non-Bolognese law students
+    resident in the city, and rapidly developed a complex constitution
+    rather like that of contemporary communes." [@hyde_bologna_1982,
+    311].
+
+    **Oxford:** "The origins of the university are shrouded in
+    obscurity." [@leader_oxford_1982, 320]. "Oxford probably developed
+    in the twelfth century out of an informal group of masters
+    teaching near St. Mary's Church. Among the first known masters
+    was Theobald of Étampes, who was lecturing before 1100 (ca.
+    1095) and continued until about 1125. This group of scholars
+    seems to have increased markedly following Henry II's prohibition
+    of foreign study in 1170, and by 1185 Gerald of Wales (Giraldus
+    Cambrensis) recorded that they were organized into several
+    faculties (*doctores diversarum facultatum*), which, although
+    likely an exaggeration, indicates there was a varied group of
+    scholars. This development is implied by several other late
+    twelfth-century authorities as well." [@leader_oxford_1982,
+    320]. "The university was first recognized as a legal corporation
+    by a legatine ordinance of 1214, ending a dispersal of the
+    university following a riot with the townsmen in 1209."
+    [@leader_oxford_1982, 320].
+
+    **Paris:** "The school of Notre Dame Cathedral on the Cité, and
+    the Abbey of St. Victor and the collegiate church of Ste.
+    Geneviève on the Left Bank of the Seine had already by the end
+    of the twelfth century attracted such famous masters as Hugh
+    of St. Victor, Peter Abelard, Stephen of Tournai, and Peter
+    Lombard. In 1180 Alexander Neckham was able to write of an
+    'honorable society of masters' who were teaching arts, theology,
+    canon law, and medicine, disciplines that would later form the
+    four faculties of the university. At this time, the right to
+    teach (*licentia docendi*) and therefore to become a master was
+    given out by the chancellor of the cathedral chapter of Notre
+    Dame." [@gabriel_paris_1982, 408]. "The masters organized
+    themselves into an association between 1180 and 1210, later
+    called *universitas magistrorum et discipulorum*, and both kings
+    and popes granted it protective privileges." [@gabriel_paris_1982,
+    408]. "In the beginning, Paris church officials opposed the
+    formation of this independent society, which claimed legal
+    status and its own seal. The papacy, however, sided with the
+    university. Rules regulating its operation, called 'statutes',
+    were granted in 1215 by Robert Courson, papal legate, and these
+    dealt specifically with curriculum and textbooks."
+    [@gabriel_paris_1982, 408].
 
 [^3]: The Digest was not recovered all at once, but in three parts:
     the *Digestum vetus* (Dig. 1.1-24.2), the *Infortiatum* (Dig.
