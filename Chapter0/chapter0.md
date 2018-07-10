@@ -22,6 +22,10 @@ the case statements as a research problem in any way. I assumed
 that by definition the author of the case statements was one and
 the same person as the author of the first-recension (R1) *dicta*.[^1]
 
+It is therefore worth explaining in some detail how I came to write
+a PhD dissertation about an unexpected finding that I was not looking
+for.
+
 I worked in information technology as a system administrator and
 manager for most of the twenty-three years after graduating from
 UC San Diego in 1984 with an undergraduate degree in History.
@@ -41,6 +45,39 @@ in a degree program. During my professional career, I was never
 primarily a programmer, but from time to time my job responsibilities
 did include programming projects in C and Perl, and ultimately Java
 servlet-based web applications.
+
+I became aware of Anders Winroth's *The Making of Gratian's Decretum*
+in October 2003. I had not been in touch with Stan for something
+like ten years at that point, so I did a Google search for his
+contact information. What I found instead was his review of Anders's
+book in *English Historical Review*. My wife Carol gave me a copy
+of the book for Christmas 2003 with the inscription "I'm sure you'll
+gulp this one down within 24 hours." I did, so by the end of 2003,
+I was aware that there had been a revolution in Gratian studies.
+(Some years later, Anders thanked Carol: "I'm sure I did something
+very useful with the money".)
+
+From September 2007 to May 2009, I was a student in the MAR program
+in the History of Christianity at Yale Divinity School. Among the
+courses I took was a one on Latin Paleography taught at the Beinecke
+Rare Book and Manuscript Library by Richard and Mary Rouse of UCLA
+in Spring 2009. Although I had a general interest in applying my
+computing background to my academic work, I do not believe I had
+heard of Digital Humanities as a nascent academic discipline before
+I graduated from YDS, and almost certainly not by that name.
+
+In October 2009, I undertook a project suggested by David Ganz (then
+of King's College, London) to compare two texts of the Capitulare
+Carisiacense (873) in Beinecke MS 413.
+
+* * *
+
+To the extent that I was looking in the first half of 2013 for a
+dissertation project with a Digital Humanities component, my focus
+was on the use of David Mimno's MALLET (MAchine Learning for LanguagE
+Toolkit) to topic model *dicta* and canon texts from the first and
+second recensions of Gratian's *Decretum* as a way to identify new
+topics added in the second recension.
 
 ## Note on Translations
 
