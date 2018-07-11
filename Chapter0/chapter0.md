@@ -34,41 +34,47 @@ thesis on the role of the cardinals in the thirteenth and fourteenth
 centuries. I was therefore aware of Gratian's *Decretum* in a general
 sort of way, although the only use I made of it in connection with
 that project was to consult the Latin text of Nicholas II's 1059
-decree on papal elections (D.23 c.1). Stan's encouraging me to use
-computer-aided typesetting for my thesis, a skill so unusual in
-those years before consumer PCs were available as to verge on the
-exotic, led directly to my IT career. In the mid to late 80s I went
-on to take most of the required courses for the undergraduate
-Computer Science major at UC San Diego (e.g., Data Structures,
-Compiler Construction, Operating Systems) although I did not enroll
-in a degree program. During my professional career, I was never
-primarily a programmer, but from time to time my job responsibilities
-did include programming projects in C and Perl, and ultimately Java
-servlet-based web applications.
+decree on papal elections (D.23 c.1).
+
+Stan encouraged me to use computer-aided typesetting for my thesis,
+so I acquired an unusual skill that led directly to my IT career.
+In the mid to late 80s I went on to take most of the required courses
+for the undergraduate Computer Science major at UC San Diego (e.g.,
+Data Structures, Compiler Construction, Operating Systems) although
+I did not enroll in a degree program. During my professional career,
+I was never primarily a programmer, but from time to time my job
+responsibilities did include programming projects in C and Perl,
+and ultimately Java servlet-based web applications.
 
 I became aware of Anders Winroth's *The Making of Gratian's Decretum*
-in October 2003. I had not been in touch with Stan for something
-like ten years at that point, so I did a Google search for his
-contact information. What I found instead was his review of Anders's
-book in *English Historical Review*. My wife Carol gave me a copy
-of the book for Christmas 2003 with the inscription "I'm sure you'll
-gulp this one down within 24 hours." I did, so by the end of 2003,
-I was aware that there had been a revolution in Gratian studies.
-(Some years later, Anders thanked Carol: "I'm sure I did something
-very useful with the money".)
+in October 2003, when I did a Google search for Stan's contact
+information and found instead his review of Anders's book in *English
+Historical Review*. It was immediately apparent to me on reading
+the review that there had been a revolution in Gratian studies. My
+wife Carol gave me a copy of the book for Christmas 2003 with the
+inscription "I'm sure you'll gulp this one down within 24 hours."
+I did. Some years later, Anders thanked Carol: "I'm sure I did
+something very useful with the money".
 
-From September 2007 to May 2009, I was a student in the MAR program
-in the History of Christianity at Yale Divinity School. Among the
-courses I took was a one on Latin Paleography taught at the Beinecke
-Rare Book and Manuscript Library by Richard and Mary Rouse of UCLA
-in Spring 2009. Although I had a general interest in applying my
+From September 2007 to May 2009, I was a student in the History of
+Christianity MAR program at Yale Divinity School. Among the courses
+I took was a one on Latin Paleography that Richard and Mary Rouse
+of UCLA taught at the Beinecke Rare Book and Manuscript Library in
+Spring 2009. Although I had a general interest in applying my
 computing background to my academic work, I do not believe I had
-heard of Digital Humanities as a nascent academic discipline before
-I graduated from YDS, and almost certainly not by that name.
+heard of Digital Humanities as an academic discipline before I
+graduated from YDS, and almost certainly not by that name.
 
-In October 2009, I undertook a project suggested by David Ganz (then
-of King's College, London) to compare two texts of the Capitulare
-Carisiacense (873) in Beinecke MS 413.
+In October 2009, David Ganz (then of King's College, London) suggested
+that I compare two texts of the Capitulare Carisiacense (873) in
+Beinecke MS 413. At first, I did not think of it as a digital
+project; it was simply a transcription exercise of the kind the
+Rouses had taught me to do. But within a month, I had created a
+custom text encoding format for my transcriptions and written a
+prototype textual difference visualizer in Perl to compare them.
+A January 2010 meeting with Barbara Shailor on the Beinecke 413
+project was the occasion for the first use I can find in my own
+notes of the term "Digital Humanities."
 
 * * *
 
