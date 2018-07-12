@@ -816,8 +816,7 @@ orientation.
 [^7]: D.1, c.12. *Decretum Gratiani*, First Recension, edition in
     progress. Anders Winroth, 3/21/2017, 3.
 
-[^9]: Ken: defined so as to sidestep (for now) the controversy over
-    Sg.
+[^9]: **Defined so as to sidestep (for now) the controversy over Sg.**
 
 [^13]: Chodorow explains Gratian's "deletion" of Roman law as a
     consequence of what he sees as Gratian's adherence to the party
@@ -918,9 +917,9 @@ orientation.
     Bibliothèque Nationale de France, nouvelles acquisitions latines
     1761, although an extremely important and early (possible the
     earliest) manuscript of the *Decretum*, was not glossed, and
-    was therefore not assigned a *siglum* by Weigand. **Winroth
+    was therefore not assigned a *siglum* by Weigand. **Verify that Winroth
     supplied the *siglum* P by which the manuscript is now commonly
-    identified. (verify)** (Although the *sigla* in Weigand's
+    identified.** (Although the *sigla* in Weigand's
     *Handschriftenliste* adhere consistently to the two-letter
     convention, some of the *sigla* supplied by other scholars
     deviate from it, e.g., P, Pfr.)
@@ -1020,7 +1019,7 @@ orientation.
 [^40]: D.16, c.11. *Decretum Gratiani*, First Recension, edition
     in progress. Anders Winroth, 3/21/2017. p.32, l.7-9.
 
-[^41]: Verify that the enumeration is in the first recension.
+[^41]: **Verify that the enumeration is in the first recension.**
 
 [^42]: Ambrose, Augustine, Gregory the Great, and Jerome were
     formally recognized as doctors by Boniface VIII in 1298 in the
@@ -1045,9 +1044,9 @@ orientation.
     c.2; D.45 c.9 and c.14; D.46 c.1 and c.2; D.47 c.3. Each text
     is also in the first recension." @landau_gratian_2008, 35n22.
 
-[^45]: Comment on use of Lombard law and Germanic law sources in
+[^45]: **Comment on use of Lombard law and Germanic law sources in
     the first-recension version of the *Decretum*, especially in
-    light of *Lombarda* glosses in early *Decretum* manuscripts.
+    light of *Lombarda* glosses in early *Decretum* manuscripts.**
 
 [^47]: **Connect the tradition of research into Gratian's formal
     sources to Kuttner's "Acta and Agenda."** For the *Collectio
