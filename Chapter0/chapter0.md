@@ -18,7 +18,7 @@ the author who wrote the thirty-six case statements introducing the
 hypothetical cases that make up the second part of Gratian's
 *Decretum* is very unlikely to have been the same person as the
 author who wrote the *dicta* in the first recension of the *Decretum*.
-The method used to make this determination takes the statistical
+The statistical method used to make this determination takes the
 frequencies of common function words like prepositions and conjunctions
 in a sample of text as the basis for assigning probable authorship,
 and will be explained in considerable depth in Chapter 4.
@@ -39,12 +39,12 @@ thesis on the role of the cardinals in the thirteenth and fourteenth
 centuries, and I knew that he had written a book about Gratian's
 *Decretum*.[@chodorow_ecclesiology_1972] I was therefore aware of
 Gratian in a general sort of way, although the only use I made of
-the *Decretum* in connection with that project was to consult the
+the *Decretum* in connection with my thesis was to consult the
 Latin text of Nicholas II's 1059 decree on papal elections (D.23
 c.1).
 
-Stan encouraged me to use computer-aided typesetting for my thesis,
-and in this way I acquired a skill unusual at the time that led
+Stan encouraged me to use computer-aided typesetting for the project,
+and in this way I acquired a then-unusual skill that led
 directly to my IT career. In the mid to late 80s I went on to take
 most of the required courses for the undergraduate Computer Science
 major at UC San Diego (e.g., Data Structures, Compiler Construction,
@@ -56,7 +56,7 @@ applications.
 
 In October 2003, quite by accident, I became aware of Anders Winroth's
 *The Making of Gratian's Decretum*.[@winroth_making_2000] I had
-done a Google search for Stan's contact information and instead
+done a Google search for Stan, looking for his contact information, and
 found his review of Anders's book in *The English Historical
 Review*.[@chodorow_review_2003] It was immediately apparent to me
 on reading the review that there had been a revolution in Gratian
@@ -64,6 +64,12 @@ studies. My wife Carol gave me the book for Christmas 2003 with the
 inscription "I'm sure you'll gulp this one down within 24 hours."
 I did. Some years later, Anders thanked her for buying a copy: "I'm
 sure I did something very useful with the money".
+**What specifically does Chodorow say the substance of the
+revolution is? (Establishes what I knew in October and December
+2003.) Winroth identified four twelfth-century manuscripts as a
+first recension of the *Decretum*, half the length of the vulgate
+version most familiar to modern scholars in the form of Friedberg's
+1879 edition.**
 
 From September 2007 to May 2009, I was a student in the History of
 Christianity MAR program at Yale Divinity School. Among the courses
@@ -76,18 +82,45 @@ from YDS, at least not by that name.
 
 In October 2009, David Ganz (then of King's College, London) suggested
 that I compare two texts of the *Capitulare Carisiacense* (873) in
-Beinecke MS 413. At first, I did not think of it as a digital
+Beinecke MS 413. At first, I did not think of this as a digital
 project; it was simply a transcription exercise of the kind the
 Rouses had taught me to do. But within a month, I had created a
-custom text encoding format for my transcriptions and written a
+custom text-encoding format for my transcriptions and written a
 prototype textual difference visualizer in Perl to compare them.
 A January 2010 meeting with Barbara Shailor on the Beinecke 413
 project was the occasion for the first use I can find in my own
 notes of the term *Digital Humanities*.
 
-In the summer of 2010, I taught myself to write Python web applications
+In August 2010, I started the PhD program in the Medieval and
+Byzantine Studies Program at The Catholic University of America in
+Washington, DC. I went to CUA specifically to work with Ken Pennington
+on Gratian's *Decretum*. Even before moving from New Haven to
+Washington, I had participated in Anders's class on law in Medieval
+Europe at Yale, and once at CUA, I took Ken's classes on canon and
+Roman law, and (twice) his sources seminar. From 2010 through 2012,
+then, I thoroughly immersed myself in the scholarly debates surrounding
+Gratian and the *Decretum*. Pennington and his students Melodie
+Harris Eichbauer and Atria A. Larson argued that the Sankt Gallen
+673 (Sg) manuscript represented, at however many removes, an earlier
+version of the *Decretum* than Winroth's first recension; that a
+single author, Gratian, compiled and wrote both the first and second
+recensions of the *Decretum*; and for an early date, in the 1130s,
+for the first recension. Winroth and his student John Wei argued
+that Sg was a relatively uninteresting abbreviation of a first
+recension manuscript with some second recension interpolations;
+that two different authors, Gratian 1 and Gratian 2, compiled and
+wrote the first and second recensions; and for a late date, around
+1140, for the first recension.
+
+* * *
+
+In a January 2011 advising conversation, Jennifer Davis suggested
+that, given my professional background, it would be strategically
+advantageous for the purpose of whatever academic career I might
+hope to have to position myself as a Digital Humanities specialist.
+In the summer of 2010, I had taught myself to write Python web applications
 on the Google App Engine platform (learning Python was incidental
-to learning GAE, which is what I was really interested in), and in
+to learning GAE, which is what I was really interested in), so in
 the first half of 2011, I developed Ingobert, a Python/GAE web
 application to visualize textual differences in Beinecke 413, in
 connection with an independent study project supervised by Ken
@@ -97,8 +130,8 @@ me as a graduate assistant at the Maryland Institute for Technology
 in the Humanities (MITH) to work as a Scala/Lift programmer on the
 Active OCR project.[^4]
 
-* * *
-
+I finished my PhD comprehensive examinations in October 2012 and
+advanced to candidacy in January 2013.
 To the extent that I was looking in the first half of 2013 for a
 dissertation project with a Digital Humanities component, my focus
 was on the use of David Mimno's MALLET (MAchine Learning for LanguagE
@@ -121,12 +154,88 @@ or Anders's argument) by the one Gratian or the two Gratians,[^5]
 and run the same kind of analysis that Kestemont had run for Hildegard
 of Bingen and Guibert of Gembloux.
 
+In the late summer and early fall of 2013, I proceeded along several
+tracks in parallel. I replicated the working software environment
+in which Mike Kestemont had obtained his Hildegard results, installing
+R, R Studio, and the stylometry for R package that Mike had written
+with Maciej Eder and Jan Rybicki. I started extracting text samples
+from Reuter and Silagi’s e-text of the Friedberg edition of the
+*Decretum*. The fact that the e-text was encoded in the obsolete
+(and not tree-structured) Oxford Concordance Program format made
+this an extremely difficult and time-consuming process. In fact,
+the only parts of the e-text that could both be cleanly extracted
+using Python regular expressions and, once extracted, be quickly
+verified to be correct were the case statements. This made the case
+statements an obvious first choice for a test sample, although my
+ultimate goal was to compare only the first- and second-recension
+*dicta*.
+
+Next, I needed a distraction text presumably not written by Gratian.
+For that purpose, I chose extracts from the pseudo-Augustinian *de
+Vera et Falsa Penitentia* quoted extensively by Gratian in de Pen.
+In the interest of getting fast results, I used the ```vi``` text
+editor to hand-edit the excepts directly out of the Reuter and
+Silagi e-text. With the case statements and the *de Vera* extracts
+in hand, I now had enough in the way of text samples to verify that
+I had installed and configured R, R Studio, and stylo correctly. I
+have to admit that I was somewhat disappointed that the results of
+the first test were exactly what I should have expected: the case
+statements and the excerpt from *de Vera* formed distinct clusters
+**[reproduce!]**, indicating that they were written by two different
+individual authors. As *de Vera* is an anonymous work that predated
+the *Decretum* by no more than a decade or so, and because Gratian
+was one of the earliest authors to quote extensively from it (although
+not the earliest, as I mistakenly believed at the time), I thought
+it would make an excellent dissertation topic if it turned out that
+Gratian forged *de Vera*.
+
+Having confirmed that my test environment could correctly distinguish
+the authorship of the case statements from that of the pseudo-Augustinian
+excerpts from *de Vera*, I moved on to the much slower process of
+hand-editing text samples of the first- and second-recension *dicta*
+from the Reuter and Silagi e-text.[^6]
+
+By the second week of September 2013, I had edited the first- and
+second-recension *dicta* for the first part of the *Decretum*
+(D.1-101).
+
+When I ran stylo on the sample, however, I got neither of the two
+results I had expected: either the tight clustering of all *dicta*
+(first- and second-recension as well as case statements) indicating
+a single author and confirming all of Ken’s arguments for the unity
+of Gratian, or alternatively, a bimodal distribution confirming
+Anders’s arguments for Gratian 1 and Gratian 2. Instead, these
+preliminary results seemed to suggest that the first recension
+*dicta* had many authors, perhaps one of whom went on to write the
+second recension *dicta*.
+
 ![Figure 1 10 Sep 2013](JPGs/Photo51.jpg)
+
+When I present my work at conferences, I adopt Newton’s position
+that "I frame no hypotheses", and do not offer a story that might
+explain these results. Instead, I wait for someone to ask, and
+someone always does, before offering a likely story (“conjectural
+novella” to use Ken’s description).
+
+The JPEG image that stylo output struck me immediately and with
+considerable force as an indirect projection of the hidden inner
+structure of the *Decretum*, and as telling a very particular story
+about the earliest origins of Gratian’s text, and by extension,
+about the moment that the school started to evolve into the faculty
+(leading to the university as we recognize it).
+
+This suggested that the eponymous Gratian who gave his name to the
+entire project may not have been directly responsible for more than
+3,600 out of the 435,000 words of the Decretum as we know it.
+Instead, using the case statements as a stepping-off point (syllabus),
+he expounded the canons to his students from a 3,600-word list of
+questions and his material sources, in the form of a small pile of
+books on a table.
 
 ## Note on Translations
 
 I have, wherever possible, supplied for each Latin passage quoted
-the corresponding passage from a published English translation.[^6]
+the corresponding passage from a published English translation.[^7]
 In cases where no such translation was available, or I considered
 the available translation seriously misleading, I have supplied my
 own translation, indicated with the notation **(trans. PLE)**.
@@ -143,7 +252,17 @@ the reader closer to its author than any other part of the text."
 can be used to support this point in "The men behind the 'Decretum'",
 pp.175-192.**
 
-[^6]: @jansen_medieval_2009; @somerville_prefaces_1998; and
+[^6]: For the purpose of comparing the first- and second-recension
+*dicta*, I define the first-recension *dicta* as the *dicta* (ante
+and post, but not init.) in the first and second parts of the
+Friedberg edition of the *Decretum* to which I apply the transformations
+defined by Winroth’s appendix. I define the second-recension *dicta*
+as the *dicta* (ante and post, but not init.) in the first and
+second parts of Friedberg with the proxy first-recension text
+generated by applying the Winroth transformations subtracted away
+or masked off.
+
+[^7]: @jansen_medieval_2009; @somerville_prefaces_1998; and
 @thompson_treatise_1993 have been particularly helpful resources
 in this regard.
 
