@@ -39,15 +39,14 @@ thesis on the role of the cardinals in the thirteenth and fourteenth
 centuries, and I knew that he had written a book about Gratian's
 *Decretum*.[@chodorow_ecclesiology_1972] I was therefore aware of
 Gratian in a general sort of way, although the only use I made of
-the *Decretum* in connection with my thesis was to consult the
-Latin text of Nicholas II's 1059 decree on papal elections (D.23
-c.1).
+the *Decretum* in connection with my thesis was to consult the Latin
+text of Nicholas II's 1059 decree on papal elections (D.23 c.1).
 
 Stan encouraged me to use computer-aided typesetting for the project,
-and in this way I acquired a then-unusual skill that led
-directly to my IT career. In the mid to late 80s I went on to take
-most of the required courses for the undergraduate Computer Science
-major at UC San Diego (e.g., Data Structures, Compiler Construction,
+and in this way I acquired a then-unusual skill that led directly
+to my IT career. In the mid to late 80s I went on to take most of
+the required courses for the undergraduate Computer Science major
+at UC San Diego (e.g., Data Structures, Compiler Construction,
 Operating Systems) although I did not enroll in a degree program.
 During my professional career, I was never primarily a programmer,
 but from time to time my job responsibilities did include programming
@@ -56,20 +55,19 @@ applications.
 
 In October 2003, quite by accident, I became aware of Anders Winroth's
 *The Making of Gratian's Decretum*.[@winroth_making_2000] I had
-done a Google search for Stan, looking for his contact information, and
-found his review of Anders's book in *The English Historical
+done a Google search for Stan, looking for his contact information,
+and found his review of Anders's book in *The English Historical
 Review*.[@chodorow_review_2003] It was immediately apparent to me
 on reading the review that there had been a revolution in Gratian
 studies. My wife Carol gave me the book for Christmas 2003 with the
 inscription "I'm sure you'll gulp this one down within 24 hours."
 I did. Some years later, Anders thanked her for buying a copy: "I'm
-sure I did something very useful with the money".
-**What specifically does Chodorow say the substance of the
-revolution is? (Establishes what I knew in October and December
-2003.) Winroth identified four twelfth-century manuscripts as a
-first recension of the *Decretum*, half the length of the vulgate
-version most familiar to modern scholars in the form of Friedberg's
-1879 edition.**
+sure I did something very useful with the money". **What specifically
+does Chodorow say the substance of the revolution is? (Establishes
+what I knew in October and December 2003.) Winroth identified four
+twelfth-century manuscripts as a first recension of the *Decretum*,
+half the length of the vulgate version most familiar to modern
+scholars in the form of Friedberg's 1879 edition.**
 
 From September 2007 to May 2009, I was a student in the History of
 Christianity MAR program at Yale Divinity School. Among the courses
@@ -118,12 +116,12 @@ In a January 2011 advising conversation, Jennifer Davis suggested
 that, given my professional background, it would be strategically
 advantageous for the purpose of whatever academic career I might
 hope to have to position myself as a Digital Humanities specialist.
-In the summer of 2010, I had taught myself to write Python web applications
-on the Google App Engine platform (learning Python was incidental
-to learning GAE, which is what I was really interested in), so in
-the first half of 2011, I developed Ingobert, a Python/GAE web
-application to visualize textual differences in Beinecke 413, in
-connection with an independent study project supervised by Ken
+In the summer of 2010, I had taught myself to write Python web
+applications on the Google App Engine platform (learning Python was
+incidental to learning GAE, which is what I was really interested
+in), so in the first half of 2011, I developed Ingobert, a Python/GAE
+web application to visualize textual differences in Beinecke 413,
+in connection with an independent study project supervised by Ken
 Pennington and Jennifer Davis. Largely on the strength of the
 Ingobert project, Neil Fraistat of the University of Maryland hired
 me as a graduate assistant at the Maryland Institute for Technology
@@ -131,13 +129,13 @@ in the Humanities (MITH) to work as a Scala/Lift programmer on the
 Active OCR project.[^4]
 
 I finished my PhD comprehensive examinations in October 2012 and
-advanced to candidacy in January 2013.
-To the extent that I was looking in the first half of 2013 for a
-dissertation project with a Digital Humanities component, my focus
-was on the use of David Mimno's MALLET (MAchine Learning for LanguagE
-Toolkit) to topic model *dicta* and canon texts from the first and
-second recensions of Gratian's *Decretum* as a way to identify new
-topics added in the second recension.
+advanced to candidacy in January 2013. To the extent that I was
+looking in the first half of 2013 for a dissertation project with
+a Digital Humanities component, my focus was on the use of David
+Mimno's MALLET (MAchine Learning for LanguagE Toolkit) to topic
+model *dicta* and canon texts from the first and second recensions
+of Gratian's *Decretum* as a way to identify new topics added in
+the second recension.
 
 * * *
 
