@@ -140,12 +140,12 @@ the second recension.
 The model was Pennington's observation that most passages in the
 Decretum dealing with the legal status of Jews, particularly those
 dealing with forced conversion, were introduced only in the second
-recension.[^a] My goal was to see whether more such topics could
+recension.[^5] My goal was to see whether more such topics could
 be surfaced using MALLET, by topic modeling the first and second
 parts of the vulgate *Decretum*, topic modeling the first recension,
 and seeing what topics were left when the first recension topics
 were subtracted from the vulgate topics. While conceptually simple,
-this proved prohibitively difficult in practice.[^b]
+this proved prohibitively difficult in practice.[^6]
 
 * * *
 
@@ -158,7 +158,7 @@ based on indirect evidence like the Siena necrology, about whether
 there had been one Gratian or two. I would extract the first- and
 second-recension *dicta*, parts of the text of the *Decretum* thought
 to have actually been written (depending on whether you accept Ken's
-or Anders's argument) by the one Gratian or the two Gratians,[^5]
+or Anders's argument) by the one Gratian or the two Gratians,[^7]
 and run the same kind of analysis that Kestemont had run for Hildegard
 of Bingen and Guibert of Gembloux.
 
@@ -201,7 +201,7 @@ Having confirmed that my test environment could correctly distinguish
 the authorship of the case statements from that of the pseudo-Augustinian
 excerpts from *de Vera*, I moved on to the much slower process of
 hand-editing text samples of the first- and second-recension *dicta*
-from the Reuter and Silagi e-text.[^6]
+from the Reuter and Silagi e-text.[^8]
 
 By the second week of September 2013, I had edited the first- and
 second-recension *dicta* for the first part of the *Decretum*
@@ -243,7 +243,7 @@ books on a table.
 ## Note on Translations
 
 I have, wherever possible, supplied for each Latin passage quoted
-the corresponding passage from a published English translation.[^7]
+the corresponding passage from a published English translation.[^9]
 In cases where no such translation was available, or I considered
 the available translation seriously misleading, I have supplied my
 own translation, indicated with the notation **(trans. PLE)**.
@@ -252,22 +252,51 @@ own translation, indicated with the notation **(trans. PLE)**.
 [^4]: NEH ODH Grant number:
 [HD-51568-12](https://securegrants.neh.gov/publicquery/main.aspx?f=1&gn=HD-51568-12)
 
-[^a]:"The Law's Violence Against Medieval and Early Modern Jews"
-(2013) and "Gratian and the Jews" (2014)
+[^5]: @pennington_laws_2013; and @pennington_gratian_2014.
 
-[^b]: **This project was attractive to Pennington because although
+[^6]: **This project was attractive to Pennington because although
 the results would be obtained computationally, they could be verified
 by someone doing a close reading of the text of the *Decretum*.
+There were three insurmountable barriers to carrying out the project
+as originally conceived: the time required to prepare the necessary
+text samples; the difficulty in determining the number of topics
+to look for, a necessary precondition for unsupervised topic
+modeling; and the fact that there was no obvious way to subtract
+or mask topics.** While a stylometric analysis for authorship
+attribution requires only the *dicta* (ante, post and init.) thought
+to have been written by Gratian himself, a topic can be present in
+any text in the *Decretum*, inscriptions and canons as well as
+rubrics and *dicta*. It took six weeks---twice---just to prepare
+a proxy text for the first-recension *dicta*. (In late Summer 2015
+I discovered quality anomalies in the *dicta* samples I had hand-edited
+in Fall 2013, so in Fall 2015, I regenerated the *dicta* samples
+from scratch by rigorously cross-checking all of the hand-edited
+*dicta* against a data set automatically generated using Python
+regular expressions until no differences remained between the two
+sets of samples.) There is about four times as much text by word
+count in the canons as there is in the *dicta*, so I estimated that
+it would take just under six months to prepare a proxy text for the
+first-recension canons. The Latent Dirichlet Allocation (LDA)
+algorithm that MALLET uses to generate topic models has to be
+provided with an exact number of topics to look for. In February
+2014, I carried out a preliminary experiment to obtain a rough
+estimate of the number of topics in the Decretum, inspired by the
+metaphor of focusing a telescope. I took a de-tagged version of the
+vulgate text of the Friedberg edition, with no attempt to separate
+it into first- and second-recension samples, and repeatedly ran
+MALLET on it, looking for values of the number of topics at which
+Pennington's topic on the legal status of Jews came into focus.
+**
 
-[^5]: To the extent that there is some one person we can point to
+[^7]: To the extent that there is some one person we can point to
 as corresponding to our idea of "Gratian," it's the author of the
-first-recension dicta. "The *dicta* in Gratian's *Decretum* bring
+first-recension *dicta*. "The *dicta* in Gratian's *Decretum* bring
 the reader closer to its author than any other part of the text."
 [@winroth_making_2000, 187]. **See if there is anything else that
 can be used to support this point in "The men behind the 'Decretum'",
 pp.175-192.**
 
-[^6]: For the purpose of comparing the first- and second-recension
+[^8]: For the purpose of comparing the first- and second-recension
 *dicta*, I define the first-recension *dicta* as the *dicta* (ante
 and post, but not init.) in the first and second parts of the
 Friedberg edition of the *Decretum* to which I apply the transformations
@@ -277,7 +306,7 @@ second parts of Friedberg with the proxy first-recension text
 generated by applying the Winroth transformations subtracted away
 or masked off.
 
-[^7]: @jansen_medieval_2009; @somerville_prefaces_1998; and
+[^9]: @jansen_medieval_2009; @somerville_prefaces_1998; and
 @thompson_treatise_1993 have been particularly helpful resources
 in this regard.
 
