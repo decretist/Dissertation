@@ -137,6 +137,16 @@ model *dicta* and canon texts from the first and second recensions
 of Gratian's *Decretum* as a way to identify new topics added in
 the second recension.
 
+The model was Pennington's observation that most passages in the
+Decretum dealing with the legal status of Jews, particularly those
+dealing with forced conversion, were introduced only in the second
+recension.[^a] My goal was to see whether more such topics could
+be surfaced using MALLET, by topic modeling the first and second
+parts of the vulgate *Decretum*, topic modeling the first recension,
+and seeing what topics were left when the first recension topics
+were subtracted from the vulgate topics. While conceptually simple,
+this proved prohibitively difficult in practice.[^b]
+
 * * *
 
 I closely followed the DH 2013 conference at the University of
@@ -170,7 +180,7 @@ ultimate goal was to compare only the first- and second-recension
 
 Next, I needed a distraction text presumably not written by Gratian.
 For that purpose, I chose extracts from the pseudo-Augustinian *de
-Vera et Falsa Penitentia* quoted extensively by Gratian in de Pen.
+Vera et Falsa Penitentia* quoted extensively by Gratian in *de Pen.*
 In the interest of getting fast results, I used the ```vi``` text
 editor to hand-edit the excepts directly out of the Reuter and
 Silagi e-text. With the case statements and the *de Vera* extracts
@@ -241,6 +251,13 @@ own translation, indicated with the notation **(trans. PLE)**.
 
 [^4]: NEH ODH Grant number:
 [HD-51568-12](https://securegrants.neh.gov/publicquery/main.aspx?f=1&gn=HD-51568-12)
+
+[^a]:"The Law's Violence Against Medieval and Early Modern Jews"
+(2013) and "Gratian and the Jews" (2014)
+
+[^b]: **This project was attractive to Pennington because although
+the results would be obtained computationally, they could be verified
+by someone doing a close reading of the text of the *Decretum*.
 
 [^5]: To the extent that there is some one person we can point to
 as corresponding to our idea of "Gratian," it's the author of the
