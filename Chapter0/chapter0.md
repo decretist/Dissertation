@@ -262,31 +262,35 @@ as originally conceived: the time required to prepare the necessary
 text samples; the difficulty in determining the number of topics
 to look for, a necessary precondition for unsupervised topic
 modeling; and the fact that there was no obvious way to subtract
-or mask topics.** While a stylometric analysis for authorship
-attribution requires only the *dicta* (ante, post and init.) thought
-to have been written by Gratian himself, a topic can be present in
-any text in the *Decretum*, inscriptions and canons as well as
-rubrics and *dicta*. It took six weeks---twice---just to prepare
-a proxy text for the first-recension *dicta*. (In late Summer 2015
-I discovered quality anomalies in the *dicta* samples I had hand-edited
-in Fall 2013, so in Fall 2015, I regenerated the *dicta* samples
-from scratch by rigorously cross-checking all of the hand-edited
-*dicta* against a data set automatically generated using Python
-regular expressions until no differences remained between the two
-sets of samples.) There is about four times as much text by word
-count in the canons as there is in the *dicta*, so I estimated that
-it would take just under six months to prepare a proxy text for the
-first-recension canons. The Latent Dirichlet Allocation (LDA)
-algorithm that MALLET uses to generate topic models has to be
-provided with an exact number of topics to look for. In February
-2014, I carried out a preliminary experiment to obtain a rough
-estimate of the number of topics in the Decretum, inspired by the
-metaphor of focusing a telescope. I took a de-tagged version of the
-vulgate text of the Friedberg edition, with no attempt to separate
-it into first- and second-recension samples, and repeatedly ran
-MALLET on it, looking for values of the number of topics at which
-Pennington's topic on the legal status of Jews came into focus.
-**
+or mask topics.**
+
+    While a stylometric analysis for authorship attribution requires
+    only the *dicta* (ante, post and init.) thought to have been
+    written by Gratian himself, a topic can be present in any text
+    in the *Decretum*, inscriptions and canons as well as rubrics
+    and *dicta*. It took six weeks---twice---just to prepare a proxy
+    text for the first-recension *dicta*. (In late Summer 2015 I
+    discovered quality anomalies in the *dicta* samples I had
+    hand-edited in Fall 2013, so in Fall 2015, I regenerated the
+    *dicta* samples from scratch by rigorously cross-checking all
+    of the hand-edited *dicta* against a data set automatically
+    generated using Python regular expressions until no differences
+    remained between the two sets of samples.) There is about four
+    times as much text by word count in the canons as there is in
+    the *dicta*, so I estimated that it would take just under six
+    months to prepare a proxy text for the first-recension canons.
+
+    The Latent Dirichlet Allocation (LDA) algorithm that MALLET
+    uses to generate topic models has to be provided with an exact
+    number of topics to look for. In February 2014, I carried out
+    a preliminary experiment to obtain a rough estimate of the
+    number of topics in the Decretum, inspired by the metaphor of
+    focusing a telescope. I took a de-tagged version of the vulgate
+    text of the Friedberg edition, with no attempt to separate it
+    into first- and second-recension samples, and repeatedly ran
+    MALLET on it, looking for values of the number of topics at
+    which Pennington's topic on the legal status of Jews came into
+    focus.
 
 [^7]: To the extent that there is some one person we can point to
 as corresponding to our idea of "Gratian," it's the author of the
