@@ -102,18 +102,17 @@ but also a certain level of personal discomfort at being unable to
 reconcile the contradictory positions staked out by Pennington and
 Winroth.
 
-Pennington and his students Melodie
-Harris Eichbauer and Atria A. Larson argued that the Sankt Gallen
-673 (Sg) manuscript represented, at however many removes, an earlier
-version of the *Decretum* than Winroth's first recension; that a
-single author, Gratian, compiled and wrote both the first and second
-recensions of the *Decretum*; and for an early date, in the 1130s,
-for the first recension. Winroth and his student John Wei argued
-that Sg was a relatively uninteresting abbreviation of a first
-recension manuscript with some second recension interpolations;
-that two different authors, Gratian 1 and Gratian 2, compiled and
-wrote the first and second recensions; and for a late date, around
-1140, for the first recension.
+Pennington and his students Melodie Harris Eichbauer and Atria A.
+Larson argued that the Sankt Gallen 673 (Sg) manuscript represented,
+at however many removes, an earlier version of the *Decretum* than
+Winroth's first recension; that a single author, Gratian, compiled
+and wrote both the first and second recensions of the *Decretum*;
+and for an early date, in the 1130s, for the first recension. Winroth
+and his student John Wei argued that Sg was a relatively uninteresting
+abbreviation of a first recension manuscript with some second
+recension interpolations; that two different authors, Gratian 1 and
+Gratian 2, compiled and wrote the first and second recensions; and
+for a late date, around 1140, for the first recension.
 
 In a January 2011 advising conversation, Jennifer Davis suggested
 that, given my professional background, it would be strategically
@@ -132,12 +131,12 @@ in the Humanities (MITH) to work as a Scala/Lift programmer on the
 Active OCR project.[^4]
 
 I finished my PhD comprehensive examinations in October 2012 and
-advanced to candidacy in January 2013.
-I had not yet made a definite decision to pursue a dissertation
-project with a Digital Humanities component, but audited Matt
-Kirschenbaum's graduate Introduction to Digital Humanities course
-at the University of Maryland in Spring 2013, with the idea that
-an overview of the field would suggest a way forward.
+advanced to candidacy in January 2013. I had not yet made a definite
+decision to pursue a dissertation project with a Digital Humanities
+component, but audited Matt Kirschenbaum's graduate Introduction
+to Digital Humanities course at the University of Maryland in Spring
+2013, with the idea that an overview of the field would suggest a
+way forward.
 
 My first step was to obtain an electronic version of the *Decretum*
 text. In the mid- to late-1980s, Timothy Reuter and Gabriel Silagi
@@ -147,7 +146,7 @@ Thomisticus*, for the Monumenta Germaniae Historica (MGH) in
 Munich.[@reuter_wortkonkordanz_1990] As part of the project, the
 MGH undertook to scan, correct, and encode in the now-obsolete and
 non-tree-structured Oxford Concordance Program (OCP) format the
-1879 Friedberg edition of the *Decretum*.  In spring 2013, Anders
+1879 Friedberg edition of the *Decretum*. In spring 2013, Anders
 Winroth and Lou Burnard of the Oxford Text Archive (OTA) each
 provided me with a copy of the Reuter and Silagi e-text. The two
 copies, however, differed in many places, and I had to go through
@@ -163,17 +162,16 @@ My initial focus in the first half of 2013 was on the use of David
 Mimno's MALLET (MAchine Learning for LanguagE Toolkit) to topic
 model *dicta* and canon texts from the first and second recensions
 of Gratian's *Decretum* as a way to identify new topics added in
-the second recension.
-
-The model was Pennington's observation that most passages in the
-Decretum dealing with the legal status of Jews, particularly those
-dealing with forced conversion, were introduced only in the second
-recension.[^6] My goal was to see whether more such topics could
-be surfaced using MALLET, by topic modeling the first and second
-parts of the vulgate *Decretum*, topic modeling the first recension,
-and seeing what topics were left when the first recension topics
-were subtracted from the vulgate topics. While conceptually simple,
-this proved prohibitively difficult in practice.[^7]
+the second recension. The model was Pennington's observation that
+most passages in the *Decretum* dealing with the legal status of
+Jews, particularly those dealing with forced conversion, were
+introduced only in the second recension.[^6] My goal was to see
+whether more such topics could be surfaced using MALLET, by topic
+modeling the first and second parts of the vulgate *Decretum*, topic
+modeling the first recension, and seeing what topics were left when
+the first recension topics were subtracted from the vulgate topics.
+While conceptually simple, this proved prohibitively difficult in
+practice.[^7]
 
 * * *
 
@@ -262,7 +260,7 @@ about the moment that the school started to evolve into the faculty
 
 This suggested that the eponymous Gratian who gave his name to the
 entire project may not have been directly responsible for more than
-3,600 out of the 435,000 words of the Decretum as we know it.
+3,600 out of the 435,000 words of the *Decretum* as we know it.
 Instead, using the case statements as a stepping-off point (syllabus),
 he expounded the canons to his students from a 3,600-word list of
 questions and his material sources, in the form of a small pile of
@@ -274,7 +272,7 @@ I have, wherever possible, supplied for each Latin passage quoted
 the corresponding passage from a published English translation.[^10]
 In cases where no such translation was available, or I considered
 the available translation seriously misleading, I have supplied my
-own translation, indicated with the notation **(trans. PLE)**.
+own translation, indicated with the notation (trans. PLE).
 **Acknowledge Atria A. Larson.**
 
 [^4]: NEH ODH Grant number:
@@ -282,26 +280,26 @@ own translation, indicated with the notation **(trans. PLE)**.
 
 [^6]: @pennington_laws_2013; and @pennington_gratian_2014.
 
-[^7]: **This project was attractive to Pennington because although
+[^7]: This project was attractive to Pennington because although
 the results would be obtained computationally, they could be verified
 by someone doing a close reading of the text of the *Decretum*.
 There were three insurmountable barriers to carrying out the project
 as originally conceived: the time required to prepare the necessary
 text samples; the difficulty in determining the number of topics
-to look for, a necessary precondition for unsupervised topic
-modeling; and the fact that there was no obvious way to subtract
-or mask topics.**
+to look for, a necessary precondition for unsupervised topic modeling;
+and the fact that there was no obvious way to subtract or mask
+topics.
 
     While a stylometric analysis for authorship attribution requires
-    only the *dicta* (ante, post and init.) thought to have been
-    written by Gratian himself, a topic can be present in any text
-    in the *Decretum*, inscriptions and canons as well as rubrics
-    and *dicta*. It took six weeks---twice---just to prepare a proxy
-    text for the first-recension *dicta*. (In late Summer 2015 I
-    discovered quality anomalies in the *dicta* samples I had
-    hand-edited in Fall 2013, so in Fall 2015, I regenerated the
-    *dicta* samples from scratch by rigorously cross-checking all
-    of the hand-edited *dicta* against a data set automatically
+    only the *dicta* (*ante*, *post* and *init.*) thought to have
+    been written by Gratian himself, a topic can be present in any
+    text in the *Decretum*, inscriptions and canons as well as
+    rubrics and *dicta*. It took six weeks---twice---just to prepare
+    a proxy text for the first-recension *dicta*. (In late Summer
+    2015 I discovered quality anomalies in the *dicta* samples I
+    had hand-edited in Fall 2013, so in Fall 2015, I regenerated
+    the *dicta* samples from scratch by rigorously cross-checking
+    all of the hand-edited *dicta* against a data set automatically
     generated using Python regular expressions until no differences
     remained between the two sets of samples.) There is about four
     times as much text by word count in the canons as there is in
@@ -312,13 +310,13 @@ or mask topics.**
     uses to generate topic models has to be provided with an exact
     number of topics to look for. In February 2014, I carried out
     a preliminary experiment to obtain a rough estimate of the
-    number of topics in the Decretum, inspired by the metaphor of
-    focusing a telescope. I took a de-tagged version of the vulgate
-    text of the Friedberg edition, with no attempt to separate it
-    into first- and second-recension samples, and repeatedly ran
-    MALLET on it, looking for values of the number of topics at
-    which Pennington's topic on the legal status of Jews came into
-    focus.
+    number of topics in the *Decretum*, inspired by the metaphor
+    of focusing a telescope. I took a de-tagged version of the
+    vulgate text of the Friedberg edition, with no attempt to
+    separate it into first- and second-recension samples, and
+    repeatedly ran MALLET on it, looking for values of the number
+    of topics at which Pennington's topic on the legal status of
+    Jews came into focus.
 
 [^8]: To the extent that there is some one person we can point to
 as corresponding to our idea of "Gratian," it's the author of the
@@ -329,12 +327,12 @@ can be used to support this point in "The men behind the 'Decretum'",
 pp.175-192.**
 
 [^9]: For the purpose of comparing the first- and second-recension
-*dicta*, I define the first-recension *dicta* as the *dicta* (ante
-and post, but not init.) in the first and second parts of the
+*dicta*, I define the first-recension *dicta* as the *dicta* (*ante*
+and *post*, but not *init.*) in the first and second parts of the
 Friedberg edition of the *Decretum* to which I apply the transformations
 defined by Winroth’s appendix. I define the second-recension *dicta*
-as the *dicta* (ante and post, but not init.) in the first and
-second parts of Friedberg with the proxy first-recension text
+as the *dicta* (*ante* and *post*, but not *init.*) in the first
+and second parts of Friedberg with the proxy first-recension text
 generated by applying the Winroth transformations subtracted away
 or masked off.
 
