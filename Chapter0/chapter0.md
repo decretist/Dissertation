@@ -97,7 +97,12 @@ Washington, I had participated in Anders's class on law in Medieval
 Europe at Yale, and once at CUA, I took Ken's classes on canon and
 Roman law, and (twice) his sources seminar. From 2010 through 2012,
 then, I thoroughly immersed myself in the scholarly debates surrounding
-Gratian and the *Decretum*. Pennington and his students Melodie
+Gratian and the *Decretum* **with considerable intellectual interest
+but also a certain level of personal discomfort at being unable to
+reconcile the contradictory positions staked out by Pennington and
+Winroth.**
+
+Pennington and his students Melodie
 Harris Eichbauer and Atria A. Larson argued that the Sankt Gallen
 673 (Sg) manuscript represented, at however many removes, an earlier
 version of the *Decretum* than Winroth's first recension; that a
@@ -129,9 +134,14 @@ in the Humanities (MITH) to work as a Scala/Lift programmer on the
 Active OCR project.[^4]
 
 I finished my PhD comprehensive examinations in October 2012 and
-advanced to candidacy in January 2013. To the extent that I was
-looking in the first half of 2013 for a dissertation project with
-a Digital Humanities component, my focus was on the use of David
+advanced to candidacy in January 2013.
+**I had not yet made a definite decision to pursue a dissertation
+project with a Digital Humanities component, but audited Matt
+Kirschenbaum's graduate Introduction to Digital Humanities course
+at the University of Maryland in Spring 2013, with the idea that
+an overview of the field would suggest a way forward. My initial
+focus in the first half of 2013**
+was on the use of David
 Mimno's MALLET (MAchine Learning for LanguagE Toolkit) to topic
 model *dicta* and canon texts from the first and second recensions
 of Gratian's *Decretum* as a way to identify new topics added in
