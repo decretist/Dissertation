@@ -97,10 +97,10 @@ Washington, I had participated in Anders's class on law in Medieval
 Europe at Yale, and once at CUA, I took Ken's classes on canon and
 Roman law, and (twice) his sources seminar. From 2010 through 2012,
 then, I thoroughly immersed myself in the scholarly debates surrounding
-Gratian and the *Decretum* **with considerable intellectual interest
+Gratian and the *Decretum* with considerable intellectual interest
 but also a certain level of personal discomfort at being unable to
 reconcile the contradictory positions staked out by Pennington and
-Winroth.**
+Winroth.
 
 Pennington and his students Melodie
 Harris Eichbauer and Atria A. Larson argued that the Sankt Gallen
@@ -114,8 +114,6 @@ recension manuscript with some second recension interpolations;
 that two different authors, Gratian 1 and Gratian 2, compiled and
 wrote the first and second recensions; and for a late date, around
 1140, for the first recension.
-
-* * *
 
 In a January 2011 advising conversation, Jennifer Davis suggested
 that, given my professional background, it would be strategically
@@ -135,13 +133,33 @@ Active OCR project.[^4]
 
 I finished my PhD comprehensive examinations in October 2012 and
 advanced to candidacy in January 2013.
-**I had not yet made a definite decision to pursue a dissertation
+I had not yet made a definite decision to pursue a dissertation
 project with a Digital Humanities component, but audited Matt
 Kirschenbaum's graduate Introduction to Digital Humanities course
 at the University of Maryland in Spring 2013, with the idea that
-an overview of the field would suggest a way forward. My initial
-focus in the first half of 2013**
-was on the use of David
+an overview of the field would suggest a way forward.
+
+My first step was to obtain an electronic version of the *Decretum*
+text. In the mid- to late-1980s, Timothy Reuter and Gabriel Silagi
+edited the *Wortkonkordanz zum Decretum Gratiani*, a computer-generated
+concordance in the tradition of Father Roberto Busa's *Index
+Thomisticus*, for the Monumenta Germaniae Historica (MGH) in
+Munich.[@reuter_wortkonkordanz_1990] As part of the project, the
+MGH undertook to scan, correct, and encode in the now-obsolete and
+non-tree-structured Oxford Concordance Program (OCP) format the
+1879 Friedberg edition of the *Decretum*.  In spring 2013, Anders
+Winroth and Lou Burnard of the Oxford Text Archive (OTA) each
+provided me with a copy of the Reuter and Silagi e-text. The two
+copies, however, differed in many places, and I had to go through
+a process similar to preparing a critical edition to restore the
+e-text to a state as close as possible to what I though the editors
+intended. I then began to experiment with writing Python programs
+that used regular expressions to extract textual features of interest.
+The fact that the OCP e-text format is not tree-structured the way
+XML is---textual features have start tags but not end tags---makes
+it extremely difficult to parse, so this was a slow process.
+
+My initial focus in the first half of 2013 was on the use of David
 Mimno's MALLET (MAchine Learning for LanguagE Toolkit) to topic
 model *dicta* and canon texts from the first and second recensions
 of Gratian's *Decretum* as a way to identify new topics added in
@@ -150,12 +168,12 @@ the second recension.
 The model was Pennington's observation that most passages in the
 Decretum dealing with the legal status of Jews, particularly those
 dealing with forced conversion, were introduced only in the second
-recension.[^5] My goal was to see whether more such topics could
+recension.[^6] My goal was to see whether more such topics could
 be surfaced using MALLET, by topic modeling the first and second
 parts of the vulgate *Decretum*, topic modeling the first recension,
 and seeing what topics were left when the first recension topics
 were subtracted from the vulgate topics. While conceptually simple,
-this proved prohibitively difficult in practice.[^6]
+this proved prohibitively difficult in practice.[^7]
 
 * * *
 
@@ -168,7 +186,7 @@ based on indirect evidence like the Siena necrology, about whether
 there had been one Gratian or two. I would extract the first- and
 second-recension *dicta*, parts of the text of the *Decretum* thought
 to have actually been written (depending on whether you accept Ken's
-or Anders's argument) by the one Gratian or the two Gratians,[^7]
+or Anders's argument) by the one Gratian or the two Gratians,[^8]
 and run the same kind of analysis that Kestemont had run for Hildegard
 of Bingen and Guibert of Gembloux.
 
@@ -211,7 +229,7 @@ Having confirmed that my test environment could correctly distinguish
 the authorship of the case statements from that of the pseudo-Augustinian
 excerpts from *de Vera*, I moved on to the much slower process of
 hand-editing text samples of the first- and second-recension *dicta*
-from the Reuter and Silagi e-text.[^8]
+from the Reuter and Silagi e-text.[^9]
 
 By the second week of September 2013, I had edited the first- and
 second-recension *dicta* for the first part of the *Decretum*
@@ -253,7 +271,7 @@ books on a table.
 ## Note on Translations
 
 I have, wherever possible, supplied for each Latin passage quoted
-the corresponding passage from a published English translation.[^9]
+the corresponding passage from a published English translation.[^10]
 In cases where no such translation was available, or I considered
 the available translation seriously misleading, I have supplied my
 own translation, indicated with the notation **(trans. PLE)**.
@@ -262,9 +280,9 @@ own translation, indicated with the notation **(trans. PLE)**.
 [^4]: NEH ODH Grant number:
 [HD-51568-12](https://securegrants.neh.gov/publicquery/main.aspx?f=1&gn=HD-51568-12)
 
-[^5]: @pennington_laws_2013; and @pennington_gratian_2014.
+[^6]: @pennington_laws_2013; and @pennington_gratian_2014.
 
-[^6]: **This project was attractive to Pennington because although
+[^7]: **This project was attractive to Pennington because although
 the results would be obtained computationally, they could be verified
 by someone doing a close reading of the text of the *Decretum*.
 There were three insurmountable barriers to carrying out the project
@@ -302,7 +320,7 @@ or mask topics.**
     which Pennington's topic on the legal status of Jews came into
     focus.
 
-[^7]: To the extent that there is some one person we can point to
+[^8]: To the extent that there is some one person we can point to
 as corresponding to our idea of "Gratian," it's the author of the
 first-recension *dicta*. "The *dicta* in Gratian's *Decretum* bring
 the reader closer to its author than any other part of the text."
@@ -310,7 +328,7 @@ the reader closer to its author than any other part of the text."
 can be used to support this point in "The men behind the 'Decretum'",
 pp.175-192.**
 
-[^8]: For the purpose of comparing the first- and second-recension
+[^9]: For the purpose of comparing the first- and second-recension
 *dicta*, I define the first-recension *dicta* as the *dicta* (ante
 and post, but not init.) in the first and second parts of the
 Friedberg edition of the *Decretum* to which I apply the transformations
@@ -320,7 +338,7 @@ second parts of Friedberg with the proxy first-recension text
 generated by applying the Winroth transformations subtracted away
 or masked off.
 
-[^9]: @jansen_medieval_2009; @somerville_prefaces_1998; and
+[^10]: @jansen_medieval_2009; @somerville_prefaces_1998; and
 @thompson_treatise_1993 have been particularly helpful resources
 in this regard.
 
