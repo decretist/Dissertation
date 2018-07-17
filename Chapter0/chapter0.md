@@ -26,9 +26,9 @@ and will be explained in considerable depth in Chapter 4.
 I did not start work on this project thinking that the authorship
 of the case statements was in any way a research problem. I assumed
 that by definition the author of the case statements was one and
-the same person as the author of the first-recension *dicta*.
-It is therefore worth explaining in some detail how I came to write
-a PhD dissertation about a completely unexpected finding that I was
+the same person as the author of the first-recension *dicta*. It
+is therefore worth explaining in some detail how I came to write a
+PhD dissertation about a completely unexpected finding that I was
 not looking for in the first place.
 
 I worked in information technology as a system administrator and
@@ -42,11 +42,11 @@ Gratian in a general sort of way, although the only use I made of
 the *Decretum* in connection with my thesis was to consult the Latin
 text of Nicholas II's 1059 decree on papal elections (D.23 c.1).
 
-Chodorow encouraged me to use computer-aided typesetting for the project,
-and in this way I acquired a then-unusual skill that led directly
-to my IT career. In the mid to late 80s I went on to take most of
-the required courses for the undergraduate Computer Science major
-at UC San Diego (e.g., Data Structures, Compiler Construction,
+Chodorow encouraged me to use computer-aided typesetting for the
+project, and in this way I acquired a then-unusual skill that led
+directly to my IT career. In the mid to late 80s I went on to take
+most of the required courses for the undergraduate Computer Science
+major at UC San Diego (e.g., Data Structures, Compiler Construction,
 Operating Systems) although I did not enroll in a degree program.
 During my professional career, I was never primarily a programmer,
 but from time to time my job responsibilities did include programming
@@ -63,8 +63,8 @@ and more coherent, recension of the *Decretum*. In addition, I
 became aware of Winroth's claim that two different authors, Gratian
 1 and Gratian 2, were responsible for the first and second recensions.
 It was clear to me that there had been a revolution in Gratian
-studies. My wife Carol gave me the book for Christmas 2003 with
-the inscription "I'm sure you'll gulp this one down within 24 hours."
+studies. My wife Carol gave me the book for Christmas 2003 with the
+inscription "I'm sure you'll gulp this one down within 24 hours."
 I did. Some years later, Anders thanked her for buying a copy: "I'm
 sure I did something very useful with the money".
 
@@ -93,13 +93,13 @@ Byzantine Studies Program at The Catholic University of America in
 Washington, DC. I went to CUA specifically to work with Ken Pennington
 on Gratian's *Decretum*. Even before moving from New Haven to
 Washington, I had participated in Winroth's class on law in Medieval
-Europe at Yale, and once at CUA, I took Pennington's classes on canon and
-Roman law, and (twice) his sources seminar. From 2010 through 2012,
-then, I thoroughly immersed myself in the scholarly debates surrounding
-Gratian and the *Decretum* with considerable intellectual interest
-but also a certain level of personal discomfort at being unable to
-reconcile the contradictory positions staked out by Pennington and
-Winroth.
+Europe at Yale, and once at CUA, I took Pennington's classes on
+canon and Roman law, and (twice) his sources seminar. From 2010
+through 2012, then, I thoroughly immersed myself in the scholarly
+debates surrounding Gratian and the *Decretum* with considerable
+intellectual interest but also a certain level of personal discomfort
+at being unable to reconcile the contradictory positions staked out
+by Pennington and Winroth.
 
 Pennington and his students Melodie Harris Eichbauer and Atria A.
 Larson argued that the Sankt Gallen 673 (Sg) manuscript represented,
@@ -123,11 +123,11 @@ incidental to learning GAE, which is what I was really interested
 in), so in the first half of 2011, I developed Ingobert, a Python/GAE
 web application to visualize textual differences in Beinecke 413,
 in connection with an independent study project supervised by
-Pennington and Davis. Largely on the strength of the
-Ingobert project, Neil Fraistat of the University of Maryland hired
-me as a graduate assistant at the Maryland Institute for Technology
-in the Humanities (MITH) to work as a Scala/Lift programmer on the
-Active OCR project.[^4]
+Pennington and Davis. Largely on the strength of the Ingobert
+project, Neil Fraistat of the University of Maryland hired me as a
+graduate assistant at the Maryland Institute for Technology in the
+Humanities (MITH) to work as a Scala/Lift programmer on the Active
+OCR project.[^4]
 
 I finished my PhD comprehensive examinations in October 2012 and
 advanced to candidacy in January 2013. I had not yet made a definite
@@ -145,17 +145,17 @@ Thomisticus*, for the Monumenta Germaniae Historica (MGH) in
 Munich.[@reuter_wortkonkordanz_1990] As part of the project, the
 MGH undertook to scan, correct, and encode in the now-obsolete and
 non-tree-structured Oxford Concordance Program (OCP) format the
-1879 Friedberg edition of the *Decretum*. In spring 2013,
-Winroth and Lou Burnard of the Oxford Text Archive (OTA) each
-provided me with a copy of the Reuter and Silagi e-text. The two
-copies, however, differed in many places, and I had to go through
-a process similar to preparing a critical edition to restore the
-e-text to a state as close as possible to what I though the editors
-intended. I then began to experiment with writing Python programs
-that used regular expressions to extract textual features of interest.
-The fact that the OCP e-text format is not tree-structured the way
-XML is---textual features have start tags but not end tags---makes
-it extremely difficult to parse, so this was a slow process.
+1879 Friedberg edition of the *Decretum*. In spring 2013, Winroth
+and Lou Burnard of the Oxford Text Archive (OTA) each provided me
+with a copy of the Reuter and Silagi e-text. The two copies, however,
+differed in many places, and I had to go through a process similar
+to preparing a critical edition to restore the e-text to a state
+as close as possible to what I though the editors intended. I then
+began to experiment with writing Python programs that used regular
+expressions to extract textual features of interest. The fact that
+the OCP e-text format is not tree-structured the way XML is---textual
+features have start tags but not end tags---makes it extremely
+difficult to parse, so this was a slow process.
 
 My initial focus in the first half of 2013 was on the use of David
 Mimno's MALLET (MAchine Learning for LanguagE Toolkit) to topic
@@ -190,26 +190,26 @@ to me; it seemed to finally offer a way past endless debates based
 on indirect evidence about whether there had been one Gratian or
 two. I would extract the first- and second-recension *dicta*, those
 parts of the text of the *Decretum* thought to have actually been
-written (depending on whether one accepted Pennington's or Winroth's argument)
-by the one Gratian or the two Gratians,[^9] and run the same kind
-of analysis that Kestemont had run for Hildegard of Bingen and
-Guibert of Gembloux.
+written (depending on whether one accepted Pennington's or Winroth's
+argument) by the one Gratian or the two Gratians,[^9] and run the
+same kind of analysis that Kestemont had run for Hildegard of Bingen
+and Guibert of Gembloux.
 
 In the late summer and early fall of 2013, I proceeded along several
 tracks in parallel. I replicated the working software environment
 in which Kestemont had obtained his Hildegard results, installing
-R, R Studio, and the stylometry for R package that Kestemont had written
-with Maciej Eder and Jan Rybicki. I started extracting text samples
-from Reuter and Silagi’s e-text of the Friedberg edition of the
-*Decretum*. The fact that the e-text was encoded in the obsolete
-(and not tree-structured) Oxford Concordance Program format made
-this an extremely difficult and time-consuming process. In fact,
-the only parts of the e-text that could both be cleanly extracted
-using Python regular expressions and, once extracted, be quickly
-verified to be correct were the case statements. This made the case
-statements an obvious first choice for a test sample, although my
-ultimate goal was to compare only the first- and second-recension
-*dicta*.
+R, R Studio, and the stylometry for R package that Kestemont had
+written with Maciej Eder and Jan Rybicki. I started extracting text
+samples from Reuter and Silagi’s e-text of the Friedberg edition
+of the *Decretum*. The fact that the e-text was encoded in the
+obsolete (and not tree-structured) Oxford Concordance Program format
+made this an extremely difficult and time-consuming process. In
+fact, the only parts of the e-text that could both be cleanly
+extracted using Python regular expressions and, once extracted, be
+quickly verified to be correct were the case statements. This made
+the case statements an obvious first choice for a test sample,
+although my ultimate goal was to compare only the first- and
+second-recension *dicta*.
 
 Next, I needed a distraction text presumably not written by Gratian.
 For that purpose, I chose extracts from the pseudo-Augustinian *de
@@ -243,10 +243,10 @@ second-recension *dicta* for the first part of the *Decretum*
 When I ran stylo on the sample, however, I got neither of the two
 results I had expected: either the tight clustering of all *dicta*
 (first- and second-recension as well as case statements) indicating
-a single author and confirming all of Pennington’s arguments for the unity
-of Gratian, or alternatively, a bimodal distribution confirming
-Winroth’s arguments for Gratian 1 and Gratian 2. Instead, these
-preliminary results seemed to suggest that the first recension
+a single author and confirming all of Pennington’s arguments for
+the unity of Gratian, or alternatively, a bimodal distribution
+confirming Winroth’s arguments for Gratian 1 and Gratian 2. Instead,
+these preliminary results seemed to suggest that the first recension
 *dicta* had many authors, perhaps one of whom went on to write the
 second recension *dicta*.
 
