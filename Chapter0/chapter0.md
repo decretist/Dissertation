@@ -6,14 +6,11 @@ nocite: |
   @*
 reference-section-title: Bibliography
 title: Chapter 0
-abstract: |
-  Genesis of the project or: How I came to write a PhD dissertation
-  about a completely unexpected finding I was not looking for in
-  the first place.
+subtitle: Introduction
 ---
-## Introduction
+## Origin of the Project
 
-The most significant finding of the following dissertation is that
+The most significant finding of my dissertation is that
 the author who wrote the thirty-six case statements introducing the
 hypothetical cases that make up the second part of Gratian's
 *Decretum* is very unlikely to have been the same person as the
@@ -21,7 +18,7 @@ author who wrote the *dicta* in the first recension of the *Decretum*.
 The statistical method used to make this determination takes the
 frequencies of common function words like prepositions and conjunctions
 in a sample of text as the basis for assigning probable authorship,
-and will be explained in considerable depth in Chapter 4.
+and will be explained in considerable detail in Chapter 4.
 
 I did not start work on this project thinking that the authorship
 of the case statements was in any way a research problem. I assumed
@@ -39,10 +36,11 @@ thesis on the role of the cardinals in the thirteenth and fourteenth
 centuries, and I knew that he had written a book about Gratian's
 *Decretum*.[@chodorow_ecclesiology_1972] I was therefore aware of
 Gratian in a general sort of way, although the only use I made of
-the *Decretum* in connection with my thesis was to consult the Latin
-text of Nicholas II's 1059 decree on papal elections (D.23 c.1).
+the *Decretum* in connection with my thesis was to consult Emil
+Friedberg's 1879 edition for the Latin text of Nicholas II's 1059
+decree on papal elections (D.23 c.1).
 
-Chodorow encouraged me to use computer-aided typesetting for the
+Chodorow urged me to use computer-aided typesetting for the
 project, and in this way I acquired a then-unusual skill that led
 directly to my IT career. In the mid to late 80s I went on to take
 most of the required courses for the undergraduate Computer Science
@@ -111,7 +109,7 @@ and his student John Wei argued that Sg was a relatively uninteresting
 abbreviation of a first recension manuscript with some second
 recension interpolations; that two different authors, Gratian 1 and
 Gratian 2, compiled and wrote the first and second recensions; and
-for a late date, around 1140, for the first recension.
+for a late date, around 1140, for the first recension.[^eichbauer]
 
 In a January 2011 advising conversation, Jennifer Davis suggested
 that, given my professional background, it would be strategically
@@ -123,7 +121,7 @@ incidental to learning GAE, which is what I was really interested
 in), so in the first half of 2011, I developed Ingobert, a Python/GAE
 web application to visualize textual differences in Beinecke 413,
 in connection with an independent study project supervised by
-Pennington and Davis. Largely on the strength of the Ingobert
+Pennington and Davis.[^ingobert] Largely on the strength of the Ingobert
 project, Neil Fraistat of the University of Maryland hired me as a
 graduate assistant at the Maryland Institute for Technology in the
 Humanities (MITH) to work as a Scala/Lift programmer on the Active
@@ -134,8 +132,8 @@ advanced to candidacy in January 2013. I had not yet made a definite
 decision to pursue a dissertation project with a Digital Humanities
 component, but audited Matt Kirschenbaum's graduate Introduction
 to Digital Humanities course at the University of Maryland in Spring
-2013, with the idea that an overview of the field would suggest a
-way forward.
+2013, with the idea that an overview of the field might suggest a
+potential project.
 
 My first step was to obtain an electronic version of the *Decretum*
 text. In the mid- to late-1980s, Timothy Reuter and Gabriel Silagi
@@ -165,17 +163,16 @@ the second recension. The model was Pennington's observation that
 most passages in the *Decretum* dealing with the legal status of
 Jews, particularly those dealing with forced conversion, were
 introduced only in the second recension.[^6] My goal was to see
-whether more such topics could be surfaced using MALLET, by topic
+whether MALLET could surface more such topics, by topic
 modeling the first and second parts of the vulgate *Decretum*, topic
 modeling the first recension, and seeing what topics were left when
 the first recension topics were subtracted from the vulgate topics.
-While conceptually simple, this proved prohibitively difficult in
+While simple in concept, this proved prohibitively difficult in
 practice.[^7]
 
 In July 2013, I was working at MITH, and following the DH 2013
-conference at University of Nebraska-Lincoln (via Twitter, which
-was still at that time very much the town square of the Digital
-Humanities community), out of general interest rather than any sense
+conference at University of Nebraska-Lincoln
+out of general interest rather than any sense
 that it might be relevant to my decision regarding a dissertation
 topic. One presentation in particular caught my attention: "Stylometry
 and the Complex Authorship in Hildegard of Bingen’s Oeuvre" by Mike
@@ -191,24 +188,23 @@ on indirect evidence about whether there had been one Gratian or
 two. I would extract the first- and second-recension *dicta*, those
 parts of the text of the *Decretum* thought to have actually been
 written (depending on whether one accepted Pennington's or Winroth's
-argument) by the one Gratian or the two Gratians,[^9] and run the
+argument) by Gratian or by Gratian 1 and Gratian 2,[^9] and run the
 same kind of analysis that Kestemont had run for Hildegard of Bingen
 and Guibert of Gembloux. I expected the results to provide an
 unambiguous answer, sufficiently compelling to both Pennington and
 Winroth to settle the debate either way, as to whether there had
-been a single author, or a Gratian 1 and a Gratian 2.
+been one or two authors.
 
-In the late summer and early fall of 2013, I proceeded along several
-tracks in parallel. I replicated the working software environment
-in which Kestemont had obtained his Hildegard results, installing
+In August and September of 2013, I replicated the working software environment
+with which Kestemont had obtained his Hildegard results, installing
 R, R Studio, and the stylometry for R package that Kestemont had
-written with Maciej Eder and Jan Rybicki. I started extracting text
+written with Maciej Eder and Jan Rybicki.[@stylo] I started extracting text
 samples from Reuter and Silagi’s e-text of the Friedberg edition
 of the *Decretum*. The fact that the e-text was encoded in the
 obsolete (and not tree-structured) Oxford Concordance Program format
 made this an extremely difficult and time-consuming process. In
-fact, the only parts of the e-text that could both be cleanly
-extracted using Python regular expressions and, once extracted, be
+fact, the only parts of the e-text that could both be easily
+extracted using Python regular expressions and, once extracted,
 quickly verified to be correct were the case statements. This made
 the case statements an obvious first choice for a test sample,
 although my ultimate goal was to compare only the first- and
@@ -216,7 +212,9 @@ second-recension *dicta*.
 
 Next, I needed a distraction text presumably not written by Gratian.
 For that purpose, I chose extracts from the pseudo-Augustinian *De
-vera et falsa penitentia* quoted extensively by Gratian in *de Pen.*
+vera et falsa penitentia* quoted extensively by Gratian in his *de
+Penitentia*, a treatise on penance inserted at C.33 q.3 in the
+second part of the *Decretum*.
 In the interest of getting fast results, I used the ```vi``` text
 editor to hand-edit the excepts directly out of the Reuter and
 Silagi e-text. With the case statements and the *De vera* extracts
@@ -230,8 +228,8 @@ individual authors. As *De vera* is an anonymous work that predated
 the *Decretum* by no more than a decade or so, and because Gratian
 was one of the earliest authors to quote extensively from it (although
 not the earliest, as I mistakenly believed at the time), I thought
-it would make an excellent dissertation topic if it turned out that
-Gratian forged *De vera*.
+it would make an excellent dissertation topic if it could be shown that
+Gratian had forged *De vera*.
 
 Having confirmed that my test environment could correctly distinguish
 the authorship of the case statements from that of the pseudo-Augustinian
@@ -244,14 +242,14 @@ second-recension *dicta* for the first part of the *Decretum*
 (D.1-101).
 
 When I ran stylo on the sample, however, I got neither of the two
-results I had expected: either the tight clustering of all *dicta*
+results I had expected: either a tight clustering of all *dicta*
 (first- and second-recension as well as case statements) indicating
 a single author and confirming all of Pennington’s arguments for
 the unity of Gratian, or alternatively, a bimodal distribution
 confirming Winroth’s arguments for Gratian 1 and Gratian 2. Instead,
 these preliminary results seemed to suggest that the first recension
 *dicta* had many authors, perhaps one of whom went on to write the
-second recension *dicta*.
+second recension *dicta*. **[See Figure 1.]**
 
 ![Figure 1 10 Sep 2013](JPGs/Photo51.jpg)
 
@@ -278,7 +276,7 @@ books on a table.
 
 ## Outline of Chapters
 
-(0) introduction, (1) Background, (2) The *Decretum*, (3) Gratian,
+(0) Introduction, (1) Background, (2) The *Decretum*, (3) Gratian,\
 (4) Stylometry, (5) Next steps.
 
 ## Note on Translations
@@ -289,6 +287,17 @@ In cases where no such translation was available, or I considered
 the available translation seriously misleading, I have supplied my
 own translation, indicated with the notation (trans. PLE).
 **Acknowledge Atria A. Larson.**
+
+[^eichbauer]: See @eichbauer_gratians_2013 for a good recent overview
+of these debates.
+
+[^ingobert]: Ingobert was named after the Carolingian scribe of the
+Bible of San Paolo fuori le Mura. Some scholars have suggested that
+he was responsible for Beinecke 413; the script is certainly similar
+to his. The Ingobert project is still under active development: see
+my GitHub [Ingobert2](https://github.com/decretist/Ingobert2)
+repository for the source code of the current version of the Python
+web application ported to the Django platform.
 
 [^4]: NEH ODH Grant number:
 [HD-51568-12](https://securegrants.neh.gov/publicquery/main.aspx?f=1&gn=HD-51568-12)
@@ -301,9 +310,8 @@ by someone doing a close reading of the text of the *Decretum*.
 There were three insurmountable barriers to carrying out the project
 as originally conceived: the time required to prepare the necessary
 text samples; the difficulty in determining the number of topics
-to look for, a necessary precondition for unsupervised topic modeling;
-and the fact that there was no obvious way to subtract or mask
-topics.
+to look for (a necessary precondition for unsupervised topic modeling);
+and the fact that there was no obvious way to subtract topics.
 
     While a stylometric analysis for authorship attribution requires
     only the *dicta* (*ante*, *post* and *init.*) thought to have
@@ -319,19 +327,18 @@ topics.
     remained between the two sets of samples.) There is about four
     times as much text by word count in the canons as there is in
     the *dicta*, so I estimated that it would take just under six
-    months to prepare a proxy text for the first-recension canons.
+    person-months to prepare a proxy text for the first-recension canons.
 
     The Latent Dirichlet Allocation (LDA) algorithm that MALLET
     uses to generate topic models has to be provided with an exact
     number of topics to look for. In February 2014, I carried out
     a preliminary experiment to obtain a rough estimate of the
     number of topics in the *Decretum*, inspired by the metaphor
-    of focusing a telescope. I took a de-tagged version of the
-    vulgate text of the Friedberg edition, with no attempt to
-    separate it into first- and second-recension samples, and
-    repeatedly ran MALLET on it, looking for values of the number
+    of focusing a telescope. I took the second-recension *dicta* and
+    repeatedly ran MALLET on them, looking for values of the number
     of topics at which Pennington's topic on the legal status of
-    Jews came into focus.
+    Jews came into focus. **Pennington's topic started appearing
+    somewhere over 200 topics.**
 
 [^8]: [@kestemont_collaborative_2015].
 [Abstract](http://dh2013.unl.edu/abstracts/ab-126.html).
@@ -351,9 +358,8 @@ and *post*, but not *init.*) in the first and second parts of the
 Friedberg edition of the *Decretum* to which I apply the transformations
 defined by Winroth’s appendix. I define the second-recension *dicta*
 as the *dicta* (*ante* and *post*, but not *init.*) in the first
-and second parts of Friedberg with the proxy first-recension text
-generated by applying the Winroth transformations subtracted away
-or masked off.
+and second parts of Friedberg remaining after the proxy first-recension text
+generated by applying the Winroth transformations has been subtracted.
 
 [^11]: @jansen_medieval_2009; @somerville_prefaces_1998; and
 @thompson_treatise_1993 have been particularly helpful resources
