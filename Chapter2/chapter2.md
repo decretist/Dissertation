@@ -7,28 +7,33 @@ title: Chapter 2
 ---
 ## Presentation
 
-Having considered how Gratian sourced and *collected* his materials
--- the question of what canons are and where Gratian got them --
-we now turn to the question of how Gratian *presented* and *organized*
-the canons he had collected. Here, it is important to distinguish
-between *presentation*, the small-grain or micro structure of the
-*Decretum*, and *organization*, the large-grain or macro structure
-of the *Decretum*. Taking a bottom-up approach, we will first turn
-to the presentation or small-grain structure.
+Having considered how Gratian sourced and collected his materials---the
+question of what canons are and where Gratian got them---we now
+turn to the question of how Gratian presented and organized the
+canons he had collected. Here, it is important to distinguish between
+presentation, the small-grain or micro structure of the *Decretum*,
+and organization, the large-grain or macro structure of the *Decretum*.
+The organization of the *Decretum* is very regular, so structurally
+regular, in fact, that Reuter and Silagi's OCP e-text of the Friedberg
+edition can be taken apart using a recursive descent parser, and
+should be thought of as a sequence of hierarchically nested containers.
+Taking a bottom-up approach, we will turn first to the presentation
+or small-grain structure, and start with the canons, the atomic
+containers out of which the higher-order containers---parts,
+distinctions, cases, and questions---in the *Decretum* are built
+up.
 
-**It is necessary to be aware of the fact that when we discuss
-canons in the specific context of Gratian's *Decretum*, we are using
-a subtly different definition of the term than we used when discussing
-the textual building blocks of the canonical tradition.**
+The way in which canons are presented in the *Decretum* differs
+somewhat from the way in which they are presented in the predecessor
+collections of formal sources from which Gratian selected his
+material. The canon package in the formal sources typically included
+an inscription, a rubric, and the canon text. Gratian added to the
+package a *dictum post canonem* containing his own commentary on
+the preceding canon or canons, a feature borrowed from Alger of
+Liège's theological treatise *De misericordia et iustitia*, but
+without an immediate precedent in the canonical literature.
 
-The organization of the Decretum is very regular (so structurally
-regular, in fact, that an electronic version of the text can be
-cleanly taken apart using a recursive descent parser), and should
-be thought of as a sequence of hierarchically nested containers.
-The canon is the atomic container from which the immediately
-higher-order containers (distinctions and questions) in the Decretum
-are organized. [We will unpack the canon container into rubric,
-inscription, one or more texts, and *dictum* *post*.]
+* * *
 
 A canon is often, though not always, introduced by a rubric, which
 is a very short summary of what the canon is about. In 398 cases
@@ -51,8 +56,8 @@ I am only talking about *dicta post canones*. Dicta ante canones
 are not part of the canon container but instead part of the distinction
 or question container (always d.a.c.1 or equivalent). There are
 three kinds of dicta: d.init (first leaf node of case or *causa*
-container), d.a.c.  (first leaf node of distinction or question
-container), and d.p.c.  (optional last leaf of canon container).
+container), d.a.c. (first leaf node of distinction or question
+container), and d.p.c. (optional last leaf of canon container).
 Dicta are text that Gratian (whoever we think he is) actually wrote
 and are therefore subject to function word analysis for authorship
 attribution.]
