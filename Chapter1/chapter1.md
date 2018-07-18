@@ -322,10 +322,10 @@ Larson discovered that München, Bayerische Staatsbibliothek, lat.
 
 Winroth's discovery of the first recension suggests one obvious way
 in which it might be problematic to refer simplistically to Gratian
-as the author of the *Decretum,* as I have done thus far. Winroth
-rejects any presumption of monolithic authorship on stratigraphic
-grounds. He argues that the first recension is "coherent and
-complete," and that its author intentionally released it into
+as the author of the *Decretum,* as I have done thus far.[^chodorow]
+Winroth rejects any presumption of monolithic authorship on
+stratigraphic grounds. He argues that the first recension is "coherent
+and complete," and that its author intentionally released it into
 circulation as a "finished product."[^26] (In other words, it did
 not just prematurely escape into the wild like parts of Augustine's
 *de Trinitate*.) Winroth thinks of the first and second recensions
@@ -644,17 +644,15 @@ free from lay interference (such as election by a cathedral chapter)
 but that the benefice holder should swear fealty to the secular
 ruler for their landholdings.
 
-Conclusion: Gratian depended on a relatively small number of eleventh-
-and early twelfth-century systematic canonical collections, his
-formal sources, and those predecessor collections, in turn,
-depended on an older stratum of mostly chronologically arranged
-canonical collections. To a certain extent, it was formal sources
-(almost) all the way down. Gratian was selecting from a body of
-canonical material that had already passed through a fairly rigorous
-filtering process, and two of the most important filters -- the
-ninth-century pseudo-Isidorian forgers and the eleventh-century
-Gregorian reformers -- had had an extremely strong ideological
-orientation.
+Gratian depended on a relatively small number of eleventh- and early
+twelfth-century systematic canonical collections, his formal sources,
+and those predecessor collections, in turn, depended on an older
+stratum of mostly chronologically arranged canonical collections.
+Gratian was selecting from a body of canonical material that had
+already passed through a fairly rigorous filtering process, and two
+of the most important filters---the ninth-century pseudo-Isidorian
+forgers and the eleventh-century Gregorian reformers---had had an
+extremely strong ideological orientation.
 
 [^1]: Eight early manuscripts contain the gloss: "*Concordia
     discordantium canonum iuxta determinationem Gratiani episcopi
@@ -923,6 +921,18 @@ orientation.
     *Handschriftenliste* adhere consistently to the two-letter
     convention, some of the *sigla* supplied by other scholars
     deviate from it, e.g., P, Pfr.)
+
+[^chodorow]: **The second order of business is to discuss Winroth's
+    findings and explain that you will concentrate on what he
+    proposed was the first recension. I think the explanation for
+    this focus is that the discovery of the first recension opens
+    up questions about how the second recension developed. The
+    conjecture that the first recension had one author—--as Winroth
+    surmises—--and that the second might have had several is natural.
+    You want to explore the question of whether the first Gratian
+    was in fact one person. Having done that, one could then move
+    on to study the nature of Winroth's Gratian 2.\
+    - Stan Chodorow**
 
 [^26]: "The first recension of the *Decretum* was not a living text.
     It was a finished product which its author considered ready to
