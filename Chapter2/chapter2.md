@@ -4,43 +4,33 @@ bibliography: chapter2.bib
 csl: ../csl/chicago-fullnote-bibliography.csl
 reference-section-title: Bibliography
 title: Chapter 2
-abstract: |
-  The second order of business is to discuss Winroth's findings and
-  explain that you will concentrate on what he proposed was the
-  first recension. I think the explanation for this focus is that
-  the discovery of the first recension opens up questions about how
-  the second recension developed. The conjecture that the first
-  recension had one author—as W surmises—and that the second might
-  have had several is natural. You want to explore the question of
-  whether the first Gratian was in fact one person. Having done
-  that, one could then move on to study the nature of W's Gratian
-  2.
 ---
 ## Presentation
 
-Having considered how Gratian sourced and *collected* his materials --
-the question of what canons are and where Gratian got them -- we now
-turn to the question of how Gratian *presented* and *organized* the
-canons he had collected. Here, it is important to distinguish between
-*presentation*, the small-grain or micro structure of the *Decretum*,
-and *organization*, the large-grain or macro structure of the
-*Decretum*. Taking a bottom-up approach, we will first turn to the
-presentation or small-grain structure.
+Having considered how Gratian sourced and *collected* his materials
+-- the question of what canons are and where Gratian got them --
+we now turn to the question of how Gratian *presented* and *organized*
+the canons he had collected. Here, it is important to distinguish
+between *presentation*, the small-grain or micro structure of the
+*Decretum*, and *organization*, the large-grain or macro structure
+of the *Decretum*. Taking a bottom-up approach, we will first turn
+to the presentation or small-grain structure.
 
-It is necessary to be aware of the fact that when we discuss canons in
-the specific context of Gratian's *Decretum*, we are using a subtly
-different definition of the term than we used when discussing the
-textual building blocks of the canonical tradition. The organization of
-the Decretum is very regular (so structurally regular, in fact, that an
-electronic version of the text can be cleanly taken apart using a
-recursive descent parser), and should be thought of as a sequence of
-hierarchically nested containers. The canon is the atomic container from
-which the immediately higher-order containers (distinctions and
-questions) in the Decretum are organized. [We will unpack the canon
-container into rubric, inscription, one or more texts, and *dictum*
-*post*.]
+**It is necessary to be aware of the fact that when we discuss
+canons in the specific context of Gratian's *Decretum*, we are using
+a subtly different definition of the term than we used when discussing
+the textual building blocks of the canonical tradition.**
 
-A canon is usually, though not always, introduced by a rubric, which
+The organization of the Decretum is very regular (so structurally
+regular, in fact, that an electronic version of the text can be
+cleanly taken apart using a recursive descent parser), and should
+be thought of as a sequence of hierarchically nested containers.
+The canon is the atomic container from which the immediately
+higher-order containers (distinctions and questions) in the Decretum
+are organized. [We will unpack the canon container into rubric,
+inscription, one or more texts, and *dictum* *post*.]
+
+A canon is often, though not always, introduced by a rubric, which
 is a very short summary of what the canon is about. In 398 cases
 (wrong number), the rubric just says "*de eodem*", which means
 "about the same thing" (as the canon before). Most canons have an
@@ -53,18 +43,19 @@ in question was one that had been included in the Pseudo-Isidorian
 forgeries. This raises the need to distinguish between Gratian's
 material sources -- the original letter of Pope Gregory I, for
 example -- and his formal sources -- the collection Gratian was
-actually looking at when copying his text.[^register] Finally, there are the
-*dicta* (literally, "things having been said"), which are statements
-Gratian is making on his own authority as a jurist. It is the *dicta*
-that carry the thread of Gratian's argument. [Here I am only talking
-about *dicta post canones*. Dicta ante canones are not part of the
-canon container but instead part of the distinction or question
-container (always d.a.c.1 or equivalent). There are three kinds of
-dicta: d.init (first leaf node of case or *causa* container), d.a.c.
-(first leaf node of distinction or question container), and d.p.c.
-(optional last leaf of canon container). Dicta are text that Gratian
-(whoever we think he is) actually wrote and are therefore subject
-to function word analysis for authorship attribution.]
+actually looking at when copying his text.[^register] Finally, there
+are the *dicta* (literally, "things having been said"), which are
+statements Gratian is making on his own authority as a jurist. It
+is the *dicta* that carry the thread of Gratian's argument. [Here
+I am only talking about *dicta post canones*. Dicta ante canones
+are not part of the canon container but instead part of the distinction
+or question container (always d.a.c.1 or equivalent). There are
+three kinds of dicta: d.init (first leaf node of case or *causa*
+container), d.a.c.  (first leaf node of distinction or question
+container), and d.p.c.  (optional last leaf of canon container).
+Dicta are text that Gratian (whoever we think he is) actually wrote
+and are therefore subject to function word analysis for authorship
+attribution.]
 
 [^eichbauer]: The distinction between rubrics and *dicta* is blurry:
 "Gratian rarely took his rubrics from earlier collections. Rather
@@ -90,23 +81,19 @@ Register is probable in only a single case." [C.27 q.1 c.19 (JE
 "The *dicta* in Gratian's *Decretum* bring the reader closer to its
 author than any other part of the text."[@winroth_making_2000, 187]
 
-The hypothetical case statements or *themata* that introduce each of the
-thirty-six *causae* (cases) that constitute Part II of the *Decretum*
-reflect at least in places an outlook and a set of concerns that
-university-educated urban professionals of the present day would not
-find it difficult to identify with. At a time when considerable
-attention is being paid in the realm of popular discourse (if not yet
-public policy) to the issue of "opportunity hoarding" on behalf of
-upper- and upper-middle class children by their university-educated,
-urban professional parents, the intense concern of "a certain man" in
-the first case statement to secure a good ecclesiastical career for his
-son (and his willingness on more than one occasion to resort to bribery
-in order to realize that objective) has a distinctly contemporary feel
-to it.[^3] (Although Gratian does not say so explicitly, I think that we
-can reasonably infer that the father is an urban merchant or
-professional, rather than a member of the landed aristocracy, since his
-wealth, the source of several bribes, is so readily convertible into
-cash.)
+The hypothetical case statements or *themata* that introduce each
+of the thirty-six *causae* (cases) that constitute Part II of the
+*Decretum* reflect at least in places an outlook and a set of
+concerns that university-educated urban professionals of the present
+day would not find it difficult to identify with. At a time when
+considerable attention is being paid in the realm of popular discourse
+(if not yet public policy) to the issue of "opportunity hoarding"
+on behalf of upper- and upper-middle class children by their
+university-educated, urban professional parents, the intense concern
+of "a certain man" in the first case statement to secure a good
+ecclesiastical career for his son (and his willingness on more than
+one occasion to resort to bribery in order to realize that objective)
+has a distinctly contemporary feel to it.[^3]
 
 ## Organization
 
@@ -132,19 +119,20 @@ parts is devoted to ecclesiastical ministries, the second to
 ecclesiastical problems, the third to ecclesiastical sacraments."
 (Stephen of Tournai)[@somerville_prefaces_1998, 201]
 
-The cases are hypotheticals like those used in modern law schools, and
-some of them are quite far-fetched. In case 28, for example, a married
-infidel converts to Christianity, as a result of which his wife
-separates from him out of hatred for his new faith. (By "infidel,"
-Gratian means a Muslim.) The convert then takes a new Christian wife,
-and after she dies, he is made a priest. Finally, "on account of the
-merit of his life and learning," he is elected bishop. Gratian extracts
-questions from this fantastical fact-pattern, however, that are of
-considerable theoretical (if not practical) interest: whether there can
-be marriage between infidels, whether there is ever a situation in which
-a man can take another wife if his previous wife is still alive; and
-whether someone who had one wife before he was baptized and another wife
-after he was baptized should be considered a bigamist.
+The cases are hypotheticals like those used in modern law schools,
+and some of them are quite far-fetched. In case 28, for example, a
+married infidel converts to Christianity, as a result of which his
+wife separates from him out of hatred for his new faith. (By
+"infidel," Gratian means a Muslim.) The convert then takes a new
+Christian wife, and after she dies, he is made a priest. Finally,
+"on account of the merit of his life and learning," he is elected
+bishop. Gratian extracts questions from this fantastical fact-pattern,
+however, that are of considerable theoretical (if not practical)
+interest: whether there can be marriage between infidels, whether
+there is ever a situation in which a man can take another wife if
+his previous wife is still alive; and whether someone who had one
+wife before he was baptized and another wife after he was baptized
+should be considered a bigamist.
 
 The third part, *de Consecratione*, is problematic in several ways.
 That *de Cons.* is a very late addition is not in doubt -- it is
@@ -154,49 +142,13 @@ second-recension (R2) version of the *Decretum* as indicated by
 glosses found in the Gt, Pf, and Tr manuscripts describing Gratian's
 work as "principally divided into two parts."
 
-## *Correctores Romani* edition (1582)
-
-The *Decretum* never received the kind of formal ecclesiastical (papal
-or conciliar) recognition that was conferred on decretal collections
-like the *Liber Extra*, *Liber Sextus*, and *Clementinae*. Nevertheless,
-it remained foundational both to the *Corpus Iuris Canonici*, the body
-of canon law that governed the Roman Catholic Church right up until
-1917, as well as to the academic study of canon law throughout the
-medieval and well into the early modern periods. As a result, the text
-of the *Decretum* came in for close attention as part of the reform
-program initiated at the Council of Trent (1545-1563). A commission led
-by the Spanish archbishop Antonio Agustín (1517-1586), the *Correctores*
-*Romani*, was charged with producing an approved version of the text of
-the *Decretum* (along with the rest of the *Corpus* *Iuris* *Canonici*)
-for the age of the printing press.
-
-The *Correctores *proceeded from the Renaissance Humanist assumption
-that their job was to identify and include the most textually correct
-version of the material source for each of Gratian's authorities. In
-this sense the *Correctores* were less concerned with getting at the
-text of the collection Gratian actually compiled, and more concerned
-with getting at the text that they thought Gratian should have compiled,
-if his concerns had been those of a Renaissance philological
-scholar.[^5]
-
-The 1582 printed edition of the *Decretum* includes the ordinary gloss,
-the standardized commentary by [Johannes
-Teutonicus](http://amesfoundation.law.harvard.edu/BioBibCanonists/Report_Biobib2.php?record_id=a303) (c.1170--1245)
-in 1216, which was revised and updated by [Bartholomeus
-Brixiensis](http://amesfoundation.law.harvard.edu/BioBibCanonists/Report_Biobib2.php?record_id=a050) (fl.1234--1258)
-around 1240-1245. UCLA's online version of the [Corpus Iuris Canonici
-(1582)](http://digital.library.ucla.edu/canonlaw/) is a convenient way
-for modern scholars to consult the ordinary gloss, which is an important
-tool for understanding the reception of Gratian's text by medieval
-jurists.
-
 ## General Notes
 
-There is a convention in scholarly writing where the researcher presents
-their results, but carefully removes the scaffolding and effaces the
-process by which those results were actually arrived at. [My intention
-is to show rather than hide the process by which I arrived at the
-results that I am presenting.]
+There is a convention in scholarly writing where the researcher
+presents their results, but carefully removes the scaffolding and
+effaces the process by which those results were actually arrived
+at. [My intention is to show rather than hide the process by which
+I arrived at the results that I am presenting.]
 
 ## Notes from 10 August 2017 meeting with Stan Chodorow:
 
@@ -206,38 +158,29 @@ results that I am presenting.]
     canonical jurisprudence or, less precisely, canon law.
 
 -   Transition: Where do Gratian and the *Decretum* lie along the
-    (ground track or trajectory of) transition of the church from Leo IX
-    (†1054) to Innocent III (†1216)?
+    (ground track or trajectory of) transition of the church from
+    Leo IX (†1054) to Innocent III (†1216)?
 
 ## Notes 15 September 2017
 
 "Considering that the first [recension] may be a record of the first
 'university course' in canon law ..."[@winroth_making_2000, 194]
 
-Yes, but not in the way Anders is envisioning here. Rather, the first
-university course in canon law consisted of the Master reading from a
-pile of books, the formal sources, guided by his original handwritten
-list of hypothetical case statements (*themata*). The first recension
-represents a reconstruction of that course by some of the original
-Master's students.
+Yes, but not in the way Anders is envisioning here. Rather, the
+first university course in canon law consisted of the Master reading
+from a pile of books, the formal sources, guided by his original
+handwritten list of hypothetical case statements (*themata*). The
+first recension represents a reconstruction of that course by some
+of the original Master's students.
 
 "Gratian 1 and the Lombard were in effect forced to create their
 own authoritative texts (their authority deriving from the fact
 that they consisted mainly of quotations) to be able to effectively
 teach their subjects."[@winroth_making_2000, 191]
 
-[^3]: "Quidam habens filium ..." C.1, d.init., edF. 1.357.
-
-[^5]: The idea that the *Correctores* were trying to reproduce the text
-    of the *Decretum* as they though Gratian should have written it, as
-    opposed to the text as he actually wrote it, goes back at least as
-    far as Friedberg: "Vides non id in animo habuisse correctores
-    Romanos, ut restitueretur decretum, quale a Gratiano compositum
-    esset, sed quale a Gratiano componi debuisset." ("You see it in the
-    mind that the *Correctores Romani* had, as the *Decretum* was
-    restored, not how it was composed by Gratian, but how it ought to
-    have been composed by Gratian." trans. PLE) (edF 1.lxxviii, see also
-    Anders Winroth, "[Emil Friedberg's Edition of Gratian's Decretum:
-    An
-    Evaluation](http://mahan.wonkwang.ac.kr/link/med/law/canon-law/gratianus/friedberg.html)".)
+[^3]: "Quidam habens filium ..." C.1, d.init., edF. 1.357. Although
+Gratian does not say so explicitly, I think that we can reasonably
+infer that the father is an urban merchant or professional, rather
+than a member of the landed aristocracy, since his wealth, the
+source of several bribes, is so readily convertible into cash.
 
