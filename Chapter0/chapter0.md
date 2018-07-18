@@ -185,7 +185,7 @@ detailed abstract, and a video was made available as part of the
 presentation.[^8]
 
 The applicability of Kestemont's methodology to the intractable
-problem of the authorship of the Decretum was immediately obvious
+problem of the authorship of the *Decretum* was immediately obvious
 to me; it seemed to finally offer a way past endless debates based
 on indirect evidence about whether there had been one Gratian or
 two. I would extract the first- and second-recension *dicta*, those
@@ -193,7 +193,10 @@ parts of the text of the *Decretum* thought to have actually been
 written (depending on whether one accepted Pennington's or Winroth's
 argument) by the one Gratian or the two Gratians,[^9] and run the
 same kind of analysis that Kestemont had run for Hildegard of Bingen
-and Guibert of Gembloux.
+and Guibert of Gembloux. I expected the results to provide an
+unambiguous answer, sufficiently compelling to both Pennington and
+Winroth to settle the debate either way, as to whether there had
+been a single author, or a Gratian 1 and a Gratian 2.
 
 In the late summer and early fall of 2013, I proceeded along several
 tracks in parallel. I replicated the working software environment
@@ -212,27 +215,27 @@ although my ultimate goal was to compare only the first- and
 second-recension *dicta*.
 
 Next, I needed a distraction text presumably not written by Gratian.
-For that purpose, I chose extracts from the pseudo-Augustinian *de
-Vera et Falsa Penitentia* quoted extensively by Gratian in *de Pen.*
+For that purpose, I chose extracts from the pseudo-Augustinian *De
+vera et falsa penitentia* quoted extensively by Gratian in *de Pen.*
 In the interest of getting fast results, I used the ```vi``` text
 editor to hand-edit the excepts directly out of the Reuter and
-Silagi e-text. With the case statements and the *de Vera* extracts
+Silagi e-text. With the case statements and the *De vera* extracts
 in hand, I now had enough in the way of text samples to verify that
 I had installed and configured R, R Studio, and stylo correctly. I
 have to admit that I was somewhat disappointed that the results of
 the first test were exactly what I should have expected: the case
-statements and the excerpts from *de Vera* formed distinct clusters
+statements and the excerpts from *De vera* formed distinct clusters
 **[reproduce!]**, indicating that they were written by two different
-individual authors. As *de Vera* is an anonymous work that predated
+individual authors. As *De vera* is an anonymous work that predated
 the *Decretum* by no more than a decade or so, and because Gratian
 was one of the earliest authors to quote extensively from it (although
 not the earliest, as I mistakenly believed at the time), I thought
 it would make an excellent dissertation topic if it turned out that
-Gratian forged *de Vera*.
+Gratian forged *De vera*.
 
 Having confirmed that my test environment could correctly distinguish
 the authorship of the case statements from that of the pseudo-Augustinian
-excerpts from *de Vera*, I moved on to the much slower process of
+excerpts from *De vera*, I moved on to the much slower process of
 hand-editing text samples of the first- and second-recension *dicta*
 from the Reuter and Silagi e-text.[^10]
 
