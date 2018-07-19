@@ -121,11 +121,11 @@ incidental to learning GAE, which is what I was really interested
 in), so in the first half of 2011, I developed Ingobert, a Python/GAE
 web application to visualize textual differences in Beinecke 413,
 in connection with an independent study project supervised by
-Pennington and Davis.[^5] Largely on the strength of the
-Ingobert project, Neil Fraistat of the University of Maryland hired
-me as a graduate assistant at the Maryland Institute for Technology
-in the Humanities (MITH) to work as a Scala/Lift programmer on the
-Active OCR project.[^6]
+Pennington and Davis.[^5] Largely on the strength of the Ingobert
+project, Neil Fraistat of the University of Maryland hired me as a
+graduate assistant at the Maryland Institute for Technology in the
+Humanities (MITH) to work as a Scala/Lift programmer on the Active
+OCR project.[^6]
 
 I finished my PhD comprehensive examinations in October 2012 and
 advanced to candidacy in January 2013. I had not yet made a definite
@@ -186,27 +186,28 @@ on indirect evidence about whether there had been one Gratian or
 two. I would extract the first- and second-recension *dicta*, those
 parts of the text of the *Decretum* thought to have actually been
 written (depending on whether one accepted Pennington's or Winroth's
-argument) by Gratian or by Gratian 1 and Gratian 2,[^11] and run the
-same kind of analysis that Kestemont had run for Hildegard of Bingen
-and Guibert of Gembloux. I expected the results to provide an
-unambiguous answer, sufficiently compelling to both Pennington and
-Winroth to settle the debate either way, as to whether there had
-been one or two authors.
+argument) by Gratian or by Gratian 1 and Gratian 2,[^11] and run
+the same kind of analysis that Kestemont had run for Hildegard of
+Bingen and Guibert of Gembloux. I expected the results to provide
+an unambiguous answer, sufficiently compelling to both Pennington
+and Winroth to settle the debate either way, as to whether there
+had been one or two authors.
 
 In August and September of 2013, I replicated the working software
 environment with which Kestemont had obtained his Hildegard results,
 installing R, R Studio, and the stylometry for R package that
-Kestemont had written with Maciej Eder and Jan Rybicki.[@eder_abstract_2013] I
-started extracting text samples from Reuter and Silagi’s e-text of
-the Friedberg edition of the *Decretum*. The fact that the e-text
-was encoded in the obsolete (and not tree-structured) Oxford
-Concordance Program format made this an extremely difficult and
-time-consuming process. In fact, the only parts of the e-text that
-could both be easily extracted using Python regular expressions
-and, once extracted, quickly verified to be correct were the case
-statements. This made the case statements an obvious first choice
-for a test sample, although my ultimate goal was to compare only
-the first- and second-recension *dicta*.
+Kestemont had written with Maciej Eder and Jan
+Rybicki.[@eder_abstract_2013] I started extracting text samples
+from Reuter and Silagi’s e-text of the Friedberg edition of the
+*Decretum*. The fact that the e-text was encoded in the obsolete
+(and not tree-structured) Oxford Concordance Program format made
+this an extremely difficult and time-consuming process. In fact,
+the only parts of the e-text that could both be easily extracted
+using Python regular expressions and, once extracted, quickly
+verified to be correct were the case statements. This made the case
+statements an obvious first choice for a test sample, although my
+ultimate goal was to compare only the first- and second-recension
+*dicta*.
 
 Next, I needed a distraction text presumably not written by Gratian.
 For that purpose, I chose extracts from the pseudo-Augustinian *De
@@ -277,7 +278,8 @@ books on a table.
 
 ## Outline of Chapters
 
-Introduction, Background, the *Decretum*, Gratian, Stylometry, Next steps.
+Introduction, Background, the *Decretum*, Gratian, Stylometry, Next
+steps.
 
 ## Note on Translations
 
@@ -288,12 +290,12 @@ the available translation seriously misleading, I have supplied my
 own translation, indicated with the notation (trans. PLE).
 **Acknowledge Atria A. Larson.**
 
-[^4]: See @eichbauer_gratians_2013 for a good recent overview
-of these debates.
+[^4]: See @eichbauer_gratians_2013 for a good recent overview of
+these debates.
 
-[^5]: Ingobert was named after the Carolingian scribe of the
-Bible of San Paolo fuori le Mura. Some scholars have suggested that
-he was responsible for Beinecke 413; the script is certainly similar
+[^5]: Ingobert was named after the Carolingian scribe of the Bible
+of San Paolo fuori le Mura. Some scholars have suggested that he
+was responsible for Beinecke 413; the script is certainly similar
 to his. The Ingobert project is still under active development: see
 my GitHub [Ingobert2](https://github.com/decretist/Ingobert2)
 repository for the source code of the current version of the Python
@@ -342,8 +344,8 @@ topics.
     of Jews came into focus. **Pennington's topic started appearing
     somewhere over 200 topics.**
 
-[^10]: Abstract: @kestemont_abstract_2013. Video: @kestemont_documentary_2013.
-Paper: @kestemont_collaborative_2015.
+[^10]: Abstract: @kestemont_abstract_2013. Video:
+@kestemont_documentary_2013. Paper: @kestemont_collaborative_2015.
 
 [^11]: To the extent that there is some one person we can point to
 as corresponding to our idea of "Gratian," it's the author of the
