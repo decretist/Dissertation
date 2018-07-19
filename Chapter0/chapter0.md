@@ -109,7 +109,7 @@ and his student John Wei argued that Sg was a relatively uninteresting
 abbreviation of a first recension manuscript with some second
 recension interpolations; that two different authors, Gratian 1 and
 Gratian 2, compiled and wrote the first and second recensions; and
-for a late date, around 1140, for the first recension.[^eichbauer]
+for a late date, around 1140, for the first recension.[^4]
 
 In a January 2011 advising conversation, Jennifer Davis suggested
 that, given my professional background, it would be strategically
@@ -121,11 +121,11 @@ incidental to learning GAE, which is what I was really interested
 in), so in the first half of 2011, I developed Ingobert, a Python/GAE
 web application to visualize textual differences in Beinecke 413,
 in connection with an independent study project supervised by
-Pennington and Davis.[^ingobert] Largely on the strength of the
+Pennington and Davis.[^5] Largely on the strength of the
 Ingobert project, Neil Fraistat of the University of Maryland hired
 me as a graduate assistant at the Maryland Institute for Technology
 in the Humanities (MITH) to work as a Scala/Lift programmer on the
-Active OCR project.[^4]
+Active OCR project.[^6]
 
 I finished my PhD comprehensive examinations in October 2012 and
 advanced to candidacy in January 2013. I had not yet made a definite
@@ -162,12 +162,12 @@ of Gratian's *Decretum* as a way to identify new topics added in
 the second recension. The model was Pennington's observation that
 most passages in the *Decretum* dealing with the legal status of
 Jews, particularly those dealing with forced conversion, were
-introduced only in the second recension.[^6] My goal was to see
+introduced only in the second recension.[^8] My goal was to see
 whether MALLET could surface more such topics, by topic modeling
 the first and second parts of the vulgate *Decretum*, topic modeling
 the first recension, and seeing what topics were left when the first
 recension topics were subtracted from the vulgate topics. While
-simple in concept, this proved prohibitively difficult in practice.[^7]
+simple in concept, this proved prohibitively difficult in practice.[^9]
 
 In July 2013, I was working at MITH, and following the DH 2013
 conference at University of Nebraska-Lincoln out of general interest
@@ -177,7 +177,7 @@ caught my attention: "Stylometry and the Complex Authorship in
 Hildegard of Bingen’s Oeuvre" by Mike Kestemont, Sara Moens, and
 Jeroen Deploige. Their work was later published as a paper, but the
 conference website had an unusually detailed abstract, and a video
-was made available as part of the presentation.[^8]
+was made available as part of the presentation.[^10]
 
 The applicability of Kestemont's methodology to the intractable
 problem of the authorship of the *Decretum* was immediately obvious
@@ -186,7 +186,7 @@ on indirect evidence about whether there had been one Gratian or
 two. I would extract the first- and second-recension *dicta*, those
 parts of the text of the *Decretum* thought to have actually been
 written (depending on whether one accepted Pennington's or Winroth's
-argument) by Gratian or by Gratian 1 and Gratian 2,[^9] and run the
+argument) by Gratian or by Gratian 1 and Gratian 2,[^11] and run the
 same kind of analysis that Kestemont had run for Hildegard of Bingen
 and Guibert of Gembloux. I expected the results to provide an
 unambiguous answer, sufficiently compelling to both Pennington and
@@ -196,7 +196,7 @@ been one or two authors.
 In August and September of 2013, I replicated the working software
 environment with which Kestemont had obtained his Hildegard results,
 installing R, R Studio, and the stylometry for R package that
-Kestemont had written with Maciej Eder and Jan Rybicki.[@stylo] I
+Kestemont had written with Maciej Eder and Jan Rybicki.[@eder_abstract_2013] I
 started extracting text samples from Reuter and Silagi’s e-text of
 the Friedberg edition of the *Decretum*. The fact that the e-text
 was encoded in the obsolete (and not tree-structured) Oxford
@@ -233,7 +233,7 @@ Having confirmed that my test environment could correctly distinguish
 the authorship of the case statements from that of the pseudo-Augustinian
 excerpts from *De vera*, I moved on to the much slower process of
 hand-editing text samples of the first- and second-recension *dicta*
-from the Reuter and Silagi e-text.[^10]
+from the Reuter and Silagi e-text.[^13]
 
 By the second week of September 2013, I had edited the first- and
 second-recension *dicta* for the first part of the *Decretum*
@@ -247,7 +247,10 @@ the unity of Gratian, or alternatively, a bimodal distribution
 confirming Winroth’s arguments for Gratian 1 and Gratian 2. Instead,
 these preliminary results seemed to suggest that the first recension
 *dicta* had many authors, perhaps one of whom went on to write the
-second recension *dicta*. **[See Figure 1.]**
+second recension *dicta*. What was completely unexpected, however,
+was that the case statements clustered so far away from the *dicta*,
+an extremely strong indication that they had not been written by
+the same author. **[See Figure 1.]**
 
 ![Figure 1 10 Sep 2013](JPGs/Photo51.jpg)
 
@@ -274,21 +277,21 @@ books on a table.
 
 ## Outline of Chapters
 
-(0) Introduction, (1) Background, (2) The *Decretum*, (3) Gratian, (4) Stylometry, (5) Next steps.
+Introduction, Background, the *Decretum*, Gratian, Stylometry, Next steps.
 
 ## Note on Translations
 
 I have, wherever possible, supplied for each Latin passage quoted
-the corresponding passage from a published English translation.[^11]
+the corresponding passage from a published English translation.[^14]
 In cases where no such translation was available, or I considered
 the available translation seriously misleading, I have supplied my
 own translation, indicated with the notation (trans. PLE).
 **Acknowledge Atria A. Larson.**
 
-[^eichbauer]: See @eichbauer_gratians_2013 for a good recent overview
+[^4]: See @eichbauer_gratians_2013 for a good recent overview
 of these debates.
 
-[^ingobert]: Ingobert was named after the Carolingian scribe of the
+[^5]: Ingobert was named after the Carolingian scribe of the
 Bible of San Paolo fuori le Mura. Some scholars have suggested that
 he was responsible for Beinecke 413; the script is certainly similar
 to his. The Ingobert project is still under active development: see
@@ -296,12 +299,12 @@ my GitHub [Ingobert2](https://github.com/decretist/Ingobert2)
 repository for the source code of the current version of the Python
 web application ported to the Django platform.
 
-[^4]: NEH ODH Grant number:
+[^6]: NEH ODH Grant number:
 [HD-51568-12](https://securegrants.neh.gov/publicquery/main.aspx?f=1&gn=HD-51568-12)
 
-[^6]: @pennington_laws_2013; and @pennington_gratian_2014.
+[^8]: @pennington_laws_2013; and @pennington_gratian_2014.
 
-[^7]: This project was attractive to Pennington because although
+[^9]: This project was attractive to Pennington because although
 the results would be obtained computationally, they could be verified
 by someone doing a close reading of the text of the *Decretum*.
 There were three insurmountable barriers to carrying out the project
@@ -339,11 +342,10 @@ topics.
     of Jews came into focus. **Pennington's topic started appearing
     somewhere over 200 topics.**
 
-[^8]: [@kestemont_collaborative_2015].
-[Abstract](http://dh2013.unl.edu/abstracts/ab-126.html).
-[Video](https://vimeo.com/70881172).
+[^10]: Abstract: @kestemont_abstract_2013. Video: @kestemont_documentary_2013.
+Paper: @kestemont_collaborative_2015.
 
-[^9]: To the extent that there is some one person we can point to
+[^11]: To the extent that there is some one person we can point to
 as corresponding to our idea of "Gratian," it's the author of the
 first-recension *dicta*. "The *dicta* in Gratian's *Decretum* bring
 the reader closer to its author than any other part of the text."
@@ -351,7 +353,7 @@ the reader closer to its author than any other part of the text."
 used to support this point in "The men behind the 'Decretum'",
 pp.175-192?**
 
-[^10]: For the purpose of comparing the first- and second-recension
+[^13]: For the purpose of comparing the first- and second-recension
 *dicta*, I define the first-recension *dicta* as the *dicta* (*ante*
 and *post*, but not *init.*) in the first and second parts of the
 Friedberg edition of the *Decretum* to which I apply the transformations
@@ -361,7 +363,7 @@ and second parts of Friedberg remaining after the proxy first-recension
 text generated by applying the Winroth transformations has been
 subtracted.
 
-[^11]: @jansen_medieval_2009; @somerville_prefaces_1998; and
+[^14]: @jansen_medieval_2009; @somerville_prefaces_1998; and
 @thompson_treatise_1993 have been particularly helpful resources
 in this regard.
 
