@@ -251,7 +251,14 @@ these preliminary results seemed to suggest that the first recension
 second recension *dicta*. What was completely unexpected, however,
 was that the case statements clustered so far away from the *dicta*,
 an extremely strong indication that they had not been written by
-the same author. **[See Figure 1.]**
+the same author. **(See Figure 1 below.)**
+
+Scholars working in the field have long been accustomed to thinking
+of the author of the *dicta* (or after Winroth's discovery, at least
+the author of the first-recension *dicta*) as Gratian, so this
+amounted to finding that Gratian had not written the case statements.
+I immediately realized that if this accidental result held up under
+further testing, it would be both significant and controversial.
 
 ![Figure 1 10 Sep 2013](JPGs/Photo51.jpg)
 
@@ -280,6 +287,22 @@ books on a table.
 
 Introduction, Background, the *Decretum*, Gratian, Stylometry, Next
 steps.
+
+## Note on the Title
+
+*(Either a separate sub-section, or a footnote under topic modeling.)*
+University policy required me to decide on the final title of my
+dissertation, "Distant Reading of Gratian's *Decretum*", years
+before I could possibly have known what the outcome of my research
+was going to be. In fact, another policy actually prohibited
+"proceed[ing] beyond the preliminary stage in the investigation of
+the topic" until my dissertation proposal had been approved, but
+the final title still had to be submitted as part of the proposal.
+The "distant reading" of the title is a nod to Franco Moretti's
+book of the same name, and refers to my early plans to use MALLET
+to perform unsupervised topic modeling on the first and second
+recensions of the *Decretum* and to identify new topics added to
+the second recension by comparing the results.
 
 ## Note on Translations
 
