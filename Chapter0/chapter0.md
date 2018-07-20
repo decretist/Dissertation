@@ -272,17 +272,25 @@ began to evolve into the faculty.
 Many scholars, notably Noonan and Pennington, have seen the thirty-six
 cases that make up the second part of the *Decretum*, each organized
 around a case statement, as Gratian's unique, original, contribution
-to the teaching of canon law.[^14] Their observations prompted me
-to reframe my initial interpretation, and consider the possibility
-that the eponymous Gratian who gave his name to the entire project
-had written *only* the case statements.
+to the teaching of canon law.[^14] There is also a scholarly consensus
+foundational to most recent work on the composition of the *Decretum*
+that Gratian drew on just five material sources for the bulk of the
+authorities he cited.[^15] These observations prompted me to reframe
+my initial interpretation, and consider the possibility that the
+eponymous Gratian who gave his name to the entire project had written
+*only* the case statements.
 
-* * *
-
-Instead, using the case statements as a stepping-off point (syllabus),
-he expounded the canons to his students from a 3,600-word list of
-questions and his material sources, in the form of a small pile of
-books on a table.
+Noonan ended his article "Gratian Slept Here" with a contemporary
+report of an 1143 case argued at San Marco in Venice in which a
+Gratian participated as a consultant to the judge. Many subsequent
+books and articles have referred to Noonan's discussion of the
+courtroom sighting of "the silent figure in the shadows of S.
+Marco".[@noonan_gratian_1979, 171-172] I saw the principal components
+analysis plot as an indirect but compelling classrom sighting of
+Gratian: seated at a table with his case statements in hand and
+their lists of question as his syllabus, he harmonized the canons
+for his students directly out of the material sources in the form
+of a pile of books on the table in front of him.
 
 ## Outline of Chapters
 
@@ -291,7 +299,6 @@ steps.
 
 ## Note on the Title
 
-*(Either a separate sub-section, or a footnote under topic modeling.)*
 University policy required me to decide on the final title of my
 dissertation, "Distant Reading of Gratian's *Decretum*", years
 before I could possibly have known what the outcome of my research
@@ -305,7 +312,7 @@ plans to use MALLET to perform unsupervised topic modeling on the
 first and second recensions of the *Decretum* and to identify new
 topics added to the second recension by comparing the results. As
 the project evolved and the methodological emphasis shifted from
-unsupervised topic modeling to stylometry using principal component
+unsupervised topic modeling to stylometry using principal components
 analysis, the original title became obsolete. If I were to choose
 a title today, "Computer-aided Close Reading of Gratian's *Decretum*"
 would more accurately reflect the results of the project as delivered.
@@ -313,7 +320,7 @@ would more accurately reflect the results of the project as delivered.
 ## Note on Translations
 
 I have, wherever possible, supplied for each Latin passage quoted
-the corresponding passage from a published English translation.[^16]
+the corresponding passage from a published English translation.[^18]
 In cases where no such translation was available, or I considered
 the available translation seriously misleading, I have supplied my
 own translation, indicated with the notation (trans. PLE). Special
@@ -397,7 +404,12 @@ subtracted.
 
 [^14]: [@noonan_catholic_1997, 1201]; and [@pennington_biography_2014, 689].
 
-[^16]: @jansen_medieval_2009; @somerville_prefaces_1998; and
+[^15]: @winroth_making_2000, 15. Roughly one-fifth of the text of
+the *Decretum* has traditionally been attributed to Gratian himself;
+the other fourth-fifths of the text is made up of excerpts from the
+authorities Gratian cited.
+
+[^18]: @jansen_medieval_2009; @somerville_prefaces_1998; and
 @thompson_treatise_1993 have been particularly helpful resources
 in this regard.
 
