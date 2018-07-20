@@ -7,9 +7,9 @@ subtitle: Background
 ---
 Around 1140, a revolutionary textbook transformed the study of canon
 law into a systematic academic discipline. It did not have an
-attribution of authorship. It did not even have a title. However, as it
-entered widespread circulation in the middle decades of the twelfth
-century, the new textbook gave rise to a considerable body
+attribution of authorship. It did not even have a title. However,
+as it entered widespread circulation in the middle decades of the
+twelfth century, the new textbook gave rise to a considerable body
 of commentary, and some early glosses referred to it as the *Concordia
 discordantium canonum* ("Concordance of discordant canons"). The
 same glosses identified Gratian, an otherwise unknown teacher thought
@@ -54,8 +54,8 @@ at least at major centers such as Bologna, Paris, and Oxford --
 informal gatherings of students around a master, although the older
 model probably continued at more peripheral schools.[^4]
 
-The emergence of faculties of canon law in the second half of
-the twelfth century was a feature of a wider intellectual and social
+The emergence of faculties of canon law in the second half of the
+twelfth century was a feature of a wider intellectual and social
 revolution. There had been a revival in Bologna of the formal study
 of Roman law during the second and third decades of the twelfth
 century. The immediate impetus for the revival was the recovery of
@@ -73,29 +73,29 @@ Gratian, in compiling the *Decretum*, solved a problem for the new
 academic discipline of canon law that his counterparts teaching
 Roman law had sidestepped: the Romanists had not needed to create
 textbooks for their students because they had recovered the textbooks
-from which the law had been taught in late antiquity.
-By doing so, Gratian blazed a trail for canon law that theology
-followed about two decades later. The appearance around 1160 of
-Peter Lombard's *Sentences* served as the catalyst for a similar
-transformation of theology into a rigorous academic discipline
-taught from a standardized textbook in the context of a formally
-organized curriculum by a degree-granting faculty, and for the
-displacement of more loosely organized regional schools, such as
-the one at Laon, by the preeminent theology faculty of Paris.
+from which the law had been taught in late antiquity. By doing so,
+Gratian blazed a trail for canon law that theology followed about
+two decades later. The appearance around 1160 of Peter Lombard's
+*Sentences* served as the catalyst for a similar transformation of
+theology into a rigorous academic discipline taught from a standardized
+textbook in the context of a formally organized curriculum by a
+degree-granting faculty, and for the displacement of more loosely
+organized regional schools, such as the one at Laon, by the preeminent
+theology faculty of Paris.
 
 The emergence of distinct faculties of Roman law, canon law, and
 theology in the middle decades of the twelfth century gave rise to
 a rapidly proliferating number of major universities throughout
 Europe, recognizably continuous in form with those of the present
 day. The existence of standardized textbooks such as Gratian's
-*Decretum* and later Peter Lombard's *Sentences* was an absolutely essential
-precondition for the formation of academic faculties organized along
-formal disciplinary lines, offering standardized courses of instruction
-for their students. Those faculties in turn supplied the foundation
-for the medieval, and, by extension, the modern European university.
-Gratian's *Decretum* can be seen from the point of view of this
-series of historical developments as the textbook that set the stage for the emergence of the
-university.
+*Decretum* and later Peter Lombard's *Sentences* was an absolutely
+essential precondition for the formation of academic faculties
+organized along formal disciplinary lines, offering standardized
+courses of instruction for their students. Those faculties in turn
+supplied the foundation for the medieval, and, by extension, the
+modern European university. Gratian's *Decretum* can be seen from
+the point of view of this series of historical developments as the
+textbook that set the stage for the emergence of the university.
 
 ## Roman Law
 
@@ -114,11 +114,11 @@ It is first necessary to distinguish the body of Roman law formally
 codified in the sixth century under the emperor Justinian (†565)
 from the forms of Roman law that had survived through continuous
 use and adaptation in southern Europe from late antiquity into the
-eleventh century. Early medieval Europe had not forgotten
-Roman law, and in particular, the *Lex Romana Visigothorum* or
-*Breviary of Alaric* (506), derived from the Theodosian Code (438),
-was a major source of Roman law concepts and terminology throughout
-the early middle ages. The codification produced by Justinian's
+eleventh century. Early medieval Europe had not forgotten Roman
+law, and in particular, the *Lex Romana Visigothorum* or *Breviary
+of Alaric* (506), derived from the Theodosian Code (438), was a
+major source of Roman law concepts and terminology throughout the
+early middle ages. The codification produced by Justinian's
 commissioners under the guidance of Tribonian (†545?) received
 limited reception in the sixth century in those parts of Italy then
 under Byzantine control. However, it disappeared from view around
@@ -149,26 +149,26 @@ Quiritum*).[^9]
 The scholarly consensus that the teaching of Roman and canon law
 were going concerns in Bologna by around 1110 and 1130 respectively
 has had two notable recent dissenters, Charles Radding and Anders
-Winroth. Radding has proposed that the epicenter of
-the revival of the study of Roman law was not Bologna, but Pavia,
-and places the date somewhat earlier, in the late eleventh century.
-Radding's claim is that research into Roman law developed from its
-having been used as an analytical tool for the explication of the
-central text of the Lombard law tradition, the *Liber Legis
-Langobardorum* or *Liber Papiensis*. Radding's argument has not met
-with widespread acceptance.[@radding_origins_1988]
+Winroth. Radding has proposed that the epicenter of the revival of
+the study of Roman law was not Bologna, but Pavia, and places the
+date somewhat earlier, in the late eleventh century. Radding's claim
+is that research into Roman law developed from its having been used
+as an analytical tool for the explication of the central text of
+the Lombard law tradition, the *Liber Legis Langobardorum* or *Liber
+Papiensis*. Radding's argument has not met with widespread
+acceptance.[@radding_origins_1988]
 
 Anders Winroth is by far the more consequential dissenter from the
-consensus. He draws attention to the
-underdeveloped way in which Gratian uses Justinianic Roman law in
-what Winroth calls the first recension, the earliest version of the
-*Decretum* to survive in more than one manuscript.[^11]
+consensus. He draws attention to the underdeveloped way in which
+Gratian uses Justinianic Roman law in what Winroth calls the first
+recension, the earliest version of the *Decretum* to survive in
+more than one manuscript.[^11]
 
 There are only three places in the first recension of the *Decretum*
-that incorporate material taken directly from Justinianic
-Roman law sources: C.2, q.6, c.28 (an excerpt from the *Authenticum*),
-and C.15, q.3, cc.1-3 and C.15, q.3, c.4 (three excerpts from the
-*Codex* and four from the *Digest*).[@winroth_making_2000, 146-148]
+that incorporate material taken directly from Justinianic Roman law
+sources: C.2, q.6, c.28 (an excerpt from the *Authenticum*), and
+C.15, q.3, cc.1-3 and C.15, q.3, c.4 (three excerpts from the *Codex*
+and four from the *Digest*).[@winroth_making_2000, 146-148]
 
 Gratian does not deploy the proper Justinianic shades of meaning
 to the concepts of ownership and possession when discussing the
@@ -243,19 +243,19 @@ carried out during the course of the investigation into the crime,
 and he was found to be in possession of the stolen goods, a state
 of affairs that he was unable to credibly explain. Neither can it
 be seriously doubted that Mengho's case was conducted according to
-the due process standards prevailing in that time and place.
-Full proof necessary to convict a criminal defendant (*reus*) under
-Roman law required either a confession or the testimony of two
-witnesses, testimony unlikely to be forthcoming in the case of a
-crime of stealth committed at night such as Mengho's. In the absence
-of a voluntary confession or witness testimony, torture of the
-defendant in order to obtain an involuntary confession was simply
-the next routine step of due process. Indeed, Hermann
-Kantorowicz (†1940) brought the story of Mengho to the attention
-of medieval legal historians, and it remains well known today,
-precisely because Kantorowicz considered it a textbook example of
-inquisitorial (as opposed to adversarial) procedure under the *ordo
-iudiciarius* derived from Roman law.[^21]
+the due process standards prevailing in that time and place. Full
+proof necessary to convict a criminal defendant (*reus*) under Roman
+law required either a confession or the testimony of two witnesses,
+testimony unlikely to be forthcoming in the case of a crime of
+stealth committed at night such as Mengho's. In the absence of a
+voluntary confession or witness testimony, torture of the defendant
+in order to obtain an involuntary confession was simply the next
+routine step of due process. Indeed, Hermann Kantorowicz (†1940)
+brought the story of Mengho to the attention of medieval legal
+historians, and it remains well known today, precisely because
+Kantorowicz considered it a textbook example of inquisitorial (as
+opposed to adversarial) procedure under the *ordo iudiciarius*
+derived from Roman law.[^21]
 
 The fact that Mengho was tortured and executed was not the point
 of the story for Kantorowicz, but it is for us. In the twenty-first
@@ -448,7 +448,8 @@ of women and men in the real world.
 [^9]: D.1, c.12. *Decretum Gratiani*, First Recension, edition in
     progress. Anders Winroth, 3/21/2017, 3.
 
-[^11]: **Defined so as to sidestep (for now) the controversy over Sg.**
+[^11]: **Defined so as to sidestep (for now) the controversy over
+Sg.**
 
 [^15]: Chodorow explains Gratian's "deletion" of Roman law as a
     consequence of what he sees as Gratian's adherence to the party
@@ -484,22 +485,22 @@ of women and men in the real world.
     however, associated it with the Diet of Roncaglia in November
     1158, and modern editions have retained the ascribed date.
     [@pennington_beginnings_2018] **p.20, fn.53 in MS Word version.**
-    The uncertainty arises because
-    a contemporary poem, the *Carmen de gestis Frederici I. Imperatoris
-    in Lombardia* gives a first-hand account of an incident that
-    took place near Bologna in 1155 in which Frederick, in response
-    to a petition brought by a deputation of doctors and scholars
-    from the city, issued a proclamation matching the description
-    of *Authentica Habita*. Some modern scholars attempt to split
-    the difference by accepting the November 1158 date for the
-    version of the text that we have, but characterizing it as a
-    re-issue of the 1155 proclamation described the *Carmen de
-    gestis*. There appears to be no good reason to believe that
-    *Authentica Habita* was promulgated twice, in 1155 and 1158,
-    as opposed to just once, in 1155. In any event, the uncertainty
-    (within a narrow and circumscribed range) about the date
-    *Authentica Habita* was promulgated does not take anything away
-    from the validity of the point Pennington is making.
+    The uncertainty arises because a contemporary poem, the *Carmen
+    de gestis Frederici I. Imperatoris in Lombardia* gives a
+    first-hand account of an incident that took place near Bologna
+    in 1155 in which Frederick, in response to a petition brought
+    by a deputation of doctors and scholars from the city, issued
+    a proclamation matching the description of *Authentica Habita*.
+    Some modern scholars attempt to split the difference by accepting
+    the November 1158 date for the version of the text that we have,
+    but characterizing it as a re-issue of the 1155 proclamation
+    described the *Carmen de gestis*. There appears to be no good
+    reason to believe that *Authentica Habita* was promulgated
+    twice, in 1155 and 1158, as opposed to just once, in 1155. In
+    any event, the uncertainty (within a narrow and circumscribed
+    range) about the date *Authentica Habita* was promulgated does
+    not take anything away from the validity of the point Pennington
+    is making.
 
 [^20]: It is true that *Authentica Habita* does not mention Bologna
     explicitly, but instead refers to "the place where they are
