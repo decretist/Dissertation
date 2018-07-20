@@ -222,9 +222,10 @@ issued by the emperor Frederick I (†1190), which has traditionally
 been taken as extending imperial protection to the law school of
 Bologna, its faculty, and its students.[^18] Pennington makes the
 common-sense point that a privilege like this is unlikely to have
-been granted to an institution just getting off the ground.[^19]
-Winroth counter-argues that the privilege mentions neither Bologna
-nor those involved in legal studies specifically.[^20]
+been granted to an institution just getting off the
+ground.[@pennington_short_2002, 17] Winroth counter-argues that the
+privilege mentions neither Bologna nor those involved in legal
+studies specifically.[^20]
 
 The main point to take away from this discussion is that while I
 agree with the consensus that the teaching of Roman and canon law
@@ -499,11 +500,6 @@ of women and men in the real world.
     (within a narrow and circumscribed range) about the date
     *Authentica Habita* was promulgated does not take anything away
     from the validity of the point Pennington is making.
-
-[^19]: Ken Pennington, "[A Short History of Canon Law from Apostolic
-    Times to
-    1917](http://legalhistorysources.com/Canon%20Law/PenningtonShortHistoryCanonLaw.pdf),"
-    17. (Fr. Bradley's PDF file)
 
 [^20]: It is true that *Authentica Habita* does not mention Bologna
     explicitly, but instead refers to "the place where they are
