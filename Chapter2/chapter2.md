@@ -1,9 +1,9 @@
 ---
-author: Paul Evans
 bibliography: chapter2.bib
 csl: ../csl/chicago-fullnote-bibliography.csl
 reference-section-title: Bibliography
 title: Chapter 2
+subtitle: The *Decretum*
 ---
 ## Presentation
 
@@ -41,15 +41,15 @@ is a very short summary of what the canon is about. In 398 cases
 "about the same thing" (as the canon before). Most canons have an
 inscription, which identifies the authority that is the source for
 the canon (usually a papal decretal, a canon from an ecumenical
-council or a provincial synod, or a patristic text).[^eichbauer]
-Because Gratian was getting his texts from previous collections,
-the inscription was frequently incorrect, especially if the text
-in question was one that had been included in the Pseudo-Isidorian
+council or a provincial synod, or a patristic text).[^32] Because
+Gratian was getting his texts from previous collections, the
+inscription was frequently incorrect, especially if the text in
+question was one that had been included in the Pseudo-Isidorian
 forgeries. This raises the need to distinguish between Gratian's
 material sources -- the original letter of Pope Gregory I, for
 example -- and his formal sources -- the collection Gratian was
-actually looking at when copying his text.[^register] Finally, there
-are the *dicta* (literally, "things having been said"), which are
+actually looking at when copying his text.[^33] Finally, there are
+the *dicta* (literally, "things having been said"), which are
 statements Gratian is making on his own authority as a jurist. It
 is the *dicta* that carry the thread of Gratian's argument. [Here
 I am only talking about *dicta post canones*. Dicta ante canones
@@ -61,27 +61,6 @@ container), and d.p.c. (optional last leaf of canon container).
 Dicta are text that Gratian (whoever we think he is) actually wrote
 and are therefore subject to function word analysis for authorship
 attribution.]
-
-[^eichbauer]: The distinction between rubrics and *dicta* is blurry:
-"Gratian rarely took his rubrics from earlier collections. Rather
-he created his own and often melded the rubrics with the dicta."
-[@eichbauer_redactions_2007, 107] "Both J. Rambaud-Buhot and John
-Noonan, Jr. have highlighted the similarity between dicta and
-rubrics, that is, a rubric very often echoes the dictum that
-immediately preceded it." and "These isolated instances in the first
-cluster show that Gratian felt that the dictum was sufficient for
-summarizing the following *auctoritas*." [@eichbauer_redactions_2007,
-115] **Expand to include inscriptions.**
-
-[^register]: "Since Gratian frequently took fragments of letters
-from the Register of Gregory I---266 in all---using the inscription
-'in registro', older research assumed that he must have used this
-important source in the form of the *Registrum Hadrianum*. According
-to more recent research (Landau), even these texts from the Register
-of Gregory I found in Gratian derive almost without exception from
-canonical collections predating Gratian; the direct use of the
-Register is probable in only a single case." [C.27 q.1 c.19 (JE
-1496)] [@landau_gratian_2008, 34].
 
 "The *dicta* in Gratian's *Decretum* bring the reader closer to its
 author than any other part of the text."[@winroth_making_2000, 187]
@@ -98,7 +77,7 @@ university-educated, urban professional parents, the intense concern
 of "a certain man" in the first case statement to secure a good
 ecclesiastical career for his son (and his willingness on more than
 one occasion to resort to bribery in order to realize that objective)
-has a distinctly contemporary feel to it.[^3]
+has a distinctly contemporary feel to it.[^34]
 
 ## Organization
 
@@ -147,43 +126,28 @@ second-recension (R2) version of the *Decretum* as indicated by
 glosses found in the Gt, Pf, and Tr manuscripts describing Gratian's
 work as "principally divided into two parts."
 
-## General Notes
+[^32]: The distinction between rubrics and *dicta* is blurry:
+"Gratian rarely took his rubrics from earlier collections. Rather
+he created his own and often melded the rubrics with the dicta."
+[@eichbauer_redactions_2007, 107] "Both J. Rambaud-Buhot and John
+Noonan, Jr. have highlighted the similarity between dicta and
+rubrics, that is, a rubric very often echoes the dictum that
+immediately preceded it." and "These isolated instances in the first
+cluster show that Gratian felt that the dictum was sufficient for
+summarizing the following *auctoritas*." [@eichbauer_redactions_2007,
+115] **Expand to include inscriptions.**
 
-There is a convention in scholarly writing where the researcher
-presents their results, but carefully removes the scaffolding and
-effaces the process by which those results were actually arrived
-at. [My intention is to show rather than hide the process by which
-I arrived at the results that I am presenting.]
+[^33]: "Since Gratian frequently took fragments of letters from the
+Register of Gregory I---266 in all---using the inscription 'in
+registro', older research assumed that he must have used this
+important source in the form of the *Registrum Hadrianum*. According
+to more recent research (Landau), even these texts from the Register
+of Gregory I found in Gratian derive almost without exception from
+canonical collections predating Gratian; the direct use of the
+Register is probable in only a single case." [C.27 q.1 c.19 (JE
+1496)] [@landau_gratian_2008, 34].
 
-## Notes from 10 August 2017 meeting with Stan Chodorow:
-
--   1120: "Holy shit, we're independent!"
-
--   Formation: pay attention to *what's* being formed -- systematic
-    canonical jurisprudence or, less precisely, canon law.
-
--   Transition: Where do Gratian and the *Decretum* lie along the
-    (ground track or trajectory of) transition of the church from
-    Leo IX (†1054) to Innocent III (†1216)?
-
-## Notes 15 September 2017
-
-"Considering that the first [recension] may be a record of the first
-'university course' in canon law ..."[@winroth_making_2000, 194]
-
-Yes, but not in the way Anders is envisioning here. Rather, the
-first university course in canon law consisted of the Master reading
-from a pile of books, the formal sources, guided by his original
-handwritten list of hypothetical case statements (*themata*). The
-first recension represents a reconstruction of that course by some
-of the original Master's students.
-
-"Gratian 1 and the Lombard were in effect forced to create their
-own authoritative texts (their authority deriving from the fact
-that they consisted mainly of quotations) to be able to effectively
-teach their subjects."[@winroth_making_2000, 191]
-
-[^3]: "Quidam habens filium ..." C.1, d.init., edF. 1.357. Although
+[^34]: "Quidam habens filium ..." C.1, d.init., edF. 1.357. Although
 Gratian does not say so explicitly, I think that we can reasonably
 infer that the father is an urban merchant or professional, rather
 than a member of the landed aristocracy, since his wealth, the
