@@ -9,15 +9,15 @@ The *Decretum* represents a towering intellectual achievement of
 the renaissance of the twelfth century that ushered in the high
 middle ages in Europe. But whose achievement was it? In particular,
 is the *Decretum* the achievement of a single author or was it the
-product of serial or even collaborative authorship? Because so little is reliably
-known about the historical Gratian, and because almost everything
-that previous generations thought was known about Gratian has proved,
-on closer examination, to be myth,[@noonan_gratian_1979] it is best
-to make our first approach (*accessus*) to the author through his
-text.[^2] The approach is made more difficult by the fact that,
-like many modern university textbooks, the *Decretum* underwent at
-least one major revision, and was probably the product of a process
-of continuous revision.
+product of serial or even collaborative authorship? Because so
+little is reliably known about the historical Gratian, and because
+almost everything that previous generations thought was known about
+Gratian has proved, on closer examination, to be
+myth,[@noonan_gratian_1979] it is best to make our first approach
+(*accessus*) to the author through his text.[^2] The approach is
+made more difficult by the fact that, like many modern university
+textbooks, the *Decretum* underwent at least one major revision,
+and was probably the product of a process of continuous revision.
 
 In 1996, Anders Winroth discovered that four surviving twelfth-century
 manuscripts -- Florence, Biblioteca Nazionale Centrale, Conv. Soppr.
@@ -25,20 +25,20 @@ A. 1.402 (Fd); Barcelona, Arxiu de la Corona d'Aragó, Santa Maria
 de Ripoll 78 (Bc); Paris, Bibliothèque Nationale de France, nouvelles
 acquisitions latines 1761 (P); and Admont, Stiftsbibliothek 23 and
 43 (Aa) -- preserve the text of what Winroth called the first
-recension of the *Decretum*.[^3] In 1998, Carlos Larrainzar
-identified Paris, Bibliothèque Nationale de France, latin 3884 I,
-fo. 1 (Pfr) as a one-page fragment of a first-recension manuscript
-of the *Decretum*.[@winroth_making_2000, 32] And in 2011, Atria
-Larson discovered that München, Bayerische Staatsbibliothek, lat.
-22272 (Mw) contains an abbreviation of the first recension of the
+recension of the *Decretum*.[^3] In 1998, Carlos Larrainzar identified
+Paris, Bibliothèque Nationale de France, latin 3884 I, fo. 1 (Pfr)
+as a one-page fragment of a first-recension manuscript of the
+*Decretum*.[@winroth_making_2000, 32] And in 2011, Atria Larson
+discovered that München, Bayerische Staatsbibliothek, lat. 22272
+(Mw) contains an abbreviation of the first recension of the
 *Decretum*.[@larson_abbreviatio_2011]
 
 Winroth's discovery of the first recension suggests one obvious way
 in which it might be problematic to refer simplistically to Gratian
-as the author of the *Decretum,* as I have done thus far.[^6]
-Winroth rejects any presumption of monolithic authorship on
-stratigraphic grounds. He argues that the first recension is "coherent
-and complete," and that its author intentionally released it into
+as the author of the *Decretum,* as I have done thus far.[^6] Winroth
+rejects any presumption of monolithic authorship on stratigraphic
+grounds. He argues that the first recension is "coherent and
+complete," and that its author intentionally released it into
 circulation as a "finished product."[^7] (In other words, it did
 not just prematurely escape into the wild like parts of Augustine's
 *de Trinitate*.) Winroth thinks of the first and second recensions
@@ -67,16 +67,16 @@ III).[^9]
 But long before the discovery of the first recension in the late
 twentieth century, the first twelfth-century readers of the *Decretum*
 were distinctly aware of the limited extent to which it could be
-thought of as the work of a single author. Even early readers,
-such as the author of the *Summa Parisiensis*, who
-implicitly endorsed the single author theory by subsuming the entire
-vulgate text of the *Decretum* under the eponym "Gratian," recognized
-that whoever Gratian was, he was not directly responsible either
-for the bulk of the text or for certain notable formal features of
-the work, like the division of Part I into *distinctiones*.[^10]
-Gratian was working within a well-established genre of academic
-writing in medieval Latin literature, the canonical collection.[^11]
-The *Decretum* followed in the footsteps of any number of systematic
+thought of as the work of a single author. Even early readers, such
+as the author of the *Summa Parisiensis*, who implicitly endorsed
+the single author theory by subsuming the entire vulgate text of
+the *Decretum* under the eponym "Gratian," recognized that whoever
+Gratian was, he was not directly responsible either for the bulk
+of the text or for certain notable formal features of the work,
+like the division of Part I into *distinctiones*.[^10] Gratian was
+working within a well-established genre of academic writing in
+medieval Latin literature, the canonical collection.[^11] The
+*Decretum* followed in the footsteps of any number of systematic
 canonical collections in which the material was organized by topic
 that had been in circulation since the beginning of the eleventh
 century.[^12]
@@ -166,8 +166,8 @@ councils, and somewhat later by papal decretals.
 
 Gratian, strictly speaking, defines canons as either *decreta
 Pontificum* ("decrees of pontiffs") or *statuta conciliorum*
-("statutes of councils").[^17] From a relatively early date,
-the bishops of Rome had cultivated the practice of issuing decretal
+("statutes of councils").[^17] From a relatively early date, the
+bishops of Rome had cultivated the practice of issuing decretal
 letters, consciously modeled after Roman imperial rescripts, in
 which they laid down disciplinary and doctrinal norms in response
 to questions put to them, usually by other bishops.[^18] The earliest
@@ -196,12 +196,12 @@ to assume an outsized importance in the canonical tradition when
 figures such as Augustine of Hippo (†430) or Caesarius of Arles
 (†542) either participated in or presided over them: "*Etiam S.
 Augustinus Yponensis episcopus in eadem sinodo legitur fuisse."*
-(It is read that St. Augustine, bishop
-of Hippo, also attended this synod.)"[^21] By the time the *Decretum*
-was compiled, the cumulative output of the ecumenical councils and
-provincial synods amounted to a considerable mass of material, and
-Gratian devoted most of *Distinctiones* 15 and 16 to enumerating
-the canonically authoritative councils and synods.[^22]
+(It is read that St. Augustine, bishop of Hippo, also attended this
+synod.)"[^21] By the time the *Decretum* was compiled, the cumulative
+output of the ecumenical councils and provincial synods amounted
+to a considerable mass of material, and Gratian devoted most of
+*Distinctiones* 15 and 16 to enumerating the canonically authoritative
+councils and synods.[^22]
 
 In addition to textual material strictly defined as canons ("decrees
 of pontiffs" and "statutes of councils"), Gratian drew on other
@@ -249,14 +249,14 @@ on just five formal sources in writing the Decretum: Anselm of
 Lucca's *Collectio canonum*, the pseudo-Ivonian *Collectio Tripartita*,
 Ivo of Chartes's *Panormia*, Gregory of San Grisogono's *Polycarpus*,
 and an anonymous *Collection in Three Books* (*3L*).[@winroth_making_2000,
-15-17] This hypothesis is not universally accepted:
-Pennington, for example, believes that Gratian may have relied on
-one or more now-lost Central Italian collections similar to 
-the *Collection in Nine Books* (*9L*).[^28]
+15-17] This hypothesis is not universally accepted: Pennington, for
+example, believes that Gratian may have relied on one or more
+now-lost Central Italian collections similar to the *Collection in
+Nine Books* (*9L*).[^28]
 
 By the end of the Patristic period, the canons of the ecumenical
-and of historically important provincial councils constituted
-a substantial body of canon law, which were gathered into collections
+and of historically important provincial councils constituted a
+substantial body of canon law, which were gathered into collections
 such as the *Collectio Dionysiana* (ca. 500). A later revision of
 the *Dionysiana*, the *Collectio Dionysio-Hadriana* (774), exercised
 enormous influence on the transmission of canon law to the Carolingian
@@ -308,19 +308,18 @@ Hildebrand, who reigned as Gregory VII from 1073 to 1085, provided
 a new impetus for the collection and study of canons. The special
 concerns of the Gregorian reformers also shaped their approach to
 the collection and presentation of canons. The consuming interest
-of the reform generation was the relationship between *regnum*
-and *sacerdotium* (church and state).
-This interest in the problem of church-state relations was instrumental:
-the ultimate concern of the eleventh-century reformers, as it had
-been for their eighth- and ninth-century Carolingian predecessors,
-was for the reform and renewal of monastic and clerical life. Unlike
-the Carolingians, however, who had thought that cooperation between
-ecclesiastical and secular authorities was essential for the reform
-of religious life, the eleventh-century reformers believed that
-secular rulers had to acknowledge the jurisdictional supremacy of
-the papacy and the independence of the church from lay interference
-as a necessary precondition for effective clerical and monastic
-reform. It is
+of the reform generation was the relationship between *regnum* and
+*sacerdotium* (church and state). This interest in the problem of
+church-state relations was instrumental: the ultimate concern of
+the eleventh-century reformers, as it had been for their eighth-
+and ninth-century Carolingian predecessors, was for the reform and
+renewal of monastic and clerical life. Unlike the Carolingians,
+however, who had thought that cooperation between ecclesiastical
+and secular authorities was essential for the reform of religious
+life, the eleventh-century reformers believed that secular rulers
+had to acknowledge the jurisdictional supremacy of the papacy and
+the independence of the church from lay interference as a necessary
+precondition for effective clerical and monastic reform. It is
 significant that the most important canon law collections of the
 reform period were compiled by prelates sympathetic with the reform
 movement, such as Anselm, bishop of Lucca (†1086), compiler of the
@@ -387,9 +386,9 @@ extremely strong ideological orientation.
     Bibliothèque Nationale de France, nouvelles acquisitions latines
     1761, although an extremely important and early (possible the
     earliest) manuscript of the *Decretum*, was not glossed, and
-    was therefore not assigned a *siglum* by Weigand. **Verify that Winroth
-    supplied the *siglum* P by which the manuscript is now commonly
-    identified.** (Although the *sigla* in Weigand's
+    was therefore not assigned a *siglum* by Weigand. **Verify that
+    Winroth supplied the *siglum* P by which the manuscript is now
+    commonly identified.** (Although the *sigla* in Weigand's
     *Handschriftenliste* adhere consistently to the two-letter
     convention, some of the *sigla* supplied by other scholars
     deviate from it, e.g., P, Pfr.)
