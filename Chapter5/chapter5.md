@@ -1,6 +1,6 @@
 ---
 author: Paul Evans
-bibliography: chapter5.bib
+bibliography: ../bib/chapter5.bib
 csl: ../csl/chicago-fullnote-bibliography.csl
 nocite: |
   @*

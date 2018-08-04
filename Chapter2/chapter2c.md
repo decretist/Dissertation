@@ -1,5 +1,5 @@
 ---
-bibliography: chapter2.bib
+bibliography: ../bib/chapter2.bib
 csl: ../csl/chicago-fullnote-bibliography.csl
 reference-section-title: Bibliography
 title: Chapter 2c

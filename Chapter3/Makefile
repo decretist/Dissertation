@@ -1,4 +1,4 @@
-chapter3.docx:	chapter3.md chapter3.bib ../reference/reference.docx
+chapter3.docx:	chapter3.md ../bib/chapter3.bib ../reference/reference.docx
 	pandoc -o chapter3.docx --filter pandoc-citeproc --reference-doc=../reference/reference.docx chapter3.md
 
 reference.docx:

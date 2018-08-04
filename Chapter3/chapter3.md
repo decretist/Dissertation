@@ -1,6 +1,6 @@
 ---
 author: Paul Evans
-bibliography: chapter3.bib
+bibliography: ../bib/chapter3.bib
 csl: ../csl/chicago-fullnote-bibliography.csl
 reference-section-title: Bibliography
 title: Chapter 3
