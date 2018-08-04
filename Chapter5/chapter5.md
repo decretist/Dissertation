@@ -1,9 +1,11 @@
 ---
 author: Paul Evans
-bibliography: ../bib/chapter5.bib
+bibliography: ../bib/chapter1.bib
 csl: ../csl/chicago-fullnote-bibliography.csl
 nocite: |
-  @*
+  @eichbauer_redactions_2007
+  @larrainzar_borrador_1999
+  @noonan_gratian_1979
 reference-section-title: Bibliography
 title: Chapter 5
 ---
