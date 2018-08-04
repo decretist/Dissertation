@@ -283,7 +283,7 @@ Gratian participated as a consultant to the judge. Many subsequent
 books and articles have referred to Noonan's discussion of the
 courtroom sighting of "the silent figure in the shadows of S.
 Marco".[@noonan_gratian_1979, 171-172] I saw the principal components
-analysis plot as an indirect but compelling classrom sighting of
+analysis plot as an indirect but compelling classroom sighting of
 Gratian: seated at a table with his case statements in hand and
 their lists of question as his syllabus, he harmonized the canons
 for his students directly out of the formal sources in the form of
