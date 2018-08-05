@@ -310,8 +310,7 @@ form.
 
 ## Outline of Chapters
 
-Introduction, Background, the *Decretum*, Gratian, Stylometry, Next
-steps.
+Background, the *Decretum*, Gratian, Stylometry, Next steps.
 
 ## Note on the Title
 
