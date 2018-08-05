@@ -2,38 +2,10 @@
 bibliography: ../bib/chapter1.bib
 csl: ../csl/chicago-fullnote-bibliography.csl
 reference-section-title: Bibliography
-title: Chapter 2
+title: Chapter 2b
 subtitle: The *Decretum*
 ---
-## Presentation
-
-Having considered how Gratian sourced and collected his materials---the
-question of what canons are and where Gratian got them---we now
-turn to the question of how Gratian presented and organized the
-canons he had collected. Here, it is important to distinguish between
-presentation, the small-grain or micro structure of the *Decretum*,
-and organization, the large-grain or macro structure of the *Decretum*.
-The organization of the *Decretum* is very regular, so structurally
-regular, in fact, that Reuter and Silagi's OCP e-text of the Friedberg
-edition can be taken apart using a recursive descent parser, and
-should be thought of as a sequence of hierarchically nested containers.
-Taking a bottom-up approach, we will turn first to the presentation
-or small-grain structure, and start with the canons, the atomic
-containers out of which the higher-order containers---parts,
-distinctions, cases, and questions---in the *Decretum* are built
-up.
-
-The way in which canons are presented in the *Decretum* differs
-somewhat from the way in which they are presented in the predecessor
-collections of formal sources from which Gratian selected his
-material. The canon package in the formal sources typically included
-an inscription, a rubric, and the canon text. Gratian added to the
-package a *dictum post canonem* containing his own commentary on
-the preceding canon or canons, a feature borrowed from Alger of
-Liège's theological treatise *De misericordia et iustitia*, but
-without an immediate precedent in the canonical literature.
-
-* * *
+## Presentation (continued)
 
 A canon is often, though not always, introduced by a rubric, which
 is a very short summary of what the canon is about. In 398 cases
