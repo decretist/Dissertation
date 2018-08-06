@@ -1,9 +1,9 @@
 ---
 bibliography: ../bib/chapter1.bib
 csl: ../csl/chicago-fullnote-bibliography.csl
-reference-section-title: Bibliography
 title: Chapter 0
 subtitle: Introduction
+suppress-bibliography: true
 ---
 ## Origin of the Project
 

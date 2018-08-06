@@ -1,9 +1,9 @@
 ---
 bibliography: ../bib/chapter1.bib
 csl: ../csl/chicago-fullnote-bibliography.csl
-reference-section-title: Bibliography
 title: Chapter 2a
 subtitle: The *Decretum*
+suppress-bibliography: true
 ---
 The *Decretum* represents a towering intellectual achievement of
 the renaissance of the twelfth century that ushered in the high

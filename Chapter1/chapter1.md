@@ -1,9 +1,9 @@
 ---
 bibliography: ../bib/chapter1.bib
 csl: ../csl/chicago-fullnote-bibliography.csl
-reference-section-title: Bibliography
 title: Chapter 1
 subtitle: Background
+suppress-bibliography: true
 ---
 Around 1140, a revolutionary textbook transformed the study of canon
 law into a systematic academic discipline. It did not have an

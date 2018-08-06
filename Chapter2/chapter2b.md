@@ -1,9 +1,9 @@
 ---
 bibliography: ../bib/chapter1.bib
 csl: ../csl/chicago-fullnote-bibliography.csl
-reference-section-title: Bibliography
 title: Chapter 2b
 subtitle: The *Decretum*
+suppress-bibliography: true
 ---
 ## Presentation (continued)
 
