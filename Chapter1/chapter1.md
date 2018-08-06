@@ -34,9 +34,8 @@ exercised enormous influence over the 1917 and 1983 codifications
 of canon law that replaced the old *Corpus*.
 
 The *Decretum* was arguably the first book in the European tradition
-written from the ground up as a university textbook. (Abelard's
-*Sic et Non* is the other book for which such an argument might be
-advanced.)
+written from the ground up as a textbook. (Abelard's *Sic et Non*
+is the other book for which such an argument might be advanced.)
 
 Gratian's exposition of his method -- the *content* of the *Decretum*
 -- transformed the study of canon law into a rigorous academic
