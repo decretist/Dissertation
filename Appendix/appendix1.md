@@ -1,6 +1,5 @@
 ---
-title: Appendix
-subtitle: Code
+title: Appendix 1
 ---
 ## dicta.py
 

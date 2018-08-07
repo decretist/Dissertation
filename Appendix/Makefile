@@ -1,9 +1,11 @@
-appendix.docx:	appendix.md reference.docx
-	pandoc -o appendix.docx --reference-doc=reference.docx appendix.md
+all: appendix1.docx appendix2.docx
 
-reference.docx:
-	pandoc --print-default-data-file reference.docx > reference.docx
+appendix1.docx:	appendix1.md reference.docx
+	pandoc -o appendix1.docx --reference-doc=reference.docx appendix1.md
+
+appendix2.docx:	appendix2.md reference.docx
+	pandoc -o appendix2.docx --reference-doc=reference.docx appendix2.md
 
 clean:
-	rm -i appendix.docx
+	rm -i appendix1.docx appendix2.docx
 
