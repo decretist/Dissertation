@@ -1,4 +1,4 @@
-chapter4.docx:	chapter4.md ../bib/chapter4.bib ../reference/reference.docx
+chapter4.docx:	chapter4.md ../bib/chapter1.bib ../reference/reference.docx
 	pandoc -o chapter4.docx --filter pandoc-citeproc --reference-doc=../reference/reference.docx chapter4.md
 
 ICMCL.docx:	ICMCL.md project.bib ../reference/reference.docx

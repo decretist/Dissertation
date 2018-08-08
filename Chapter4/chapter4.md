@@ -1,7 +1,7 @@
 ---
 author: Paul Evans
 date: 20 July 2016
-bibliography: ../bib/chapter4.bib
+bibliography: ../bib/chapter1.bib
 csl: ../csl/chicago-fullnote-bibliography.csl
 reference-section-title: Bibliography
 title: Chapter 4
