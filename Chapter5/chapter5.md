@@ -1,6 +1,6 @@
 ---
 author: Paul Evans
-bibliography: ../bib/chapter1.bib
+bibliography: ../bib/merged.bib
 csl: ../csl/chicago-fullnote-bibliography.csl
 nocite: |
   @eichbauer_redactions_2007

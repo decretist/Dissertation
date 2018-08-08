@@ -1,6 +1,6 @@
-bibliography.docx:	bibliography.md ../bib/chapter1.bib ../reference/final.docx
-	pandoc -o bibliography.docx --filter pandoc-citeproc --reference-doc=../reference/final.docx bibliography.md
+biblio.docx: biblio.md merged.bib ../reference/final.docx
+	pandoc -o biblio.docx --filter pandoc-citeproc --reference-doc=../reference/final.docx biblio.md
 
 clean:
-	rm -i bibliography.docx
+	rm -i biblio.docx
 

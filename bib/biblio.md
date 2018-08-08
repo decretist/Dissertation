@@ -1,5 +1,5 @@
 ---
-bibliography: ../bib/chapter1.bib
+bibliography: merged.bib
 csl: ../csl/chicago-fullnote-bibliography.csl
 nocite: |
   @*

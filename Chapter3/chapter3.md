@@ -1,7 +1,7 @@
 ---
-bibliography: ../bib/chapter1.bib
+bibliography: ../bib/merged.bib
 csl: ../csl/chicago-fullnote-bibliography.csl
-reference-section-title: Bibliography
+suppress-bibliography: true
 title: Chapter 3
 abstract: |
   The third order of business then is to recount the history of
