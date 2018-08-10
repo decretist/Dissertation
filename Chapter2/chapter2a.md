@@ -68,18 +68,18 @@ But long before the discovery of the first recension in the late
 twentieth century, the first twelfth-century readers of the *Decretum*
 were distinctly aware of the limited extent to which it could be
 thought of as the work of a single author. Even early readers, such
-as the author of the *Summa Parisiensis*, who implicitly endorsed
-the single author theory by subsuming the entire vulgate text of
-the *Decretum* under the eponym "Gratian," recognized that whoever
-Gratian was, he was not directly responsible either for the bulk
-of the text or for certain notable formal features of the work,
-like the division of Part I into *distinctiones*.[^10] Gratian was
-working within a well-established genre of academic writing in
-medieval Latin literature, the canonical collection.[^11] The
-*Decretum* followed in the footsteps of any number of systematic
-canonical collections in which the material was organized by topic
-that had been in circulation since the beginning of the eleventh
-century.[^12]
+as Stephen of Tournai and the author of the *Summa Parisiensis*,
+who implicitly endorsed the single author theory by subsuming the
+entire vulgate text of the *Decretum* under the eponym "Gratian,"
+recognized that whoever Gratian was, he was not directly responsible
+either for the bulk of the text or for certain notable formal
+features of the work, like the division of Part I into
+*distinctiones*.[^10] Gratian was working within a well-established
+genre of academic writing in medieval Latin literature, the canonical
+collection.[^11] The *Decretum* followed in the footsteps of any
+number of systematic canonical collections in which the material
+was organized by topic that had been in circulation since the
+beginning of the eleventh century.[^12]
 
 Twelfth-century readers of a canonical collection did not necessarily
 expect all (or even any) of the words they read to have been written
@@ -434,7 +434,23 @@ extremely strong ideological orientation.
 [^9]: Excepting only that there is no first-recension version of
     Part III.
 
-[^10]: "Distinctiones apposuit in prima parte et ultima Paucapalea
+[^10]: "Compositorem huius operis recte dixerim Gratianum, non
+    auctorem. Capitula namque a sanctis patribus edita in hoc
+    volumine composuit, i.e. ordinavit. Non eorum auctor vel conditor
+    fuit, nisi forte quis eum auctorem idcirco dicere velit, quoniam
+    multa ex parte sua sanctorum sententias distinguendo et exponendo
+    in paragraphis suis ponit." [@schulte_summa_1965, 5] "I should
+    properly say that Gratian is the compiler of this work, not the
+    author, for he brought together in this volume---that is, he
+    arranged---rulings enacted by the holy Fathers. He was not their
+    author or framer, unless perchance someone wishes to say that
+    he is thus the author since he offered on his own in his dicta
+    many things for clarifying and explicating the opinions of the
+    holy [Fathers]." [@somerville_prefaces_1998, 200-201]. Somerville
+    is not translating from the 1891 Schulte edition but from
+    [@kalb_studien_1983, 113-120].
+
+    "Distinctiones apposuit in prima parte et ultima Paucapalea
     ..." [@mclaughlin_summa_1952, 1] (Paucapalea arranged the
     distinctions in the first part and the last, trans. PLE)
 
