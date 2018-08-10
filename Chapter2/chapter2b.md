@@ -32,22 +32,22 @@ package a *dictum post canonem* (plural *dicta post canones*)
 containing his own commentary on the preceding canon or canons, a
 feature borrowed from Alger of Liège's theological treatise *De
 misericordia et iustitia*, but without an immediate precedent in
-the canonical literature.[^alger]
+the canonical literature.[^33]
 
 A canon is often, though not always, introduced by a rubric. The
 name refers to the fact that rubrics were conventionally written
 in red ink in manuscripts. A rubric is a very short summary of what
 the following canon is about. In many cases the rubric simply reads
 "*de eodem*", which means "about the same thing" as the preceding
-canon.[^33]
+canon.[^34]
 
 Most canons have an inscription, which identifies the ultimate
 source of authority for that canon, usually a papal decretal, a
 canon from an ecumenical council or an important provincial synod,
-or a patristic text.[^34] This raises the need to distinguish
+or a patristic text.[^35] This raises the need to distinguish
 Gratian's material sources---an original letter of Pope Gregory I,
 for example---from his formal sources---the collection from which
-Gratian actually copied his text.[^35] Because Gratian collected
+Gratian actually copied his text.[^36] Because Gratian collected
 his texts almost exclusively from formal sources, the inscription
 was frequently historically inaccurate, especially if the text in
 question was one derived from the Pseudo-Isidorian collections.
@@ -72,12 +72,14 @@ distinctions, for example, form a treatise on laws (*tractatus de
 legibus*) that explores the sources of law. Other topics covered
 include ecclesiastical hierarchy and clerical discipline. The second
 part consists of 36 cases. A treatise on penance (*tractatus de
-penitentia*) is inserted in the second part at C.33 q.3. The third
-part of the *Decretum* is a treatise on sacraments (*tractatus de
-consecratione*).[@winroth_making_2000, 5] Contemporaries like Rufinus
-and Stephen of Tournai understood the parts to treat respectively
-of ministries, business, and sacraments: "*primam ministeriis,
-secundam negotiis, tertiam ecclesiasticis deputat sacramentis.*"[^38]
+penitentia*) divided into seven distinctions is inserted in the
+second part at C.33 q.3. The third part of the *Decretum* is a
+treatise on sacraments (*tractatus de consecratione*) divided into
+five distinctions.[@winroth_making_2000, 5] Contemporaries like
+Rufinus and Stephen of Tournai understood the parts to treat
+respectively of ministries, business, and sacraments: "*primam
+ministeriis, secundam negotiis, tertiam ecclesiasticis deputat
+sacramentis.*"[^39]
 
 * * *
 
@@ -101,7 +103,7 @@ university-educated, urban professional parents, the intense concern
 of "a certain man" in the first case statement to secure a good
 ecclesiastical career for his son (and his willingness on more than
 one occasion to resort to bribery in order to realize that objective)
-has a distinctly contemporary feel to it.[^39]
+has a distinctly contemporary feel to it.[^40]
 
 The cases are hypotheticals like those used in modern law schools,
 and some of them are quite far-fetched. In case 28, for example, a
@@ -124,9 +126,7 @@ absent from all first-recension manuscripts, nor was it included
 in the earliest manuscripts of the more widely-circulated
 second-recension version of the *Decretum*, as indicated by glosses
 found in the Gt, Pf, and Tr manuscripts describing Gratian's work
-as "principally divided into two parts."[^40]
-
-[^alger]: **Placeholder for Alger of Liege footnote.**
+as "principally divided into two parts."[^41]
 
 [^32]: See Appendix 2 for the Python code listing for my implementation
 of the recursive-descent parser. Thanks to Patricio Simari of the
@@ -134,12 +134,20 @@ Electrical Engineering and Computer Science Department at The
 Catholic University of America, who provided helpful suggestions
 on parser implementation.
 
-[^33]: **The role of the *de eodem* rubrics in Winroth's argument
+[^33]: Gratian is known to have used Alger as both a source,
+especially in C.1, and, to some extent, as a methodological model.
+[@winroth_making_2000, 17, 39, 144]. See Robert Kretzschmar's
+edition, [-@kretzschmar_alger_1985]. Somewhat confusingly for Gratian
+scholars, Kretzschmar uses regular typeface for Alger's *dicta* and
+italics for the canons, the opposite of the convention adopted by
+Friedberg **(and Richter before him?)** and continued by Winroth.
+
+[^34]: **The role of the *de eodem* rubrics in Winroth's argument
 that the Aa, Bc, Fd, and P mss. of the *Decretum* are a first
 recension rather than an abbreviation of the vulgate.
 [@winroth_making_2000] Kuttner's statement of the "untidy seams"
-problem in "Acta and Agenda", and how Winroth solves it.**
-[@kuttner_research_1990] Winroth observed that there are 398 *de
+problem in "Acta and Agenda", and how Winroth solves it.
+[@kuttner_research_1990].** Winroth observed that there are 398 *de
 eodem* rubrics in the vulgate *Decretum*, see [@winroth_uncovering_1997,
 28]; and [@winroth_making_2000, 127]. The precision of this
 frequently-cited number can be refined in ways that demonstrate the
@@ -184,7 +192,7 @@ total number of *de eodem* rubrics in the first and second recension
 rubric data sets is 388 instead of 389, with no way to tell whether
 the missing rubric is from the first or second recension.**
 
-[^34]: The distinction between rubrics and *dicta* is blurry:
+[^35]: The distinction between rubrics and *dicta* is blurry:
 "Gratian rarely took his rubrics from earlier collections. Rather
 he created his own and often melded the rubrics with the dicta."
 [@eichbauer_redactions_2007, 107] "Both J. Rambaud-Buhot and John
@@ -195,7 +203,7 @@ cluster show that Gratian felt that the dictum was sufficient for
 summarizing the following *auctoritas*." [@eichbauer_redactions_2007,
 115] **Expand to include inscriptions.**
 
-[^35]: "Since Gratian frequently took fragments of letters from the
+[^36]: "Since Gratian frequently took fragments of letters from the
 Register of Gregory I---266 in all---using the inscription 'in
 registro', older research assumed that he must have used this
 important source in the form of the *Registrum Hadrianum*. According
@@ -205,7 +213,7 @@ canonical collections predating Gratian; the direct use of the
 Register is probable in only a single case." [C.27 q.1 c.19 (JE
 1496)] [@landau_gratian_2008, 34].
 
-[^38]: "*librum suum in tribus partibus distinguit, quarum primam
+[^39]: "*librum suum in tribus partibus distinguit, quarum primam
 ministeriis, secundam negotiis, tertiam ecclesiasticis deputat
 sacramentis.* (p.5) (he divides his book into three parts, the first
 of which he devotes to ecclesiastical ministries, the second to
@@ -217,11 +225,11 @@ ecclesiastical ministries, the second to ecclesiastical problems,
 the third to ecclesiastical sacraments."[@somerville_prefaces_1998,
 201] (Stephen of Tournai)
 
-[^39]: "Quidam habens filium ..." C.1, d.init., edF. 1.357. Although
+[^40]: "Quidam habens filium ..." C.1, d.init., edF. 1.357. Although
 Gratian does not say so explicitly, I think that we can reasonably
 infer that the father is an urban merchant or professional, rather
 than a member of the landed aristocracy, since his wealth, the
 source of several bribes, is so readily convertible into cash.
 
-[^40]: **Need footnote on Gt, Pf, and Tr gloss**
+[^41]: **Need footnote on Gt, Pf, and Tr gloss**
 
