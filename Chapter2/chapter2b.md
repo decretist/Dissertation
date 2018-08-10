@@ -71,15 +71,17 @@ of distinctions form treatises within the work: the first twenty
 distinctions, for example, form a treatise on laws (*tractatus de
 legibus*) that explores the sources of law. Other topics covered
 include ecclesiastical hierarchy and clerical discipline. The second
-part consists of 36 cases. A treatise on penance (*tractatus de
-penitentia*) divided into seven distinctions is inserted in the
-second part at C.33 q.3. The third part of the *Decretum* is a
-treatise on sacraments (*tractatus de consecratione*) divided into
-five distinctions.[@winroth_making_2000, 5] Contemporaries like
-Rufinus and Stephen of Tournai understood the parts to treat
-respectively of ministries, business, and sacraments: "*primam
-ministeriis, secundam negotiis, tertiam ecclesiasticis deputat
-sacramentis.*"[^39]
+part consists of 36 cases, which are further subdivided into 168
+questions. Four of the questions, C.11 q.2, C.17 q.3, C.22 q.3, and
+C.29 q.1 are empty, and one, C.33 q.3, encapsulates a treatise on
+penance (*tractatus de penitentia*, abbreviated *de Pen.*) divided
+into seven distinctions. The third part of the *Decretum* is a
+treatise on sacraments (*tractatus de consecratione*, abbreviated
+*de Cons.*) divided into five distinctions.[@winroth_making_2000,
+5] Contemporaries like Rufinus and Stephen of Tournai understood
+the parts to treat respectively of ministries, business, and
+sacraments: "*primam ministeriis, secundam negotiis, tertiam
+ecclesiasticis deputat sacramentis.*"[^39]
 
 * * *
 
@@ -213,17 +215,34 @@ canonical collections predating Gratian; the direct use of the
 Register is probable in only a single case." [C.27 q.1 c.19 (JE
 1496)] [@landau_gratian_2008, 34].
 
-[^39]: "*librum suum in tribus partibus distinguit, quarum primam
-ministeriis, secundam negotiis, tertiam ecclesiasticis deputat
-sacramentis.* (p.5) (he divides his book into three parts, the first
-of which he devotes to ecclesiastical ministries, the second to
-[ecclesiastical] business, and the third to ecclesiastical
-sacraments.)"[@somerville_prefaces_1998, 192-193] (Rufinus) "*Harum
-primam ministeriis, secundam negotiis, tertiam ecclesiasticis deputat
-sacramentis.* (p.6) ("The first of these parts is devoted to
-ecclesiastical ministries, the second to ecclesiastical problems,
-the third to ecclesiastical sacraments."[@somerville_prefaces_1998,
-201] (Stephen of Tournai)
+[^39]: Rufinus and Stephen of Tournai describe the tripartite
+division in exactly the same words: "librum suum in tribus partibus
+distinguit, quarum primam ministeriis, secundam negotiis, tertiam
+ecclesiasticis deputat sacramentis." [@singer_summa_1963, 5] "he
+divides his book into three parts, the first of which he devotes
+to ecclesiastical ministries, the second to [ecclesiastical] business,
+and the third to ecclesiastical sacraments." [@somerville_prefaces_1998,
+192-193] (Rufinus) "Harum primam ministeriis, secundam negotiis,
+tertiam ecclesiasticis deputat sacramentis." [@schulte_summa_1965,
+6] "The first of these parts is devoted to ecclesiastical ministries,
+the second to ecclesiastical problems, the third to ecclesiastical
+sacraments." [@somerville_prefaces_1998, 201] (Stephen of Tournai)
+(Brasington translated the preface of Rufinus, Somerville that of
+Stephen of Tournai. [@somerville_prefaces_1998, vii]. There is no
+indication as to why Somerville chose to translate *negotiis* as
+"problems" rather than "business".)
+
+    Given the probable dates of the *summae* of Rufinus (1164) and
+    Stephen of Tournai (1165/66), it is just possible that Stephen
+    got the wording from the preface to the *Summa* of Rufinus.
+    Kenneth Pennington,
+    [Rufinus](http://amesfoundation.law.harvard.edu/BioBibCanonists/Report_Biobib2.php?record_id=a492)
+    and [Stephanus
+    Tornacensis](http://amesfoundation.law.harvard.edu/BioBibCanonists/Report_Biobib2.php?record_id=a502),
+    *Bio-Bibliographical Guide to Medieval and Early Modern Jurists.*
+    Stephen, however, had been a student of Rufinus in Bologna, and
+    it seems more likely that this is something he had heard Rufinus
+    say in lecture. **Kenneth Pennington, "Étienne of Tournai".**
 
 [^40]: "Quidam habens filium ..." C.1, d.init., edF. 1.357. Although
 Gratian does not say so explicitly, I think that we can reasonably
