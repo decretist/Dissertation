@@ -85,14 +85,6 @@ ecclesiasticis deputat sacramentis.*"[^39]
 
 * * *
 
-[Here I am only talking about *dicta post canones*. Dicta ante
-canones are not part of the canon container but instead part of the
-distinction or question container (always d.a.c.1 or equivalent).
-There are three kinds of dicta: d.init (first leaf node of case or
-*causa* container), d.a.c. (first leaf node of distinction or
-question container), and d.p.c. (optional last leaf of canon
-container).]
-
 The hypothetical case statements or *themata* that introduce each
 of the thirty-six *causae* (cases) that constitute Part II of the
 *Decretum* reflect at least in places an outlook and a set of
@@ -134,7 +126,18 @@ as "principally divided into two parts."[^41]
 of the recursive-descent parser. Thanks to Patricio Simari of the
 Electrical Engineering and Computer Science Department at The
 Catholic University of America, who provided helpful suggestions
-on parser implementation.
+on parser implementation. In Computer Science-theoretic terms, the
+parsed *Decretum* can be thought of as an ordered tree, with parts,
+distinctions, cases, and questions as interior nodes. A canon or
+chapter, properly conceptualized as a node encapsulating rubrics,
+inscriptions, canon texts, and *dicta post*, is also an internal
+node. A *dictum* (*ante*, *post*, or *initiale*) is a terminal node.
+So are rubrics, inscriptions, and canon texts. A case statement
+(*dictum initiale*) is always the first terminal node of a case. A
+*dictum ante* is always the first terminal node of a distinction
+or question. A *dictum post* is an optional, and usually the last,
+terminal node of a canon. **Example of d.a.c.8. The traditional
+notation is misleading: d.a.c.1 is not a leaf node of c.1.**
 
 [^33]: Gratian is known to have used Alger as both a source,
 especially in C.1, and, to some extent, as a methodological model.
