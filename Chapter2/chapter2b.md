@@ -83,36 +83,34 @@ the parts to treat respectively of ministries, business, and
 sacraments: "*primam ministeriis, secundam negotiis, tertiam
 ecclesiasticis deputat sacramentis.*"[^39]
 
-* * *
-
 The hypothetical case statements or *themata* that introduce each
-of the thirty-six *causae* (cases) that constitute Part II of the
-*Decretum* reflect at least in places an outlook and a set of
-concerns that university-educated urban professionals of the present
-day would not find it difficult to identify with. At a time when
-considerable attention is being paid in the realm of popular discourse
-(if not yet public policy) to the issue of "opportunity hoarding"
-on behalf of upper- and upper-middle class children by their
-university-educated, urban professional parents, the intense concern
-of "a certain man" in the first case statement to secure a good
-ecclesiastical career for his son (and his willingness on more than
-one occasion to resort to bribery in order to realize that objective)
-has a distinctly contemporary feel to it.[^40]
+of the thirty-six *causae* (cases) that constitute the second part
+of the *Decretum* reflect at least in some places an outlook and a
+set of concerns that university-educated urban professionals of the
+present day would not find it difficult to identify with. At a time
+when considerable attention is being paid in the realm of popular
+discourse (if not yet public policy) to the issue of "opportunity
+hoarding" on behalf of upper- and upper-middle class children by
+their university-educated, urban professional parents, the intense
+concern of "a certain man" in the first case statement to secure a
+good ecclesiastical career for his son (and his willingness on more
+than one occasion to resort to bribery in order to realize that
+objective) has a distinctly contemporary feel to it.[^40]
 
-The cases are hypotheticals like those used in modern law schools,
-and some of them are quite far-fetched. In case 28, for example, a
-married infidel converts to Christianity, as a result of which his
-wife separates from him out of hatred for his new faith. (By
-"infidel," Gratian means a Muslim.) The convert then takes a new
-Christian wife, and after she dies, he is made a priest. Finally,
-"on account of the merit of his life and learning," he is elected
-bishop. Gratian extracts questions from this fantastical fact-pattern,
-however, that are of considerable theoretical (if not practical)
-interest: whether there can be marriage between infidels, whether
-there is ever a situation in which a man can take another wife if
-his previous wife is still alive; and whether someone who had one
-wife before he was baptized and another wife after he was baptized
-should be considered a bigamist.
+In other cases, the hypothetical case statements are quite remote
+from our own concerns. In case 28, for example, a married infidel,
+by which Gratian means a Muslim, converts to Christianity. As a
+result, his wife separates from him out of hatred for his new faith.
+The convert then takes a new Christian wife, and after she dies,
+he is made a priest. Finally, "on account of the merit of his life
+and learning," he is elected bishop. Gratian extracts questions
+from this fantastical fact-pattern, however, that are of considerable
+theoretical, though perhaps not practical, interest: whether there
+can be marriage between infidels, whether there is ever a situation
+in which a man can take another wife if his previous wife is still
+alive; and whether someone who had one wife before he was baptized
+and another wife after he was baptized should be considered a
+bigamist.
 
 The third part, *de Consecratione*, is problematic in several ways.
 That *de Cons.* is a very late addition is not in doubt---it is
