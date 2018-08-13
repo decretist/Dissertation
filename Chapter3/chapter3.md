@@ -179,7 +179,7 @@ the subject matter of the master producing this work."[^9]
 
 [^8]: Kenneth Pennington,
 [Paucapalea](http://amesfoundation.law.harvard.edu/BioBibCanonists/Report_Biobib2.php?record_id=a366),
-*Bio-Bibliographic Guide to Medieval and Early Modern Jurists.*
+*Bio-Bibliographical Guide to Medieval and Early Modern Jurists.*
 
 [^9]: [@paucapalea_summa_1890, 3] [@somerville_prefaces_1998, 184]
 Indeed, based on a search through the OCR text layer of a PDF file

@@ -326,7 +326,7 @@ of women and men in the real world.
     print to my knowledge. For a reasonably complete and current
     list, see the entry for
     [Gratian](http://amesfoundation.law.harvard.edu/BioBibCanonists/Report_Biobib2.php?record_id=a242)
-    in Kenneth Pennington's Bio-Bibliographic Guide to Medieval and
+    in Kenneth Pennington's Bio-Bibliographical Guide to Medieval and
     Early Modern Jurists hosted by the Ames Foundation at Harvard
     University.
 
