@@ -34,12 +34,26 @@ feature borrowed from Alger of Liège's theological treatise *De
 misericordia et iustitia*, but without an immediate precedent in
 the canonical literature.[^33]
 
+**(The nature of the canon texts proper has been described above
+in the section on the collection and selection of canons.)**
+
 A canon is often, though not always, introduced by a rubric. The
 name refers to the fact that rubrics were conventionally written
 in red ink in manuscripts. A rubric is a very short summary of what
 the following canon is about. In many cases the rubric simply reads
 "*de eodem*", which means "about the same thing" as the preceding
-canon.[^34]
+canon.[^34] **(Pennington and Eichbauer believe that Gratian wrote
+the rubrics in the *Decretum* rather than reusing those he found
+in formal source collections.[^rubrics] The fact that the rubrics are short,
+discontinuous, texts means that they are of effectively no value
+for the purpose of authorship attribution. On the other hand, the
+fact that they are believed to have been written by Gratian, and
+that they therefore reflect his choice of wording, means that they
+are potentially useful evidence in the search for new topics
+introduced between the first and second recensions.)**
+
+[^rubrics]: **Placeholder for footnote referencing Eichbauer's
+observation that Gratian wrote his own rubrics.**
 
 Most canons have an inscription, which identifies the ultimate
 source of authority for that canon, usually a papal decretal, a
@@ -60,28 +74,45 @@ work. The *dicta* are texts that Gratian (whether we think of him
 as one person or many) actually wrote, and are therefore subject
 to analysis for authorship attribution. "The *dicta* in Gratian's
 *Decretum* bring the reader closer to its author than any other
-part of the text."[@winroth_making_2000, 187]
+part of the text."[@winroth_making_2000, 187] **(The *dicta post*
+are not found in Part III, which is in this respect more structurally
+similar to the formal source collections Gratian relied on than to
+the rest of the *Decretum*)**.
 
 ## Organization
 
 The *Decretum* in the form that circulated after around 1150 (the
 Köln Dombibliothek manuscripts 127 and 128 are good early examples)
-has three parts. The first part consists of 101 distinctions. Groups
-of distinctions form treatises within the work: the first twenty
-distinctions, for example, form a treatise on laws (*tractatus de
-legibus*) that explores the sources of law. Other topics covered
-include ecclesiastical hierarchy and clerical discipline. The second
-part consists of 36 cases, which are further subdivided into 168
-questions. Four of the questions, C.11 q.2, C.17 q.3, C.22 q.3, and
-C.29 q.1 are empty, and one, C.33 q.3, encapsulates a treatise on
-penance (*tractatus de penitentia*, abbreviated *de Pen.*) divided
-into seven distinctions. The third part of the *Decretum* is a
-treatise on sacraments (*tractatus de consecratione*, abbreviated
-*de Cons.*) divided into five distinctions.[@winroth_making_2000,
-5] Contemporaries like Rufinus and Stephen of Tournai understood
-the parts to treat respectively of ministries, business, and
-sacraments: "*primam ministeriis, secundam negotiis, tertiam
-ecclesiasticis deputat sacramentis.*"[^39]
+has three parts. The first part consists of 101 distinctions. **The
+division into distinctions is traditionally thought to have been
+made by Paucapalea (fl. 1140s) rather than by Gratian. The division
+seems to have taken some time to reach its final form: Pennington
+has pointed out that there were 99-distinction versions of the first
+recension, and Rufinus writing in the mid-1160s presumably about
+the second recension describes Part I as "having been completed in
+on hundred distinctions."** Groups of distinctions form treatises
+within the work: the first twenty distinctions, for example, form
+a treatise on laws (*tractatus de legibus*) that explores the sources
+of law. Other topics covered include ecclesiastical hierarchy and
+clerical discipline. The second part consists of 36 cases, which
+are further subdivided into 168 questions. Four of the questions,
+C.11 q.2, C.17 q.3, C.22 q.3, and C.29 q.1 are empty, and one, C.33
+q.3, encapsulates a treatise on penance (*tractatus de penitentia*,
+abbreviated *de Pen.*) divided into seven distinctions. The third
+part of the *Decretum* is a treatise on sacraments (*tractatus de
+consecratione*, abbreviated *de Cons.*) divided into five
+distinctions.[@winroth_making_2000, 5] Contemporaries like Rufinus
+and Stephen of Tournai understood the parts to treat respectively
+of ministries, business, and sacraments: "*primam ministeriis,
+secundam negotiis, tertiam ecclesiasticis deputat sacramentis.*"[^39]
+
+**The *dictum ante canonem* (abbreviated d.a.c.) and *dictum initiale*
+(abbreviated d.init.) are special cases of *dicta* and, like the
+*dictum post canonem*, were written by Gratian (i.e., the person
+performing the author-function at that place in the text). My most
+important finding is that the author of the first-recension *dicta*
+did not write the case statements. Gratian intended the case
+statements to be memorable, not necessarily realistic.**
 
 The hypothetical case statements or *themata* that introduce each
 of the thirty-six *causae* (cases) that constitute the second part
