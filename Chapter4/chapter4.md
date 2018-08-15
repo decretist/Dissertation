@@ -35,18 +35,6 @@ evidence. The goal of my project is to find new evidence for the
 authorship of case statements and *dicta* in Gratian's *Decretum*
 using computational methods.[^1]
 
-[^1]: Earlier versions of this chapter were presented as conference
-papers. "Can Stylometry Provide New Evidence about the Identity of
-Gratian 1 and Gratian 2?", was presented to the session on Canon
-Law in the Twelfth and Thirteenth Centuries at the *Rem non novam
-nec insolitam aggredimur* conference and grand opening of the Stephan
-Kuttner Institute of Medieval Canon Law at Yale Law School, May
-21-22, 2015. "New evidence for the authorship of case statements
-and *dicta* in Gratian's *Decretum*" was presented to the Classical
-Sources III session at the Fifteenth International Congress of
-Medieval Canon Law (ICMCL) at Université Paris II Panthéon-Assas,
-July 17-23, 2016.
-
 First I'm going to discuss in general terms the use of stylometry
 for authorship attribution. Then, I'm going to discuss the methodology
 and the software that I am using for this project. Finally, I am
@@ -100,13 +88,11 @@ with competing claims advanced on behalf of Alexander Hamilton and
 James Madison. In 1944, Douglass Adair, using traditional scholarly
 methods, settled the dispute largely to the satisfaction of early
 American historians, determining that Madison was the author of all
-11 of the disputed numbers.[^4] In
-1964, Mosteller and Wallace confirmed Adair's findings by conducting
-a stylometric analysis of the frequencies of 70 function words to
-compare the 11 disputed numbers with numbers securely attributed
-to Hamilton and Madison.[@mosteller_inference_1964]
-
-[^4]: @adair_authorship_1944a and @adair_authorship_1944b.
+11 of the disputed numbers.[^4] In 1964, Mosteller and Wallace
+confirmed Adair's findings by conducting a stylometric analysis of
+the frequencies of 70 function words to compare the 11 disputed
+numbers with numbers securely attributed to Hamilton and
+Madison.[@mosteller_inference_1964]
 
 Let's take a first look at how this kind of stylometric analysis
 works in practice with some actual data from the first- and
@@ -123,25 +109,6 @@ There are 1,360 occurrences of "*non*" in the first-recension *dicta*
 (2.40%). There are 306 occurrences of "*non*" in the second-recension
 *dicta* (2.15%). "*Non*" therefore occurs 12% more frequently in
 the first-recension *dicta* than in the second-recension *dicta*.
-
-[^6]: Including the *dicta* from *de Penitentia* skews the results
-of this analysis significantly. **Changes come overwhelmingly from
-first-recension *de Pen.* *dicta* (9525 words) vs. second-recension
-*de Pen.* *dicta* (556 words).**
-
-    "*In*" is the most frequently occurring word in the *dicta*.
-    There are 1,682 occurrences of "in" out of 66,238 words in the
-    first-recension *dicta* (2.54%). There are 431 occurrences of
-    "in" out of 14,811 words in the second-recension *dicta* (2.91%).
-    "*In*" therefore occurs 14.6% more frequently in the second-recension
-    *dicta* than it does in the first-recension *dicta*.
-
-    "Non" is the second most frequently occurring word in the
-    *dicta*. There are 1,622 occurrences of "non" in the first-recension
-    *dicta* (2.45%). There are 314 occurrences of "non" in the
-    second-recension *dicta* (2.12%). "Non" therefore occurs 15.5%
-    more frequently in the first-recension *dicta* than in the
-    second-recension *dicta*.
 
 13% for "*in*" and 12% for "*non*" are significant variations for
 such common words---it's not like we're talking about low-frequency
@@ -166,31 +133,18 @@ empirical relationship know as Zipf's law. If the words in a sample
 are rank-ordered from most to least frequent, Zipf's laws postulates
 that, as a first-order approximation, the frequency of each word
 will be 1/N times that of the most frequent word, where N is the
-rank.^[**Footnote Jockers. Renumber footnotes. I need to provide
-examples with numbers that agree with the data for *in* and *non*
-above. In reality, the word frequencies for the *dicta* do not
-appear to drop off nearly as sharply as Zipf's law (1/N) would
-predict. I also need to address the issue that as the wordlist
-extends downward, the mix shifts from disproportionately function
-words to disproportionately content word. 16 of the first 20 words
-are function words usable for analysis (even if I discard *si* for
-other reasons), but I have to go all the way down to 240 to get
-somewhere in the neighborhood of 50 suitable function words for
-analysis.**]
+rank.[^7]
 
-But increasing the number of function words also introduces a new problem.
-We were able to represent our
-stylometric analysis of the frequency of "*in*" and "*non*" in the
-samples from the first- and second-recension *dicta* on a two-dimensional
-graph. But there will be as many dimensions on the graph as there
-are function words for which we collect data. And because human
-beings are not good at visualizing quantitative data in more than
-three dimensions, we need to find a way to reduce the number of
-dimensions. This is where the technique of principle component
-analysis, or PCA, becomes useful.^[For a general introduction to
-the use of principal component analysis (PCA) in literary stylometric
-analysis, see @craig_stylistic_2004 and Chapter 6 "Style" in
-@jockers_macroanalysis_2013.]
+But increasing the number of function words also introduces a new
+problem. We were able to represent our stylometric analysis of the
+frequency of "*in*" and "*non*" in the samples from the first- and
+second-recension *dicta* on a two-dimensional graph. But there will
+be as many dimensions on the graph as there are function words for
+which we collect data. And because human beings are not good at
+visualizing quantitative data in more than three dimensions, we
+need to find a way to reduce the number of dimensions. This is where
+the technique of principle component analysis, or PCA, becomes
+useful.[^8]
 
 PCA first combines as many of the raw dimensions as possible into
 synthetic components on the basis of strong correlations, either
@@ -238,64 +192,14 @@ by starting with all the *dicta* in parts 1 and 2 of the Friedberg
 edition, and then taking away every word that appeared in the
 first-recension *dicta*. For the case statements, I simply used the
 text from the vulgate *Decretum* as it appears in the Friedberg
-edition.[^a]
-
-[^a]: **This is perhaps not entirely satisfactory. It would be more
-methodologically consistent with the way in which the samples of
-the first-recension dicta were prepared to apply the differences
-found in Winroth's appendix to the case statements as well, however
-the differences are quite minimal. The only case statement (*thema*)
-for which Winroth notes a textual difference is C.19 d.init.
-(Winroth, 216). The first-recension version of the text omits a
-13-word clause added to the second recension version, seemingly for
-the purpose of piling up descriptive detail. (*unus relicta propria
-ecclesia eo inuito, alter dimissa regulari canonica cenobio se
-contulit*). None of the wordlists used to perform the principle
-components analyses include any of these 13 words, so the use of
-the vulgate rather than a proxy first-recension version of the text
-of C.19 d.init. has no effect on the outcome of these tests.**
+edition.[^11]
 
 Because stylometric analysis for authorship attribution depends on
 the frequencies of prepositions and conjunctions, it is important
 to include enclitics substituting for conjunctions. Every word in
 the samples with a -*que* ending that is actually an enclitic, and
 not just part of the word, has been mapped to the word plus the
-pseudo-conjunction "xque".[^10]
-
-[^10]: In the case statements, 1st-, and 2nd-recension *dicta* from
-Gratian's *Decretum*, there are 747 occurrences of 79 unique words
-ending in -*que*. (This does not count 423 occurrences of the word
-'*que*' itself.) Of those, 498 are occurrences of 19 unique words
-from Schinke's 54-word pass list, while 249 occurrences of 60 unique
-words are not. It is from these 249 words that, according to Schinke,
-the -*que* ending should be detached as an enclitic.
-
-    However, the 249 words include 72 occurrences of 17 unique words
-    ending with the adverbial enclitics -*cumque* or -*cunque*,
-    from which the -*que* ending should not be detached. The 249
-    words also include a further 149 occurrences of 21 unique false
-    positives:
-
-    cumque, eque (aeque), namque, pleraque, plerique, plerisque,
-    plerumque, quinque, unamquamque, unaqueque, unicuique,
-    uniuscuiusque, unumquemque, unusquisque, usquequaque, utramque,
-    utraque, utrique, utrisque, utriusque, utrumque.
-
-    This leaves only 28 occurrences of 22 unique words from which
-    the -*que* ending should actually be detached as an enclitic.
-
-    False positives over-represent the frequency of occurrence of
-    the '-*que*’ enclitic as a conjunction by an order of magnitude.
-    Including all false positives makes 'xque' the 37th most frequent
-    word in the sample, while excluding them makes it the 376th
-    most frequent word. There are 55 occurrences of the word
-    '*namque*', the most frequently occurring false positive.
-    Detaching the '-*que*' ending from '*namque*' overstates the
-    frequency of '*nam*', making what is actually the 480th most
-    frequent word appear to be the 130th, while making '*namque*',
-    which is actually the 176th most frequent word in the samples
-    when false positives are excluded, disappear from the list
-    altogether.
+pseudo-conjunction "xque".[^12]
 
 Now that we have the preliminaries out of the way, we can take a
 look at the results. I used the stylo R package to generate all of
@@ -419,4 +323,103 @@ either the one Gratian or two Gratians variety). If we cannot
 satisfactorily answer the question "was there one Gratian or were
 there two?" it is probably because that is not the right question
 to ask.
+
+[^1]: Earlier versions of this chapter were presented as conference
+papers. "Can Stylometry Provide New Evidence about the Identity of
+Gratian 1 and Gratian 2?", was presented to the session on Canon
+Law in the Twelfth and Thirteenth Centuries at the *Rem non novam
+nec insolitam aggredimur* conference and grand opening of the Stephan
+Kuttner Institute of Medieval Canon Law at Yale Law School, May
+21-22, 2015. "New evidence for the authorship of case statements
+and *dicta* in Gratian's *Decretum*" was presented to the Classical
+Sources III session at the Fifteenth International Congress of
+Medieval Canon Law (ICMCL) at Université Paris II Panthéon-Assas,
+July 17-23, 2016.
+
+[^4]: @adair_authorship_1944a and @adair_authorship_1944b.
+
+[^6]: Including the *dicta* from *de Penitentia* skews the results
+of this analysis significantly. **Changes come overwhelmingly from
+first-recension *de Pen.* *dicta* (9525 words) vs. second-recension
+*de Pen.* *dicta* (556 words).**
+
+    "*In*" is the most frequently occurring word in the *dicta*.
+    There are 1,682 occurrences of "in" out of 66,238 words in the
+    first-recension *dicta* (2.54%). There are 431 occurrences of
+    "in" out of 14,811 words in the second-recension *dicta* (2.91%).
+    "*In*" therefore occurs 14.6% more frequently in the second-recension
+    *dicta* than it does in the first-recension *dicta*.
+
+    "Non" is the second most frequently occurring word in the
+    *dicta*. There are 1,622 occurrences of "non" in the first-recension
+    *dicta* (2.45%). There are 314 occurrences of "non" in the
+    second-recension *dicta* (2.12%). "Non" therefore occurs 15.5%
+    more frequently in the first-recension *dicta* than in the
+    second-recension *dicta*.
+
+[^7]: **Footnote Jockers. Renumber footnotes. I need to provide
+examples with numbers that agree with the data for *in* and *non*
+above. In reality, the word frequencies for the *dicta* do not
+appear to drop off nearly as sharply as Zipf's law (1/N) would
+predict. I also need to address the issue that as the wordlist
+extends downward, the mix shifts from disproportionately function
+words to disproportionately content word. 16 of the first 20 words
+are function words usable for analysis (even if I discard *si* for
+other reasons), but I have to go all the way down to 240 to get
+somewhere in the neighborhood of 50 suitable function words for
+analysis.**
+
+[^8]: For a general introduction to the use of principal component
+analysis (PCA) in literary stylometric analysis, see @craig_stylistic_2004
+and Chapter 6 "Style" in @jockers_macroanalysis_2013.
+
+[^11]: **This is perhaps not entirely satisfactory. It would be
+more methodologically consistent with the way in which the samples
+of the first-recension dicta were prepared to apply the differences
+found in Winroth's appendix to the case statements as well, however
+the differences are quite minimal. The only case statement (*thema*)
+for which Winroth notes a textual difference is C.19 d.init.
+(Winroth, 216). The first-recension version of the text omits a
+13-word clause added to the second recension version, seemingly for
+the purpose of piling up descriptive detail. (*unus relicta propria
+ecclesia eo inuito, alter dimissa regulari canonica cenobio se
+contulit*). None of the wordlists used to perform the principle
+components analyses include any of these 13 words, so the use of
+the vulgate rather than a proxy first-recension version of the text
+of C.19 d.init. has no effect on the outcome of these tests.**
+
+[^12]: In the case statements, 1st-, and 2nd-recension *dicta* from
+Gratian's *Decretum*, there are 747 occurrences of 79 unique words
+ending in -*que*. (This does not count 423 occurrences of the word
+'*que*' itself.) Of those, 498 are occurrences of 19 unique words
+from Schinke's 54-word pass list, while 249 occurrences of 60 unique
+words are not. It is from these 249 words that, according to Schinke,
+the -*que* ending should be detached as an enclitic.
+
+    However, the 249 words include 72 occurrences of 17 unique words
+    ending with the adverbial enclitics -*cumque* or -*cunque*,
+    from which the -*que* ending should not be detached. The 249
+    words also include a further 149 occurrences of 21 unique false
+    positives:
+
+    cumque, eque (aeque), namque, pleraque, plerique, plerisque,
+    plerumque, quinque, unamquamque, unaqueque, unicuique,
+    uniuscuiusque, unumquemque, unusquisque, usquequaque, utramque,
+    utraque, utrique, utrisque, utriusque, utrumque.
+
+    This leaves only 28 occurrences of 22 unique words from which
+    the -*que* ending should actually be detached as an enclitic.
+
+    False positives over-represent the frequency of occurrence of
+    the '-*que*’ enclitic as a conjunction by an order of magnitude.
+    Including all false positives makes 'xque' the 37th most frequent
+    word in the sample, while excluding them makes it the 376th
+    most frequent word. There are 55 occurrences of the word
+    '*namque*', the most frequently occurring false positive.
+    Detaching the '-*que*' ending from '*namque*' overstates the
+    frequency of '*nam*', making what is actually the 480th most
+    frequent word appear to be the 130th, while making '*namque*',
+    which is actually the 176th most frequent word in the samples
+    when false positives are excluded, disappear from the list
+    altogether.
 
