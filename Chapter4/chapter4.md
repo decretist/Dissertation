@@ -1,11 +1,9 @@
 ---
-author: Paul Evans
-date: 20 July 2016
 bibliography: ../bib/merged.bib
 csl: ../csl/chicago-fullnote-bibliography.csl
 suppress-bibliography: true
 title: Chapter 4
-subtitle: New evidence for the authorship of case statements and *dicta* in Gratian's *Decretum*
+subtitle: Stylometry
 abstract: |
   Since the discovery by Winroth in 1996 of a first recension of
   Gratian's *Decretum*, there has been scholarly controversy over
@@ -357,17 +355,16 @@ first-recension *de Pen.* *dicta* (9525 words) vs. second-recension
     more frequently in the first-recension *dicta* than in the
     second-recension *dicta*.
 
-[^7]: **Footnote Jockers. Renumber footnotes. I need to provide
-examples with numbers that agree with the data for *in* and *non*
-above. In reality, the word frequencies for the *dicta* do not
-appear to drop off nearly as sharply as Zipf's law (1/N) would
-predict. I also need to address the issue that as the wordlist
-extends downward, the mix shifts from disproportionately function
-words to disproportionately content word. 16 of the first 20 words
-are function words usable for analysis (even if I discard *si* for
-other reasons), but I have to go all the way down to 240 to get
-somewhere in the neighborhood of 50 suitable function words for
-analysis.**
+[^7]: **Footnote Zipf's law. Provide examples with numbers that
+agree with the data for *in* and *non* above. In reality, the word
+frequencies for the *dicta* do not appear to drop off nearly as
+sharply as Zipf's law (1/N) would predict. I also need to address
+the issue that as the wordlist extends downward, the mix shifts
+from disproportionately function words to disproportionately content
+word. 16 of the first 20 words are function words usable for analysis
+(even if I discard *si* for other reasons), but I have to go all
+the way down to 240 to get somewhere in the neighborhood of 50
+suitable function words for analysis.**
 
 [^8]: For a general introduction to the use of principal component
 analysis (PCA) in literary stylometric analysis, see @craig_stylistic_2004

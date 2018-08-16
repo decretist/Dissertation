@@ -33,6 +33,25 @@ discovered that München, Bayerische Staatsbibliothek, lat. 22272
 (Mw) contains an abbreviation of the first recension of the
 *Decretum*.[@larson_abbreviatio_2011]
 
+**The four first-recension manuscripts were previously thought to
+be abbreviations, and are about half the length of the vulgate
+*Decretum*.**
+^["The second recension contains 3,945 canons (including the paleae)
+in the editions. The first recension contains only 1,860 canons (47
+percent)." [@winroth_making_2000, 122] The division of distinctions
+and questions into canons is a matter of editorial opinion and
+therefore unavoidably conventional. The generally-cited number of
+3,945 comes from Friedberg's introduction (edF 1.xii). Furthermore,
+many canons include more than one canon text, and the conventional
+number obfuscates the distinction between the canon defined as a
+container or package and the canon text or texts included within
+it. The Reuter and Silagi e-text of the Friedberg edition has 3,848
+canons (identified by the OCP ```<4 N>``` tag, where N is the canon
+number) containing 4,394 distinct canon texts (identified by the
+OCP ```<T T>``` tag). **Note to PLE: ```egrep "<T T>.*<T T>"
+edF.txt``` to find the three lines where the canon text tag occurs
+twice on the same line.**]
+
 Winroth's discovery of the first recension suggests one obvious way
 in which it might be problematic to refer simplistically to Gratian
 as the author of the *Decretum,* as I have done thus far.[^6] Winroth
@@ -715,8 +734,9 @@ So are rubrics, inscriptions, and canon texts. A case statement
 (*dictum initiale*) is always the first terminal node of a case. A
 *dictum ante* is always the first terminal node of a distinction
 or question. A *dictum post* is an optional, and usually the last,
-terminal node of a canon. **Example of d.a.c.8. The traditional
-notation is misleading: d.a.c.1 is not a leaf node of c.1.**
+terminal node of a canon. **Example of C.16 q.2 d.a.c.8. The
+traditional notation is misleading: d.a.c.1 is not a leaf node of
+c.1.**
 
 [^33]: Gratian is known to have used Alger as both a source,
 especially in C.1, and, to some extent, as a methodological model.
