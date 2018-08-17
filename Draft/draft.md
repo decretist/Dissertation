@@ -63,3 +63,11 @@ by retrospective myth-making in which famous universities, once
 established, project their origins as far into the past as possible
 in order to enhance the lustre of their names.
 
+* * *
+
+The widespread availability of textbooks like the *Decretum* and
+*Sic et Non* made possible a transition away from the school, where
+a master offered individualized instruction and personal teaching,
+to the faculty, where instruction was based on a standardized
+textbook, or an abbreviation of one.
+
