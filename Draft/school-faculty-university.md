@@ -46,7 +46,7 @@ students.**
 The *Decretum* was a product of the schools, but became the outstanding
 textbook of the brief age of the faculties of canon law. Faculties
 came into being as an institutional response to a new problem raised
-by standardized classes taught around standardized textbooks: what
+by standardized classes taught from standardized textbooks: what
 are the requisite qualifications for the teaching and practice of
 canon law? The distinctive innovation of the faculty was the
 conferring of degrees on students who completed a prescribed sequence
@@ -65,28 +65,33 @@ as the existence of Peter Lombard's *Sentences* was a necessary
 precondition for the emergence after 1160 of the faculty of
 theology.[^2]
 
-In the first decades of the 13th century, both the faculty and the
-*Decretum* were relegated to more modest places in the academic
-world than they had occupied in the latter half of the 12th century,
-as the corporate university subsumed the faculties, and the focus
-of legal scholarship in canon law gradually shifted from the "old
-law" of Gratian to the "new law" of papal decretals. Modern complaints
-about the corporatization of the university notwithstanding,
-*universitas* means corporation.[@verger_patterns_1992, 37-41] We
-tend to think of a corporation as a commercial entity, but medieval
-legal thinkers looked upon the corporation at a more foundational
-level, as a means for legally creating an artificial person, and
-then investing that "person" with rights and privileges that could
+In the first decades of the thirteenth century, both the faculty
+and the *Decretum* were relegated to more modest places in the
+academic world than they had occupied in the latter half of the
+twelfth century, as the corporate university subsumed the faculties,
+and the focus of legal scholarship in canon law gradually shifted
+from the "old law" of Gratian to the "new law" of papal decretals.[^3]
+
+Recent complaints about the corporatization of the university
+notwithstanding, *universitas* means corporation.[@verger_patterns_1992,
+37-41] We think of a corporation as a commercial entity, but medieval
+legal thinkers looked upon the corporation at a more basic level,
+as a means for legally creating an artificial person, and then
+investing that "person" with rights and privileges that could
 otherwise only be held by a natural person or persons, such as the
 right to own property, or in the case of a cathedral chapter, the
-right to elect a bishop. Faculties aspired to permanence, unlike
-schools, which rarely survived the departure or death of their
-masters, and incorporation provided universities with a form of
-organization well-adapted for achieving that aspiration through the
-accumulation of legal rights and privileges. The right of a university
-to own property is obviously useful and even ultimately necessary,
-but the right that is most fundamental for a university is the right
-to determine qualifications for teaching.
+right to elect a bishop. Implicit in the development from schools
+(which rarely survived the departure or death of their masters) to
+faculties was an aspiration toward institutional permanence, or at
+least stability. The right of a faculty to own property was obviously
+useful to that end. The most fundamental right for a faculty,
+however, was that of determining qualifications for teaching, and
+it was one that was often contested by the local bishop. The
+incorporation of one or more faculties as a university provided a
+form of organization well-adapted for achieving both permanence and
+independence from local ecclesiastical authority through the
+accumulation of legal rights and privileges. The faculties survived,
+but as subordinate units within the university.
 
 Attention devoted to the *Decretum* after around 1190 tended to
 focus on improving its utility as a teaching text. [Johannes
@@ -169,4 +174,10 @@ in the way it had during the second half of the twelfth century.
 [^2]: **You might also look at when the textbooks in medicine were
 rediscovered or written. A history of medieval medicine might give
 you an argument about the priority of medicine or law. (Stan Chodorow)**
+
+[^3]: This distinction between old and new law comes from the preface
+of [Bernardus
+Papiensis](http://amesfoundation.law.harvard.edu/BioBibCanonists/Report_Biobib2.php?record_id=a061)
+(†.1213) to his Breviary of *Extravagantia* or First Compilation,
+c.1191. [@somerville_prefaces_1998, 219, 230-231]
 
