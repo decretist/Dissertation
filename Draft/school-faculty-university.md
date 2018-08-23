@@ -50,8 +50,8 @@ by standardized classes taught from standardized textbooks: what
 are the requisite qualifications for the teaching and practice of
 canon law? The distinctive innovation of the faculty was the
 conferring of degrees on students who completed a prescribed sequence
-of standardized courses, defined in such a way that the standard
-of completion for students more or less coincided with that of
+of standardized courses, defined in such a way that the requirements
+for completion for students more or less coincided with those for
 admission to teaching. The faculty was a crucial intermediate stage
 in the institutional evolution from school to university, one that
 has been obscured by the retrospective myth-making of famous
@@ -93,27 +93,27 @@ independence from local ecclesiastical authority through the
 accumulation of legal rights and privileges. The faculties survived,
 but as subordinate units within the university.
 
-While the evolution from faculty to university was still in progress,
-around 1190, the attention of both academic and practicing canonists
-turned decisively away from theological jurisprudence in the tradition
-of Gratian, based on a wide variety of scriptural, patristic,
-conciliar, and papal sources, and towards a much more narrowly
-defined technical jurisprudence focused exclusively on contemporary
-papal decretals.
-
-Attention devoted to the *Decretum* after 1190 tended to focus on
-improving its utility as a teaching text. [Johannes
+The *Decretum* remained the standard textbook for the prerequisite
+first course in canon law throughout the Middle Ages. Around 1190,
+however, while the evolution from faculty to university was still
+in progress, the focus of academic canonists shifted away from
+Gratian and toward the new jurisprudence of papal decretals.
+Scholarly attention devoted to the *Decretum* after 1190 tended to
+focus on improving its utility as a teaching text. [Johannes
 Teutonicus](http://amesfoundation.law.harvard.edu/BioBibCanonists/Report_Biobib2.php?record_id=a303)
 (c.1170-1245) compiled more than a half century's worth of accumulated
 gloss commentary on Gratian into the *Glossa Ordinaria* between
 1214 and 1217,[@weigand_development_2008, 82-86] and [Bartholomeus
 Brixiensis](http://amesfoundation.law.harvard.edu/BioBibCanonists/Report_Biobib2.php?record_id=a050)
 (fl.1234-1258) revised the ordinary gloss between 1234 and
-1241.[@weigand_development_2008, 88-91] The *Decretum* remained the
-basis for the indispensable first course in canon law throughout
-the Middle Ages, and indeed would continue to do so until 1917, but
-it never again held the intellectual attention of the discipline
-in the way it had during the second half of the twelfth century.
+1241.[@weigand_development_2008, 88-91] The interest of thirteenth
+century teachers and students centered on a new advanced second
+course in canon law taught from the five successive compilations
+of papal decretals that were edited into their final, definitive,
+form, the *Decretales Gregorii IX*, by Raymond de Peñafort in 1234.
+The *Decretum* retained its status as a classic textbook, but never
+again held the intellectual attention of the discipline in the way
+it had during the second half of the twelfth century.
 
 [^1]: "By the first decade of the thirteenth century the private
     schools of canon law had become part of the corporate structure
