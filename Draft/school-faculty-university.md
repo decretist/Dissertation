@@ -93,8 +93,16 @@ independence from local ecclesiastical authority through the
 accumulation of legal rights and privileges. The faculties survived,
 but as subordinate units within the university.
 
-Attention devoted to the *Decretum* after around 1190 tended to
-focus on improving its utility as a teaching text. [Johannes
+While the evolution from faculty to university was still in progress,
+around 1190, the attention of both academic and practicing canonists
+turned decisively away from theological jurisprudence in the tradition
+of Gratian, based on a wide variety of scriptural, patristic,
+conciliar, and papal sources, and towards a much more narrowly
+defined technical jurisprudence focused exclusively on contemporary
+papal decretals.
+
+Attention devoted to the *Decretum* after 1190 tended to focus on
+improving its utility as a teaching text. [Johannes
 Teutonicus](http://amesfoundation.law.harvard.edu/BioBibCanonists/Report_Biobib2.php?record_id=a303)
 (c.1170-1245) compiled more than a half century's worth of accumulated
 gloss commentary on Gratian into the *Glossa Ordinaria* between
