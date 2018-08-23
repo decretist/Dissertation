@@ -1,4 +1,8 @@
 ---
+bibliography: ../bib/merged.bib
+csl: ../csl/chicago-fullnote-bibliography.csl
+reference-section-title: Bibliography
+suppress-bibliography: false
 title: School, Faculty, University
 ---
 Both the content and the form of the *Decretum* had an enormous
@@ -53,13 +57,13 @@ in the institutional evolution from school to university, one that
 has been obscured by the retrospective myth-making of famous
 universities, which, once established, sought to enhance the lustre
 of their names by projecting their origins as far as possible into
-the past. It is perhaps going too far to claim that the *Decretum*
+the past.[^1] It is perhaps going too far to claim that the *Decretum*
 was the textbook that created the university. It is not, however,
 going too far to recognize that its existence was a necessary
 precondition for the emergence of the faculty of canon law, just
 as the existence of Peter Lombard's *Sentences* was a necessary
 precondition for the emergence after 1160 of the faculty of
-theology.[^1]
+theology.[^2]
 
 In the first decades of the 13th century, both the faculty and the
 *Decretum* were relegated to more modest places in the academic
@@ -68,34 +72,101 @@ as the corporate university subsumed the faculties, and the focus
 of legal scholarship in canon law gradually shifted from the "old
 law" of Gratian to the "new law" of papal decretals. Modern complaints
 about the corporatization of the university notwithstanding,
-*universitas* means corporation. We tend to think of a corporation
-as a commercial entity, but medieval legal thinkers looked upon the
-corporation at a more foundational level, as a means for legally
-creating an artificial person, and then investing that "person"
-with rights and privileges that could otherwise only be held by a
-natural person or persons, such as the right to own property, or
-in the case of a cathedral chapter, the right to elect a bishop.
-Faculties aspired to permanence, unlike schools, which rarely
-survived the departure or death of their masters, and incorporation
-provided universities with a form of organization well-adapted for
-achieving that aspiration through the accumulation of legal rights
-and privileges. The right of a university to own property is obviously
-useful and even ultimately necessary, but the right that is most
-fundamental for a university is the right to determine qualifications
-for teaching.
+*universitas* means corporation.[@verger_patterns_1992, 37-41] We
+tend to think of a corporation as a commercial entity, but medieval
+legal thinkers looked upon the corporation at a more foundational
+level, as a means for legally creating an artificial person, and
+then investing that "person" with rights and privileges that could
+otherwise only be held by a natural person or persons, such as the
+right to own property, or in the case of a cathedral chapter, the
+right to elect a bishop. Faculties aspired to permanence, unlike
+schools, which rarely survived the departure or death of their
+masters, and incorporation provided universities with a form of
+organization well-adapted for achieving that aspiration through the
+accumulation of legal rights and privileges. The right of a university
+to own property is obviously useful and even ultimately necessary,
+but the right that is most fundamental for a university is the right
+to determine qualifications for teaching.
 
 Attention devoted to the *Decretum* after around 1190 tended to
-focus on improving its utility as a teaching text. Johannes Teutonicus
+focus on improving its utility as a teaching text. [Johannes
+Teutonicus](http://amesfoundation.law.harvard.edu/BioBibCanonists/Report_Biobib2.php?record_id=a303)
 (c.1170-1245) compiled more than a half century's worth of accumulated
-gloss commentary on Gratian into the *Glossa Ordinaria* around 1215,
-and Bartholomeus Brixiensis (fl.1234-1258) revised the ordinary
-gloss around 1245. The *Decretum* remained the basis for the
-indispensable first course in canon law throughout the Middle Ages,
-and indeed would continue to do so until 1917, but it never again
-held the intellectual attention of the discipline the way it had
-in the second half of the twelfth century.
+gloss commentary on Gratian into the *Glossa Ordinaria* between
+1214 and 1217,[@weigand_development_2008, 82-86] and [Bartholomeus
+Brixiensis](http://amesfoundation.law.harvard.edu/BioBibCanonists/Report_Biobib2.php?record_id=a050)
+(fl.1234-1258) revised the ordinary gloss between 1234 and
+1241.[@weigand_development_2008, 88-91] The *Decretum* remained the
+basis for the indispensable first course in canon law throughout
+the Middle Ages, and indeed would continue to do so until 1917, but
+it never again held the intellectual attention of the discipline
+in the way it had during the second half of the twelfth century.
 
-[^1]: You might also look at when the textbooks in medicine were
+[^1]: "By the first decade of the thirteenth century the private
+    schools of canon law had become part of the corporate structure
+    of the universities in all three places [Bologna, Paris, and
+    Oxford]." [@brundage_teaching_2008, 98-99]. **Brundage here
+    somewhat overstates the degree of institutional evolution the
+    proto-universities had attained at this time. The corporate
+    structure of the university had fully emerged by the first
+    decade of the thirteenth century only at Bologna. It did not
+    do so at Paris and Oxford until the second decade of the century.
+    The standard handbooks on the history of the university in
+    medieval Europe, [@rashdall_universities_1936] and
+    [@ridder-symoens_universities_1992], are less helpful on this
+    point than might be hoped.**
+
+    **Bologna:** "Bologna vies with Paris for the title of oldest
+    and most distinguished university of medieval Europe, but whereas
+    Paris was essentially a guild of masters, Bologna was in origin
+    an association of students. The *universitas scholarium* emerged
+    around 1190 as an organization of the non-Bolognese law students
+    resident in the city, and rapidly developed a complex constitution
+    rather like that of contemporary communes." [@hyde_bologna_1982,
+    311].
+
+    **Oxford:** "The origins of the university are shrouded in
+    obscurity." [@leader_oxford_1982, 320]. "Oxford probably developed
+    in the twelfth century out of an informal group of masters
+    teaching near St. Mary's Church. Among the first known masters
+    was Theobald of Étampes, who was lecturing before 1100 (ca.
+    1095) and continued until about 1125. This group of scholars
+    seems to have increased markedly following Henry II's prohibition
+    of foreign study in 1170, and by 1185 Gerald of Wales (Giraldus
+    Cambrensis) recorded that they were organized into several
+    faculties (*doctores diversarum facultatum*), which, although
+    likely an exaggeration, indicates there was a varied group of
+    scholars. This development is implied by several other late
+    twelfth-century authorities as well." [@leader_oxford_1982,
+    320]. "The university was first recognized as a legal corporation
+    by a legatine ordinance of 1214, ending a dispersal of the
+    university following a riot with the townsmen in 1209."
+    [@leader_oxford_1982, 320].
+
+    **Paris:** "The school of Notre Dame Cathedral on the Cité, and
+    the Abbey of St. Victor and the collegiate church of Ste.
+    Geneviève on the Left Bank of the Seine had already by the end
+    of the twelfth century attracted such famous masters as Hugh
+    of St. Victor, Peter Abelard, Stephen of Tournai, and Peter
+    Lombard. In 1180 Alexander Neckham was able to write of an
+    'honorable society of masters' who were teaching arts, theology,
+    canon law, and medicine, disciplines that would later form the
+    four faculties of the university. At this time, the right to
+    teach (*licentia docendi*) and therefore to become a master was
+    given out by the chancellor of the cathedral chapter of Notre
+    Dame." [@gabriel_paris_1982, 408]. "The masters organized
+    themselves into an association between 1180 and 1210, later
+    called *universitas magistrorum et discipulorum*, and both kings
+    and popes granted it protective privileges." [@gabriel_paris_1982,
+    408]. "In the beginning, Paris church officials opposed the
+    formation of this independent society, which claimed legal
+    status and its own seal. The papacy, however, sided with the
+    university. Rules regulating its operation, called 'statutes',
+    were granted in 1215 by Robert Courson, papal legate, and these
+    dealt specifically with curriculum and textbooks."
+    [@gabriel_paris_1982, 408].
+
+[^2]: **You might also look at when the textbooks in medicine were
 rediscovered or written. A history of medieval medicine might give
-you an argument about the priority of medicine or law. (Stan Chodorow)
+you an argument about the priority of medicine or law. (Stan Chodorow)**
 
