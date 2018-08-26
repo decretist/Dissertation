@@ -10,7 +10,7 @@ suppress-bibliography: true
 The most significant finding of my dissertation is that the author
 who wrote the thirty-six case statements introducing the hypothetical
 cases that make up the second part of Gratian's *Decretum* is very
-unlikely to have been the same person as the author who wrote the
+unlikely to have been the same as the author who wrote the
 *dicta* in the first recension of the *Decretum*. The statistical
 method used to make this determination takes the frequencies of
 common function words like prepositions and conjunctions in a sample
@@ -21,9 +21,8 @@ I did not start work on this project thinking that the authorship
 of the case statements was in any way a research problem. I assumed
 that by definition the author of the case statements was one and
 the same person as the author of the first-recension *dicta*. It
-is therefore worth explaining in some detail how I came to write a
-PhD dissertation about a completely unexpected finding that I was
-not looking for in the first place.
+is therefore worth explaining in some detail how I came to make
+a completely unexpected finding.
 
 I worked in information technology as a system administrator and
 manager for most of the twenty-three years after I graduated from
@@ -39,7 +38,7 @@ decree on papal elections (D.23 c.1).
 
 Chodorow urged me to use computer-aided typesetting for the project,
 and in this way I acquired a then-unusual skill that led directly
-to my IT career. In the mid to late 80s I went on to take most of
+to my IT career. In the mid to late 1980s I went on to take most of
 the required courses for the undergraduate Computer Science major
 at UC San Diego (e.g., Data Structures, Compiler Construction,
 Operating Systems) although I did not enroll in a degree program.
@@ -88,11 +87,11 @@ Byzantine Studies Program at The Catholic University of America in
 Washington, DC. I went to CUA specifically to work with Ken Pennington
 on Gratian's *Decretum*. Even before moving from New Haven to
 Washington, I had participated in Winroth's class on law in Medieval
-Europe at Yale, and once at CUA, I took Pennington's classes on
+Europe at Yale, and, once at CUA, I took Pennington's classes on
 canon and Roman law, and (twice) his sources seminar. From 2010
 through 2012, then, I thoroughly immersed myself in the scholarly
-debates surrounding Gratian and the *Decretum* with considerable
-intellectual interest but also a certain level of personal discomfort
+debates surrounding Gratian and the *Decretum*.
+These studies produced a certain level of personal discomfort
 at being unable to reconcile the contradictory positions staked out
 by Pennington and Winroth.
 
@@ -134,10 +133,10 @@ potential project.
 
 My first step was to obtain an electronic version of the *Decretum*
 text. In the mid- to late-1980s, Timothy Reuter and Gabriel Silagi
-edited the *Wortkonkordanz zum Decretum Gratiani*, a computer-generated
-concordance in the tradition of Father Roberto Busa's *Index
-Thomisticus*, for the Monumenta Germaniae Historica (MGH) in
-Munich.[@reuter_wortkonkordanz_1990] As part of the project, the
+edited the *Wortkonkordanz zum Decretum Gratiani*
+for the Monumenta Germaniae Historica (MGH) in Munich,
+a computer-generated concordance in the tradition of Father Roberto Busa's *Index Thomisticus*.[@reuter_wortkonkordanz_1990]
+As part of the project, the
 MGH undertook to scan, correct, and encode in the now-obsolete and
 non-tree-structured Oxford Concordance Program (OCP) format the
 1879 Friedberg edition of the *Decretum*. In spring 2013, Winroth
@@ -210,8 +209,8 @@ Next, I needed a distraction text presumably not written by Gratian.
 For that purpose, I chose extracts from the pseudo-Augustinian *De
 vera et falsa penitentia* quoted extensively by Gratian in his *de
 Penitentia*, a treatise on penance inserted at C.33 q.3 in the
-second part of the *Decretum*. In the interest of getting fast
-results, I used the ```vi``` text editor to hand-edit the excepts
+second part of the vulgate *Decretum*. In the interest of getting
+results quickly, I used the ```vi``` text editor to hand-edit the excepts
 directly out of the Reuter and Silagi e-text. With the case statements
 and the *De vera* extracts in hand, I now had enough in the way of
 text samples to verify that I had installed and configured R, R
@@ -219,7 +218,7 @@ Studio, and stylo correctly. I have to admit that I was somewhat
 disappointed that the results of the first test were exactly what
 I should have expected: the case statements and the excerpts from
 *De vera* formed distinct clusters **[reproduce!]**, indicating
-that they were written by two different individual authors. As *De
+that they were written by two different authors. Because *De
 vera* is an anonymous work that predated the *Decretum* by no more
 than a decade or so, and because Gratian was one of the earliest
 authors to quote extensively from it (although not the earliest,
@@ -246,7 +245,7 @@ confirming Winroth’s arguments for Gratian 1 and Gratian 2. Instead,
 these preliminary results seemed to suggest that the first recension
 *dicta* had many authors, perhaps one or two of whom went on to
 write the second recension *dicta*. What was completely unexpected,
-however, was that the case statements clustered so far away from
+however, was that the case statements clustered far away from
 the *dicta*, extremely strong evidence that they had not been written
 by the same author. I immediately realized that if this accidental
 result held up under further testing, it would be both significant
@@ -263,8 +262,10 @@ the JPEG image produced by stylo as telling a different and very
 specific "likely story"---a phrase borrowed from Plato's *Timaeus*---or
 what Pennington calls a “conjectural novella” about the earliest
 beginnings of Gratian’s project, and by extension, about the dawn
-of the European university, the moment when the medieval school
-began to evolve into the faculty.
+of the formal, academic study of canon law and of the European
+university, the moment when the medieval school run by a lone master
+began to evolve into a faculty whose members taught a standardized
+program.
 
 Many scholars, notably Noonan and Pennington, have seen the thirty-six
 cases that make up the second part of the *Decretum*, each organized
@@ -283,7 +284,7 @@ Gratian participated as a consultant to the judge. Many subsequent
 books and articles have referred to Noonan's discussion of the
 courtroom sighting of "the silent figure in the shadows of S.
 Marco".[@noonan_gratian_1979, 171-172] I saw the principal components
-analysis plot as an indirect but compelling classroom sighting of
+analysis plot my algorithms had produced as an indirect but compelling classroom sighting of
 Gratian: seated at a table with his case statements in hand and
 their lists of question as his syllabus, he harmonized the canons
 for his students directly out of the formal sources in the form of
@@ -315,7 +316,7 @@ Background, the *Decretum*, Gratian, Stylometry, Next steps.
 ## Note on the Title
 
 University policy required me to decide on the final title of my
-dissertation, "Distant Reading of Gratian's *Decretum*", years
+dissertation, "Distant Reading of Gratian's *Decretum*," years
 before I could possibly have known what the outcome of my research
 was going to be. In fact, another policy actually prohibited
 "proceed[ing] beyond the preliminary stage in the investigation of
