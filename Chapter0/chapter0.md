@@ -137,14 +137,14 @@ edited the *Wortkonkordanz zum Decretum Gratiani*
 for the Monumenta Germaniae Historica (MGH) in Munich,
 a computer-generated concordance in the tradition of Father Roberto Busa's *Index Thomisticus*.[@reuter_wortkonkordanz_1990]
 As part of the project, the
-MGH undertook to scan, correct, and encode in the now-obsolete and
-non-tree-structured Oxford Concordance Program (OCP) format the
+MGH undertook to scan, correct, and encode, in the now-obsolete and
+non-tree-structured Oxford Concordance Program (OCP) format, the
 1879 Friedberg edition of the *Decretum*. In spring 2013, Winroth
 and Lou Burnard of the Oxford Text Archive (OTA) each provided me
 with a copy of the Reuter and Silagi e-text. The two copies, however,
 differed in many places, and I had to go through a process similar
 to preparing a critical edition to restore the e-text to a state
-as close as possible to what I though the editors intended. I then
+as close as possible to what I thought the editors intended. I then
 began to experiment with writing Python programs that used regular
 expressions to extract textual features of interest. The fact that
 the OCP e-text format is not tree-structured the way XML is---textual
@@ -170,7 +170,7 @@ conference at University of Nebraska-Lincoln out of general interest
 rather than any sense that it might be relevant to my decision
 regarding a dissertation topic. One presentation in particular
 caught my attention: "Stylometry and the Complex Authorship in
-Hildegard of Bingen’s Oeuvre" by Mike Kestemont, Sara Moens, and
+Hildegard of Bingen's Oeuvre" by Mike Kestemont, Sara Moens, and
 Jeroen Deploige. Their work was later published as a paper, but the
 conference website had an unusually detailed abstract, and a video
 was made available as part of the presentation.[^10]
@@ -194,7 +194,7 @@ environment with which Kestemont had obtained his Hildegard results,
 installing R, R Studio, and the stylometry for R package that
 Kestemont had written with Maciej Eder and Jan
 Rybicki.[@eder_abstract_2013] I started extracting text samples
-from Reuter and Silagi’s e-text of the Friedberg edition of the
+from Reuter and Silagi's e-text of the Friedberg edition of the
 *Decretum*. The fact that the e-text was encoded in the obsolete
 (and not tree-structured) Oxford Concordance Program format made
 this an extremely difficult and time-consuming process. In fact,
@@ -210,7 +210,7 @@ For that purpose, I chose extracts from the pseudo-Augustinian *De
 vera et falsa penitentia* quoted extensively by Gratian in his *de
 Penitentia*, a treatise on penance inserted at C.33 q.3 in the
 second part of the vulgate *Decretum*. In the interest of getting
-results quickly, I used the ```vi``` text editor to hand-edit the excepts
+results quickly, I used the ```vi``` text editor to hand-edit the excerpts
 directly out of the Reuter and Silagi e-text. With the case statements
 and the *De vera* extracts in hand, I now had enough in the way of
 text samples to verify that I had installed and configured R, R
@@ -239,9 +239,9 @@ second-recension *dicta* for the first part of the *Decretum*
 When I ran stylo on the sample, however, I got neither of the two
 results I had expected: either a tight clustering of all *dicta*
 (first- and second-recension as well as case statements) indicating
-a single author and confirming all of Pennington’s arguments for
+a single author and confirming all of Pennington's arguments for
 the unity of Gratian, or alternatively, a bimodal distribution
-confirming Winroth’s arguments for Gratian 1 and Gratian 2. Instead,
+confirming Winroth's arguments for Gratian 1 and Gratian 2. Instead,
 these preliminary results seemed to suggest that the first recension
 *dicta* had many authors, perhaps one or two of whom went on to
 write the second recension *dicta*. What was completely unexpected,
@@ -260,8 +260,8 @@ interpretation of these surprising results was therefore that Gratian
 had not written the case statements. Soon, however, I came to see
 the JPEG image produced by stylo as telling a different and very
 specific "likely story"---a phrase borrowed from Plato's *Timaeus*---or
-what Pennington calls a “conjectural novella” about the earliest
-beginnings of Gratian’s project, and by extension, about the dawn
+what Pennington calls a "conjectural novella" about the earliest
+beginnings of Gratian's project, and by extension, about the dawn
 of the formal, academic study of canon law and of the European
 university, the moment when the medieval school run by a lone master
 began to evolve into a faculty whose members taught a standardized
@@ -283,7 +283,7 @@ report of an 1143 case argued at San Marco in Venice in which a
 Gratian participated as a consultant to the judge. Many subsequent
 books and articles have referred to Noonan's discussion of the
 courtroom sighting of "the silent figure in the shadows of S.
-Marco".[@noonan_gratian_1979, 171-172] I saw the principal components
+Marco."[@noonan_gratian_1979, 171-172] I saw the principal components
 analysis plot my algorithms had produced as an indirect but compelling classroom sighting of
 Gratian: seated at a table with his case statements in hand and
 their lists of question as his syllabus, he harmonized the canons
