@@ -10,19 +10,19 @@ suppress-bibliography: true
 The most significant finding of my dissertation is that the author
 who wrote the thirty-six case statements introducing the hypothetical
 cases that make up the second part of Gratian's *Decretum* is very
-unlikely to have been the same as the author who wrote the
-*dicta* in the first recension of the *Decretum*. The statistical
-method used to make this determination assigns probable authorship
-on the basis of frequencies of common function words like prepositions
-and conjunctions in a sample of text, and will be explained in
-considerable detail in Chapter 4.
+unlikely to have been the same as the author who wrote the *dicta*
+in the first recension of the *Decretum*. The statistical method
+used to make this determination assigns probable authorship on the
+basis of frequencies of common function words like prepositions and
+conjunctions in a sample of text, and will be explained in considerable
+detail in Chapter 4.
 
 I did not start work on this project thinking that the authorship
 of the case statements was in any way a research problem. I assumed
 that by definition the author of the case statements was one and
 the same person as the author of the first-recension *dicta*. It
-is therefore worth explaining in some detail how I came to make
-a completely unexpected finding.
+is therefore worth explaining in some detail how I came to make a
+completely unexpected finding.
 
 I worked in information technology as a system administrator and
 manager for most of the twenty-three years after I graduated with
@@ -38,8 +38,8 @@ decree on papal elections (D.23 c.1).
 
 Chodorow urged me to use computer-aided typesetting for the project,
 and in this way I acquired a then-unusual skill that led directly
-to my IT career. In the mid to late 1980s I went on to take most of
-the required courses for the undergraduate Computer Science major
+to my IT career. In the mid to late 1980s I went on to take most
+of the required courses for the undergraduate Computer Science major
 at UC San Diego (e.g., Data Structures, Compiler Construction,
 Operating Systems) although I did not enroll in a degree program.
 During my professional career, I was never primarily a programmer,
@@ -66,10 +66,10 @@ From September 2007 to May 2009, I was a student in the History of
 Christianity MAR program at Yale Divinity School. Among the courses
 I took was a one on Latin Paleography that Richard and Mary Rouse
 of UCLA taught in the Beinecke Rare Book and Manuscript Library.
-Although I had a general interest in applying my
-computing background to my academic work, I do not think I had heard
-of Digital Humanities as an academic discipline before I graduated
-from YDS, at least not by that name.
+Although I had a general interest in applying my computing background
+to my academic work, I do not think I had heard of Digital Humanities
+as an academic discipline before I graduated from YDS, at least not
+by that name.
 
 In October 2009, David Ganz (then of King's College, London) suggested
 that I compare two texts of the *Capitulare Carisiacense* (873) in
@@ -82,18 +82,17 @@ A January 2010 meeting with Barbara Shailor on the Beinecke 413
 project was the occasion for the first use I can find in my own
 notes of the term *Digital Humanities*.
 
-In August 2010, I started work on my PhD in the Medieval and
-Byzantine Studies Program at The Catholic University of America in
-Washington, DC. I went to CUA specifically to work with Ken Pennington
-on Gratian's *Decretum*. Even before moving from New Haven to
-Washington, I had participated in Winroth's class on law in Medieval
-Europe at Yale, and, once at CUA, I took Pennington's classes on
-canon and Roman law, and (twice) his sources seminar. From 2010
-through 2012, then, I thoroughly immersed myself in the scholarly
-debates surrounding Gratian and the *Decretum*.
-These studies produced a certain level of personal discomfort
-at being unable to reconcile the contradictory positions staked out
-by Pennington and Winroth.
+In August 2010, I started work on my PhD in the Medieval and Byzantine
+Studies Program at The Catholic University of America in Washington,
+DC. I went to CUA specifically to work with Ken Pennington on
+Gratian's *Decretum*. Even before moving from New Haven to Washington,
+I had participated in Winroth's class on law in Medieval Europe at
+Yale, and, once at CUA, I took Pennington's classes on canon and
+Roman law, and (twice) his sources seminar. From 2010 through 2012,
+then, I thoroughly immersed myself in the scholarly debates surrounding
+Gratian and the *Decretum*. These studies produced a certain level
+of personal discomfort at being unable to reconcile the contradictory
+positions staked out by Pennington and Winroth.
 
 Pennington and his students Melodie Harris Eichbauer and Atria A.
 Larson argued that the Sankt Gallen 673 (Sg) manuscript represented,
@@ -107,21 +106,20 @@ recension interpolations; that two different authors, Gratian 1 and
 Gratian 2, compiled and wrote the first and second recensions; and
 for a late date, around 1140, for the first recension.[^4]
 
-In a January 2011 advising conversation, Jennifer Davis,
-director of graduate studies for MBS at the time, suggested
-that, given my professional background, it would be strategically
-advantageous for the purpose of whatever academic career I might
-hope to have to position myself as a Digital Humanities specialist.
-In the summer of 2010, I had taught myself to write Python web
-applications on the Google App Engine platform,
-so in the first half of 2011, I developed Ingobert, a Python/GAE
-web application to visualize textual differences in Beinecke 413,
-in connection with an independent study project supervised by
-Pennington and Davis.[^5] Largely on the strength of the Ingobert
-project, Neil Fraistat of the University of Maryland hired me as a
-graduate assistant at the Maryland Institute for Technology in the
-Humanities (MITH) to work as a Scala/Lift programmer on the Active
-OCR project.[^6]
+In a January 2011 advising conversation, Jennifer Davis, director
+of graduate studies for MBS at the time, suggested that, given my
+professional background, it would be strategically advantageous for
+the purpose of whatever academic career I might hope to have to
+position myself as a Digital Humanities specialist. In the summer
+of 2010, I had taught myself to write Python web applications on
+the Google App Engine platform, so in the first half of 2011, I
+developed Ingobert, a Python/GAE web application to visualize textual
+differences in Beinecke 413, in connection with an independent study
+project supervised by Pennington and Davis.[^5] Largely on the
+strength of the Ingobert project, Neil Fraistat of the University
+of Maryland hired me as a graduate assistant at the Maryland Institute
+for Technology in the Humanities (MITH) to work as a Scala/Lift
+programmer on the Active OCR project.[^6]
 
 I finished my PhD comprehensive examinations in October 2012 and
 advanced to candidacy in January 2013. I had not yet made a definite
@@ -131,34 +129,34 @@ to Digital Humanities course at the University of Maryland in Spring
 2013, with the idea that an overview of the field might suggest a
 potential project.
 
-One step in the direction of a digital project
-was to obtain an electronic version of the *Decretum*
-text. In the mid- to late-1980s, Timothy Reuter and Gabriel Silagi
-edited the *Wortkonkordanz zum Decretum Gratiani*
-for the Monumenta Germaniae Historica (MGH) in Munich,
-a computer-generated concordance in the tradition of Father Roberto Busa's *Index Thomisticus*.[@reuter_wortkonkordanz_1990]
-As part of the project, the
-MGH undertook to scan, correct, and encode, in the now-obsolete and
-non-tree-structured Oxford Concordance Program (OCP) format, the
-1879 Friedberg edition of the *Decretum*. In spring 2013, Winroth
-and Lou Burnard of the Oxford Text Archive (OTA) each provided me
-with a copy of the Reuter and Silagi e-text. The two copies, however,
-differed in many places, and I had to go through a process similar
-to preparing a critical edition to restore the e-text to a state
-as close as possible to what I thought the editors intended. I then
-began to experiment with writing Python programs that used regular
-expressions to extract textual features of interest. The fact that
-the OCP e-text format is not tree-structured the way XML is---textual
-features have start tags but not end tags---makes it extremely
-difficult to parse, so this was a slow process.[^8]
+One step in the direction of a digital project was to obtain an
+electronic version of the *Decretum* text. In the mid- to late-1980s,
+Timothy Reuter and Gabriel Silagi edited the *Wortkonkordanz zum
+Decretum Gratiani* for the Monumenta Germaniae Historica (MGH) in
+Munich, a computer-generated concordance in the tradition of Father
+Roberto Busa's *Index Thomisticus*.[@reuter_wortkonkordanz_1990]
+As part of the project, the MGH undertook to scan, correct, and
+encode, in the now-obsolete and non-tree-structured Oxford Concordance
+Program (OCP) format, the 1879 Friedberg edition of the *Decretum*.
+In spring 2013, Winroth and Lou Burnard of the Oxford Text Archive
+(OTA) each provided me with a copy of the Reuter and Silagi e-text.
+The two copies, however, differed in many places, and I had to go
+through a process similar to preparing a critical edition to restore
+the e-text to a state as close as possible to what I thought the
+editors intended. I then began to experiment with writing Python
+programs that used regular expressions to extract textual features
+of interest. The fact that the OCP e-text format is not tree-structured
+the way XML is---textual features have start tags but not end
+tags---makes it extremely difficult to parse, so this was a slow
+process.[^8]
 
 My initial focus in the first half of 2013 was on the use of David
 Mimno's MALLET (MAchine Learning for LanguagE Toolkit) to topic
 model *dicta* and canon texts from the first and second recensions
 of Gratian's *Decretum* as a way to identify new topics added in
-the second recension. The inspiration was Pennington's observation that
-most passages in the *Decretum* dealing with the legal status of
-Jews, particularly those dealing with forced conversion, were
+the second recension. The inspiration was Pennington's observation
+that most passages in the *Decretum* dealing with the legal status
+of Jews, particularly those dealing with forced conversion, were
 introduced only in the second recension.[^9] My goal was to see
 whether MALLET could surface more such topics, by topic modeling
 the first and second parts of the vulgate *Decretum*, topic modeling
@@ -187,8 +185,8 @@ argument) by Gratian or by Gratian 1 and Gratian 2,[^12] and run
 the same kind of analysis that Kestemont had run for Hildegard of
 Bingen and Guibert of Gembloux. I expected the results to provide
 an unambiguous answer, sufficiently compelling to both Pennington
-and Winroth to settle the debate one way of the other, as to whether there
-had been one or two authors.
+and Winroth to settle the debate one way of the other, as to whether
+there had been one or two authors.
 
 In August and September of 2013, I replicated the working software
 environment with which Kestemont had obtained his Hildegard results,
@@ -211,19 +209,18 @@ For that purpose, I chose extracts from the pseudo-Augustinian *De
 vera et falsa penitentia* quoted extensively by Gratian in his *de
 Penitentia*, a treatise on penance inserted at C.33 q.3 in the
 second part of the vulgate *Decretum*. In the interest of getting
-results quickly, I hand-edited the excerpts
-directly out of the Reuter and Silagi e-text. With the case statements
-and the *De vera* extracts in hand, I now had enough in the way of
-text samples to verify that I had installed and configured R, R
-Studio, and stylo correctly. I have to admit that I was somewhat
-disappointed that the results of the first test were exactly what
-I should have expected: the case statements and the excerpts from
-*De vera* displayed a marked left-right separation along the
-horizontal x-axis representing the first principal component.
-**[reproduce plot!]**, indicating
-that they were written by two different authors. Because *De
-vera* is an anonymous work that predated the *Decretum* by no more
-than a decade or so, and because Gratian was one of the earliest
+results quickly, I hand-edited the excerpts directly out of the
+Reuter and Silagi e-text. With the case statements and the *De vera*
+extracts in hand, I now had enough in the way of text samples to
+verify that I had installed and configured R, R Studio, and stylo
+correctly. I have to admit that I was somewhat disappointed that
+the results of the first test were exactly what I should have
+expected: the case statements and the excerpts from *De vera*
+displayed a marked left-right separation along the horizontal x-axis
+representing the first principal component **[reproduce plot!]**,
+indicating that they were written by two different authors. Because
+*De vera* is an anonymous work that predated the *Decretum* by no
+more than a decade or so, and because Gratian was one of the earliest
 authors to quote extensively from it (although not the earliest,
 as I mistakenly believed at the time), I thought it would make an
 excellent dissertation topic if it could be shown that Gratian had
@@ -244,15 +241,15 @@ results I had expected: either a tight clustering of all *dicta*
 (first- and second-recension as well as case statements) indicating
 a single author and confirming all of Pennington's arguments for
 the unity of Gratian, or alternatively, a bimodal distribution
-confirming Winroth's arguments for a Gratian 1 and a Gratian 2. Instead,
-these preliminary results seemed to suggest that the first recension
-*dicta* had many authors, perhaps one or two of whom went on to
-write the second recension *dicta*. What was completely unexpected,
-however, was that the case statements clustered far away from
-the *dicta*, extremely strong evidence that they had not been written
-by the same author. I immediately realized that if this accidental
-result held up under further testing, it would be both significant
-and controversial. (See Figure 1 below.)[^15]
+confirming Winroth's arguments for a Gratian 1 and a Gratian 2.
+Instead, these preliminary results seemed to suggest that the first
+recension *dicta* had many authors, perhaps one or two of whom went
+on to write the second recension *dicta*. What was completely
+unexpected, however, was that the case statements clustered far
+away from the *dicta*, extremely strong evidence that they had not
+been written by the same author. I immediately realized that if
+this accidental result held up under further testing, it would be
+both significant and controversial. (See Figure 1 below.)[^15]
 
 ![Figure 1 10 Sep 2013](JPGs/Photo51.jpg)
 
@@ -287,11 +284,12 @@ Gratian participated as a consultant to the judge. Many subsequent
 books and articles have referred to Noonan's discussion of the
 courtroom sighting of "the silent figure in the shadows of S.
 Marco."[@noonan_gratian_1979, 171-172] I saw the principal components
-analysis plot my algorithms had produced as an indirect but compelling classroom sighting of
-Gratian: seated at a table with his case statements in hand and
-their lists of question as his syllabus, he harmonized the canons
-for his students directly out of the formal sources in the form of
-a pile of books on the table in front of him.
+analysis plot my algorithms had produced as an indirect but compelling
+classroom sighting of Gratian: seated at a table with his case
+statements in hand and their lists of question as his syllabus, he
+harmonized the canons for his students directly out of the formal
+sources in the form of a pile of books on the table in front of
+him.
 
 This conjectural novella provides a way to make sense of the fact
 that the author of the case statements does not appear to have
@@ -351,8 +349,8 @@ these debates.
 
 [^5]: Ingobert was named after the Carolingian scribe of the Bible
 of San Paolo fuori le Mura. Some scholars have suggested that he
-was responsible for Beinecke 413; the hand is certainly similar
-to his. The Ingobert project is still under active development: see
+was responsible for Beinecke 413; the hand is certainly similar to
+his. The Ingobert project is still under active development: see
 my GitHub [Ingobert2](https://github.com/decretist/Ingobert2)
 repository for the source code of the current version of the Python
 web application ported to the Django platform.
