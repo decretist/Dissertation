@@ -12,10 +12,10 @@ who wrote the thirty-six case statements introducing the hypothetical
 cases that make up the second part of Gratian's *Decretum* is very
 unlikely to have been the same as the author who wrote the
 *dicta* in the first recension of the *Decretum*. The statistical
-method used to make this determination takes the frequencies of
-common function words like prepositions and conjunctions in a sample
-of text as the basis for assigning probable authorship, and will
-be explained in considerable detail in Chapter 4.
+method used to make this determination assigns probable authorship
+on the basis of frequencies of common function words like prepositions
+and conjunctions in a sample of text, and will be explained in
+considerable detail in Chapter 4.
 
 I did not start work on this project thinking that the authorship
 of the case statements was in any way a research problem. I assumed
@@ -25,8 +25,8 @@ is therefore worth explaining in some detail how I came to make
 a completely unexpected finding.
 
 I worked in information technology as a system administrator and
-manager for most of the twenty-three years after I graduated from
-UC San Diego in 1984 with an undergraduate degree in History.
+manager for most of the twenty-three years after I graduated with
+an undergraduate degree in History from UC San Diego in 1984.
 Stanley Chodorow had been the advisor for my undergraduate senior
 thesis on the role of the cardinals in the thirteenth and fourteenth
 centuries, and I knew that he had written a book about Gratian's
@@ -65,8 +65,8 @@ sure I did something very useful with the money".
 From September 2007 to May 2009, I was a student in the History of
 Christianity MAR program at Yale Divinity School. Among the courses
 I took was a one on Latin Paleography that Richard and Mary Rouse
-of UCLA taught in the Beinecke Rare Book and Manuscript Library in
-Spring 2009. Although I had a general interest in applying my
+of UCLA taught in the Beinecke Rare Book and Manuscript Library.
+Although I had a general interest in applying my
 computing background to my academic work, I do not think I had heard
 of Digital Humanities as an academic discipline before I graduated
 from YDS, at least not by that name.
@@ -82,7 +82,7 @@ A January 2010 meeting with Barbara Shailor on the Beinecke 413
 project was the occasion for the first use I can find in my own
 notes of the term *Digital Humanities*.
 
-In August 2010, I started the PhD program in the Medieval and
+In August 2010, I started work on my PhD in the Medieval and
 Byzantine Studies Program at The Catholic University of America in
 Washington, DC. I went to CUA specifically to work with Ken Pennington
 on Gratian's *Decretum*. Even before moving from New Haven to
@@ -107,14 +107,14 @@ recension interpolations; that two different authors, Gratian 1 and
 Gratian 2, compiled and wrote the first and second recensions; and
 for a late date, around 1140, for the first recension.[^4]
 
-In a January 2011 advising conversation, Jennifer Davis suggested
+In a January 2011 advising conversation, Jennifer Davis,
+director of graduate studies for MBS at the time, suggested
 that, given my professional background, it would be strategically
 advantageous for the purpose of whatever academic career I might
 hope to have to position myself as a Digital Humanities specialist.
 In the summer of 2010, I had taught myself to write Python web
-applications on the Google App Engine platform (learning Python was
-incidental to learning GAE, which is what I was really interested
-in), so in the first half of 2011, I developed Ingobert, a Python/GAE
+applications on the Google App Engine platform,
+so in the first half of 2011, I developed Ingobert, a Python/GAE
 web application to visualize textual differences in Beinecke 413,
 in connection with an independent study project supervised by
 Pennington and Davis.[^5] Largely on the strength of the Ingobert
@@ -131,7 +131,8 @@ to Digital Humanities course at the University of Maryland in Spring
 2013, with the idea that an overview of the field might suggest a
 potential project.
 
-My first step was to obtain an electronic version of the *Decretum*
+One step in the direction of a digital project
+was to obtain an electronic version of the *Decretum*
 text. In the mid- to late-1980s, Timothy Reuter and Gabriel Silagi
 edited the *Wortkonkordanz zum Decretum Gratiani*
 for the Monumenta Germaniae Historica (MGH) in Munich,
@@ -149,21 +150,21 @@ began to experiment with writing Python programs that used regular
 expressions to extract textual features of interest. The fact that
 the OCP e-text format is not tree-structured the way XML is---textual
 features have start tags but not end tags---makes it extremely
-difficult to parse, so this was a slow process.
+difficult to parse, so this was a slow process.[^8]
 
 My initial focus in the first half of 2013 was on the use of David
 Mimno's MALLET (MAchine Learning for LanguagE Toolkit) to topic
 model *dicta* and canon texts from the first and second recensions
 of Gratian's *Decretum* as a way to identify new topics added in
-the second recension. The model was Pennington's observation that
+the second recension. The inspiration was Pennington's observation that
 most passages in the *Decretum* dealing with the legal status of
 Jews, particularly those dealing with forced conversion, were
-introduced only in the second recension.[^8] My goal was to see
+introduced only in the second recension.[^9] My goal was to see
 whether MALLET could surface more such topics, by topic modeling
 the first and second parts of the vulgate *Decretum*, topic modeling
 the first recension, and seeing what topics were left when the first
 recension topics were subtracted from the vulgate topics. While
-simple in concept, this proved prohibitively difficult in practice.[^9]
+simple in concept, this proved prohibitively difficult in practice.[^10]
 
 In July 2013, I was working at MITH, and following the DH 2013
 conference at University of Nebraska-Lincoln out of general interest
@@ -173,7 +174,7 @@ caught my attention: "Stylometry and the Complex Authorship in
 Hildegard of Bingen's Oeuvre" by Mike Kestemont, Sara Moens, and
 Jeroen Deploige. Their work was later published as a paper, but the
 conference website had an unusually detailed abstract, and a video
-was made available as part of the presentation.[^10]
+was made available as part of the presentation.[^11]
 
 The applicability of Kestemont's methodology to the intractable
 problem of the authorship of the *Decretum* was immediately obvious
@@ -182,11 +183,11 @@ on indirect evidence about whether there had been one Gratian or
 two. I would extract the first- and second-recension *dicta*, those
 parts of the text of the *Decretum* thought to have actually been
 written (depending on whether one accepted Pennington's or Winroth's
-argument) by Gratian or by Gratian 1 and Gratian 2,[^11] and run
+argument) by Gratian or by Gratian 1 and Gratian 2,[^12] and run
 the same kind of analysis that Kestemont had run for Hildegard of
 Bingen and Guibert of Gembloux. I expected the results to provide
 an unambiguous answer, sufficiently compelling to both Pennington
-and Winroth to settle the debate either way, as to whether there
+and Winroth to settle the debate one way of the other, as to whether there
 had been one or two authors.
 
 In August and September of 2013, I replicated the working software
@@ -210,14 +211,16 @@ For that purpose, I chose extracts from the pseudo-Augustinian *De
 vera et falsa penitentia* quoted extensively by Gratian in his *de
 Penitentia*, a treatise on penance inserted at C.33 q.3 in the
 second part of the vulgate *Decretum*. In the interest of getting
-results quickly, I used the ```vi``` text editor to hand-edit the excerpts
+results quickly, I hand-edited the excerpts
 directly out of the Reuter and Silagi e-text. With the case statements
 and the *De vera* extracts in hand, I now had enough in the way of
 text samples to verify that I had installed and configured R, R
 Studio, and stylo correctly. I have to admit that I was somewhat
 disappointed that the results of the first test were exactly what
 I should have expected: the case statements and the excerpts from
-*De vera* formed distinct clusters **[reproduce!]**, indicating
+*De vera* displayed a marked left-right separation along the
+horizontal x-axis representing the first principal component.
+**[reproduce plot!]**, indicating
 that they were written by two different authors. Because *De
 vera* is an anonymous work that predated the *Decretum* by no more
 than a decade or so, and because Gratian was one of the earliest
@@ -230,7 +233,7 @@ Having confirmed that my test environment could correctly distinguish
 the authorship of the case statements from that of the pseudo-Augustinian
 excerpts from *De vera*, I moved on to the much slower process of
 hand-editing text samples of the first- and second-recension *dicta*
-from the Reuter and Silagi e-text.[^13]
+from the Reuter and Silagi e-text.[^14]
 
 By the second week of September 2013, I had edited the first- and
 second-recension *dicta* for the first part of the *Decretum*
@@ -241,7 +244,7 @@ results I had expected: either a tight clustering of all *dicta*
 (first- and second-recension as well as case statements) indicating
 a single author and confirming all of Pennington's arguments for
 the unity of Gratian, or alternatively, a bimodal distribution
-confirming Winroth's arguments for Gratian 1 and Gratian 2. Instead,
+confirming Winroth's arguments for a Gratian 1 and a Gratian 2. Instead,
 these preliminary results seemed to suggest that the first recension
 *dicta* had many authors, perhaps one or two of whom went on to
 write the second recension *dicta*. What was completely unexpected,
@@ -249,7 +252,7 @@ however, was that the case statements clustered far away from
 the *dicta*, extremely strong evidence that they had not been written
 by the same author. I immediately realized that if this accidental
 result held up under further testing, it would be both significant
-and controversial. (See Figure 1 below.)[^14]
+and controversial. (See Figure 1 below.)[^15]
 
 ![Figure 1 10 Sep 2013](JPGs/Photo51.jpg)
 
@@ -270,10 +273,10 @@ program.
 Many scholars, notably Noonan and Pennington, have seen the thirty-six
 cases that make up the second part of the *Decretum*, each organized
 around a case statement, as Gratian's unique, original, contribution
-to the teaching of canon law.[^15] There is also a scholarly consensus
+to the teaching of canon law.[^16] There is also a scholarly consensus
 foundational to most recent work on the composition of the *Decretum*
 that Gratian drew on just five formal sources for the bulk of the
-authorities he cited.[^16] These observations prompted me to reframe
+authorities he cited.[^17] These observations prompted me to reframe
 my initial interpretation, and consider the possibility that the
 eponymous Gratian who gave his name to the entire project had written
 *only* the case statements.
@@ -336,7 +339,7 @@ would more accurately reflect the results of the project as delivered.
 ## Note on Translations
 
 I have, wherever possible, supplied for each Latin passage quoted
-the corresponding passage from a published English translation.[^20]
+the corresponding passage from a published English translation.[^21]
 In cases where no such translation was available, or I considered
 the available translation seriously misleading, I have supplied my
 own translation, indicated with the notation (trans. PLE). Special
@@ -348,7 +351,7 @@ these debates.
 
 [^5]: Ingobert was named after the Carolingian scribe of the Bible
 of San Paolo fuori le Mura. Some scholars have suggested that he
-was responsible for Beinecke 413; the script is certainly similar
+was responsible for Beinecke 413; the hand is certainly similar
 to his. The Ingobert project is still under active development: see
 my GitHub [Ingobert2](https://github.com/decretist/Ingobert2)
 repository for the source code of the current version of the Python
@@ -357,9 +360,12 @@ web application ported to the Django platform.
 [^6]: NEH ODH Grant number:
 [HD-51568-12](https://securegrants.neh.gov/publicquery/main.aspx?f=1&gn=HD-51568-12)
 
-[^8]: @pennington_laws_2013; and @pennington_gratian_2014.
+[^8]: **See Appendix 2 for the final version of the recursive-descent
+parser I wrote for this project.**
 
-[^9]: This project was attractive to Pennington because although
+[^9]: @pennington_laws_2013; and @pennington_gratian_2014.
+
+[^10]: This project was attractive to Pennington because although
 the results would be obtained computationally, they could be verified
 by someone doing a close reading of the text of the *Decretum*.
 There were three insurmountable barriers to carrying out the project
@@ -397,10 +403,10 @@ topics.
     of Jews came into focus. **Pennington's topic started appearing
     somewhere over 200 topics.**
 
-[^10]: Abstract: @kestemont_abstract_2013. Video:
+[^11]: Abstract: @kestemont_abstract_2013. Video:
 @kestemont_documentary_2013. Paper: @kestemont_collaborative_2015.
 
-[^11]: To the extent that there is some one person we can point to
+[^12]: To the extent that there is some one person we can point to
 as corresponding to our idea of "Gratian," it's the author of the
 first-recension *dicta*. "The *dicta* in Gratian's *Decretum* bring
 the reader closer to its author than any other part of the text."
@@ -408,7 +414,7 @@ the reader closer to its author than any other part of the text."
 used to support this point in "The men behind the 'Decretum'",
 pp.175-192?**
 
-[^13]: For the purpose of comparing the first- and second-recension
+[^14]: For the purpose of comparing the first- and second-recension
 *dicta*, I define the first-recension *dicta* as the *dicta* (*ante*
 and *post*, but not *init.*) in the first and second parts of the
 Friedberg edition of the *Decretum* to which I apply the transformations
@@ -418,7 +424,7 @@ and second parts of Friedberg remaining after the proxy first-recension
 text generated by applying the Winroth transformations has been
 subtracted.
 
-[^14]: The statistical technique of principal components analysis
+[^15]: The statistical technique of principal components analysis
 (PCA) projects or flattens an n-dimensional vector space representing
 the total variation among/between a set of samples into a more
 easily-visualized 2-dimensional plot. In this case, 65 vectors
@@ -435,15 +441,15 @@ two principal components. Principal components analysis and its
 application to the problem of authorship attribution will be covered
 in depth in Chapter 4, Stylometry.
 
-[^15]: [@noonan_catholic_1997, 1201]; and [@pennington_biography_2014,
+[^16]: [@noonan_catholic_1997, 1201]; and [@pennington_biography_2014,
 689].
 
-[^16]: @winroth_making_2000, 15. Roughly one-fifth of the text of
+[^17]: @winroth_making_2000, 15. Roughly one-fifth of the text of
 the *Decretum* has traditionally been attributed to Gratian himself;
 the other fourth-fifths of the text is made up of excerpts from the
 authorities Gratian cited.
 
-[^20]: @jansen_medieval_2009; @somerville_prefaces_1998; and
+[^21]: @jansen_medieval_2009; @somerville_prefaces_1998; and
 @thompson_treatise_1993 have been particularly helpful resources
 in this regard.
 
