@@ -95,16 +95,28 @@ of personal discomfort at being unable to reconcile the contradictory
 positions staked out by Pennington and Winroth.
 
 Pennington and his students Melodie Harris Eichbauer and Atria A.
-Larson argued that the Sankt Gallen 673 (Sg) manuscript represented,
-at however many removes, an earlier version of the *Decretum* than
-Winroth's first recension; that a single author, Gratian, compiled
-and wrote both the first and second recensions of the *Decretum*;
-and for an early date, in the 1130s, for the first recension. Winroth
-and his student John Wei argued that Sg was a relatively uninteresting
-abbreviation of a first recension manuscript with some second
-recension interpolations; that two different authors, Gratian 1 and
-Gratian 2, compiled and wrote the first and second recensions; and
-for a late date, around 1140, for the first recension.[^4]
+Larson argued that the *Decretum* was the result of a long process
+of continuous revision. They therefore saw the first recension as
+one of potentially a number of intermediate stages in the composition
+of Gratian's text, and argued that it entered circulation at an
+early date, in the 1130s. Pennington in particular argued strongly
+that a single author, Gratian, compiled and wrote both the first
+and second recensions of the *Decretum*. Winroth and his student
+John Wei, on the other hand, argued that the first and second
+recensions represented discrete and discontinuous stages in the
+composition process of the *Decretum*, and that the two recensions
+were compiled and written by two different authors, Gratian 1 and
+Gratian 2. Winroth has insisted on a late date, around 1140, for
+the first recension. Much of the debate over whether the *Decretum*
+was the result of a continuous or discontinuous process of composition
+focused on the Sankt Gallen 673 (Sg) manuscript. Sg was shorter
+than the first recension (around 1,000 canons as opposed to 1,860),
+and Pennington and some of his students argued that it represented,
+at some unknown number of removes, an earlier version of the
+*Decretum* than Winroth’s first recension. Winroth and Wei, on the
+other hand, argued that Sg was a relatively uninteresting abbreviation
+of a first recension manuscript with some second recension
+interpolations.[^4]
 
 In a January 2011 advising conversation, Jennifer Davis, director
 of graduate studies for MBS at the time, suggested that, given my
