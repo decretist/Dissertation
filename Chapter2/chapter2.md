@@ -430,7 +430,7 @@ in formal source collections.[^35] The fact that the rubrics are
 short, discontinuous, texts means that they are of effectively no
 value for the purpose of authorship attribution. On the other hand,
 the fact that they are believed to have been written by Gratian,
-and that they therefore reflect his choice of wording, means that
+and therefore reflect his choice of wording, means that
 they are potentially useful evidence in the search for new topics
 introduced between the first and second recensions.)**
 
