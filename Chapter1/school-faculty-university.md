@@ -6,24 +6,23 @@ suppress-bibliography: false
 title: School, Faculty, University
 ---
 Both the content and the form of the *Decretum* had an enormous
-impact on the civilization of Medieval Europe. Gratian's methodological
+impact on the civilization of medieval Europe. Gratian's methodological
 breakthrough transformed the study of canon law into a rigorous
 academic discipline. His imposition of a consistent interpretive
 framework (hermeneutic) on the inherited and internally contradictory
 mass of canonical texts transformed them into a coherent system of
-law. A generation before Gratian, Ivo of Chartres (†.1115) had
+law. A generation before Gratian, Ivo of Chartres (†1115) had
 proposed the possibility of such a program in the preface to his
-own canonical collections but had left its application to his
+own canonical collections, but he left its application to his
 readers. Gratian demonstrated that Ivo's program could in fact be
 carried out in a truly systematic way and did so at an historical
 moment when the need for such a sweeping synthesis was particularly
 compelling. Gratian was working in the immediate aftermath of the
-Concordat of Worms (1122) that recognized the formal juridical
+Concordat of Worms (1122), which recognized the formal juridical
 independence of the Church from secular authority. Gratian's
 *Decretum* provided a comprehensive blueprint for the legal machinery
 by which the Church ultimately came to govern the many aspects of
-life in a pervasively Christian society over which it claimed
-exclusive jurisdiction.
+life in Christian society over which it claimed exclusive jurisdiction.
 
 The form in which Gratian's intellectual achievement was transmitted
 had as great an impact as its content. The *Decretum* was arguably
@@ -43,7 +42,7 @@ new evidence previewed in the introduction above suggests that we
 owe the content of the *Decretum* to Gratian, but its form to his
 students.**
 
-The *Decretum* was a product of the schools, but became the outstanding
+The *Decretum* was a product of the schools but became the outstanding
 textbook of the brief age of the faculties of canon law. Faculties
 came into being as an institutional response to a new problem raised
 by standardized classes taught from standardized textbooks: what
@@ -99,21 +98,22 @@ however, while the evolution from faculty to university was still
 in progress, the focus of academic canonists shifted away from
 Gratian and toward the new jurisprudence of papal decretals.
 Scholarly attention devoted to the *Decretum* after 1190 tended to
-focus on improving its utility as a teaching text. [Johannes
+focus on improving its utility as a teaching text. Between 1214 and
+1217, [Johannes
 Teutonicus](http://amesfoundation.law.harvard.edu/BioBibCanonists/Report_Biobib2.php?record_id=a303)
-(c.1170-1245) compiled more than a half century's worth of accumulated
-gloss commentary on Gratian into the *Glossa Ordinaria* between
-1214 and 1217,[@weigand_development_2008, 82-86] and [Bartholomeus
+(c.1170-1245) compiled more than a half-century's worth of accumulated
+commentary on Gratian into the *Glossa
+Ordinaria*,[@weigand_development_2008, 82-86] and [Bartholomeus
 Brixiensis](http://amesfoundation.law.harvard.edu/BioBibCanonists/Report_Biobib2.php?record_id=a050)
 (fl.1234-1258) revised the ordinary gloss between 1234 and
-1241.[@weigand_development_2008, 88-91] The interest of thirteenth
-century teachers and students centered on a new advanced second
-course in canon law taught from the five successive compilations
-of papal decretals that were edited into their final, definitive,
-form, the *Decretales Gregorii IX*, by Raymond de Peñafort in 1234.
-The *Decretum* retained its status as a classic textbook, but never
-again held the intellectual attention of the discipline in the way
-it had during the second half of the twelfth century.
+1241.[@weigand_development_2008, 88-91] By then, the interest of
+thirteenth century teachers and students centered on a new advanced
+second course in canon law taught from Raymond de Peñafort's
+*Decretales Gregorii IX* (1234), edited from five earlier compilations
+of papal decretals that had become a teaching library of decretal
+law. The *Decretum* retained its status as a classic textbook but
+never again held the intellectual attention of the discipline in
+the way it had during the second half of the twelfth century.
 
 [^1]: "By the first decade of the thirteenth century the private
     schools of canon law had become part of the corporate structure
@@ -186,6 +186,6 @@ you an argument about the priority of medicine or law. (Stan Chodorow)**
 [^3]: This distinction between old and new law comes from the preface
 of [Bernardus
 Papiensis](http://amesfoundation.law.harvard.edu/BioBibCanonists/Report_Biobib2.php?record_id=a061)
-(†.1213) to his Breviary of *Extravagantia* or First Compilation,
+(†1213) to his Breviary of *Extravagantia* or First Compilation,
 c.1191. [@somerville_prefaces_1998, 219, 230-231]
 

@@ -110,7 +110,7 @@ In August 2010, I started work on my PhD in the Medieval and Byzantine
 Studies Program at The Catholic University of America in Washington,
 DC. I went to CUA specifically to work with Ken Pennington on
 Gratian's *Decretum*. Even before moving from New Haven to Washington,
-I had participated in Winroth's class on law in Medieval Europe at
+I had participated in Winroth's class on law in medieval Europe at
 Yale, and, once at CUA, I took Pennington's classes on canon and
 Roman law, and (twice) his sources seminar. From 2010 through 2012,
 then, I thoroughly immersed myself in the scholarly debates surrounding
