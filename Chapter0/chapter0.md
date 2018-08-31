@@ -7,6 +7,30 @@ suppress-bibliography: true
 ---
 ## Origin of the Project
 
+The following dissertation approaches a classic medieval text,
+Gratian's *Decretum*, in a distinctly untraditional way. I found
+my way to this topic through a specific and unique combination of
+academic interest and previous professional experience, and against
+the backdrop of the rapid transformation between 2004 and 2009 of
+Humanities Computing into the new, and more prominent, academic
+discipline of Digital Humanities.[^a] Justifying the project and
+its findings therefore necessarily involves a more personal narrative
+than is typical for the introduction to a dissertation: the most
+straightforward way to discuss the recent history of the development
+of the digital methods I used is through my first-hand experiences
+with them.
+
+[^a]: The term Digital Humanities came into general use with the
+publication in 2004 of the Blackwell Companion to Digital Humanities,
+the National Endowment for the Humanities (NEH) created its Office
+of Digital Humanities (ODH) in 2008, and William Pannapacker's "The
+MLA and the Digital Humanities" in the December 28, 2009 issue of
+*The Chronicle of Higher Education* brought developments in DH to
+the attention of a widespread audience, notably including university
+administrators, for the first time.
+
+* * *
+
 The most significant finding of my dissertation is that the author
 who wrote the thirty-six case statements introducing the hypothetical
 cases that make up the second part of Gratian's *Decretum* is very
