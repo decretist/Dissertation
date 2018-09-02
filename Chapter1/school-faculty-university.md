@@ -79,7 +79,7 @@ as a means for legally creating an artificial person, and then
 investing that "person" with rights and privileges that could
 otherwise only be held by a natural person or persons, such as the
 right to own property, or in the case of a cathedral chapter, the
-right to elect a bishop. Implicit in the development from schools
+right to elect a bishop.[^5] Implicit in the development from schools
 (which rarely survived the departure or death of their masters) to
 faculties was an aspiration toward institutional permanence, or at
 least stability. The right of a faculty to own property was obviously
@@ -188,4 +188,14 @@ of [Bernardus
 Papiensis](http://amesfoundation.law.harvard.edu/BioBibCanonists/Report_Biobib2.php?record_id=a061)
 (†1213) to his Breviary of *Extravagantia* or First Compilation,
 c.1191. [@somerville_prefaces_1998, 219, 230-231]
+
+[^5]: "Four steps would seem to have been pre-eminently necessary
+to give to mere customary meetings of masters for the initiation
+of new members or similar purposes the character of a definite and
+legally recognized corporation: (1) the reduction of their unwritten
+customs to the form of written statutes or by-laws, (2) the recognition
+or (if authoritative recognition was unnecessary) the exercise of
+the right to sue and be sued as a corporation, (3) the appointment
+of permanent common officers, (4) the use of a common seal." Powicke
+and Emden, *Rashdall's Medieval Universities*, Vol. I, p.299.
 
