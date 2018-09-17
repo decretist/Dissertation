@@ -37,20 +37,31 @@ A textbook that circulates widely enough becomes a *de facto*
 standard, and classes taught from it, by whomever, become likewise
 standardized. The *Decretum*, and classes taught from it or its
 abbreviations, attained the status of *de facto* standards across
-much of Europe very quickly---within two decades. **I believe that
-new evidence previewed in the introduction above suggests that we
-owe the content of the *Decretum* to Gratian, but its form to his
-students.**
+much of Europe very quickly---within two decades. I believe that
+the new evidence previewed in the introduction above suggests that
+while we owe the intellectual substance of at least the first
+recension of the *Decretum* to Gratian, we owe the words in which
+that substance was expressed to his students.
 
-The *Decretum* was a product of the schools but became the outstanding
-textbook of the brief age of the faculties of canon law. Faculties
+The compilation and circulation of the *Decretum* led directly to
+the formation of faculties of canon law across Europe. Faculties
 came into being as an institutional response to a new problem raised
 by standardized classes taught from standardized textbooks: what
-are the requisite qualifications for the teaching and practice of
-canon law? The distinctive innovation of the faculty was the
-conferring of degrees on students who completed a prescribed sequence
-of standardized courses, defined in such a way that the requirements
-for completion for students more or less coincided with those for
+are the requisite qualifications for the teaching of canon law?  In
+some respects, early faculties were similar to other medieval guilds
+that regulated competition between masters in places where material
+and political conditions favored the concentration of many masters
+practicing the same craft in one place.[^a] Faculties and craft
+guilds, however, differed in one important respect: while the most
+imporant product of the masters of the guild of shoemakers was
+shoes, the most important product of the masters of the faculty of
+canon law was, at least in the first generation, the next generation
+of masters of the faculty of canon law. The distinctive innovation
+of the faculty was the conferring of credentials or qualifications
+(degrees is perhaps anachronistic) on students who completed a
+prescribed sequence of standardized courses, defined in such a way
+that the requirements for completion for students coincided with
+those for
 admission to teaching. The faculty was a crucial intermediate stage
 in the institutional evolution from school to university, one that
 has been obscured by the retrospective myth-making of famous
@@ -196,6 +207,10 @@ legally recognized corporation: (1) the reduction of their unwritten
 customs to the form of written statutes or by-laws, (2) the recognition
 or (if authoritative recognition was unnecessary) the exercise of
 the right to sue and be sued as a corporation, (3) the appointment
-of permanent common officers, (4) the use of a common seal." Powicke
-and Emden, *Rashdall's Medieval Universities*, Vol. I, p.299.
+of permanent common officers, (4) the use of a common seal."
+[@rashdall_universities_1936, 299].
+
+[^a]: See [@southern_scholastic_1995, 310-318] for a discussion of
+the role that material and political conditions played in the rise
+of Bologna and Paris as major academic centers.
 
