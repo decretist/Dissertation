@@ -51,7 +51,7 @@ are the requisite qualifications for the teaching of canon law?  In
 some respects, early faculties were similar to other medieval guilds
 that regulated competition between masters in places where material
 and political conditions favored the concentration of many masters
-practicing the same craft in one place.[^a] Faculties and craft
+practicing the same craft in one place.[^sfu1] Faculties and craft
 guilds, however, differed in one important respect: while the most
 imporant product of the masters of the guild of shoemakers was
 shoes, the most important product of the masters of the faculty of
@@ -67,13 +67,13 @@ in the institutional evolution from school to university, one that
 has been obscured by the retrospective myth-making of famous
 universities, which, once established, sought to enhance the lustre
 of their names by projecting their origins as far as possible into
-the past.[^1] It is perhaps going too far to claim that the *Decretum*
+the past.[^sfu2] It is perhaps going too far to claim that the *Decretum*
 was the textbook that created the university. It is not, however,
 going too far to recognize that its existence was a necessary
 precondition for the emergence of the faculty of canon law, just
 as the existence of Peter Lombard's *Sentences* was a necessary
 precondition for the emergence after 1160 of the faculty of
-theology.[^2]
+theology.[^sfu3]
 
 In the first decades of the thirteenth century, both the faculties
 of canon law and the *Decretum* settled into their permanent places
@@ -81,7 +81,7 @@ in the organization of medieval academic life, as the faculties of
 canon law joined with other faculties (such as arts and theology)
 to form the corporate university, and the focus of legal scholarship
 in canon law gradually shifted from the "old law" of Gratian to the
-"new law" of papal decretals.[^3]
+"new law" of papal decretals.[^sfu4]
 
 Recent complaints about the corporatization of the university
 notwithstanding, *universitas* means corporation.[@verger_patterns_1992,
@@ -91,7 +91,7 @@ as a means for legally creating an artificial person, and then
 investing that "person" with rights and privileges that could
 otherwise only be held by a natural person or persons, such as the
 right to own property, or in the case of a cathedral chapter, the
-right to elect a bishop.[^5] Implicit in the development from schools
+right to elect a bishop.[^sfu6] Implicit in the development from schools
 (which rarely survived the departure or death of their masters) to
 faculties was an aspiration toward institutional permanence, or at
 least stability. The right of a faculty to own property was obviously
@@ -127,7 +127,11 @@ law. The *Decretum* retained its status as a classic textbook but
 never again held the intellectual attention of the discipline in
 the way it had during the second half of the twelfth century.
 
-[^1]: "By the first decade of the thirteenth century the private
+[^sfu1]: See [@southern_scholastic_1995, 310-318] for a discussion of
+the role that material and political conditions played in the rise
+of Bologna and Paris as major academic centers.
+
+[^sfu2]: "By the first decade of the thirteenth century the private
     schools of canon law had become part of the corporate structure
     of the universities in all three places [Bologna, Paris, and
     Oxford]." [@brundage_teaching_2008, 98-99]. **Brundage here
@@ -191,17 +195,17 @@ the way it had during the second half of the twelfth century.
     dealt specifically with curriculum and textbooks."
     [@gabriel_paris_1982, 408].
 
-[^2]: **You might also look at when the textbooks in medicine were
+[^sfu3]: **You might also look at when the textbooks in medicine were
 rediscovered or written. A history of medieval medicine might give
 you an argument about the priority of medicine or law. (Stan Chodorow)**
 
-[^3]: This distinction between old and new law comes from the preface
+[^sfu4]: This distinction between old and new law comes from the preface
 of [Bernardus
 Papiensis](http://amesfoundation.law.harvard.edu/BioBibCanonists/Report_Biobib2.php?record_id=a061)
 (†1213) to his Breviary of *Extravagantia* or First Compilation,
 c.1191. [@somerville_prefaces_1998, 219, 230-231]
 
-[^5]: "Four steps would seem to have been pre-eminently necessary
+[^sfu6]: "Four steps would seem to have been pre-eminently necessary
 to give to mere customary meetings of masters for the initiation
 of new members or similar purposes the character of a definite and
 legally recognized corporation: (1) the reduction of their unwritten
@@ -210,8 +214,4 @@ or (if authoritative recognition was unnecessary) the exercise of
 the right to sue and be sued as a corporation, (3) the appointment
 of permanent common officers, (4) the use of a common seal."
 [@rashdall_universities_1936, 299].
-
-[^a]: See [@southern_scholastic_1995, 310-318] for a discussion of
-the role that material and political conditions played in the rise
-of Bologna and Paris as major academic centers.
 
