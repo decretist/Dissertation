@@ -75,12 +75,13 @@ as the existence of Peter Lombard's *Sentences* was a necessary
 precondition for the emergence after 1160 of the faculty of
 theology.[^2]
 
-In the first decades of the thirteenth century, both the faculty
-and the *Decretum* were relegated to more modest places in the
-academic world than they had occupied in the latter half of the
-twelfth century, as the corporate university subsumed the faculties,
-and the focus of legal scholarship in canon law gradually shifted
-from the "old law" of Gratian to the "new law" of papal decretals.[^3]
+In the first decades of the thirteenth century, both the faculties
+of canon law and the *Decretum* settled into their permanent places
+in the organization of medieval academic life, as the faculties of
+canon law joined with other faculties (such as arts and theology)
+to form the corporate university, and the focus of legal scholarship
+in canon law gradually shifted from the "old law" of Gratian to the
+"new law" of papal decretals.[^3]
 
 Recent complaints about the corporatization of the university
 notwithstanding, *universitas* means corporation.[@verger_patterns_1992,
