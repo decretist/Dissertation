@@ -1,9 +1,10 @@
 ---
 bibliography: ../bib/merged.bib
 csl: ../csl/chicago-fullnote-bibliography.csl
+reference-section-title: Bibliography
+suppress-bibliography: false
 title: Chapter 2
 subtitle: The *Decretum*
-suppress-bibliography: true
 ---
 The *Decretum* represents a towering intellectual achievement of
 the renaissance of the twelfth century that ushered in the high
@@ -294,12 +295,12 @@ collection. When faced with the need for new law to cope with new
 circumstances, some enterprising Carolingian churchmen took more
 recent material -- mostly canons from provincial synods -- and
 repackaged them, attributing them to popes from the first century
-through Gregory I (†604). Although the compilers of these collections
-are usually referred to as "forgers," they were not simply inventing
-their sources. Most of the material in the collections was genuine
-but of relatively recent origin -- the goal of the forgers was
-simply to retroject it far enough into the past to make it
-authoritative.
+through Gregory I (†604). The compilers of these collections are
+usually referred to as "forgers," a convention I will observe in
+the following discussion, but they were not simply inventing their
+sources. Most of the material in the collections was genuine but
+of relatively recent origin -- the goal of the forgers was simply
+to retroject it far enough into the past to make it authoritative.
 
 In order to understand the intent of the forgers, one has to
 understand the immediate political situation to which they were
