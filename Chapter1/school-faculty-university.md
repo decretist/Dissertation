@@ -41,13 +41,13 @@ much of Europe very quickly---within two decades. I believe that
 the new evidence previewed in the introduction above suggests that
 while we owe the intellectual substance of at least the first
 recension of the *Decretum* to Gratian, we owe the words in which
-that substance was expressed to his students.
+that substance was expressed to his students.[^sfu0]
 
 The compilation and circulation of the *Decretum* led directly to
 the formation of faculties of canon law across Europe. Faculties
 came into being as an institutional response to a new problem raised
 by standardized classes taught from standardized textbooks: what
-are the requisite qualifications for the teaching of canon law?  In
+are the requisite qualifications for the teaching of canon law? In
 some respects, early faculties were similar to other medieval guilds
 that regulated competition between masters in places where material
 and political conditions favored the concentration of many masters
@@ -90,19 +90,20 @@ legal thinkers looked upon the corporation at a more basic level,
 as a means for legally creating an artificial person, and then
 investing that "person" with rights and privileges that could
 otherwise only be held by a natural person or persons, such as the
-right to own property, or in the case of a cathedral chapter, the
-right to elect a bishop.[^sfu6] Implicit in the development from schools
-(which rarely survived the departure or death of their masters) to
-faculties was an aspiration toward institutional permanence, or at
-least stability. The right of a faculty to own property was obviously
-useful to that end. The most fundamental right for a faculty,
-however, was that of determining qualifications for teaching, and
-it was one that was often contested by the local bishop. The
-incorporation of one or more faculties as a university provided a
-form of organization well-adapted for achieving both permanence and
-independence from local ecclesiastical authority through the
-accumulation of legal rights and privileges. The faculties survived,
-but as subordinate units within the university.
+right to own property, and the right to sue and be sued. The most
+fundamental right of a corporation, however, was the right of
+self-governance, including the right of the corporation to select
+its own leadership. The classic medieval example of corporate
+self-governance was the right of a cathedral chapter to elect a
+bishop. For an academic faculty, the exercise of the right of
+corporate self-governance took the particular form of determining
+qualifications for teaching, something often contested by the local
+bishop.[^sfu6] The incorporation of one or more faculties as a
+university provided a form of organization well-adapted for achieving
+both permanence and independence from local ecclesiastical authority
+through the accumulation of legal rights and privileges. The faculties
+ensured their long-term survival by incorporating within the larger
+university.
 
 The *Decretum* remained the standard textbook for the prerequisite
 first course in canon law throughout the Middle Ages. Around 1190,
@@ -126,6 +127,11 @@ of papal decretals that had become a teaching library of decretal
 law. The *Decretum* retained its status as a classic textbook but
 never again held the intellectual attention of the discipline in
 the way it had during the second half of the twelfth century.
+
+[^sfu0]: **Gratian at least provides the outline for second part
+of the *Decretum*. How closely the logic and arguments of the *dicta*
+follow Gratian's classroom presentation, as opposed to being the
+student's own, is unknown.**
 
 [^sfu1]: See [@southern_scholastic_1995, 310-318] for a discussion of
 the role that material and political conditions played in the rise
@@ -214,4 +220,27 @@ or (if authoritative recognition was unnecessary) the exercise of
 the right to sue and be sued as a corporation, (3) the appointment
 of permanent common officers, (4) the use of a common seal."
 [@rashdall_universities_1936, 299].
+
+    Medieval law knew no regular procedure for incorporation. Every
+    effort to form a corporation therefore involved an intensive
+    and frequently protracted effort to persuade the relevant
+    authority, whether pope, emperor, king or commune, to grant the
+    privilege. In addition, medieval legal thought tended to conceive
+    of rights rather more concretely than modern legal systems do.
+    Every right or privilege was thought of as coming at the expense
+    of some other right-holder, and therefore attempts by the early
+    universities to form corporations were contested by those,
+    usually local bishops, at whose expense the exclusive right to
+    confer a license to teach was being secured.
+
+    Although the right of a faculty or university to own property
+    might be considered necessary to realizing any aspirations
+    toward institutional permanence, in practice, academic corporations
+    avoided property ownership in the twelfth and thirteenth
+    centuries. Indeed, that fact that they tended to rent rather
+    than own the lands and buildings they used could become a
+    powerful weapon in the event of "town vs. gown" conflict,
+    allowing the university to credibly threaten to relocate
+    elsewhere, as the masters and students of Oxford did in 1209.
+    [@rashdall_universities_1936, 406].
 
