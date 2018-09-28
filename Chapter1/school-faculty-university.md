@@ -61,15 +61,14 @@ of the faculty was the conferring of credentials or qualifications
 (degrees is perhaps anachronistic) on students who completed a
 prescribed sequence of standardized courses, defined in such a way
 that the requirements for completion for students coincided with
-those for
-admission to teaching. The faculty was a crucial intermediate stage
-in the institutional evolution from school to university, one that
-has been obscured by the retrospective myth-making of famous
+those for admission to teaching. The faculty was a crucial intermediate
+stage in the institutional evolution from school to university, one
+that has been obscured by the retrospective myth-making of famous
 universities, which, once established, sought to enhance the lustre
 of their names by projecting their origins as far as possible into
-the past.[^sfu2] It is perhaps going too far to claim that the *Decretum*
-was the textbook that created the university. It is not, however,
-going too far to recognize that its existence was a necessary
+the past.[^sfu2] It is perhaps going too far to claim that the
+*Decretum* was the textbook that created the university. It is not,
+however, going too far to recognize that its existence was a necessary
 precondition for the emergence of the faculty of canon law, just
 as the existence of Peter Lombard's *Sentences* was a necessary
 precondition for the emergence after 1160 of the faculty of
@@ -133,23 +132,22 @@ of the *Decretum*. How closely the logic and arguments of the *dicta*
 follow Gratian's classroom presentation, as opposed to being the
 student's own, is unknown.**
 
-[^sfu1]: See [@southern_scholastic_1995, 310-318] for a discussion of
-the role that material and political conditions played in the rise
-of Bologna and Paris as major academic centers.
+[^sfu1]: See [@southern_scholastic_1995, 310-318] for a discussion
+of the role that material and political conditions played in the
+rise of Bologna and Paris as major academic centers.
 
 [^sfu2]: "By the first decade of the thirteenth century the private
-    schools of canon law had become part of the corporate structure
-    of the universities in all three places [Bologna, Paris, and
-    Oxford]." [@brundage_teaching_2008, 98-99]. **Brundage here
-    somewhat overstates the degree of institutional evolution the
-    proto-universities had attained at this time. The corporate
-    structure of the university had fully emerged by the first
-    decade of the thirteenth century only at Bologna. It did not
-    do so at Paris and Oxford until the second decade of the century.
-    The standard handbooks on the history of the university in
-    medieval Europe, [@rashdall_universities_1936] and
-    [@ridder-symoens_universities_1992], are less helpful on this
-    point than might be hoped.**
+schools of canon law had become part of the corporate structure of
+the universities in all three places [Bologna, Paris, and Oxford]."
+[@brundage_teaching_2008, 98-99]. **Brundage here somewhat overstates
+the degree of institutional evolution the proto-universities had
+attained at this time. The corporate structure of the university
+had fully emerged by the first decade of the thirteenth century
+only at Bologna. It did not do so at Paris and Oxford until the
+second decade of the century. The standard handbooks on the history
+of the university in medieval Europe, [@rashdall_universities_1936]
+and [@ridder-symoens_universities_1992], are less helpful on this
+point than might be hoped.**
 
     **Bologna:** "Bologna vies with Paris for the title of oldest
     and most distinguished university of medieval Europe, but whereas
@@ -201,12 +199,13 @@ of Bologna and Paris as major academic centers.
     dealt specifically with curriculum and textbooks."
     [@gabriel_paris_1982, 408].
 
-[^sfu3]: **You might also look at when the textbooks in medicine were
-rediscovered or written. A history of medieval medicine might give
-you an argument about the priority of medicine or law. (Stan Chodorow)**
+[^sfu3]: **You might also look at when the textbooks in medicine
+were rediscovered or written. A history of medieval medicine might
+give you an argument about the priority of medicine or law. (Stan
+Chodorow)**
 
-[^sfu4]: This distinction between old and new law comes from the preface
-of [Bernardus
+[^sfu4]: This distinction between old and new law comes from the
+preface of [Bernardus
 Papiensis](http://amesfoundation.law.harvard.edu/BioBibCanonists/Report_Biobib2.php?record_id=a061)
 (†1213) to his Breviary of *Extravagantia* or First Compilation,
 c.1191. [@somerville_prefaces_1998, 219, 230-231]
