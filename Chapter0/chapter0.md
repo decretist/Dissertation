@@ -1,9 +1,10 @@
 ---
 bibliography: ../bib/merged.bib
 csl: ../csl/chicago-fullnote-bibliography.csl
+reference-section-title: Bibliography
+suppress-bibliography: false
 title: Chapter 0
 subtitle: Introduction
-suppress-bibliography: true
 ---
 ## Origin of the Project
 
@@ -221,7 +222,7 @@ argument) by Gratian or by Gratian 1 and Gratian 2,[^12] and run
 the same kind of analysis that Kestemont had run for Hildegard of
 Bingen and Guibert of Gembloux. I expected the results to provide
 an unambiguous answer, sufficiently compelling to both Pennington
-and Winroth to settle the debate one way of the other, as to whether
+and Winroth to settle the debate one way or the other, as to whether
 there had been one or two authors.
 
 In August and September of 2013, I replicated the working software
@@ -336,7 +337,8 @@ guided by the questions in the case statements. The overall
 organization, the wording of the case statements and questions, and
 the methodology of the *Decretum* are all Gratian's, and his students
 clearly thought it worthwhile to preserve the substance of his
-arguments, but the words are not his. The Decretum "may be a record
+arguments, but the words are not his. The first recension of the
+*Decretum* "may be a record
 of the first 'university course' in canon law ever
 taught",[@winroth_making_2000, 194] but the authorship attribution
 results suggest that we owe the written form of that record to the
