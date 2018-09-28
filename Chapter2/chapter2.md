@@ -461,6 +461,10 @@ the rest of the *Decretum*)**.
 
 ## Organization
 
+**[Move all discussion of d.a.c. and d.init. into Organization.
+Case statements or *themata* are a special case of *dicta* found
+only in, and closely tied to the organization of, Part II.]**
+
 The *Decretum* in the form that circulated after around 1150 (the
 Köln Dombibliothek manuscripts 127 and 128 are good early examples)
 has three parts. The first part consists of 101 distinctions. **The
