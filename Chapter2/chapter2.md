@@ -135,10 +135,10 @@ of the vulgate *Decretum*. Gratian's commentary is what binds the
 *Decretum* together into a coherent whole, and his *dicta* form the
 backbone of the arguments that he makes. The *dicta* (sayings) are
 a feature that Gratian borrowed from another genre, the theological
-treatise. In addition to the *dicta*, Gratian also wrote the rubrics,
-so-called because they were written in red ink in manuscripts of
-the *Decretum*. The rubrics are one-line summaries of canons that
-they introduce.
+treatise, specifically Alger of Liège's *De misericordia et iustitia*.
+In addition to the *dicta*, Gratian also wrote the rubrics, so-called
+because they were written in red ink in manuscripts of the *Decretum*.
+The rubrics are one-line summaries of canons that they introduce.
 
 As a first-order approximation, then, Gratian could be considered
 the author, in the modern sense of the word, of the *dicta* and
