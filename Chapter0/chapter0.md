@@ -17,9 +17,9 @@ Humanities Computing into the new, and more prominent, academic
 discipline of Digital Humanities.[^a] Justifying the project and
 its findings therefore necessarily involves a more personal narrative
 than is typical for the introduction to a dissertation: the most
-straightforward way to discuss the recent history of the development
-of the digital methods I used is through my first-hand experiences
-with them.
+straightforward way to discuss the development of the digital methods
+used in the project and the scholarly context from which they emerged
+is through my first-hand experiences with them.
 
 [^a]: The term Digital Humanities came into general use with the
 publication in 2004 of the Blackwell Companion to Digital Humanities,
