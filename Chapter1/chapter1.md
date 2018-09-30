@@ -34,7 +34,7 @@ valid law in the Roman Catholic Church right up until 1917, and
 exercised enormous influence over the 1917 and 1983 codifications
 of canon law that replaced the old *Corpus*.
 
-### School, Faculty, University (start)
+### School, Faculty, University
 
 Both the content and the form of the *Decretum* had an enormous
 impact on the civilization of medieval Europe. Gratian's methodological
@@ -68,11 +68,11 @@ A textbook that circulates widely enough becomes a *de facto*
 standard, and classes taught from it, by whomever, become likewise
 standardized. The *Decretum*, and classes taught from it or its
 abbreviations, attained the status of *de facto* standards across
-much of Europe very quickly---within two decades. I believe that
+much of Europe very quickly---within the two decades between 1140 and 1160. I believe that
 the new evidence previewed in the introduction above suggests that
 while we owe the intellectual substance of at least the first
 recension of the *Decretum* to Gratian, we owe the words in which
-that substance was expressed to his students.[^sfu0]
+that substance was expressed to his students.[^4]
 
 The compilation and circulation of the *Decretum* led directly to
 the formation of faculties of canon law across Europe. Faculties
@@ -82,14 +82,14 @@ are the requisite qualifications for the teaching of canon law? In
 some respects, early faculties were similar to other medieval guilds
 that regulated competition between masters in places where material
 and political conditions favored the concentration of many masters
-practicing the same craft in one place.[^sfu1] Faculties and craft
+practicing the same craft in one place.[^5] Faculties and craft
 guilds, however, differed in one important respect: while the most
 imporant product of the masters of the guild of shoemakers was
 shoes, the most important product of the masters of the faculty of
 canon law was, at least in the first generation, the next generation
 of masters of the faculty of canon law. The distinctive innovation
 of the faculty was the conferring of credentials or qualifications
-(degrees is perhaps anachronistic) on students who completed a
+(to call them degrees is perhaps anachronistic) on students who completed a
 prescribed sequence of standardized courses, defined in such a way
 that the requirements for completion for students coincided with
 those for admission to teaching. The faculty was a crucial intermediate
@@ -97,21 +97,21 @@ stage in the institutional evolution from school to university, one
 that has been obscured by the retrospective myth-making of famous
 universities, which, once established, sought to enhance the lustre
 of their names by projecting their origins as far as possible into
-the past.[^sfu2] It is perhaps going too far to claim that the
+the past.[^6] It is perhaps going too far to claim that the
 *Decretum* was the textbook that created the university. It is not,
 however, going too far to recognize that its existence was a necessary
 precondition for the emergence of the faculty of canon law, just
 as the existence of Peter Lombard's *Sentences* was a necessary
 precondition for the emergence after 1160 of the faculty of
-theology.[^sfu3]
+theology.[^7]
 
 In the first decades of the thirteenth century, both the faculties
 of canon law and the *Decretum* settled into their permanent places
 in the organization of medieval academic life, as the faculties of
-canon law joined with other faculties (such as arts and theology)
-to form the corporate university, and the focus of legal scholarship
+canon law joined with other faculties (such as those of arts and theology)
+to form the corporate university, while the focus of legal scholarship
 in canon law gradually shifted from the "old law" of Gratian to the
-"new law" of papal decretals.[^sfu4]
+"new law" of papal decretals.[^8]
 
 Recent complaints about the corporatization of the university
 notwithstanding, *universitas* means corporation.[@verger_patterns_1992,
@@ -128,7 +128,7 @@ self-governance was the right of a cathedral chapter to elect a
 bishop. For an academic faculty, the exercise of the right of
 corporate self-governance took the particular form of determining
 qualifications for teaching, something often contested by the local
-bishop.[^sfu6] The incorporation of one or more faculties as a
+bishop.[^10] The incorporation of one or more faculties as a
 university provided a form of organization well-adapted for achieving
 both permanence and independence from local ecclesiastical authority
 through the accumulation of legal rights and privileges. The faculties
@@ -158,123 +158,7 @@ law. The *Decretum* retained its status as a classic textbook but
 never again held the intellectual attention of the discipline in
 the way it had during the second half of the twelfth century.
 
-[^sfu0]: **Gratian at least provides the outline for second part
-of the *Decretum*. How closely the logic and arguments of the *dicta*
-follow Gratian's classroom presentation, as opposed to being the
-student's own, is unknown.**
-
-[^sfu1]: See [@southern_scholastic_1995, 310-318] for a discussion
-of the role that material and political conditions played in the
-rise of Bologna and Paris as major academic centers.
-
-[^sfu2]: "By the first decade of the thirteenth century the private
-schools of canon law had become part of the corporate structure of
-the universities in all three places [Bologna, Paris, and Oxford]."
-[@brundage_teaching_2008, 98-99]. **Brundage here somewhat overstates
-the degree of institutional evolution the proto-universities had
-attained at this time. The corporate structure of the university
-had fully emerged by the first decade of the thirteenth century
-only at Bologna. It did not do so at Paris and Oxford until the
-second decade of the century. The standard handbooks on the history
-of the university in medieval Europe, [@rashdall_universities_1936]
-and [@ridder-symoens_universities_1992], are less helpful on this
-point than might be hoped.**
-
-    **Bologna:** "Bologna vies with Paris for the title of oldest
-    and most distinguished university of medieval Europe, but whereas
-    Paris was essentially a guild of masters, Bologna was in origin
-    an association of students. The *universitas scholarium* emerged
-    around 1190 as an organization of the non-Bolognese law students
-    resident in the city, and rapidly developed a complex constitution
-    rather like that of contemporary communes." [@hyde_bologna_1982,
-    311].
-
-    **Oxford:** "The origins of the university are shrouded in
-    obscurity." [@leader_oxford_1982, 320]. "Oxford probably developed
-    in the twelfth century out of an informal group of masters
-    teaching near St. Mary's Church. Among the first known masters
-    was Theobald of Étampes, who was lecturing before 1100 (ca.
-    1095) and continued until about 1125. This group of scholars
-    seems to have increased markedly following Henry II's prohibition
-    of foreign study in 1170, and by 1185 Gerald of Wales (Giraldus
-    Cambrensis) recorded that they were organized into several
-    faculties (*doctores diversarum facultatum*), which, although
-    likely an exaggeration, indicates there was a varied group of
-    scholars. This development is implied by several other late
-    twelfth-century authorities as well." [@leader_oxford_1982,
-    320]. "The university was first recognized as a legal corporation
-    by a legatine ordinance of 1214, ending a dispersal of the
-    university following a riot with the townsmen in 1209."
-    [@leader_oxford_1982, 320].
-
-    **Paris:** "The school of Notre Dame Cathedral on the Cité, and
-    the Abbey of St. Victor and the collegiate church of Ste.
-    Geneviève on the Left Bank of the Seine had already by the end
-    of the twelfth century attracted such famous masters as Hugh
-    of St. Victor, Peter Abelard, Stephen of Tournai, and Peter
-    Lombard. In 1180 Alexander Neckham was able to write of an
-    'honorable society of masters' who were teaching arts, theology,
-    canon law, and medicine, disciplines that would later form the
-    four faculties of the university. At this time, the right to
-    teach (*licentia docendi*) and therefore to become a master was
-    given out by the chancellor of the cathedral chapter of Notre
-    Dame." [@gabriel_paris_1982, 408]. "The masters organized
-    themselves into an association between 1180 and 1210, later
-    called *universitas magistrorum et discipulorum*, and both kings
-    and popes granted it protective privileges." [@gabriel_paris_1982,
-    408]. "In the beginning, Paris church officials opposed the
-    formation of this independent society, which claimed legal
-    status and its own seal. The papacy, however, sided with the
-    university. Rules regulating its operation, called 'statutes',
-    were granted in 1215 by Robert Courson, papal legate, and these
-    dealt specifically with curriculum and textbooks."
-    [@gabriel_paris_1982, 408].
-
-[^sfu3]: **You might also look at when the textbooks in medicine
-were rediscovered or written. A history of medieval medicine might
-give you an argument about the priority of medicine or law. (Stan
-Chodorow)**
-
-[^sfu4]: This distinction between old and new law comes from the
-preface of [Bernardus
-Papiensis](http://amesfoundation.law.harvard.edu/BioBibCanonists/Report_Biobib2.php?record_id=a061)
-(†1213) to his Breviary of *Extravagantia* or First Compilation,
-c.1191. [@somerville_prefaces_1998, 219, 230-231]
-
-[^sfu6]: "Four steps would seem to have been pre-eminently necessary
-to give to mere customary meetings of masters for the initiation
-of new members or similar purposes the character of a definite and
-legally recognized corporation: (1) the reduction of their unwritten
-customs to the form of written statutes or by-laws, (2) the recognition
-or (if authoritative recognition was unnecessary) the exercise of
-the right to sue and be sued as a corporation, (3) the appointment
-of permanent common officers, (4) the use of a common seal."
-[@rashdall_universities_1936, 299].
-
-    Medieval law knew no regular procedure for incorporation. Every
-    effort to form a corporation therefore involved an intensive
-    and frequently protracted effort to persuade the relevant
-    authority, whether pope, emperor, king or commune, to grant the
-    privilege. In addition, medieval legal thought tended to conceive
-    of rights rather more concretely than modern legal systems do.
-    Every right or privilege was thought of as coming at the expense
-    of some other right-holder, and therefore attempts by the early
-    universities to form corporations were contested by those,
-    usually local bishops, at whose expense the exclusive right to
-    confer a license to teach was being secured.
-
-    Although the right of a faculty or university to own property
-    might be considered necessary to realizing any aspirations
-    toward institutional permanence, in practice, academic corporations
-    avoided property ownership in the twelfth and thirteenth
-    centuries. Indeed, that fact that they tended to rent rather
-    than own the lands and buildings they used could become a
-    powerful weapon in the event of "town vs. gown" conflict,
-    allowing the university to credibly threaten to relocate
-    elsewhere, as the masters and students of Oxford did in 1209.
-    [@rashdall_universities_1936, 406].
-
-### School, Faculty, University (end)
+* * *
 
 The emergence of faculties of canon law in the second half of the
 twelfth century was a feature of a wider intellectual and social
@@ -283,12 +167,12 @@ of Roman law during the second and third decades of the twelfth
 century. The immediate impetus for the revival was the recovery of
 the great *libri legales* of the late Roman world, most important,
 because it provided the pattern for jurisprudence as a systematic
-intellectual activity, the *Digest* of Justinian.[^5] The twelfth-century
+intellectual activity, the *Digest* of Justinian.[^13] The twelfth-century
 revolution in legal science did not take place in a vacuum. It took
 place because of the emergence, especially in Italy, of an increasingly
 urban and commercial society with many moving parts. Such a society
 needed a correspondingly complex and sophisticated legal system,
-and, because it had much in common with the society of the ancient
+and, because it had much in common, both culturally and materially, with the society of the late
 Roman world, it was able to borrow extensively from Roman law.
 
 Gratian, in compiling the *Decretum*, solved a problem for the new
@@ -346,7 +230,7 @@ limited reception in the sixth century in those parts of Italy then
 under Byzantine control. However, it disappeared from view around
 the beginning of the seventh century. The last known reference to
 the *Digest* in the Latin-speaking and -writing West is found in a
-letter of pope Gregory I in 603.[^6]
+letter of pope Gregory I in 603.[^14]
 
 What was new in Italy from the late eleventh century on was the
 revival of the study and application of Roman law as codified in
@@ -355,7 +239,7 @@ the *Corpus iuris civilis* of Justinian: the *Institutes*, the
 from Greek into Latin in the form of the *Authenticum*. The first
 documentary evidence for this revival is a reference to the *Digest*
 found in the *Marturi placitum*, the record of a court case held
-in 1076 in present-day Poggibonsi in Tuscany.[^7]
+in 1076 in present-day Poggibonsi in Tuscany.[^15]
 
 Because of the title *Corpus iuris civilis*, "the body of civil
 law," Roman law was also referred to as civil law, and students,
@@ -364,9 +248,9 @@ civilians. Gratian, following Isidore of Seville (†636), used a
 much older definition: "*Ius civile est, quod quisque populus vel
 civitas sibi proprium divina humanaque causa constituit* (Civil law
 is what each people and each commonwealth establishes as its own
-law for divine or human reasons)."[^8] Gratian, again following
+law for divine or human reasons)."[^16] Gratian, again following
 Isidore, referred to Roman law as the law of the Quirites (*Ius
-Quiritum*).[^9]
+Quiritum*).[^17]
 
 The scholarly consensus that the teaching of Roman and canon law
 were going concerns in Bologna by around 1110 and 1130 respectively
@@ -384,7 +268,7 @@ Anders Winroth is by far the more consequential dissenter from the
 consensus. He draws attention to the underdeveloped way in which
 Gratian uses Justinianic Roman law in what Winroth calls the first
 recension, the earliest version of the *Decretum* to survive in
-more than one manuscript.[^11]
+more than one manuscript.[^19]
 
 There are only three places in the first recension of the *Decretum*
 that incorporate material taken directly from Justinianic Roman law
@@ -415,7 +299,7 @@ Roman law concepts and vocabulary as a part of his argument in the
 *dicta* and does so more or less correctly in Winroth's judgment.
 This is significant from Winroth's point of view, because it
 demonstrates that Gratian did not have an ideological objection to
-the use of Roman law, as Vetulani and Chodorow argued.[^15] Rather,
+the use of Roman law, as Vetulani and Chodorow argued.[^23] Rather,
 Winroth argues that where Gratian either failed to use Roman law,
 or used it incorrectly, it was because he lacked the knowledge to
 do so.[@winroth_making_2000, 151-153]
@@ -437,17 +321,17 @@ donkey is dead, so I am going to law school"--- to the 1180s rather
 than the 1120s. But it is extremely difficult to imagine that a
 letter that shows no apparent awareness that either civil (Roman)
 or canon law were being taught in Bologna can have been written in
-the 1180s.[^17]
+the 1180s.[^25]
 
 Kenneth Pennington has pointed to the *Authentica Habita* (1155/1158)
 issued by the emperor Frederick I (†1190), which has traditionally
 been taken as extending imperial protection to the law school of
-Bologna, its faculty, and its students.[^18] Pennington makes the
+Bologna, its faculty, and its students.[^26] Pennington makes the
 common-sense point that a privilege like this is unlikely to have
 been granted to an institution just getting off the
 ground.[@pennington_short_2002, 17] Winroth counter-argues that the
 privilege mentions neither Bologna nor those involved in legal
-studies specifically.[^20]
+studies specifically.[^28]
 
 The main point to take away from this discussion is that while I
 agree with the consensus that the teaching of Roman and canon law
@@ -477,17 +361,17 @@ brought the story of Mengho to the attention of medieval legal
 historians, and it remains well known today, precisely because
 Kantorowicz considered it a textbook example of inquisitorial (as
 opposed to adversarial) procedure under the *ordo iudiciarius*
-derived from Roman law.[^21]
+derived from Roman law.[^29]
 
 The fact that Mengho was tortured and executed was not the point
 of the story for Kantorowicz, but it is for us. In the twenty-first
 century, the story of Mengho is brought up to make a particular
 point. There is a powerful scholarly tradition going back at least
-to Charles Homer Haskins (1927) of presenting the revolution in
+to Charles Homer Haskins of presenting the revolution in
 legal science as an intellectual triumph that took place in the
-classroom. All revolutions, including the revolution in legal
+classroom.[@haskins_renaissance_1927] All revolutions, including the revolution in legal
 science, have winners and losers, and some of the losers we do not
-feel very sorry for.[^22] But what happened in the classroom
+feel very sorry for.[^31] But what happened in the classroom
 ultimately had consequences in the courtroom, consequences that
 were enacted on the rights and property, on the bodies and lives,
 of women and men in the real world.
@@ -507,13 +391,13 @@ of women and men in the real world.
     Gt, Pf, and Tr indicate that the *Decretum* has two parts; Bl,
     Mt, Po, Ro, and Sl indicate that it has three. The earliest
     version of the *Decretum* to survive in more than one manuscript
-    (R1) has two parts, while the most widely circulated version
-    (R2) has three. Part III of the *Decretum* (*de Consecratione*)
+    (the first recension) has two parts, while the most widely circulated version
+    (the second recension) has three. Part III of the *Decretum* (*de Consecratione*)
     is outside the scope of this project, the intent of which is
-    to compare the earliest (R1) version with the most widely
-    circulated (R2) version for the purpose of determining authorship
+    to compare the earliest (first-recension) version with the most widely
+    circulated (second-recension) version for the purpose of determining authorship
     of those parts of the text traditionally attributed to Gratian
-    himself. Part III is not found in R1, therefore direct comparison
+    himself. Part III is not found in the first recension, therefore direct comparison
     is not possible. In any event the class of text traditionally
     attributed to Gratian personally (the sayings or *dicta*) are
     absent from Part III. Therefore, it is not subject to comparative
@@ -553,7 +437,124 @@ of women and men in the real world.
     Early Modern Jurists hosted by the Ames Foundation at Harvard
     University.
 
-[^5]: The Digest was not recovered all at once, but in three parts:
+[^4]: Gratian provided at minimum the outline for second part
+of the *Decretum*. How closely the logic and arguments of the *dicta*
+follow Gratian's classroom presentation, as opposed to being the
+student's own, cannot be determined using statistical authorship
+attribution methods.
+
+[^5]: For example, see [@southern_scholastic_1995, 310-318], for a discussion
+of the role that material and political conditions played in the
+rise of Bologna and Paris as major academic centers.
+
+[^6]: "By the first decade of the thirteenth century the private
+schools of canon law had become part of the corporate structure of
+the universities in all three places [Bologna, Paris, and Oxford]."
+[@brundage_teaching_2008, 98-99]. Brundage here somewhat overstates
+the degree of institutional evolution the proto-universities had
+attained at this time. The corporate structure of the university
+had fully emerged by the first decade of the thirteenth century
+only at Bologna. It did not do so at Paris and Oxford until the
+second decade of the century. The standard handbooks on the history
+of the university in medieval Europe, [@rashdall_universities_1936]
+and [@ridder-symoens_universities_1992], are less helpful on this
+point than might be hoped.
+
+    **Bologna:** "Bologna vies with Paris for the title of oldest
+    and most distinguished university of medieval Europe, but whereas
+    Paris was essentially a guild of masters, Bologna was in origin
+    an association of students. The *universitas scholarium* emerged
+    around 1190 as an organization of the non-Bolognese law students
+    resident in the city, and rapidly developed a complex constitution
+    rather like that of contemporary communes." [@hyde_bologna_1982,
+    311].
+
+    **Oxford:** "The origins of the university are shrouded in
+    obscurity." [@leader_oxford_1982, 320]. "Oxford probably developed
+    in the twelfth century out of an informal group of masters
+    teaching near St. Mary's Church. Among the first known masters
+    was Theobald of Étampes, who was lecturing before 1100 (ca.
+    1095) and continued until about 1125. This group of scholars
+    seems to have increased markedly following Henry II's prohibition
+    of foreign study in 1170, and by 1185 Gerald of Wales (Giraldus
+    Cambrensis) recorded that they were organized into several
+    faculties (*doctores diversarum facultatum*), which, although
+    likely an exaggeration, indicates there was a varied group of
+    scholars. This development is implied by several other late
+    twelfth-century authorities as well." [@leader_oxford_1982,
+    320]. "The university was first recognized as a legal corporation
+    by a legatine ordinance of 1214, ending a dispersal of the
+    university following a riot with the townsmen in 1209."
+    [@leader_oxford_1982, 320].
+
+    **Paris:** "The school of Notre Dame Cathedral on the Cité, and
+    the Abbey of St. Victor and the collegiate church of Ste.
+    Geneviève on the Left Bank of the Seine had already by the end
+    of the twelfth century attracted such famous masters as Hugh
+    of St. Victor, Peter Abelard, Stephen of Tournai, and Peter
+    Lombard. In 1180 Alexander Neckham was able to write of an
+    'honorable society of masters' who were teaching arts, theology,
+    canon law, and medicine, disciplines that would later form the
+    four faculties of the university. At this time, the right to
+    teach (*licentia docendi*) and therefore to become a master was
+    given out by the chancellor of the cathedral chapter of Notre
+    Dame." [@gabriel_paris_1982, 408]. "The masters organized
+    themselves into an association between 1180 and 1210, later
+    called *universitas magistrorum et discipulorum*, and both kings
+    and popes granted it protective privileges." [@gabriel_paris_1982,
+    408]. "In the beginning, Paris church officials opposed the
+    formation of this independent society, which claimed legal
+    status and its own seal. The papacy, however, sided with the
+    university. Rules regulating its operation, called 'statutes',
+    were granted in 1215 by Robert Courson, papal legate, and these
+    dealt specifically with curriculum and textbooks."
+    [@gabriel_paris_1982, 408].
+
+[^7]: **You might also look at when the textbooks in medicine
+were rediscovered or written. A history of medieval medicine might
+give you an argument about the priority of medicine or law. (Stan
+Chodorow)**
+
+[^8]: This distinction between old and new law comes from the
+preface of [Bernardus
+Papiensis](http://amesfoundation.law.harvard.edu/BioBibCanonists/Report_Biobib2.php?record_id=a061)
+(†1213) to his Breviary of *Extravagantia* or First Compilation,
+c.1191. [@somerville_prefaces_1998, 219, 230-231]
+
+[^10]: "Four steps would seem to have been pre-eminently necessary
+to give to mere customary meetings of masters for the initiation
+of new members or similar purposes the character of a definite and
+legally recognized corporation: (1) the reduction of their unwritten
+customs to the form of written statutes or by-laws, (2) the recognition
+or (if authoritative recognition was unnecessary) the exercise of
+the right to sue and be sued as a corporation, (3) the appointment
+of permanent common officers, (4) the use of a common seal."
+[@rashdall_universities_1936, 299].
+
+    Medieval law knew no regular procedure for incorporation. Every
+    effort to form a corporation therefore involved an intensive
+    and frequently protracted effort to persuade the relevant
+    authority, whether pope, emperor, king or commune, to grant the
+    privilege. In addition, medieval legal thought tended to conceive
+    of rights rather more concretely than modern legal systems do.
+    Every right or privilege was thought of as coming at the expense
+    of some other right-holder, and therefore attempts by the early
+    universities to form corporations were contested by those,
+    usually local bishops, at whose expense the exclusive right to
+    confer a license to teach was being secured.
+
+    Although the right of a faculty or university to own property
+    might be considered necessary to realizing any aspirations
+    toward institutional permanence, in practice, academic corporations
+    avoided property ownership in the twelfth and thirteenth
+    centuries. Indeed, that fact that they tended to rent rather
+    than own the lands and buildings they used could become a
+    powerful weapon in the event of "town vs. gown" conflict,
+    allowing the university to credibly threaten to relocate
+    elsewhere, as the masters and students of Oxford did in 1209.
+    [@rashdall_universities_1936, 406].
+
+[^13]: The Digest was not recovered all at once, but in three parts:
     the *Digestum vetus* (Dig. 1.1-24.2), the *Infortiatum* (Dig.
     24.3-38.17), and the *Digestum novum* (Dig. 39.1-50.17).
     [@bellomo_common_1995, 62-63]. [@muller_recovery_1990, 1-29].
@@ -567,13 +568,13 @@ of women and men in the real world.
     as the basis for the eleventh- and twelfth-century recovery of
     the *Digest* in [@corbino_pandectarum_1988].
 
-[^6]: The reference is to Dig. 48.4.7.3. "XIII, 49 Iohanni defensori
+[^14]: The reference is to Dig. 48.4.7.3. "XIII, 49 Iohanni defensori
     exempla legum tradit, secundum quas iudicet" in
     [@norberg_registrum_1982, 1058-1064]. Translated as "13.49
     Gregory to John, his defender, going to Spain. An example of a
     law," August 603, in [@martyn_letters_2004, 863-866].
 
-[^7]: [@manaresi_placiti_1955, 333-335]. (no. 437) The *Marturi
+[^15]: [@manaresi_placiti_1955, 333-335]. (no. 437) The *Marturi
     placitum* does not explicitly identify the passage in the
     *Digest* to which the citation refers, but the fact that the
     legal principle being invoked is *restitutio in integrum* is
@@ -599,37 +600,33 @@ of women and men in the real world.
     in
     Translation](http://www.wtamu.edu/academics/order-in-the-court.aspx).)
 
-[^8]: D.1, c.8. *Decretum Gratiani*, First Recension, edition in
+[^16]: D.1, c.8. *Decretum Gratiani*, First Recension, edition in
     progress. Anders Winroth, 3/21/2017, 2. English translation
     from [@thompson_treatise_1993, 7].
 
-[^9]: D.1, c.12. *Decretum Gratiani*, First Recension, edition in
+[^17]: D.1, c.12. *Decretum Gratiani*, First Recension, edition in
     progress. Anders Winroth, 3/21/2017, 3.
 
-[^11]: **Defined so as to sidestep (for now) the controversy over
+[^19]: **Defined so as to sidestep (for now) the controversy over
 Sg.**
 
-[^15]: Chodorow explains Gratian's "deletion" of Roman law as a
+[^23]: Chodorow explains Gratian's "deletion" of Roman law as a
     consequence of what he sees as Gratian's adherence to the party
     of the papal chancellor Haimeric and proponents of the Concordat
     of Worms (1122). [@chodorow_ecclesiology_1972, 60-63] **Extend
     footnote to include views of Vetulani.**
 
-[^17]: [@winroth_schools_2009, 1060] For the text of the letter,
+[^25]: [@winroth_schools_2009, 1060] For the text of the letter,
     see [@dufour_attrait_1979] For an English translation of the
     letter, see Anonymous, Letter to Abbot B[ernard III] of
     Saint-Victor, Marseille (1124/27) in [@jansen_roman_2009,
     167-172].
 
-[^18]: "[O]mnibus, qui causa studiorum peregrinantur, scolaribus
+[^26]: "[O]mnibus, qui causa studiorum peregrinantur, scolaribus
     et maxime divinarum atque sacrarum legum professoribus hoc
     nostre pietatis beneficium indulgemus, ut ad loca, in quibus
     litterarum exercentur studium, tam ipsi quam eorum nuntii veniant
-    et habitent in eis securi." Heinrich Appelt with Rainer Maria
-    Herkenrath, and Walter Koch, eds., *Friderici I. Diplomata inde
-    ab a. MCLVIII usque ad a. MCLXVII*, vol. 10/2, MGH DD F I
-    (Hannover: Hahn, 1979), 39. **Regenerate footnote from Zotero,
-    BibTeX, and Pandoc.** [@appelt_urkunden_1979, 39]. "[W]e bestow
+    et habitent in eis securi." [@appelt_urkunden_1979, 39]. "[W]e bestow
     this pious gift upon all who travel for the purpose of study,
     students and especially teachers of divine and sacred laws:
     namely, that they as well as their messengers may travel safely
@@ -660,7 +657,7 @@ Sg.**
     not take anything away from the validity of the point Pennington
     is making.
 
-[^20]: It is true that *Authentica Habita* does not mention Bologna
+[^28]: It is true that *Authentica Habita* does not mention Bologna
     explicitly, but instead refers to "the place where they are
     engaged in the study of letters." But *Authentica Habita* does
     specifically mention "students and especially teachers of divine
@@ -674,10 +671,10 @@ Sg.**
     Twelfth Century" has since been superseded by "Law Schools in
     the Twelfth Century," which does not mention *Authentica Habita*.
 
-[^21]: [@kantorowicz_albertus_1907, 203-218] See also
+[^29]: [@kantorowicz_albertus_1907, 203-218] See also
     [@pennington_procedure_2004].
 
-[^22]: R.I. Moore observes that the establishment of the new order
+[^31]: R.I. Moore observes that the establishment of the new order
     brought about by the legal revolution "required another change,
     no less profound: the replacement of warriors by literate clerks
     as the agents of government and the confidants of princes."
