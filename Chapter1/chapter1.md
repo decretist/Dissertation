@@ -68,11 +68,11 @@ A textbook that circulates widely enough becomes a *de facto*
 standard, and classes taught from it, by whomever, become likewise
 standardized. The *Decretum*, and classes taught from it or its
 abbreviations, attained the status of *de facto* standards across
-much of Europe very quickly---within the two decades between 1140 and 1160. I believe that
-the new evidence previewed in the introduction above suggests that
-while we owe the intellectual substance of at least the first
-recension of the *Decretum* to Gratian, we owe the words in which
-that substance was expressed to his students.[^4]
+much of Europe very quickly---within the two decades between 1140
+and 1160. I believe that the new evidence previewed in the introduction
+above suggests that while we owe the intellectual substance of at
+least the first recension of the *Decretum* to Gratian, we owe the
+words in which that substance was expressed to his students.[^4]
 
 The compilation and circulation of the *Decretum* led directly to
 the formation of faculties of canon law across Europe. Faculties
@@ -89,29 +89,29 @@ shoes, the most important product of the masters of the faculty of
 canon law was, at least in the first generation, the next generation
 of masters of the faculty of canon law. The distinctive innovation
 of the faculty was the conferring of credentials or qualifications
-(to call them degrees is perhaps anachronistic) on students who completed a
-prescribed sequence of standardized courses, defined in such a way
-that the requirements for completion for students coincided with
-those for admission to teaching. The faculty was a crucial intermediate
-stage in the institutional evolution from school to university, one
-that has been obscured by the retrospective myth-making of famous
-universities, which, once established, sought to enhance the lustre
-of their names by projecting their origins as far as possible into
-the past.[^6] It is perhaps going too far to claim that the
-*Decretum* was the textbook that created the university. It is not,
-however, going too far to recognize that its existence was a necessary
-precondition for the emergence of the faculty of canon law, just
-as the existence of Peter Lombard's *Sentences* was a necessary
-precondition for the emergence after 1160 of the faculty of
-theology.
+(to call them degrees is perhaps anachronistic) on students who
+completed a prescribed sequence of standardized courses, defined
+in such a way that the requirements for completion for students
+coincided with those for admission to teaching. The faculty was a
+crucial intermediate stage in the institutional evolution from
+school to university, one that has been obscured by the retrospective
+myth-making of famous universities, which, once established, sought
+to enhance the lustre of their names by projecting their origins
+as far as possible into the past.[^6] It is perhaps going too far
+to claim that the *Decretum* was the textbook that created the
+university. It is not, however, going too far to recognize that its
+existence was a necessary precondition for the emergence of the
+faculty of canon law, just as the existence of Peter Lombard's
+*Sentences* was a necessary precondition for the emergence after
+1160 of the faculty of theology.
 
 In the first decades of the thirteenth century, both the faculties
 of canon law and the *Decretum* settled into their permanent places
 in the organization of medieval academic life, as the faculties of
-canon law joined with other faculties (such as those of arts and theology)
-to form the corporate university, while the focus of legal scholarship
-in canon law gradually shifted from the "old law" of Gratian to the
-"new law" of papal decretals.[^7]
+canon law joined with other faculties (such as those of arts and
+theology) to form the corporate university, while the focus of legal
+scholarship in canon law gradually shifted from the "old law" of
+Gratian to the "new law" of papal decretals.[^7]
 
 Recent complaints about the corporatization of the university
 notwithstanding, *universitas* means corporation.[@verger_patterns_1992,
@@ -128,9 +128,9 @@ self-governance was the right of a cathedral chapter to elect a
 bishop. For an academic faculty, the exercise of the right of
 corporate self-governance took the particular form of determining
 qualifications for teaching, something often contested by the local
-bishop.[^9] The incorporation of one or more faculties as a
-university provided a form of organization well-adapted for achieving
-both permanence and independence from local ecclesiastical authority
+bishop.[^9] The incorporation of one or more faculties as a university
+provided a form of organization well-adapted for achieving both
+permanence and independence from local ecclesiastical authority
 through the accumulation of legal rights and privileges. The faculties
 ensured their long-term survival by incorporating within the larger
 university.
@@ -167,13 +167,14 @@ of Roman law during the second and third decades of the twelfth
 century. The immediate impetus for the revival was the recovery of
 the great *libri legales* of the late Roman world, most important,
 because it provided the pattern for jurisprudence as a systematic
-intellectual activity, the *Digest* of Justinian.[^12] The twelfth-century
-revolution in legal science did not take place in a vacuum. It took
-place because of the emergence, especially in Italy, of an increasingly
-urban and commercial society with many moving parts. Such a society
-needed a correspondingly complex and sophisticated legal system,
-and, because it had much in common, both culturally and materially, with the society of the late
-Roman world, it was able to borrow extensively from Roman law.
+intellectual activity, the *Digest* of Justinian.[^12] The
+twelfth-century revolution in legal science did not take place in
+a vacuum. It took place because of the emergence, especially in
+Italy, of an increasingly urban and commercial society with many
+moving parts. Such a society needed a correspondingly complex and
+sophisticated legal system, and, because it had much in common,
+both culturally and materially, with the society of the late Roman
+world, it was able to borrow extensively from Roman law.
 
 Gratian, in compiling the *Decretum*, solved a problem for the new
 academic discipline of canon law that his counterparts teaching
@@ -367,45 +368,45 @@ The fact that Mengho was tortured and executed was not the point
 of the story for Kantorowicz, but it is for us. In the twenty-first
 century, the story of Mengho is brought up to make a particular
 point. There is a powerful scholarly tradition going back at least
-to Charles Homer Haskins of presenting the revolution in
-legal science as an intellectual triumph that took place in the
-classroom.[@haskins_renaissance_1927] All revolutions, including the revolution in legal
-science, have winners and losers, and some of the losers we do not
-feel very sorry for.[^29] But what happened in the classroom
-ultimately had consequences in the courtroom, consequences that
-were enacted on the rights and property, on the bodies and lives,
-of women and men in the real world.
+to Charles Homer Haskins of presenting the revolution in legal
+science as an intellectual triumph that took place in the
+classroom.[@haskins_renaissance_1927] All revolutions, including
+the revolution in legal science, have winners and losers, and some
+of the losers we do not feel very sorry for.[^29] But what happened
+in the classroom ultimately had consequences in the courtroom,
+consequences that were enacted on the rights and property, on the
+bodies and lives, of women and men in the real world.
 
 [^1]: Eight early manuscripts contain the gloss: "*Concordia
-    discordantium canonum iuxta determinationem Gratiani episcopi
-    quae in duas partes principaliter est divisa* (The agreement
-    of disagreeing canons according to the determination of Bishop
-    Gratian, which is principally divided into two parts.)" See
-    below concerning whether, where, and when Gratian served as a
-    bishop. Bl = Baltimore, Walters Art Gallery 777; Gt = Ghent,
-    Bibl. der Rijksuniversiteit 55; Mt = Montecassino, Bibl. Abbaziale
-    66; Pf = Paris, Bibl. Nationale lat. 3884 I and II; Po =
-    Pommersfelden, Bibl. des Grafen Schönborn 142 (2744); Ro =
-    Rouen, Bibl. municipale E 21 (707); Sl = St. Paul im Lavant,
-    Stiftsbibl. 25/1 (XXV.2.6); Tr = Trier, Stadtbibl. 906 (1141).
-    Gt, Pf, and Tr indicate that the *Decretum* has two parts; Bl,
-    Mt, Po, Ro, and Sl indicate that it has three. The earliest
-    version of the *Decretum* to survive in more than one manuscript
-    (the first recension) has two parts, while the most widely circulated version
-    (the second recension) has three. Part III of the *Decretum* (*de Consecratione*)
-    is outside the scope of this project, the intent of which is
-    to compare the earliest (first-recension) version with the most widely
-    circulated (second-recension) version for the purpose of determining authorship
-    of those parts of the text traditionally attributed to Gratian
-    himself. Part III is not found in the first recension, therefore direct comparison
-    is not possible. In any event the class of text traditionally
-    attributed to Gratian personally (the sayings or *dicta*) are
-    absent from Part III. Therefore, it is not subject to comparative
-    analysis using the techniques available for examining Parts I
-    and II. [@noonan_gratian_1979, 154] Noonan lists Mazarine 1289
-    (possibly a typo for Pm = Paris, Bibl. Mazarine 1287?) in place
-    of Sl. [@weigand_kanonisten_1990]. [@pennington_biography_2014,
-    698-700], supplements Noonan's discussion of these eight glosses.
+discordantium canonum iuxta determinationem Gratiani episcopi quae
+in duas partes principaliter est divisa* (The agreement of disagreeing
+canons according to the determination of Bishop Gratian, which is
+principally divided into two parts.)" See below concerning whether,
+where, and when Gratian served as a bishop. Bl = Baltimore, Walters
+Art Gallery 777; Gt = Ghent, Bibl. der Rijksuniversiteit 55; Mt =
+Montecassino, Bibl. Abbaziale 66; Pf = Paris, Bibl. Nationale lat.
+3884 I and II; Po = Pommersfelden, Bibl. des Grafen Schönborn 142
+(2744); Ro = Rouen, Bibl. municipale E 21 (707); Sl = St. Paul im
+Lavant, Stiftsbibl. 25/1 (XXV.2.6); Tr = Trier, Stadtbibl. 906
+(1141). Gt, Pf, and Tr indicate that the *Decretum* has two parts;
+Bl, Mt, Po, Ro, and Sl indicate that it has three. The earliest
+version of the *Decretum* to survive in more than one manuscript
+(the first recension) has two parts, while the most widely circulated
+version (the second recension) has three. Part III of the *Decretum*
+(*de Consecratione*) is outside the scope of this project, the
+intent of which is to compare the earliest (first-recension) version
+with the most widely circulated (second-recension) version for the
+purpose of determining authorship of those parts of the text
+traditionally attributed to Gratian himself. Part III is not found
+in the first recension, therefore direct comparison is not possible.
+In any event the class of text traditionally attributed to Gratian
+personally (the sayings or *dicta*) are absent from Part III.
+Therefore, it is not subject to comparative analysis using the
+techniques available for examining Parts I and II. [@noonan_gratian_1979,
+154] Noonan lists Mazarine 1289 (possibly a typo for Pm = Paris,
+Bibl. Mazarine 1287?) in place of Sl. [@weigand_kanonisten_1990].
+[@pennington_biography_2014, 698-700], supplements Noonan's discussion
+of these eight glosses.
 
     The author of the preface to the *Summa Parisiensis* incorrectly
     thought that Gratian himself had given the collection the title
@@ -420,32 +421,31 @@ of women and men in the real world.
     English translation from [@somerville_prefaces_1998, 201].
 
 [^2]: The manuscript is Vat. Lat. 4030. [@duvernoy_registre_1965]
-    See also [Inquisition Records of Jacques
-    Fournier](http://www.sjsu.edu/people/nancy.stork/jacquesfournier/) ("An
-    on-going English translation of the Inquisition Records of
-    Jacques Fournier, Bishop of Pamiers, France, 1318-1325") by
-    Nancy P. Stork (SJSU).
+See also [Inquisition Records of Jacques
+Fournier](http://www.sjsu.edu/people/nancy.stork/jacquesfournier/) ("An
+on-going English translation of the Inquisition Records of Jacques
+Fournier, Bishop of Pamiers, France, 1318-1325") by Nancy P. Stork
+(SJSU).
 
 [^3]: "My listing of more than 600 manuscripts containing the
-    *Decretum* will appear in Kenneth Pennington and Wilfried
-    Hartmann, eds., *History of Medieval Canon Law*, 11."
-    [@winroth_making_2000, 122n2] This list has never made it into
-    print to my knowledge. For a reasonably complete and current
-    list, see the entry for
-    [Gratian](http://amesfoundation.law.harvard.edu/BioBibCanonists/Report_Biobib2.php?record_id=a242)
-    in Kenneth Pennington's Bio-Bibliographical Guide to Medieval and
-    Early Modern Jurists hosted by the Ames Foundation at Harvard
-    University.
+*Decretum* will appear in Kenneth Pennington and Wilfried Hartmann,
+eds., *History of Medieval Canon Law*, 11." [@winroth_making_2000,
+122n2] This list has never made it into print to my knowledge. For
+a reasonably complete and current list, see the entry for
+[Gratian](http://amesfoundation.law.harvard.edu/BioBibCanonists/Report_Biobib2.php?record_id=a242)
+in Kenneth Pennington's Bio-Bibliographical Guide to Medieval and
+Early Modern Jurists hosted by the Ames Foundation at Harvard
+University.
 
-[^4]: Gratian provided at minimum the outline for second part
-of the *Decretum*. How closely the logic and arguments of the *dicta*
+[^4]: Gratian provided at minimum the outline for second part of
+the *Decretum*. How closely the logic and arguments of the *dicta*
 follow Gratian's classroom presentation, as opposed to being the
 student's own, cannot be determined using statistical authorship
 attribution methods.
 
-[^5]: For example, see [@southern_scholastic_1995, 310-318], for a discussion
-of the role that material and political conditions played in the
-rise of Bologna and Paris as major academic centers.
+[^5]: For example, see [@southern_scholastic_1995, 310-318], for a
+discussion of the role that material and political conditions played
+in the rise of Bologna and Paris as major academic centers.
 
 [^6]: "By the first decade of the thirteenth century the private
 schools of canon law had become part of the corporate structure of
@@ -460,8 +460,8 @@ of the university in medieval Europe, [@rashdall_universities_1936]
 and [@ridder-symoens_universities_1992], are less helpful on this
 point than might be hoped.
 
-    Bologna: "Bologna vies with Paris for the title of oldest
-    and most distinguished university of medieval Europe, but whereas
+    Bologna: "Bologna vies with Paris for the title of oldest and
+    most distinguished university of medieval Europe, but whereas
     Paris was essentially a guild of masters, Bologna was in origin
     an association of students. The *universitas scholarium* emerged
     around 1190 as an organization of the non-Bolognese law students
@@ -469,14 +469,14 @@ point than might be hoped.
     rather like that of contemporary communes." [@hyde_bologna_1982,
     311].
 
-    Oxford: "The origins of the university are shrouded in
-    obscurity." [@leader_oxford_1982, 320]. "Oxford probably developed
-    in the twelfth century out of an informal group of masters
-    teaching near St. Mary's Church. Among the first known masters
-    was Theobald of Étampes, who was lecturing before 1100 (ca.
-    1095) and continued until about 1125. This group of scholars
-    seems to have increased markedly following Henry II's prohibition
-    of foreign study in 1170, and by 1185 Gerald of Wales (Giraldus
+    Oxford: "The origins of the university are shrouded in obscurity."
+    [@leader_oxford_1982, 320]. "Oxford probably developed in the
+    twelfth century out of an informal group of masters teaching
+    near St. Mary's Church. Among the first known masters was
+    Theobald of Étampes, who was lecturing before 1100 (ca. 1095)
+    and continued until about 1125. This group of scholars seems
+    to have increased markedly following Henry II's prohibition of
+    foreign study in 1170, and by 1185 Gerald of Wales (Giraldus
     Cambrensis) recorded that they were organized into several
     faculties (*doctores diversarum facultatum*), which, although
     likely an exaggeration, indicates there was a varied group of
@@ -487,21 +487,21 @@ point than might be hoped.
     university following a riot with the townsmen in 1209."
     [@leader_oxford_1982, 320].
 
-    Paris: "The school of Notre Dame Cathedral on the Cité, and
-    the Abbey of St. Victor and the collegiate church of Ste.
-    Geneviève on the Left Bank of the Seine had already by the end
-    of the twelfth century attracted such famous masters as Hugh
-    of St. Victor, Peter Abelard, Stephen of Tournai, and Peter
-    Lombard. In 1180 Alexander Neckham was able to write of an
-    'honorable society of masters' who were teaching arts, theology,
-    canon law, and medicine, disciplines that would later form the
-    four faculties of the university. At this time, the right to
-    teach (*licentia docendi*) and therefore to become a master was
-    given out by the chancellor of the cathedral chapter of Notre
-    Dame." [@gabriel_paris_1982, 408]. "The masters organized
-    themselves into an association between 1180 and 1210, later
-    called *universitas magistrorum et discipulorum*, and both kings
-    and popes granted it protective privileges." [@gabriel_paris_1982,
+    Paris: "The school of Notre Dame Cathedral on the Cité, and the
+    Abbey of St. Victor and the collegiate church of Ste. Geneviève
+    on the Left Bank of the Seine had already by the end of the
+    twelfth century attracted such famous masters as Hugh of St.
+    Victor, Peter Abelard, Stephen of Tournai, and Peter Lombard.
+    In 1180 Alexander Neckham was able to write of an 'honorable
+    society of masters' who were teaching arts, theology, canon
+    law, and medicine, disciplines that would later form the four
+    faculties of the university. At this time, the right to teach
+    (*licentia docendi*) and therefore to become a master was given
+    out by the chancellor of the cathedral chapter of Notre Dame."
+    [@gabriel_paris_1982, 408]. "The masters organized themselves
+    into an association between 1180 and 1210, later called
+    *universitas magistrorum et discipulorum*, and both kings and
+    popes granted it protective privileges." [@gabriel_paris_1982,
     408]. "In the beginning, Paris church officials opposed the
     formation of this independent society, which claimed legal
     status and its own seal. The papacy, however, sided with the
@@ -510,8 +510,8 @@ point than might be hoped.
     dealt specifically with curriculum and textbooks."
     [@gabriel_paris_1982, 408].
 
-[^7]: This distinction between old and new law comes from the
-preface of [Bernardus
+[^7]: This distinction between old and new law comes from the preface
+of [Bernardus
 Papiensis](http://amesfoundation.law.harvard.edu/BioBibCanonists/Report_Biobib2.php?record_id=a061)
 (†1213) to his Breviary of *Extravagantia* or First Compilation,
 c.1191. [@somerville_prefaces_1998, 219, 230-231]
@@ -550,79 +550,75 @@ of permanent common officers, (4) the use of a common seal."
     [@rashdall_universities_1936, 406].
 
 [^12]: The Digest was not recovered all at once, but in three parts:
-    the *Digestum vetus* (Dig. 1.1-24.2), the *Infortiatum* (Dig.
-    24.3-38.17), and the *Digestum novum* (Dig. 39.1-50.17).
-    [@bellomo_common_1995, 62-63]. [@muller_recovery_1990, 1-29].
-    [@hoeflich_establishment_2008, 5]. The standard modern edition
-    of the *Digest* can be found in [@kruger_corpus_1928]. There
-    is a recent English translation of the *Digest* in
-    [@watson_digest_1985]. [See review in [@donahue_translating_1987].]
-    There is an excellent facsimile edition of the *Codex Florentinus*
-    (Firenze, Biblioteca Laurenziana, *sine numero*), the sixth-
-    or seventh-century manuscript that served at least indirectly
-    as the basis for the eleventh- and twelfth-century recovery of
-    the *Digest* in [@corbino_pandectarum_1988].
+the *Digestum vetus* (Dig. 1.1-24.2), the *Infortiatum* (Dig.
+24.3-38.17), and the *Digestum novum* (Dig. 39.1-50.17).
+[@bellomo_common_1995, 62-63]. [@muller_recovery_1990, 1-29].
+[@hoeflich_establishment_2008, 5]. The standard modern edition of
+the *Digest* can be found in [@kruger_corpus_1928]. There is a
+recent English translation of the *Digest* in [@watson_digest_1985].
+[See review in [@donahue_translating_1987].] There is an excellent
+facsimile edition of the *Codex Florentinus* (Firenze, Biblioteca
+Laurenziana, *sine numero*), the sixth- or seventh-century manuscript
+that served at least indirectly as the basis for the eleventh- and
+twelfth-century recovery of the *Digest* in [@corbino_pandectarum_1988].
 
 [^13]: The reference is to Dig. 48.4.7.3. "XIII, 49 Iohanni defensori
-    exempla legum tradit, secundum quas iudicet" in
-    [@norberg_registrum_1982, 1058-1064]. Translated as "13.49
-    Gregory to John, his defender, going to Spain. An example of a
-    law," August 603, in [@martyn_letters_2004, 863-866].
+exempla legum tradit, secundum quas iudicet" in [@norberg_registrum_1982,
+1058-1064]. Translated as "13.49 Gregory to John, his defender,
+going to Spain. An example of a law," August 603, in [@martyn_letters_2004,
+863-866].
 
 [^14]: [@manaresi_placiti_1955, 333-335]. (no. 437) The *Marturi
-    placitum* does not explicitly identify the passage in the
-    *Digest* to which the citation refers, but the fact that the
-    legal principle being invoked is *restitutio in integrum* is
-    by itself sufficient to narrow it down to *Dig*. 4. Radding and
-    Ciaralli identify the passage as *Dig*. 4.6.26.4 (with some
-    wording borrowed from *Dig*. 4.1.5). [@radding_corpus_2007,
-    183-184]. Nordillus, the judge, decided the case "*lege Digestorum
-    libris inserta considerata* (after he considered the law inserted
-    into the books of the *Digest*)" [translation suggested by Atria
-    Larson]. The translation turns on the interpretation of the
-    participial adjective *inserta*. "I think the straight-up
-    'inserted' makes sense here. The writer would seem to be noticing
-    that the Digest is not itself *lex* but includes commentary on
-    the *lex*, the written law, and refers to and inserts many
-    elements of *lex* throughout." (Atria Larson, email to Paul
-    Evans, July 21, 2017.) The alternative is to translate *inserta*
-    as "introduced," describing a passage from the Digest that an
-    advocate for one or the other of the litigants brought to the
-    attention of the court in support of their case as having been
-    "introduced." For an English translation of the *Marturi
-    placitum*, see [@brasington_order_2016]. (See [West Texas A&M
-    University: Order in the Court: Medieval Procedural Treatises
-    in
-    Translation](http://www.wtamu.edu/academics/order-in-the-court.aspx).)
+placitum* does not explicitly identify the passage in the *Digest*
+to which the citation refers, but the fact that the legal principle
+being invoked is *restitutio in integrum* is by itself sufficient
+to narrow it down to *Dig*. 4. Radding and Ciaralli identify the
+passage as *Dig*. 4.6.26.4 (with some wording borrowed from *Dig*.
+4.1.5). [@radding_corpus_2007, 183-184]. Nordillus, the judge,
+decided the case "*lege Digestorum libris inserta considerata*
+(after he considered the law inserted into the books of the *Digest*)"
+[translation suggested by Atria Larson]. The translation turns on
+the interpretation of the participial adjective *inserta*. "I think
+the straight-up 'inserted' makes sense here. The writer would seem
+to be noticing that the Digest is not itself *lex* but includes
+commentary on the *lex*, the written law, and refers to and inserts
+many elements of *lex* throughout." (Atria Larson, email to Paul
+Evans, July 21, 2017.) The alternative is to translate *inserta*
+as "introduced," describing a passage from the Digest that an
+advocate for one or the other of the litigants brought to the
+attention of the court in support of their case as having been
+"introduced." For an English translation of the *Marturi placitum*,
+see [@brasington_order_2016]. (See [West Texas A&M University: Order
+in the Court: Medieval Procedural Treatises in
+Translation](http://www.wtamu.edu/academics/order-in-the-court.aspx).)
 
 [^15]: D.1, c.8. *Decretum Gratiani*, First Recension, edition in
-    progress. Anders Winroth, 3/21/2017, 2. English translation
-    from [@thompson_treatise_1993, 7].
+progress. Anders Winroth, 3/21/2017, 2. English translation from
+[@thompson_treatise_1993, 7].
 
 [^16]: D.1, c.12. *Decretum Gratiani*, First Recension, edition in
-    progress. Anders Winroth, 3/21/2017, 3.
+progress. Anders Winroth, 3/21/2017, 3.
 
 [^21]: Chodorow explains Gratian's "deletion" of Roman law as a
-    consequence of what he sees as Gratian's adherence to the party
-    of the papal chancellor Haimeric and proponents of the Concordat
-    of Worms (1122). [@chodorow_ecclesiology_1972, 60-63].
+consequence of what he sees as Gratian's adherence to the party of
+the papal chancellor Haimeric and proponents of the Concordat of
+Worms (1122). [@chodorow_ecclesiology_1972, 60-63].
 
 [^23]: [@winroth_schools_2009, 1060] For the text of the letter,
-    see [@dufour_attrait_1979] For an English translation of the
-    letter, see Anonymous, Letter to Abbot B[ernard III] of
-    Saint-Victor, Marseille (1124/27) in [@jansen_roman_2009,
-    167-172].
+see [@dufour_attrait_1979] For an English translation of the letter,
+see Anonymous, Letter to Abbot B[ernard III] of Saint-Victor,
+Marseille (1124/27) in [@jansen_roman_2009, 167-172].
 
 [^24]: "[O]mnibus, qui causa studiorum peregrinantur, scolaribus
-    et maxime divinarum atque sacrarum legum professoribus hoc
-    nostre pietatis beneficium indulgemus, ut ad loca, in quibus
-    litterarum exercentur studium, tam ipsi quam eorum nuntii veniant
-    et habitent in eis securi." [@appelt_urkunden_1979, 39]. "[W]e bestow
-    this pious gift upon all who travel for the purpose of study,
-    students and especially teachers of divine and sacred laws:
-    namely, that they as well as their messengers may travel safely
-    to the place where they are engaged in the study of letters and
-    safely dwell there." [@jansen_roman_2009, 167-72].
+et maxime divinarum atque sacrarum legum professoribus hoc nostre
+pietatis beneficium indulgemus, ut ad loca, in quibus litterarum
+exercentur studium, tam ipsi quam eorum nuntii veniant et habitent
+in eis securi." [@appelt_urkunden_1979, 39]. "[W]e bestow this pious
+gift upon all who travel for the purpose of study, students and
+especially teachers of divine and sacred laws: namely, that they
+as well as their messengers may travel safely to the place where
+they are engaged in the study of letters and safely dwell there."
+[@jansen_roman_2009, 167-72].
 
     The date of *Authentica Habita* is uncertain. Frederick ordered
     the constitution inserted into the *Codex* as an act of imperial
@@ -649,25 +645,24 @@ of permanent common officers, (4) the use of a common seal."
     is making.
 
 [^26]: It is true that *Authentica Habita* does not mention Bologna
-    explicitly, but instead refers to "the place where they are
-    engaged in the study of letters." But *Authentica Habita* does
-    specifically mention "students and especially teachers of divine
-    and sacred laws" so it is not clear to me why both Pennington
-    and Winroth contest the latter point. "It [*Authentica Habita*]
-    did not mention Bologna nor law students."
-    [@pennington_beginnings_2018] (p.18 in MS Word version.) "The
-    law [*Authentica Habita*] does not mention Bologna at all, nor
-    does it mention studies of law." [@winroth_teaching_2006]
-    (pp.7-8 in MS Word version.) "The Teaching of Law in the
-    Twelfth Century" has since been superseded by "Law Schools in
-    the Twelfth Century," which does not mention *Authentica Habita*.
+explicitly, but instead refers to "the place where they are engaged
+in the study of letters." But *Authentica Habita* does specifically
+mention "students and especially teachers of divine and sacred laws"
+so it is not clear to me why both Pennington and Winroth contest
+the latter point. "It [*Authentica Habita*] did not mention Bologna
+nor law students." [@pennington_beginnings_2018] (p.18 in MS Word
+version.) "The law [*Authentica Habita*] does not mention Bologna
+at all, nor does it mention studies of law." [@winroth_teaching_2006]
+(pp.7-8 in MS Word version.) "The Teaching of Law in the Twelfth
+Century" has since been superseded by "Law Schools in the Twelfth
+Century," which does not mention *Authentica Habita*.
 
 [^27]: [@kantorowicz_albertus_1907, 203-218] See also
-    [@pennington_procedure_2004].
+[@pennington_procedure_2004].
 
 [^29]: R.I. Moore observes that the establishment of the new order
-    brought about by the legal revolution "required another change,
-    no less profound: the replacement of warriors by literate clerks
-    as the agents of government and the confidants of princes."
-    [@moore_formation_2007, 128].
+brought about by the legal revolution "required another change, no
+less profound: the replacement of warriors by literate clerks as
+the agents of government and the confidants of princes."
+[@moore_formation_2007, 128].
 
