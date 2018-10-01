@@ -132,18 +132,17 @@ rubrics, and the compiler and arranger of the canons and inscriptions.
 quite so cleanly as we would like: dicta sometimes trail off into
 inscriptions, and rubrics and inscriptions are sometimes poorly
 separated, especially in *de Penitentia*.) But, as Noonan further
-pointed out, the Gratian
-who compiled, arranged, and edited the canons and inscriptions was
-not necessarily the same as the person who wrote the *dicta*, who
-in turn was not necessarily the same as the person who created the
-rubrics.[^14] All of these considerations suggest that the presumption
-that the *Decretum* was the product of a single author ought to be
-entertained with extreme caution. As I turn my attention to the
-collection and selection, presentation, and organization of the
-canonical texts found in the *Decretum*, I will continue to use the
-name Gratian as a conventional label for its author or authors,
-while withholding judgment as to whether one person or many stand
-behind the name
+pointed out, the Gratian who compiled, arranged, and edited the
+canons and inscriptions was not necessarily the same as the person
+who wrote the *dicta*, who in turn was not necessarily the same as
+the person who created the rubrics.[^14] All of these considerations
+suggest that the presumption that the *Decretum* was the product
+of a single author ought to be entertained with extreme caution.
+As I turn my attention to the collection and selection, presentation,
+and organization of the canonical texts found in the *Decretum*, I
+will continue to use the name Gratian as a conventional label for
+its author or authors, while withholding judgment as to whether one
+person or many stand behind the name
 
 ## Collection and Selection
 
@@ -295,19 +294,20 @@ reacting. Charlemagne's son and successor, Emperor Louis the Pious
 penance in 833. When Louis was unexpectedly restored less than six
 months later, he moved quickly to depose many of the bishops who
 had participated in imposing the penance on him, starting with Ebbo,
-archbishop of Rheims.[@de_jong_penitential_2009] The forgers wanted to protect bishops
-from being deprived of office by emperor, king, or metropolitan.
-They did this by building up the pope as the only superior who could
-judge a bishop. This was convenient, because while popes in the
-ninth century had considerable moral authority north of the Alps,
-they had little real power. The intent of the forgers' program
-therefore was to render bishops effectively impervious to judgment.
-The collections that resulted from this effort, the so-called
-Pseudo-Isidorian *Decretals* and *Benedictus Levita*, were accepted
-everywhere as genuine in an age lacking any serious historical-critical
-awareness and survived to become important sources for canonical
-collectors in the eleventh century.[^27] Many of these forged canons
-eventually found their way into Gratian's *Decretum*.
+archbishop of Rheims.[@de_jong_penitential_2009] The forgers wanted
+to protect bishops from being deprived of office by emperor, king,
+or metropolitan. They did this by building up the pope as the only
+superior who could judge a bishop. This was convenient, because
+while popes in the ninth century had considerable moral authority
+north of the Alps, they had little real power. The intent of the
+forgers' program therefore was to render bishops effectively
+impervious to judgment. The collections that resulted from this
+effort, the so-called Pseudo-Isidorian *Decretals* and *Benedictus
+Levita*, were accepted everywhere as genuine in an age lacking any
+serious historical-critical awareness and survived to become important
+sources for canonical collectors in the eleventh century.[^27] Many
+of these forged canons eventually found their way into Gratian's
+*Decretum*.
 
 The reform papacy that reached its apogee with the pontificate of
 Hildebrand, who reigned as Gregory VII from 1073 to 1085, provided
@@ -540,32 +540,32 @@ investigation are now assigned *sigla* following the pattern he
 set. For example, Paris, Bibliothèque Nationale de France, nouvelles
 acquisitions latines 1761, although an extremely important and early
 (possible the earliest) manuscript of the *Decretum*, was not
-glossed, and was therefore not assigned a *siglum* by Weigand.
-On the advice of Weigand, Winroth supplied the *siglum* P by which
-the manuscript is now commonly identified: "it was Rudolf Weigand
-who came up with it. I had asked him what siglum this ms should
-have, since I thought all of the two-letter ones that started with
-a P had been taken. He said to use only P, 'because it is such an
+glossed, and was therefore not assigned a *siglum* by Weigand. On
+the advice of Weigand, Winroth supplied the *siglum* P by which the
+manuscript is now commonly identified: "it was Rudolf Weigand who
+came up with it. I had asked him what siglum this ms should have,
+since I thought all of the two-letter ones that started with a P
+had been taken. He said to use only P, 'because it is such an
 important manuscript'." (Anders Winroth email to Paul Evans, October
 1, 2018) (Although the *sigla* in Weigand's *Handschriftenliste*
 adhere consistently to the two-letter convention, some of the *sigla*
 supplied by other scholars deviate from it, e.g., P, Pfr.)
 
-[^6]: "The second recension contains 3,945 canons (including the paleae)
-in the editions. The first recension contains only 1,860 canons (47
-percent)." [@winroth_making_2000, 122] The division of distinctions
-and questions into canons is a matter of editorial opinion and
-therefore unavoidably conventional. The generally-cited number of
-3,945 comes from Friedberg's introduction (edF 1.xii). Furthermore,
-many canons include more than one canon text, and the conventional
-number obfuscates the distinction between the canon defined as a
-container or package and the canon text or texts included within
-it. The Reuter and Silagi e-text of the Friedberg edition has 3,848
-canons (identified by the OCP ```<4 N>``` tag, where N is the canon
-number) containing 4,394 distinct canon texts (identified by the
-OCP ```<T T>``` tag). (Note: ```egrep "<T T>.*<T T>"
-edF.txt``` to find the three lines where the canon text tag occurs
-twice on the same line.)
+[^6]: "The second recension contains 3,945 canons (including the
+paleae) in the editions. The first recension contains only 1,860
+canons (47 percent)." [@winroth_making_2000, 122] The division of
+distinctions and questions into canons is a matter of editorial
+opinion and therefore unavoidably conventional. The generally-cited
+number of 3,945 comes from Friedberg's introduction (edF 1.xii).
+Furthermore, many canons include more than one canon text, and the
+conventional number obfuscates the distinction between the canon
+defined as a container or package and the canon text or texts
+included within it. The Reuter and Silagi e-text of the Friedberg
+edition has 3,848 canons (identified by the OCP ```<4 N>``` tag,
+where N is the canon number) containing 4,394 distinct canon texts
+(identified by the OCP ```<T T>``` tag). (Note: ```egrep "<T T>.*<T
+T>" edF.txt``` to find the three lines where the canon text tag
+occurs twice on the same line.)
 
 [^7]: "The first recension of the *Decretum* was not a living text.
 It was a finished product which its author considered ready to be
