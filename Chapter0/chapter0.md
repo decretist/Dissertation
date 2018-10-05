@@ -8,12 +8,12 @@ subtitle: Introduction
 ---
 ## Origin of the Project
 
-The following dissertation approaches a classic medieval text,
+This dissertation approaches a classic medieval text,
 Gratian's *Decretum*, in a distinctly untraditional way. I found
 my way to this topic through a specific and unique combination of
-academic interest and previous professional experience, and against
+academic interests and previous professional experience and against
 the backdrop of the rapid transformation between 2004 and 2009 of
-Humanities Computing into the new, and more prominent, academic
+Humanities Computing into the new academic
 discipline of Digital Humanities.[^1] Justifying the project and
 its findings therefore necessarily involves a more personal narrative
 than is typical for the introduction to a dissertation: the most
@@ -21,16 +21,14 @@ straightforward way to discuss the development of the digital methods
 used in the project and the scholarly context from which they emerged
 is through my first-hand experiences with them.
 
-* * *
-
 The most significant finding of my dissertation is that the author
 who wrote the thirty-six case statements introducing the hypothetical
 cases that make up the second part of Gratian's *Decretum* is very
 unlikely to have been the same as the author who wrote the *dicta*
-in the first recension of the *Decretum*. The statistical method
+in either the first or second recension of the work. The statistical method
 used to make this determination assigns probable authorship on the
 basis of frequencies of common function words like prepositions and
-conjunctions in a sample of text, and will be explained in full
+conjunctions in a sample of text; the method will be explained in full
 detail in Chapter 4.
 
 I did not start work on this project thinking that the authorship
@@ -60,8 +58,8 @@ at UC San Diego (e.g., Data Structures, Compiler Construction,
 Operating Systems), although I did not enroll in a degree program.
 During my professional career, I was never primarily a programmer,
 but from time to time my job responsibilities did include programming
-projects in C and Perl, and ultimately Java servlet-based web
-applications.
+projects in C and Perl and ultimately servlet-based web
+applications in Java.
 
 In October 2003, quite by accident, I became aware of Anders Winroth's
 *The Making of Gratian's Decretum*.[@winroth_making_2000] I had
@@ -69,14 +67,12 @@ done a Google search for Chodorow's contact information, and in the
 process came across his review of Winroth's book in *The English
 Historical Review*.[@chodorow_review_2003] From the review I learned
 that Winroth had identified five twelfth-century manuscripts as a
-first, and more coherent, recension of the *Decretum*. In addition,
+first recension of the *Decretum*, shorter and more coherent than
+later more widely-circulated versions of the text. In addition,
 I became aware of Winroth's claim that two different authors, Gratian
 1 and Gratian 2, were responsible for the first and second recensions.
 It was clear to me that there had been a revolution in Gratian
-studies. My wife Carol gave me the book for Christmas 2003 with the
-inscription "I'm sure you'll gulp this one down within 24 hours."
-I did. Some years later, Anders thanked her for buying a copy: "I'm
-sure I did something very useful with the money".
+studies.
 
 From September 2007 to May 2009, I was a student in the History of
 Christianity master's program at Yale Divinity School. Among the
@@ -104,9 +100,10 @@ in Washington, DC. I went to CUA specifically to work with Ken
 Pennington on Gratian's *Decretum*. Even before moving from New
 Haven to Washington, I had participated in Winroth's class on law
 in medieval Europe at Yale, and, once at CUA, I took Pennington's
-classes on canon and Roman law, and (twice) his sources seminar.
+classes on canon and Roman law, and his sources seminar (twice).
 From 2010 through 2012, then, I thoroughly immersed myself in the
-scholarly debates surrounding Gratian and the *Decretum*. These
+scholarly debates surrounding the identity of Gratian and the
+recensions and dating of the *Decretum*. These
 studies produced a certain level of personal discomfort at being
 unable to reconcile the contradictory positions staked out by
 Pennington and Winroth.
@@ -114,24 +111,24 @@ Pennington and Winroth.
 Pennington and his students Melodie Harris Eichbauer and Atria A.
 Larson argued that the *Decretum* was the result of a long process
 of continuous revision. They therefore saw the first recension as
-one of potentially a number of intermediate stages in the composition
-of Gratian's text, and argued that it entered circulation at an
+one stage in a series of stages in the composition
+of Gratian's text and argued that the work entered circulation at an
 early date, in the 1130s. Pennington in particular argued strongly
 that a single author, Gratian, compiled and wrote both the first
 and second recensions of the *Decretum*. Winroth and his student
-John Wei, on the other hand, argued that the first and second
+John Wei argued that the first and second
 recensions represented discrete and discontinuous stages in the
-composition process of the *Decretum*, and that the two recensions
+composition process of the *Decretum* and that the two recensions
 were compiled and written by two different authors, Gratian 1 and
 Gratian 2. Winroth has insisted on a late date, around 1140, for
 the first recension. Much of the debate over whether the *Decretum*
 was the result of a continuous or discontinuous process of composition
-focused on the Sankt Gallen 673 (Sg) manuscript. Sg was shorter
+focused on the Sankt Gallen 673 (Sg) manuscript. The text in Sg is shorter
 than the first recension (somewhat less than 1,050 canons as opposed
-to 1,860),[^5] and Pennington and some of his students argued that
+to 1,860),[^5] and Pennington and some of his students have argued that
 it represented, at some unknown number of removes, an earlier version
-of the *Decretum* than Winroth’s first recension. Winroth and Wei,
-on the other hand, argued that Sg was a relatively uninteresting
+of the *Decretum* than Winroth's first recension. Winroth and Wei
+have argued that Sg was a relatively uninteresting
 abbreviation of a first recension manuscript with some second
 recension interpolations.[^6]
 
@@ -143,7 +140,7 @@ position myself as a Digital Humanities specialist. In the summer
 of 2010, I had taught myself to write Python web applications on
 the Google App Engine (GAE) platform, so in the first half of 2011,
 I developed Ingobert, a Python/GAE web application to visualize
-textual differences in Beinecke 413, in connection with an independent
+textual differences in Beinecke 413 in connection with an independent
 study project supervised by Pennington and Davis.[^7] Largely on
 the strength of the Ingobert project, Neil Fraistat of the University
 of Maryland hired me as a graduate assistant at the Maryland Institute
@@ -153,7 +150,7 @@ programmer on the Active OCR project.[^8]
 I finished my PhD comprehensive examinations in October 2012 and
 advanced to candidacy in January 2013. I had not yet made a definite
 decision to pursue a dissertation project with a Digital Humanities
-component, but audited Matt Kirschenbaum's graduate introduction
+component but audited Matt Kirschenbaum's graduate introduction
 to Digital Humanities course at the University of Maryland in Spring
 2013, with the idea that an overview of the field might suggest a
 potential project.
@@ -164,9 +161,9 @@ Timothy Reuter and Gabriel Silagi edited the *Wortkonkordanz zum
 Decretum Gratiani* for the Monumenta Germaniae Historica (MGH) in
 Munich, a computer-generated concordance in the tradition of Father
 Roberto Busa's *Index Thomisticus*.[^9] As part of the project, the
-MGH undertook to scan, correct, and encode, in the now-obsolete and
-non-tree-structured Oxford Concordance Program (OCP) format, the
-1879 Friedberg edition of the *Decretum*. In spring 2013, Winroth
+MGH undertook to scan, correct, and encode the 1879 Friedberg edition
+of the *Decretum*, in the now-obsolete and non-tree-structured
+Oxford Concordance Program (OCP) format. In spring 2013, Winroth
 and Lou Burnard of the Oxford Text Archive (OTA) each provided me
 with a copy of the Reuter and Silagi e-text. The two copies, however,
 differed in many places, and I had to go through a process similar
@@ -178,7 +175,7 @@ the OCP e-text format is not tree-structured the way XML is---textual
 features have start tags but do not have end tags---makes it extremely
 difficult to parse, so this was a slow process.[^10]
 
-My initial focus in the first half of 2013 was on the use of David
+My initial focus was on the use of David
 Mimno's MALLET (MAchine Learning for LanguagE Toolkit) to topic
 model *dicta* and canon texts from the first and second recensions
 of Gratian's *Decretum* as a way to identify new topics added in
@@ -186,16 +183,15 @@ the second recension.[^11] The inspiration was Pennington's observation
 that most passages in the *Decretum* dealing with the legal status
 of Jews, particularly those dealing with forced conversion, were
 introduced only in the second recension.[^12] My goal was to see
-whether MALLET could surface more such topics, by topic modeling
+whether MALLET could bring more such topics to the surface, by topic modeling
 the first and second parts of the vulgate *Decretum*, topic modeling
 the first recension, and seeing what topics were left when the first
 recension topics were subtracted from the vulgate topics.[^13] While
 simple in concept, this proved prohibitively difficult in practice.[^14]
 
 In July 2013, I was working at MITH, and following the DH 2013
-conference at University of Nebraska-Lincoln out of general interest
-rather than any sense that it might be relevant to my decision
-regarding a dissertation topic. One presentation in particular
+conference at University of Nebraska-Lincoln out of general interest.
+One presentation in particular
 caught my attention: "Stylometry and the Complex Authorship in
 Hildegard of Bingen's Oeuvre" by Mike Kestemont, Sara Moens, and
 Jeroen Deploige. Their work was later published as a paper, but the
@@ -209,11 +205,11 @@ on indirect evidence about whether there had been one Gratian or
 two. I would extract the first- and second-recension *dicta*, those
 parts of the text of the *Decretum* thought to have actually been
 written (depending on whether one accepted Pennington's or Winroth's
-argument) by Gratian or by Gratian 1 and Gratian 2,[^16] and run
+argument) by Gratian or by Gratian 1 and Gratian 2[^16] and run
 the same kind of analysis that Kestemont had run for Hildegard of
 Bingen and Guibert of Gembloux. I expected the results to provide
 an unambiguous answer, sufficiently compelling to both Pennington
-and Winroth to settle the debate one way or the other, as to whether
+and Winroth to settle the debate one way or the other as to whether
 there had been one or two authors.
 
 In August and September of 2013, I replicated the working software
@@ -259,7 +255,7 @@ excerpts from *De vera*, I moved on to the much slower process of
 hand-editing text samples of the first- and second-recension *dicta*
 from the Reuter and Silagi e-text.[^18]
 
-By the second week of September 2013, I had edited the first- and
+By mid-September 2013, I had edited the first- and
 second-recension *dicta* for the first part of the *Decretum*
 (D.1-101). When I ran stylo on the samples, however, I got neither
 of the two results I had expected: either a tight clustering of all
@@ -273,20 +269,20 @@ two of whom went on to write the second recension *dicta*. What was
 completely unexpected, however, was that the case statements clustered
 far away from the *dicta*, extremely strong evidence that they had
 not been written by the same author. I immediately realized that
-if this accidental result held up under further testing, it would
+if this accidental result held up under further testing it would
 be both significant and controversial. (See Figure 1 below.)[^19]
 
 ![Figure 1 10 Sep 2013](JPGs/Photo51.jpg)
 
-Scholars working in the field have long been accustomed to thinking
+Scholars working in the field of medieval canon law have long been accustomed to thinking
 of the author of the *dicta* (or after Winroth's discovery, at least
 the author of the first-recension *dicta*) as Gratian. My initial
 interpretation of these surprising results was therefore that Gratian
 had not written the case statements. Soon, however, I came to see
-the JPEG image produced by stylo as telling a different and very
+the image produced by stylo as telling a different and very
 specific "likely story"---a phrase borrowed from Plato's *Timaeus*---or
 what Pennington calls a "conjectural novella" about the earliest
-beginnings of Gratian's project, and by extension, about the dawn
+beginnings of Gratian's project and, by extension, about the dawn
 of the formal, academic study of canon law and of the European
 university, the moment when the medieval school run by a lone master
 began to evolve into a faculty whose members taught a standardized
@@ -299,7 +295,7 @@ to the teaching of canon law.[^20] There is also a scholarly consensus
 foundational to most recent work on the composition of the *Decretum*
 that Gratian drew on just five formal sources for the bulk of the
 authorities he cited.[^21] These observations prompted me to reframe
-my initial interpretation, and consider the possibility that the
+my initial interpretation and consider the possibility that the
 eponymous Gratian who gave his name to the entire project had written
 *only* the case statements.
 
@@ -311,7 +307,7 @@ courtroom sighting of "the silent figure in the shadows of S.
 Marco."[@noonan_gratian_1979, 171-172] I saw the principal components
 analysis plot my algorithms had produced as an indirect but compelling
 classroom sighting of Gratian: seated at a table with his case
-statements in hand and their lists of question as his syllabus, he
+statements in hand and their lists of questions as his syllabus, he
 harmonized the canons for his students directly out of the formal
 sources in the form of a pile of books on the table in front of
 him.
@@ -321,13 +317,13 @@ that the author of the case statements does not appear to have
 written either the first- or-second recension *dicta*. In the
 beginning, the *Decretum* existed only in the form of the master
 expounding the canons to his students in a classroom presentation
-guided by the questions in the case statements. The overall
+guided by the case statements and the questions they posed. The overall
 organization, the wording of the case statements and questions, and
 the methodology of the *Decretum* are all Gratian's, and his students
 clearly thought it worthwhile to preserve the substance of his
 arguments, but the words are not his. The first recension of the
 *Decretum* "may be a record of the first 'university course' in
-canon law ever taught",[@winroth_making_2000, 194] but the authorship
+canon law ever taught,"[@winroth_making_2000, 194] but the authorship
 attribution results suggest that we owe the written form of that
 record to the students rather than to their master. The strong
 evidence is that Gratian's direct involvement in the project came
@@ -339,7 +335,7 @@ their permanent written form.
 
 Background, the *Decretum*, Gratian, Stylometry, Next steps.
 
-## Note on the Title
+## Note on the Title of the Dissertation
 
 University policy required me to decide on the final title of my
 dissertation, "Distant Reading of Gratian's *Decretum*," years
@@ -349,7 +345,7 @@ was going to be. In fact, another policy actually prohibited
 the topic" until my dissertation proposal had been approved, but
 the final title still had to be submitted as part of the proposal.
 The "distant reading" of the title is a nod to Franco Moretti's
-book of the same name,[@moretti_distant_2013] and refers to my early
+book of the same name[@moretti_distant_2013] and refers to my early
 plans to use MALLET to perform unsupervised topic modeling on the
 first and second recensions of the *Decretum* and to identify new
 topics added to the second recension by comparing the results. As
