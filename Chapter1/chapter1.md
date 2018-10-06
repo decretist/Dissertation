@@ -19,20 +19,20 @@ came to be commonly known as the *Decretum Gratiani* ("Gratian's
 *Decretum*").
 
 The *Decretum* is *not* the kind of document, like the Fournier
-Register, the record of an episcopal inquisition into Albigensian
-heretics surviving in a single manuscript, that many non-specialists,
+Register---the record of an episcopal inquisition into Albigensian
+heretics surviving in a single manuscript---that many non-specialists,
 with a journalistic eye for the exotic and the extreme, take to be
 the central concern of medieval studies.[^2] The *Decretum* was,
 instead, both a normal and a normative text in its own time, and
 for centuries thereafter. The *Decretum* survives in an unusually
 large number of manuscripts -- around 150-200 from the twelfth
-century and around 600 for the medieval period overall.[^3] The
+century and around 600 for the medieval period as a whole.[^3] The
 *Decretum* was the fundamental textbook for first-year university
 instruction in canon law through the seventeenth century. As the
 first volume of the *Corpus iuris canonici*, the *Decretum* remained
-valid law in the Roman Catholic Church right up until 1917, and
+valid law in the Roman Catholic Church until 1917 and
 exercised enormous influence over the 1917 and 1983 codifications
-of canon law that replaced the old *Corpus*.
+of canon law that replaced the medieval *Corpus*.
 
 ### School, Faculty, University
 
@@ -69,7 +69,7 @@ standard, and classes taught from it, by whomever, become likewise
 standardized. The *Decretum*, and classes taught from it or its
 abbreviations, attained the status of *de facto* standards across
 much of Europe very quickly---within the two decades between 1140
-and 1160. I believe that the new evidence previewed in the introduction
+and 1160. I believe that the new evidence previewed
 above suggests that while we owe the intellectual substance of at
 least the first recension of the *Decretum* to Gratian, we owe the
 words in which that substance was expressed to his students.[^4]
@@ -117,22 +117,22 @@ Recent complaints about the corporatization of the university
 notwithstanding, *universitas* means corporation.[@verger_patterns_1992,
 37-41] We think of a corporation as a commercial entity, but medieval
 legal thinkers looked upon the corporation at a more basic level,
-as a means for legally creating an artificial person, and then
+as a means for legally creating an artificial, collective person, and then
 investing that "person" with rights and privileges that could
 otherwise only be held by a natural person or persons, such as the
-right to own property, and the right to sue and be sued. The most
+right to own property and the standing of a litigant in courts of law. The most
 fundamental right of a corporation, however, was the right of
 self-governance, including the right of the corporation to select
 its own leadership. The classic medieval example of corporate
 self-governance was the right of a cathedral chapter to elect a
 bishop. For an academic faculty, the exercise of the right of
 corporate self-governance took the particular form of determining
-qualifications for teaching, something often contested by the local
+the qualifications for teaching, something often contested by the local
 bishop.[^9] The incorporation of one or more faculties as a university
 provided a form of organization well-adapted for achieving both
 permanence and independence from local ecclesiastical authority
 through the accumulation of legal rights and privileges. The faculties
-ensured their long-term survival by incorporating within the larger
+ensured their own long-term survival by incorporating within the larger
 university.
 
 The *Decretum* remained the standard textbook for the prerequisite
@@ -150,7 +150,7 @@ Ordinaria*,[@weigand_development_2008, 82-86] and [Bartholomeus
 Brixiensis](http://amesfoundation.law.harvard.edu/BioBibCanonists/Report_Biobib2.php?record_id=a050)
 (fl.1234-1258) revised the ordinary gloss between 1234 and
 1241.[@weigand_development_2008, 88-91] By then, the interest of
-thirteenth century teachers and students centered on a new advanced
+thirteenth-century teachers and students centered on a new advanced
 second course in canon law taught from Raymond de Peñafort's
 *Decretales Gregorii IX* (1234), edited from five earlier compilations
 of papal decretals that had become a teaching library of decretal
@@ -158,16 +158,14 @@ law. The *Decretum* retained its status as a classic textbook but
 never again held the intellectual attention of the discipline in
 the way it had during the second half of the twelfth century.
 
-* * *
-
 The emergence of faculties of canon law in the second half of the
 twelfth century was a feature of a wider intellectual and social
 revolution. There had been a revival in Bologna of the formal study
 of Roman law during the second and third decades of the twelfth
 century. The immediate impetus for the revival was the recovery of
 the great *libri legales* of the late Roman world, most important,
-because it provided the pattern for jurisprudence as a systematic
-intellectual activity, the *Digest* of Justinian.[^12] The
+the *Digest* of Justinian, because it provided the pattern for
+jurisprudence as a systematic intellectual activity.[^12] The
 twelfth-century revolution in legal science did not take place in
 a vacuum. It took place because of the emergence, especially in
 Italy, of an increasingly urban and commercial society with many
@@ -180,7 +178,7 @@ Gratian, in compiling the *Decretum*, solved a problem for the new
 academic discipline of canon law that his counterparts teaching
 Roman law had sidestepped: the Romanists had not needed to create
 textbooks for their students because they had recovered the textbooks
-from which the law had been taught in late antiquity. In doing so,
+from which the law had been taught in late antiquity. In creating his new textbook,
 Gratian blazed a trail for canon law that theology followed about
 two decades later. The appearance around 1160 of Peter Lombard's
 *Sentences* served as the catalyst for a similar transformation of
@@ -207,7 +205,7 @@ textbook that set the stage for the emergence of the university.
 ## Roman Law
 
 There is good evidence that canon law emerged as a distinct, formally
-organized, academic discipline about two decades after Roman law,
+organized, academic discipline about two decades after Roman law
 and about two decades before theology. Therefore, any information
 that allows us to refine our knowledge of the dates by which those
 disciplines, but especially Roman law, emerged has considerable
@@ -222,7 +220,7 @@ codified in the sixth century under the emperor Justinian (†565)
 from the forms of Roman law that had survived through continuous
 use and adaptation in southern Europe from late antiquity into the
 eleventh century. Early medieval Europe had not forgotten Roman
-law, and in particular, the *Lex Romana Visigothorum* or *Breviary
+law, and, in particular, the *Lex Romana Visigothorum* or *Breviary
 of Alaric* (506), derived from the Theodosian Code (438), was a
 major source of Roman law concepts and terminology throughout the
 early middle ages. The codification produced by Justinian's
@@ -261,7 +259,7 @@ the study of Roman law was not Bologna, but Pavia, and places the
 date somewhat earlier, in the late eleventh century. Radding's claim
 is that research into Roman law developed from its having been used
 as an analytical tool for the explication of the central text of
-the Lombard law tradition, the *Liber Legis Langobardorum* or *Liber
+the Lombard legal tradition, the *Liber Legis Langobardorum* or *Liber
 Papiensis*. Radding's argument has not met with widespread
 acceptance.[@radding_origins_1988]
 
@@ -280,7 +278,7 @@ and four from the *Digest*).[@winroth_making_2000, 146-148]
 Gratian does not deploy the proper Justinianic shades of meaning
 to the concepts of ownership and possession when discussing the
 issue of *restitutio in integrum* in the first-recension version
-of C.3, q.1, d.p.c.2. Instead, Gratian uses concepts and vocabulary
+of C.3, q.1, d.p.c.2. Instead, he uses concepts and vocabulary
 that, Winroth argues, derive from pre-Justinianic Roman law sources
 such as the *Lex Romana Visigothorum*.[@winroth_making_2000, 148-151]
 
@@ -302,8 +300,8 @@ This is significant from Winroth's point of view, because it
 demonstrates that Gratian did not have an ideological objection to
 the use of Roman law, as Vetulani and Chodorow argued.[^21] Rather,
 Winroth argues that where Gratian either failed to use Roman law,
-or used it incorrectly, it was because he lacked the knowledge to
-do so.[@winroth_making_2000, 151-153]
+or used it incorrectly, it was because he lacked the knowledge of
+that tradition.[@winroth_making_2000, 151-153]
 
 For reasons that I will discuss more fully below, Winroth is convinced
 that the first recension of the *Decretum* cannot have been completed
@@ -334,10 +332,9 @@ ground.[@pennington_short_2002, 17] Winroth counter-argues that the
 privilege mentions neither Bologna nor those involved in legal
 studies specifically.[^26]
 
-The main point to take away from this discussion is that while I
-agree with the consensus that the teaching of Roman and canon law
+I agree with the consensus that the teaching of Roman and canon law
 were going concerns in Bologna by around 1110 and 1130 respectively,
-the reader should keep in mind that Winroth, a scholar whose point
+but the reader should keep in mind that Winroth, a scholar whose point
 of view is not to be lightly dismissed, thinks otherwise.
 
 In recent years, it has become obligatory to mention at this point
@@ -345,17 +342,17 @@ in any discussion of the revolution in legal science the case of
 one Mengho, a resident of Bologna who was hanged in December 1299
 after having been tortured into confessing to the theft of some
 bolts of fabric. There was not in 1299, nor is there now, much doubt
-as to Mengho's guilt -- a search of his place of residence was
-carried out during the course of the investigation into the crime,
+as to Mengho's guilt -- a search of his residence was
+carried out during the course of the investigation into the crime
 and he was found to be in possession of the stolen goods, a state
 of affairs that he was unable to credibly explain. Neither can it
 be seriously doubted that Mengho's case was conducted according to
 the due process standards prevailing in that time and place. Full
 proof necessary to convict a criminal defendant (*reus*) under Roman
 law required either a confession or the testimony of two witnesses,
-testimony unlikely to be forthcoming in the case of a crime of
-stealth committed at night such as Mengho's. In the absence of a
-voluntary confession or witness testimony, torture of the defendant
+testimony unlikely to be forthcoming in the case of a crime,
+such as Mengho's, of stealth committed at night. In the absence of a
+voluntary confession or testimony of witnesses, torture of the defendant
 in order to obtain an involuntary confession was simply the next
 routine step of due process. Indeed, Hermann Kantorowicz (†1940)
 brought the story of Mengho to the attention of medieval legal
