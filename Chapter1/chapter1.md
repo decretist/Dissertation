@@ -25,7 +25,7 @@ with a journalistic eye for the exotic and the extreme, take to be
 the central concern of medieval studies.[^2] The *Decretum* was,
 instead, both a normal and a normative text in its own time, and
 for centuries thereafter. The *Decretum* survives in an unusually
-large number of manuscripts -- around 150-200 from the twelfth
+large number of manuscripts---around 150-200 from the twelfth
 century and around 600 for the medieval period as a whole.[^3] The
 *Decretum* was the fundamental textbook for first-year university
 instruction in canon law through the seventeenth century. As the
@@ -271,28 +271,28 @@ more than one manuscript.
 
 There are only three places in the first recension of the *Decretum*
 that incorporate material taken directly from Justinianic Roman law
-sources: C.2, q.6, c.28 (an excerpt from the *Authenticum*), and
-C.15, q.3, cc.1-3 and C.15, q.3, c.4 (three excerpts from the *Codex*
+sources: C.2 q.6 c.28 (an excerpt from the *Authenticum*), and
+C.15 q.3 cc.1-3 and C.15 q.3 c.4 (three excerpts from the *Codex*
 and four from the *Digest*).[@winroth_making_2000, 146-148]
 
 Gratian does not deploy the proper Justinianic shades of meaning
 to the concepts of ownership and possession when discussing the
 issue of *restitutio in integrum* in the first-recension version
-of C.3, q.1, d.p.c.2. Instead, he uses concepts and vocabulary
+of C.3 q.1 d.p.c.2. Instead, he uses concepts and vocabulary
 that, Winroth argues, derive from pre-Justinianic Roman law sources
 such as the *Lex Romana Visigothorum*.[@winroth_making_2000, 148-151]
 
 Furthermore, there are places in the first recension where Gratian,
 in Winroth's opinion, would have reached different conclusions had
 he used Justinianic Roman law. He points to Gratian's treatment of
-false (or at least unsuccessful) accusers in C.2, q.3, and the
+false (or at least unsuccessful) accusers in C.2 q.3, and the
 penalties, including infamy, incurred by them. Gratian's analysis
--- he distinguishes three categories of false accusers based on
-material indirectly derived from the *Lex Romana Visigothorum* --
+---he distinguishes three categories of false accusers based on
+material indirectly derived from the *Lex Romana Visigothorum*---
 is incompatible with the well-developed Justinianic jurisprudence
 on the subject.[@winroth_making_2000, 153-156]
 
-But there is one question -- C.15, q.3 -- in the first recension
+But there is one question---C.15 q.3---in the first recension
 of the *Decretum* in which Gratian makes substantive use of Justinianic
 Roman law concepts and vocabulary as a part of his argument in the
 *dicta* and does so more or less correctly in Winroth's judgment.
@@ -316,7 +316,7 @@ off to a late start are fairly far out of the mainstream. A notable
 example is his dating of the famous letter of an anonymous monk to
 abbot B (probably Bernard III Garin) of Saint-Victor, Marseille
 ---the content of which Winroth has so memorably summarized as "[m]y
-donkey is dead, so I am going to law school"--- to the 1180s rather
+donkey is dead, so I am going to law school"---to the 1180s rather
 than the 1120s. But it is extremely difficult to imagine that a
 letter that shows no apparent awareness that either civil (Roman)
 or canon law were being taught in Bologna can have been written in
@@ -342,7 +342,7 @@ in any discussion of the revolution in legal science the case of
 one Mengho, a resident of Bologna who was hanged in December 1299
 after having been tortured into confessing to the theft of some
 bolts of fabric. There was not in 1299, nor is there now, much doubt
-as to Mengho's guilt -- a search of his residence was
+as to Mengho's guilt---a search of his residence was
 carried out during the course of the investigation into the crime
 and he was found to be in possession of the stolen goods, a state
 of affairs that he was unable to credibly explain. Neither can it
@@ -589,11 +589,11 @@ see [@brasington_order_2016]. (See [West Texas A&M University: Order
 in the Court: Medieval Procedural Treatises in
 Translation](http://www.wtamu.edu/academics/order-in-the-court.aspx).)
 
-[^15]: D.1, c.8. *Decretum Gratiani*, First Recension, edition in
+[^15]: D.1 c.8. *Decretum Gratiani*, First Recension, edition in
 progress. Anders Winroth, 3/21/2017, 2. English translation from
 [@thompson_treatise_1993, 7].
 
-[^16]: D.1, c.12. *Decretum Gratiani*, First Recension, edition in
+[^16]: D.1 c.12. *Decretum Gratiani*, First Recension, edition in
 progress. Anders Winroth, 3/21/2017, 3.
 
 [^21]: Chodorow explains Gratian's "deletion" of Roman law as a
