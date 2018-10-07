@@ -42,7 +42,7 @@ breakthrough transformed the study of canon law into a rigorous
 academic discipline. His imposition of a consistent interpretive
 framework (hermeneutic) on the inherited and internally contradictory
 mass of canonical texts transformed them into a coherent system of
-law. A generation before Gratian, Ivo of Chartres (†1115) had
+substantive law. A generation before Gratian, Ivo of Chartres (†1115) had
 proposed the possibility of such a program in the preface to his
 own canonical collections, but he left its application to his
 readers. Gratian demonstrated that Ivo's program could in fact be
@@ -135,7 +135,7 @@ self-governance was the right of a cathedral chapter to elect a
 bishop. For an academic faculty, the exercise of the right of
 corporate self-governance took the particular form of determining
 the qualifications for teaching, something often contested by the local
-bishop.[^9] The incorporation of one or more faculties as a university
+bishop.[^9] The incorporation of several faculties as a university
 provided a form of organization well-adapted for achieving both
 permanence and independence from local ecclesiastical authority
 through the accumulation of legal rights and privileges. The faculties
@@ -170,22 +170,19 @@ twelfth century was a feature of a wider intellectual and social
 revolution. There had been a revival in Bologna of the formal study
 of Roman law during the second and third decades of the twelfth
 century. The immediate impetus for the revival was the recovery of
-the great *libri legales* of the late Roman world, most important,
+the great *libri legales* from which law had been taught in the late Roman world, most important,
 the *Digest* of Justinian, because it provided the pattern for
 jurisprudence as a systematic intellectual activity.[^12] The
-twelfth-century revolution in legal science did not take place in
+early Romanists therefore did not need to create textbooks for their
+students as Gratian had to for his.
+
+The twelfth-century revolution in legal science did not take place in
 a vacuum. It took place because of the emergence, especially in
 Italy, of an increasingly urban and commercial society with many
 moving parts. Such a society needed a correspondingly complex and
 sophisticated legal system, and, because it had much in common,
 both culturally and materially, with the society of the late Roman
 world, it was able to borrow extensively from Roman law.
-
-Gratian, in compiling the *Decretum*, solved a problem for the new
-academic discipline of canon law that his counterparts teaching
-Roman law had sidestepped: the Romanists had not needed to create
-textbooks for their students because they had recovered the textbooks
-from which the law had been taught in late antiquity.
 
 The emergence of distinct faculties of arts, law, and
 theology in the middle decades of the twelfth century gave rise to
@@ -351,9 +348,9 @@ be seriously doubted that Mengho's case was conducted according to
 the due process standards prevailing in that time and place. Full
 proof necessary to convict a criminal defendant (*reus*) under Roman
 law required either a confession or the testimony of two witnesses,
-testimony unlikely to be forthcoming in the case of a crime,
-such as Mengho's, of stealth committed at night. In the absence of a
-voluntary confession or testimony of witnesses, torture of the defendant
+testimony unlikely to be forthcoming in the case of a crime
+of stealth, such as Mengho's, committed at night. In the absence of a
+voluntary confession or the testimony of witnesses, torture of the defendant
 in order to obtain an involuntary confession was simply the next
 routine step of due process. Indeed, Hermann Kantorowicz (†1940)
 brought the story of Mengho to the attention of medieval legal
