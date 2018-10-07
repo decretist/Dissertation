@@ -84,7 +84,7 @@ that regulated competition between masters in places where material
 and political conditions favored the concentration of many masters
 practicing the same craft in one place.[^5] Faculties and craft
 guilds, however, differed in one important respect: while the most
-imporant product of the masters of the guild of shoemakers was
+important product of the masters of the guild of shoemakers was
 shoes, the most important product of the masters of the faculty of
 canon law was, at least in the first generation, the next generation
 of masters of the faculty of canon law. The distinctive innovation
@@ -101,15 +101,22 @@ as far as possible into the past.[^6] It is perhaps going too far
 to claim that the *Decretum* was the textbook that created the
 university. It is not, however, going too far to recognize that its
 existence was a necessary precondition for the emergence of the
-faculty of canon law, just as the existence of Peter Lombard's
-*Sentences* was a necessary precondition for the emergence after
-1160 of the faculty of theology.
+faculty of canon law.
+
+In creating his new textbook, Gratian blazed a trail for canon law
+that theology followed about two decades later. The appearance
+around 1160 of Peter Lombard's *Sentences* served as the catalyst
+for a similar transformation of theology into a rigorous academic
+discipline taught from a standardized textbook in the context of a
+formally organized curriculum by a degree-granting faculty, and for
+the displacement of more loosely organized regional schools, such
+as the one at Laon, by the preeminent theology faculty of Paris.
 
 In the first decades of the thirteenth century, both the faculties
 of canon law and the *Decretum* settled into their permanent places
 in the organization of medieval academic life, as the faculties of
-canon law joined with other faculties (such as those of arts and
-theology) to form the corporate university, while the focus of legal
+canon law became part of the university (a corporation encompassing several
+faculties such as those of arts, law, and theology), while the focus of legal
 scholarship in canon law gradually shifted from the "old law" of
 Gratian to the "new law" of papal decretals.[^7]
 
@@ -178,17 +185,9 @@ Gratian, in compiling the *Decretum*, solved a problem for the new
 academic discipline of canon law that his counterparts teaching
 Roman law had sidestepped: the Romanists had not needed to create
 textbooks for their students because they had recovered the textbooks
-from which the law had been taught in late antiquity. In creating his new textbook,
-Gratian blazed a trail for canon law that theology followed about
-two decades later. The appearance around 1160 of Peter Lombard's
-*Sentences* served as the catalyst for a similar transformation of
-theology into a rigorous academic discipline taught from a standardized
-textbook in the context of a formally organized curriculum by a
-degree-granting faculty, and for the displacement of more loosely
-organized regional schools, such as the one at Laon, by the preeminent
-theology faculty of Paris.
+from which the law had been taught in late antiquity.
 
-The emergence of distinct faculties of Roman law, canon law, and
+The emergence of distinct faculties of arts, law, and
 theology in the middle decades of the twelfth century gave rise to
 a rapidly proliferating number of major universities throughout
 Europe, recognizably continuous in form with those of the present
@@ -234,8 +233,10 @@ letter of pope Gregory I in 603.[^13]
 What was new in Italy from the late eleventh century on was the
 revival of the study and application of Roman law as codified in
 the *Corpus iuris civilis* of Justinian: the *Institutes*, the
-*Codex*, the *Digest* or *Pandects*, and the *Novels*, translated
-from Greek into Latin in the form of the *Authenticum*. The first
+*Codex*, the *Digest* or *Pandects*, and the *Novels*.
+(The *Novels*, unlike the other volumes of Justinian's *corpus*,
+were originally written in Greek, and were known in this period in
+the form of a Latin translation, the *Authenticum*.) The first
 documentary evidence for this revival is a reference to the *Digest*
 found in the *Marturi placitum*, the record of a court case held
 in 1076 in present-day Poggibonsi in Tuscany.[^14]
