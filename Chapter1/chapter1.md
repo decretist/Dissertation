@@ -25,14 +25,14 @@ with a journalistic eye for the exotic and the extreme, take to be
 the central concern of medieval studies.[^2] The *Decretum* was,
 instead, both a normal and a normative text in its own time, and
 for centuries thereafter. The *Decretum* survives in an unusually
-large number of manuscripts---around 150-200 from the twelfth
-century and around 600 for the medieval period as a whole.[^3] The
-*Decretum* was the fundamental textbook for first-year university
-instruction in canon law through the seventeenth century. As the
-first volume of the *Corpus iuris canonici*, the *Decretum* remained
-valid law in the Roman Catholic Church until 1917 and
-exercised enormous influence over the 1917 and 1983 codifications
-of canon law that replaced the medieval *Corpus*.
+large number of manuscripts---around 150-200 from the twelfth century
+and around 600 for the medieval period as a whole.[^3] The *Decretum*
+was the fundamental textbook for first-year university instruction
+in canon law through the seventeenth century. As the first volume
+of the *Corpus iuris canonici*, the *Decretum* remained valid law
+in the Roman Catholic Church until 1917 and exercised enormous
+influence over the 1917 and 1983 codifications of canon law that
+replaced the medieval *Corpus*.
 
 ### School, Faculty, University
 
@@ -42,9 +42,9 @@ breakthrough transformed the study of canon law into a rigorous
 academic discipline. His imposition of a consistent interpretive
 framework (hermeneutic) on the inherited and internally contradictory
 mass of canonical texts transformed them into a coherent system of
-substantive law. A generation before Gratian, Ivo of Chartres (†1115) had
-proposed the possibility of such a program in the preface to his
-own canonical collections, but he left its application to his
+substantive law. A generation before Gratian, Ivo of Chartres (†1115)
+had proposed the possibility of such a program in the preface to
+his own canonical collections, but he left its application to his
 readers. Gratian demonstrated that Ivo's program could in fact be
 carried out in a truly systematic way and did so at an historical
 moment when the need for such a sweeping synthesis was particularly
@@ -69,10 +69,10 @@ standard, and classes taught from it, by whomever, become likewise
 standardized. The *Decretum*, and classes taught from it or its
 abbreviations, attained the status of *de facto* standards across
 much of Europe very quickly---within the two decades between 1140
-and 1160. I believe that the new evidence previewed
-above suggests that while we owe the intellectual substance of at
-least the first recension of the *Decretum* to Gratian, we owe the
-words in which that substance was expressed to his students.[^4]
+and 1160. I believe that the new evidence previewed above suggests
+that while we owe the intellectual substance of at least the first
+recension of the *Decretum* to Gratian, we owe the words in which
+that substance was expressed to his students.[^4]
 
 The compilation and circulation of the *Decretum* led directly to
 the formation of faculties of canon law across Europe. Faculties
@@ -115,32 +115,32 @@ as the one at Laon, by the preeminent theology faculty of Paris.
 In the first decades of the thirteenth century, both the faculties
 of canon law and the *Decretum* settled into their permanent places
 in the organization of medieval academic life, as the faculties of
-canon law became part of the university (a corporation encompassing several
-faculties such as those of arts, law, and theology), while the focus of legal
-scholarship in canon law gradually shifted from the "old law" of
-Gratian to the "new law" of papal decretals.[^7]
+canon law became part of the university (a corporation encompassing
+several faculties such as those of arts, law, and theology), while
+the focus of legal scholarship in canon law gradually shifted from
+the "old law" of Gratian to the "new law" of papal decretals.[^7]
 
 Recent complaints about the corporatization of the university
 notwithstanding, *universitas* means corporation.[@verger_patterns_1992,
 37-41] We think of a corporation as a commercial entity, but medieval
 legal thinkers looked upon the corporation at a more basic level,
-as a means for legally creating an artificial, collective person, and then
-investing that "person" with rights and privileges that could
-otherwise only be held by a natural person or persons, such as the
-right to own property and the standing of a litigant in courts of law. The most
-fundamental right of a corporation, however, was the right of
-self-governance, including the right of the corporation to select
-its own leadership. The classic medieval example of corporate
-self-governance was the right of a cathedral chapter to elect a
-bishop. For an academic faculty, the exercise of the right of
-corporate self-governance took the particular form of determining
-the qualifications for teaching, something often contested by the local
-bishop.[^9] The incorporation of several faculties as a university
-provided a form of organization well-adapted for achieving both
-permanence and independence from local ecclesiastical authority
-through the accumulation of legal rights and privileges. The faculties
-ensured their own long-term survival by incorporating within the larger
-university.
+as a means for legally creating an artificial, collective person,
+and then investing that "person" with rights and privileges that
+could otherwise only be held by a natural person or persons, such
+as the right to own property and the standing of a litigant in
+courts of law. The most fundamental right of a corporation, however,
+was the right of self-governance, including the right of the
+corporation to select its own leadership. The classic medieval
+example of corporate self-governance was the right of a cathedral
+chapter to elect a bishop. For an academic faculty, the exercise
+of the right of corporate self-governance took the particular form
+of determining the qualifications for teaching, something often
+contested by the local bishop.[^9] The incorporation of several
+faculties as a university provided a form of organization well-adapted
+for achieving both permanence and independence from local ecclesiastical
+authority through the accumulation of legal rights and privileges.
+The faculties ensured their own long-term survival by incorporating
+within the larger university.
 
 The *Decretum* remained the standard textbook for the prerequisite
 first course in canon law throughout the Middle Ages. Around 1190,
@@ -170,33 +170,33 @@ twelfth century was a feature of a wider intellectual and social
 revolution. There had been a revival in Bologna of the formal study
 of Roman law during the second and third decades of the twelfth
 century. The immediate impetus for the revival was the recovery of
-the great *libri legales* from which law had been taught in the late Roman world, most important,
-the *Digest* of Justinian, because it provided the pattern for
-jurisprudence as a systematic intellectual activity.[^12] The
-early Romanists therefore did not need to create textbooks for their
-students as Gratian had to for his.
+the great *libri legales* from which law had been taught in the
+late Roman world, most important, the *Digest* of Justinian, because
+it provided the pattern for jurisprudence as a systematic intellectual
+activity.[^12] The early Romanists therefore did not need to create
+textbooks for their students as Gratian had to for his.
 
-The twelfth-century revolution in legal science did not take place in
-a vacuum. It took place because of the emergence, especially in
+The twelfth-century revolution in legal science did not take place
+in a vacuum. It took place because of the emergence, especially in
 Italy, of an increasingly urban and commercial society with many
 moving parts. Such a society needed a correspondingly complex and
 sophisticated legal system, and, because it had much in common,
 both culturally and materially, with the society of the late Roman
 world, it was able to borrow extensively from Roman law.
 
-The emergence of distinct faculties of arts, law, and
-theology in the middle decades of the twelfth century gave rise to
-a rapidly proliferating number of major universities throughout
-Europe, recognizably continuous in form with those of the present
-day. The existence of standardized textbooks such as Gratian's
-*Decretum* and later Peter Lombard's *Sentences* was an absolutely
-essential precondition for the formation of academic faculties
-organized along formal disciplinary lines, offering standardized
-courses of instruction for their students. Those faculties in turn
-supplied the foundation for the medieval, and, by extension, the
-modern European university. Gratian's *Decretum* can be seen from
-the point of view of this series of historical developments as the
-textbook that set the stage for the emergence of the university.
+The emergence of distinct faculties of arts, law, and theology in
+the middle decades of the twelfth century gave rise to a rapidly
+proliferating number of major universities throughout Europe,
+recognizably continuous in form with those of the present day. The
+existence of standardized textbooks such as Gratian's *Decretum*
+and later Peter Lombard's *Sentences* was an absolutely essential
+precondition for the formation of academic faculties organized along
+formal disciplinary lines, offering standardized courses of instruction
+for their students. Those faculties in turn supplied the foundation
+for the medieval, and, by extension, the modern European university.
+Gratian's *Decretum* can be seen from the point of view of this
+series of historical developments as the textbook that set the stage
+for the emergence of the university.
 
 ## Roman Law
 
@@ -230,13 +230,13 @@ letter of pope Gregory I in 603.[^13]
 What was new in Italy from the late eleventh century on was the
 revival of the study and application of Roman law as codified in
 the *Corpus iuris civilis* of Justinian: the *Institutes*, the
-*Codex*, the *Digest* or *Pandects*, and the *Novels*.
-(The *Novels*, unlike the other volumes of Justinian's *corpus*,
-were originally written in Greek, and were known in this period in
-the form of a Latin translation, the *Authenticum*.) The first
-documentary evidence for this revival is a reference to the *Digest*
-found in the *Marturi placitum*, the record of a court case held
-in 1076 in present-day Poggibonsi in Tuscany.[^14]
+*Codex*, the *Digest* or *Pandects*, and the *Novels*. (The *Novels*,
+unlike the other volumes of Justinian's *corpus*, were originally
+written in Greek, and were known in this period in the form of a
+Latin translation, the *Authenticum*.) The first documentary evidence
+for this revival is a reference to the *Digest* found in the *Marturi
+placitum*, the record of a court case held in 1076 in present-day
+Poggibonsi in Tuscany.[^14]
 
 Because of the title *Corpus iuris civilis*, "the body of civil
 law," Roman law was also referred to as civil law, and students,
@@ -257,8 +257,8 @@ the study of Roman law was not Bologna, but Pavia, and places the
 date somewhat earlier, in the late eleventh century. Radding's claim
 is that research into Roman law developed from its having been used
 as an analytical tool for the explication of the central text of
-the Lombard legal tradition, the *Liber Legis Langobardorum* or *Liber
-Papiensis*. Radding's argument has not met with widespread
+the Lombard legal tradition, the *Liber Legis Langobardorum* or
+*Liber Papiensis*. Radding's argument has not met with widespread
 acceptance.[@radding_origins_1988]
 
 Anders Winroth is by far the more consequential dissenter from the
@@ -269,16 +269,16 @@ more than one manuscript.
 
 There are only three places in the first recension of the *Decretum*
 that incorporate material taken directly from Justinianic Roman law
-sources: C.2 q.6 c.28 (an excerpt from the *Authenticum*), and
-C.15 q.3 cc.1-3 and C.15 q.3 c.4 (three excerpts from the *Codex*
-and four from the *Digest*).[@winroth_making_2000, 146-148]
+sources: C.2 q.6 c.28 (an excerpt from the *Authenticum*), and C.15
+q.3 cc.1-3 and C.15 q.3 c.4 (three excerpts from the *Codex* and
+four from the *Digest*).[@winroth_making_2000, 146-148]
 
 Gratian does not deploy the proper Justinianic shades of meaning
 to the concepts of ownership and possession when discussing the
 issue of *restitutio in integrum* in the first-recension version
-of C.3 q.1 d.p.c.2. Instead, he uses concepts and vocabulary
-that, Winroth argues, derive from pre-Justinianic Roman law sources
-such as the *Lex Romana Visigothorum*.[@winroth_making_2000, 148-151]
+of C.3 q.1 d.p.c.2. Instead, he uses concepts and vocabulary that,
+Winroth argues, derive from pre-Justinianic Roman law sources such
+as the *Lex Romana Visigothorum*.[@winroth_making_2000, 148-151]
 
 Furthermore, there are places in the first recension where Gratian,
 in Winroth's opinion, would have reached different conclusions had
@@ -290,8 +290,8 @@ material indirectly derived from the *Lex Romana Visigothorum*---
 is incompatible with the well-developed Justinianic jurisprudence
 on the subject.[@winroth_making_2000, 153-156]
 
-But there is one question---C.15 q.3---in the first recension
-of the *Decretum* in which Gratian makes substantive use of Justinianic
+But there is one question---C.15 q.3---in the first recension of
+the *Decretum* in which Gratian makes substantive use of Justinianic
 Roman law concepts and vocabulary as a part of his argument in the
 *dicta* and does so more or less correctly in Winroth's judgment.
 This is significant from Winroth's point of view, because it
@@ -332,25 +332,25 @@ studies specifically.[^26]
 
 I agree with the consensus that the teaching of Roman and canon law
 were going concerns in Bologna by around 1110 and 1130 respectively,
-but the reader should keep in mind that Winroth, a scholar whose point
-of view is not to be lightly dismissed, thinks otherwise.
+but the reader should keep in mind that Winroth, a scholar whose
+point of view is not to be lightly dismissed, thinks otherwise.
 
 In recent years, it has become obligatory to mention at this point
 in any discussion of the revolution in legal science the case of
 one Mengho, a resident of Bologna who was hanged in December 1299
 after having been tortured into confessing to the theft of some
 bolts of fabric. There was not in 1299, nor is there now, much doubt
-as to Mengho's guilt---a search of his residence was
-carried out during the course of the investigation into the crime
-and he was found to be in possession of the stolen goods, a state
-of affairs that he was unable to credibly explain. Neither can it
-be seriously doubted that Mengho's case was conducted according to
-the due process standards prevailing in that time and place. Full
-proof necessary to convict a criminal defendant (*reus*) under Roman
-law required either a confession or the testimony of two witnesses,
-testimony unlikely to be forthcoming in the case of a crime
-of stealth, such as Mengho's, committed at night. In the absence of a
-voluntary confession or the testimony of witnesses, torture of the defendant
+as to Mengho's guilt---a search of his residence was carried out
+during the course of the investigation into the crime and he was
+found to be in possession of the stolen goods, a state of affairs
+that he was unable to credibly explain. Neither can it be seriously
+doubted that Mengho's case was conducted according to the due process
+standards prevailing in that time and place. Full proof necessary
+to convict a criminal defendant (*reus*) under Roman law required
+either a confession or the testimony of two witnesses, testimony
+unlikely to be forthcoming in the case of a crime of stealth, such
+as Mengho's, committed at night. In the absence of a voluntary
+confession or the testimony of witnesses, torture of the defendant
 in order to obtain an involuntary confession was simply the next
 routine step of due process. Indeed, Hermann Kantorowicz (†1940)
 brought the story of Mengho to the attention of medieval legal
