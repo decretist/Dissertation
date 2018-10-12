@@ -78,10 +78,11 @@ endorsed the single author theory by subsuming the entire vulgate
 text of the *Decretum* under the eponym "Gratian," recognized that
 whoever Gratian was, he was not directly responsible either for the
 bulk of the text or for certain notable formal features of the work,
-like the division of Part I into *distinctiones*.[^10] Gratian was
-working within a well-established genre of academic writing in
-medieval Latin literature, the canonical collection.[^11] The
-*Decretum* followed in the footsteps of any number of systematic
+like the division of Part I into *distinctiones*.[^10]
+
+Gratian was working within a well-established genre of academic
+writing in medieval Latin literature, the canonical collection.[^11]
+The *Decretum* followed in the footsteps of any number of systematic
 canonical collections that had been in circulation since the beginning
 of the eleventh century in which the material was organized by
 topic.[^12]
@@ -110,8 +111,8 @@ an audience even after Gratian's *Decretum* superseded the collections
 to which it had originally been prepended.[^14] In this respect,
 Gratian did not conform to the expectations of the genre in which
 he was working. For starters, he did not include a preface, something
-that did not escape the somewhat disapproving notice of contemporaries
-like the author of the *Summa Parisiensis*.
+that did not escape the notice of contemporaries like the author
+of the *Summa Parisiensis*.
 
 In presenting and organizing the canonical texts that he had selected,
 however, Gratian added a significant amount of first-person commentary
@@ -250,8 +251,8 @@ Peter Landau has suggested that Gratian relied primarily on just
 five formal sources in writing the Decretum: Anselm of Lucca's
 *Collectio canonum*, the pseudo-Ivonian *Collectio Tripartita*, Ivo
 of Chartes's *Panormia*, Gregory of San Grisogono's *Polycarpus*,
-and an anonymous *Collection in Three Books* (*3L*).[^26] 15-17]
-This hypothesis is not universally accepted: Pennington, for example,
+and an anonymous *Collection in Three Books* (*3L*).[^26] This
+hypothesis is not universally accepted: Pennington, for example,
 believes that Gratian may have also relied on one or more now-lost
 Central Italian collections similar to the *Collection in Nine
 Books* (*9L*).[^27]
