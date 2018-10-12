@@ -17,7 +17,7 @@ Gratian has proved, on closer examination, to be
 myth,[@noonan_gratian_1979] it is best to make our first approach
 (*accessus*) to the author through his text.[^2] The approach is
 made more difficult by the fact that, like many modern university
-textbooks, the *Decretum* underwent at least one major revision,
+textbooks, the *Decretum* underwent at least one major revision
 and was probably the product of a process of continuous revision.
 
 In 1996, Anders Winroth discovered that four surviving twelfth-century
@@ -34,7 +34,7 @@ discovered that München, Bayerische Staatsbibliothek, lat. 22272
 (Mw) contains an abbreviation of the first recension of the
 *Decretum*.[@larson_abbreviatio_2011] The four first-recension
 manuscripts Aa, Bc, Fd, and P were previously thought to have been
-abbreviations, and are by one imperfect but frequently-invoke metric
+abbreviations and are by one imperfect but frequently-invoked metric
 about half the length of the vulgate *Decretum*, 1,860 as opposed
 to 3,945 canons.[^6]
 
@@ -43,16 +43,16 @@ in which it might be problematic to refer simplistically to Gratian
 as the author of the *Decretum,* as I have done thus far. Winroth
 rejects any presumption of monolithic authorship on stratigraphic
 grounds. He argues that the first recension is "coherent and
-complete," and that its author intentionally released it into
+complete" and that its author intentionally released it into
 circulation as a "finished product."[^7] (In other words, it did
 not just prematurely escape into the wild like parts of Augustine's
 *de Trinitate*.) Winroth thinks of the first and second recensions
-as distinct textual layers and argues that two different authors
-(Gratian 1 and Gratian 2) compiled the two recensions.[^8]
+as distinct textual layers and argues that two different authors,
+Gratian 1 and Gratian 2, compiled the two recensions.[^8]
 
 Several decades before Winroth discovered the first recension of
 the Decretum and argued that the Gratian of the first recension was
-not necessarily the same as the Gratian of the second recension,
+not the same as the Gratian of the second recension,
 John Noonan pointed out another obvious way in which it might be
 problematic to conceptualize the *Decretum* as the product of
 monolithic authorship. As was noted briefly above and will be
@@ -61,17 +61,18 @@ discussed in further detail below, the second recension of the
 of Part I was not necessarily the same as the Gratian of Part II
 or Part III. (And in point of fact, the Gratian of Part III, the
 compiler of *de Consecratione*, is very unlikely to have been the
-same as the Gratian of Parts I and II.) Furthermore, nothing logically
+same as the Gratian of Parts I and II since the treatise was such
+a late addition to the *Decretum*.) Furthermore, nothing logically
 excludes the possibility that Winroth and Noonan are both right and
-that the Gratian of the first-recension version of Part I is not
-necessarily the same as the Gratian of the second-recension version
+that the Gratian of the first-recension of Part I is not
+necessarily the same as the Gratian of the second-recension
 of Part I, and so on through all the possible permutations and
 combinations of recensions (first and second) and parts (I, II, and
 III).[^9]
 
 Long before the discovery of the first recension in the late
 twentieth century, however, the first twelfth-century readers of the *Decretum*
-were distinctly aware of the limited extent to which it could be
+were aware of the limited extent to which it could be
 thought of as the work of a single author. Even early readers, such
 as Stephen of Tournai and the author of the *Summa Parisiensis*,
 who implicitly endorsed the single author theory by subsuming the
@@ -82,22 +83,22 @@ features of the work, like the division of Part I into
 *distinctiones*.[^10] Gratian was working within a well-established
 genre of academic writing in medieval Latin literature, the canonical
 collection.[^11] The *Decretum* followed in the footsteps of any
-number of systematic canonical collections in which the material
-was organized by topic that had been in circulation since the
-beginning of the eleventh century.[^12]
+number of systematic canonical collections
+that had been in circulation since the beginning of the eleventh century
+in which the material was organized by topic.[^12]
 
 Twelfth-century readers of a canonical collection did not necessarily
-expect all (or even any) of the words they read to have been written
-by the author. They expected instead to find the distinctive
-contribution of the author in the selection, editing, and arrangement
-of words not his own: canons of councils, decrees of popes, and
+expect its compiler to have written all (or even any) of the words they read.
+They expected instead to find the distinctive
+contribution of the compiler in the selection, editing, and arrangement
+of texts not his own: canons of councils, decrees of popes, and
 extracts from patristic authorities and secular law, often accompanied
 by traditional inscriptions ascribing the texts (accurately or
 inaccurately) to recognized authoritative sources. Gratian met this
 expectation. Around seventy percent of the text of the vulgate *Decretum*
 comes from the tradition of canonical texts accumulated over the
 first millennium of the church's history.[^13] An extremely important
-part of the authorial activity of Gratian, then, did consist precisely
+part of the authorial activity of Gratian, then, did consist
 in the collection and selection of material from the canonical
 tradition and in his presentation and organization of the texts
 that he had collected and selected.
@@ -146,10 +147,10 @@ person or many stand behind the name
 
 ## Collection and Selection
 
-A canon is an authoritative text, or an excerpt from one, that
-provides a rule or norm for Christian life, either for an individual
-Christian believer in their clerical or lay station, or for the
-Church corporately, at whatever level -- local church or religious
+A canon is an authoritative text that
+provides a rule or norm for Christian life, either for individual
+Christian believers in their clerical or lay station or for the
+Church corporately at whatever level -- local church or religious
 foundation, diocese, province, or the universal Church. The Greek
 work *kanon* literally means a ruler or straightedge used to mark
 a line, and Christian believers individually and the Church corporately
@@ -169,7 +170,7 @@ Church had a greater need for an agreed-upon set of rules. Such
 rules were provided by the canons of provincial and ecumenical
 councils, and somewhat later by papal decretals.
 
-Gratian, strictly speaking, defines canons as either *decreta
+Gratian defines canons as either *decreta
 Pontificum* ("decrees of pontiffs") or *statuta conciliorum*
 ("statutes of councils").[^18] From a relatively early date, the
 bishops of Rome had cultivated the practice of issuing decretal
@@ -181,8 +182,8 @@ Himerius of Tarragona, written in 385 in response to a letter that
 Himerius had sent to Siricius's predecessor, Pope Damasus (†384).[^20]
 The letter, sometimes referred to by the first word of its text as
 the *Directa* decretal, remains an important source for norms
-concerning clerical celibacy in late antiquity. The most familiar
-example for modern readers of an imperial rescript, the genre after
+concerning clerical celibacy in late antiquity. For modern readers,
+the most familiar example of an imperial rescript, the genre after
 which the papal decretal letter was modeled, is the early second-century
 (ca. 112) response of the emperor Trajan (†117) to a letter from
 Pliny the Younger inquiring as to how Pliny, then Roman provincial
@@ -249,13 +250,13 @@ collections containing patristic, conciliar, and papal (as well as
 pseudo-papal) authorities, predigested into canon-sized units of
 text.
 
-Peter Landau suggested in 1984 that Gratian had relied primarily
+Peter Landau has suggested that Gratian relied primarily
 on just five formal sources in writing the Decretum: Anselm of
 Lucca's *Collectio canonum*, the pseudo-Ivonian *Collectio Tripartita*,
 Ivo of Chartes's *Panormia*, Gregory of San Grisogono's *Polycarpus*,
-and an anonymous *Collection in Three Books* (*3L*).[@winroth_making_2000,
+and an anonymous *Collection in Three Books* (*3L*).[^26]
 15-17] This hypothesis is not universally accepted: Pennington, for
-example, believes that Gratian may have relied on one or more
+example, believes that Gratian may have also relied on one or more
 now-lost Central Italian collections similar to the *Collection in
 Nine Books* (*9L*).[^27]
 
@@ -285,7 +286,8 @@ usually referred to as "forgers," a convention I will observe in
 the following discussion, but they were not simply inventing their
 sources. Most of the material in the collections was genuine but
 of relatively recent origin -- the goal of the forgers was simply
-to retroject it far enough into the past to make it authoritative.
+to retroject it far enough into the past to meet the standard they
+set for authoritativeness.
 
 In order to understand the intent of the forgers, one has to
 understand the immediate political situation to which they were
@@ -304,7 +306,7 @@ forgers' program therefore was to render bishops effectively
 impervious to judgment. The collections that resulted from this
 effort, the so-called Pseudo-Isidorian *Decretals* and *Benedictus
 Levita*, were accepted everywhere as genuine in an age lacking any
-serious historical-critical awareness and survived to become important
+serious historical-critical awareness, and they survived to become important
 sources for canonical collectors in the eleventh century.[^29] Many
 of these forged canons eventually found their way into Gratian's
 *Decretum*.
@@ -331,19 +333,18 @@ reform period were compiled by prelates sympathetic with the reform
 movement, such as Anselm, bishop of Lucca (†1086), compiler of the
 *Collectio canonum*; Gregory, cardinal of San Grisogono (†1113),
 compiler of the *Polycarpus*; and Ivo, bishop of Chartres (†1115),
-compiler of the *Panormia*. These collections were compiled by and
-reflected the concerns of reform-minded church administrators.
-Burchard of Worms (†1025) was a forerunner of this group -- although
+compiler of the *Panormia*.
+Burchard of Worms (†1025) was a forerunner of this group. Although
 he died before the reform papacy or the investiture controversy,
-his *Decretum* has more in common with the collections that came
-after it than with those that came before it, insofar as it is
+his *Decretum* has more in common with collections
+compiled during that period, insofar as it is
 systematic and reflects concerns similar to those of his successors.
 
 Unsurprisingly, given their concern with asserting the jurisdictional
 supremacy of the papacy and the independence of the church from lay
 interference, the eleventh-century collectors showed considerable
-interest in the forged decretals of the ninth century. In particular,
-252 out of the 315 chapters of the anonymous *Collection in 74
+interest in the forged decretals of the ninth century. For example,
+252 of the 315 chapters of the anonymous *Collection in 74
 Titles* (ca. 1050) are drawn from the Pseudo-Isidorian *Decretals*.[^30]
 
 The program of the Gregorian reformers collided with two practical
@@ -360,17 +361,17 @@ resolved by the Concordat of Worms (1122), which provided that key
 benefices were to be filled through regular canonical processes
 free from lay interference (such as election by a cathedral chapter)
 but that the benefice holder should swear fealty to the secular
-ruler for their landholdings.
+ruler for his fiefs.
 
 Gratian depended on a relatively small number of eleventh- and early
 twelfth-century systematic canonical collections, his formal sources,
 and those predecessor collections, in turn, depended on an older
 stratum of mostly chronologically arranged canonical collections.
-Gratian was selecting from a body of canonical material that had
+Gratian was thus selecting from a body of canonical material that had
 already passed through a fairly rigorous filtering process, and two
 of the most important filters---the ninth-century pseudo-Isidorian
-forgers and the eleventh-century Gregorian reformers---had had an
-extremely strong ideological orientation.
+forgers and the eleventh-century Gregorian reformers---had had
+extremely strong ideological orientations.
 
 [^2]: "Given this lack of reliable extrinsic evidence, our best
 source of evidence about Gratian is his book(s)." [@wei_gratian_2016,
@@ -549,16 +550,27 @@ of the text in his inscription: D.13 c.2; D.45 c.9 and c.14; D.46
 c.1 and c.2; D.47 c.3. Each text is also in the first recension."
 @landau_gratian_2008, 35n22.
 
+[^26]: [@landau_arbeitsplan_1994]. See also [@winroth_making_2000, 15-17].
+
 [^27]: For the *Collectio IX librorum* of the Ms Vat. lat. 1349
 (*9L*), see [@fowler-magerl_clavis_2005, 79-82]
 
 [^29]: For the much-criticized 1863 edition, see
-[@hinschius_decretales_1963]. See also [@zechiel-eckes_blick_2001];
-[Zum Inhalt von "Projekt Pseudoisidor"](http://www.pseudoisidor.mgh.de/)
-by Karl-Georg Schon; [Introduction to Pseudo-Isidore - Decretum
+[@hinschius_decretales_1963]. Recent efforts to replace the Hinschius
+edition include [Zum Inhalt von "Projekt
+Pseudoisidor"](http://www.pseudoisidor.mgh.de/) by Karl-Georg Schon;
+and [Pseudo-Isidore | An edition-in-progress of the False
+Decretals](https://pseudo-isidore.com/) by Eric Knibbs. The work
+of Klaus Zechiel-Eckes (†2010) forms the basis for much of our current
+understanding of the place and date at which the pseudo-Isidorian
+collection was compiled (Corbie in the mid-830s), and therefore of
+the political motivations of the compilers; see
+[-@zechiel-eckes_blick_2001]. @fuhrmann_pseudo-isidorian_2001
+provides a good general introduction to the forged decretals; see
+also [Introduction to Pseudo-Isidore - Decretum
 Gratiani](https://sites.google.com/a/yale.edu/decretumgratiani/introduction-to-pseudo-isidore)
-by Eric Knibbs; and [Pseudo-Isidore | An edition-in-progress of the
-False Decretals](https://pseudo-isidore.com/) by Eric Knibbs.
+by Eric Knibbs. See @fuhrmann_einfluss_1972 on the influence of the
+forged decretals.
 
 [^30]: "Altogether I have estimated that 252 out of the 315 *capitula*
 were taken from Pseudo-Isidore." [@gilchrist_collection_1980, 15]
