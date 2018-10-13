@@ -16,23 +16,23 @@ presentation, the small-grain or micro structure of the *Decretum*,
 and organization, the large-grain or macro structure of the *Decretum*.
 The organization of the *Decretum* is very regular, so structurally
 regular, in fact, that Reuter and Silagi's OCP e-text of the Friedberg
-edition can be taken apart using a recursive descent parser,[^31]
+edition can be taken apart using a recursive descent parser[^31]
 and should be thought of as a sequence of hierarchically nested
-containers. Taking a bottom-up approach, we will turn first to the
+containers. Taking a bottom-up approach, we will first consider the
 presentation or small-grain structure, and start with the canons,
 the atomic containers out of which the higher-order containers in
 the *Decretum*---parts, distinctions, cases, and questions---are
 built up.
 
 The way in which canons are presented in the *Decretum* differs
-somewhat from the way in which they were presented in the predecessor
-collections of formal sources from which Gratian selected his
+somewhat from the way in which they were presented in the
+formal sources from which Gratian selected his
 material. A canon in the formal sources typically included
 an inscription, a rubric, and the canon text. Gratian added
 a *dictum post canonem* (plural *dicta post canones*)
 containing his own commentary on the preceding canon or canons, a
 feature borrowed from Alger of Liège's theological treatise *De
-misericordia et iustitia*, but without an immediate precedent in
+misericordia et iustitia* but without an immediate precedent in
 the canonical literature.[^32]
 
 #### Inscription
@@ -71,7 +71,7 @@ introduced between the first and second recensions.)**
 in the section on the collection and selection of canons.)**
 
 Finally, there are the *dicta post canones*, usually abbreviated
-d.p.c., and literally meaning "something said after the canon". The
+d.p.c. and literally meaning "something said after the canons." The
 *dicta post* are statements that Gratian made on his own authority
 as a jurist, carry the thread of his argument, and do his interpretive
 work. The *dicta* are texts that Gratian (whether we think of him
