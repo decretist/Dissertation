@@ -1,6 +1,6 @@
 # the Gratian project
 
-![Gratian](images/Gratian.jpg)
+![Gratian](img/Gratian.jpg)
 
 ## Dissertation
 
@@ -18,7 +18,7 @@ pandoc -f docx -t markdown "Chapter 3 - Gratian.docx" -o chapter3-gratian.md
 ```
 :set spell
 :set spelllang=en_us
-:set spellfile=$HOME/Work/Dissertation/spellfile/en.utf-8.add
+:set spellfile=$HOME/Work/Dissertation/spl/en.utf-8.add
 ```
 If you hand-edit the .add spellfile,
 you will have to re-generate the .spl database:
