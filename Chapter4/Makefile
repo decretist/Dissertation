@@ -1,11 +1,13 @@
-chapter4.docx: chapter4.md ../bib/merged.bib ../reference/reference.docx
-	pandoc -o chapter4.docx --filter pandoc-citeproc --reference-doc=../reference/reference.docx chapter4.md
+all: chapter4.docx ICMCL.docx Rem_Non_Novam.docx
 
-ICMCL.docx: ICMCL.md project.bib ../reference/reference.docx
-	pandoc -o ICMCL.docx --filter pandoc-citeproc --reference-doc=../reference/reference.docx ICMCL.md
+chapter4.docx: chapter4.md ../bib/merged.bib ../ref/reference.docx
+	pandoc -o chapter4.docx --filter pandoc-citeproc --reference-doc=../ref/reference.docx chapter4.md
 
-Rem_Non_Novam.docx: Rem_Non_Novam.md project.bib ../reference/reference.docx
-	pandoc -o Rem_Non_Novam.docx --filter pandoc-citeproc --reference-doc=../reference/reference.docx Rem_Non_Novam.md
+ICMCL.docx: ICMCL.md project.bib ../ref/reference.docx
+	pandoc -o ICMCL.docx --filter pandoc-citeproc --reference-doc=../ref/reference.docx ICMCL.md
+
+Rem_Non_Novam.docx: Rem_Non_Novam.md project.bib ../ref/reference.docx
+	pandoc -o Rem_Non_Novam.docx --filter pandoc-citeproc --reference-doc=../ref/reference.docx Rem_Non_Novam.md
 
 clean:
 	rm -i chapter4.docx

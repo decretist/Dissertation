@@ -1,9 +1,11 @@
-sg.docx: sg.md ../bib/merged.bib ../reference/draft.docx
-	pandoc -o sg.docx --filter pandoc-citeproc --reference-doc=../reference/draft.docx sg.md
+all: sg.docx chapter5.docx
 
-chapter5.docx: chapter5.md ../bib/merged.bib ../reference/draft.docx
-	pandoc -o chapter5.docx --filter pandoc-citeproc --reference-doc=../reference/draft.docx chapter5.md
+sg.docx: sg.md ../bib/merged.bib ../ref/draft.docx
+	pandoc -o sg.docx --filter pandoc-citeproc --reference-doc=../ref/draft.docx sg.md
+
+chapter5.docx: chapter5.md ../bib/merged.bib ../ref/draft.docx
+	pandoc -o chapter5.docx --filter pandoc-citeproc --reference-doc=../ref/draft.docx chapter5.md
 
 clean:
-	rm -i chapter5.docx
+	rm -i sg.docx chapter5.docx
 
