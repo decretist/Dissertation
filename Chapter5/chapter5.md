@@ -7,7 +7,7 @@ title: Chapter 5
 subtitle: Close Reading of the Case Statements
 ---
 [Introduction to comparative translations of the Sg and Friedberg
-(vulgate) texts of the case statements or *themata*.]
+(vulgate) texts of the case statements or _themata_.]
 
 The rationale for using Friedberg as the baseline for comparison
 is that Winroth's edition in progress of the first recension is not
@@ -22,9 +22,9 @@ single variant reading from Aa. The remaining 21 case statements
 apparatus at all.
 
 Fortunately, the text of the case statements is fairly stable over
-the course of development of the *Decretum* between its first
-recension and vulgate versions. Winroth in the appendix to *The
-Making of Gratian's Decretum* [@winroth_making_2000, 216] reports
+the course of development of the _Decretum_ between its first
+recension and vulgate versions. Winroth in the appendix to _The
+Making of Gratian's Decretum_ [@winroth_making_2000, 216] reports
 only one significant variant reading for a case statement. The
 first-recension version of C.19 d.init. omits the phrase "unus
 relicta propria ecclesia eo inuito, alter dimissa regulari canonica
@@ -56,25 +56,27 @@ original text, but defined by the deformances through which it was
 generated from it, and can be analyzed for otherwise unavailable
 insights into the original text.
 
-### Sg
+## Sg
 
 The primary focus of my dissertation has been on the textual
 relationship between the case statements in Part II of Gratian's
-*Decretum* and the first-recension *dicta*. As I have discussed at
+_Decretum_ and the first-recension _dicta_. As I have discussed at
 some length in Chapter 4 above, the author of the case statements
 appears unlikely to have been the same person as the author of the
-first-recension *dicta*, the person we usually think of as Gratian.
+first-recension _dicta_, the person we usually think of as Gratian.
 The text of the case statements is relatively stable over the course
-of the development of the *Decretum* from the first recension to
+of the development of the _Decretum_ from the first recension to
 the vulgate. There is, however, another version of the text of the
 case statements that needs to be considered, the one found in the
-Sankt Gallen Stiftsbibliothek 673 (Sg) manuscript of the *Decretum*.
+Sankt Gallen Stiftsbibliothek 673 (Sg) manuscript of the _Decretum_.
 
-The version of the *Decretum* preserved in Sg contains around a
+The version of the _Decretum_ preserved in Sg contains around a
 thousand canons, and it is therefore considerably shorter than
 either the first recension (1,860 canons) or the vulgate (3,945)
-versions of the text. ^[See @larrainzar_borrador_1999 for number
-of canons in Sg, emphasizing that it is approximate. Pennington has
+versions of the text.[^a]
+
+[^a]: See @larrainzar_borrador_1999 for number of canons in Sg,
+emphasizing that it is approximate. Pennington has
 [1,050](http://legalhistorysources.com/Canon%20Law/ComparisonGratian.htm).
 See @winroth_making_2000 for number of canons in first recension.
 3,945 is a conventional number.]
@@ -83,7 +85,7 @@ Formally, Sg is not divided into parts; all of its content is
 presented in the form of cases. The first case, however, unique to
 Sg and referred to as Causa Prima to distinguish it from Causa I
 found in the first recension and vulgate versions, contains a subset
-of the canons found in Part I in other versions of the *Decretum*.
+of the canons found in Part I in other versions of the _Decretum_.
 Sg has 33 cases, adding Causa Prima and omitting cases 24, 25, 26,
 and 28.
 
@@ -96,18 +98,179 @@ Sg (3,173 words) than in the vulgate (3,312 words). **The Sg cases
 statements are not more "verbose" than their vulgate counterparts.**
 There are, however noticeable differences in vocabulary.
 
-### Comparative Translation of C.19 d.init.
+## Comparative Translation of C.4 d.init.
 
-#### Sg text:
+### Sg text:
 
-(144b) Volunt duo clerici ad monasterium transire. Petiit uterque
-ab episcopo suo licentiam. Unde queritur, an debeat episcopus
-permittere, ut propria ecclesia relicta, clericus monachus fiat?
-Secundo, si episcopus dare licentiam noluerit, an eo invito monasterium
-adire possit? Tertio, si contigerit ipsos regulares canonicos fuisse,
-utrum monasterii ingressus eis esset concedendus?
+> (72b) In excommunicatione quidam erat constitutus et episcopum
+> accusare disponit; adolescentem infra annos xiiii secum ad asserendam
+> causam adducit. Qui dum ab accusatione prohibeatur, facit se testem;
+> et minorem accusatore minor vero accusatoris et testis personam
+> gerere desiderat. Statuta die episcopus ad iudicium non venit
+> suspenditur a communione. Renovato denuo iudicio accusator in
+> accusatione culpabilis invenitur. Demum ad assertionem propriae
+> causae procedit. Queritur ergo primo, an constitutus in excommunicatione
+> possit alium accusare? Secundo, an infra xiiii annos in criminali
+> (73a) causa quis testificari valeat? Tercio, an ab accusatione quis
+> prohibitus testificantis vicem possit assumere? Quarto, accusator
+> et testis an possit idem esse? Quinto, an quis non veniens die
+> praestituta excommunicari debeat id est a communicatione privari?
+> Sexto, si culpabilis quis in episcopali iudicio inveniatur ad
+> assertionem propriae causae sit amplius admittendus?
 
-#### Sg translation:
+### Sg translation:
+
+Someone was excommunicated and arranges to accuse a bishop; he
+brings in an adolescent under 14 years for the purpose of asserting
+the case with him. Who, when he is prohibited from accusation, makes
+himself a witness and the minor the accuser;[^b] but the minor
+wishes to perform the role of [both] accuser and witness. On the
+appointed day, the bishop does not come to court [and] is suspended
+from communion. After the court reconvened again,[^c] the accuser
+is found [to be] at fault in [bringing] the accusation. Finally,
+he proceeds to the assertion of his own case. It is asked therefore
+first whether an excommunicate can accuse another? Second, whether
+someone (_quis_) under 14 years is able to testify in a criminal
+case? Third, whether someone (_quis_) prohibited from accusation
+can assume the part of testifying? Fourth, whether the same person
+can be [both] accuser and witness? Fifth, whether someone (_quis_)
+not coming on the predetermined (_praestituta_) day ought to be
+excommunicated, that is, deprived of communion? Sixth, if someone
+(_quis_) found [to be] at fault in the episcopal court ought to be
+further (_amplius_) admitted to the assertion of his own case?
+
+[^b]: Reading here as _accusatorem_; presumably as a result of
+scribal error, Sg reads _accusatore_.
+
+[^c]: _lit_. "the court having been renewed again".
+
+One of the apparent contrasts between the Sg and vulgate (Fr.)
+versions of C.4 d.init. is in their use of legal technical terms.
+The refusal of the accused bishop to appear before the court on the
+appointed day, presumably because he does not recognize its authority
+to try a case arising from an improper accusation, is described in
+the Sg version using everyday language: "_episcopus ad iudicium non
+venit_ (the bishop does not come to court)." Similarly in the fifth
+question arising out of his refusal: "_an quis non veniens die
+praestituta excommunicari debeat_ (whether someone not coming on
+the predetermined day ought to be excommunicated)." The vulgate
+(Fr.) version of C.4 d.init., however, uses _minime occurrit_ in
+place of _non venit_ and _occurrens_ in the place of _veniens_ in
+a way that presumes that _minime occurrit_ is a legal technical
+term with almost precisely the same meaning we use today when we
+say that a criminal defendant has been cited for failure to appear
+in court.[^d][^e]
+
+[^d]: There is also a literary precedent for translating the somewhat
+opaque phrase _minime occurit_ as "does not appear" in the commentary
+of Maurus Servius Honoratus on Virgil: "_aut audire quod non dicitur,
+videre quod minime occurrit_ (or to hear what is not spoken, to see
+what does not appear)". **Need reference to critical edition of
+Servius**
+
+[^e]: AaBcFdP read _minime concurrit_ rather than _minime occurrit_.
+It is not clear whether this variant is meaningful, or whether the
+first-recension manuscripts simply perpetuate an error introduced
+in the hypothesized α hyparchetype from which they are now thought
+to descend.
+
+Excommunication is discussed in the Sg version of C.4 d.init. in a
+way that indicates that the concept is not an entirely settled one.
+On the one hand, the phrase _in excommunione constitutus_ seems to
+be used in the Sg text of the case statement as a legal technical
+term: someone, like the accuser, who is said to be _in excommunione
+constitutus_ seems to have been permanently excommunicated, while
+the accused bishop is said to have been _suspenditur a communione_
+(suspended from communion), by implication only temporarily, for
+his failure to appear in court. On the other hand, the Sg version
+of the case statement takes care to define excommunication: "id est
+a communicatione privari (that is, to be deprived of communion)",
+something the composer of the vulgate (Fr.) version of the case
+statement does not find necessary.
+
+The Sg version of C.4 d.init. uses the present tense, possibly
+intended to be understood as historical present, consistently
+throughout the case statement.
+
+"After **sī**, **nisī**, **num**, and **nē**, all the **ali-**'s
+drop away." Moreland and Fleischer, 217. See also Gildersleeve and
+Lodge, §107; Allen and Greenough, §310a.
+
+### Fr. text:
+
+> (Fr. 536) Quidam in excommunicatione constitutus episcopum accusare
+> disponit; adolescentem infra decimum et quartum etatis suae annum
+> ad assertionem suae causae adducit; prohibitus ab accusatione
+> adolescentem accusatorem et se testem facit; adolescens personam
+> accusatoris et testis gerere cupit; die statuta ad electorum iudicum
+> iudicium episcopus minime occurrit; a communione suspenditur; tandem
+> renouato iudicio accusator culpabilis in accusatione inuenitur;
+> demum ad assertionem propriae causae procedit. Hic primum queritur,
+> an in excommunicatione constitutus alium accusare ualeat? Secundo,
+> an infra decimum quartum annum in criminali causa testari quis
+> possit? Tertio, utrum ab accusatione prohibitus personam testificantis
+> possit assumere? Quarto, an idem possit esse accusator et testis?
+> Quinto, an die constituta non occurrens a communione **ait** remouendus?
+> Sexto, si in episcoporum **indicio** accusatoris persona culpabilis
+> inuenta fuerit, an ad assertionem propriae causae de cetero sit
+> admittenda?
+
+The MGH e-text edited by Reuter and Silagi introduced the OCR errors
+**ait** into the text of the fifth question (_Quinto, an die
+constituta non occurrens a communione **ait** remouendus?_) and
+**indicio** into the text of the sixth question (_Sexto, si in
+episcoporum **indicio** accusatoris persona culpabilis inuenta
+fuerit ..._). The printed version of Friedberg correctly reads _a
+communione **sit** remouendus_ and _in episcoporum **iudicio**_.
+
+### AaBcP text:
+
+Quidam in excommunicatione constitutus episcopum accusare disponit;
+adolescentem infra xiiiium etatis sue annum ad assertionem sue cause
+adducit. Prohibitus ab accusatione adolescentem accusatorem et se
+testem facit. Adolescens personam accusatoris et testis gerere
+cupit; die statuta ad iudicium electorum iudicum episcopus minime
+concurrit; a communione suspenditur; tandem renouato iudicio accusator
+culpabilis in accusatione inuenitur; demum ad assertionem proprie
+cause procedit. Hic primum queritur, an in excommunicatione constitutus
+alium accusare ualeat? Secundo, an infra xiiiium annum in criminali
+causa testari quis possit? Tercio, utrum ab accusatione prohibitus
+personam testificantis possit assumere? Quarto, an idem possit esse
+accusator et testis? Quinto, an die constituta non occurrens a
+communione sit remouendus? Sexto, si in episcoporum iudicio accusatoris
+persona culpabilis inuenta fuerit, an ad assertionem proprie cause
+de cetero sit admittenda?
+
+**Quidam]** AaBc _om._ P
+**excommunicatione]** AaBc excomunicatione P
+**adolescentem]** AaP adulescentem Bc
+**etatis...annum]** BcP annum etatis sue Aa
+**die]** AaBc di P
+**iudicium]** AaP iuditium Bc 
+**iudicum]** AaBc iudicium P
+**concurrit]** AaBcP occurrit Fr.
+**suspenditur]** AaBc suspendere P
+**iudicio]** AaP iuditio Bc
+**an]** AaBc autem P
+AaBc infra P
+**criminali]** AaBc criminari P
+**ab]** AaBc _om._ P
+**an...Quinto,]** AaBc _om._ P
+**an]** AaBc aut P
+**iudicio]** AaP iuditio Bc
+
+## Comparative Translation of C.19 d.init.
+
+### Sg text:
+
+> (144b) Volunt duo clerici ad monasterium transire. Petiit uterque
+> ab episcopo suo licentiam. Unde queritur, an debeat episcopus
+> permittere, ut propria ecclesia relicta, clericus monachus fiat?
+> Secundo, si episcopus dare licentiam noluerit, an eo invito monasterium
+> adire possit? Tertio, si contigerit ipsos regulares canonicos fuisse,
+> utrum monasterii ingressus eis esset concedendus?
+
+### Sg translation:
 
 Two clerics want to transfer to a monastery. Each sought permission
 from his bishop. Whence it is asked whether a bishop ought to permit
@@ -117,18 +280,18 @@ enter a monastery against his wishes? Third, if it happened that
 they had been canons regular, whether entry to a monastery should
 have been granted to them. (Sg)
 
-#### Fr. text:
+### Fr. text:
 
-(Fr. 839) Duo clerici ad monasterium transire uolunt; uterque
-licentiam ab episcopo suo petiit; unus relicta propria ecclesia eo
-inuito, alter dimissa regulari canonica cenobio se contulit. Modo
-queritur, si episcopus debeat permittere, ut relicta propria ecclesia
-clericus monasterium ingrediatur? Secundo queritur, si episcopus
-licentiam dare noluerit, an eo inuito monasterium possit adire?
-Tertio, si contigerit ipsos regulares canonicos fuisse, utrum
-concedendus esset eis monasterii ingressus?
+> (Fr. 839) Duo clerici ad monasterium transire uolunt; uterque
+> licentiam ab episcopo suo petiit; unus relicta propria ecclesia eo
+> inuito, alter dimissa regulari canonica cenobio se contulit. Modo
+> queritur, si episcopus debeat permittere, ut relicta propria ecclesia
+> clericus monasterium ingrediatur? Secundo queritur, si episcopus
+> licentiam dare noluerit, an eo inuito monasterium possit adire?
+> Tertio, si contigerit ipsos regulares canonicos fuisse, utrum
+> concedendus esset eis monasterii ingressus?
 
-#### Fr. translation:
+### Fr. translation:
 
 Two clerics want to transfer to a monastery; each sought permission
 from his bishop; one after leaving his own church against the wishes
@@ -140,12 +303,12 @@ cleric can enter a monastery against his wishes? Third, if it
 happened that they had been canons regular, whether entry to a
 monastery should have been granted to them?
 
-### Incipits to first questions
+## Incipits to first questions
 
-#### Sg
+### Sg
 
 [Fully one-third---11 out of 33---of the incipits to first questions
-in the Sg version of the case statements are unique.  The Friedberg
+in the Sg version of the case statements are unique. The Friedberg
 (vulgate) and Sg versions of incipits to first questions are identical
 in only three out of 32 directly comparable case statements (those
 for C.30 d.init., C.32 d.init., and C.33 d.init.).]
@@ -158,7 +321,7 @@ primum (1), Unde modo queritur (1), Unde primo dubitatur (1), Unde
 primum queritur (1), Unde prius queritur (1), Unde queri potuit
 (1), Unde questio primum proponitur (1)
 
-#### Fr.
+### Fr.
 
 Hic primum queritur (15), Queritur (8), Modo primum queritur (3),
 Nunc primum queritur (3), Primo queritur (2), Primum queritur (2),
