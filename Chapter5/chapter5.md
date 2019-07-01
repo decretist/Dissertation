@@ -73,9 +73,9 @@ Sankt Gallen Stiftsbibliothek 673 (Sg) manuscript of the _Decretum_.
 The version of the _Decretum_ preserved in Sg contains around a
 thousand canons, and it is therefore considerably shorter than
 either the first recension (1,860 canons) or the vulgate (3,945)
-versions of the text.[^a]
+versions of the text.[^3]
 
-[^a]: See @larrainzar_borrador_1999 for number of canons in Sg,
+[^3]: See @larrainzar_borrador_1999 for number of canons in Sg,
 emphasizing that it is approximate. Pennington has
 [1,050](http://legalhistorysources.com/Canon%20Law/ComparisonGratian.htm).
 See @winroth_making_2000 for number of canons in first recension.
@@ -123,10 +123,10 @@ There are, however noticeable differences in vocabulary.
 Someone was excommunicated and arranges to accuse a bishop; he
 brings in an adolescent under 14 years for the purpose of asserting
 the case with him. Who, when he is prohibited from accusation, makes
-himself a witness and the minor the accuser;[^b] but the minor
+himself a witness and the minor the accuser;[^4] but the minor
 wishes to perform the role of [both] accuser and witness. On the
 appointed day, the bishop does not come to court [and] is suspended
-from communion. After the court reconvened again,[^c] the accuser
+from communion. After the court reconvened again,[^5] the accuser
 is found [to be] at fault in [bringing] the accusation. Finally,
 he proceeds to the assertion of his own case. It is asked therefore
 first whether an excommunicate can accuse another? Second, whether
@@ -139,10 +139,10 @@ excommunicated, that is, deprived of communion? Sixth, if someone
 (_quis_) found [to be] at fault in the episcopal court ought to be
 further (_amplius_) admitted to the assertion of his own case?
 
-[^b]: Reading here as _accusatorem_; presumably as a result of
+[^4]: Reading here as _accusatorem_; presumably as a result of
 scribal error, Sg reads _accusatore_.
 
-[^c]: _lit_. "the court having been renewed again".
+[^5]: _lit_. "the court having been renewed again".
 
 One of the apparent contrasts between the Sg and vulgate (Fr.)
 versions of C.4 d.init. is in their use of legal technical terms.
@@ -159,20 +159,20 @@ place of _non venit_ and _occurrens_ in the place of _veniens_ in
 a way that presumes that _minime occurrit_ is a legal technical
 term with almost precisely the same meaning we use today when we
 say that a criminal defendant has been cited for failure to appear
-in court.[^d][^e]
+in court.[^6][^7]
 
-[^d]: There is also a literary precedent for translating the somewhat
+[^6]: There is also a literary precedent for translating the somewhat
 opaque phrase _minime occurit_ as "does not appear" in the commentary
 of Maurus Servius Honoratus on Virgil: "_aut audire quod non dicitur,
 videre quod minime occurrit_ (or to hear what is not spoken, to see
-what does not appear)". **Need reference to critical edition of
-Servius**
+what does not appear)". **Add reference to critical edition of
+Servius.**
 
-[^e]: AaBcFdP read _minime concurrit_ rather than _minime occurrit_.
-It is not clear whether this variant is meaningful, or whether the
-first-recension manuscripts simply perpetuate an error introduced
-in the hypothesized α hyparchetype from which they are now thought
-to descend.
+[^7]: AaBcFdP reads _minime concurrit_ rather than _minime occurrit_.
+It is not clear whether this variant is meaningful, or whether it
+simply perpetuates an error introduced into the hypothesized α
+hyparchetype from which all first-recension manuscripts are now
+thought to have been derived. **Add reference to Winroth article.**
 
 Excommunication is discussed in the Sg version of C.4 d.init. in a
 way that indicates that the concept is not an entirely settled one.
@@ -222,6 +222,21 @@ constituta non occurrens a communione **ait** remouendus?_) and
 episcoporum **indicio** accusatoris persona culpabilis inuenta
 fuerit ..._). The printed version of Friedberg correctly reads _a
 communione **sit** remouendus_ and _in episcoporum **iudicio**_.
+
+### Fr. translation:
+
+> Someone permanently excommunicated (_in excommunicatione constitutus_)
+> arranges to accuse a bishop; he brings in (_adducit_) an adolescent
+> under fourteen years of age to the assertion (t.t.) of his case;
+> prohibited from accusation, he make the adolescent the accuser and
+> himself the witness; the adolescent wishes to conduct/perform
+> (_gerere_) the role (_personam_) of [both] accuser and witness; on
+> the appointed day, the bishop does not appear before (_lit._ to)
+> the court of the judge-electors; he is suspended from communion;
+> at last, after the court reconvened [_lit._ the court having been
+> renewed], the accuser is found [to be] at fault in [bringing] the
+> accusation; finally he proceeds to the assertion (t.t.) of his own
+> case.
 
 ### AaBcP text:
 
