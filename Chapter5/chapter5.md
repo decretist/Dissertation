@@ -274,6 +274,88 @@ AaBc infra P
 **an]** AaBc aut P
 **iudicio]** AaP iuditio Bc
 
+## Comparative Translation of C.7 d.init.
+
+### Sg text:
+
+> (79b) Episcopus quidam infirmitate longa detentus rogavit alium
+> sibi substitui, precibus cuius pontifex romanus annuit, et quod
+> rogavit ei concessit; postea convaluit episcopus idem, et quod prius
+> fecerat rescindi cupit. Movet questionem contra qui succasserat.
+> Reposcit (80a) cathedram suam tamquam sibi debitam. Queritur ergo
+> an episcopo vivente alius in eadem possit ecclesia ordinari? Secundo,
+> an cathedram iste reposcere valeat, quam aliter intercessione propria
+> intercepit?
+
+### Sg translation:
+
+> A certain bishop held down (_detentus_) by a long infirmity asked
+> that another be substituted (_substitui_) for himself, through whose
+> prayers the Roman pontiff approved, and what [the bishop] asked
+> [the pope] granted to him; afterwards the same bishop recovered,
+> and what he had previously done, he wishes to be annulled (_rescindi_).
+> He moves a question against [him] who had succeeded (_succasserat_).
+> He demands back his see as if a debt to himself. It is asked therefore
+> whether (_an_), the bishop [still] living, someone can be ordained
+> into the same church? Second, whether he is able to demand back
+> (_reposcere_) a see which _intercepit_ otherwise through his own
+> intercession?
+
+### Fr. text:
+
+> (566) Quidam longa inualetudine[^8] grauatus episcopus alium sibi
+> substitui rogauit, cuius precibus summus Pontifex annuit, et quod
+> rogauerat ei concessit. Postea uero conualuit idem episcopus, et
+> quod prius fecerat cupit rescindi; aduersus eum, qui sibi accesserat,
+> questionem mouet, suam cathedram tamquam sibi debitam reposcit. Hic
+> primum queritur, utrum uiuente episcopo alius possit in ecclesia
+> eadem ordinari? Secundo, an iste ualeat reposcere cathedram, quam
+> sua intercessione alter accepit?
+
+[^8]: _inualetudine_: Fr. (566), Aa (156r), Bc (150ra), and Fd
+(36rb) read _inualitudine_ or _invalitudine_. There is an OCR error
+(_inualetudinem_) in the MGH e-text. Ka (127va), Kb (120rb), and
+Sg (79b) read _infirmitate_. **Check P.**
+
+### Fr. translation:
+
+> A bishop burdened (_grauatus_) by a long sickness (_inualetudine_)
+> asked that another be substituted (_substitui_) for himself, through
+> whose prayers the supreme pontiff approved, and what [the bishop]
+> had asked [the pope] granted to him. But afterwards the same bishop
+> recovered, and what he had previously done, he wishes to be annulled
+> (_rescindi_); against him, who had acceded (_accesserat_) to him,
+> he moves a question [and] demands back his see as if a debt to
+> himself. Here it is first asked whether (_utrum_), the bishop [still]
+> living, someone can be ordained into the same church? Second, whether
+> he is able to demand back (_reposcere_) a see which another received
+> through his intercession?
+
+_quidam_: translate _quidam_ as a demonstrative adjective ("a certain
+X") when it follows the noun it modifies; translate _quidam_ as an
+article ("an X") when it precedes the noun it modifies, as is the
+convention in modern European languages.
+
+_substitui_ and _rescindi_: 3rd conjugation present passive infinitives.
+
+_possit_ and _valeat_: translate _possit_ as "he can"; translate _valeat_
+as "he is able to".
+
+_Movet questionem_, _questionem mouet_: legal t.t., reappears in C.14
+d.init.
+
+Square brackets enclose words supplied in the translation.
+
+There are eight noun-adjective pairs in the text of C.7 d.init. In
+the Sg version of the text, the adjective follows the noun in all
+but one instance: _Episcopus quidam_, _infirmitate longa_, _pontifex
+romanus_, _episcopus idem_, _cathedram suam_, _episcopo vivente_,
+_eadem ... ecclesia_, and _intercessione propria_. In the Fr.
+version of the text, the adjective precedes the noun in all but one
+instance: _Quidam ... episcopus_, _longa inualetudine_, _summus
+Pontifex_, _idem episcopus_, _suam cathedram_, _uiuente episcopo_,
+_ecclesia eadem_, and _sua intercessione_.
+
 ## Comparative Translation of C.19 d.init.
 
 ### Sg text:
