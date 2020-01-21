@@ -1,4 +1,5 @@
 *.docx
 *.spl
+.DS_Store
 Chapter3/tmp.md
 
