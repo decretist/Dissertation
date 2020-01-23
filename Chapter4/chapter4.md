@@ -113,6 +113,8 @@ such common words---it's not like we're talking about low-frequency
 words where a small difference in the count can make for a big
 difference in percentage.
 
+![Figure 0 updated 22 Jan 2020](PNGs/Figure_0.png)
+
 We could graph the number of occurrences of "*in*" and "*non*" per
 100 words of the two samples (from the first- and second-recension
 *dicta*), with the percentage frequency of "*in*" on the horizontal
