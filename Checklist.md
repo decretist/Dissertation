@@ -1,16 +1,22 @@
 ### Winter 2020 Dissertation Checklist
 
 - [ ] Clean up GitHub Critical repo
-- [ ] Meeting with Stan Chodorow (Fri 24 Jan 2020)
 - [ ] Read Maciej Eder, "Does size matter? Authorship, attribution, small samples, big problem"
-- [ ] Read Mike Kestemont, Jeroen De Gummem, "Integrated Sequence Tagging for Medieval Latin Using Deep Representation Learning"
-- [ ] Upgrade Django
+- [ ] Read Mike Kestemont, Jeroen De Gussem, "Integrated Sequence Tagging for Medieval Latin Using Deep Representation Learning"
 - [ ] Incorporate Sg case statement plots into chapter4.md (plot first, then explanation)
 - [ ] Write definition of 1st- and 2nd-recension _dicta_ in samples
+- [ ] Jekyll
+
+(24 January 2020)
+- [ ] Meeting with Stan Chodorow
+
+(23 January 2020)
+- [x] Upgrade pip from 19.3.1 to 20.0.1
+- [x] Upgrade Django from 2.2.6 to 3.0.2. This is a major change and requires more testing that I've been able to do so far.
 
 (22 Jan 2020)
-- [x] Create simplistic _in_/_non_ plot and incorporate it into chapter4.md
-- [x] Add 'R2' to spelling dictionary. Don't forget to `:1,$!sort --ignore-case` and `mkspell! %` to update en.utf-8.add.spl after editing en.utf-8.add!
+- [x] Create simplistic _in_/_non_ frequency plot and incorporate it into chapter4.md
+- [x] Add 'R2' to spelling dictionary. Don't forget to run `:1,$!sort --ignore-case` and `:mkspell! %` in vim to update en.utf-8.add.spl after editing en.utf-8.add!
 
 (21 Jan 2020)
 - [x] Incorporate dash-q (_sine questionibus_) case statement plots into chapter4.md

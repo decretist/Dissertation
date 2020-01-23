@@ -270,6 +270,8 @@ first- and second-recension---is still quite striking.
 
 ![Figure 5 updated 25 Jun 2019](JPGs/NoQ_PCA_4_001.jpg)
 
+![Figure 6 updated 21 Jan 2019](JPGs/Sg_PCA_52_001.jpg)
+
 To turn to the other interesting aspect of the three-way comparison,
 you'll note that the second-recension *dicta* in blue cluster
 strongly to the upper-left quadrant. Now, Mike Witmore, a member
@@ -279,7 +281,7 @@ use of stylometry with the plays of Shakespeare, was somewhat
 optimistic on the basis of this evidence that the first- and
 second-recension *dicta* might be statistically distinguishable.
 
-![Figure 6 updated 11 Dec 2015](JPGs/2-way_PCA_53_MFWs_001.jpg)
+![Figure 7 updated 11 Dec 2015](JPGs/2-way_PCA_53_MFWs_001.jpg)
 
 So, in an attempt to take a closer look at the *dicta* by themselves,
 I removed the case statements and ran a two-way comparison of
@@ -294,7 +296,7 @@ the right of the PC1 axis, the two sets of samples are not separated
 as cleanly as we'd like to see, and certainly nowhere near as cleanly
 as the case statements were from the *dicta*.
 
-![Figure 7 updated 11 Dec 2015](JPGs/4-way_PCA_49_MFWs_001.jpg)
+![Figure 8 updated 11 Dec 2015](JPGs/4-way_PCA_49_MFWs_001.jpg)
 
 All of the slides we've seen so far exclude the *dicta* from *de
 Penitentia*, so before moving on to my conclusion, I do want to
