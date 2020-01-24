@@ -1,18 +1,19 @@
 ### Winter 2020 Dissertation Checklist
 
-- [ ] Clean up GitHub Critical repo
 - [ ] Read Maciej Eder, "Does size matter? Authorship, attribution, small samples, big problem"
 - [ ] Read Mike Kestemont, Jeroen De Gussem, "Integrated Sequence Tagging for Medieval Latin Using Deep Representation Learning"
-- [ ] Incorporate Sg case statement plots into chapter4.md (plot first, then explanation)
 - [ ] Write definition of 1st- and 2nd-recension _dicta_ in samples
-- [ ] Jekyll
 
 (24 January 2020)
-- [ ] Meeting with Stan Chodorow
+- [x] Meet with Stan Chodorow
+- [x] Confirm that the 21 January 2019 version of Sg_PCA_52_001.jpg was generated from a valid text sample including C.Prima d.init. and C.3 d.init.
 
 (23 January 2020)
 - [x] Upgrade pip from 19.3.1 to 20.0.1
 - [x] Upgrade Django from 2.2.6 to 3.0.2. This is a major change and requires more testing that I've been able to do so far.
+- [x] Incorporate Sg case statements PCA plot into chapter4.md (plot first, then explanation) into chapter4.md
+- [x] Clean up (commit, merge, rebase) GitHub Critical repository
+- [x] Install Jekyll 4.0.0
 
 (22 Jan 2020)
 - [x] Create simplistic _in_/_non_ frequency plot and incorporate it into chapter4.md
@@ -61,13 +62,15 @@
 
 ### Summer 2019 Dissertation Checklist
 
-- [ ] Correct OCR error in MGH e-text of Fr. C.4 d.init. (Change _Sexto, si in episcoporum **indicio** ..._ to _Sexto, si in episcoporum **iudicio** ..._)
 - [ ] C.Prima d.init. and C.3 d.init. are missing from Sg Hypothetical.txt. This potentially invalidates the 21 January 2019 version of Sg_PCA_52_001.jpg. Incorporate C.Prima d.init. and C.3 d.init., and re-run stylo()
 - [ ] Transcribe Fd C.4 d.init.
 - [ ] Translate R1 C.4 d.init.
 - [ ] Is "Diffinimus eum rite" (4.1.1) a marker that the text is
 descended from the α hyparchetype? (All of the formal sources in
 Clavis Canonum read "Definimus eum rite".)
+
+(1 Jul 2019)
+- [x] Correct OCR error in MGH e-text of Fr. C.4 d.init. (Change _Sexto, si in episcoporum **indicio** ..._ to _Sexto, si in episcoporum **iudicio** ..._) **Fixed only in Gratian/analysis/edF.txt.**
 
 (25 Jun 2019)
 - [x] Run stylo() on Gratian0-q.txt
