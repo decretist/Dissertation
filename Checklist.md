@@ -4,6 +4,9 @@
 - [ ] Read Mike Kestemont, Jeroen De Gussem, "Integrated Sequence Tagging for Medieval Latin Using Deep Representation Learning"
 - [ ] Write definition of 1st- and 2nd-recension _dicta_ in samples
 
+(29 January 2020)
+- [x] Report CLTK backoff lemmatizer problems to Patrick Burns (patrick@diyclassics.org)
+
 (24 January 2020)
 - [x] Meet with Stan Chodorow
 - [x] Confirm that the 21 January 2019 version of Sg_PCA_52_001.jpg was generated from a valid text sample including C.Prima d.init. and C.3 d.init.
@@ -62,7 +65,6 @@
 
 ### Summer 2019 Dissertation Checklist
 
-- [ ] C.Prima d.init. and C.3 d.init. are missing from Sg Hypothetical.txt. This potentially invalidates the 21 January 2019 version of Sg_PCA_52_001.jpg. Incorporate C.Prima d.init. and C.3 d.init., and re-run stylo()
 - [ ] Transcribe Fd C.4 d.init.
 - [ ] Translate R1 C.4 d.init.
 - [ ] Is "Diffinimus eum rite" (4.1.1) a marker that the text is
