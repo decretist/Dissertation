@@ -6,6 +6,8 @@
 
 (29 January 2020)
 - [x] Report CLTK backoff lemmatizer problems to Patrick Burns (patrick@diyclassics.org)
+- [x] Correct OCR error in MGH e-text of Fr. D.6 d.p.c.3 reported by Anders Winroth, 6 Oct 2019. (Change _**quantam** ad moralem intelligentiam_ to _**quantum** ad moralem intelligentiam_) **Fixed only in Gratian/analysis/edF.txt.**
+
 
 (24 January 2020)
 - [x] Meet with Stan Chodorow
