@@ -1,8 +1,10 @@
 ### Winter 2020 Dissertation Checklist
 
-- [ ] Read Maciej Eder, "Does size matter? Authorship, attribution, small samples, big problem"
 - [ ] Read Mike Kestemont, Jeroen De Gussem, "Integrated Sequence Tagging for Medieval Latin Using Deep Representation Learning"
 - [ ] Write definition of 1st- and 2nd-recension _dicta_ in samples
+
+(3 February 2020)
+- [x] Read Maciej Eder, "Does size matter? Authorship, attribution, small samples, big problem"
 
 (29 January 2020)
 - [x] Report CLTK backoff lemmatizer problems to Patrick Burns (patrick@diyclassics.org)
