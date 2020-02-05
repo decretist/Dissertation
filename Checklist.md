@@ -2,6 +2,14 @@
 
 - [ ] Read Mike Kestemont, Jeroen De Gussem, "Integrated Sequence Tagging for Medieval Latin Using Deep Representation Learning"
 - [ ] Write definition of 1st- and 2nd-recension _dicta_ in samples
+- [ ] Ivonian vocabulary (admonition, indulgence, precept, prohibition, dipensation) in R1 and R2 _dicta_.
+
+(5 February 2020)
+- [x] Recover PDF of Winroth, _The Making of Gratian's Decretum_
+
+(4 February 2020)
+- [x] Update to stylo version: 0.7.1
+- [x] Update to macOS Catalina 10.15.3
 
 (3 February 2020)
 - [x] Read Maciej Eder, "Does size matter? Authorship, attribution, small samples, big problem"
@@ -18,7 +26,7 @@
 (23 January 2020)
 - [x] Upgrade pip from 19.3.1 to 20.0.1
 - [x] Upgrade Django from 2.2.6 to 3.0.2. This is a major change and requires more testing that I've been able to do so far.
-- [x] Incorporate Sg case statements PCA plot into chapter4.md (plot first, then explanation) into chapter4.md
+- [x] Incorporate Sg case statements PCA plot into chapter4.md (plot first, then explanation)
 - [x] Clean up (commit, merge, rebase) GitHub Critical repository
 - [x] Install Jekyll 4.0.0
 
@@ -53,7 +61,7 @@
 - [x] Install pylint-2.4.4
 
 (9 Jan 2020)
-- [x] Upgrade to macOS Catalina 10.15.2
+- [x] Update to macOS Catalina 10.15.2
 
 (8 Jan 2020)
 - [x] Disable SIP (System Integrity Protection or rootless):  
@@ -74,6 +82,12 @@
 - [ ] Is "Diffinimus eum rite" (4.1.1) a marker that the text is
 descended from the α hyparchetype? (All of the formal sources in
 Clavis Canonum read "Definimus eum rite".)
+
+(14 August 2019)
+- [x] Submit proposal for paper for 16th International Congress of Medieval Canon Law
+
+(13 August 2019)
+- [x] Submit proposal for poster presentation for 16th International Congress of Medieval Canon Law
 
 (1 Jul 2019)
 - [x] Correct OCR error in MGH e-text of Fr. C.4 d.init. (Change _Sexto, si in episcoporum **indicio** ..._ to _Sexto, si in episcoporum **iudicio** ..._) **Fixed only in Gratian/analysis/edF.txt.**
