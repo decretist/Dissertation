@@ -1,3 +1,6 @@
+visualization.docx: visualization.md ../ref/draft.docx
+	pandoc -o visualization.docx --reference-doc=../ref/draft.docx visualization.md
+
 all: chapter4.docx ICMCL.docx Rem_Non_Novam.docx
 
 chapter4.docx: chapter4.md ../bib/merged.bib ../ref/reference.docx
