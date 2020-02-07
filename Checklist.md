@@ -2,28 +2,31 @@
 
 - [ ] Read Mike Kestemont, Jeroen De Gussem, "Integrated Sequence Tagging for Medieval Latin Using Deep Representation Learning"
 - [ ] Write definition of 1st- and 2nd-recension _dicta_ in samples
-- [ ] Ivonian vocabulary (admonition, indulgence, precept, prohibition, dipensation) in R1 and R2 _dicta_.
+- [ ] Ivonian vocabulary (admonition, indulgence, precept, prohibition, dispensation) in R1 and R2 _dicta_.
 
-(5 February 2020)
+(6 Feb 2020)
+- [x] Correct serious flaw in introductory _in_/_non_ frequency and z-score plots. (Computed standard deviation as if samples of R1 and R2 _dicta_ were of the same size and had equal weight, see 22 Jan 2020)
+- [ ] Recheck statistical computations in the first visualization section of Chapter 4 with a calculator
+
+(5 Feb 2020)
 - [x] Recover PDF of Winroth, _The Making of Gratian's Decretum_
 
-(4 February 2020)
+(4 Feb 2020)
 - [x] Update to stylo version: 0.7.1
 - [x] Update to macOS Catalina 10.15.3
 
-(3 February 2020)
+(3 Feb 2020)
 - [x] Read Maciej Eder, "Does size matter? Authorship, attribution, small samples, big problem"
 
-(29 January 2020)
+(29 Jan 2020)
 - [x] Report CLTK backoff lemmatizer problems to Patrick Burns (patrick@diyclassics.org)
 - [x] Correct OCR error in MGH e-text of Fr. D.6 d.p.c.3 reported by Anders Winroth, 6 Oct 2019. (Change _**quantam** ad moralem intelligentiam_ to _**quantum** ad moralem intelligentiam_) **Fixed only in Gratian/analysis/edF.txt.**
 
-
-(24 January 2020)
+(24 Jan 2020)
 - [x] Meet with Stan Chodorow
 - [x] Confirm that the 21 January 2019 version of Sg_PCA_52_001.jpg was generated from a valid text sample including C.Prima d.init. and C.3 d.init.
 
-(23 January 2020)
+(23 Jan 2020)
 - [x] Upgrade pip from 19.3.1 to 20.0.1
 - [x] Upgrade Django from 2.2.6 to 3.0.2. This is a major change and requires more testing that I've been able to do so far.
 - [x] Incorporate Sg case statements PCA plot into chapter4.md (plot first, then explanation)
@@ -31,7 +34,7 @@
 - [x] Install Jekyll 4.0.0
 
 (22 Jan 2020)
-- [x] Create simplistic _in_/_non_ frequency plot and incorporate it into chapter4.md
+- [x] Create introductory _in_/_non_ frequency plot and incorporate it into chapter4.md
 - [x] Add 'R2' to spelling dictionary. Don't forget to run `:1,$!sort --ignore-case` and `:mkspell! %` in vim to update en.utf-8.add.spl after editing en.utf-8.add!
 
 (21 Jan 2020)
@@ -74,6 +77,12 @@
 
 (31 Dec 2019)
 - [x] Install enscript 1.6.6 in /usr/local/bin
+
+(15 Dec 2019)
++ **†John F. Burrows (1928-2019)**
+
+(30 Nov 2019)
++ **†Brian Tierney (1922-2019)**
 
 ### Summer 2019 Dissertation Checklist
 
