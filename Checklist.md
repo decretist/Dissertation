@@ -1,4 +1,4 @@
-### Winter 2020 Dissertation Checklist
+### 2020 Dissertation Checklist
 
 - [ ] Read Mike Kestemont, Jeroen De Gussem, "Integrated Sequence Tagging for Medieval Latin Using Deep Representation Learning"
 - [ ] Write definition of 1st- and 2nd-recension _dicta_ in samples
@@ -78,19 +78,19 @@
 (31 Dec 2019)
 - [x] Install enscript 1.6.6 in /usr/local/bin
 
-(15 Dec 2019)
-+ **†John F. Burrows (1928-2019)**
-
-(30 Nov 2019)
-+ **†Brian Tierney (1922-2019)**
-
-### Summer 2019 Dissertation Checklist
+### 2019 Dissertation Checklist
 
 - [ ] Transcribe Fd C.4 d.init.
 - [ ] Translate R1 C.4 d.init.
 - [ ] Is "Diffinimus eum rite" (4.1.1) a marker that the text is
 descended from the α hyparchetype? (All of the formal sources in
 Clavis Canonum read "Definimus eum rite".)
+
+(15 Dec 2019)
++ **†John F. Burrows (1928-2019)**
+
+(30 Nov 2019)
++ **†Brian Tierney (1922-2019)**
 
 (14 August 2019)
 - [x] Submit proposal for paper for 16th International Congress of Medieval Canon Law
@@ -114,3 +114,6 @@ Clavis Canonum read "Definimus eum rite".)
 
 (17 Jun 2019)
 - [x] Create modified sample file Gratian0-q.txt (1618 words) for case statements minus questions (remove everything after, e.g., *Hic primum queritur*, etc.)
+
+(23 May 2019)
++ **†Peter Landau (1935-2019)**
