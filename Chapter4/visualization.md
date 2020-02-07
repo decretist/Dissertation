@@ -2,28 +2,37 @@
 author: Paul Evans
 date: February 6, 2020
 title: Stylometry
-subtitle: Introductory 2-dimensional visualization
+subtitle: Simplified 2-dimensional visualization
 ---
 Let's take a first look at how this kind of stylometric analysis
 works in practice with some actual data from the first- and
 second-recension *dicta*, excluding the *dicta* from *de Penitentia*.[^6]
+
 *In* is the most frequently occurring word in the *dicta*. There
-are 1,450 occurrences of *in* out of 56,713 words in the
-first-recension *dicta* (2.56%). There are 411 occurrences of *in*
-out of 14,255 words in the second-recension *dicta* (2.88%). *In*
-therefore occurs 13% more frequently in the second-recension *dicta*
-than it does in the first-recension *dicta*.
+are 1,450 occurrences of *in* out of 56,713 words in the first-recension
+*dicta* (2.56%). There are 411 occurrences of *in* out of 14,255
+words in the second-recension *dicta* (2.88%). The mean frequency
+of occurrence of *in* for the combined first- and second-recension
+*dicta* is therefore 1,861 occurrences out of 70,968 words (2.62%).
+*In* occurs 2.50% less frequently than the mean in the first-recension
+*dicta*, but 9.95% more frequently than the mean in the second-recension
+*dicta*. Because the first-recension *dicta* represent 79.9% of the
+words in the combined total, we expect first-recension word frequencies
+to be much closer to the mean.
 
 *Non* is the second most frequently occurring word in the *dicta*.
 There are 1,360 occurrences of *non* in the first-recension *dicta*
 (2.40%). There are 306 occurrences of *non* in the second-recension
-*dicta* (2.15%). *Non* therefore occurs 12% more frequently in
-the first-recension *dicta* than in the second-recension *dicta*.
+*dicta* (2.15%). The mean frequency of occurrence of *non* for the
+combined first- and second-recension *dicta* is therefore 1,666
+occurrences out of 70,968 words (2.35%). *Non* occurs 2.15% more
+frequently than the mean in the first-recension *dicta*, but 8.56%
+less frequently than the mean in the second-recension *dicta*.
 
-13% for *in* and 12% for *non* are significant variations for
-such common words---it's not like we're talking about low-frequency
+**Fix: 13% for *in* and 12% for *non* are significant variations
+for such common words---it's not like we're talking about low-frequency
 words where a small difference in the count can make for a big
-difference in percentage.
+difference in percentage.**
 
 We could graph the number of occurrences of *in* and *non* per 1,000
 words of the two samples (from the first- and second-recension
@@ -53,7 +62,7 @@ y-axis.
 
 Figure 0a also represents the axes as orthogonal (perpendicular)
 to one another. Although doing so is acceptable as a first-order
-approxiamtion in a simplified representation of this kind, plotting
+approximation in a simplified representation of this kind, plotting
 the values along orthogonal axes imports an implicit assumption
 that the word frequencies (in this case, of *in* and *non*) are
 completely independent of one another, i.e., that there is no
@@ -101,7 +110,7 @@ Figure 0c not needed?
 ![Figure 0d updated 6 Feb 2020](PNGs/Figure_0_z-score_including_de_Pen.png)
 
 Now, we are obviously not going to make an attribution of authorship
-based on the frequencies of only two function words.  Note, however,
+based on the frequencies of only two function words. Note, however,
 that the z-score plot for *in*/*non* frequency data including *de
 Pen.* places the second-recension *dicta* (labelled R2) at the
 coordinates (-1.635, -1.635). A z-score of +/- 1.645 is a critical
@@ -112,10 +121,10 @@ strongly encourages us to look for, and expect to be able to find,
 an author signal for the second-recension *dicta* distinguishable
 from one for the one for the first-recension *dicta*.
 
-[^6]: Including the *dicta* from *de Penitentia* skews the results
-of this analysis significantly. **Changes come overwhelmingly from
-first-recension *de Pen.* *dicta* (9525 words) vs. second-recension
-*de Pen.* *dicta* (556 words).**
+[^6]: **Including the *dicta* from *de Penitentia* skews the results
+of the analysis significantly, because out of the 10,081 words of
+the vulgate version of the *de Pen.* *dicta*, only 556 were added
+or changed between the first and second recensions of the *Decretum*.**
 
     *In* is the most frequently occurring word in the *dicta*.
     There are 1,682 occurrences of *in* out of 66,238 words in the
