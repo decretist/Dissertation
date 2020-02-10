@@ -84,7 +84,8 @@ one for the frequency of *in* and another for the frequency of
 than sample) standard deviation, because the data we have represents
 the total known population of words attributed to Gratian. The
 formula used to calculate the population standard deviation is:
-$\sigma=\sqrt{1/N\sum_{i=1}^N(x_i-\mu)^2}$
+
+$\sigma=\sqrt{\frac{1}{N}\sum_{i=1}^N(x_i-\mu)^2}$
 
 This somewhat opaque notationally, but not that complicated. (Example
 follows)
