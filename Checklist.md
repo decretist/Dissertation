@@ -3,6 +3,8 @@
 - [ ] Read Mike Kestemont, Jeroen De Gussem, "Integrated Sequence Tagging for Medieval Latin Using Deep Representation Learning"
 - [ ] Write definition of 1st- and 2nd-recension _dicta_ in samples
 - [ ] Ivonian vocabulary (admonition, indulgence, precept, prohibition, dispensation) in R1 and R2 _dicta_.
+- [ ] Check randomize.py into GitHub
+- [ ] **~/Tmp is not checked in and not backed up!**
 
 (6 Feb 2020)
 - [x] Correct serious flaw in introductory _in_/_non_ frequency and z-score plots. (Computed standard deviation as if samples of R1 and R2 _dicta_ were of the same size and had equal weight, see 22 Jan 2020)
@@ -10,10 +12,12 @@
 
 (5 Feb 2020)
 - [x] Recover PDF of Winroth, _The Making of Gratian's Decretum_
+- [x] Write Python program to group dicta texts into samples of between 2500 and 3000 words along dictum boundaries
 
 (4 Feb 2020)
 - [x] Update to stylo version: 0.7.1
 - [x] Update to macOS Catalina 10.15.3
+- [x] Write Python program to randomize the word order of samples
 
 (3 Feb 2020)
 - [x] Read Maciej Eder, "Does size matter? Authorship, attribution, small samples, big problem"
