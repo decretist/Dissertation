@@ -1,7 +1,7 @@
 #!/usr/local/bin/python3
 #
 # Paul Evans (10evans@cua.edu
-# 6 February 2020
+# 6-11 February 2020
 # 22 January 2020
 #
 import argparse
@@ -9,11 +9,15 @@ import math
 import matplotlib.pyplot as pp
 import statistics
 
-def standard_deviation(values, mu):
+def pstdev(data, **kwargs):
+    '''temporary replacement for statistics.pstdev()'''
+    mu = None
+    if 'mu' in kwargs: mu = kwargs['mu'] # type check: int, float, or None
+    if mu == None: mu = statistics.mean(data)
     sum = 0
-    for value in values:
-        sum += (value - mu) ** 2
-    return(math.sqrt(sum / len(values)))
+    for i in range(len(data)):
+        sum += (data[i] - mu) ** 2
+    return(math.sqrt(sum / len(data)))
 
 parser = argparse.ArgumentParser()
 parser.add_argument('-f', '--frequency_view', action='store_true')
@@ -49,7 +53,7 @@ frequency_in_r2 = (occurrences_in_r2 / words_r2) * 1000
 frequency_in_values = [frequency_in_r1, frequency_in_r2]
 frequency_in_mean = ((occurrences_in_r1 + occurrences_in_r2) / (words_r1 + words_r2)) * 1000
 # standard_deviation_in = statistics.pstdev(frequency_in_values, mu=frequency_in_mean)
-standard_deviation_in = standard_deviation(frequency_in_values, frequency_in_mean)
+standard_deviation_in = pstdev(frequency_in_values, mu=frequency_in_mean)
 percentage_in_r1 = ((frequency_in_r1 - frequency_in_mean) / frequency_in_mean) * 100
 percentage_in_r2 = ((frequency_in_r2 - frequency_in_mean) / frequency_in_mean) * 100
 if de_pen: print('(including de Pen.)')
@@ -72,7 +76,7 @@ frequency_non_r2 = (occurrences_non_r2 / words_r2) * 1000
 frequency_non_values = [frequency_non_r1, frequency_non_r2]
 frequency_non_mean = ((occurrences_non_r1 + occurrences_non_r2) / (words_r1 + words_r2)) * 1000
 # standard_deviation_non = statistics.pstdev(frequency_non_values, mu=frequency_non_mean)
-standard_deviation_non =  standard_deviation(frequency_non_values, frequency_non_mean)
+standard_deviation_non = pstdev(frequency_non_values, mu=frequency_non_mean)
 percentage_non_r1 = ((frequency_non_r1 - frequency_non_mean) / frequency_non_mean) * 100
 percentage_non_r2 = ((frequency_non_r2 - frequency_non_mean) / frequency_non_mean) * 100
 string_non = 'occurrences of \'non\' per 1,000 words'
