@@ -4,6 +4,7 @@
 # 6 February 2020
 # 22 January 2020
 #
+import argparse
 import math
 import matplotlib.pyplot as pp
 import statistics
@@ -14,8 +15,14 @@ def standard_deviation(values, mu):
         sum += (value - mu) ** 2
     return(math.sqrt(sum / len(values)))
 
-de_pen = False
-frequency_view = False
+parser = argparse.ArgumentParser()
+parser.add_argument('-f', '--frequency_view', action='store_true')
+parser.add_argument('-p', '--de_pen', action='store_true')
+args = parser.parse_args()
+if args.de_pen: de_pen = True
+else: de_pen = False
+if args.frequency_view: frequency_view = True
+else: frequency_view = False
 
 if de_pen:
     # number of words in R1 and R2 dicta
@@ -136,6 +143,6 @@ else:
     title_string += 'excluding $\it{de Pen.}$)'
     filename += 'excluding_de_Pen.png'
 pp.title(title_string)
-# pp.savefig(filename)
+pp.savefig(filename)
 pp.gcf().canvas.set_window_title('Figure 0')
 pp.show()

@@ -41,7 +41,7 @@ axis, and the frequency of *non* plotted along the vertical axis,
 and we would have a simplified visualization of the total variation
 between the two samples. 
 
-![Figure 0a updated 6 Feb 2020](PNGs/Figure_0_frequency_excluding_de_Pen.png)
+![Figure 0a updated 10 Feb 2020](PNGs/Figure_0_frequency_excluding_de_Pen.png)
 
 Figure 0a introduces several conventions common to 2-dimensional
 graphical representations of word frequency data that the reader
@@ -71,7 +71,7 @@ of occurrence in the samples. This is not necessarily the case, and
 more advanced tools and techniques introduced below will deal with
 this problem in a more sophisticated way.
 
-![Figure 0b updated 6 Feb 2020](PNGs/Figure_0_z-score_excluding_de_Pen.png)
+![Figure 0b updated 10 Feb 2020](PNGs/Figure_0_z-score_excluding_de_Pen.png)
 
 Figure 0b introduces a more statistically-informed way of measuring
 the variation or distance between samples. This involves calculating
@@ -104,11 +104,11 @@ Delta is one of a number of distance methods of authorship attribution,
 but has the specific advantage of being widely accepted in the
 scholarly literature of the field of computational linguistics.
 
-![Figure 0c updated 6 Feb 2020](PNGs/Figure_0_frequency_including_de_Pen.png)
+![Figure 0c updated 10 Feb 2020](PNGs/Figure_0_frequency_including_de_Pen.png)
 
 Figure 0c not needed?
 
-![Figure 0d updated 6 Feb 2020](PNGs/Figure_0_z-score_including_de_Pen.png)
+![Figure 0d updated 10 Feb 2020](PNGs/Figure_0_z-score_including_de_Pen.png)
 
 Now, we are obviously not going to make an attribution of authorship
 based on the frequencies of only two function words. Note, however,
