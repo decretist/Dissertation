@@ -34,7 +34,7 @@ less frequently than the mean in the second-recension *dicta*.
 8.56% less frequently than the mean in the second-recension *dicta*
 are unexpectedly large variations for such common words. (Such large
 variations would be less surprising with uncommon words for which
-small differences in count result in a large differences in
+small differences in count could result in a large differences in
 percentage.)
 
 We can graph the number of occurrences of *in* and *non* per 1,000
@@ -62,20 +62,7 @@ that is, that it always displays greater variation between samples
 horizontally along the x-axis than it does vertically along the
 y-axis.
 
-Figure 0a also represents the axes as orthogonal (perpendicular)
-to one another. Although doing so is acceptable as a first-order
-approximation in a simplified representation of this kind, plotting
-the values along orthogonal axes imports an implicit assumption
-that the word frequencies (in this case, of *in* and *non*) are
-completely independent of one another, i.e., that there is no
-correlation or covariance relationship between the words' frequency
-of occurrence in the samples. This is not necessarily the case, and
-more advanced techniques introduced below handle this problem in a
-more sophisticated way.
-
-![Figure 0b updated 10 Feb 2020](PNGs/Figure_0_z-score_excluding_de_Pen.png)
-
-Figure 0b introduces a more statistically-informed way of measuring
+Figure 0b introduces a more statistically meaningful way of measuring
 the variation or distance between samples. This involves calculating
 how far the value for a given feature in a sample is from the mean
 value for that feature in all the samples, then dividing that
@@ -90,19 +77,19 @@ formula used to calculate the population standard deviation is:
 $\sigma=\sqrt{\frac{1}{N}\sum_{i=1}^N(x_i-\mu)^2}$
 
 The formula is somewhat notationally opaque, but it is not difficult
-to calculate the result.
+to calculate the result. First, we calculate the squared deviations
+from the mean for the frequency of *in* in the first-recension
+*dicta*:
 
-For the frequency of *in* in the first-recension *dicta*,
+$(x_1-\mu)^2 = (25.5673 - 26.2231)^2 = (-0.6558)^2 = 0.4300$,
 
-$(x_1-\mu)^2 = (25.5673 - 26.2231)^2 = (-0.6558)^2 = 0.4300$
+and for the frequency of *in* in the second-recension *dicta*:
 
-For the frequency of *in* in the second-recension *dicta*,
+$(x_2-\mu)^2 = (28.8320 - 26.2231)^2 = (2.6089)^2 = 6.8064$.
 
-$(x_2-\mu)^2 = (28.8320 - 26.2231)^2 = (2.6089)^2 = 6.8064$
-
-We then sum the two terms (as indicated by $\sum$),
-divide the sum by the number of terms ($N = 2$),
-and take the square root of the quotient:
+We then sum the two squared deviations from the mean (as indicated
+by $\sum$), divide the sum by their number ($N = 2$), and take the
+square root of the quotient:
 
 $\sigma =
 \sqrt{\frac{1}{2}(0.4300 + 6.8064)} =
@@ -115,31 +102,50 @@ as a z-score: labels on the axes of the plot refer to standard
 deviations (values of z) away from the mean (represented by the
 dashed lines).
 
+For the frequency of *in* in the first-recension *dicta*:
+
+$z =
+\frac{x - \mu}{\sigma} =
+\frac{25.5673 - 26.2231}{1.9022} =
+\frac{-0.6558}{1.9022} =
+-0.3447$
+
+and for the frequency of *in* in the second-recension *dicta*:
+
+$z =
+\frac{x - \mu}{\sigma} =
+\frac{28.8320 - 26.2231}{1.9022} =
+\frac{2.6089}{1.9022} =
+1.3716$
+
+![Figure 0b updated 10 Feb 2020](PNGs/Figure_0_z-score_excluding_de_Pen.png)
+
 The technique of plotting word frequency data by z-score is known
 as Burrows's Delta, after John F. Burrows (†.2019) of the University
-of Newcastle, Australia, who first proposed it in 2001. It has the
-advantage of making the statistical significance of plotted data
-apparent in a way that plotting raw frequency data does not. Burrows's
-Delta is one of a number of distance methods of authorship attribution,
-but has the particular advantage of being widely accepted in the
-scholarly literature of the field of computational linguistics.
+of Newcastle, Australia, who first proposed the metric in 2001. It
+has the advantage of making the statistical significance of plotted
+data apparent in a way that plotting raw frequency data does not.
+Burrows's Delta is one of a number of distance methods of authorship
+attribution, but has the particular advantage of being widely
+accepted in the scholarly literature of the field of computational
+linguistics.
 
-### Badly needs rewriting!
+Figures 0a and 0b represents the axes as orthogonal (perpendicular)
+to one another. Although doing so is acceptable as a first-order
+approximation in a simplified representation of this kind, plotting
+the values along orthogonal axes invokes an implicit assumption
+that the word frequencies (in this case, of *in* and *non*) are
+completely independent of one another, i.e., that there is no
+correlation or covariance relationship between the words' frequency
+of occurrence in the samples. This is not necessarily the case, and
+an advanced technique introduced below, principal component analysis
+(PCA), handles this problem in a more sophisticated way.
 
-**Now, we are obviously not going to make an attribution of authorship
-based on the frequencies of only two function words. Note, however,
-that the z-score plot for *in*/*non* frequency data including *de
-Pen.* places the second-recension *dicta* (labelled R2) at the
-coordinates (-1.635, -1.635). A z-score of +/- 1.645 is a critical
-value that represents a 90% confidence level that the difference
-is not due to random variation between the samples. So even our
-first preliminary exploration of word frequency data for the *dicta*
-strongly encourages us to look for, and expect to be able to find,
-an author signal for the second-recension *dicta* distinguishable
-from one for the one for the first-recension *dicta*.**
+Now, we are obviously not going to make an attribution of authorship
+based on the frequencies of only two function words ...
 
-[^6]: Including the *dicta* from *de Penitentia* distorts the
-results of the analysis, because out of the 10,081 words of the
-vulgate version of the *de Pen.* *dicta*, only 556 were added or
-changed between the first and second recensions of the *Decretum*.
+[^6]: Including the *dicta* from *de Penitentia* distorts the results
+of the analysis, because out of the 10,081 words of the vulgate
+version of the *de Pen.* *dicta*, only 556 were added or changed
+between the first and second recensions of the *Decretum*.
 
