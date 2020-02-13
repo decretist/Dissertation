@@ -1,6 +1,6 @@
 ---
 author: Paul Evans
-date: February 6-11, 2020
+date: February 6-12, 2020
 title: Stylometry
 subtitle: Simplified two-dimensional visualization
 ---
@@ -41,42 +41,48 @@ We can graph the number of occurrences of *in* and *non* per 1,000
 words in the first- and second-recension *dicta*, with the frequency
 of *in* plotted along the horizontal x-axis, and the frequency of
 *non* plotted along the vertical y-axis, to produce a simplified
-visualization of the total variation between the two.
+visualization of the total variation between the two. Means are
+provided for context: the vertical dashed line represents the mean
+for the horizontal (*in*) axis, and the horizontal dashed line
+represents the mean for the vertical (*non*) axis.
 
 ![Figure 0a updated 10 Feb 2020](PNGs/Figure_0_frequency_excluding_de_Pen.png)
 
 Figure 0a introduces several conventions common to two-dimensional
-graphical representations of word frequency data that the reader
-will encounter throughout this chapter. The feature (in this case
-the frequency of occurrence of the word *in*) that explains more
-of the variation between the samples is plotted along the horizontal
-x-axis, while the feature (in this case the frequency of occurrence of
-the word *non*) that explains less of the variation between the
-samples is plotted along the vertical y-axis. Although this plot,
-produced by the Matplotlib Python two-dimensional plotting library,
-is rectangular and the axes are approximately to scale, most of the
-figures in this chapter were generated using stylo, an R package
-for stylometric analysis, which outputs square plots. The reader
-should bear in mind that the area plotted is wider than it is tall,
-that is, that it always displays greater variation between samples
-horizontally along the x-axis than it does vertically along the
-y-axis.
+graphical representations of word frequency data that readers will
+encounter repeatedly throughout this chapter. The feature (in this
+case the frequency of occurrence of the word *in*) that explains
+more of the variation between the samples is plotted along the
+horizontal x-axis, while the feature (in this case the frequency
+of occurrence of the word *non*) that explains less of the variation
+between the samples is plotted along the vertical y-axis. Although
+this plot, produced by the Matplotlib Python two-dimensional plotting
+library, is rectangular and the axes are approximately to scale,
+most of the figures in this chapter were generated using stylo, an
+R package for stylometric analysis, which outputs square plots.
+Regardless of appearance, readers should bear in mind that the area
+plotted is wider than it is tall, that is, that it always displays
+greater variation between samples horizontally along the x-axis
+than it does vertically along the y-axis.
 
-Figure 0b introduces a more statistically meaningful way of measuring
-the variation or distance between samples. This involves calculating
-how far the value for a given feature in a sample is from the mean
-value for that feature in all the samples, then dividing that
-distance by the standard deviation. (Note that there will be a
-different mean and standard deviation for each axis, in this case,
-one for the frequency of *in* and another for the frequency of
-*non*) For the purpose of this calculation, we use population (rather
-than sample) standard deviation, because the data we have represents
-the total known population of words attributed to Gratian. The
-formula used to calculate the population standard deviation is:
+Figure 0a plots the first- and second-recension values (labelled
+R1 and R2 respectively), as well as the means (indicated by the
+dashed lines), for the frequencies of *in* and *non* per 1,000
+words. It is more statistically meaningful, however, to measure and
+plot the differences between values and means in units of standard
+deviations rather than frequency per 1,000 words. The difference
+of a value from the mean divided by standard deviation is referred
+to as the value's z-score. A value that has a difference of one
+standard deviation from the mean is said to have a z-score of 1.0
+or -1.0 depending on whether the value is greater or lesser than
+the mean. It is appropriate in this context to use the formula for
+population rather than sample standard deviation, because the data
+we have represents the totality of known words attributed to Gratian.
+The formula used to calculate the population standard deviation is:
 
 $\sigma=\sqrt{\frac{1}{N}\sum_{i=1}^N(x_i-\mu)^2}$
 
-The formula is somewhat notationally opaque, but it is not difficult
+The formula is somewhat daunting notationally, but it is not difficult
 to calculate the result. First, we calculate the squared deviations
 from the mean for the frequency of *in* in the first-recension
 *dicta*:
@@ -87,9 +93,9 @@ and for the frequency of *in* in the second-recension *dicta*:
 
 $(x_2-\mu)^2 = (28.8320 - 26.2231)^2 = (2.6089)^2 = 6.8064$.
 
-We then sum the two squared deviations from the mean (as indicated
-by $\sum$), divide the sum by their number ($N = 2$), and take the
-square root of the quotient:
+We then sum (as indicated by $\sum$) the two squared deviations
+from the mean, divide the sum by their number ($N = 2$), and take
+the square root of the quotient:
 
 $\sigma =
 \sqrt{\frac{1}{2}(0.4300 + 6.8064)} =
@@ -97,15 +103,14 @@ $\sigma =
 \sqrt{3.6182} =
 1.9022$
 
-Distance from a mean divided by standard deviation is referred to
-as a z-score: labels on the axes of the plot refer to standard
-deviations (values of z) away from the mean (represented by the
-dashed lines).
+The units of $\sigma$ are the same as those used to calculate the
+mean, in this case, the frequency of occurence of a word per 1,000
+words.
 
 For the frequency of *in* in the first-recension *dicta*:
 
 $z =
-\frac{x - \mu}{\sigma} =
+\frac{x_1 - \mu}{\sigma} =
 \frac{25.5673 - 26.2231}{1.9022} =
 \frac{-0.6558}{1.9022} =
 -0.3447$
@@ -113,12 +118,15 @@ $z =
 and for the frequency of *in* in the second-recension *dicta*:
 
 $z =
-\frac{x - \mu}{\sigma} =
+\frac{x_2 - \mu}{\sigma} =
 \frac{28.8320 - 26.2231}{1.9022} =
 \frac{2.6089}{1.9022} =
 1.3716$
 
 ![Figure 0b updated 10 Feb 2020](PNGs/Figure_0_z-score_excluding_de_Pen.png)
+
+Labels on the axes of the plot refer to standard deviations (values
+of z) away from the mean (represented by the dashed lines).
 
 The technique of plotting word frequency data by z-score is known
 as Burrows's Delta, after John F. Burrows (†.2019) of the University
