@@ -1,7 +1,10 @@
+all: antecedents.docx visualization.docx chapter4.docx
+
+antecedents.docx: antecedents.md ../bib/merged.bib ../ref/draft.docx
+	pandoc -o antecedents.docx --filter pandoc-citeproc --reference-doc=../ref/draft.docx antecedents.md
+
 visualization.docx: visualization.md ../ref/draft.docx
 	pandoc -o visualization.docx --reference-doc=../ref/draft.docx visualization.md
-
-all: chapter4.docx ICMCL.docx Rem_Non_Novam.docx
 
 chapter4.docx: chapter4.md ../bib/merged.bib ../ref/reference.docx
 	pandoc -o chapter4.docx --filter pandoc-citeproc --reference-doc=../ref/reference.docx chapter4.md
