@@ -71,7 +71,7 @@ ought to be able to make a list of every function word in a language,
 although in practice, that's not easy to do.
 
 Evidence from experimental psychology suggests that both authors
-and readers process function words at an unconscious level.
+and readers process function words at an subconscious level.
 [@kestemont_function_2014] The frequency with which a given author
 uses particular function words is therefore considered to be more
 or less invariant, making it a reliable authorial signature.
@@ -134,6 +134,8 @@ are rank-ordered from most to least frequent, Zipf's laws postulates
 that, as a first-order approximation, the frequency of each word
 will be 1/N times that of the most frequent word, where N is the
 rank.[^7]
+
+![Figure Z updated 13 Feb 2020](PNGs/Zipf.png)
 
 But increasing the number of function words also introduces a new
 problem. We were able to represent our stylometric analysis of the
