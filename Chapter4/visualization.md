@@ -76,7 +76,7 @@ to as the value's z-score. A value that has a difference of one
 standard deviation from the mean is said to have a z-score of 1.0
 or -1.0 depending on whether the value is greater or lesser than
 the mean. It is appropriate in this context to use the formula for
-population rather than sample standard deviation, because the data
+population rather than sample standard deviation,[^a] because the data
 we have represents the totality of known words attributed to Gratian.
 The formula used to calculate the population standard deviation is:
 
@@ -123,7 +123,7 @@ $z =
 \frac{2.6089}{1.9022} =
 1.3716$
 
-![Figure 0b updated 10 Feb 2020](PNGs/Figure_0_z-score_excluding_de_Pen.png)
+![Figure 0b updated 10 Feb 2020[^b]](PNGs/Figure_0_z-score_excluding_de_Pen.png)
 
 Labels on the axes of the plot refer to standard deviations (values
 of z) away from the mean (represented by the dashed lines).
@@ -156,4 +156,13 @@ based on the frequencies of only two function words ...
 of the analysis, because out of the 10,081 words of the vulgate
 version of the *de Pen.* *dicta*, only 556 were added or changed
 between the first and second recensions of the *Decretum*.
+
+[^a]: The formula for sample standard deviation is:
+
+    $s=\sqrt{\frac{1}{N-1}\sum_{i=1}^N(x_i-\bar{x})^2}$
+
+[^b]: Is standard deviation measuring anything here other than the
+fact that the R1 sample is 3.9785 times the size of the R2 sample?
+
+    $0.3447\times\frac{56713}{14255} = 0.3447\times3.9785 = 1.3756$
 
