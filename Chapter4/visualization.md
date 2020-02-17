@@ -1,6 +1,6 @@
 ---
 author: Paul Evans
-date: February 6-12, 2020
+date: February 6-16, 2020
 title: Stylometry
 subtitle: Simplified two-dimensional visualization
 ---
@@ -150,7 +150,26 @@ an advanced technique introduced below, principal component analysis
 (PCA), handles this problem in a more sophisticated way.
 
 Now, we are obviously not going to make an attribution of authorship
-based on the frequencies of only two function words ...
+based on the frequencies of only two function words.
+
+Increasing the number of function words one collects data for
+increases the accuracy of the stylometric analysis (up to a point).
+The reason that there is a limit to the marginal value of each
+additional word included in the analysis is that word frequencies
+in a sample of text fall off approximately according to an observed
+empirical relationship know as Zipf's law. If the words in a sample
+are rank-ordered from most to least frequent, Zipf's laws postulates
+that, as a first-order approximation, the frequency of each word
+will be 1/N times that of the most frequent word, where N is the
+rank.[^7]
+
+![Figure Za updated 16 Feb 2020](PNGs/Figure_Z_theoretical_bar.png)
+
+![Figure Zb updated 16 Feb 2020](PNGs/Figure_Z_theoretical_log-log_scatter.png)
+
+![Figure Zc updated 16 Feb 2020](PNGs/Figure_Z_actual_bar.png)
+
+![Figure Zd updated 16 Feb 2020](PNGs/Figure_Z_actual_log-log_scatter.png)
 
 [^6]: Including the *dicta* from *de Penitentia* distorts the results
 of the analysis, because out of the 10,081 words of the vulgate
@@ -165,4 +184,15 @@ between the first and second recensions of the *Decretum*.
 fact that the R1 sample is 3.9785 times the size of the R2 sample?
 
     $0.3447\times\frac{56713}{14255} = 0.3447\times3.9785 = 1.3756$
+
+[^7]: **Footnote Zipf's law. Provide examples with numbers that
+agree with the data for *in* and *non* above. In reality, the word
+frequencies for the *dicta* do not appear to drop off nearly as
+sharply as Zipf's law (1/N) would predict. I also need to address
+the issue that as the wordlist extends downward, the mix shifts
+from disproportionately function words to disproportionately content
+word. 16 of the first 20 words are function words usable for analysis
+(even if I discard *si* for other reasons), but I have to go all
+the way down to 240 to get somewhere in the neighborhood of 50
+suitable function words for analysis.**
 
