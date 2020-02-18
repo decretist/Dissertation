@@ -154,51 +154,45 @@ an advanced technique introduced below, principal component analysis
 Now, we are obviously not going to make an attribution of authorship
 based on the frequencies of only two function words.
 
-Increasing the number of function words one collects data for
-increases the accuracy of the stylometric analysis (up to a point).
-The reason that there is a limit to the marginal value of each
-additional word included in the analysis is that word frequencies
-in a sample of text fall off approximately according to an observed
-empirical relationship know as Zipf's law. If the words in a sample
-are rank-ordered from most to least frequent, Zipf's laws postulates
-that, as a first-order approximation, the frequency of each word
-will be 1/N times that of the most frequent word, where N is the
-rank.[^7]
-
 Increasing the number of function words for which one collects
 frequency data increases the accuracy of stylometric analysis, up
 to a point. There is, however, a limit to the marginal value of
 each additional word included in an analysis, for two reasons. The
 first reason is that word frequencies in a sample of text tail off
 approximately according to an observed empirical relationship known
-as Zipf’s law, after American quantitative linguist Geroge Kingsley
-Zipf (†.1950), who first published an extended discussion of the
+as Zipf’s law, after American quantitative linguist George Kingsley
+Zipf (d.1950), who first published an extended discussion of the
 relationship. (Zipf did not apparently claim to have discovered the
 relationship himself.) If the words in a sample of text are
 rank-ordered from most to least frequent, Zipf’s laws posits that,
 as a first-order approximation, the frequency of each word will be
-1/N times that of the most frequent word, where N is the rank. In
-other words, the theoretical Zipfian distribution predicts that the
+1/N times that of the most frequent word, where N is the rank.[^7]
+In other words, the theoretical Zipf distribution predicts that the
 frequency of the second most frequent word in a sample of text
 should be one half that of the most frequent word, the frequency
 of the third most frequent word should be one third that of the
-most frequent word, and so on. (See Figure Za)
+most frequent word, and so on.
+
+(See Figure Za below. The theoretical Zipf distribution plotted
+in Figures Za and Zb has been scaled to faciliate direct comparison
+with the actual data from the first- and second-recension *dicta*
+plotted in Figures Zc and Zd. In all four plots, the first data
+point has a rank of 1 and a frequency of 1861, corresponding to the
+1,861 occurrences of the most frequent word *in* in the *dicta*.)
 
 ![Figure Za updated 16 Feb 2020](PNGs/Figure_Z_theoretical_bar.png)
 
 Zipf's law can be restated with greater mathematical precision by
 noting that the relationship of the logarithm of rank to the logarithm
-of frequency is linear, with a slope of -1.0 corresponding to a 1/N
-tail-off (See Figure Zb)[^z1]
+of frequency is linear, with a slope of -1.0 corresponding to a
+tail-off of 1/N. (See Figure Zb)[^z1]
 
-"... we have found a clearcut correlation between the number of
-different words in the *Ulysses* and the frequency of their usage,
-in the sense that they approximate the simple equation of an
-equalateral hyperbola:
-$r \times f = C$
-in which *r* refers to the word's rank in the *Ulysses* and *f* to
-its frequency of occurrence (as we ignore for the present the size
-of C)." [Zipf 1949, 24]
+"we have found a clearcut correlation between the number of different
+words in the *Ulysses* and the frequency of their usage, in the
+sense that they approximate the simple equation of an equalateral
+hyperbola: r × f = C in which *r* refers to the word's rank in the
+*Ulysses* and *f* to its frequency of occurrence (as we ignore for
+the present the size of C)."[@zipf_human_1949, 24]
 
 ![Figure Zb updated 16 Feb 2020](PNGs/Figure_Z_theoretical_log-log_scatter.png)
 
@@ -214,9 +208,24 @@ predicts. In reality, then, the word frequencies for the first-
 and second-recension *dicta* do not appear to drop off nearly as
 sharply as the simplistic 1/N formulation of Zipf's law would predict.
 
-1/N^(0.5923)^
+Figure Zc below plots the actual rank-frequency distribution of the
+twenty most frequent words (MFWs) in the first- and second-recension
+*dicta*: *in* (1861), *non* (1666), *et* (1638), *est* (1132),
+*quod* (784), *de* (768), *unde* (691), *ad* (681), *qui* (677),
+*sed* (661), *uel* (631), *ut* (534), *cum* (530), *autem* (518),
+*si* (510), *a* (473), *ex* (418), *sunt* (379), *uero* (372), and
+*enim* (357).
 
 ![Figure Zc updated 16 Feb 2020](PNGs/Figure_Z_actual_bar.png)
+
+Plotting the data from Figure Zc on logarithmic axes and performing
+least-squares linear regression analysis lets us calculate the
+slope, -0.5923, for the rank-frequency tail-off of the twenty most
+frequent words from the first- and second-recension *dicta*. (See
+Figure Zd below.) Transposing that result back into the linear (as
+opposed to logarithmic) frame of reference used in Figure Zc, the
+expression 1/N^(0.5923)^ yields a good (though not perfect) fit to
+the actual rank-frequency data.
 
 ![Figure Zd updated 16 Feb 2020](PNGs/Figure_Z_actual_log-log_scatter.png)
 
@@ -257,7 +266,7 @@ the relationship as $r \times f = C$.
 [^z1]: Note that the base of the logarithms does not matter (as
 long as they are the same for both axes). Regardless of whether we
 take base e (natural) or base 10 logarithms of rank and word count,
-the slopes will be the same: -1.000 for the theoretical Zipfian
+the slopes will be the same: -1.000 for the theoretical Zipf
 distribution of word frequencies, and (as we shall see) -0.5923 for
 the actual frequencies of the twenty most frequent words in the
 first- and second-recension *dicta*.
