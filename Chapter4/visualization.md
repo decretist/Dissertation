@@ -1,5 +1,7 @@
 ---
 author: Paul Evans
+bibliography: ../bib/merged.bib
+csl: ../csl/chicago-fullnote-bibliography.csl
 date: February 6-16, 2020
 title: Stylometry
 subtitle: Simplified two-dimensional visualization
@@ -187,26 +189,49 @@ most frequent word, and so on. (See Figure Za)
 Zipf's law can be restated with greater mathematical precision by
 noting that the relationship of the logarithm of rank to the logarithm
 of frequency is linear, with a slope of -1.0 corresponding to a 1/N
-tail-off (See Figure Zb)[^z]
+tail-off (See Figure Zb)[^z1]
+
+"... we have found a clearcut correlation between the number of
+different words in the *Ulysses* and the frequency of their usage,
+in the sense that they approximate the simple equation of an
+equalateral hyperbola:
+$r \times f = C$
+in which *r* refers to the word's rank in the *Ulysses* and *f* to
+its frequency of occurrence (as we ignore for the present the size
+of C)." [Zipf 1949, 24]
 
 ![Figure Zb updated 16 Feb 2020](PNGs/Figure_Z_theoretical_log-log_scatter.png)
 
 Zipf used word frequencies hand-tabulated from James Joyce's *Ulysses*
 as the data set for his exploration of the relationship, and it
 turns out that for English, the 1/N relationship holds up reasonably
-well. The reader, however, already has enough data to question
-whether the 1/N relationship holds up as well for Gratian's Latin
+well.[^z2] The reader, however, already has enough data to question
+whether the relationship holds up as well for Gratian's Latin
 as it does for Joyce's English, since the frequency of *non*, the
 second most frequent word in the first- and second-recension *dicta*,
 is 0.8952 times that of *in* rather than 0.5000 as Zipf's law
-predicts.
+predicts. In reality, then, the word frequencies for the first-
+and second-recension *dicta* do not appear to drop off nearly as
+sharply as the simplistic 1/N formulation of Zipf's law would predict.
 
-*in*, *non*, *et*, *est*, *quod*, *de*, *unde*, *ad*, *qui*, *sed*,
-*uel*, *ut*, *cum*, *autem*, *si*, *a*, *ex*, *sunt*, *uero*, *enim*.
+1/N^(0.5923)^
 
 ![Figure Zc updated 16 Feb 2020](PNGs/Figure_Z_actual_bar.png)
 
 ![Figure Zd updated 16 Feb 2020](PNGs/Figure_Z_actual_log-log_scatter.png)
+
+The second reason that there is a limit to the marginal value of
+each additional word included in stylometric analysis is that as
+the wordlist extends downward, the mix shifts from disproportionately
+function words to disproportionately content words. The twenty most
+frequent words in the first- and second-recension *dicta* are *in*,
+*non*, *et*, *est*, *quod*, *de*, *unde*, *ad*, *qui*, *sed*, *uel*,
+*ut*, *cum*, *autem*, *si*, *a*, *ex*, *sunt*, *uero*, and *enim*.
+Sixteen out of the first twenty are function words potentially
+suitable for use in stylometric analysis,[^z3] but if we want to use
+somewhere in the neighborhood of fifty function words for stylometric
+analysis, we will have to reach all the way down to the 240th most
+frequent word to populate the wordlist.
 
 [^6]: Including the *dicta* from *de Penitentia* distorts the results
 of the analysis, because out of the 10,081 words of the vulgate
@@ -222,22 +247,22 @@ fact that the R1 sample is 3.9785 times the size of the R2 sample?
 
     $0.3447\times\frac{56713}{14255} = 0.3447\times3.9785 = 1.3756$
 
-[^7]: **Footnote Zipf's law. Provide examples with numbers that
-agree with the data for *in* and *non* above. In reality, the word
-frequencies for the *dicta* do not appear to drop off nearly as
-sharply as Zipf's law (1/N) would predict. I also need to address
-the issue that as the wordlist extends downward, the mix shifts
-from disproportionately function words to disproportionately content
-word. 16 of the first 20 words are function words usable for analysis
-(even if I discard *si* for other reasons), but I have to go all
-the way down to 240 to get somewhere in the neighborhood of 50
-suitable function words for analysis.**
+[^7]: @zipf_human_1949, 73-131. Zipf himself referred to the
+relationship as "the law of diminishing reterns of words". Zipf
+previously discussed the relationship in @zipf_psycho-biology_1935.
+[UCSD Geisel Library has a copy, currently (18 February 2020)
+unavailable, of a 1965 MIT Press reprint of this book.] Zipf expressed
+the relationship as $r \times f = C$.
 
-[^z]: Note that the base of the logarithms does not matter (as long
-as they are the same for both axes). Regardless of whether we take
-base e (natural) or base 10 logarithms of rank and word count, the
-slopes will be the same: -1.000 for the theoretical Zipfian
+[^z1]: Note that the base of the logarithms does not matter (as
+long as they are the same for both axes). Regardless of whether we
+take base e (natural) or base 10 logarithms of rank and word count,
+the slopes will be the same: -1.000 for the theoretical Zipfian
 distribution of word frequencies, and (as we shall see) -0.5923 for
 the actual frequencies of the twenty most frequent words in the
 first- and second-recension *dicta*.
 
+[^z2]: See @zipf_human_1949, 23-52, for Zipf's discussion of the
+rank-frequency distribution of words in Joyce's *Ulysses*.
+
+[^z3]: **Even if we have to discard *si* for other reasons.**
