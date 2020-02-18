@@ -163,9 +163,46 @@ that, as a first-order approximation, the frequency of each word
 will be 1/N times that of the most frequent word, where N is the
 rank.[^7]
 
+Increasing the number of function words for which one collects
+frequency data increases the accuracy of stylometric analysis, up
+to a point. There is, however, a limit to the marginal value of
+each additional word included in an analysis, for two reasons. The
+first reason is that word frequencies in a sample of text tail off
+approximately according to an observed empirical relationship known
+as Zipf’s law, after American quantitative linguist Geroge Kingsley
+Zipf (†.1950), who first published an extended discussion of the
+relationship. (Zipf did not apparently claim to have discovered the
+relationship himself.) If the words in a sample of text are
+rank-ordered from most to least frequent, Zipf’s laws posits that,
+as a first-order approximation, the frequency of each word will be
+1/N times that of the most frequent word, where N is the rank. In
+other words, the theoretical Zipfian distribution predicts that the
+frequency of the second most frequent word in a sample of text
+should be one half that of the most frequent word, the frequency
+of the third most frequent word should be one third that of the
+most frequent word, and so on. (See Figure Za)
+
 ![Figure Za updated 16 Feb 2020](PNGs/Figure_Z_theoretical_bar.png)
 
+Zipf's law can be restated with greater mathematical precision by
+noting that the relationship of the logarithm of rank to the logarithm
+of frequency is linear, with a slope of -1.0 corresponding to a 1/N
+tail-off (See Figure Zb)[^z]
+
 ![Figure Zb updated 16 Feb 2020](PNGs/Figure_Z_theoretical_log-log_scatter.png)
+
+Zipf used word frequencies hand-tabulated from James Joyce's *Ulysses*
+as the data set for his exploration of the relationship, and it
+turns out that for English, the 1/N relationship holds up reasonably
+well. The reader, however, already has enough data to question
+whether the 1/N relationship holds up as well for Gratian's Latin
+as it does for Joyce's English, since the frequency of *non*, the
+second most frequent word in the first- and second-recension *dicta*,
+is 0.8952 times that of *in* rather than 0.5000 as Zipf's law
+predicts.
+
+*in*, *non*, *et*, *est*, *quod*, *de*, *unde*, *ad*, *qui*, *sed*,
+*uel*, *ut*, *cum*, *autem*, *si*, *a*, *ex*, *sunt*, *uero*, *enim*.
 
 ![Figure Zc updated 16 Feb 2020](PNGs/Figure_Z_actual_bar.png)
 
@@ -195,4 +232,12 @@ word. 16 of the first 20 words are function words usable for analysis
 (even if I discard *si* for other reasons), but I have to go all
 the way down to 240 to get somewhere in the neighborhood of 50
 suitable function words for analysis.**
+
+[^z]: Note that the base of the logarithms does not matter (as long
+as they are the same for both axes). Regardless of whether we take
+base e (natural) or base 10 logarithms of rank and word count, the
+slopes will be the same: -1.000 for the theoretical Zipfian
+distribution of word frequencies, and (as we shall see) -0.5923 for
+the actual frequencies of the twenty most frequent words in the
+first- and second-recension *dicta*.
 

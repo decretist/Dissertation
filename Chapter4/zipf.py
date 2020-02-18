@@ -17,7 +17,7 @@ def regression_slope(data_points):
     for i in range(n):
         xy_sum += x_values[i] * y_values[i]
         x_squared_sum += x_values[i] ** 2
-    return (xy_sum - n * x_bar * y_bar) / (x_squared_sum - n * x_bar **2)
+    return (xy_sum - n * x_bar * y_bar) / (x_squared_sum - n * x_bar ** 2)
 
 def plot_regression(data_points):
     x_values, y_values = zip(*data_points)
