@@ -9,7 +9,7 @@ subtitle: Simplified two-dimensional visualization
 Visualizing data from the first- and second- recension *dicta*
 (excluding the *dicta* from *de Penitentia*) in a simplified
 two-dimensional form is a useful first step toward understanding
-how this kind of stylometric analysis works in practice.[^6]
+how this kind of stylometric analysis works in practice.[^z1]
 
 *In* is the most frequently occurring word in the *dicta*. There
 are 1,450 occurrences of *in* out of 56,713 words in the first-recension
@@ -78,9 +78,10 @@ to as the value's z-score. A value that has a difference of one
 standard deviation from the mean is said to have a z-score of 1.0
 or -1.0 depending on whether the value is greater or lesser than
 the mean. It is appropriate in this context to use the formula for
-population rather than sample standard deviation,[^a] because the data
-we have represents the totality of known words attributed to Gratian.
-The formula used to calculate the population standard deviation is:
+population rather than sample standard deviation,[^z2] because the
+data we have represents the totality of known words attributed to
+Gratian. The formula used to calculate the population standard
+deviation is:
 
 $\sigma=\sqrt{\frac{1}{N}\sum_{i=1}^N(x_i-\mu)^2}$
 
@@ -106,7 +107,7 @@ $\sigma =
 1.9022$
 
 The units of $\sigma$ are the same as those used to calculate the
-mean, in this case, the frequency of occurence of a word per 1,000
+mean, in this case, the frequency of occurrence of a word per 1,000
 words.
 
 For the frequency of *in* in the first-recension *dicta*:
@@ -125,13 +126,13 @@ $z =
 \frac{2.6089}{1.9022} =
 1.3716$
 
-![Figure 0b updated 10 Feb 2020[^b]](PNGs/Figure_0_z-score_excluding_de_Pen.png)
+![Figure 0b updated 10 Feb 2020[^z3]](PNGs/Figure_0_z-score_excluding_de_Pen.png)
 
 Labels on the axes of the plot refer to standard deviations (values
 of z) away from the mean (represented by the dashed lines).
 
 The technique of plotting word frequency data by z-score is known
-as Burrows's Delta, after John F. Burrows (†.2019) of the University
+as Burrows's Delta, after John F. Burrows (d.2019) of the University
 of Newcastle, Australia, who first proposed the metric in 2001. It
 has the advantage of making the statistical significance of plotted
 data apparent in a way that plotting raw frequency data does not.
@@ -166,15 +167,15 @@ relationship. (Zipf did not apparently claim to have discovered the
 relationship himself.) If the words in a sample of text are
 rank-ordered from most to least frequent, Zipf’s laws posits that,
 as a first-order approximation, the frequency of each word will be
-1/N times that of the most frequent word, where N is the rank.[^7]
+1/N times that of the most frequent word, where N is the rank.[^z4]
 In other words, the theoretical Zipf distribution predicts that the
 frequency of the second most frequent word in a sample of text
 should be one half that of the most frequent word, the frequency
 of the third most frequent word should be one third that of the
 most frequent word, and so on.
 
-(See Figure Za below. The theoretical Zipf distribution plotted
-in Figures Za and Zb has been scaled to faciliate direct comparison
+(See Figure Za below. The theoretical Zipf distribution plotted in
+Figures Za and Zb has been scaled to facilitate direct comparison
 with the actual data from the first- and second-recension *dicta*
 plotted in Figures Zc and Zd. In all four plots, the first data
 point has a rank of 1 and a frequency of 1861, corresponding to the
@@ -185,7 +186,7 @@ point has a rank of 1 and a frequency of 1861, corresponding to the
 Zipf's law can be restated with greater mathematical precision by
 noting that the relationship of the logarithm of rank to the logarithm
 of frequency is linear, with a slope of -1.0 corresponding to a
-tail-off of 1/N. (See Figure Zb)[^z1]
+tail-off of 1/N. (See Figure Zb)[^z5]
 
 "we have found a clearcut correlation between the number of different
 words in the *Ulysses* and the frequency of their usage, in the
@@ -199,14 +200,14 @@ the present the size of C)."[@zipf_human_1949, 24]
 Zipf used word frequencies hand-tabulated from James Joyce's *Ulysses*
 as the data set for his exploration of the relationship, and it
 turns out that for English, the 1/N relationship holds up reasonably
-well.[^z2] The reader, however, already has enough data to question
-whether the relationship holds up as well for Gratian's Latin
-as it does for Joyce's English, since the frequency of *non*, the
+well.[^z7] The reader, however, already has enough data to question
+whether the relationship holds up as well for Gratian's Latin as
+it does for Joyce's English, since the frequency of *non*, the
 second most frequent word in the first- and second-recension *dicta*,
 is 0.8952 times that of *in* rather than 0.5000 as Zipf's law
-predicts. In reality, then, the word frequencies for the first-
-and second-recension *dicta* do not appear to drop off nearly as
-sharply as the simplistic 1/N formulation of Zipf's law would predict.
+predicts. In reality, then, the word frequencies for the first- and
+second-recension *dicta* do not appear to drop off nearly as sharply
+as the simplistic 1/N formulation of Zipf's law would predict.
 
 Figure Zc below plots the actual rank-frequency distribution of the
 twenty most frequent words (MFWs) in the first- and second-recension
@@ -237,33 +238,33 @@ frequent words in the first- and second-recension *dicta* are *in*,
 *non*, *et*, *est*, *quod*, *de*, *unde*, *ad*, *qui*, *sed*, *uel*,
 *ut*, *cum*, *autem*, *si*, *a*, *ex*, *sunt*, *uero*, and *enim*.
 Sixteen out of the first twenty are function words potentially
-suitable for use in stylometric analysis,[^z3] but if we want to use
-somewhere in the neighborhood of fifty function words for stylometric
-analysis, we will have to reach all the way down to the 240th most
-frequent word to populate the wordlist.
+suitable for use in stylometric analysis,[^z8] but if we want to
+use somewhere in the neighborhood of fifty function words for
+stylometric analysis, we will have to reach all the way down to the
+240th most frequent word to populate the wordlist.
 
-[^6]: Including the *dicta* from *de Penitentia* distorts the results
-of the analysis, because out of the 10,081 words of the vulgate
-version of the *de Pen.* *dicta*, only 556 were added or changed
-between the first and second recensions of the *Decretum*.
+[^z1]: Including the *dicta* from *de Penitentia* distorts the
+results of the analysis, because out of the 10,081 words of the
+vulgate version of the *de Pen.* *dicta*, only 556 were added or
+changed between the first and second recensions of the *Decretum*.
 
-[^a]: The formula for sample standard deviation is:
+[^z2]: The formula for sample standard deviation is:
 
     $s=\sqrt{\frac{1}{N-1}\sum_{i=1}^N(x_i-\bar{x})^2}$
 
-[^b]: Is standard deviation measuring anything here other than the
+[^z3]: Is standard deviation measuring anything here other than the
 fact that the R1 sample is 3.9785 times the size of the R2 sample?
 
     $0.3447\times\frac{56713}{14255} = 0.3447\times3.9785 = 1.3756$
 
-[^7]: @zipf_human_1949, 73-131. Zipf himself referred to the
-relationship as "the law of diminishing reterns of words". Zipf
+[^z4]: @zipf_human_1949, 73-131. Zipf himself referred to the
+relationship as "the law of diminishing returns of words". Zipf
 previously discussed the relationship in @zipf_psycho-biology_1935.
 [UCSD Geisel Library has a copy, currently (18 February 2020)
 unavailable, of a 1965 MIT Press reprint of this book.] Zipf expressed
-the relationship as $r \times f = C$.
+the relationship as r × f = C.
 
-[^z1]: Note that the base of the logarithms does not matter (as
+[^z5]: Note that the base of the logarithms does not matter (as
 long as they are the same for both axes). Regardless of whether we
 take base e (natural) or base 10 logarithms of rank and word count,
 the slopes will be the same: -1.000 for the theoretical Zipf
@@ -271,7 +272,7 @@ distribution of word frequencies, and (as we shall see) -0.5923 for
 the actual frequencies of the twenty most frequent words in the
 first- and second-recension *dicta*.
 
-[^z2]: See @zipf_human_1949, 23-52, for Zipf's discussion of the
+[^z7]: See @zipf_human_1949, 23-52, for Zipf's discussion of the
 rank-frequency distribution of words in Joyce's *Ulysses*.
 
-[^z3]: **Even if we have to discard *si* for other reasons.**
+[^z8]: **Even if we have to later discard *si* for other reasons.**
