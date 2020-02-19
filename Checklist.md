@@ -7,6 +7,8 @@
 - [ ] **~/Tmp is not checked in and not backed up!**
 - [ ] Recheck statistical calculations in visualize.py. Population standard deviations calculated by pstdev and HP 48GX disagree: 1.6323 (pstdev) and 1.9022 (HP 48GX) for _in_, 1.2571 (pstdev) and 1.4649 (HP 48GX) for _non_.
 - [ ] Add statistics code to segment.py? (Mean size of samples plus standard deviation)
+- [ ] Apply for ICMCL bursary
+- [ ] Register for ICMCL
 
 (6 Feb 2020)
 - [x] Correct serious flaw in introductory _in_/_non_ frequency and z-score plots. (Computed standard deviation as if samples of R1 and R2 _dicta_ were of the same size and had equal weight, see 22 Jan 2020)
