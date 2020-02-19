@@ -190,7 +190,7 @@ tail-off of 1/N. (See Figure Zb)[^z5]
 
 "we have found a clearcut correlation between the number of different
 words in the *Ulysses* and the frequency of their usage, in the
-sense that they approximate the simple equation of an equalateral
+sense that they approximate the simple equation of an equilateral
 hyperbola: r × f = C in which *r* refers to the word's rank in the
 *Ulysses* and *f* to its frequency of occurrence (as we ignore for
 the present the size of C)."[@zipf_human_1949, 24]
