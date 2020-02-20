@@ -265,7 +265,7 @@ twenty most frequent words (MFWs) in the first- and second-recension
 *si* (510), *a* (473), *ex* (418), *sunt* (379), *uero* (372), and
 *enim* (357).
 
-![Figure Zc updated 16 Feb 2020](PNGs/Figure_Z_actual_bar.png)
+![Figure Zc updated 19 Feb 2020](PNGs/Figure_Z_actual_bar.png)
 
 Plotting the data from Figure Zc on logarithmic axes and performing
 least-squares linear regression analysis lets us calculate the
