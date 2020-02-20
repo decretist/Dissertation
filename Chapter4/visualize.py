@@ -1,6 +1,6 @@
 #!/usr/local/bin/python3
 #
-# Paul Evans (10evans@cua.edu
+# Paul Evans (10evans@cua.edu)
 # 6-11 February 2020
 # 22 January 2020
 #

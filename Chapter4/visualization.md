@@ -11,6 +11,52 @@ Visualizing data from the first- and second- recension *dicta*
 two-dimensional form is a useful first step toward understanding
 how this kind of stylometric analysis works in practice.[^z1]
 
++ if a *dictum* is listed in Winroth's appendix as being in the
+first recension of the *Decretum*, and as not having been added to
+or changed in the second recension, it is included in the first
+recension sample.
+
++ if a *dictum* is in the MGH e-text of the 1879 Friedberg edition,
+and is not listed in Winroth's appendix as being in the first
+recension, in either unmodified or modified form, it is included
+in the second recension sample.
+
++ if a *dictum* is listed Winroth's appendix as being in the first
+recension, but as having been added to or changed in the second
+recension, words indicated by the appendix are included in the first
+recension sample, while words in the e-text of Friedberg not
+corresponding to the words indicated by the appendix are included
+in the second recension sample.
+
+D.54, d.p.c.23 is a good example. The complete text of the *dictum*
+as it appears in the Friedberg edition (1.214) is:
+
+*Ecce, quomodo serui ad clericatum ualeant assumi, uel quomodo non
+admittantur. Liberti quoque non sunt promouendi ad clerum, nisi ab
+obsequiis sui patroni fuerint absoluti. Unde in Concilio Eliberitano:*
+
+Winroth's appendix (201) indicates that only the first sentence of
+the *dictum* appears in the first recension (the numbers 1 and 2
+refer to line numbers in the print version of the Friedberg edition):
+
+d.p.c. 23: **1** *Ecce quomodo serui* – **2** *quomodo non admittantur*.
+
+Therefore, "Ecce, quomodo serui ad clericatum ualeant assumi, uel
+quomodo non admittantur." is included in the first recension text
+sample, and "Liberti quoque non sunt promouendi ad clerum, nisi ab
+obsequiis sui patroni fuerint absoluti. Unde in Concilio Eliberitano:"
+is included in the second recension text sample.
+
+There are 897 *dicta* represented in the first-recension text sample
+and 419 in the second-recension sample. Of those, 65 *dicta* are
+represented in both the first- and second-recension samples.
+
+Depending on the nature of the analysis we want to conduct, we may
+choose to either include or exclude the *dicta* from *de Pen*.
+Excluding the *dicta* from *de Pen*., there are 836 first-recension
+and 398 second-recension *dicta*, of which 61 *dicta* are represented
+in both samples.
+
 *In* is the most frequently occurring word in the *dicta*. There
 are 1,450 occurrences of *in* out of 56,713 words in the first-recension
 *dicta* (2.56%). There are 411 occurrences of *in* out of 14,255

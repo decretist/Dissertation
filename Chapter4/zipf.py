@@ -1,6 +1,6 @@
 #!/usr/local/bin/python3
 #
-# Paul Evans (10evans@cua.edu
+# Paul Evans (10evans@cua.edu)
 # 13-16 February 2020
 #
 import math
