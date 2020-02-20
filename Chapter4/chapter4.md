@@ -76,6 +76,8 @@ and readers process function words at an subconscious level.
 uses particular function words is therefore considered to be more
 or less invariant, making it a reliable authorial signature.
 
+### The Federalist (Hamilton and Madison)
+
 Stylometric analysis of the frequency of functions words for the
 purpose of attributing authorship has had a number of notable
 successes. The validity of this approach for textual scholarship
@@ -83,14 +85,16 @@ was firmly established by the work of Frederick Mosteller and David
 L. Wallace on the *Federalist Papers*. The authorship of 12 of the
 *Federalist Papers*, 49-57 and 62-63, had been disputed since the
 early 19th century, with competing claims advanced on behalf of
-Alexander Hamilton and James Madison. In 1944, Douglass Adair, using
-traditional scholarly methods, settled the dispute largely to the
-satisfaction of early American historians, determining that Madison
-was the author of all 12 of the disputed numbers.[^4] In 1964,
-Mosteller and Wallace confirmed Adair's findings by conducting a
-stylometric analysis of the frequencies of 70 function words to
+Alexander Hamilton and James Madison.[^f] In 1944, Douglass Adair,
+using traditional scholarly methods, settled the dispute largely
+to the satisfaction of early American historians, determining that
+Madison was the author of all 12 of the disputed numbers.[^4] In
+1964, Mosteller and Wallace confirmed Adair's findings by conducting
+a stylometric analysis of the frequencies of 70 function words to
 compare the 12 disputed numbers with numbers securely attributed
 to Hamilton and Madison.[@mosteller_inference_1964]
+
+![Federalist](JPGs/Federalist_CA_72_MFWs.jpg)
 
 ### Simplified two-dimensional visualization
 
@@ -589,6 +593,8 @@ and *dicta* in Gratian's *Decretum*" was presented to the Classical
 Sources III session at the Fifteenth International Congress of
 Medieval Canon Law (ICMCL) at Université Paris II Panthéon-Assas,
 July 17-23, 2016.
+
+[^f]: @mosteller_inference_1964, 14. See also @adair_authorship_1944a, 104.
 
 [^4]: @adair_authorship_1944a and @adair_authorship_1944b.
 
