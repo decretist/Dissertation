@@ -323,7 +323,7 @@ plotted in Figures Zc and Zd. In all four plots, the first data
 point has a rank of 1 and a frequency of 1861, corresponding to the
 1,861 occurrences of the most frequent word *in* in the *dicta*.)
 
-![Figure Za updated 16 Feb 2020](PNGs/Figure_Z_theoretical_bar.png)
+![Figure Za updated 20 Feb 2020](PNGs/Figure_Z_theoretical_bar.png)
 
 Zipf's law can be restated with greater mathematical precision by
 noting that the relationship of the logarithm of rank to the logarithm
