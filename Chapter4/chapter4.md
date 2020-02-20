@@ -1,7 +1,7 @@
 ---
 bibliography: ../bib/merged.bib
 csl: ../csl/chicago-fullnote-bibliography.csl
-suppress-bibliography: true
+suppress-bibliography: false
 title: Chapter 4
 subtitle: Stylometry
 abstract: |
@@ -291,6 +291,8 @@ an advanced technique introduced below, principal component analysis
 Now, we are obviously not going to make an attribution of authorship
 based on the frequencies of only two function words.
 
+### Zipf's law
+
 Increasing the number of function words for which one collects
 frequency data increases the accuracy of stylometric analysis, up
 to a point. There is, however, a limit to the marginal value of
@@ -379,7 +381,7 @@ use somewhere in the neighborhood of fifty function words for
 stylometric analysis, we will have to reach all the way down to the
 240th most frequent word to populate the wordlist.
 
-### End Interpolation
+### Principal Component Analysis
 
 But increasing the number of function words also introduces a new
 problem. We were able to represent our stylometric analysis of the
@@ -389,7 +391,7 @@ be as many dimensions on the graph as there are function words for
 which we collect data. And because human beings are not good at
 visualizing quantitative data in more than three dimensions, we
 need to find a way to reduce the number of dimensions. This is where
-the technique of principle component analysis, or PCA, becomes
+the technique of principal component analysis, or PCA, becomes
 useful.[^14]
 
 PCA first combines as many of the raw dimensions as possible into
@@ -638,8 +640,8 @@ for which Winroth notes a textual difference is C.19 d.init.
 13-word clause added to the second recension version, seemingly for
 the purpose of piling up descriptive detail. (*unus relicta propria
 ecclesia eo inuito, alter dimissa regulari canonica cenobio se
-contulit*). None of the wordlists used to perform the principle
-components analyses include any of these 13 words, so the use of
+contulit*). None of the wordlists used to perform the principal
+component analyses include any of these 13 words, so the use of
 the vulgate rather than a proxy first-recension version of the text
 of C.19 d.init. has no effect on the outcome of these tests.**
 
