@@ -136,10 +136,10 @@ non_values = [value_non_r1, value_non_r2]
 pp.scatter(in_values, non_values)
 if frequency_view:
     title_string = '(frequency view, '
-    filename = './PNGs/Figure_0_frequency_'
+    filename = '../PNGs/Figure_0_frequency_'
 else:
     title_string = '(z-score view, '
-    filename = './PNGs/Figure_0_z-score_'
+    filename = '../PNGs/Figure_0_z-score_'
 if de_pen:
     title_string += 'including $\it{de Pen.}$)'
     filename += 'including_de_Pen.png'
