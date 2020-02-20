@@ -47,6 +47,8 @@ sample, and "Liberti quoque non sunt promouendi ad clerum, nisi ab
 obsequiis sui patroni fuerint absoluti. Unde in Concilio Eliberitano:"
 is included in the second recension text sample.
 
+``` {'key': 'D.54 d.p.c.23', 'pattern': '(Ecce, quomodo serui.*?quomodo non admittantur\.)'},```
+
 There are 897 *dicta* represented in the first-recension text sample
 and 419 in the second-recension sample. Of those, 65 *dicta* are
 represented in both the first- and second-recension samples.

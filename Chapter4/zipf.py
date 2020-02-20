@@ -1,7 +1,7 @@
 #!/usr/local/bin/python3
 #
 # Paul Evans (10evans@cua.edu)
-# 13-16 February 2020
+# 19 February 2020
 #
 import math
 import matplotlib.pyplot as pp
@@ -38,6 +38,16 @@ def plot_data_bar(data_points):
     pp.xlabel('rank')
     pp.ylabel('word count')
 
+def plot_actual_data_bar(dict):
+    words = list(dict.keys())
+    xy_values = list(dict.values())
+    x_values, y_values = zip(*xy_values)
+    pp.figure(figsize=[6.4, 6.4]) # default = [6.4, 4.8]
+    pp.bar(x_values, y_values)
+    pp.axis([0,21,0,2000])
+    pp.xticks(x_values, words, rotation='vertical')
+    pp.ylabel('word count')
+
 def plot_data_scatter(data_points):
     x_values, y_values = zip(*data_points)
     pp.scatter(x_values, y_values)
@@ -67,12 +77,13 @@ def main():
     pp.savefig('PNGs/Figure_Z_theoretical_log-log_scatter.png')
     pp.show()
     #  actual distribution for 20 MFWs from R1 and R2 dicta (bar plot)
-    data_points = [(1, 1861), (2, 1666), (3, 1638), (4, 1132), (5, 784), (6, 768), (7, 691), (8, 681), (9, 677), (10, 661), (11, 631), (12, 534), (13, 530), (14, 518), (15, 510), (16, 473), (17, 418), (18, 379), (19, 372), (20, 357)]
-    plot_data_bar(data_points)
+    mfws = {'in': (1, 1861), 'non': (2, 1666), 'et': (3, 1638), 'est': (4, 1132), 'quod': (5, 784), 'de': (6, 768), 'unde': (7, 691), 'ad': (8, 681), 'qui': (9, 677), 'sed': (10, 661), 'uel': (11, 631), 'ut': (12, 534), 'cum': (13, 530), 'autem': (14, 518), 'si': (15, 510), 'a': (16, 473), 'ex': (17, 418), 'sunt': (18, 379), 'uero': (19, 372), 'enim': (20, 357)}
+    plot_actual_data_bar(mfws)
     pp.title('actual distribution for 20 MFWs from R1 and R2 $\it{dicta}$')
     pp.savefig('PNGs/Figure_Z_actual_bar.png')
     pp.show()
     # actual distribution for 20 MFWs from R1 and R2 dicta (log-log scatter plot)
+    data_points = [(1, 1861), (2, 1666), (3, 1638), (4, 1132), (5, 784), (6, 768), (7, 691), (8, 681), (9, 677), (10, 661), (11, 631), (12, 534), (13, 530), (14, 518), (15, 510), (16, 473), (17, 418), (18, 379), (19, 372), (20, 357)]
     plot_data_scatter(logify(data_points))
     slope = plot_regression(logify(data_points))
     pp.title('actual distribution for 20 MFWs from R1 and R2 $\it{dicta}$\n(log-log, slope = ' + f'{slope:.4f})')
