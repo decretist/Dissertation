@@ -29,7 +29,7 @@ everything that previous generations thought was known about Gratian
 has proved, on closer examination, to be myth.[@noonan_gratian_1979]
 On the evidence found in the *Decretum*, Gratian seems to have been
 less interested in contemporary ecclesiastical or secular politics
-in general, and in the Investiture Controversy in particular, than
+in general, and in the Investiture Controversy (1076-1122) in particular, than
 some modern scholars think he should have been. Gratian similarly
 seems, based on the relatively limited use he makes in the *Decretum*
 of material from the *Codex* and *Digest* of Justinian, to have
@@ -216,6 +216,24 @@ and also confirmation, and with these things concludes his treatise."[^11]
 If Rambaud is correct, this indicates that Paucapalea was personally
 unfamiliar with the author and his plan of work.
 
+### Simon of Bisignano
+
+[Simon of Bisignano](http://amesfoundation.law.harvard.edu/BioBibCanonists/Report_Biobib2.php?record_id=a497)
+(fl. 1174--1179) was the author of a *Summa decretorum* dated
+c.1177-79, and a number of glosses on the *Decretum* are attributed
+to him.[^13] The evidence that Simon of Bisignano was a student of
+Gratian’s comes from references within his writings.[^14] Simon
+refers to himself as *discipulus* and to Gratian as *magister* in
+at least two places in his *Summa* (**Landau says "frequently"**).
+There is, however a hiatus of almost four decades between the latest
+plausible date for the end of Gratian's teaching career, and the
+documentary evidence we have for Simon's professional career as a
+canonist. Although it is not chronologically impossible for Simon
+to have been Gratian's student, it seems more likely that he described
+himself as *discipulus* in something like the same sense that we
+might describe contemporary scholars like Chodorow, Pennington, and
+Winroth as "students of Gratian".
+
 ### Epilogue
 
 By the beginning of the thirteenth century, the systematic study
@@ -229,4 +247,40 @@ Gratian, based on a rich collection of scriptural, patristic,
 conciliar, and papal source texts, and towards a much more narrowly
 circumscribed technical jurisprudence focused exclusively on
 contemporary papal decretals.
+
+[^13]: Pennington does not indicate that Simon of Bisignano was a
+student of Gratian in the Bio-Bibliographical Guide to Medieval and
+Early Modern Jurists. What *siglum* is associated with Simon's
+glosses? (cite Hartmann and Pennington). Simon's glosses are dated
+earlier (how much earlier?) than his *Summa* (cite Hartmann and
+Pennington).
+
+[^14]: @kuttner_research_1990, 7. @noonan_gratian_1979, 157, rejects
+this, but Kuttner disagrees. Simon of Brisignano refers to Gratian
+as *magister* and to himself as *discipulus* in his comments on
+C.27 q.2, @simon_of_bisignano_summa_2014, 412. Simon again refers
+to Gratian as *magister* in his comments on D.4 c.31 of *de Cons*.,
+@simon_of_bisignano_summa_2014, 542. **Page numbers may not coincide
+with print edition cited: the version of the Aimone edition I have
+access to is a PDF dated Fribourg 2007. BibTex records in merged.bib
+are inconsistent as to whether to use the author's or editor's name
+as the basis for the tag.**
+
+    <CAVSA XXVII>  
+    <Q.II> § *Sequitur secunda questio*  
+    Sacram et authenticam pie recordationis Gratianus de matrimonio
+    distinctionem composuit, quam quidam inanis glorie aucupes
+    fecere bifrontem et simplicium potibus inuidentes more seuorum
+    animalium aquas limpidas turbauerunt. Gratianus uero, canonum
+    habita notitia et mente perspecta, dixit inter sponsum et sponsam
+    esse matrimonium, sed initiatum; inter uirum et uxorem consummatum.
+    Sed quoniam non est discipulus super magistrum nec debet securis
+    contra eum qui secat gloriari timemus os nostrum in celum mittere
+    et eum reprehendere cuius non sumus digni soluere corrigiam
+    calceamenti.
+
+    <DISTINCTIO IIII>  
+    31. *Solet queri*  
+    Quod quamuis Magister noster docuerit, nos tamen in hoc nolumus
+    eum imitari.
 
