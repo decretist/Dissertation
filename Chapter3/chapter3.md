@@ -29,20 +29,25 @@ everything that previous generations thought was known about Gratian
 has proved, on closer examination, to be myth.[@noonan_gratian_1979]
 On the evidence found in the *Decretum*, Gratian seems to have been
 less interested in contemporary ecclesiastical or secular politics
-in general, and in the Investiture Controversy (1076-1122) in particular, than
-some modern scholars think he should have been. Gratian similarly
-seems, based on the relatively limited use he makes in the *Decretum*
-of material from the *Codex* and *Digest* of Justinian, to have
-been either less interested in, or less aware of, the revival of
-the study of Roman law in the early twelfth century than we think
-he should have been. On the other hand, he seems to have been more
-aware of, and more interested in, the emergence of scholastic
-theology in northern France than we can easily explain.[^3]
+in general, and in the Investiture Controversy (1076-1122) in
+particular, than some modern scholars think he should have been.
+Gratian similarly seems, based on the relatively limited use he
+makes in the *Decretum* of material from the *Codex* and *Digest*
+of Justinian, to have been either less interested in, or less aware
+of, the revival of the study of Roman law in the early twelfth
+century than we think he should have been. On the other hand, he
+seems to have been more aware of, and more interested in, the
+emergence of scholastic theology in northern France than we can
+easily explain.[^3]
+
+**As an example of Noonan's approach and conclusions, discuss how
+Noonan discredited one of the most notable elements of the mythology
+surrounding Gratian, that Gratian was a Camaldolese monk.**
 
 Odofredus (†1265), a professor of law at Bologna, claimed that
 Gratian "was staying" (stabat) at the monastery of SS. Felice and
-Nabor while working as a rubricator.[^4] Odofredus did not indicate the
-basis for his statement that Gratian had been a resident of SS.
+Nabor while working as a rubricator.[^4] Odofredus did not indicate
+the basis for his statement that Gratian had been a resident of SS.
 Felice and Nabor, nor did he say that Gratian had been a monk. In
 1758, Camaldolese scholars Mittarelli and Costadono discovered papal
 privileges conferred in 1113 and 1153 identifying SS. Felice and
@@ -51,7 +56,18 @@ and by extension Gratian himself -- had been Camaldolese during the
 intervening years. The claim that Gratian had a connection to the
 Camaldolese order attracted criticism in the eighteenth century,
 and fell out of favor in the nineteenth century, but was put back
-into circulation in the mid-twentieth century by Van Hove.
+into circulation in the mid-twentieth century by Van Hove. [^a]
+
+[^a]: **Cite @noonan_gratian_1979, but also cite
+@van_hove_prolegomena_1945.** Van Hove's *Prolegomena* had an
+outsized impact on the trajectory of medieval canon law studies in
+twentieth century North America because of its having been used by
+the 1964 Yale seminar led by Peter Landau in the absence of Stephan
+Kuttner, who was undergoing treatment for cancer at the time. Seminar
+participants including Charles Donahue and Robert Somerville went
+on to have unusually influential academic careers in the field
+(Donahue at Harvard, and Somerville at Columbia where he was Winroth's
+dissertation advisor).
 
 Noonan (†2017) was a distinguished professor of law and an appellate
 judge who applied the standards of evidence of the law school and
@@ -61,18 +77,20 @@ century after the fact -- is nothing more than legend.
 
 ### Pennington's argument
 
+**No transition, and very incomplete**
+
 Pennington, depending on Eichbauer, argues that because the number
 of additional canons found in the margins of Bc, and in both the
-margins and appendices of Fd and Aa, fall well short (87 are missing
-from Aa, and 62 are missing from Fd) of the number that would be
-expected if they had been copied from a Vulgate *Decretum*, these
-manuscripts represent an intermediate "next-to-last" stage in the
-development of the *Decretum* text intermediate the pre-Vulgate and
-Vulgate versions. Furthermore, the fact that the Lateran II canons
-*are* present in this "next-to-last" stage undermines the argument
-going back to Fransen and supported by Lenherr that the Lateran II
-canons are a last-minute addition, and poorly if at all integrated
-into the argument of the *Decretum*.[@pennington_biography_2014,
+margins and appendices of Fd and Aa, fall well short of the number
+that would be expected if they had been copied from a Vulgate
+*Decretum* (87 are missing from Aa, and 62 are missing from Fd),
+these manuscripts represent an intermediate "next-to-last" stage
+in the development of the *Decretum* text intermediate the pre-Vulgate
+and Vulgate versions. Furthermore, the fact that the Lateran II
+canons *are* present in this "next-to-last" stage undermines the
+argument going back to Fransen and supported by Lenherr that the
+Lateran II canons are a last-minute addition, and poorly if at all
+integrated into the argument of the *Decretum*.[@pennington_biography_2014,
 686]
 
 ### Gratian's teaching career
@@ -86,11 +104,11 @@ experience as a classroom teacher. On the one hand, the early
 manuscript tradition for the *Decretum* displays enough variation,
 even among the first-recension manuscripts Aa, Bc, Fd, and P, to
 suggest that the text developed continuously over the span of, and
-in parallel with, a relatively long teaching career --- almost
-certainly a decade or more. On the other hand, Gratian's personal
-obscurity is so profound --- Stephan Kuttner compared Gratian to
-the anonymous builders of Gothic cathedrals[^6] --- as to suggest
-a short, or even no, teaching career.[^7]
+in parallel with, a relatively long teaching career --- perhaps a
+decade or more. On the other hand, Gratian's personal obscurity is
+so profound --- Stephan Kuttner compared Gratian to the anonymous
+builders of Gothic cathedrals[^6] --- as to suggest a short, or
+even no, teaching career.[^7]
 
 Considering the fact that Gratian was universally credited as the
 author of the foundational textbook for the study of canon law in
@@ -120,13 +138,13 @@ the subject matter of the master producing this work."[^10]
 The omission is potentially significant. Prefaces to academic books
 in the twelfth century formed a recognized genre with well-established
 conventions. In an age resistant to any attempt by the human present
-to appropriate the authority of the divine past, a commentator like
-Paucapalea would have been expected to offer an explicit statement
-in his preface affirming the authority of both the work commented
-on and its author. If Paucapalea had had something to say about the
-authority of Gratian, his readers would have expected him to do so
-in his preface. That he did not suggests that he may not have known
-enough about Gratian to credibly do so.[^11]
+to appropriate the authority of the divinely-inspired past, a
+commentator like Paucapalea would have been expected to offer an
+explicit statement in his preface affirming the authority of both
+the work commented on and its author. If Paucapalea had had something
+to say about the authority of Gratian, his readers would have
+expected him to do so in his preface. That he did not suggests that
+he may not have known enough about Gratian to credibly do so.[^11]
 
 Furthermore, Paucapalea in the preface to his *summa* clearly shows
 both that he is aware of the third part of the *Decretum*, *de
@@ -136,10 +154,14 @@ compiled by the same Master responsible for the rest of the work:
 domini atque baptismo nec non et confirmatione pleniter tractat,
 et in his suum tractatum terminat.* In the end, he treats fully the
 dedication of churches, the body and blood of the Lord, baptism,
-and also confirmation, and with these things concludes his treatise."[^12]
+and also confirmation, and with these things concludes his
+treatise."[^12]
 
-If Rambaud is correct, this indicates that Paucapalea was personally
-unfamiliar with the author and his plan of work.
+If Rambaud is correct that *de Consecratione** was not part of the
+original *Decretum*, the fact that Paucapalea attributed it to the
+same unnamed master responsible for rest of the text on which he
+was commenting strongly suggests that he did not have direct knowledge
+of Gratian or his plan of work.
 
 ### Simon of Bisignano
 
@@ -219,7 +241,8 @@ been Gratian's student --- "none of the earliest users of his work
 claims to have been taught by him". "although other scholars made
 some very early alterations and additions to the text of the
 *Decretum*, none of them claimed to have been taught by him."
-[@southern_scholastic_1995, 287, 304].
+[@southern_scholastic_1995, 287, 304]. **Does Southern provide
+footnotes to support these statements?**
 
 [^8]: **Expand:** The tradition of Roman law teaching in Bologna
 preserved an elaborate genealogy of masters and their students:
@@ -246,7 +269,8 @@ Paucapalea appears not to refer to Gratian by name anywhere in his
 [^11]: **Going to need a very heavyweight footnote here referencing
 Minnis.** [@minnis_medieval_1988] [@hunt_introductions_1980]
 
-[^12]: [@paucapalea_summa_1890, 3] [@somerville_prefaces_1998, 184-185]
+[^12]: [@paucapalea_summa_1890, 3] [@somerville_prefaces_1998,
+184-185]
 
 [^13]: Pennington does not indicate that Simon of Bisignano was a
 student of Gratian in the Bio-Bibliographical Guide to Medieval and
@@ -259,15 +283,15 @@ Pennington).
 this, but Kuttner disagrees. Simon of Brisignano refers to Gratian
 as *magister* and to himself as *discipulus* in his comments on
 C.27 q.2, @simon_of_bisignano_summa_2014, 412. Simon again refers
-to Gratian as *magister* in his comments on D.4 c.31 of *de Cons*.,
-@simon_of_bisignano_summa_2014, 542. **Page numbers may not coincide
-with print edition cited: the version of the Aimone edition I have
-access to is a PDF dated Fribourg 2007. BibTex records in merged.bib
-are inconsistent as to whether to use the author's or editor's name
-as the basis for the tag.**
+to Gratian as *magister* in his comments on D.4 c.31 of *de
+Consecratione* @simon_of_bisignano_summa_2014, 542. **Page numbers
+may not coincide with print edition cited: the version of the Aimone
+edition I have access to is a PDF dated Fribourg 2007. BibTex records
+in merged.bib are inconsistent as to whether to use the author's
+or editor's name as the basis for the tag.**
 
-    <CAVSA XXVII>  
-    <Q.II> § *Sequitur secunda questio*  
+    <CAVSA XXVII>
+    <Q.II> § *Sequitur secunda questio*
     Sacram et authenticam pie recordationis Gratianus de matrimonio
     distinctionem composuit, quam quidam inanis glorie aucupes
     fecere bifrontem et simplicium potibus inuidentes more seuorum
@@ -279,8 +303,8 @@ as the basis for the tag.**
     et eum reprehendere cuius non sumus digni soluere corrigiam
     calceamenti.
 
-    <DISTINCTIO IIII>  
-    31. *Solet queri*  
+    <DISTINCTIO IIII>
+    31. *Solet queri*
     Quod quamuis Magister noster docuerit, nos tamen in hoc nolumus
     eum imitari.
 
