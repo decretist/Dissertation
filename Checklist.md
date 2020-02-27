@@ -1,17 +1,20 @@
 ### 2020 Dissertation Checklist
 
+- [ ] Clear backlog of git commits for Gratian repository
 - [ ] Apply for ICMCL bursary
 - [ ] Register for ICMCL
 - [ ] Chapter 3: translate passages from _summa_ of Simon of Bisignano referring to Gratian as _magister_ and himself as _discipulus_.
 - [ ] Chapter 3: summarize and analyze Pennington's argument about identity of Gratian
 - [ ] Chapter 3: summarize and analyze Winroth's argument about identity of Gratian
-- [ ] Chapter 4: add footnote with formula for least squares linear regression
 - [ ] Write definition of 1st- and 2nd-recension _dicta_ in samples
 - [ ] Read Mike Kestemont, Jeroen De Gussem, "Integrated Sequence Tagging for Medieval Latin Using Deep Representation Learning"
 - [ ] Look for Ivonian vocabulary (admonition, indulgence, precept, prohibition, dispensation) in R1 and R2 _dicta_
 - [ ] Check randomize.py into GitHub
 - [ ] **~/Tmp is not checked in and not backed up!**
 - [ ] Add statistics code to segment.py? (Mean size of samples plus standard deviation)
+
+(27 February 2020)
+- [x] Chapter 4: add footnote with formula for least squares linear regression
 
 (10-11 Feb 2020)
 - [x] Recheck statistical calculations in visualize.py. Population standard deviations calculated by pstdev and HP 48GX disagree: 1.6323 (pstdev) and 1.9022 (HP 48GX) for _in_, 1.2571 (pstdev) and 1.4649 (HP 48GX) for _non_.
