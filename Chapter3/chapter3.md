@@ -1,7 +1,7 @@
 ---
 bibliography: ../bib/merged.bib
 csl: ../csl/chicago-fullnote-bibliography.csl
-suppress-bibliography: true
+suppress-bibliography: false
 title: Chapter 3
 abstract: |
   The third order of business then is to recount the history of
@@ -126,6 +126,8 @@ twelfth-century canonist have, with varying degrees of plausibility,
 been identified as having been students of Gratian: Paucapalea (fl.
 1140s), Simon of Bisignano (fl. 1174--1179), Omnebene (d. 1185).
 
+#### Paucapalea
+
 Paucapalea was easily the most prominent figure from the early
 period of the Bolognese school of decretists who followed in Gratian's
 immediate footsteps. Pennington flatly states that Paucapalea was
@@ -157,13 +159,53 @@ dedication of churches, the body and blood of the Lord, baptism,
 and also confirmation, and with these things concludes his
 treatise."[^12]
 
-If Rambaud is correct that *de Consecratione** was not part of the
+If Rambaud is correct that *de Consecratione* was not part of the
 original *Decretum*, the fact that Paucapalea attributed it to the
 same unnamed master responsible for rest of the text on which he
 was commenting strongly suggests that he did not have direct knowledge
 of Gratian or his plan of work.
 
-### Simon of Bisignano
+#### Omnibonus or Omnebene
+
+Omnibonus or Omnebene composed an abbreviation (*summa*? abridged
+version?) of the *Decretum* in the 1150s. The basis for the claim
+that Omnebene was a student of Gratian is an entry for the year
+1130 in the chronicle of Norman monk Robert of Torigni (†1186)
+
+> *Gratianus episcopus Clusinus coadunavit decreta valde utilia ex
+decretis, canonibus, doctoribus, legibus Romanis, sufficientia ad
+omnes ecclesiasticas causas decidendas, que frequentantur in curia
+Romana et in aliis curiis ecclesiasticis. Hec postmodum abbreviavit
+magister Omnebonum episcopus Veronensis, qui fuerat eius discipulus.*
+(Gratian bishop of Chiusi brought together very useful decrees out
+of decrees, canons, doctors, Roman laws, sufficient for deciding
+all ecclesiastical cases, which are resorted to at the Roman curia
+and in other ecclesiastical courts. Master Omnebonum bishop of
+Verona, who had been his student, afterwards abbreviated them.)[^b]
+
+[^b]: Kuttner, *Repertorium*, 453. MGH Scriptores (SS) 6 (1844), 490.
+*Chronique de Robert de Torigny*, ed. Léopold Delisle, 183-184 (see
+BSB online version). *Chronicles of the reigns of Stephen, Henry
+II, and Richard I*, ed. Richard Howlett (1884). *Chronica Roberti
+de Torigneio*, ed. Richard Howlett, RS 82 4.118.
+
+Although the evidence of Robert's chronicle is by Noonan's standard
+hearsay, Robert's reputation as a well-informed source concerning
+Gratian has improved in recent years since the Siena necrology has
+made the identification of Gratian as bishop of Chiusi more probable.
+
+The dates do not preclude Omnebene's having been a student of
+Gratian. Although Omnebene lived into the 1180s, the abbreviation
+itself seems to date from the 1150s, perhaps a decade after the end
+of whatever teaching career Gratian may have had, and at precisely
+the moment that continent-wide interest in the text was increasing
+most rapidly.
+
+**Is there any internal evidence in Omnebene's abbreviation that
+Gratian was his teacher? Cite recent editions of Omnebene's
+abbreviation.**
+
+#### Simon of Bisignano
 
 [Simon of Bisignano](http://amesfoundation.law.harvard.edu/BioBibCanonists/Report_Biobib2.php?record_id=a497)
 (fl. 1174--1179) was the author of a *Summa decretorum* dated
