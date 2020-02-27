@@ -167,6 +167,8 @@ of Gratian or his plan of work.
 
 #### Omnibonus or Omnebene
 
+[Omnibonus](http://amesfoundation.law.harvard.edu/BioBibCanonists/Report_Biobib2.php?record_id=a363) (d.1185)
+
 Omnibonus or Omnebene composed an abbreviation (*summa*? abridged
 version?) of the *Decretum* in the 1150s. The basis for the claim
 that Omnebene was a student of Gratian is an entry for the year
@@ -322,7 +324,7 @@ earlier (how much earlier?) than his *Summa* (cite Hartmann and
 Pennington).
 
 [^14]: @kuttner_research_1990, 7. @noonan_gratian_1979, 157, rejects
-this, but Kuttner disagrees. Simon of Brisignano refers to Gratian
+this, but Kuttner disagrees. Simon of Bisignano refers to Gratian
 as *magister* and to himself as *discipulus* in his comments on
 C.27 q.2, @simon_of_bisignano_summa_2014, 412. Simon again refers
 to Gratian as *magister* in his comments on D.4 c.31 of *de

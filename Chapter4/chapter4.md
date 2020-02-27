@@ -364,11 +364,11 @@ twenty most frequent words (MFWs) in the first- and second-recension
 Plotting the data from Figure Zc on logarithmic axes and performing
 least-squares linear regression analysis lets us calculate the
 slope, -0.5923, for the rank-frequency tail-off of the twenty most
-frequent words from the first- and second-recension *dicta*. (See
-Figure Zd below.) Transposing that result back into the linear (as
-opposed to logarithmic) frame of reference used in Figure Zc, the
-expression 1/N^(0.5923)^ yields a good (though not perfect) fit to
-the actual rank-frequency data.
+frequent words from the first- and second-recension *dicta*.[^regression]
+(See Figure Zd below.) Transposing that result back into the linear
+(as opposed to logarithmic) frame of reference used in Figure Zc,
+the expression 1/N^(0.5923)^ yields a good (though not perfect) fit
+to the actual rank-frequency data.
 
 ![Figure Zd updated 16 Feb 2020](PNGs/Figure_Z_actual_log-log_scatter.png)
 
@@ -629,6 +629,8 @@ first- and second-recension *dicta*.
 
 [^12]: See @zipf_human_1949, 23-52, for Zipf's discussion of the
 rank-frequency distribution of words in Joyce's *Ulysses*.
+
+[^regression]: $m = \frac{\sum{x_iy_i - n\bar{xy}}}{\sum{x_i^2 - n\bar{x}^2}}$
 
 [^13]: **Even if we have to later discard *si* for other reasons.**
 
