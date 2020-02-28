@@ -598,10 +598,10 @@ July 17-23, 2016.
 
 [^5]: @adair_authorship_1944a and @adair_authorship_1944b.
 
-[^7]: Including the *dicta* from *de Penitentia* distorts the
-results of the analysis, because out of the 10,081 words of the
-vulgate version of the *de Pen.* *dicta*, only 556 were added or
-changed between the first and second recensions of the *Decretum*.
+[^7]: Including the *dicta* from *de Penitentia* distorts the results
+of the analysis, because out of the 10,081 words of the vulgate
+version of the *de Pen.* *dicta*, only 556 were added or changed
+between the first and second recensions of the *Decretum*.
 
 [^8]: The formula for sample standard deviation is:
 
@@ -649,9 +649,9 @@ for which Winroth notes a textual difference is C.19 d.init.
 the purpose of piling up descriptive detail. (*unus relicta propria
 ecclesia eo inuito, alter dimissa regulari canonica cenobio se
 contulit*). None of the wordlists used to perform the principal
-component analyses include any of these 13 words, so the use of
-the vulgate rather than a proxy first-recension version of the text
-of C.19 d.init. has no effect on the outcome of these tests.**
+component analyses include any of these 13 words, so the use of the
+vulgate rather than a proxy first-recension version of the text of
+C.19 d.init. has no effect on the outcome of these tests.**
 
 [^20]: In the case statements, 1st-, and 2nd-recension *dicta* from
 Gratian's *Decretum*, there are 747 occurrences of 79 unique words
