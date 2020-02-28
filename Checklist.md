@@ -1,7 +1,5 @@
 ### 2020 Dissertation Checklist
 
-- [ ] Apply for ICMCL bursary
-- [ ] Respond to Patrick Burns about requirements.txt
 - [ ] Register for ICMCL
 - [ ] Chapter 3: translate passages from _summa_ of Simon of Bisignano referring to Gratian as _magister_ and himself as _discipulus_.
 - [ ] Chapter 3: summarize and analyze Pennington's argument about identity of Gratian
@@ -12,6 +10,10 @@
 - [ ] Check randomize.py into GitHub
 - [ ] **~/Tmp is not checked in and not backed up!**
 - [ ] Add statistics code to segment.py? (Mean size of samples plus standard deviation)
+
+(28 February 2020)
+- [x] Create requirements.txt file in Backoff repository for Patrick Burns and commit: `pip freeze > requirements.txt`
+- [x] Apply for ICMCL bursary
 
 (27 February 2020)
 - [x] Chapter 4: add footnote with formula for least squares linear regression
