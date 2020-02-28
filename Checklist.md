@@ -1,6 +1,7 @@
 ### 2020 Dissertation Checklist
 
 - [ ] Apply for ICMCL bursary
+- [ ] Respond to Patrick Burns about requirements.txt
 - [ ] Register for ICMCL
 - [ ] Chapter 3: translate passages from _summa_ of Simon of Bisignano referring to Gratian as _magister_ and himself as _discipulus_.
 - [ ] Chapter 3: summarize and analyze Pennington's argument about identity of Gratian
