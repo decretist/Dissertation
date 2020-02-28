@@ -85,10 +85,10 @@ was firmly established by the work of Frederick Mosteller and David
 L. Wallace on the *Federalist Papers*. The authorship of 12 of the
 *Federalist Papers*, 49-57 and 62-63, had been disputed since the
 early 19th century, with competing claims advanced on behalf of
-Alexander Hamilton and James Madison.[^f] In 1944, Douglass Adair,
+Alexander Hamilton and James Madison.[^4] In 1944, Douglass Adair,
 using traditional scholarly methods, settled the dispute largely
 to the satisfaction of early American historians, determining that
-Madison was the author of all 12 of the disputed numbers.[^4] In
+Madison was the author of all 12 of the disputed numbers.[^5] In
 1964, Mosteller and Wallace confirmed Adair's findings by conducting
 a stylometric analysis of the frequencies of 70 function words to
 compare the 12 disputed numbers with numbers securely attributed
@@ -101,7 +101,7 @@ to Hamilton and Madison.[@mosteller_inference_1964]
 Visualizing data from the first- and second- recension *dicta*
 (excluding the *dicta* from *de Penitentia*) in a simplified
 two-dimensional form is a useful first step toward understanding
-how this kind of stylometric analysis works in practice.[^6]
+how this kind of stylometric analysis works in practice.[^7]
 
 + if a *dictum* is listed in Winroth's appendix as being in the
 first recension of the *Decretum*, and as not having been added to
@@ -218,7 +218,7 @@ to as the value's z-score. A value that has a difference of one
 standard deviation from the mean is said to have a z-score of 1.0
 or -1.0 depending on whether the value is greater or lesser than
 the mean. It is appropriate in this context to use the formula for
-population rather than sample standard deviation,[^7] because the
+population rather than sample standard deviation,[^8] because the
 data we have represents the totality of known words attributed to
 Gratian. The formula used to calculate the population standard
 deviation is:
@@ -266,7 +266,7 @@ $z =
 \frac{2.6089}{1.9022} =
 1.3716$
 
-![Figure 0b updated 10 Feb 2020[^8]](PNGs/Figure_0_z-score_excluding_de_Pen.png)
+![Figure 0b updated 10 Feb 2020[^9]](PNGs/Figure_0_z-score_excluding_de_Pen.png)
 
 Labels on the axes of the plot refer to standard deviations (values
 of z) away from the mean (represented by the dashed lines).
@@ -309,7 +309,7 @@ relationship. (Zipf did not apparently claim to have discovered the
 relationship himself.) If the words in a sample of text are
 rank-ordered from most to least frequent, Zipf’s laws posits that,
 as a first-order approximation, the frequency of each word will be
-1/N times that of the most frequent word, where N is the rank.[^9]
+1/N times that of the most frequent word, where N is the rank.[^10]
 In other words, the theoretical Zipf distribution predicts that the
 frequency of the second most frequent word in a sample of text
 should be one half that of the most frequent word, the frequency
@@ -328,7 +328,7 @@ point has a rank of 1 and a frequency of 1861, corresponding to the
 Zipf's law can be restated with greater mathematical precision by
 noting that the relationship of the logarithm of rank to the logarithm
 of frequency is linear, with a slope of -1.0 corresponding to a
-tail-off of 1/N. (See Figure Zb)[^10]
+tail-off of 1/N. (See Figure Zb)[^11]
 
 "we have found a clearcut correlation between the number of different
 words in the *Ulysses* and the frequency of their usage, in the
@@ -342,7 +342,7 @@ the present the size of C)."[@zipf_human_1949, 24]
 Zipf used word frequencies hand-tabulated from James Joyce's *Ulysses*
 as the data set for his exploration of the relationship, and it
 turns out that for English, the 1/N relationship holds up reasonably
-well.[^12] The reader, however, already has enough data to question
+well.[^13] The reader, however, already has enough data to question
 whether the relationship holds up as well for Gratian's Latin as
 it does for Joyce's English, since the frequency of *non*, the
 second most frequent word in the first- and second-recension *dicta*,
@@ -364,7 +364,7 @@ twenty most frequent words (MFWs) in the first- and second-recension
 Plotting the data from Figure Zc on logarithmic axes and performing
 least-squares linear regression analysis lets us calculate the
 slope, -0.5923, for the rank-frequency tail-off of the twenty most
-frequent words from the first- and second-recension *dicta*.[^regression]
+frequent words from the first- and second-recension *dicta*.[^14]
 (See Figure Zd below.) Transposing that result back into the linear
 (as opposed to logarithmic) frame of reference used in Figure Zc,
 the expression 1/N^(0.5923)^ yields a good (though not perfect) fit
@@ -380,7 +380,7 @@ frequent words in the first- and second-recension *dicta* are *in*,
 *non*, *et*, *est*, *quod*, *de*, *unde*, *ad*, *qui*, *sed*, *uel*,
 *ut*, *cum*, *autem*, *si*, *a*, *ex*, *sunt*, *uero*, and *enim*.
 Sixteen out of the first twenty are function words potentially
-suitable for use in stylometric analysis,[^13] but if we want to
+suitable for use in stylometric analysis,[^15] but if we want to
 use somewhere in the neighborhood of fifty function words for
 stylometric analysis, we will have to reach all the way down to the
 240th most frequent word to populate the wordlist.
@@ -396,7 +396,7 @@ which we collect data. And because human beings are not good at
 visualizing quantitative data in more than three dimensions, we
 need to find a way to reduce the number of dimensions. This is where
 the technique of principal component analysis, or PCA, becomes
-useful.[^14]
+useful.[^16]
 
 PCA first combines as many of the raw dimensions as possible into
 synthetic components on the basis of strong correlations, either
@@ -444,14 +444,14 @@ by starting with all the *dicta* in parts 1 and 2 of the Friedberg
 edition, and then taking away every word that appeared in the
 first-recension *dicta*. For the case statements, I simply used the
 text from the vulgate *Decretum* as it appears in the Friedberg
-edition.[^17]
+edition.[^19]
 
 Because stylometric analysis for authorship attribution depends on
 the frequencies of prepositions and conjunctions, it is important
 to include enclitics substituting for conjunctions. Every word in
 the samples with a -*que* ending that is actually an enclitic, and
 not just part of the word, has been mapped to the word plus the
-pseudo-conjunction "xque".[^18]
+pseudo-conjunction "xque".[^20]
 
 Now that we have the preliminaries out of the way, we can take a
 look at the results. I used the stylo R package to generate all of
@@ -594,32 +594,32 @@ Sources III session at the Fifteenth International Congress of
 Medieval Canon Law (ICMCL) at Université Paris II Panthéon-Assas,
 July 17-23, 2016.
 
-[^f]: @mosteller_inference_1964, 14. See also @adair_authorship_1944a, 104.
+[^4]: @mosteller_inference_1964, 14. See also @adair_authorship_1944a, 104.
 
-[^4]: @adair_authorship_1944a and @adair_authorship_1944b.
+[^5]: @adair_authorship_1944a and @adair_authorship_1944b.
 
-[^6]: Including the *dicta* from *de Penitentia* distorts the
+[^7]: Including the *dicta* from *de Penitentia* distorts the
 results of the analysis, because out of the 10,081 words of the
 vulgate version of the *de Pen.* *dicta*, only 556 were added or
 changed between the first and second recensions of the *Decretum*.
 
-[^7]: The formula for sample standard deviation is:
+[^8]: The formula for sample standard deviation is:
 
     $s=\sqrt{\frac{1}{N-1}\sum_{i=1}^N(x_i-\bar{x})^2}$
 
-[^8]: Is standard deviation measuring anything here other than the
+[^9]: Is standard deviation measuring anything here other than the
 fact that the R1 sample is 3.9785 times the size of the R2 sample?
 
     $0.3447\times\frac{56713}{14255} = 0.3447\times3.9785 = 1.3756$
 
-[^9]: @zipf_human_1949, 73-131. Zipf himself referred to the
+[^10]: @zipf_human_1949, 73-131. Zipf himself referred to the
 relationship as "the law of diminishing returns of words". Zipf
 previously discussed the relationship in @zipf_psycho-biology_1935.
 [UCSD Geisel Library has a copy, currently (18 February 2020)
 unavailable, of a 1965 MIT Press reprint of this book.] Zipf expressed
 the relationship as r × f = C.
 
-[^10]: Note that the base of the logarithms does not matter (as
+[^11]: Note that the base of the logarithms does not matter (as
 long as they are the same for both axes). Regardless of whether we
 take base e (natural) or base 10 logarithms of rank and word count,
 the slopes will be the same: -1.000 for the theoretical Zipf
@@ -627,18 +627,18 @@ distribution of word frequencies, and (as we shall see) -0.5923 for
 the actual frequencies of the twenty most frequent words in the
 first- and second-recension *dicta*.
 
-[^12]: See @zipf_human_1949, 23-52, for Zipf's discussion of the
+[^13]: See @zipf_human_1949, 23-52, for Zipf's discussion of the
 rank-frequency distribution of words in Joyce's *Ulysses*.
 
-[^regression]: $m = \frac{\sum{x_iy_i - n\bar{xy}}}{\sum{x_i^2 - n\bar{x}^2}}$
+[^14]: $m = \frac{\sum{x_iy_i - n\bar{xy}}}{\sum{x_i^2 - n\bar{x}^2}}$
 
-[^13]: **Even if we have to later discard *si* for other reasons.**
+[^15]: **Even if we have to later discard *si* for other reasons.**
 
-[^14]: For a general introduction to the use of principal component
+[^16]: For a general introduction to the use of principal component
 analysis (PCA) in literary stylometric analysis, see @craig_stylistic_2004
 and Chapter 6 "Style" in @jockers_macroanalysis_2013.
 
-[^17]: **This is perhaps not entirely satisfactory. It would be
+[^19]: **This is perhaps not entirely satisfactory. It would be
 more methodologically consistent with the way in which the samples
 of the first-recension dicta were prepared to apply the differences
 found in Winroth's appendix to the case statements as well, however
@@ -653,7 +653,7 @@ component analyses include any of these 13 words, so the use of
 the vulgate rather than a proxy first-recension version of the text
 of C.19 d.init. has no effect on the outcome of these tests.**
 
-[^18]: In the case statements, 1st-, and 2nd-recension *dicta* from
+[^20]: In the case statements, 1st-, and 2nd-recension *dicta* from
 Gratian's *Decretum*, there are 747 occurrences of 79 unique words
 ending in -*que*. (This does not count 423 occurrences of the word
 '*que*' itself.) Of those, 498 are occurrences of 19 unique words
