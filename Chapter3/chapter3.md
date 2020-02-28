@@ -56,18 +56,7 @@ and by extension Gratian himself -- had been Camaldolese during the
 intervening years. The claim that Gratian had a connection to the
 Camaldolese order attracted criticism in the eighteenth century,
 and fell out of favor in the nineteenth century, but was put back
-into circulation in the mid-twentieth century by Van Hove. [^a]
-
-[^a]: **Cite @noonan_gratian_1979, but also cite
-@van_hove_prolegomena_1945.** Van Hove's *Prolegomena* had an
-outsized impact on the trajectory of medieval canon law studies in
-twentieth century North America because of its having been used by
-the 1964 Yale seminar led by Peter Landau in the absence of Stephan
-Kuttner, who was undergoing treatment for cancer at the time. Seminar
-participants including Charles Donahue and Robert Somerville went
-on to have unusually influential academic careers in the field
-(Donahue at Harvard, and Somerville at Columbia where he was Winroth's
-dissertation advisor).
+into circulation in the mid-twentieth century by Van Hove.[^5]
 
 Noonan (†2017) was a distinguished professor of law and an appellate
 judge who applied the standards of evidence of the law school and
@@ -107,8 +96,8 @@ suggest that the text developed continuously over the span of, and
 in parallel with, a relatively long teaching career --- perhaps a
 decade or more. On the other hand, Gratian's personal obscurity is
 so profound --- Stephan Kuttner compared Gratian to the anonymous
-builders of Gothic cathedrals[^6] --- as to suggest a short, or
-even no, teaching career.[^7]
+builders of Gothic cathedrals[^7] --- as to suggest a short, or
+even no, teaching career.[^8]
 
 Considering the fact that Gratian was universally credited as the
 author of the foundational textbook for the study of canon law in
@@ -116,7 +105,7 @@ the classical period, one of the truly stellar intellectual
 achievements of the renaissance of the twelfth century, his complete
 absence from the kinds of academic genealogies and origin stories
 that Odofredus (†1265) handed down to his own Roman law students
-is striking indeed.[^8]
+is striking indeed.[^9]
 
 We might be better able to assess Gratian's teaching career and how
 it influenced the compilation and transmission of the *Decretum*
@@ -132,10 +121,10 @@ Paucapalea was easily the most prominent figure from the early
 period of the Bolognese school of decretists who followed in Gratian's
 immediate footsteps. Pennington flatly states that Paucapalea was
 "[a] pupil of Gratian and the author of the first commentary on
-the Decretum".[^9] But in the preface to that commentary, Paucapalea
+the Decretum".[^10] But in the preface to that commentary, Paucapalea
 does not refer to Gratian by name: "*Magistri autem hoc opus condentis
 ipsa decreta sunt materia.* The decrees themselves, however, are
-the subject matter of the master producing this work."[^10]
+the subject matter of the master producing this work."[^11]
 
 The omission is potentially significant. Prefaces to academic books
 in the twelfth century formed a recognized genre with well-established
@@ -146,7 +135,7 @@ explicit statement in his preface affirming the authority of both
 the work commented on and its author. If Paucapalea had had something
 to say about the authority of Gratian, his readers would have
 expected him to do so in his preface. That he did not suggests that
-he may not have known enough about Gratian to credibly do so.[^11]
+he may not have known enough about Gratian to credibly do so.[^12]
 
 Furthermore, Paucapalea in the preface to his *summa* clearly shows
 both that he is aware of the third part of the *Decretum*, *de
@@ -157,7 +146,7 @@ domini atque baptismo nec non et confirmatione pleniter tractat,
 et in his suum tractatum terminat.* In the end, he treats fully the
 dedication of churches, the body and blood of the Lord, baptism,
 and also confirmation, and with these things concludes his
-treatise."[^12]
+treatise."[^13]
 
 If Rambaud is correct that *de Consecratione* was not part of the
 original *Decretum*, the fact that Paucapalea attributed it to the
@@ -183,13 +172,7 @@ magister Omnebonum episcopus Veronensis, qui fuerat eius discipulus.*
 of decrees, canons, doctors, Roman laws, sufficient for deciding
 all ecclesiastical cases, which are resorted to at the Roman curia
 and in other ecclesiastical courts. Master Omnebonum bishop of
-Verona, who had been his student, afterwards abbreviated them.)[^b]
-
-[^b]: Kuttner, *Repertorium*, 453. MGH Scriptores (SS) 6 (1844), 490.
-*Chronique de Robert de Torigny*, ed. Léopold Delisle, 183-184 (see
-BSB online version). *Chronicles of the reigns of Stephen, Henry
-II, and Richard I*, ed. Richard Howlett (1884). *Chronica Roberti
-de Torigneio*, ed. Richard Howlett, RS 82 4.118.
+Verona, who had been his student, afterwards abbreviated them.)[^14]
 
 Although the evidence of Robert's chronicle is by Noonan's standard
 hearsay, Robert's reputation as a well-informed source concerning
@@ -212,8 +195,8 @@ abbreviation.**
 [Simon of Bisignano](http://amesfoundation.law.harvard.edu/BioBibCanonists/Report_Biobib2.php?record_id=a497)
 (fl. 1174--1179) was the author of a *Summa decretorum* dated
 c.1177-79, and a number of glosses on the *Decretum* are attributed
-to him.[^13] The evidence that Simon of Bisignano was a student of
-Gratian’s comes from references within his writings.[^14] Simon
+to him.[^15] The evidence that Simon of Bisignano was a student of
+Gratian’s comes from references within his writings.[^16] Simon
 refers to himself as *discipulus* and to Gratian as *magister* in
 at least two places in his *Summa* (**Landau says "frequently"**).
 There is, however a hiatus of almost four decades between the latest
@@ -261,12 +244,23 @@ as independent evidence attesting to a connection between Gratian
 and SS. Felix and Nabor is therefore unknown, but it is possible
 that it predates Odofredus.
 
-[^6]: "He is one of those deeply admirable men of pious modesty,
+[^5]: **Cite @noonan_gratian_1979, but also cite
+@van_hove_prolegomena_1945.** Van Hove's *Prolegomena* had an
+outsized impact on the trajectory of medieval canon law studies in
+twentieth century North America because of its having been used by
+the 1964 Yale seminar led by Peter Landau in the absence of Stephan
+Kuttner, who was undergoing treatment for cancer at the time. Seminar
+participants including Charles Donahue and Robert Somerville went
+on to have unusually influential academic careers in the field
+(Donahue at Harvard, and Somerville at Columbia where he was Winroth's
+dissertation advisor).
+
+[^7]: "He is one of those deeply admirable men of pious modesty,
 like the builders of the medieval cathedrals, whose person is hidden
 and effaced completely behind their immortal works." [@kuttner_father_1941,
 4].
 
-[^7]: **Expand: Winroth argues for a short teaching career, Southern
+[^8]: **Expand: Winroth argues for a short teaching career, Southern
 agues for no teaching career.** R.W. Southern is the extreme outlier
 in this regard, citing as late as 1995 Gratian's supposed association
 with the Camaldolese order to advance an argument that he had never
@@ -288,7 +282,7 @@ some very early alterations and additions to the text of the
 [@southern_scholastic_1995, 287, 304]. **Does Southern provide
 footnotes to support these statements?**
 
-[^8]: **Expand:** The tradition of Roman law teaching in Bologna
+[^9]: **Expand:** The tradition of Roman law teaching in Bologna
 preserved an elaborate genealogy of masters and their students:
 Pepo preceded Wernerius [Irnerius], who taught the Four Doctors.
 Odofredus is an important source for this tradition, and his remarks
@@ -300,30 +294,36 @@ Latin text with accompanying English translation, see
 Note that Odofredus is also the source for associating Gratian with
 the monastery of SS. Felix and Nabor. [@noonan_gratian_1979, 148].
 
-[^9]: Kenneth Pennington,
+[^10]: Kenneth Pennington,
 [Paucapalea](http://amesfoundation.law.harvard.edu/BioBibCanonists/Report_Biobib2.php?record_id=a366),
 *Bio-Bibliographical Guide to Medieval and Early Modern Jurists.*
 
-[^10]: [@paucapalea_summa_1890, 3] [@somerville_prefaces_1998, 184]
+[^11]: [@paucapalea_summa_1890, 3] [@somerville_prefaces_1998, 184]
 Indeed, based on a search through the OCR text layer of a PDF file
 scanned from the Schulte edition and provided to me by Ken Pennington,
 Paucapalea appears not to refer to Gratian by name anywhere in his
 *summa*.
 
-[^11]: **Going to need a very heavyweight footnote here referencing
+[^12]: **Going to need a very heavyweight footnote here referencing
 Minnis.** [@minnis_medieval_1988] [@hunt_introductions_1980]
 
-[^12]: [@paucapalea_summa_1890, 3] [@somerville_prefaces_1998,
+[^13]: [@paucapalea_summa_1890, 3] [@somerville_prefaces_1998,
 184-185]
 
-[^13]: Pennington does not indicate that Simon of Bisignano was a
+[^14]: Kuttner, *Repertorium*, 453. MGH Scriptores (SS) 6 (1844), 490.
+*Chronique de Robert de Torigny*, ed. Léopold Delisle, 183-184 (see
+BSB online version). *Chronicles of the reigns of Stephen, Henry
+II, and Richard I*, ed. Richard Howlett (1884). *Chronica Roberti
+de Torigneio*, ed. Richard Howlett, RS 82 4.118.
+
+[^15]: Pennington does not indicate that Simon of Bisignano was a
 student of Gratian in the Bio-Bibliographical Guide to Medieval and
 Early Modern Jurists. What *siglum* is associated with Simon's
 glosses? (cite Hartmann and Pennington). Simon's glosses are dated
 earlier (how much earlier?) than his *Summa* (cite Hartmann and
 Pennington).
 
-[^14]: @kuttner_research_1990, 7. @noonan_gratian_1979, 157, rejects
+[^16]: @kuttner_research_1990, 7. @noonan_gratian_1979, 157, rejects
 this, but Kuttner disagrees. Simon of Bisignano refers to Gratian
 as *magister* and to himself as *discipulus* in his comments on
 C.27 q.2, @simon_of_bisignano_summa_2014, 412. Simon again refers
