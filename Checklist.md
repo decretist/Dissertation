@@ -1,6 +1,5 @@
 ### 2020 Dissertation Checklist
 
-- [ ] Clear backlog of git commits for Gratian repository
 - [ ] Apply for ICMCL bursary
 - [ ] Register for ICMCL
 - [ ] Chapter 3: translate passages from _summa_ of Simon of Bisignano referring to Gratian as _magister_ and himself as _discipulus_.
@@ -15,6 +14,7 @@
 
 (27 February 2020)
 - [x] Chapter 4: add footnote with formula for least squares linear regression
+- [x] Clear backlog of git commits for Gratian repository
 
 (10-11 Feb 2020)
 - [x] Recheck statistical calculations in visualize.py. Population standard deviations calculated by pstdev and HP 48GX disagree: 1.6323 (pstdev) and 1.9022 (HP 48GX) for _in_, 1.2571 (pstdev) and 1.4649 (HP 48GX) for _non_.
@@ -133,3 +133,12 @@ Clavis Canonum read "Definimus eum rite".)
 
 (23 May 2019)
 + **†Peter Landau (1935-2019)**
+
+(5 March 2018)
++ **†Hayden White (1928-2018)**
+
+(9 July 2017)
++ **†Gene Brucker (1924-2017)**
+
+(27 April 2017)
++ **†John Noonan (1926-2017)**
