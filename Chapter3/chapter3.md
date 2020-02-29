@@ -40,9 +40,11 @@ seems to have been more aware of, and more interested in, the
 emergence of scholastic theology in northern France than we can
 easily explain.[^3]
 
-**As an example of Noonan's approach and conclusions, discuss how
-Noonan discredited one of the most notable elements of the mythology
-surrounding Gratian, that Gratian was a Camaldolese monk.**
+**You do not need to exhaustively catalog all of the Gratian myths
+that Noonan debunked, one is enough. As an example of his approach
+and conclusions, show how Noonan debunked one of the most prominent
+elements of the mythology surrounding Gratian, the claim that Gratian
+was a Camaldolese monk.**
 
 Odofredus (†1265), a professor of law at Bologna, claimed that
 Gratian "was staying" (stabat) at the monastery of SS. Felice and
@@ -60,9 +62,29 @@ into circulation in the mid-twentieth century by Van Hove.[^5]
 
 Noonan (†2017) was a distinguished professor of law and an appellate
 judge who applied the standards of evidence of the law school and
-the courtroom to the historical record. By Noonan's standards, the
+the courtroom to the historical record. **Noonan relied heavily
+on the legal hearsay standard as understood and applied by
+twentieth-century American courts of law as the basis for his
+debunking of much Gratian mythology.** By Noonan's standards, the
 statement of Odofredus -- hearsay, not attributed to a source, a
-century after the fact -- is nothing more than legend.
+century after the fact -- is nothing more than legend. **Winroth,
+however, has questioned whether this is an appropriate standard for
+evaluating historical evidence.**
+
+> To conclude, we have reason to believe that Gratian composed and
+commented upon a substantial portion of the Concordia. In such
+composition and commentary he revealed himself to be a teacher with
+theological knowledge and interests and a lawyer's point of view.
+He worked in Bologna in the 1130s and 1140s. Beyond these conclusions,
+we have unverified hearsay, palpable legend, and the silent figure
+in the shadows of S. Marco.[@noonan_gratian_1979, 172]
+
+**Transition: Noonan wrote before the discover of the first recension;
+recent (post-1996) discussion of the identity of Gratian necessarily
+focus on accounting for the existence of the first and second
+recensions.**
+
+### Winroth's argument
 
 ### Pennington's argument
 
