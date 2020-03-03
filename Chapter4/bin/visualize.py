@@ -31,31 +31,18 @@ def pstdev(data, **kwargs):
 
 parser = argparse.ArgumentParser()
 parser.add_argument('-f', '--frequency_view', action='store_true')
-parser.add_argument('-p', '--de_pen', action='store_true')
 args = parser.parse_args()
-if args.de_pen: de_pen = True
-else: de_pen = False
 if args.frequency_view: frequency_view = True
 else: frequency_view = False
 
-if de_pen:
-    # number of words in R1 and R2 dicta
-    words_r1 = 66238
-    words_r2 = 14811
-    # number of occurrences of 'in' and 'non' in R1 and R2 dicta
-    occurrences_in_r1 = 1682
-    occurrences_in_r2 = 431
-    occurrences_non_r1 = 1622
-    occurrences_non_r2 = 314
-else:
-    # number of words in R1 and R2 dicta
-    words_r1 = 56713
-    words_r2 = 14255
-    # number of occurrences of 'in' and 'non' in R1 and R2 dicta
-    occurrences_in_r1 = 1450
-    occurrences_in_r2 = 411
-    occurrences_non_r1 = 1360
-    occurrences_non_r2 = 306
+# number of words in R1 and R2 dicta
+words_r1 = 56713
+words_r2 = 14255
+# number of occurrences of 'in' and 'non' in R1 and R2 dicta
+occurrences_in_r1 = 1450
+occurrences_in_r2 = 411
+occurrences_non_r1 = 1360
+occurrences_non_r2 = 306
 
 # frequency of occurrence of 'in' per 1000 words
 frequency_in_r1 = (occurrences_in_r1 / words_r1) * 1000
@@ -64,8 +51,6 @@ frequency_in_values = [frequency_in_r1, frequency_in_r2]
 frequency_in_mean = (2187 / 84654) * 1000
 # standard_deviation_in = statistics.pstdev(frequency_in_values, mu=frequency_in_mean)
 standard_deviation_in = pstdev(frequency_in_values, mu=frequency_in_mean)
-if de_pen: print('(including de Pen.)')
-else: print('(excluding de Pen.)')
 string_in = 'occurrences of  \'in\' per 1,000 words'
 print(f'{frequency_in_r1:7.4f} {string_in} (R1)')
 print(f'{frequency_in_r2:7.4f} {string_in} (R2)')
@@ -133,17 +118,11 @@ in_values = [value_in_r1, value_in_r2]
 non_values = [value_non_r1, value_non_r2]
 pp.scatter(in_values, non_values)
 if frequency_view:
-    title_string = '(frequency view, '
-    filename = '../PNGs/Figure_0_frequency_'
+    title_string = '(frequency view)'
+    filename = '../PNGs/Figure_0_frequency'
 else:
-    title_string = '(z-score view, '
-    filename = '../PNGs/Figure_0_z-score_'
-if de_pen:
-    title_string += 'including $\it{de Pen.}$)'
-    filename += 'including_de_Pen.png'
-else:
-    title_string += 'excluding $\it{de Pen.}$)'
-    filename += 'excluding_de_Pen.png'
+    title_string = '(z-score view)'
+    filename = '../PNGs/Figure_0_z-score'
 pp.title(title_string)
 # pp.savefig(filename)
 pp.gcf().canvas.set_window_title('Figure 0')
