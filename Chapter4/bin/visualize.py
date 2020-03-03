@@ -51,7 +51,7 @@ else:
 frequency_in_r1 = (occurrences_in_r1 / words_r1) * 1000
 frequency_in_r2 = (occurrences_in_r2 / words_r2) * 1000
 frequency_in_values = [frequency_in_r1, frequency_in_r2]
-frequency_in_mean = ((occurrences_in_r1 + occurrences_in_r2) / (words_r1 + words_r2)) * 1000
+frequency_in_mean = (2187 / 84654) * 1000
 # standard_deviation_in = statistics.pstdev(frequency_in_values, mu=frequency_in_mean)
 standard_deviation_in = pstdev(frequency_in_values, mu=frequency_in_mean)
 percentage_in_r1 = ((frequency_in_r1 - frequency_in_mean) / frequency_in_mean) * 100
@@ -74,7 +74,7 @@ print(f'\'in\' occurs {abs(percentage_in_r2):.2f}% {more_or_less} frequently in 
 frequency_non_r1 = (occurrences_non_r1 / words_r1) * 1000
 frequency_non_r2 = (occurrences_non_r2 / words_r2) * 1000
 frequency_non_values = [frequency_non_r1, frequency_non_r2]
-frequency_non_mean = ((occurrences_non_r1 + occurrences_non_r2) / (words_r1 + words_r2)) * 1000
+frequency_non_mean = (1960 / 84654) * 1000
 # standard_deviation_non = statistics.pstdev(frequency_non_values, mu=frequency_non_mean)
 standard_deviation_non = pstdev(frequency_non_values, mu=frequency_non_mean)
 percentage_non_r1 = ((frequency_non_r1 - frequency_non_mean) / frequency_non_mean) * 100
@@ -147,6 +147,6 @@ else:
     title_string += 'excluding $\it{de Pen.}$)'
     filename += 'excluding_de_Pen.png'
 pp.title(title_string)
-pp.savefig(filename)
+# pp.savefig(filename)
 pp.gcf().canvas.set_window_title('Figure 0')
 pp.show()
