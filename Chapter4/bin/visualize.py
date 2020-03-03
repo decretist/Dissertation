@@ -1,26 +1,16 @@
 #!/usr/local/bin/python3
 #
 # Paul Evans (10evans@cua.edu)
+# 1-3 March 2020
 # 6-11 February 2020
 # 22 January 2020
 #
-import argparse
 import math
 import matplotlib.pyplot as pp
 import statistics
 
-def percentage(word, title, frequency, mean):
-    '''
-    Because I can never remember off the top of my head how to
-    correctly calculate percentage decrease
-    '''
-    percentage = ((frequency - mean) / mean) * 100
-    if percentage > 0: more_or_less = 'more'
-    else: more_or_less = 'less'
-    print(f'\'{word}\' occurs {abs(percentage):.2f}% {more_or_less} frequently in {title} than in mean')
-
 def pstdev(data, **kwargs):
-    '''temporary replacement for statistics.pstdev()'''
+    '''Temporary replacement for statistics.pstdev()'''
     mu = None
     if 'mu' in kwargs: mu = kwargs['mu'] # type check: int, float, or None
     if mu == None: mu = statistics.mean(data)
@@ -29,101 +19,111 @@ def pstdev(data, **kwargs):
         sum += (data[i] - mu) ** 2
     return(math.sqrt(sum / len(data)))
 
-parser = argparse.ArgumentParser()
-parser.add_argument('-f', '--frequency_view', action='store_true')
-args = parser.parse_args()
-if args.frequency_view: frequency_view = True
-else: frequency_view = False
+def stats(word, data):
+    frequency_mean = (data[word][0] / data['all'][0]) * 1000
+    frequency_r1 = (data[word][1] / data['all'][1]) * 1000
+    frequency_r2 = (data[word][2] / data ['all'][2]) * 1000
+    frequency_values = [frequency_r1, frequency_r2]
+    standard_deviation = pstdev(frequency_values, mu=frequency_mean)
+    filler = f'occurrences of \'{word}\' per 1,000 words'
+    print(f'{frequency_r1:7.4f} {filler} (R1)')
+    print(f'{frequency_r2:7.4f} {filler} (R2)')
+    print(f'{frequency_mean:7.4f} {filler} (mean)')
+    print(f'{standard_deviation:7.4f} {filler} (standard deviation)')
+    percentage(word, 'R1', frequency_r1, frequency_mean)
+    percentage(word, 'R2', frequency_r2, frequency_mean)
+    return (frequency_r1, frequency_r2, frequency_mean, standard_deviation)
 
-# number of words in R1 and R2 dicta
-words_r1 = 56713
-words_r2 = 14255
-# number of occurrences of 'in' and 'non' in R1 and R2 dicta
-occurrences_in_r1 = 1450
-occurrences_in_r2 = 411
-occurrences_non_r1 = 1360
-occurrences_non_r2 = 306
+def f_plot(x_word, x_frequencies, y_word, y_frequencies):
+    # frequency view
+    value_x_r1,value_x_r2,frequency_x_mean,standard_deviation_x = x_frequencies
+    value_y_r1,value_y_r2,frequency_y_mean,standard_deviation_y = y_frequencies
+    pp.axis([frequency_x_mean - 2 * standard_deviation_x,
+        frequency_x_mean + 2 * standard_deviation_x,
+        frequency_y_mean - 2 * standard_deviation_y,
+        frequency_y_mean + 2 * standard_deviation_y])
+    pp.axhline(frequency_y_mean,linestyle='dashed')
+    pp.axvline(frequency_x_mean, linestyle='dashed')
+    pp.xlabel(f'frequency of occurrence of \'{x_word}\' per 1,000 words')
+    pp.ylabel(f'frequency of occurrence of \'{y_word}\' per 1,000 words')
+    # common
+    pp.annotate(
+        f'R1 ({value_x_r1:.3f}, {value_y_r1:.3f})',
+        (value_x_r1, value_y_r1),
+        textcoords="offset points",
+        xytext=(0,10),
+        ha='center'
+    )
+    pp.annotate(
+        f'R2 ({value_x_r2:.3f}, {value_y_r2:.3f})',
+        (value_x_r2, value_y_r2),
+        textcoords="offset points",
+        xytext=(0,10),
+        ha='center'
+    )
+    x_values = [value_x_r1, value_x_r2]
+    y_values = [value_y_r1, value_y_r2]
+    pp.scatter(x_values, y_values)
+    pp.title('(frequency view)')
+    # pp.savefig('../PNGs/Figure_0_frequency')
+    pp.gcf().canvas.set_window_title('Figure 0')
+    pp.show()
 
-# frequency of occurrence of 'in' per 1000 words
-frequency_in_r1 = (occurrences_in_r1 / words_r1) * 1000
-frequency_in_r2 = (occurrences_in_r2 / words_r2) * 1000
-frequency_in_values = [frequency_in_r1, frequency_in_r2]
-frequency_in_mean = (2187 / 84654) * 1000
-# standard_deviation_in = statistics.pstdev(frequency_in_values, mu=frequency_in_mean)
-standard_deviation_in = pstdev(frequency_in_values, mu=frequency_in_mean)
-string_in = 'occurrences of  \'in\' per 1,000 words'
-print(f'{frequency_in_r1:7.4f} {string_in} (R1)')
-print(f'{frequency_in_r2:7.4f} {string_in} (R2)')
-print(f'{frequency_in_mean:7.4f} {string_in} (mean)')
-print(f'{standard_deviation_in:7.4f} {string_in} (standard deviation)')
-percentage('in', 'R1', frequency_in_r1, frequency_in_mean)
-percentage('in', 'R2', frequency_in_r2, frequency_in_mean)
-
-# frequency of occurrence of 'non' per 1000 words
-frequency_non_r1 = (occurrences_non_r1 / words_r1) * 1000
-frequency_non_r2 = (occurrences_non_r2 / words_r2) * 1000
-frequency_non_values = [frequency_non_r1, frequency_non_r2]
-frequency_non_mean = (1960 / 84654) * 1000
-# standard_deviation_non = statistics.pstdev(frequency_non_values, mu=frequency_non_mean)
-standard_deviation_non = pstdev(frequency_non_values, mu=frequency_non_mean)
-string_non = 'occurrences of \'non\' per 1,000 words'
-print(f'{frequency_non_r1:7.4f} {string_non} (R1)')
-print(f'{frequency_non_r2:7.4f} {string_non} (R2)')
-print(f'{frequency_non_mean:7.4f} {string_non} (mean)')
-print(f'{standard_deviation_non:7.4f} {string_non} (standard deviation)')
-percentage('non', 'R1', frequency_non_r1, frequency_non_mean)
-percentage('non', 'R2', frequency_non_r2, frequency_non_mean)
-
-if frequency_view:
-    value_in_r1 = frequency_in_r1
-    value_non_r1 = frequency_non_r1
-    value_in_r2 = frequency_in_r2
-    value_non_r2 = frequency_non_r2
-    pp.axis([frequency_in_mean - 2 * standard_deviation_in,
-        frequency_in_mean + 2 * standard_deviation_in,
-        frequency_non_mean - 2 * standard_deviation_non,
-        frequency_non_mean + 2 * standard_deviation_non])
-    pp.axhline(frequency_non_mean,linestyle='dashed')
-    pp.axvline(frequency_in_mean, linestyle='dashed')
-    pp.xlabel('frequency of occurrence of $\it{in}$ per 1,000 words')
-    pp.ylabel('frequency of occurrence of $\it{non}$ per 1,000 words')
-else: #standard deviation view
-    value_in_r1 = (frequency_in_r1 - frequency_in_mean) / standard_deviation_in
-    value_non_r1 = (frequency_non_r1 - frequency_non_mean) / standard_deviation_non
-    value_in_r2 = (frequency_in_r2 - frequency_in_mean) / standard_deviation_in
-    value_non_r2 = (frequency_non_r2 - frequency_non_mean) / standard_deviation_non
+def z_plot(x_word, x_frequencies, y_word, y_frequencies):
+    # z-score view
+    frequency_x_r1,frequency_x_r2,frequency_x_mean,standard_deviation_x = x_frequencies
+    frequency_y_r1,frequency_y_r2,frequency_y_mean,standard_deviation_y = y_frequencies
+    value_x_r1 = (frequency_x_r1 - frequency_x_mean) / standard_deviation_x
+    value_y_r1 = (frequency_y_r1 - frequency_y_mean) / standard_deviation_y
+    value_x_r2 = (frequency_x_r2 - frequency_x_mean) / standard_deviation_x
+    value_y_r2 = (frequency_y_r2 - frequency_y_mean) / standard_deviation_y
     pp.axis([-2, 2, -2, 2])
     pp.axhline(linestyle='dashed')
     pp.axvline(linestyle='dashed')
     pp.xticks([-1, 0, 1])
     pp.yticks([-1, 0, 1])
-    pp.xlabel('$\it{in}$')
-    pp.ylabel('$\it{non}$', rotation='horizontal')
+    pp.xlabel(f'\'{x_word}\'')
+    pp.ylabel(f'\'{y_word}\'', rotation='horizontal')
+    # common
+    pp.annotate(
+        f'R1 ({value_x_r1:.3f}, {value_y_r1:.3f})',
+        (value_x_r1, value_y_r1),
+        textcoords="offset points",
+        xytext=(0,10),
+        ha='center'
+    )
+    pp.annotate(
+        f'R2 ({value_x_r2:.3f}, {value_y_r2:.3f})',
+        (value_x_r2, value_y_r2),
+        textcoords="offset points",
+        xytext=(0,10),
+        ha='center'
+    )
+    x_values = [value_x_r1, value_x_r2]
+    y_values = [value_y_r1, value_y_r2]
+    pp.scatter(x_values, y_values)
+    pp.title('(z-score view)')
+    # pp.savefig('../PNGs/Figure_0_z-score')
+    pp.gcf().canvas.set_window_title('Figure 0')
+    pp.show()
 
-pp.annotate(
-    f'R1 ({value_in_r1:.3f}, {value_non_r1:.3f})',
-    (value_in_r1, value_non_r1),
-    textcoords="offset points",
-    xytext=(0,10),
-    ha='center'
-)
-pp.annotate(
-    f'R2 ({value_in_r2:.3f}, {value_non_r2:.3f})',
-    (value_in_r2, value_non_r2),
-    textcoords="offset points",
-    xytext=(0,10),
-    ha='center'
-)
-in_values = [value_in_r1, value_in_r2]
-non_values = [value_non_r1, value_non_r2]
-pp.scatter(in_values, non_values)
-if frequency_view:
-    title_string = '(frequency view)'
-    filename = '../PNGs/Figure_0_frequency'
-else:
-    title_string = '(z-score view)'
-    filename = '../PNGs/Figure_0_z-score'
-pp.title(title_string)
-# pp.savefig(filename)
-pp.gcf().canvas.set_window_title('Figure 0')
-pp.show()
+def percentage(word, title, frequency, mean):
+    percentage = ((frequency - mean) / mean) * 100
+    if percentage > 0: more_or_less = 'more'
+    else: more_or_less = 'less'
+    print(f'\'{word}\' occurs {abs(percentage):.2f}% {more_or_less} frequently in {title} than in mean')
+
+def main():
+    frequencies = {
+        # include frequency data for 'de'
+        'all': [84654, 56713, 14255,  9525],
+        'in':  [ 2187,  1450,   411,   232],
+        'et':  [ 1968,  1293,   345,   249],
+        'non': [ 1960,  1360,   306,   262],
+        # 'de':  [     ,      ,      ,      ]
+    }
+    f_plot('in', stats('in', frequencies), 'non', stats('non', frequencies))
+    z_plot('in', stats('in', frequencies), 'non', stats('non', frequencies))
+
+if __name__ == '__main__':
+    main()
