@@ -9,6 +9,16 @@ import math
 import matplotlib.pyplot as pp
 import statistics
 
+def percentage(word, title, frequency, mean):
+    '''
+    Because I can never remember off the top of my head how to
+    correctly calculate percentage decrease
+    '''
+    percentage = ((frequency - mean) / mean) * 100
+    if percentage > 0: more_or_less = 'more'
+    else: more_or_less = 'less'
+    print(f'\'{word}\' occurs {abs(percentage):.2f}% {more_or_less} frequently in {title} than in mean')
+
 def pstdev(data, **kwargs):
     '''temporary replacement for statistics.pstdev()'''
     mu = None
@@ -54,8 +64,6 @@ frequency_in_values = [frequency_in_r1, frequency_in_r2]
 frequency_in_mean = (2187 / 84654) * 1000
 # standard_deviation_in = statistics.pstdev(frequency_in_values, mu=frequency_in_mean)
 standard_deviation_in = pstdev(frequency_in_values, mu=frequency_in_mean)
-percentage_in_r1 = ((frequency_in_r1 - frequency_in_mean) / frequency_in_mean) * 100
-percentage_in_r2 = ((frequency_in_r2 - frequency_in_mean) / frequency_in_mean) * 100
 if de_pen: print('(including de Pen.)')
 else: print('(excluding de Pen.)')
 string_in = 'occurrences of  \'in\' per 1,000 words'
@@ -63,12 +71,8 @@ print(f'{frequency_in_r1:7.4f} {string_in} (R1)')
 print(f'{frequency_in_r2:7.4f} {string_in} (R2)')
 print(f'{frequency_in_mean:7.4f} {string_in} (mean)')
 print(f'{standard_deviation_in:7.4f} {string_in} (standard deviation)')
-if percentage_in_r1 > 0: more_or_less = 'more'
-else: more_or_less = 'less'
-print(f'\'in\' occurs {abs(percentage_in_r1):.2f}% {more_or_less} frequently in R1 than in mean')
-if percentage_in_r2 > 0: more_or_less = 'more'
-else: more_or_less = 'less'
-print(f'\'in\' occurs {abs(percentage_in_r2):.2f}% {more_or_less} frequently in R2 than in mean')
+percentage('in', 'R1', frequency_in_r1, frequency_in_mean)
+percentage('in', 'R2', frequency_in_r2, frequency_in_mean)
 
 # frequency of occurrence of 'non' per 1000 words
 frequency_non_r1 = (occurrences_non_r1 / words_r1) * 1000
@@ -77,19 +81,13 @@ frequency_non_values = [frequency_non_r1, frequency_non_r2]
 frequency_non_mean = (1960 / 84654) * 1000
 # standard_deviation_non = statistics.pstdev(frequency_non_values, mu=frequency_non_mean)
 standard_deviation_non = pstdev(frequency_non_values, mu=frequency_non_mean)
-percentage_non_r1 = ((frequency_non_r1 - frequency_non_mean) / frequency_non_mean) * 100
-percentage_non_r2 = ((frequency_non_r2 - frequency_non_mean) / frequency_non_mean) * 100
 string_non = 'occurrences of \'non\' per 1,000 words'
 print(f'{frequency_non_r1:7.4f} {string_non} (R1)')
 print(f'{frequency_non_r2:7.4f} {string_non} (R2)')
 print(f'{frequency_non_mean:7.4f} {string_non} (mean)')
 print(f'{standard_deviation_non:7.4f} {string_non} (standard deviation)')
-if percentage_non_r1 > 0: more_or_less = 'more'
-else: more_or_less = 'less'
-print(f'\'non\' occurs {abs(percentage_non_r1):.2f}% {more_or_less} frequently in R1 than in mean')
-if percentage_non_r2 > 0: more_or_less = 'more'
-else: more_or_less = 'less'
-print(f'\'non\' occurs {abs(percentage_non_r2):.2f}% {more_or_less} frequently in R2 than in mean')
+percentage('non', 'R1', frequency_non_r1, frequency_non_mean)
+percentage('non', 'R2', frequency_non_r2, frequency_non_mean)
 
 if frequency_view:
     value_in_r1 = frequency_in_r1
