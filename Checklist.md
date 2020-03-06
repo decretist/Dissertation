@@ -1,5 +1,7 @@
 ### 2020 Dissertation Checklist
 
+- [ ] Record bug report for MGH Friedberg e-text: D.23 c.2 (1.79) (See Anders Winroth email, 23 Augest 2019)
+- [ ] Re-establish contact with Anders Winroth: 250-word proposal to ICMAC board for Stephan Kuttner Institute GitHub repository project, acknowledge D.6 d.p.c.3 bug report.
 - [ ] Register for ICMCL
 - [ ] Chapter 3: translate passages from _summa_ of Simon of Bisignano referring to Gratian as _magister_ and himself as _discipulus_.
 - [ ] Chapter 3: summarize and analyze Pennington's argument about identity of Gratian

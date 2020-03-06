@@ -214,21 +214,20 @@ abbreviation.**
 
 #### Simon of Bisignano
 
-[Simon of Bisignano](http://amesfoundation.law.harvard.edu/BioBibCanonists/Report_Biobib2.php?record_id=a497)
-(fl. 1174--1179) was the author of a *Summa decretorum* dated
-c.1177-79, and a number of glosses on the *Decretum* are attributed
-to him.[^15] The evidence that Simon of Bisignano was a student of
-Gratian’s comes from references within his writings.[^16] Simon
-refers to himself as *discipulus* and to Gratian as *magister* in
-at least two places in his *Summa* (**Landau says "frequently"**).
-There is, however a hiatus of almost four decades between the latest
-plausible date for the end of Gratian's teaching career, and the
-documentary evidence we have for Simon's professional career as a
-canonist. Although it is not chronologically impossible for Simon
-to have been Gratian's student, it seems more likely that he described
-himself as *discipulus* in something like the same sense that we
-might describe contemporary scholars like Chodorow, Pennington, and
-Winroth as "students of Gratian".
+Simon of Bisignano (fl. 1174--1179) was the author of a *Summa
+decretorum* dated c.1177-79, and a number of glosses on the *Decretum*
+are attributed to him.[^15] The evidence that Simon of Bisignano
+was a student of Gratian’s comes from references within his
+writings.[^16] Simon refers to himself as *discipulus* and to Gratian
+as *magister* in at least two places in his *Summa* (**Landau says
+"frequently"**). There is, however a hiatus of almost four decades
+between the latest plausible date for the end of Gratian's teaching
+career, and the documentary evidence we have for Simon's professional
+career as a canonist. Although it is not chronologically impossible
+for Simon to have been Gratian's student, it seems more likely that
+he described himself as *discipulus* in something like the same
+sense that we might describe contemporary scholars like Chodorow,
+Pennington, and Winroth as "students of Gratian".
 
 ### Epilogue
 
@@ -338,12 +337,14 @@ BSB online version). *Chronicles of the reigns of Stephen, Henry
 II, and Richard I*, ed. Richard Howlett (1884). *Chronica Roberti
 de Torigneio*, ed. Richard Howlett, RS 82 4.118.
 
-[^15]: Pennington does not indicate that Simon of Bisignano was a
-student of Gratian in the Bio-Bibliographical Guide to Medieval and
-Early Modern Jurists. What *siglum* is associated with Simon's
-glosses? (cite Hartmann and Pennington). Simon's glosses are dated
-earlier (how much earlier?) than his *Summa* (cite Hartmann and
-Pennington).
+[^15]: Kenneth Pennington,
+[Simon of Bisignano](http://amesfoundation.law.harvard.edu/BioBibCanonists/Report_Biobib2.php?record_id=a497)
+*Bio-Bibliographical Guide to Medieval and Early Modern Jurists.*
+Pennington does not indicate that Simon of Bisignano was a student
+of Gratian. Glosses attributed to Simon of Bisignano are indicated
+by the *sigla* s., si., and sy. [@weigand_development_2008, 97]
+**Simon's glosses are dated earlier than his *Summa* (cite Hartmann
+and Pennington).**
 
 [^16]: @kuttner_research_1990, 7. @noonan_gratian_1979, 157, rejects
 this, but Kuttner disagrees. Simon of Bisignano refers to Gratian
