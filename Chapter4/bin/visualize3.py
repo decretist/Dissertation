@@ -17,9 +17,9 @@ def stats(word, data):
     frequency_mean = statistics.mean(frequency_values)
     standard_deviation = statistics.stdev(frequency_values)
     filler = f'occurrences of \'{word}\' per 1,000 words'
-    print(f'{frequency_A:7.4f} {filler} (subcorpus A)')
-    print(f'{frequency_B:7.4f} {filler} (subcorpus B)')
-    print(f'{frequency_C:7.4f} {filler} (subcorpus C)')
+    print(f'{frequency_A:7.4f} {filler} (R1 dicta)')
+    print(f'{frequency_B:7.4f} {filler} (R2 dicta)')
+    print(f'{frequency_C:7.4f} {filler} (Other)')
     print(f'{frequency_mean:7.4f} {filler} (mean)')
     print(f'{standard_deviation:7.4f} {filler} (standard deviation)')
     return (frequency_A, frequency_B, frequency_C, frequency_mean, standard_deviation)
@@ -38,21 +38,21 @@ def f_plot(x_word, x_frequencies, y_word, y_frequencies):
     pp.ylabel(f'frequency of occurrence of \'{y_word}\' per 1,000 words')
     # common
     pp.annotate(
-        f'subcorpus A ({value_x_A:.3f}, {value_y_A:.3f})',
+        f'R1 dicta ({value_x_A:.3f}, {value_y_A:.3f})',
         (value_x_A, value_y_A),
         textcoords="offset points",
         xytext=(0,10),
         ha='center'
     )
     pp.annotate(
-        f'subcorpus B ({value_x_B:.3f}, {value_y_B:.3f})',
+        f'R2 dicta ({value_x_B:.3f}, {value_y_B:.3f})',
         (value_x_B, value_y_B),
         textcoords="offset points",
         xytext=(0,10),
         ha='center'
     )
     pp.annotate(
-        f'subcorpus C ({value_x_C:.3f}, {value_y_C:.3f})',
+        f'Other ({value_x_C:.3f}, {value_y_C:.3f})',
         (value_x_C, value_y_C),
         textcoords="offset points",
         xytext=(0,10),
@@ -85,21 +85,21 @@ def z_plot(x_word, x_frequencies, y_word, y_frequencies):
     pp.ylabel(f'\'{y_word}\'', rotation='horizontal')
     # common
     pp.annotate(
-        f'subcorpus A ({value_x_A:.3f}, {value_y_A:.3f})',
+        f'R1 dicta ({value_x_A:.3f}, {value_y_A:.3f})',
         (value_x_A, value_y_A),
         textcoords="offset points",
         xytext=(0,10),
         ha='center'
     )
     pp.annotate(
-        f'subcorpus B ({value_x_B:.3f}, {value_y_B:.3f})',
+        f'R2 dicta ({value_x_B:.3f}, {value_y_B:.3f})',
         (value_x_B, value_y_B),
         textcoords="offset points",
         xytext=(0,10),
         ha='center'
     )
     pp.annotate(
-        f'subcorpus C ({value_x_C:.3f}, {value_y_C:.3f})',
+        f'Other ({value_x_C:.3f}, {value_y_C:.3f})',
         (value_x_C, value_y_C),
         textcoords="offset points",
         xytext=(0,10),
