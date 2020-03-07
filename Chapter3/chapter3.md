@@ -357,8 +357,8 @@ edition I have access to is a PDF dated Fribourg 2007. BibTex records
 in merged.bib are inconsistent as to whether to use the author's
 or editor's name as the basis for the tag.**
 
-    <CAVSA XXVII>
-    <Q.II> § *Sequitur secunda questio*
+    <CAVSA XXVII>  
+    <Q.II> § *Sequitur secunda questio*  
     Sacram et authenticam pie recordationis Gratianus de matrimonio
     distinctionem composuit, quam quidam inanis glorie aucupes
     fecere bifrontem et simplicium potibus inuidentes more seuorum
@@ -370,8 +370,24 @@ or editor's name as the basis for the tag.**
     et eum reprehendere cuius non sumus digni soluere corrigiam
     calceamenti.
 
-    <DISTINCTIO IIII>
-    31. *Solet queri*
+    Gratian of pious remembrance composed a sacred and *authenticam*
+    distinction concerning marriage, *quam quidam inanis glorie
+    aucupes fecere bifrontem* and not seeing with the drinks of the
+    simple, [they] troubled clear waters in the manner of *seuorum*
+    animals. But Gratian *habita notitia* of the canon and *mente
+    perspecta*, said that matrimony is between spouse and spouse,
+    but having been consecrated (*initiatum*), is consummated between
+    husband and wife. But since the disciple is not above his master,
+    and the axe (*securis*) ought not boast (*gloriari*) against
+    him who cuts (*secat*) (Isaiah 10:15), we fear to send our mouth
+    into heaven and to find fault with him the string (*corrigiam*)
+    of whose shoes we are not worthy to loosen (John 1:27) (PLE).
+
+    <DISTINCTIO IIII>  
+    31. *Solet queri*  
     Quod quamuis Magister noster docuerit, nos tamen in hoc nolumus
     eum imitari.
+
+    Although our master taught that, we do not wish to imitate him
+    in this (PLE).
 
