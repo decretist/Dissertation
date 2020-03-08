@@ -1,7 +1,7 @@
 #!/usr/local/bin/python3
 #
 # Paul Evans (10evans@cua.edu)
-# 1-3 March 2020
+# 1-7 March 2020
 # 6-11 February 2020
 # 22 January 2020
 #
@@ -9,19 +9,33 @@ import math
 import matplotlib.pyplot as pp
 import statistics
 
+def pstdev(data, **kwargs):
+    '''Temporary replacement for statistics.pstdev()'''
+    mu = None
+    if 'mu' in kwargs: mu = kwargs['mu'] # type check: int, float, or None
+    if mu == None: mu = statistics.mean(data)
+    sum = 0
+    for i in range(len(data)):
+        sum += (data[i] - mu) ** 2
+    return(math.sqrt(sum / len(data)))
+
 def stats(word, data):
     frequency_A = (data[word][1] / data['all'][1]) * 1000
     frequency_B = (data[word][2] / data ['all'][2]) * 1000
     frequency_C = (data[word][3] / data ['all'][3]) * 1000
     frequency_values = [frequency_A, frequency_B, frequency_C]
     frequency_mean = statistics.mean(frequency_values)
-    standard_deviation = statistics.stdev(frequency_values)
-    filler = f'occurrences of \'{word}\' per 1,000 words'
+    # standard_deviation = statistics.stdev(frequency_values)
+    standard_deviation = pstdev(frequency_values)
+    filler = f"occurrences of '{word}' per 1,000 words"
     print(f'{frequency_A:7.4f} {filler} (R1 dicta)')
     print(f'{frequency_B:7.4f} {filler} (R2 dicta)')
     print(f'{frequency_C:7.4f} {filler} (Other)')
-    print(f'{frequency_mean:7.4f} {filler} (mean)')
+    print(f"{(data[word][0] / data['all'][0]) * 1000:7.4f} {filler} (mean)")
+    print(f'{frequency_mean:7.4f} {filler} (mean of means)')
     print(f'{standard_deviation:7.4f} {filler} (standard deviation)')
+    percentage(word, 'R1', 'R2', frequency_A, frequency_B)
+    percentage(word, 'R2', 'R1', frequency_B, frequency_A)
     return (frequency_A, frequency_B, frequency_C, frequency_mean, standard_deviation)
 
 def f_plot(x_word, x_frequencies, y_word, y_frequencies):
@@ -112,6 +126,12 @@ def z_plot(x_word, x_frequencies, y_word, y_frequencies):
     # pp.savefig('../PNGs/Figure_ABC_z-score')
     pp.gcf().canvas.set_window_title('Figure 0')
     pp.show()
+
+def percentage(word, title1, title2, frequency, mean):
+    percentage = ((frequency - mean) / mean) * 100
+    if percentage > 0: more_or_less = 'more'
+    else: more_or_less = 'less'
+    print(f'\'{word}\' occurs {abs(percentage):.2f}% {more_or_less} frequently in {title1} than in {title2}')
 
 def main():
     frequencies = {
