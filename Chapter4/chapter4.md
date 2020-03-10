@@ -188,7 +188,7 @@ provided for context: the vertical dashed line represents the mean
 for the horizontal (*in*) axis, and the horizontal dashed line
 represents the mean for the vertical (*non*) axis.
 
-![Figure 0a updated 10 Feb 2020](PNGs/Figure_0_frequency_excluding_de_Pen.png)
+![Figure 0a updated  7 Mar 2020](PNGs/Figure_ABC_frequency.png)
 
 Figure 0a introduces several conventions common to two-dimensional
 graphical representations of word frequency data that readers will
@@ -266,7 +266,7 @@ $z =
 \frac{2.6089}{1.9022} =
 1.3716$
 
-![Figure 0b updated 10 Feb 2020[^9]](PNGs/Figure_0_z-score_excluding_de_Pen.png)
+![Figure 0b updated  7 Mar 2020](PNGs/Figure_ABC_z-score.png)
 
 Labels on the axes of the plot refer to standard deviations (values
 of z) away from the mean (represented by the dashed lines).
@@ -606,11 +606,6 @@ between the first and second recensions of the *Decretum*.
 [^8]: The formula for sample standard deviation is:
 
     $s=\sqrt{\frac{1}{N-1}\sum_{i=1}^N(x_i-\bar{x})^2}$
-
-[^9]: Is standard deviation measuring anything here other than the
-fact that the R1 sample is 3.9785 times the size of the R2 sample?
-
-    $0.3447\times\frac{56713}{14255} = 0.3447\times3.9785 = 1.3756$
 
 [^10]: @zipf_human_1949, 73-131. Zipf himself referred to the
 relationship as "the law of diminishing returns of words". Zipf
