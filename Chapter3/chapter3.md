@@ -370,6 +370,10 @@ or editor's name as the basis for the tag.**
     et eum reprehendere cuius non sumus digni soluere corrigiam
     calceamenti.
 
+    Note that the phrase "sed inanis glorie aucupes fecere bifrontem"
+    also occurs in Rufinus's treatment of the same question, C.27 q.2.
+    [@rufinus_summa_1963, 440].
+
     Gratian of pious remembrance composed a sacred and *authenticam*
     distinction concerning marriage, *quam quidam inanis glorie
     aucupes fecere bifrontem* and not seeing with the drinks of the
@@ -388,6 +392,6 @@ or editor's name as the basis for the tag.**
     Quod quamuis Magister noster docuerit, nos tamen in hoc nolumus
     eum imitari.
 
-    Although our master taught that, we do not wish to imitate him
-    in this (PLE).
+    Although our master taught that, we nevertheless do not wish
+    to imitate him in this (PLE).
 
