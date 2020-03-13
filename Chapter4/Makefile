@@ -1,4 +1,7 @@
-all: draft.docx chapter4.docx
+all: draft.docx chapter4.docx tmp.docx
+
+tmp.docx: tmp.md ../bib/merged.bib ../ref/draft.docx
+	pandoc -o tmp.docx --filter pandoc-citeproc --reference-doc=../ref/draft.docx tmp.md
 
 draft.docx: draft.md ../bib/merged.bib ../ref/draft.docx
 	pandoc -o draft.docx --filter pandoc-citeproc --reference-doc=../ref/draft.docx draft.md
