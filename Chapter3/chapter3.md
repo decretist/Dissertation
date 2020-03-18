@@ -178,12 +178,11 @@ of Gratian or his plan of work.
 
 #### Omnibonus or Omnebene
 
-[Omnibonus](http://amesfoundation.law.harvard.edu/BioBibCanonists/Report_Biobib2.php?record_id=a363) (d.1185)
-
-Omnibonus or Omnebene composed an abbreviation (*summa*? abridged
-version?) of the *Decretum* in the 1150s. The basis for the claim
-that Omnebene was a student of Gratian is an entry for the year
-1130 in the chronicle of Norman monk Robert of Torigni (†1186)
+Omnibonus or Omnebene (d.1185) composed an abbreviation (*summa*?
+abridged version?) of the *Decretum* in the 1150s.[^o] The basis
+for the claim that Omnebene was a student of Gratian is an entry
+for the year 1130 in the chronicle of Norman monk Robert of Torigni
+(†1186)
 
 > *Gratianus episcopus Clusinus coadunavit decreta valde utilia ex
 decretis, canonibus, doctoribus, legibus Romanis, sufficientia ad
@@ -250,15 +249,15 @@ in its original form: scholastic theology got the program from Ivo,
 Gratian got it from scholastic theology. See also [@luscombe_abelard_1969].
 
 [^4]: Noonan identifies Odofredus as the source for associating
-Gratian with SS. Felix and Nabor ([-@noonan_gratian_1979, 148]),
-but cf. [@southern_scholastic_1995, 286n5]. Southern draws attention
+Gratian with SS. Felix and Nabor (@noonan_gratian_1979, 148),
+but cf. @southern_scholastic_1995, 286n5. Southern draws attention
 to an inscription found in a Geneva manuscript of the *Decretum*,
 Bibliothèque publique et universitaire, MS Lat. 60: *Anno domini
 MCL a Gratiano S. Feliciani Bononiensis monacho editum*. Pennington
 does not identify the manuscript as one known to date from the
-twelfth century (see
-[Gratianus](http://amesfoundation.law.harvard.edu/BioBibCanonists/Report_Biobib2.php?record_id=a242)
-in Bio-Bibliographical Guide to Medieval and Early Modern Jurists),
+twelfth century (see Kenneth Pennington,
+[Gratianus](http://amesfoundation.law.harvard.edu/BioBibCanonists/Report_Biobib2.php?record_id=a242),
+*Bio-Bibliographical Guide to Medieval and Early Modern Jurists*),
 and of course there is no way of knowing how long after the manuscript
 was produced the inscription was added. The value of the inscription
 as independent evidence attesting to a connection between Gratian
@@ -338,7 +337,7 @@ II, and Richard I*, ed. Richard Howlett (1884). *Chronica Roberti
 de Torigneio*, ed. Richard Howlett, RS 82 4.118.
 
 [^15]: Kenneth Pennington,
-[Simon of Bisignano](http://amesfoundation.law.harvard.edu/BioBibCanonists/Report_Biobib2.php?record_id=a497)
+[Simon of Bisignano](http://amesfoundation.law.harvard.edu/BioBibCanonists/Report_Biobib2.php?record_id=a497),
 *Bio-Bibliographical Guide to Medieval and Early Modern Jurists.*
 Pennington does not indicate that Simon of Bisignano was a student
 of Gratian. Glosses attributed to Simon of Bisignano are indicated
@@ -381,11 +380,12 @@ or editor's name as the basis for the tag.**
     animals. But Gratian *habita notitia* of the canon and *mente
     perspecta*, said that matrimony is between spouse and spouse,
     but having been consecrated (*initiatum*), is consummated between
-    husband and wife. But since the disciple is not above his master,
-    and the axe (*securis*) ought not boast (*gloriari*) against
-    him who cuts (*secat*) (Isaiah 10:15), we fear to send our mouth
-    into heaven and to find fault with him the string (*corrigiam*)
-    of whose shoes we are not worthy to loosen (John 1:27) (PLE).
+    husband and wife. But since the disciple is not above his master
+    (Matthew 10:24, Luke 6:40), and the axe (*securis*) ought not
+    boast (*gloriari*) against him who cuts (*secat*) (Isaiah 10:15),
+    we fear to send our mouth into heaven (Psalm 72:9?) and to find
+    fault with him the string (*corrigiam*) of whose shoes we are
+    not worthy to loosen (John 1:27) (PLE).
 
     <DISTINCTIO IIII>  
     31. *Solet queri*  
@@ -395,3 +395,6 @@ or editor's name as the basis for the tag.**
     Although our master taught that, we nevertheless do not wish
     to imitate him in this (PLE).
 
+[^o]: Kenneth Pennington,
+[Omnibonus](http://amesfoundation.law.harvard.edu/BioBibCanonists/Report_Biobib2.php?record_id=a363),
+*Bio-Bibliographical Guide to Medieval and Early Modern Jurists.*
