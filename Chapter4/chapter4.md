@@ -103,6 +103,21 @@ Visualizing data from the first- and second- recension *dicta*
 two-dimensional form is a useful first step toward understanding
 how this kind of stylometric analysis works in practice.[^7]
 
+Many of the examples in this chapter will distinguish between first-
+and second-recension *dicta*, so this is an appropriate point at
+which to provide an explicit definition for the way in which those
+terms will be used in the discussion following. From a commonsensical
+point of view, for almost every word in the first-recension *dicta*
+there is a corresponding word in the second-recension *dicta*, such
+that we can consider the first-recension *dicta* to be a subset
+of the second-recension *dicta*, or conversely, we can consider the
+second-recension *dicta* to be a superset of the first-recension
+*dicta*. While not untrue, this is not a productive definition for
+the kinds of questions we would like to ask and answer, such as
+whether Gratian 1, the author of the first-recension *dicta*, is
+the same person as Gratian 2, the author of the second-recension
+*dicta*.
+
 + if a *dictum* is listed in Winroth's appendix as being in the
 first recension of the *Decretum*, and as not having been added to
 or changed in the second recension, it is included in the first
