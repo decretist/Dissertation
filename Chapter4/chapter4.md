@@ -345,13 +345,6 @@ noting that the relationship of the logarithm of rank to the logarithm
 of frequency is linear, with a slope of -1.0 corresponding to a
 tail-off of 1/N. (See Figure Zb)[^11]
 
-"we have found a clearcut correlation between the number of different
-words in the *Ulysses* and the frequency of their usage, in the
-sense that they approximate the simple equation of an equilateral
-hyperbola: r × f = C in which *r* refers to the word's rank in the
-*Ulysses* and *f* to its frequency of occurrence (as we ignore for
-the present the size of C)."[@zipf_human_1949, 24]
-
 ![Figure Zb updated 12 Mar 2020](PNGs/Figure_Zb.png)
 
 Figure Zc below plots the actual rank-frequency distribution of the
@@ -638,7 +631,13 @@ the slopes will be the same: -1.0 for the theoretical Zipf distribution
 of word frequencies, and (as we shall see) -0.6518 for the actual
 frequencies of the thirty most frequent words in Gratian's *dicta*.
 
-[^13]: See @zipf_human_1949, 23-52, for Zipf's discussion of the
+[^13]: "we have found a clearcut correlation between the number of
+different words in the *Ulysses* and the frequency of their usage,
+in the sense that they approximate the simple equation of an
+equilateral hyperbola: r × f = C in which *r* refers to the word's
+rank in the *Ulysses* and *f* to its frequency of occurrence (as
+we ignore for the present the size of C)." @zipf_human_1949, 24. See
+@zipf_human_1949, 23-52, for Zipf's extended discussion of the
 rank-frequency distribution of words in Joyce's *Ulysses*.
 
 [^14]: $m = \frac{\sum{x_iy_i - n\bar{xy}}}{\sum{x_i^2 - n\bar{x}^2}}$
