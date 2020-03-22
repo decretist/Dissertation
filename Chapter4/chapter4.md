@@ -471,7 +471,7 @@ Rybicki of the Computational Stylistics Group developed the package,
 and Mike Kestemont in particular has been very generous in his
 technical advice for this project.
 
-![Figure 1 updated 11 Dec 2015](JPGs/3-way_PCA_51_MFWs_001.jpg)
+![Figure 1 updated 19 Mar 2020](JPGs/3-way_PCA_51_MFWs_001.jpg)
 
 Here is the plot of a three-way comparison between the case statements,
 the first-recension *dicta*, and the second-recension *dicta*,
@@ -488,7 +488,7 @@ most striking feature of this plot is the fact that the case
 statements are so far away from the *dicta*, and the next step is
 to take a look at which function words are producing that effect.
 
-![Figure 2 updated 11 Dec 2015](JPGs/3-way_PCA_51_MFWs_Loadings_001.jpg)
+![Figure 2 updated 19 Mar 2020](JPGs/3-way_PCA_51_MFWs_Loadings_001.jpg)
 
 Turning on a stylo option called "feature loadings" lets us see how
 strongly particular words influence the placement of text samples
@@ -515,7 +515,7 @@ next step in the stylometric analysis is to control for genre by
 removing the question words "*an*" and "*si*" from the list of
 function words.
 
-![Figure 3 updated 11 Dec 2015](JPGs/3-way_PCA_49_MFWs_001.jpg)
+![Figure 3 updated 19 Mar 2020](JPGs/3-way_PCA_49_MFWs_001.jpg)
 
 We've now reached the final stage of the three-way comparison between
 the case statements, the first-recension *dicta*, and the
@@ -543,7 +543,7 @@ use of stylometry with the plays of Shakespeare, was somewhat
 optimistic on the basis of this evidence that the first- and
 second-recension *dicta* might be statistically distinguishable.
 
-![Figure 7 updated 11 Dec 2015](JPGs/2-way_PCA_53_MFWs_001.jpg)
+![Figure 7 updated 19 Mar 2020](JPGs/2-way_PCA_53_MFWs_001.jpg)
 
 So, in an attempt to take a closer look at the *dicta* by themselves,
 I removed the case statements and ran a two-way comparison of
@@ -558,7 +558,7 @@ the right of the PC1 axis, the two sets of samples are not separated
 as cleanly as we'd like to see, and certainly nowhere near as cleanly
 as the case statements were from the *dicta*.
 
-![Figure 8 updated 11 Dec 2015](JPGs/4-way_PCA_49_MFWs_001.jpg)
+![Figure 8 updated 19 Mar 2020](JPGs/4-way_PCA_49_MFWs_001.jpg)
 
 All of the slides we've seen so far exclude the *dicta* from *de
 Penitentia*, so before moving on to my conclusion, I do want to
@@ -619,10 +619,9 @@ between the first and second recensions of the *Decretum*.
 
 [^10]: @zipf_human_1949, 73-131. Zipf himself referred to the
 relationship as "the law of diminishing returns of words". Zipf
-previously discussed the relationship in @zipf_psycho-biology_1935.
-[UCSD Geisel Library has a copy, currently (18 February 2020)
-unavailable, of a 1965 MIT Press reprint of this book.] Zipf expressed
-the relationship as r × f = C.
+previously discussed the relationship in @zipf_psycho-biology_1935,
+39-48. Zipf expressed the relationship as $ab^2 = k$ (1935) and
+r × f = C (1949).
 
 [^11]: Note that the base of the logarithms does not matter (as
 long as they are the same for both axes). Regardless of whether we
