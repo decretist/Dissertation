@@ -13,6 +13,9 @@
 - [ ] **~/Tmp is not checked in and not backed up!**
 - [ ] Add statistics code to segment.py? (Mean size of samples plus standard deviation)
 
+(31 March 2020)
+- [x] Order Stephan Dusil, "The Decretum of Gratian: A Janus-Faced Collection", from ILL.
+
 (28 February 2020)
 - [x] Create requirements.txt file in Backoff repository for Patrick Burns and commit: `pip freeze > requirements.txt`
 - [x] Apply for ICMCL bursary
