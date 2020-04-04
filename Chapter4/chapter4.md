@@ -236,7 +236,7 @@ the mean. It is appropriate in this context to use the formula for
 population rather than sample standard deviation,[^8] because the
 data we have represents the totality of known words attributed to
 Gratian. The formula used to calculate the population standard
-deviation is:
+deviation is:[^a]
 
 $\sigma=\sqrt{\frac{1}{N}\sum_{i=1}^N(x_i-\mu)^2}$
 
@@ -616,6 +616,27 @@ between the first and second recensions of the *Decretum*.
 [^8]: The formula for sample standard deviation is:
 
     $s=\sqrt{\frac{1}{N-1}\sum_{i=1}^N(x_i-\bar{x})^2}$
+
+[^a]: As of 10 February 2020, there is a bug in the `pstdev()` function
+in the standard Python 3 statistics library such that the optional
+`mu =` keyword argument to override the value of mean does not work.
+Thanks to Saturnino Garcia (University of San Diego Department of
+Computer Science) and James Krooskos (UC San Diego Alzheimer's
+Disease Cooperative Study) for help reproducing this bug.
+
+    ~~~ {python}
+    import math
+    import statistics
+    def pstdev(data, **kwargs):
+        '''Temporary replacement for statistics.pstdev()'''
+        mu = None
+        if 'mu' in kwargs: mu = kwargs['mu'] # type check: int, float, or None
+        if mu == None: mu = statistics.mean(data)
+        sum = 0
+        for i in range(len(data)):
+            sum += (data[i] - mu) ** 2
+        return(math.sqrt(sum / len(data)))
+    ~~~
 
 [^10]: @zipf_human_1949, 73-131. Zipf himself referred to the
 relationship as "the law of diminishing returns of words". Zipf

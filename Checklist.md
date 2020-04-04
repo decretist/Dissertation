@@ -13,11 +13,16 @@
 - [ ] **~/Tmp is not checked in and not backed up!**
 - [ ] Add statistics code to segment.py? (Mean size of samples plus standard deviation)
 
+(2 April 2020)
+- [x] Finish coding Zipf (1935) ab^2 = k demo
+- [x] Modify burrows2.py to output results directly to CSV file
+- [x] Repartition Gratian's _dicta_ into ten sample files: cases, laws, orders1, orders2, other, monastic, heresy, marriage, penance, second
+
 (31 March 2020)
 - [x] Order Stephan Dusil, "The Decretum of Gratian: A Janus-Faced Collection", from ILL.
 
 (28 February 2020)
-- [x] Create requirements.txt file in Backoff repository for Patrick Burns and commit: `pip freeze > requirements.txt`
+- [x] Create requirements.txt file in Backoff repository for Patrick Burns and commit: `pip3 freeze > requirements.txt`
 - [x] Apply for ICMCL bursary
 
 (27 February 2020)
