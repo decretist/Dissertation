@@ -59,6 +59,30 @@ most frequent word *in* in the *dicta*.
 
 ![Figure Za updated 12 Mar 2020](PNGs/Figure_Za.png)
 
+Zipf tried several different approaches to the quantitative analysis
+of the distribution of words in corpora. His first attempt, in 1935,
+sought to characterize the orderliness of word distributions by the
+relationship between the number of occurrences of a word (b), and
+the number of words (a), a relationship Zipf expressed as $ab^2 =
+k$. For example, there are in Gratian's *dicta* 8,028 words (a) for
+which there is 1 (b) occurrence, 2,462 words (a) for which there
+are 2 (b) occurrences, 1,135 words (a) for which there are 3 (b)
+occurrences, and 660 words (a) for which there are 4 (b) occurrences.
+Plugging these values for *a* and *b* into the formula $ab^2 = k$
+yields 8,028, 9,848, 10,215, and 10,560 as the corresponding values
+for the "constant" *k*. As the number of occurrences (b) increases,
+values of *k* remain fairly stable, mostly falling between 10,000
+and 11,000. As this example suggests, the explanatory power of the
+formula $ab^2 = k$ to characterize a word distribution is greatest
+for words that have a low number of occurrences. Zipf ultimately
+judged the formula $ab^2 = k$ to less than entirely satisfactory
+as a description of word distributions, in part because it implied
+fractional values of *a* for the most frequent words.[^Za]
+Zipf had a vivid awareness, ahead of its time for the pre-digital
+age in which he lived, of the fact that the variables in the formulas by
+which he sought to express these relationships represented discrete
+rather than continuous quantities.[^Zb]
+
 Zipf's law can be restated with greater mathematical precision by
 noting that the relationship of the logarithm of rank to the logarithm
 of frequency is linear, with a slope of -1.0 corresponding to a
@@ -103,11 +127,19 @@ rank-frequency data.
 
 ![Figure Ze updated 12 Mar 2020](PNGs/Figure_Ze.png)
 
-[^10]: @zipf_human_1949, 73-131. Zipf himself referred to the
-relationship as "the law of diminishing returns of words". Zipf
-previously discussed the relationship in @zipf_psycho-biology_1935,
-39-48. Zipf expressed the relationship as $ab^2 = k$ (1935) and
-r × f = C (1949).
+[^10]: @zipf_psycho-biology_1935, 39-48; and @zipf_human_1949, 73-131.
+Zipf referred to the relationship as "the law of diminishing returns
+of words" (1949). He expressed the relationship as $ab^2 = k$ (1935)
+and r × f = C (1949).
+
+[^Za]: "To avoid the use of such a concept as 25 millionths of a
+word, let us simply say that our formula, $ab^2 = k$, is apparently
+valid only for words in the lower range of frequency."
+@zipf_psycho-biology_1935, 43.
+
+[^Zb]: Zipf used the term "integrality" to describe the discrete,
+discontinuous, nature of frequency and rank. @zipf_human_1949, 31,
+35.
 
 [^11]: Note that the base of the logarithms does not matter (as
 long as they are the same for both axes). Regardless of whether we
