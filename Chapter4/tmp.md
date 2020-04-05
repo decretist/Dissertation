@@ -50,43 +50,58 @@ Zipf distribution predicts that the frequency of the second most
 frequent word in a corpus of text should be one half that of the
 most frequent word, the frequency of the third most frequent word
 should be one third that of the most frequent word, and so on. (See
-Figure Za below.) The theoretical Zipf distribution plotted in
-Figures Za and Zb has been scaled to facilitate direct comparison
-with actual data from Gratian's *dicta* plotted in Figures Zc and
-Zd. In all four plots, the first data point has a rank of 1 and a
-frequency of 2187, corresponding to the 2,187 occurrences of the
-most frequent word *in* in the *dicta*.
+Figure Za below.)
 
 ![Figure Za updated 12 Mar 2020](PNGs/Figure_Za.png)
 
 Zipf tried several different approaches to the quantitative analysis
-of the distribution of words in corpora. His first attempt, in 1935,
-sought to characterize the orderliness of word distributions by the
-relationship between the number of occurrences of a word (b), and
-the number of words (a), a relationship Zipf expressed as $ab^2 =
-k$. For example, there are in Gratian's *dicta* 8,028 words (a) for
-which there is 1 (b) occurrence, 2,462 words (a) for which there
-are 2 (b) occurrences, 1,135 words (a) for which there are 3 (b)
-occurrences, and 660 words (a) for which there are 4 (b) occurrences.
-Plugging these values for *a* and *b* into the formula $ab^2 = k$
-yields 8,028, 9,848, 10,215, and 10,560 as the corresponding values
-for the "constant" *k*. As the number of occurrences (b) increases,
-values of *k* remain fairly stable, mostly falling between 10,000
-and 11,000. As this example suggests, the explanatory power of the
-formula $ab^2 = k$ to characterize a word distribution is greatest
-for words that have a low number of occurrences. Zipf ultimately
-judged the formula $ab^2 = k$ to less than entirely satisfactory
-as a description of word distributions, in part because it implied
-fractional values of *a* for the most frequent words.[^Za]
-Zipf had a vivid awareness, ahead of its time for the pre-digital
-age in which he lived, of the fact that the variables in the formulas by
-which he sought to express these relationships represented discrete
-rather than continuous quantities.[^Zb]
+of the distribution of words in corpora. His initial attempt, in
+1935, sought to characterize the orderliness of word distributions
+by the relationship between the number of occurrences of a word
+(b), and the number of words (a), a relationship Zipf expressed as
+$ab^2 = k$. For example, in Gratian's *dicta* there are 8,028 words
+(a) for which there is 1 (b) occurrence, 2,462 words (a) for which
+there are 2 (b) occurrences, 1,135 words (a) for which there are 3
+(b) occurrences, and 660 words (a) for which there are 4 (b)
+occurrences. Plugging these values for *a* and *b* into the formula
+$ab^2 = k$ yields 8,028, 9,848, 10,215, and 10,560 as the corresponding
+values for the "constant" *k*. As the number of occurrences (b)
+increases, values of *k* remain fairly stable, mostly falling between
+10,000 and 11,000. As this example suggests, the explanatory power
+of the formula $ab^2 = k$ to characterize a word distribution is
+greatest for words that have a low number of occurrences. Zipf
+ultimately judged the formula $ab^2 = k$ to be a less than satisfactory
+model for the full spectrum of word distribution in a corpus, in
+part because it implied fractional values of *a* for the most
+frequent words.[^Za] Zipf had a vivid awareness, ahead of its time
+for the pre-digital age in which he lived, of the fact that the
+variables in the formulas by which he sought to express these
+relationships represent discrete rather than continuous quantities.[^Zb]
+**Zipf also noted that value of the exponent of b is likely to
+differ from 2 depending on the size of the corpus (Zipf 1935, 43).**
 
-Zipf's law can be restated with greater mathematical precision by
-noting that the relationship of the logarithm of rank to the logarithm
-of frequency is linear, with a slope of -1.0 corresponding to a
-tail-off of 1/N. (See Figure Zb)[^11]
+Zipf's final attempt, in 1949, to give a quantitative account of
+the distribution of words in a corpus characterized the distribution
+in terms of rank and frequency as r × f = C. Values for the constant
+C differ between corpora, depending, among other things, on corpus
+size. As an example, the theoretical Zipf distribution plotted in
+Figures Za and Zb has been scaled to facilitate direct comparison
+with actual data from Gratian's *dicta* plotted in Figures Zc and
+Zd. In all four plots, the first data point has a rank of 1 and a
+frequency of 2187, corresponding to the 2,187 occurrences of the
+most frequent word *in* in the *dicta*. This scaling is equivalent
+to setting the value of C to 2187, and letting r × f = 2187.
+
+Both the $ab^2 = k$ and r × f = C interpretations of Zipf's law can
+be restated with greater mathematical generality by noting that if
+the variables are plotted logarithmically, their relationships are
+linear, with the slope determined by the power (exponent) relationships
+involved. In the equation r × f = C, the frequency *f* varies
+inversely as the rank *r* (as 1/N according to the present-day
+convention, or equivalently as $N^{-1}$). The relationship of the
+logarithm of frequency to the logarithm of rank is linear, with a
+slope of -1 corresponding to exponent (-1) of the rank. (See Figure
+Zb below.)[^11]
 
 ![Figure Zb updated 12 Mar 2020](PNGs/Figure_Zb.png)
 
@@ -104,15 +119,15 @@ thirty most frequent words (MFWs) in Gratian's *dicta*: *in* (2187),
 Zipf used word frequencies hand-tabulated from James Joyce's *Ulysses*
 as the data set for his exploration of the rank-frequency relationship,
 and it turns out that for English, the 1/N formulation holds up
-reasonably well.[^13] The rank-frequency relationship does not at
-first appear to hold up as well for Gratian's Latin as it does for
-Joyce's English, since the frequencies for the thirty most frequent
-words of the *dicta* do not drop off as sharply as the simplistic
-1/N formulation of Zipf's law would predict. The frequency of *et*,
-the second most frequent word in Gratian's *dicta* is 0.8999 times
-that of *in*, the most frequent word, rather than 0.5 as Zipf's law
-would predict; and the frequency of *non*, the third most frequent
-word, is 0.8962 rather than 0.3333.
+reasonably well.[^13] The rank-frequency relationship does not on
+first inspection appear to hold up as well for Gratian's Latin as
+it does for Joyce's English, since the frequencies for the thirty
+most frequent words of the *dicta* do not drop off as sharply as
+the simplistic 1/N formulation of Zipf's law would predict. The
+frequency of *et*, the second most frequent word in Gratian's *dicta*
+is 0.8999 times that of *in*, the most frequent word, rather than
+0.5 as Zipf's law would predict; and the frequency of *non*, the
+third most frequent word, is 0.8962 rather than 0.3333.
 
 Plotting the data from Figure Zc on logarithmic axes and performing
 least-squares linear regression analysis lets us calculate the
@@ -132,10 +147,14 @@ Zipf referred to the relationship as "the law of diminishing returns
 of words" (1949). He expressed the relationship as $ab^2 = k$ (1935)
 and r × f = C (1949).
 
-[^Za]: "To avoid the use of such a concept as 25 millionths of a
-word, let us simply say that our formula, $ab^2 = k$, is apparently
-valid only for words in the lower range of frequency."
-@zipf_psycho-biology_1935, 43.
+[^Za]: "Hence the $ab^2 = k$ relationship is valid only for the
+less frequently occurring words which, however, represent the greater
+part of the vocabulary in use, though not always a great majority
+of the occurrences." ... "It is perhaps worth pointing out that the
+$ab^2 = k$ relationship which appears valid for the frequency
+distribution of the less frequent words would demand fractional
+words when applied to the speech-elements of highest occurence,
+such as *the* in English." @zipf_psycho-biology_1935, 42-43.
 
 [^Zb]: Zipf used the term "integrality" to describe the discrete,
 discontinuous, nature of frequency and rank. @zipf_human_1949, 31,
