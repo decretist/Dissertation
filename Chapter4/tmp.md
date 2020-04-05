@@ -96,12 +96,24 @@ Both the $ab^2 = k$ and r × f = C interpretations of Zipf's law can
 be restated with greater mathematical generality by noting that if
 the variables are plotted logarithmically, their relationships are
 linear, with the slope determined by the power (exponent) relationships
-involved. In the equation r × f = C, the frequency *f* varies
-inversely as the rank *r* (as 1/N according to the present-day
-convention, or equivalently as $N^{-1}$). The relationship of the
-logarithm of frequency to the logarithm of rank is linear, with a
-slope of -1 corresponding to exponent (-1) of the rank. (See Figure
-Zb below.)[^11]
+involved. In the equation $ab^2 = k$, the number of occurrences *b*
+varies inversely as the square root of the number of words *a* (as
+$\frac{1}{\sqrt{a}}$ or equivalently as $a^{-1/2}$). The relationship
+of the logarithm of the number of occurrences to the number of words
+is linear, with a slope of -1/2 corresponding to the exponent (-1/2)
+of the number of words. Similarly, in the equation r × f = C, the
+frequency *f* varies inversely as the rank *r* (as 1/N according
+to the present-day convention, or equivalently as $N^{-1}$). The
+relationship of the logarithm of frequency to the logarithm of rank
+is linear, with a slope of -1 corresponding to the exponent (-1)
+of the rank. (See Figure Zb below.) Note that the base of the
+logarithms does not matter, as long as the bases are the same for
+both axes. Regardless of whether we take base *e* (natural) or
+base 10 logarithms of rank and frequency, for example, the slopes
+will be the same: -1.0 for the theoretical Zipf distribution of
+word frequencies in Figure Zb, and -0.6518 for the actual frequencies
+of the thirty most frequent words in Gratian's *dicta* in Figure
+Zd.
 
 ![Figure Zb updated 12 Mar 2020](PNGs/Figure_Zb.png)
 
@@ -122,7 +134,7 @@ and it turns out that for English, the 1/N formulation holds up
 reasonably well.[^13] The rank-frequency relationship does not on
 first inspection appear to hold up as well for Gratian's Latin as
 it does for Joyce's English, since the frequencies for the thirty
-most frequent words of the *dicta* do not drop off as sharply as
+most frequent words of the *dicta* do not drop off quite as sharply as
 the simplistic 1/N formulation of Zipf's law would predict. The
 frequency of *et*, the second most frequent word in Gratian's *dicta*
 is 0.8999 times that of *in*, the most frequent word, rather than
@@ -159,13 +171,6 @@ such as *the* in English." @zipf_psycho-biology_1935, 42-43.
 [^Zb]: Zipf used the term "integrality" to describe the discrete,
 discontinuous, nature of frequency and rank. @zipf_human_1949, 31,
 35.
-
-[^11]: Note that the base of the logarithms does not matter (as
-long as they are the same for both axes). Regardless of whether we
-take base e (natural) or base 10 logarithms of rank and word count,
-the slopes will be the same: -1.0 for the theoretical Zipf distribution
-of word frequencies, and (as we shall see) -0.6518 for the actual
-frequencies of the thirty most frequent words in Gratian's *dicta*.
 
 [^13]: "we have found a clearcut correlation between the number of
 different words in the *Ulysses* and the frequency of their usage,
