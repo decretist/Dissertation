@@ -13,6 +13,12 @@
 - [ ] **~/Tmp is not checked in and not backed up!**
 - [ ] Add statistics code to segment.py? (Mean size of samples plus standard deviation)
 
+(20 April 2020)
+- [x] Teleconference with Jeff Witt re: TEI P5 encoding academic medieval Latin texts
+
+(17 April 2020)
+- [x] Teleconference with Patrick Burns re: CLTK backoff lemmatizer
+
 (2 April 2020)
 - [x] Finish coding Zipf (1935) ab^2 = k demo
 - [x] Modify burrows2.py to output results directly to CSV file
