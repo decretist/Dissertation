@@ -2,7 +2,6 @@
 
 - [ ] Record bug report for MGH Friedberg e-text: D.23 c.2 (1.79) (See Anders Winroth email, 23 Augest 2019)
 - [ ] Re-establish contact with Anders Winroth: 250-word proposal to ICMAC board for Stephan Kuttner Institute GitHub repository project, acknowledge D.6 d.p.c.3 bug report.
-- [ ] Register for ICMCL
 - [ ] Chapter 3: translate passages from _summa_ of Simon of Bisignano referring to Gratian as _magister_ and himself as _discipulus_.
 - [ ] Chapter 3: summarize and analyze Pennington's argument about identity of Gratian
 - [ ] Chapter 3: summarize and analyze Winroth's argument about identity of Gratian
@@ -13,11 +12,25 @@
 - [ ] **~/Tmp is not checked in and not backed up!**
 - [ ] Add statistics code to segment.py? (Mean size of samples plus standard deviation)
 
+(21 April 2020)
+- [x] Upgrade macOS Catalina to 10.15.4
+- [ ] Upgrade R
+- [ ] Upgrade RStudio
+- [ ] Install IRkernel
+- [ ] Contact Hugh Cayless
+
 (20 April 2020)
 - [x] Teleconference with Jeff Witt re: TEI P5 encoding academic medieval Latin texts
 
+(18 April 2020)
+- [x] Upgrade Python to 3.8.2
+
 (17 April 2020)
 - [x] Teleconference with Patrick Burns re: CLTK backoff lemmatizer
+- [x] ICMCL cancelled
+
+(11 April 2020)
+- [x] First draft of Burrows's Delta section of Chapter 4
 
 (2 April 2020)
 - [x] Finish coding Zipf (1935) ab^2 = k demo
