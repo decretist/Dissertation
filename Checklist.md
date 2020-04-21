@@ -1,6 +1,5 @@
 ### 2020 Dissertation Checklist
 
-- [ ] Record bug report for MGH Friedberg e-text: D.23 c.2 (1.79) (See Anders Winroth email, 23 Augest 2019)
 - [ ] Re-establish contact with Anders Winroth: 250-word proposal to ICMAC board for Stephan Kuttner Institute GitHub repository project, acknowledge D.6 d.p.c.3 bug report.
 - [ ] Chapter 3: translate passages from _summa_ of Simon of Bisignano referring to Gratian as _magister_ and himself as _discipulus_.
 - [ ] Chapter 3: summarize and analyze Pennington's argument about identity of Gratian
@@ -12,11 +11,13 @@
 - [ ] **~/Tmp is not checked in and not backed up!**
 - [ ] Add statistics code to segment.py? (Mean size of samples plus standard deviation)
 
-(21 April 2020)
-- [x] Upgrade macOS Catalina to 10.15.4
+(24 April 2020)
 - [ ] Upgrade R
 - [ ] Upgrade RStudio
-- [ ] Install IRkernel
+
+(21 April 2020)
+- [x] Upgrade macOS Catalina to 10.15.4
+- [x] Install IRkernel
 - [ ] Contact Hugh Cayless
 
 (20 April 2020)
@@ -39,6 +40,9 @@
 
 (31 March 2020)
 - [x] Order Stephan Dusil, "The Decretum of Gratian: A Janus-Faced Collection", from ILL.
+
+(7 March 2020)
+- [x] Record bug report for MGH Friedberg e-text: D.23 c.2 (1.79) (See Anders Winroth email, 23 Augest 2019)
 
 (28 February 2020)
 - [x] Create requirements.txt file in Backoff repository for Patrick Burns and commit: `pip3 freeze > requirements.txt`
