@@ -1,6 +1,7 @@
 *.docx
 *.spl
 .DS_Store
+.ipynb_checkpoints
 Chapter3/tmp.md
 Chapter4/wordlist.txt
 
