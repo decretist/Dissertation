@@ -1,7 +1,10 @@
-all: draft.docx chapter4.docx zipf.docx burrows.docx
+all: draft.docx chapter4.docx zipf.docx burrows.docx definition.docx
 
 burrows.docx: burrows.md ../bib/merged.bib ../ref/draft.docx
 	pandoc -o burrows.docx --filter pandoc-citeproc --reference-doc=../ref/draft.docx burrows.md
+
+definition.docx: definition.md ../bib/merged.bib ../ref/draft.docx
+	pandoc -o definition.docx --filter pandoc-citeproc --reference-doc=../ref/draft.docx definition.md
 
 zipf.docx: zipf.md ../bib/merged.bib ../ref/draft.docx
 	pandoc -o zipf.docx --filter pandoc-citeproc --reference-doc=../ref/draft.docx zipf.md
@@ -19,5 +22,5 @@ Rem_Non_Novam.docx: Rem_Non_Novam.md project.bib ../ref/reference.docx
 	pandoc -o Rem_Non_Novam.docx --filter pandoc-citeproc --reference-doc=../ref/reference.docx Rem_Non_Novam.md
 
 clean:
-	rm -i chapter4.docx draft.docx zipf.docx burrows.docx
+	rm -i chapter4.docx draft.docx zipf.docx burrows.docx definition.docx
 
