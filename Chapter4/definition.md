@@ -1,6 +1,10 @@
 ---
+author: Paul Evans
 bibliography: ../bib/merged.bib
 csl: ../csl/chicago-fullnote-bibliography.csl
+date: 19 February 2020
+date: 18 March 2020
+date: 5 May 2020
 suppress-bibliography: false
 title: Chapter 4
 subtitle: Definition of first- and second-recension *dicta*
