@@ -9,6 +9,18 @@ date: 13 May 2020
 suppress-bibliography: false
 title: Chapter 4
 subtitle: Definition of first- and second-recension *dicta*
+abstract: |
+  In the absence of good modern critical editions of the first and
+  second recensions of the *Decretum*, a **proxy** for the first
+  recension is created by applying the annotations in Winroth's
+  appendix as a transform to Friedberg's text. The **proxy** for
+  the first recension is then subtracted from Friedberg's text,
+  leaving text from the second recension as the difference. The
+  text samples from the first and second recensions of the *Decretum*
+  that provide the basis for authorship attribution are build up
+  by iteratively appending short units of text (the individual
+  first- and second-recension *dicta*) that are **non-contiguous**
+  in the original context of the *Decretum*.
 ---
 Many of the examples in this chapter will distinguish between first-
 and second-recension *dicta*, so this is an appropriate point at
