@@ -101,8 +101,8 @@ as they occur sequentially but discontinuously throughout the
 *Decretum*.
 
 Both the text of Friedberg's 1879 edition of Gratian's *Decretum*
-and Winroth's appendix are potentially open to criticism. Winroth
-himself acknowledged the provisional nature of his appendix,[^d4]
+and Winroth's appendix are potentially open to criticism.[^d4] Winroth
+himself acknowledged the provisional nature of his appendix,[^d5]
 and Pennington has pointed out at least one interesting substantive
 problem, the inclusion of D.101. Nevertheless, in the absence of a
 critical edition for the first recension, creating a **proxy** for
@@ -134,7 +134,13 @@ numbers relative to the first line of the *dictum*, as opposed to
 the first line of the column, in the print version of the Friedberg
 edition.
 
-[^d4]: "The list is based on a collation of *incipits* and
+[^d4]: [@kuttner_gratiani_1948] The article, and not just the title,
+is in Latin.  @kuttner_research_1990, 10, 21-22.  **Add Anders
+Winroth, "Recent Work on the Making of Gratian's *Decretum*",
+24-25.** The latter articles two mention the deficiency of Friedberg's
+edition without offering detailed critiques.
+
+[^d5]: "The list is based on a collation of *incipits* and
 *explicits* of every canon and *dictum* in the first recension. Differences
 within the texts may very well have been overlooked, and minor differences
 have not normally been registered." @winroth_making_2000, 197.
