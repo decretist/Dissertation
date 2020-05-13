@@ -22,6 +22,28 @@ Gabriel Silagi used to produce the *Wortkonkordanz zum Decretum
 Gratiani* for the MGH. [@reuter_wortkonkordanz_1990] The MGH e-text
 is encoded in the obsolete Oxford Concordance Program format.
 
+Contrary to the widespread belief that the MGH e-text was created
+by scanning a physical copy of the Friedberg edition using optical
+character recognition (OCR) technology and then correcting the
+results, it is the product of keyboard transcription. Conclusively,
+the e-text contains at least one instance of homeoteleuton. The
+following fours lines from the text of D.23 c.2 in the Friedberg
+edition (column 79):
+
+> *Patre et Spiritu sancto omnium creaturarum; qui passus  
+> sit pro salute nostra uera carnis **passione, mortuus uera  
+> corporis sui morte, resurrexit uera carnis** suae receptione  
+> et uera animae resumptione, in qua ueniat iudicare*  
+
+were transcribed as the following three lines in the e-text:
+
+> *Patre et Spiritu sancto omnium creaturarum; qui passus  
+> sit pro salute nostra uera carnis suae receptione  
+> et uera animae resumptione, in qua ueniat iudicare*  
+
+skipping over the words "*passione, mortuus uera corporis sui morte,
+resurrexit uera carnis*."[^d3]
+
 Anders Winroth and Lou Burnard of the Oxford Text Archive (OTA)
 each provided me with copies of the MGH e-text. The copies differed,
 and I went through an exercise not unlike preparing a critical
@@ -39,6 +61,11 @@ edition, and then taking away every word that appeared in the
 first-recension *dicta*. For the case statements, I simply used the
 text from the vulgate *Decretum* as it appears in the Friedberg
 edition.[^c3]
+
+[^d3]: Thanks to Anders Winroth for bringing the instance of
+homeoteleuton at D.23 c.2 in the MGH e-text to my attention (August
+23, 2019). Clemens Radl of the MGH confirmed to Winroth that the
+e-text was typed.
 
 [^c3]: **This is perhaps not entirely satisfactory. It would be
 more methodologically consistent with the way in which the samples
