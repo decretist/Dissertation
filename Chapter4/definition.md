@@ -101,21 +101,34 @@ as they occur sequentially but discontinuously throughout the
 *Decretum*.
 
 Both the text of Friedberg's 1879 edition of Gratian's *Decretum*
-and Winroth's appendix are potentially open to criticism.[^d4] Winroth
-himself acknowledged the provisional nature of his appendix,[^d5]
-and Pennington has pointed out at least one interesting substantive
-problem, the inclusion of D.101. Nevertheless, in the absence of a
-critical edition for the first recension, creating a **proxy** for
-the text of the first recension by applying the information in
-Winroth's appendix as a set of transforms to the text of Friedberg's
-edition is the most workable approach. The resulting **proxy** for
-the first-recension text can then be subtracted from Friedberg's
-text to create a text representing second-recension additions and
-changes. Furthermore, this approach has one extremely powerful
-argument in its favor, which is that it enables reproducibility.
-Reliance on publicly available data means that those who wish to
-reproduce these results are not dependent on private decisions about
-the content of the text samples.
+and Winroth's appendix are potentially open to criticism. Although
+modern scholars admire Friedberg's learning and energy --- the 1879
+edition of the *Decretum* was only one of many such projects that
+he undertook --- his editorial standards were those of 140 years
+ago. In particular, Friedberg's selection of eight unrepresentative
+German manuscripts as the basis for his edition, and his particular
+reliance on two of them --- Köln Erzbischöfliche Diözesan- und
+Dombibliothek 127 (Ka) and 128 (Kb) --- are seen today as serious
+deficiencies.[^d4]
+
+Winroth himself acknowledged the provisional nature of his
+appendix.[^d5] Furthermore, Pennington has pointed out that although
+Winroth's appendix includes D.100 d.a.c.1, D.100 c.1, and D.101
+d.p.c.1, in the Paris (P), Florence (Fd), and Barcelona (Bc)
+manuscripts, the text of the first recension ends with D.99
+c.1.[@pennington_biography_2014, 685]
+
+Nevertheless, in the absence of a critical edition for the first
+recension, creating a **proxy** for the text of the first recension
+by applying the information in Winroth's appendix as a set of
+transforms to the text of Friedberg's edition is the most workable
+approach. The resulting **proxy** for the first-recension text can
+then be subtracted from Friedberg's text to create a text representing
+second-recension additions and changes. Furthermore, this approach
+has one extremely powerful argument in its favor, which is that it
+enables reproducibility. Reliance on publicly available data means
+that those who wish to reproduce these results are not dependent
+on private decisions about the content of the text samples.
 
 Depending on the nature of the analysis we wish to conduct, we may
 choose to either include or exclude the *dicta* from *de Penitentia*.
@@ -134,11 +147,10 @@ numbers relative to the first line of the *dictum*, as opposed to
 the first line of the column, in the print version of the Friedberg
 edition.
 
-[^d4]: [@kuttner_gratiani_1948] The article, and not just the title,
-is in Latin.  @kuttner_research_1990, 10, 21-22.  **Add Anders
-Winroth, "Recent Work on the Making of Gratian's *Decretum*",
-24-25.** The latter articles two mention the deficiency of Friedberg's
-edition without offering detailed critiques.
+[^d4]: @winroth_making_2000, 9-11. See also @kuttner_gratiani_1948
+(Latin), and -@kuttner_research_1990, 10, 21-22, which mentions the
+deficiency of Friedberg's edition without offering a detailed
+critique.
 
 [^d5]: "The list is based on a collation of *incipits* and
 *explicits* of every canon and *dictum* in the first recension. Differences

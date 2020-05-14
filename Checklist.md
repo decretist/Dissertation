@@ -4,12 +4,14 @@
 - [ ] Chapter 3: translate passages from _summa_ of Simon of Bisignano referring to Gratian as _magister_ and himself as _discipulus_.
 - [ ] Chapter 3: summarize and analyze Pennington's argument about identity of Gratian
 - [ ] Chapter 3: summarize and analyze Winroth's argument about identity of Gratian
-- [ ] Write definition of 1st- and 2nd-recension _dicta_ in samples
 - [ ] Read Mike Kestemont, Jeroen De Gussem, "Integrated Sequence Tagging for Medieval Latin Using Deep Representation Learning"
 - [ ] Look for Ivonian vocabulary (admonition, indulgence, precept, prohibition, dispensation) in R1 and R2 _dicta_
 - [ ] Check randomize.py into GitHub
 - [ ] **~/Tmp is not checked in and not backed up!**
 - [ ] Add statistics code to segment.py? (Mean size of samples plus standard deviation)
+
+(14 May 2020)
+- [x] Write definition of 1st- and 2nd-recension _dicta_ in samples
 
 (24 April 2020)
 - [ ] Upgrade R
