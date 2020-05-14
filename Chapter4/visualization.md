@@ -7,10 +7,56 @@ suppress-bibliography: false
 title: Chapter 4
 subtitle: Simplified two-dimensional visualization
 ---
-Visualizing data from the first- and second- recension *dicta*
-(excluding the *dicta* from *de Penitentia*) in a simplified
-two-dimensional form is a useful first step toward understanding
-how this kind of stylometric analysis works in practice.[^7]
+Visualizing data from the *dicta* in a simplified two-dimensional
+form is a useful first step toward understanding how stylometric
+analysis works in practice. For the purpose of the following
+discussion, the *dicta* will be divided into four samples:
+
++ the hypothetical case statements (*dicta initiales* or *themata*) that introduce the thirty-six cases in Part II of the *Decretum*,
++ the first-recension *dicta* from Parts I and II of the *Decretum*,
++ the first- and second-recension *dicta* from *de Penitentia*, and
++ the second-recension *dicta* from Parts I and II of the *Decretum*.
+
+In the following code, tables, and plots, these four samples will
+be labelled Gratian0, Gratian1, dePen, and Gratian2. The Gratian1
+and Gratian2 samples, representing the first- and second-recension
+*dicta* from Parts I and II of the *Decretum*, were generated
+according to the procedure detailed in the preceding section on
+corpus preparation.
+
+Although it is theoretically possible to split the text of the
+hypothetical case statements (*themata*) and the *dicta* from *de
+Penitentia* into separate first- and second-recension samples
+following the same procedure used to produce the Gratian1 and
+Gratian2 samples, as a practical matter it is not useful to do so.
+The only case statement (*thema*) for which Winroth's appendix notes
+a textual difference is C.19 d.init.[@winroth_making_2000, 216] The
+first-recension version of the text of C.19 d.init. omits a 13-word
+clause added to the second recension version, seemingly for the
+purpose of piling up descriptive detail. (*unus relicta propria
+ecclesia eo inuito, alter dimissa regulari canonica cenobio se
+contulit*). Gratian0, the sample containing the cases statements,
+is therefore made up of 99.6% first-recension text. Similarly, the
+number of words added to the *dicta* in *de Penitentia* between the
+first and second recensions in relatively minimal, 556 words out
+of a total of 10,081 words; dePen, the sample containing the *dicta*
+from *de Penitentia*, is therefore made up of 94.5% first-recension
+text.
+
+In addition to plotting a two-dimensional visualization of word
+frequency data from the *dicta*, this section will set the stage
+for a subsequent one, which introduces an authorship attribution
+technique known as Burrows's Delta. Burrows's algorithm calculates
+a metric for the distance between a sample of unknown authorship
+with a corpus of samples of known authorship. In that discussion,
+Gratian0, the sample containing the hypothetical case statements
+(*themata*), will be treated as the sample of unknown authorship.
+Therefore, the values for means and standard deviations that provide
+the basis of comparison between the unattributed sample and the
+attributed corpus have to be calculated without taking the values
+from Gratian0 into account.
+
+---
 
 *In* is the most frequently occurring word in the *dicta*. There
 are 1,450 occurrences of *in* out of 56,713 words in the first-recension
@@ -155,11 +201,6 @@ an advanced technique introduced below, principal component analysis
 
 Now, we are obviously not going to make an attribution of authorship
 based on the frequencies of only two function words.
-
-[^7]: Including the *dicta* from *de Penitentia* distorts the results
-of the analysis, because out of the 10,081 words of the vulgate
-version of the *de Pen.* *dicta*, only 556 were added or changed
-between the first and second recensions of the *Decretum*.
 
 [^8]: The formula for sample standard deviation is:
 
