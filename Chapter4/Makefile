@@ -1,4 +1,9 @@
-all: draft.docx chapter4.docx zipf.docx burrows.docx definition.docx corpus.docx
+all: draft.docx chapter4.docx zipf.docx burrows.docx definition.docx corpus.docx visualization.docx
+
+
+visualization.docx: visualization.md ../bib/merged.bib ../ref/draft.docx
+	pandoc -o visualization.docx --filter pandoc-citeproc --reference-doc=../ref/draft.docx visualization.md
+
 
 corpus.docx: corpus.md ../bib/merged.bib ../ref/draft.docx
 	pandoc -o corpus.docx --filter pandoc-citeproc --reference-doc=../ref/draft.docx corpus.md
