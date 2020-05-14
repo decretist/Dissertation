@@ -38,7 +38,7 @@ ecclesia eo inuito, alter dimissa regulari canonica cenobio se
 contulit*). Gratian0, the sample containing the cases statements,
 is therefore made up of 99.6% first-recension text. Similarly, the
 number of words added to the *dicta* in *de Penitentia* between the
-first and second recensions in relatively minimal, 556 words out
+first and second recensions is relatively minimal, 556 words out
 of a total of 10,081 words; dePen, the sample containing the *dicta*
 from *de Penitentia*, is therefore made up of 94.5% first-recension
 text.
@@ -56,26 +56,49 @@ the basis of comparison between the unattributed sample and the
 attributed corpus have to be calculated without taking the values
 from Gratian0 into account.
 
----
-
 *In* is the most frequently occurring word in the *dicta*. There
 are 1,450 occurrences of *in* out of 56,713 words in the first-recension
-*dicta* (2.56%). There are 411 occurrences of *in* out of 14,255
-words in the second-recension *dicta* (2.88%). The mean frequency
-of occurrence of *in* for the combined first- and second-recension
-*dicta* is therefore 1,861 occurrences out of 70,968 words (2.62%).
-*In* occurs 2.50% less frequently than the mean in the first-recension
-*dicta*, but 9.95% more frequently than the mean in the second-recension
-*dicta*. Because the first-recension *dicta* represent 79.9% of the
-words in the combined total, we expect first-recension word frequencies
-to be much closer to the mean.
+*dicta* (25.5673 occurrences per 1,000 words), 252 occurrences of
+*in* out of 10,081 words in the *dicta* from *de Penitentia* (24.9975
+per 1,000), and 411 occurrences of *in* out of 14,255 words in the
+second-recension *dicta* (28.8320 per 1,000). It is more convenient
+to characterize word frequencies in units of occurrences per 1,000
+words than percentage, since at that scale most of the values we
+are concerned with are greater than 1.0. The overall mean frequency
+of occurrence of *in* for the combined *dicta* from the first
+recension, *de Penitentia*, and the second recension is therefore
+2,113 occurrences out of 81,049 words or 26.0706 per 1,000. It is
+common, however, for authorship attribution algorithms to use the
+mean of the mean frequencies of occurrence for each of the samples
+rather than the overall mean frequency of occurrence in the corpus
+made up of all of the samples. The motivation for using the mean
+of means for the individual samples rather than the overall mean
+frequency of occurrence is to ensure that largest sample does not
+dominate the result. The value for the mean frequency of occurrence
+of *in* that will be required at subsequent stages of this
+demonstration, then, is the mean of 25.5673, 24.9975, and 28.8320, or
+26.4656 occurrences per 1,000.
 
 *Non* is the second most frequently occurring word in the *dicta*.
-There are 1,360 occurrences of *non* in the first-recension *dicta*
-(2.40%). There are 306 occurrences of *non* in the second-recension
-*dicta* (2.15%). The mean frequency of occurrence of *non* for the
-combined first- and second-recension *dicta* is therefore 1,666
-occurrences out of 70,968 words (2.35%). *Non* occurs 2.15% more
+There are 1,360 occurrences of *non* out of 56,713 words in the
+first-recension *dicta* (23.9804 occurrences per 1,000 words), 270
+occurrences of *non* out of 10,081 words in the *dicta* from *de
+Penitentia* (26.7831 per 1,000), and 306 occurrences of *non* out
+of 14,255 words in the second-recension *dicta* (21.4662 per 1,000).
+The overall mean frequency of occurrence of *non* for the combined
+*dicta* from the first recension, *de Penitentia*, and the second
+recension is therefore 1,936 occurrences out of 81,049 words or
+23.8868 per 1,000. The mean of the mean frequencies of occurrence
+of *non* for each of the samples is the mean of 23.9804, 26.7831,
+and 21.4662, or 24.0765 occurrences per 1,000.
+
+---
+
+*In* occurs 2.50% less frequently than the mean in the first-recension
+*dicta*, but 9.95% more frequently than the mean in the second-recension
+*dicta*. 
+
+*Non* occurs 2.15% more
 frequently than the mean in the first-recension *dicta*, but 8.56%
 less frequently than the mean in the second-recension *dicta*.
 
