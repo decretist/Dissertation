@@ -76,8 +76,8 @@ of means for the individual samples rather than the overall mean
 frequency of occurrence is to ensure that largest sample does not
 dominate the result. The value for the mean frequency of occurrence
 of *in* that will be required at subsequent stages of this
-demonstration, then, is the mean of 25.5673, 24.9975, and 28.8320, or
-26.4656 occurrences per 1,000.
+demonstration, then, is the mean of 25.5673, 24.9975, and 28.8320,
+or 26.4656 occurrences per 1,000.
 
 *Non* is the second most frequently occurring word in the *dicta*.
 There are 1,360 occurrences of *non* out of 56,713 words in the
@@ -92,31 +92,29 @@ recension is therefore 1,936 occurrences out of 81,049 words or
 of *non* for each of the samples is the mean of 23.9804, 26.7831,
 and 21.4662, or 24.0765 occurrences per 1,000.
 
----
-
-*In* occurs 2.50% less frequently than the mean in the first-recension
-*dicta*, but 9.95% more frequently than the mean in the second-recension
-*dicta*. 
-
-*Non* occurs 2.15% more
-frequently than the mean in the first-recension *dicta*, but 8.56%
-less frequently than the mean in the second-recension *dicta*.
-
-*In* occurring 9.95% more frequently than the mean and *non* occurring
-8.56% less frequently than the mean in the second-recension *dicta*
-are unexpectedly large variations for such common words. (Such large
-variations would be less surprising with uncommon words for which
-small differences in count could result in a large differences in
-percentage.)
+Comparing the frequencies of occurrence of *in* and *non* in the
+two outlying samples, dePen and Gratian2, reveals unexpectedly large
+variations for such common words. (Large variations would be less
+surprising with uncommon words for which small differences in number
+could result in a large difference in percentage.) *In* occurs 15.3%
+more frequently in Gratian2 than in dePen, and 13.3% less frequently
+in dePen than in Gratian2. *Non* occurs 24.8% more frequently in
+dePen than in Gratian2, and 19.9% less frequently in Gratian2 than
+in dePen. Even compared to the mean, *non*, for example, occurs
+11.2% more frequently in dePen and 10.8% less frequently in Gratian2
+than the mean of means. It is clear then that against an overall
+background of "orderliness" (Zipf) in the word-frequency distribution,
+individual samples can display striking and potentially significant
+levels of variation.
 
 We can graph the number of occurrences of *in* and *non* per 1,000
-words in the first- and second-recension *dicta*, with the frequency
-of *in* plotted along the horizontal x-axis, and the frequency of
-*non* plotted along the vertical y-axis, to produce a simplified
-visualization of the total variation between the two. Means are
-provided for context: the vertical dashed line represents the mean
-for the horizontal (*in*) axis, and the horizontal dashed line
-represents the mean for the vertical (*non*) axis.
+words in the *dicta*, with the frequency of *in* plotted along the
+horizontal x-axis, and the frequency of *non* plotted along the
+vertical y-axis, to produce a simplified visualization of the total
+variation between the three samples. Means are provided for context:
+the vertical dashed line represents the mean of means for the
+horizontal (*in*) axis, and the horizontal dashed line represents
+the mean of means for the vertical (*non*) axis.
 
 ![Figure 0a updated 14 May 2020](PNGs/Figure_0a.png)
 
@@ -132,10 +130,12 @@ this plot, produced by the Matplotlib Python two-dimensional plotting
 library, is rectangular and the axes are approximately to scale,
 most of the figures in this chapter were generated using stylo, an
 R package for stylometric analysis, which outputs square plots.
-Regardless of appearance, readers should bear in mind that the area
-plotted is wider than it is tall, that is, that it always displays
-greater variation between samples horizontally along the x-axis
-than it does vertically along the y-axis.
+Regardless of appearance, however, readers should bear in mind that
+the area plotted is always wider than it is tall, that is, that it
+displays greater variation between samples horizontally along the
+x-axis than it does vertically along the y-axis.
+
+---
 
 Figure 0a plots the first- and second-recension values (labelled
 R1 and R2 respectively), as well as the means (indicated by the
