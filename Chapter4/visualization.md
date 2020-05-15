@@ -118,7 +118,7 @@ provided for context: the vertical dashed line represents the mean
 for the horizontal (*in*) axis, and the horizontal dashed line
 represents the mean for the vertical (*non*) axis.
 
-![Figure 0a updated  7 Mar 2020](PNGs/Figure_ABC_frequency.png)
+![Figure 0a updated 14 May 2020](PNGs/Figure_0a.png)
 
 Figure 0a introduces several conventions common to two-dimensional
 graphical representations of word frequency data that readers will
