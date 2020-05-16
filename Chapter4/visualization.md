@@ -121,18 +121,18 @@ the mean of means for the vertical (*non*) axis.
 Figure 0a introduces several conventions common to two-dimensional
 graphical representations of word frequency data that readers will
 encounter repeatedly throughout this chapter. The feature (in this
-case the frequency of occurrence of the word *in*) that explains
+case the frequency of occurrence of the word *in*) that explains
 more of the variation between the samples is plotted along the
 horizontal x-axis, while the feature (in this case the frequency
-of occurrence of the word *non*) that explains less of the variation
+of occurrence of the word *non*) that explains less of the variation
 between the samples is plotted along the vertical y-axis. Although
 this plot, produced by the Matplotlib Python two-dimensional plotting
-library, is rectangular and the axes are approximately to scale,
-most of the figures in this chapter were generated using stylo, an
+library, is rectangular and the axes are approximately to scale,
+many of the figures in this chapter were generated using stylo, an
 R package for stylometric analysis, which outputs square plots.
 Regardless of appearance, however, readers should bear in mind that
 the area plotted is always wider than it is tall, that is, that it
-displays greater variation between samples horizontally along the
+displays greater variation between samples horizontally along the
 x-axis than it does vertically along the y-axis.
 
 Figure 0a plots the values for the first-recension *dicta*, the
@@ -190,12 +190,12 @@ $s =
 The units of s are the same as those used to calculate the mean,
 in this case, the frequency of occurrence of a word per 1,000 words.
 
-|     |    std |
-|:----|-------:|
-| in  | 2.0691 |
-| non | 2.6598 |
-| et  | 1.4970 |
-| est | 3.3997 |
+|         |    std |
+|:--------|-------:|
+| **in**  | 2.0691 |
+| **non** | 2.6598 |
+| **et**  | 1.4970 |
+| **est** | 3.3997 |
 
 The formula used to calculate the z-score is:
 
