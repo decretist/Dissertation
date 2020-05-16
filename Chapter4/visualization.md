@@ -135,81 +135,100 @@ the area plotted is always wider than it is tall, that is, that it
 displays greater variation between samples horizontally along the
 x-axis than it does vertically along the y-axis.
 
----
+Figure 0a plots the values for the first-recension *dicta*, the
+second-recension *dicta*, the *dicta* from *de Penitentia*, the
+second-recension *dicta*, and (labelled Gratian1, dePen, and Gratian2
+respectively), as well as the means (indicated by the dashed lines),
+for the frequencies of *in* and *non* per 1,000 words. It is more
+statistically meaningful, however, to measure and plot the differences
+between values and means in units of standard deviations rather
+than frequency per 1,000 words. The difference of a value from the
+mean divided by standard deviation is referred to as the value's
+z-score. A value that has a difference of one standard deviation
+from the mean is said to have a z-score of 1.0 or -1.0 depending
+on whether the value is greater or lesser than the mean. The formula
+used to calculate the sample standard deviation is:
 
-Figure 0a plots the first- and second-recension values (labelled
-R1 and R2 respectively), as well as the means (indicated by the
-dashed lines), for the frequencies of *in* and *non* per 1,000
-words. It is more statistically meaningful, however, to measure and
-plot the differences between values and means in units of standard
-deviations rather than frequency per 1,000 words. The difference
-of a value from the mean divided by standard deviation is referred
-to as the value's z-score. A value that has a difference of one
-standard deviation from the mean is said to have a z-score of 1.0
-or -1.0 depending on whether the value is greater or lesser than
-the mean. It is appropriate in this context to use the formula for
-population rather than sample standard deviation,[^8] because the
-data we have represents the totality of known words attributed to
-Gratian. The formula used to calculate the population standard
-deviation is:[^a]
+$s=\sqrt{\frac{1}{N - 1}\sum_{i=1}^N(x_i-\bar{x})^2}$
 
-$\sigma=\sqrt{\frac{1}{N}\sum_{i=1}^N(x_i-\mu)^2}$
+The formula is slightly daunting notationally, but it is not difficult
+to use it to calculate the desired results. The example immediately
+below shows all of the intermediate steps involved in using the
+formula to compute the sample standard deviation of the frequency
+of occurrence of the word *in* in the Gratian1, dePen, and Gratian2
+samples. (The motivated reader can use a calculator to repeat the
+process for the frequency of occurrence of the word *non*.) Remember
+that for the purpose of calculating sample standard deviation, the
+value of the mean ($\bar{x}$) is **not** the overall mean frequency
+of occurrence of the word *in* across all of the samples, but the
+mean of the frequencies for each of the samples individually (the
+mean of means).
 
-The formula is somewhat daunting notationally, but it is not difficult
-to calculate the result. First, we calculate the squared deviations
-from the mean for the frequency of *in* in the first-recension
-*dicta*:
+First, calculate the squared deviations from the mean of means for
+the frequency of *in* in the first-recension *dicta* (Gratian1):
 
-$(x_1-\mu)^2 = (25.5673 - 26.2231)^2 = (-0.6558)^2 = 0.4300$,
+$(x_1-\bar{x})^2 = (25.5673 - 26.4656)^2 = (-0.8983)^2 = 0.8069$,
 
-and for the frequency of *in* in the second-recension *dicta*:
+for the frequency of *in* in the *dicta* from *de Penitentia* (dePen):
 
-$(x_2-\mu)^2 = (28.8320 - 26.2231)^2 = (2.6089)^2 = 6.8064$.
+$(x_2-\bar{x})^2 = (24.9975 - 26.4656)^2 = (-1.4681)^2 = 2.1553$,
 
-We then sum (as indicated by $\sum$) the two squared deviations
-from the mean, divide the sum by their number ($N = 2$), and take
-the square root of the quotient:
+and for the frequency of *in* in the second-recension *dicta* (Gratian2):
 
-$\sigma =
-\sqrt{\frac{1}{2}(0.4300 + 6.8064)} =
-\sqrt{\frac{1}{2}(7.2364)} =
-\sqrt{3.6182} =
-1.9022$
+$(x_3-\bar{x})^2 = (28.8320 - 26.4656)^2 = (2.3664)^2 = 5.5998$.
 
-The units of $\sigma$ are the same as those used to calculate the
-mean, in this case, the frequency of occurrence of a word per 1,000
-words.
+Then, as indicated by the summation operator $\sum$, sum the three
+squared deviations from the mean of means, divide the sum by their
+number ($N = 3$) minus one, and take the square root of the quotient:
 
-For the frequency of *in* in the first-recension *dicta*:
+$s =
+\sqrt{\frac{1}{2}(0.8069 + 2.1553 + 5.5998)} =
+\sqrt{\frac{1}{2}(8.5620)} =
+\sqrt{4.2810} =
+2.0691$
+
+The units of s are the same as those used to calculate the mean,
+in this case, the frequency of occurrence of a word per 1,000 words.
+
+|     |    std |
+|:----|-------:|
+| in  | 2.0691 |
+| non | 2.6598 |
+| et  | 1.4970 |
+| est | 3.3997 |
+
+The formula used to calculate the z-score is:
+
+$z=\frac{x - \bar{x}}{s}$
+
+For the frequency of *in* in the first-recension *dicta* (Gratian1):
 
 $z =
-\frac{x_1 - \mu}{\sigma} =
-\frac{25.5673 - 26.2231}{1.9022} =
-\frac{-0.6558}{1.9022} =
--0.3447$
+\frac{x - \bar{x}}{s} =
+\frac{25.5673 - 26.4656}{2.0691} =
+\frac{-0.8983}{2.0691} =
+-0.4342$,
 
-and for the frequency of *in* in the second-recension *dicta*:
+for the frequency of *in* in the *dicta* from *de Penitentia* (dePen):
 
 $z =
-\frac{x_2 - \mu}{\sigma} =
-\frac{28.8320 - 26.2231}{1.9022} =
-\frac{2.6089}{1.9022} =
-1.3716$
+\frac{x - \bar{x}}{s} =
+\frac{24.9975 - 26.4656}{2.0691} =
+\frac{-1.4681}{2.0691} =
+-0.7095$,
 
-![Figure 0b updated  7 Mar 2020](PNGs/Figure_ABC_z-score.png)
+and for the frequency of *in* in the second-recension *dicta* (Gratian2):
+
+$z =
+\frac{x - \bar{x}}{s} =
+\frac{28.8320 - 26.4656}{2.0691} =
+\frac{2.3664}{2.0691} =
+1.1437$.
+
+![Figure 0b updated 15 May 2020](PNGs/Figure_0b.png)
 
 Labels on the axes of the plot refer to standard deviations (values
-of z) away from the mean (represented by the dashed lines).
-
-The technique of plotting word frequency data by z-score is known
-as Burrows's Delta, after John F. Burrows (d.2019) of the University
-of Newcastle, Australia, who first proposed the metric in 2001. It
-has the advantage of making the statistical significance of plotted
-data apparent in a way that plotting raw frequency data does not.
-Burrows's Delta is one of a number of distance methods of authorship
-attribution, but has the particular advantage of being widely
-accepted in the scholarly literature of the field of computational
-linguistics.
+of z) away from the mean of means (represented by the dashed lines).
 
 Figures 0a and 0b represents the axes as orthogonal (perpendicular)
 to one another. Although doing so is acceptable as a first-order
@@ -220,21 +239,20 @@ completely independent of one another, i.e., that there is no
 correlation or covariance relationship between the words' frequency
 of occurrence in the samples. This is not necessarily the case, and
 an advanced technique introduced below, principal component analysis
-(PCA), handles this problem in a more sophisticated way.
+(PCA), handles this problem in a more mathematically sophisticated
+way.
 
-Now, we are obviously not going to make an attribution of authorship
-based on the frequencies of only two function words.
+[^a]: The formula used to calculate the population standard
+deviation is:
 
-[^8]: The formula for sample standard deviation is:
+    $\sigma=\sqrt{\frac{1}{N}\sum_{i=1}^N(x_i-\mu)^2}$
 
-    $s=\sqrt{\frac{1}{N-1}\sum_{i=1}^N(x_i-\bar{x})^2}$
-
-[^a]: As of 10 February 2020, there is a bug in the `pstdev()` function
-in the standard Python 3 statistics library such that the optional
-`mu =` keyword argument to override the value of mean does not work.
-Thanks to Saturnino Garcia (University of San Diego Department of
-Computer Science) and James Krooskos (UC San Diego Alzheimer's
-Disease Cooperative Study) for help reproducing this bug.
+    As of 10 February 2020, there is a bug in the `pstdev()` function
+    in the standard Python 3 statistics library such that the optional
+    `mu =` keyword argument to override the value of mean does not work.
+    Thanks to Saturnino Garcia (University of San Diego Department of
+    Computer Science) and James Krooskos (UC San Diego Alzheimer's
+    Disease Cooperative Study) for help reproducing this bug.
 
     ~~~ {python}
     import math
