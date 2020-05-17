@@ -1,4 +1,4 @@
-all: visualization.docx
+all: corpus.docx visualization.docx
 
 burrows.docx: burrows.md ../bib/merged.bib ../ref/draft.docx
 	pandoc -o burrows.docx --filter pandoc-citeproc --reference-doc=../ref/draft.docx burrows.md

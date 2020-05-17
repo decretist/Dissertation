@@ -20,7 +20,10 @@ enough for me to use on this project. So, I am working with the
 electronic text of the Friedberg edition that Timothy Reuter and
 Gabriel Silagi used to produce the *Wortkonkordanz zum Decretum
 Gratiani* for the MGH. [@reuter_wortkonkordanz_1990] The MGH e-text
-is encoded in the obsolete Oxford Concordance Program format.
+is encoded in the obsolete Oxford Concordance Program format.  The
+OCP format is very difficult to parse because it is not
+tree-structured---it has start tags for elements such as canons and
+_dicta_, cases and distinctions, but not end tags. [@hockey_history_2004]
 
 Contrary to the widespread belief that the MGH e-text was created
 by scanning a physical copy of the Friedberg edition using optical

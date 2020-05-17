@@ -51,10 +51,69 @@ a metric for the distance between a sample of unknown authorship
 with a corpus of samples of known authorship. In that discussion,
 Gratian0, the sample containing the hypothetical case statements
 (*themata*), will be treated as the sample of unknown authorship.
-Therefore, the values for means and standard deviations that provide
-the basis of comparison between the unattributed sample and the
-attributed corpus have to be calculated without taking the values
-from Gratian0 into account.
+Gratian1, dePen, and Gratian2, the samples containing the first-recension
+*dicta*, the first- and second-recension *dicta* from *de Penitentia*,
+and the second-recension *dicta*, will be treated as the corpus of
+samples of known authorship or *comparanda*. Therefore, the values
+for means and standard deviations that provide the basis of comparison
+between the unattributed sample and the attributed corpus have to
+be calculated without taking the values from Gratian0 into account.
+
+An important point that the demonstration of Burrows's Delta will
+make is that the technique can be used at a higher number of
+dimensions (n > 3) than can be visualized in graphical form. Word
+frequency data for the four most frequent words (MFWs) will therefore
+be collected from the beginning, although the data for the third
+and fourth most frequent words will not be used in this section.
+The first step in the process will be to identify the four most
+frequent words (MFWs) in the *comparanda* text samples, Gratian1,
+dePen, and Gratian2.
+
+```python
+import re
+
+def get_tokens(filename):
+    '''open text file and return list of tokens'''
+    # text = open(filename, 'r').read().lower()
+    f = open(filename, 'r') # open file
+    text = f.read() # read file
+    text = text.lower() # lower-case text
+    tokens = [word for word in re.split('\W', text) if word != ''] # remove punctuation
+    return tokens
+
+def get_features(samples):
+    tokens = []
+    for sample in samples:
+        tokens += get_tokens(sample + '.txt')
+    types = list(set(tokens)) # create unordered list of unique words
+    tmp = dict.fromkeys(types, 0) # create temporary dictionary, initialize counts to 0
+    for token in tokens: tmp[token] += 1 # count words
+    # re-order words in temporary dictionary numerically by descending frequency
+    # re-order words with same frequency alphabetically
+    features = { 
+        key: value for key, value in sorted(tmp.items(),
+        key = lambda item: (-item[1], item[0]))
+    }
+    return features
+
+samples = ['Gratian1', 'dePen', 'Gratian2']
+features = get_features(samples)
+list(features.keys())[:4] # 4 most frequent words (MFWs)
+```
+
+The four most frequent words in the three comparison samples Gratian1,
+dePen, and Gratian2 --- the samples treated as being of known
+authorship --- are *in*, *non*, *et*, and *est*. The selection of
+samples makes a difference to the order. Were Gratian0, the sample
+treated as being of unknown authorship, to be included, the four
+most frequent words would be *in*, *et*, *non*, and *est*. (The
+rank reversal is a result of the fact that *non* occurs so infrequently
+in Gratian0, see the table below.) Having identified the four most
+frequent words in the three comparison samples, the next step in
+the procedure is to count the numbers of occurrences of those words
+in each of the samples.
+
+---
 
 *In* is the most frequently occurring word in the *dicta*. There
 are 1,450 occurrences of *in* out of 56,713 words in the first-recension
