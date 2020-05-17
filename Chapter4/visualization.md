@@ -84,7 +84,7 @@ def get_tokens(filename):
 def get_features(samples):
     tokens = []
     for sample in samples:
-        tokens += get_tokens(sample + '.txt')
+        tokens += get_tokens('./corpus/' + sample + '.txt')
     types = list(set(tokens)) # create unordered list of unique words
     tmp = dict.fromkeys(types, 0) # create temporary dictionary, initialize counts to 0
     for token in tokens: tmp[token] += 1 # count words
@@ -114,6 +114,13 @@ the procedure is to count the numbers of occurrences of those words
 in each of the samples.
 
 ---
+
+|         |   Gratian0 |   Gratian1 |   dePen |   Gratian2 |
+|:--------|-----------:|-----------:|--------:|-----------:|
+| **in**  |         74 |       1450 |     252 |        411 |
+| **non** |         24 |       1360 |     270 |        306 |
+| **et**  |         70 |       1293 |     260 |        345 |
+| **est** |         13 |        965 |     182 |        167 |
 
 *In* is the most frequently occurring word in the *dicta*. There
 are 1,450 occurrences of *in* out of 56,713 words in the first-recension
@@ -283,6 +290,17 @@ $z =
 \frac{28.8320 - 26.4656}{2.0691} =
 \frac{2.3664}{2.0691} =
 1.1437$.
+
+Because both the numerator and the denominator of the formula for
+calculating z-scores have units of frequency of occurrence per 1,000
+words, z is a dimensionless number.
+
+|         |   Gratian0 |   Gratian1 |   dePen |   Gratian2 |
+|:--------|-----------:|-----------:|--------:|-----------:|
+| **in**  |    -2.8702 |    -0.4342 | -0.7095 |     1.1437 |
+| **non** |    -6.5491 |    -0.0361 |  1.0176 |    -0.9814 |
+| **et**  |    -3.2375 |    -0.9786 |  1.0201 |    -0.0414 |
+| **est** |    -3.5264 |     0.4179 |  0.7233 |    -1.1412 |
 
 ![Figure 0b updated 15 May 2020](PNGs/Figure_0b.png)
 
