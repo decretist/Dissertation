@@ -1,13 +1,8 @@
 ---
 author: Paul Evans
-date: 9 May 2020
 title: Chapter 4
 subtitle: Tables
 ---
-
-|       |   Gratian0 |   Gratian1 |   dePen |   Gratian2 |
-|:------|-----------:|-----------:|--------:|-----------:|
-| words |       3605 |      56713 |   10081 |      14255 |
 
 |     |   Gratian0 |   Gratian1 |   dePen |   Gratian2 |
 |:----|-----------:|-----------:|--------:|-----------:|
@@ -15,6 +10,10 @@ subtitle: Tables
 | non |         24 |       1360 |     270 |        306 |
 | et  |         70 |       1293 |     260 |        345 |
 | est |         13 |        965 |     182 |        167 |
+
+|       |   Gratian0 |   Gratian1 |   dePen |   Gratian2 |
+|:------|-----------:|-----------:|--------:|-----------:|
+| words |       3605 |      56713 |   10081 |      14255 |
 
 |     |   Gratian0 |   Gratian1 |   dePen |   Gratian2 |
 |:----|-----------:|-----------:|--------:|-----------:|
