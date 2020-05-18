@@ -54,20 +54,22 @@ Gratian0, the sample containing the hypothetical case statements
 Gratian1, dePen, and Gratian2, the samples containing the first-recension
 *dicta*, the first- and second-recension *dicta* from *de Penitentia*,
 and the second-recension *dicta*, will be treated as the corpus of
-samples of known authorship or *comparanda*. Therefore, the values
-for means and standard deviations that provide the basis of comparison
-between the unattributed sample and the attributed corpus have to
-be calculated without taking the values from Gratian0 into account.
+samples of known authorship. Therefore, the values for means and
+standard deviations that provide the basis of comparison between
+the unattributed sample and the attributed corpus have to be
+calculated without taking the values from Gratian0 into account.
 
-An important point that the demonstration of Burrows's Delta will
-make is that the technique can be used at a higher number of
-dimensions (n > 3) than can be visualized in graphical form. Word
-frequency data for the four most frequent words (MFWs) will therefore
-be collected from the beginning, although the data for the third
-and fourth most frequent words will not be used in this section.
-The first step in the process will be to identify the four most
-frequent words (MFWs) in the *comparanda* text samples, Gratian1,
-dePen, and Gratian2.
+The demonstration of Burrows's Delta will make a point of the fact
+that the technique can be used at a higher number of dimensions
+(n > 3) than can be visualized in graphical form. Word frequency
+data for the four most frequent words (MFWs) will therefore be
+collected from the start, even though the data for the third- and
+fourth-most frequent words will not be used in this section.
+
+---
+
+First, identify the four most frequent words in the comparison text
+samples, Gratian1, dePen, and Gratian2:
 
 ```python
 import re
@@ -102,25 +104,88 @@ list(features.keys())[:4] # 4 most frequent words (MFWs)
 ```
 
 The four most frequent words in the three comparison samples Gratian1,
-dePen, and Gratian2 --- the samples treated as being of known
-authorship --- are *in*, *non*, *et*, and *est*. The selection of
+dePen, and Gratian2---the samples treated as being of known
+authorship---are *in*, *non*, *et*, and *est*. The selection of
 samples makes a difference to the order. Were Gratian0, the sample
 treated as being of unknown authorship, to be included, the four
 most frequent words would be *in*, *et*, *non*, and *est*. (The
-rank reversal is a result of the fact that *non* occurs so infrequently
-in Gratian0, see the table below.) Having identified the four most
-frequent words in the three comparison samples, the next step in
-the procedure is to count the numbers of occurrences of those words
-in each of the samples.
+rank reversal between the second- and third-most frequent words is
+a result of the fact that *non* occurs quite infrequently in Gratian0;
+see the table below.) After identifying the four most frequent words
+in the three comparison samples, next, count the numbers of occurrences
+of those words in each of the samples:[^b]
+
+[^b]: Much of the analysis from this point forward will take advantage
+of the specialized capabilities of a Python software library called
+pandas. The name pandas is not a reference to the charismatic animal,
+but an acronym derived from the term "panel data." The package is
+widely used in the field of data science, and provides a dataframe
+abstraction that represents two-dimensional numerical word-frequency
+data in a much more natural way than native Python data structure
+like lists and dictionaries do. The pandas dataframe abstraction
+can be thought of as a close analog to the Excel spreadsheets that
+were such a ubiquitous feature of John Burrows's and David Hoover's
+early experiments in stylometry.
+
+```python
+import pandas as pd
+
+def get_counts(features, samples):
+    columns = {}
+    for sample in samples:
+        columns[sample] = []
+        tmp = get_features([sample])
+        for feature in features:
+            columns[sample].append(tmp.get(feature, 0))
+    return pd.DataFrame(columns, index = features)
+
+mfws = list(features.keys())[:4] # 4 most frequent words (MFWs)
+unknown = 'Gratian0'
+counts = get_counts(mfws, [unknown] + samples)
+```
+
+|     |   Gratian0 |   Gratian1 |   dePen |   Gratian2 |
+|:----|-----------:|-----------:|--------:|-----------:|
+| in  |         74 |       1450 |     252 |        411 |
+| non |         24 |       1360 |     270 |        306 |
+| et  |         70 |       1293 |     260 |        345 |
+| est |         13 |        965 |     182 |        167 |
+
+After determining the number of occurrences of the MFWs, next,
+determine the length (total word count) for each of the samples:
+
+```python
+def get_lengths(samples):
+    filenames = ['./corpus/' + sample + '.txt' for sample in samples]
+    lengths = {}
+    for i in range(len(samples)):
+       lengths[samples[i]] = len(get_tokens(filenames[i]))
+    return pd.DataFrame(lengths, index = ['words'])
+
+lengths = get_lengths([unknown] + samples)
+```
+
+|       |   Gratian0 |   Gratian1 |   dePen |   Gratian2 |
+|:------|-----------:|-----------:|--------:|-----------:|
+| words |       3605 |      56713 |   10081 |      14255 |
+
+Finally, divide the number of occurences of the MFWs in the samples
+by the sample length and multiply the quotient by 1,000 to determine
+the normalized frequency of occurrence per 1,000 words for each of
+the MFWs in each of the samples:
+
+```python
+frequencies = (counts / lengths.values) * 1000
+```
+
+|     |   Gratian0 |   Gratian1 |   dePen |   Gratian2 |
+|:----|-----------:|-----------:|--------:|-----------:|
+| in  |    20.5270 |    25.5673 | 24.9975 |    28.8320 |
+| non |     6.6574 |    23.9804 | 26.7831 |    21.4662 |
+| et  |    19.4175 |    22.7990 | 25.7911 |    24.2020 |
+| est |     3.6061 |    17.0155 | 18.0538 |    11.7152 |
 
 ---
-
-|         |   Gratian0 |   Gratian1 |   dePen |   Gratian2 |
-|:--------|-----------:|-----------:|--------:|-----------:|
-| **in**  |         74 |       1450 |     252 |        411 |
-| **non** |         24 |       1360 |     270 |        306 |
-| **et**  |         70 |       1293 |     260 |        345 |
-| **est** |         13 |        965 |     182 |        167 |
 
 *In* is the most frequently occurring word in the *dicta*. There
 are 1,450 occurrences of *in* out of 56,713 words in the first-recension
@@ -172,6 +237,13 @@ than the mean of means. It is clear then that against an overall
 background of "orderliness" (Zipf) in the word-frequency distribution,
 individual samples can display striking and potentially significant
 levels of variation.
+
+Word count and sample length data were collected and used to calculate
+frequencies for Gratian0 above, but those values will not be used
+in this section. Disregard the values in the Gratian0 column of the
+frequencies table, and calculate means and standard deviations using
+only the values in the columns corresponding to the three comparison
+samples, Gratian1, dePen, and Gratian2:
 
 We can graph the number of occurrences of *in* and *non* per 1,000
 words in the *dicta*, with the frequency of *in* plotted along the
