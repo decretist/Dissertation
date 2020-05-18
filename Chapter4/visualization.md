@@ -240,10 +240,29 @@ levels of variation.
 
 Word count and sample length data were collected and used to calculate
 frequencies for Gratian0 above, but those values will not be used
-in this section. Disregard the values in the Gratian0 column of the
-frequencies table, and calculate means and standard deviations using
-only the values in the columns corresponding to the three comparison
-samples, Gratian1, dePen, and Gratian2:
+in this section. Disregard the Gratian0 column, and use only the
+columns corresponding to the three comparison samples, Gratian1,
+dePen, and Gratian2, to calculate the means and standard deviations
+for the values in each of the rows in the frequency table corresponding
+to the four most frequent words:
+
+|     |   Gratian1 |   dePen |   Gratian2 |
+|:----|-----------:|--------:|-----------:|
+| in  |    25.5673 | 24.9975 |    28.8320 |
+| non |    23.9804 | 26.7831 |    21.4662 |
+| et  |    22.7990 | 25.7911 |    24.2020 |
+| est |    17.0155 | 18.0538 |    11.7152 |
+
+```python
+means = frequencies[samples].mean(axis = 1).to_frame('mean')
+```
+
+|     |    mean |
+|:----|--------:|
+| in  | 26.4656 |
+| non | 24.0765 |
+| et  | 24.2640 |
+| est | 15.5948 |
 
 We can graph the number of occurrences of *in* and *non* per 1,000
 words in the *dicta*, with the frequency of *in* plotted along the
