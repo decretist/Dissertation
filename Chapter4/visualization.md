@@ -66,8 +66,6 @@ data for the four most frequent words (MFWs) will therefore be
 collected from the start, even though the data for the third- and
 fourth-most frequent words will not be used in this section.
 
----
-
 First, identify the four most frequent words in the comparison text
 samples, Gratian1, dePen, and Gratian2:
 
@@ -169,7 +167,7 @@ lengths = get_lengths([unknown] + samples)
 |:------|-----------:|-----------:|--------:|-----------:|
 | words |       3605 |      56713 |   10081 |      14255 |
 
-Finally, divide the number of occurences of the MFWs in the samples
+Finally, divide the number of occurrences of the MFWs in the samples
 by the sample length and multiply the quotient by 1,000 to determine
 the normalized frequency of occurrence per 1,000 words for each of
 the MFWs in each of the samples:
@@ -184,8 +182,6 @@ frequencies = (counts / lengths.values) * 1000
 | non |     6.6574 |    23.9804 | 26.7831 |    21.4662 |
 | et  |    19.4175 |    22.7990 | 25.7911 |    24.2020 |
 | est |     3.6061 |    17.0155 | 18.0538 |    11.7152 |
-
----
 
 *In* is the most frequently occurring word in the *dicta*. There
 are 1,450 occurrences of *in* out of 56,713 words in the first-recension
@@ -242,27 +238,20 @@ Word count and sample length data were collected and used to calculate
 frequencies for Gratian0 above, but those values will not be used
 in this section. Disregard the Gratian0 column, and use only the
 columns corresponding to the three comparison samples, Gratian1,
-dePen, and Gratian2, to calculate the means and standard deviations
-for the values in each of the rows in the frequency table corresponding
-to the four most frequent words:
-
-|     |   Gratian1 |   dePen |   Gratian2 |
-|:----|-----------:|--------:|-----------:|
-| in  |    25.5673 | 24.9975 |    28.8320 |
-| non |    23.9804 | 26.7831 |    21.4662 |
-| et  |    22.7990 | 25.7911 |    24.2020 |
-| est |    17.0155 | 18.0538 |    11.7152 |
+dePen, and Gratian2, to calculate the means for the values in each
+of the rows in the frequency table representing the four most
+frequent words:
 
 ```python
 means = frequencies[samples].mean(axis = 1).to_frame('mean')
 ```
 
-|     |    mean |
-|:----|--------:|
-| in  | 26.4656 |
-| non | 24.0765 |
-| et  | 24.2640 |
-| est | 15.5948 |
+|     |   Gratian1 |   dePen |   Gratian2 |    mean |
+|:----|-----------:|--------:|-----------:|--------:|
+| in  |    25.5673 | 24.9975 |    28.8320 | 26.4656 |
+| non |    23.9804 | 26.7831 |    21.4662 | 24.0765 |
+| et  |    22.7990 | 25.7911 |    24.2020 | 24.2640 |
+| est |    17.0155 | 18.0538 |    11.7152 | 15.5948 |
 
 We can graph the number of occurrences of *in* and *non* per 1,000
 words in the *dicta*, with the frequency of *in* plotted along the
@@ -273,7 +262,13 @@ the vertical dashed line represents the mean of means for the
 horizontal (*in*) axis, and the horizontal dashed line represents
 the mean of means for the vertical (*non*) axis.
 
-![Figure 0a updated 14 May 2020](PNGs/Figure_0a.png)
+![Figure 0a updated 14 May 2020[^c]](PNGs/Figure_0a.png)
+
+[^c]: The actual generation of Figure 0a was deferred until after
+the sample standard deviations for *in* and *non* per 1,000 words
+had been calculated below. Framing the dimensions of the plot to
+twice the standard deviation from the mean along both axes improves
+graphical layout and readability.
 
 Figure 0a introduces several conventions common to two-dimensional
 graphical representations of word frequency data that readers will
@@ -347,12 +342,24 @@ $s =
 The units of s are the same as those used to calculate the mean,
 in this case, the frequency of occurrence of a word per 1,000 words.
 
-|         |    std |
-|:--------|-------:|
-| **in**  | 2.0691 |
-| **non** | 2.6598 |
-| **et**  | 1.4970 |
-| **est** | 3.3997 |
+Once again disregarding the Gratian0 column of the frequencies
+table, calculate the standard deviations for the rest of the rows
+representing the four most frequent words, using only the values
+in the columns corresponding to the three comparison samples, and
+the means computed from them:
+
+```python
+standard_deviations = frequencies[samples].std(axis = 1).to_frame('std')
+```
+
+|     |   Gratian1 |   dePen |   Gratian2 |    mean |    std |
+|:----|-----------:|--------:|-----------:|--------:|-------:|
+| in  |    25.5673 | 24.9975 |    28.8320 | 26.4656 | 2.0691 |
+| non |    23.9804 | 26.7831 |    21.4662 | 24.0765 | 2.6598 |
+| et  |    22.7990 | 25.7911 |    24.2020 | 24.2640 | 1.4970 |
+| est |    17.0155 | 18.0538 |    11.7152 | 15.5948 | 3.3997 |
+
+---
 
 The formula used to calculate the z-score is:
 
@@ -386,12 +393,16 @@ Because both the numerator and the denominator of the formula for
 calculating z-scores have units of frequency of occurrence per 1,000
 words, z is a dimensionless number.
 
-|         |   Gratian0 |   Gratian1 |   dePen |   Gratian2 |
-|:--------|-----------:|-----------:|--------:|-----------:|
-| **in**  |    -2.8702 |    -0.4342 | -0.7095 |     1.1437 |
-| **non** |    -6.5491 |    -0.0361 |  1.0176 |    -0.9814 |
-| **et**  |    -3.2375 |    -0.9786 |  1.0201 |    -0.0414 |
-| **est** |    -3.5264 |     0.4179 |  0.7233 |    -1.1412 |
+```python
+z_scores = (frequencies - means.values) / standard_deviations.values
+```
+
+|     |   Gratian0 |   Gratian1 |   dePen |   Gratian2 |
+|:----|-----------:|-----------:|--------:|-----------:|
+| in  |    -2.8702 |    -0.4342 | -0.7095 |     1.1437 |
+| non |    -6.5491 |    -0.0361 |  1.0176 |    -0.9814 |
+| et  |    -3.2375 |    -0.9786 |  1.0201 |    -0.0414 |
+| est |    -3.5264 |     0.4179 |  0.7233 |    -1.1412 |
 
 ![Figure 0b updated 15 May 2020](PNGs/Figure_0b.png)
 
