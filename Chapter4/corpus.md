@@ -10,21 +10,44 @@ subtitle: Corpus preparation
 The most important and time-consuming aspect of any digital humanities
 project is corpus preparation. The availability of a suitable corpus
 of electronic texts is a baseline requirement for carrying out
-stylometric analysis. Ideally, I would be working with electronic
-texts of good critical editions of both the first and second
-recensions of Gratian's *Decretum*, following consistent orthographic
-conventions, and encoded in a standard format like TEI P5 XML. The
-Mellon Foundation-supported project, directed by Anders Winroth,
-to edit the first recension is making progress, but is not yet
-complete enough for me to use on this project. So, I am working
-with the electronic text of the Friedberg edition that Timothy
-Reuter and Gabriel Silagi used to produce the *Wortkonkordanz zum
-Decretum Gratiani* for the MGH. [@reuter_wortkonkordanz_1990] The
-MGH e-text is encoded in the obsolete Oxford Concordance Program
-format. The OCP format is very difficult to parse because it is
-not tree-structured---it has start tags for elements such as canons
-and _dicta_, cases and distinctions, but not end tags.
-[@hockey_history_2004]
+stylometric analysis. The ideal textual basis for a project of this
+nature would be a set of electronic texts of good modern critical
+editions of both the first and second recensions of Gratian’s
+*Decretum*, following consistent orthographic conventions, and
+adhering to a widely-accepted encoding standard such as the XML
+Text Encoding Initiative (TEI P5) format. The Mellon Foundation-supported
+effort directed by Anders Winroth to edit the first recension is
+ongoing, but work on Winroth's edition in progress had not reached
+a sufficiently advanced state of completion for it to be used within
+the time frame available for my project. As a result, this investigation
+depends for both the first and the second recension on the electronic
+text of the Friedberg edition that Timothy Reuter and Gabriel Silagi
+used to produce the *Wortkonkordanz zum Decretum Gratiani* for the
+MGH.[@reuter_wortkonkordanz_1990]
+
+In 1946, Father Roberto Busa, SJ (d. 2011), began work on what
+ultimately became the *Index Thomisticus*, a concordance of the
+works of St Thomas Aquinas. In 1949, Father Busa secured crucial
+support from Thomas J. Watson of IBM, allowing concordance generation
+to be carried out by means of electro-mechanical and later electronic
+computers operating on punch-card data. The *Index Thomisticus* is
+recognized today as the first important humanities computing project,
+and figures prominently in origin stories for digital humanities
+as a discipline.[^busa]  The success of Father Busa's project inspired a
+number of imitators, as well as the development of specialized
+software and data formats to support such efforts. Reuter and
+Silagi's *Wortkonkordanz* was probably the last major Busa-style
+concordance. For this reason, the MGH e-text of the Friedberg
+edition was encoded in the obsolete Oxford Concordance Program (OCP)
+format.
+
+[^busa]: [@hockey_history_2004, 4-6]. The highest honor in the field
+of Digital Humanities is the Roberto Busa Prize, awarded by the
+Alliance of Digital Humanities Organizations (ADHO). A notable past
+recipient of the Busa Prize is John Burrows, who first introduced
+the fundamental stylometric technique now known as Burrows's Delta
+in a lecture he delivered on the occasion of receiving the award
+in 2001.
 
 Contrary to the widespread belief that the MGH e-text was created
 by scanning a physical copy of the Friedberg edition using optical
@@ -49,10 +72,19 @@ skipping over the words "*passione, mortuus uera corporis sui morte,
 resurrexit uera carnis*."[^d3]
 
 Anders Winroth and Lou Burnard of the Oxford Text Archive (OTA)
-each provided me with copies of the MGH e-text. The copies differed,
-and I went through an exercise not unlike preparing a critical
-edition to restore the e-text to the state that Reuter and Silagi
-intended.
+provided copies of the MGH e-text separately. The copies differed
+significantly, and the e-text had to be reconstructed through an
+editorial process quite similar to preparing a critical edition to
+restore it to a state as close as possible to what Reuter and
+Silagi presumably intended.
+
+---
+
+Notwithstanding the highly specialized and outdated requirements it was originally created to meet, the MGH e-text has had a healthy afterlife.[@winroth_uncovering_1997]
+
+The OCP format is very difficult to parse because it is not
+tree-structured---it has start tags for elements such as canons and
+*dicta*, cases and distinctions, but not end tags.[@hockey_history_2004]
 
 I generated the sample text for the first-recension *dicta* by
 extracting from the MGH e-text of the Friedberg edition all of the
