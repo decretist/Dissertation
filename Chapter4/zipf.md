@@ -4,7 +4,7 @@ bibliography: ../bib/merged.bib
 csl: ../csl/chicago-fullnote-bibliography.csl
 date: 3-5 April 2020
 suppress-bibliography: false
-title: Stylometry
+title: Chapter 4
 subtitle: Zipf's law
 ---
 Now, we are obviously not going to make an attribution of authorship

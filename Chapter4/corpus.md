@@ -2,7 +2,7 @@
 author: Paul Evans
 bibliography: ../bib/merged.bib
 csl: ../csl/chicago-fullnote-bibliography.csl
-date: 13 May 2020
+date: 19 May 2020
 suppress-bibliography: false
 title: Chapter 4
 subtitle: Corpus preparation

@@ -4,7 +4,7 @@ bibliography: ../bib/merged.bib
 csl: ../csl/chicago-fullnote-bibliography.csl
 date: 10 April 2020
 suppress-bibliography: false
-title: Stylometry
+title: Chapter 4
 subtitle: Burrows's Delta
 ---
 The technique of plotting word frequency data by z-score is known

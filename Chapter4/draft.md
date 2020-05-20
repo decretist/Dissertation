@@ -3,7 +3,7 @@ author: Paul Evans
 bibliography: ../bib/merged.bib
 csl: ../csl/chicago-fullnote-bibliography.csl
 date: February 20, 2020
-title: Stylometry
+title: Chapter 4
 subtitle: Work in progress
 ---
 ### De Doctrina Christiana (Milton)
