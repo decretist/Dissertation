@@ -10,6 +10,8 @@ jupyter contrib nbextension install --user
 jupyter nbextension enable python-markdown/main
 jupyter notebook --no-browser
 
+jupyter trust Notebook.ipynb
+
 jupyter nbconvert --to html Notebook.ipynb
 ```
 
