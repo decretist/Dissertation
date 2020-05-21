@@ -2,7 +2,7 @@
 author: Paul Evans
 bibliography: ../bib/merged.bib
 csl: ../csl/chicago-fullnote-bibliography.csl
-date: 19 May 2020
+date: 21 May 2020
 suppress-bibliography: false
 title: Chapter 4
 subtitle: Corpus preparation
@@ -19,11 +19,18 @@ Text Encoding Initiative (TEI P5) format. The Mellon Foundation-supported
 effort directed by Anders Winroth to edit the first recension is
 ongoing, but work on Winroth's edition in progress had not reached
 a sufficiently advanced state of completion for it to be used within
-the time frame available for my project. As a result, this investigation
-depends for both the first and the second recension on the electronic
-text of the Friedberg edition that Timothy Reuter and Gabriel Silagi
-used to produce the *Wortkonkordanz zum Decretum Gratiani* for the
-MGH.[@reuter_wortkonkordanz_1990]
+the time frame available for my project.
+
+As a result, this investigation depends for both the first and the
+second recension on the electronic text of the Friedberg edition
+that Timothy Reuter and Gabriel Silagi used to produce the
+*Wortkonkordanz zum Decretum Gratiani* for the
+MGH.[@reuter_wortkonkordanz_1990] Anders Winroth and Lou Burnard
+of the Oxford Text Archive (OTA) provided copies of the MGH e-text
+separately. The copies differed significantly, and the e-text had
+to be reconstructed through an editorial process quite similar to
+preparing a critical edition to restore it to a state as close as
+possible to what Reuter and Silagi presumably intended.
 
 In 1946, Father Roberto Busa, SJ (d. 2011), began work on what
 ultimately became the *Index Thomisticus*, a concordance of the
@@ -49,6 +56,28 @@ the fundamental stylometric technique now known as Burrows's Delta
 in a lecture he delivered on the occasion of receiving the award
 in 2001.
 
+The MGH e-text introduced a small number of textual errors in
+addition to those it inherited from printed version of Friedberg's
+edition.
+
++---------------+----------+-----------------------------------------------+-------------------------------------------------------------------+
+| Citation      |   Column | Error                                         | Correction                                                        |
++===============+==========+===============================================+===================================================================+
+| D.6 d.p.c.3   |       11 | quantam ad moralem intelligentiam             | quantum ad moralem intelligentiam                                 |
++---------------+----------+-----------------------------------------------+-------------------------------------------------------------------+
+| D.23 c.2      |       79 |                                               | carnis passione, mortuus uera corporis sui morte, resurrexit uera |
++---------------+----------+-----------------------------------------------+-------------------------------------------------------------------+
+| D.54 d.p.c.22 |      214 | Quid autem serui ecclesiarum                  | Quod autem serui ecclesiarum                                      |
++---------------+----------+-----------------------------------------------+-------------------------------------------------------------------+
+| C.2 q.6 c.41  |      483 | contra sententiam restitutionem inpetraverit  | contra sententiam restitutionem inpetrauerit                      |
++---------------+----------+-----------------------------------------------+-------------------------------------------------------------------+
+| C.4 d.init.   |      536 | a communione ait remouendus                   | a communione sit remouendus                                       |
++---------------+----------+-----------------------------------------------+-------------------------------------------------------------------+
+| C.4 d.init.   |      536 | in episcoporum indicio                        | in episcoporum iudicio                                            |
++---------------+----------+-----------------------------------------------+-------------------------------------------------------------------+
+| C.7 d.init.   |      566 | Quidam longa inualetudinem grauatus episcopus | Quidam longa inualetudine grauatus episcopus                      |
++---------------+----------+-----------------------------------------------+-------------------------------------------------------------------+
+
 Contrary to the widespread belief that the MGH e-text was created
 by scanning a physical copy of the Friedberg edition using optical
 character recognition (OCR) technology and then correcting the
@@ -70,13 +99,6 @@ were transcribed as the following three lines in the e-text:
 
 skipping over the words "*passione, mortuus uera corporis sui morte,
 resurrexit uera carnis*."[^d3]
-
-Anders Winroth and Lou Burnard of the Oxford Text Archive (OTA)
-provided copies of the MGH e-text separately. The copies differed
-significantly, and the e-text had to be reconstructed through an
-editorial process quite similar to preparing a critical edition to
-restore it to a state as close as possible to what Reuter and
-Silagi presumably intended.
 
 ---
 

@@ -165,7 +165,7 @@ rank-frequency data.
 
 ![Figure Zy updated  6 Apr 2020](PNGs/Figure_Zy.png)
 
-![Figure Zz updated  6 Apr 2020](PNGs/Figure_Zz.png)
+![Figure Zz updated  6 Apr 2020[^z7]](PNGs/Figure_Zz.png)
 
 [^z1]: @zipf_psycho-biology_1935, 39-48; and @zipf_human_1949, 73-131.
 Zipf referred to the relationship as "the law of diminishing returns
@@ -216,4 +216,18 @@ or:
             x_squared_sum += x_values[i] ** 2
         return (xy_sum - n * x_bar * y_bar) / (x_squared_sum - n * x_bar ** 2)
     ~~~
+
+[^z7]: The vertical bands toward the upper-left hand corner of the
+plot---which also appear in Zipf's 1935 figures---require some
+interpretation. There can be a range of values for numbers of
+occurrence (b) for which only one value for number of words (a) has
+that number of occurrence. There are 62 cases in the *dicta* from
+Gratian's *Decretum* in which only a single word (a = 1) has a given
+number of occurrences (b). For example, only one word, *potest*,
+has 143 occurrences, and only one word, *in*, has 2,187 occurrences.
+The upper-left-most vertical band represents all 62 of the words
+for which only a single word (a = 1) has a particular value for the
+number of occurrences (b). Similarly, the next vertical band to the
+right represents all of the words for which only two words (a = 2)
+have particular values for the number of occurrences (b).
 

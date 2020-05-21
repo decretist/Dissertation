@@ -2,10 +2,7 @@
 author: Paul Evans
 bibliography: ../bib/merged.bib
 csl: ../csl/chicago-fullnote-bibliography.csl
-date: 19 February 2020
-date: 18 March 2020
-date: 5 May 2020
-date: 13 May 2020
+date: 21 May 2020
 suppress-bibliography: false
 title: Chapter 4
 subtitle: Definition of first- and second-recension *dicta*
@@ -124,11 +121,32 @@ by applying the information in Winroth's appendix as a set of
 transforms to the text of Friedberg's edition is the most workable
 approach. The resulting **proxy** for the first-recension text can
 then be subtracted from Friedberg's text to create a text representing
-second-recension additions and changes. Furthermore, this approach
-has one extremely powerful argument in its favor, which is that it
-enables reproducibility. Reliance on publicly available data means
-that those who wish to reproduce these results are not dependent
-on private decisions about the content of the text samples.
+second-recension additions and changes.
+
+This approach---applying the variants recorded in Winroth's appendix
+to Friedberg's vulgate text to generate a stand-in or proxy for the
+first recension---is consistent with the approach I have taken
+throughout my dissertation project. Winroth himself took a similar
+approach when he created the baseline text for the edition in
+progress of the first recension (although he imposed a set of
+orthographic conventions different from Friedberg's on the resulting
+text). Regardless of how Winroth conceptualized what he was doing,
+it is an approach that is well-theorized in a Digital Humanities
+context as an example of "deformance." The term, proposed by Lisa
+Samuels and Jerome McGann in "Deformance and Interpretation" (1999),
+conflates the words "deformation" and "performance", and describes
+a process through which a text is transformed by the application
+of a series of deformances to generate a "paratext".
+[@samuels_deformance_1999] The paratext is different from the
+original text, but defined by the deformances through which it was
+generated from it, and can be analyzed for otherwise unavailable
+insights into the original text.
+
+Furthermore, this approach has one extremely powerful argument in
+its favor, which is that it enables reproducibility. Reliance on
+publicly available data means that those who wish to reproduce these
+results are not dependent on private decisions about the content
+of the text samples.
 
 Depending on the nature of the analysis we wish to conduct, we may
 choose to either include or exclude the *dicta* from *de Penitentia*.
