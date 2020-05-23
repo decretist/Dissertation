@@ -69,8 +69,20 @@ are 4 (*b*) occurrences. Plugging these values for *a* and *b* into
 the formula $ab^2 = k$ yields 8,028, 9,848, 10,215, and 10,560
 respectively as values for the "constant" *k*. As the number of
 occurrences *b* increases, values of *k* for Gratian's *dicta*
-remain fairly stable, mostly falling between 10,000 and 11,000. As
-this example suggests, the explanatory power of the formula $ab^2
+remain fairly stable, mostly falling between 10,000 and 11,000.
+
+|   b |    a |   $b^2$ |     k |
+|----:|-----:|--------:|------:|
+|   1 | 8028 |       1 |  8028 |
+|   2 | 2462 |       4 |  9848 |
+|   3 | 1135 |       9 | 10215 |
+|   4 |  660 |      16 | 10560 |
+|   5 |  423 |      25 | 10575 |
+|   6 |  290 |      36 | 10440 |
+|   7 |  225 |      49 | 11025 |
+|   8 |  173 |      64 | 11072 |
+
+As this example suggests, the explanatory power of the formula $ab^2
 = k$ to characterize a word distribution is greatest for words that
 have a low number of occurrences. Zipf ultimately judged the formula
 $ab^2 = k$ to be a less than satisfactory model for the full spectrum
@@ -81,7 +93,7 @@ which he lived, of the fact that the variables in the formulas by
 which he sought to express these relationships represent discrete
 rather than continuous quantities.[^z4] **Zipf also noted that value
 of the exponent of b is likely to differ from 2 depending on the
-size of the corpus (Zipf 1935, 43).**
+size of the corpus [@zipf_psycho-biology_1935, 43]**
 
 Zipf's final attempt, in 1949, to give a quantitative account of
 the distribution of words in a corpus characterized the distribution
