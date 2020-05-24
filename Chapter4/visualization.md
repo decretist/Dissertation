@@ -406,7 +406,7 @@ z_scores = (frequencies - means.values) / standard_deviations.values
 
 ![Figure 0b updated 15 May 2020](PNGs/Figure_0b.png)
 
-Labels on the axes of the plot refer to standard deviations (values
+Labels on the axes of Figure 0b refer to standard deviations (values
 of z) away from the mean of means (represented by the dashed lines).
 
 Figures 0a and 0b represents the axes as orthogonal (perpendicular)

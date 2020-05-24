@@ -7,6 +7,8 @@ for Gratian0, Gratian1, dePen, Gratian2.
 
 - [x] purge obsolete Chapter 4 PNGs
 
+- [ ] add discussion of population vs. sample standard deviation
+
 ### merged.md
 
 Finish merged.md first, get comments from Anders Winroth re: process

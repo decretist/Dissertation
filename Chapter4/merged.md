@@ -247,11 +247,18 @@ outdated requirements that constrained the choice of file format,
 the MGH e-text remains a useful tool for the study of Gratian's
 *Decretum*.[@winroth_uncovering_1997]
 
----
-
-The OCP format is very difficult to parse because it is not
-tree-structured---it has start tags for elements such as canons and
-*dicta*, cases and distinctions, but not end tags.[@hockey_history_2004]
+The deformance algorithm used to generate the paratexts described
+in the previous section on the definition of the first- and
+second-recension *dicta* was implemented in the form of a 201-line
+Python program. The program reads the MGH e-text of the Friedberg
+edition, and parses it to extract the *dicta*. The Oxford Concordance
+Program (OCP) format in which the e-text is encoded is extremely
+difficult to parse because it is not tree-structured---it has start
+tags for textual elements such as canons and *dicta*, cases and
+distinctions, but not (unlike XML) end tags.[@hockey_history_2004]
+The extraction engine captures every element of text between a
+*dictum* start tag (`<T A>` or `<T P>`) and the start tag for the
+next element that can possibly follow a *dictum*:
 
 ```python
 import re
@@ -270,17 +277,67 @@ dicta = re.findall('(?:\<T [AP]\>|(?<=\<T [AP]\>))(.*?)'    # dictum starts with
     ')', file, re.S)        # re.S (re.DOTALL) makes '.' special character match any character including newline.
 ```
 
-I generated the sample text for the first-recension *dicta* by
-extracting from the MGH e-text of the Friedberg edition all of the
-*dicta* listed by Winroth in the appendix of *The Making of Gratian's
-Decretum*, and by applying the changes to the *dicta* that differed
-between the first and second recensions. [@winroth_making_2000,
-197-227] I generated the sample text for the second-recension *dicta*
-by starting with all the *dicta* in parts 1 and 2 of the Friedberg
-edition, and then taking away every word that appeared in the
-first-recension *dicta*. For the case statements, I simply used the
-text from the vulgate *Decretum* as it appears in the Friedberg
-edition.[^m18]
+The extracted *dicta* require considerable scrubbing before they
+can be used. Here, for example, is what D.54 d.p.c.23 looks like
+in its raw state:
+
+```python
+[' -Gratian.+ Ecce, quomodo serui ad clericatum ualeant assumi,\n
+uel quomodo non admittantur. Liberti quoque non sunt promouendi\n
+ad clerum, nisi ab obsequiis sui patroni fuerint absoluti.\n
+Unde in Concilio Eliberitano: -[c. 80.]+\n']
+```
+
+Each *dictum* is then processed into an item (key-value pair) in a
+Python dictionary:
+
+```python
+{'D.54 d.p.c.23': 'Ecce, quomodo serui ad clericatum ualeant assumi, uel quomodo non admittantur. Liberti quoque non sunt promouendi ad clerum, nisi ab obsequiis sui patroni fuerint absoluti. Unde in Concilio Eliberitano:'}
+```
+
+The first recension variants from the Friedberg edition recorded
+in Winroth's appendix are then encoded as a list of dictionaries
+in which the 'pattern' item is the variant represented as a Python
+regular expression:
+
+```python
+[{'key': 'D.54 d.p.c.23', 'pattern': '(Ecce, quomodo serui.*?quomodo non admittantur\.)'}]
+```
+
+Finally, the deformance engine uses the variants encoded as regular
+expression patterns to generate the first and second paratexts
+corresponding the first- and second-recension *dicta*. For each
+*dictum*, the text matching the pattern is inserted into the
+dictionary representing the first recension paratext; then the text
+matching the pattern is replaced by the null string `''` and the
+resulting text is inserted in into the dictionary representing the
+second recension paratext:
+
+```python
+import re
+
+dictionary_1r = {} # first recension paratext
+dictionary_2r = {} # second recension paratext
+dictionary_Fr = {'D.54 d.p.c.23': 'Ecce, quomodo serui ad clericatum ualeant assumi, uel quomodo non admittantur. Liberti quoque non sunt promouendi ad clerum, nisi ab obsequiis sui patroni fuerint absoluti. Unde in Concilio Eliberitano:'}
+keysandpatterns = [{'key': 'D.54 d.p.c.23', 'pattern': '(Ecce, quomodo serui.*?quomodo non admittantur\.)'}]
+for i in range (len(keysandpatterns)):
+    key = keysandpatterns[i]['key']
+    pattern = keysandpatterns[i]['pattern']
+    result = re.search(pattern, dictionary_Fr[key])
+    dictionary_1r[key] = result.group(1)
+    dictionary_2r[key] = re.sub(pattern, '', dictionary_Fr[key])
+```
+
+Here is the resulting first recension paratext:
+
+```python
+{'D.54 d.p.c.23': 'Ecce, quomodo serui ad clericatum ualeant assumi, uel quomodo non admittantur.'}
+```
+and the corresponding second recension paratext:
+
+```python
+{'D.54 d.p.c.23': 'Liberti quoque non sunt promouendi ad clerum, nisi ab obsequiis sui patroni fuerint absoluti. Unde in Concilio Eliberitano:'}
+```
 
 [^m2]: @winroth_making_2000, 201. The numbers 1 and 2 refer to line
 numbers relative to the first line of the *dictum*, as opposed to
@@ -338,19 +395,4 @@ Thanks to Anders Winroth for reporting the errors in D.6 d.p.c.3
 homeoteleuton at D.23 c.2 in the MGH e-text to my attention (August
 23, 2019). Clemens Radl of the MGH confirmed to Winroth that the
 e-text was typed.
-
-[^m18]: **This is perhaps not entirely satisfactory. It would be
-more methodologically consistent with the way in which the samples
-of the first-recension dicta were prepared to apply the differences
-found in Winroth's appendix to the case statements as well, however
-the differences are quite minimal. The only case statement (*thema*)
-for which Winroth notes a textual difference is C.19 d.init.
-(Winroth, 216). The first-recension version of the text omits a
-13-word clause added to the second recension version, seemingly for
-the purpose of piling up descriptive detail. (*unus relicta propria
-ecclesia eo inuito, alter dimissa regulari canonica cenobio se
-contulit*). None of the wordlists used to perform the principal
-component analyses include any of these 13 words, so the use of the
-vulgate rather than a proxy first-recension version of the text of
-C.19 d.init. has no effect on the outcome of these tests.**
 
