@@ -2,7 +2,7 @@
 author: Paul Evans
 bibliography: ../bib/merged.bib
 csl: ../csl/chicago-fullnote-bibliography.csl
-date: 23 May 2020
+date: 24 May 2020
 suppress-bibliography: false
 title: Chapter 4
 subtitle: Definition and Corpus Preparation
@@ -297,7 +297,7 @@ Python dictionary:
 
 The first recension variants from the Friedberg edition recorded
 in Winroth's appendix are then encoded as a list of dictionaries
-in which the 'pattern' item is the variant represented as a Python
+in which the `'pattern'` item is the variant represented as a Python
 regular expression:
 
 ```python
@@ -307,11 +307,11 @@ regular expression:
 Finally, the deformance engine uses the variants encoded as regular
 expression patterns to generate the first and second paratexts
 corresponding the first- and second-recension *dicta*. For each
-*dictum*, the text matching the pattern is inserted into the
-dictionary representing the first recension paratext; then the text
-matching the pattern is replaced by the null string `''` and the
-resulting text is inserted in into the dictionary representing the
-second recension paratext:
+*dictum*, the text matching the pattern is inserted into a dictionary
+representing the first recension paratext; then the text resulting
+when the text matching the pattern is replaced by the null string
+`''` is inserted into a dictionary representing the second
+recension paratext:
 
 ```python
 import re
