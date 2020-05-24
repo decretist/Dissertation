@@ -242,13 +242,33 @@ were transcribed as the following three lines in the e-text:
 skipping over the words "*passione, mortuus uera corporis sui morte,
 resurrexit uera carnis*."[^m14]
 
----
+Notwithstanding its textual flaws and the highly specialized and
+outdated requirements that constrained the choice of file format,
+the MGH e-text remains a useful tool for the study of Gratian's
+*Decretum*.[@winroth_uncovering_1997]
 
-Notwithstanding the highly specialized and outdated requirements it was originally created to meet, the MGH e-text has had a healthy afterlife.[@winroth_uncovering_1997]
+---
 
 The OCP format is very difficult to parse because it is not
 tree-structured---it has start tags for elements such as canons and
 *dicta*, cases and distinctions, but not end tags.[@hockey_history_2004]
+
+```python
+import re
+
+f = open('edF.txt', 'r')
+file = f.read()
+# (?<=...) positive lookbehind assertion.
+dicta = re.findall('(?:\<T [AP]\>|(?<=\<T [AP]\>))(.*?)'    # dictum starts with dictum ante or dictum post tag.
+    '(?:'                   # non-capturing group.
+        '\<1 [CD][CP]?\>|'  # dictum ends with major division,
+        '\<2 \d{1,3}\>|'    # or number of major division,
+        '\<3 \d{1,2}\>|'    # or number of question,
+        '\<4 \d{1,3}\>|'    # or number of canon,
+        '\<P 1\>|'          # or Palea,
+        '\<T [AIPRT]\>'      # or inscription or text tag.
+    ')', file, re.S)        # re.S (re.DOTALL) makes '.' special character match any character including newline.
+```
 
 I generated the sample text for the first-recension *dicta* by
 extracting from the MGH e-text of the Friedberg edition all of the

@@ -9,9 +9,6 @@ chapter4.docx: chapter4.md ../bib/merged.bib ../ref/draft.docx
 merged.docx: merged.md ../bib/merged.bib ../ref/draft.docx
 	pandoc -o merged.docx --filter pandoc-citeproc --reference-doc=../ref/draft.docx merged.md
 
-milton.docx: milton.md ../bib/merged.bib ../ref/draft.docx
-	pandoc -o milton.docx --filter pandoc-citeproc --reference-doc=../ref/draft.docx milton.md
-
 visualization.docx: visualization.md ../bib/merged.bib ../ref/draft.docx
 	pandoc -o visualization.docx --filter pandoc-citeproc --reference-doc=../ref/draft.docx visualization.md
 
@@ -25,5 +22,5 @@ Rem_Non_Novam.docx: Rem_Non_Novam.md project.bib ../ref/reference.docx
 	pandoc -o Rem_Non_Novam.docx --filter pandoc-citeproc --reference-doc=../ref/reference.docx Rem_Non_Novam.md
 
 clean:
-	rm -i burrows.docx chapter4.docx merged.docx milton.docx visualization.docx zipf.docx
+	rm -i burrows.docx chapter4.docx merged.docx visualization.docx zipf.docx
 
