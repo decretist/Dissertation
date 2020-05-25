@@ -22,5 +22,8 @@ in progress for completeness
 
 ### visualization.md
 
-- [ ] rewrite z-scores narrative
+- [x] rewrite z-scores narrative
 
+### zipf.md
+
+- [ ] reproduce all Zipf's law figures in Zipf49.ipynb
