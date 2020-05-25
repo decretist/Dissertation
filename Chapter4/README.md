@@ -9,6 +9,8 @@ for Gratian0, Gratian1, dePen, Gratian2.
 
 - [ ] add discussion of population vs. sample standard deviation
 
+- [ ] add discussion of orthogonality and Manhattan distance
+
 ### merged.md
 
 Finish merged.md first, get comments from Anders Winroth re: process

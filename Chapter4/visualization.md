@@ -2,7 +2,7 @@
 author: Paul Evans
 bibliography: ../bib/merged.bib
 csl: ../csl/chicago-fullnote-bibliography.csl
-date: 14 May 2020
+date: 24 May 2020
 suppress-bibliography: false
 title: Chapter 4
 subtitle: Simplified two-dimensional visualization
@@ -84,7 +84,7 @@ def get_tokens(filename):
 def get_features(samples):
     tokens = []
     for sample in samples:
-        tokens += get_tokens('./corpus/' + sample + '.txt')
+        tokens += get_tokens('../corpus/' + sample + '.txt')
     types = list(set(tokens)) # create unordered list of unique words
     tmp = dict.fromkeys(types, 0) # create temporary dictionary, initialize counts to 0
     for token in tokens: tmp[token] += 1 # count words
@@ -111,9 +111,9 @@ rank reversal between the second- and third-most frequent words is
 a result of the fact that *non* occurs quite infrequently in Gratian0;
 see the table below.) After identifying the four most frequent words
 in the three comparison samples, next, count the numbers of occurrences
-of those words in each of the samples:[^b]
+of those words in each of the samples:[^v2]
 
-[^b]: Much of the analysis from this point forward will take advantage
+[^v2]: Much of the analysis from this point forward will take advantage
 of the specialized capabilities of a Python software library called
 pandas. The name pandas is not a reference to the charismatic animal,
 but an acronym derived from the term "panel data." The package is
@@ -154,7 +154,7 @@ determine the length (total word count) for each of the samples:
 
 ```python
 def get_lengths(samples):
-    filenames = ['./corpus/' + sample + '.txt' for sample in samples]
+    filenames = ['../corpus/' + sample + '.txt' for sample in samples]
     lengths = {}
     for i in range(len(samples)):
        lengths[samples[i]] = len(get_tokens(filenames[i]))
@@ -262,9 +262,9 @@ the vertical dashed line represents the mean of means for the
 horizontal (*in*) axis, and the horizontal dashed line represents
 the mean of means for the vertical (*non*) axis.
 
-![Figure 0a updated 14 May 2020[^c]](PNGs/Figure_0a.png)
+![Figure 0a updated 14 May 2020[^v3]](PNGs/Figure_0a.png)
 
-[^c]: The actual generation of Figure 0a was deferred until after
+[^v3]: The actual generation of Figure 0a was deferred until after
 the sample standard deviations for *in* and *non* per 1,000 words
 had been calculated below. Framing the dimensions of the plot to
 twice the standard deviation from the mean along both axes improves
@@ -359,13 +359,30 @@ standard_deviations = frequencies[samples].std(axis = 1).to_frame('std')
 | et  |    22.7990 | 25.7911 |    24.2020 | 24.2640 | 1.4970 |
 | est |    17.0155 | 18.0538 |    11.7152 | 15.5948 | 3.3997 |
 
----
-
-The formula used to calculate the z-score is:
+As noted above, the definition of a value's z-score is the difference
+of that value from the mean divided by the standard deviation. A
+z-score can be calculated for a value even if that value was not
+used to determine the mean and standard deviation to be used. That
+means that z-scores can be calculated for word frequencies in the
+unattributed sample Gratian0 using the means and standard deviations
+calculated using the corresponding word frequencies in the attributed
+samples Gratian1, dePen, and Gratian2. Just as word frequencies
+were calculated for Gratian0 above, z-scores will be calculated for
+Gratian0 here, which will be used in the next section to determine
+the value of Burrows's Delta. The formula used to calculate the
+z-score is:
 
 $z=\frac{x - \bar{x}}{s}$
 
-For the frequency of *in* in the first-recension *dicta* (Gratian1):
+For the frequency of *in* in the case statements or *themata* (Gratian0):
+
+$z =
+\frac{x - \bar{x}}{s} =
+\frac{20.5270 - 26.4656}{2.0691} =
+\frac{-5.9386}{2.0691} =
+-2.8702$,
+
+for the frequency of *in* in the first-recension *dicta* (Gratian1):
 
 $z =
 \frac{x - \bar{x}}{s} =
@@ -389,9 +406,13 @@ $z =
 \frac{2.3664}{2.0691} =
 1.1437$.
 
-Because both the numerator and the denominator of the formula for
+(Because both the numerator and the denominator of the formula for
 calculating z-scores have units of frequency of occurrence per 1,000
-words, z is a dimensionless number.
+words, z is a dimensionless number.)
+
+Calculate the z-scores for the remaining most frequent words, and
+then plot the coordinates of the attributed samples Gratian1, dePen,
+and Gratian2:
 
 ```python
 z_scores = (frequencies - means.values) / standard_deviations.values
@@ -420,30 +441,4 @@ of occurrence in the samples. This is not necessarily the case, and
 an advanced technique introduced below, principal component analysis
 (PCA), handles this problem in a more mathematically sophisticated
 way.
-
-[^a]: The formula used to calculate the population standard
-deviation is:
-
-    $\sigma=\sqrt{\frac{1}{N}\sum_{i=1}^N(x_i-\mu)^2}$
-
-    As of 10 February 2020, there is a bug in the `pstdev()` function
-    in the standard Python 3 statistics library such that the optional
-    `mu =` keyword argument to override the value of mean does not work.
-    Thanks to Saturnino Garcia (University of San Diego Department of
-    Computer Science) and James Krooskos (UC San Diego Alzheimer's
-    Disease Cooperative Study) for help reproducing this bug.
-
-    ~~~ {python}
-    import math
-    import statistics
-    def pstdev(data, **kwargs):
-        '''Temporary replacement for statistics.pstdev()'''
-        mu = None
-        if 'mu' in kwargs: mu = kwargs['mu'] # type check: int, float, or None
-        if mu == None: mu = statistics.mean(data)
-        sum = 0
-        for i in range(len(data)):
-            sum += (data[i] - mu) ** 2
-        return(math.sqrt(sum / len(data)))
-    ~~~
 
