@@ -54,7 +54,7 @@ corpus of text should be one half that of the most frequent word,
 the frequency of the third most frequent word should be one third
 that of the most frequent word, and so on. (See Figure Za below.)
 
-![Figure Za updated 12 Mar 2020](PNGs/Figure_Za.png)
+![Figure Za updated 27 May 2020](PNGs/Figure_Za.png)
 
 Zipf tried several different approaches to the quantitative analysis
 of the distribution of words in corpora. His initial attempt, in
@@ -134,7 +134,7 @@ frequencies in Figure Zb, and -0.6518 for the actual frequencies
 of the thirty most frequent words in Gratian's *dicta* in Figure
 Zd.
 
-![Figure Zb updated 12 Mar 2020](PNGs/Figure_Zb.png)
+![Figure Zb updated 27 May 2020](PNGs/Figure_Zb.png)
 
 Figure Zc below plots the actual rank-frequency distribution of the
 thirty most frequent words (MFWs) in Gratian's *dicta*: *in* (2187),
@@ -145,7 +145,7 @@ thirty most frequent words (MFWs) in Gratian's *dicta*: *in* (2187),
 (405), *ab* (391), *ait* (349), *esse* (339), *ergo* (338), *quia*
 (336), *item* (327), *per* (304), *nec* (293).
 
-![Figure Zc updated 12 Mar 2020](PNGs/Figure_Zc.png)
+![Figure Zc updated 27 May 2020](PNGs/Figure_Zc.png)
 
 Zipf used word frequencies hand-tabulated from James Joyce's *Ulysses*
 as the data set for his exploration of the rank-frequency relationship,
@@ -169,15 +169,15 @@ logarithmic) frame of reference used in Figure Zc, the expression
 1/r ^0.6518^ yields a better (though not perfect) fit to the actual
 rank-frequency data.
 
-![Figure Zd updated 12 Mar 2020](PNGs/Figure_Zd.png)
+![Figure Zd updated 27 May 2020](PNGs/Figure_Zd.png)
 
 ### Zipf's law (appendix)
 
-![Figure Ze updated 12 Mar 2020](PNGs/Figure_Ze.png)
+![Figure Ze updated 27 May 2020](PNGs/Figure_Ze.png)
 
-![Figure Zy updated  6 Apr 2020](PNGs/Figure_Zy.png)
+![Figure Zy updated 27 May 2020](PNGs/Figure_Zy.png)
 
-![Figure Zz updated  6 Apr 2020[^z7]](PNGs/Figure_Zz.png)
+![Figure Zz updated 27 May 2020[^z7]](PNGs/Figure_Zz.png)
 
 [^z1]: @zipf_psycho-biology_1935, 39-48; and @zipf_human_1949, 73-131.
 Zipf referred to the relationship as "the law of diminishing returns
