@@ -2,7 +2,7 @@
 author: Paul Evans
 bibliography: ../bib/merged.bib
 csl: ../csl/chicago-fullnote-bibliography.csl
-date: 3-5 April 2020
+date: 27 May 2020
 suppress-bibliography: false
 title: Chapter 4
 subtitle: Zipf's law
