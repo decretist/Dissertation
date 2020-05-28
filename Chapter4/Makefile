@@ -1,4 +1,4 @@
-all: burrows.docx merged.docx
+all: burrows.docx merged.docx pca.docx
 
 burrows.docx: burrows.md ../bib/merged.bib ../ref/draft.docx
 	pandoc -o burrows.docx --filter pandoc-citeproc --reference-doc=../ref/draft.docx burrows.md
@@ -9,6 +9,9 @@ chapter4.docx: chapter4.md ../bib/merged.bib ../ref/draft.docx
 merged.docx: merged.md ../bib/merged.bib ../ref/draft.docx
 	pandoc -o merged.docx --filter pandoc-citeproc --reference-doc=../ref/draft.docx merged.md
 
+pca.docx: pca.md ../bib/merged.bib ../ref/draft.docx
+	pandoc -o pca.docx --filter pandoc-citeproc --reference-doc=../ref/draft.docx pca.md
+
 ICMCL.docx: ICMCL.md project.bib ../ref/reference.docx
 	pandoc -o ICMCL.docx --filter pandoc-citeproc --reference-doc=../ref/reference.docx ICMCL.md
 
@@ -16,5 +19,5 @@ Rem_Non_Novam.docx: Rem_Non_Novam.md project.bib ../ref/reference.docx
 	pandoc -o Rem_Non_Novam.docx --filter pandoc-citeproc --reference-doc=../ref/reference.docx Rem_Non_Novam.md
 
 clean:
-	rm -i burrows.docx chapter4.docx merged.docx
+	rm -i burrows.docx chapter4.docx merged.docx pca.docx
 
