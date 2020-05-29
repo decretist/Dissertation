@@ -9,7 +9,7 @@ subtitle: Principal component analysis
 ---
 But increasing the number of function words also introduces a new
 problem. We were able to represent our stylometric analysis of the
-frequency of "*in*" and "*non*" in the samples from the first- and
+frequency of *in* and *non* in the samples from the first- and
 second-recension *dicta* on a two-dimensional graph. But there will
 be as many dimensions on the graph as there are function words for
 which we collect data. And because human beings are not good at
@@ -21,10 +21,10 @@ useful.[^16]
 PCA first combines as many of the raw dimensions as possible into
 synthetic components on the basis of strong correlations, either
 positive or negative. For example, going back to the data on the
-frequencies of "*in*" and "*non*" in the first- and second-recension
+frequencies of *in* and *non* in the first- and second-recension
 *dicta*, the two dimensions of the graph could be collapsed into a
 single component that could be thought of as representing the
-probability that "*in*" will, and that "*non*" will *not*, occur
+probability that *in* will, and that *non* will *not*, occur
 in a given sample. (And this is, in fact, what the software that
 I'm using for this project does.)
 
@@ -33,45 +33,15 @@ to the total variation between the samples, and graphically arranges
 the samples according to their probability relative to those two
 components.
 
-An important (and time-consuming) aspect of any project of this
-nature is corpus preparation. A baseline requirement for carrying
-out stylometric analysis is the availability of an electronic text.
-Ideally, I would be working with electronic texts of good critical
-editions of both the first and second recensions of Gratian's
-*Decretum*, following consistent orthographic conventions, and
-encoded in a standard format like TEI P5 XML. The Mellon
-Foundation-supported project, directed by Anders Winroth, to edit
-the first recension is making good progress, but is not yet complete
-enough for me to use on this project. So, I am working with the
-electronic text of the Friedberg edition that Timothy Reuter and
-Gabriel Silagi used to produce the *Wortkonkordanz zum Decretum
-Gratiani* for the MGH. [@reuter_wortkonkordanz_1990] The MGH e-text
-is encoded in the obsolete Oxford Concordance Program format.
-
-Anders Winroth and Lou Burnard of the Oxford Text Archive (OTA)
-each provided me with copies of the MGH e-text. The copies differed,
-and I went through an exercise not unlike preparing a critical
-edition to restore the e-text to the state that Reuter and Silagi
-intended.
-
-I generated the sample text for the first-recension *dicta* by
-extracting from the MGH e-text of the Friedberg edition all of the
-*dicta* listed by Winroth in the appendix of *The Making of Gratian's
-Decretum*, and by applying the changes to the *dicta* that differed
-between the first and second recensions. [@winroth_making_2000,
-197-227] I generated the sample text for the second-recension *dicta*
-by starting with all the *dicta* in parts 1 and 2 of the Friedberg
-edition, and then taking away every word that appeared in the
-first-recension *dicta*. For the case statements, I simply used the
-text from the vulgate *Decretum* as it appears in the Friedberg
-edition.[^19]
+For the case statements, I simply used the text from the vulgate
+*Decretum* as it appears in the Friedberg edition.[^19]
 
 Because stylometric analysis for authorship attribution depends on
 the frequencies of prepositions and conjunctions, it is important
 to include enclitics substituting for conjunctions. Every word in
 the samples with a -*que* ending that is actually an enclitic, and
 not just part of the word, has been mapped to the word plus the
-pseudo-conjunction "xque".[^20]
+pseudo-conjunction *xque*.[^20]
 
 Now that we have the preliminaries out of the way, we can take a
 look at the results. I used the stylo R package to generate all of
@@ -81,7 +51,21 @@ Rybicki of the Computational Stylistics Group developed the package,
 and Mike Kestemont in particular has been very generous in his
 technical advice for this project.
 
-![Figure 1 updated 19 Mar 2020](JPGs/3-way_PCA_51_MFWs_001.jpg)
+![Figure 1 updated 28 May 2020](JPGs/4-way_PCA_52_MFWs_001.jpg)
+
+```
+------------------------------------------------
+features (e.g. frequent words) actually analyzed
+------------------------------------------------
+
+  [1]  in       et       non      de       quod     ad       sed      uel
+  [9]  unde     si       ut       a        autem    cum      ex       enim
+ [17]  uero     etiam    ab       ergo     quia     item     per      nec
+ [25]  an       sicut    ita      nisi     tamen    pro      quam     sic
+ [33]  quo      sine     aut      licet    post     contra   siue     quoque
+ [41]  ante     ne       inter    super    atque    dum      apud     postea
+ [49]  ideo     propter  ecce     quomodo
+```
 
 Here is the plot of a three-way comparison between the case statements,
 the first-recension *dicta*, and the second-recension *dicta*,
@@ -100,29 +84,29 @@ to take a look at which function words are producing that effect.
 
 ![Figure 2 updated 19 Mar 2020](JPGs/3-way_PCA_51_MFWs_Loadings_001.jpg)
 
-Turning on a stylo option called "feature loadings" lets us see how
-strongly particular words influence the placement of text samples
-along the PC1 and PC2 axes. The documentation calls this the feature's
-"discriminative strength." For example, we see that "*sed*" and
-"*non*" are way out on the right of the PC1 axis, while "*unde*"
-is way down at the bottom of the PC2 axis.
+Turning on the stylo feature loadings option lets us see how strongly
+particular words influence the placement of text samples along the
+PC1 and PC2 axes. This is called the feature's discriminative
+strength. For example, we see that *sed* and *non* are way out on
+the right of the PC1 axis, while *unde* is way down at the bottom
+of the PC2 axis.
 
 Remember that in our first experiment with counting function words,
-"*non*", the second most common word in the samples, was strongly
-associated with the first-recension *dicta*. Here we see "*non*"
+*non*, the second most common word in the samples, was strongly
+associated with the first-recension *dicta*. Here we see *non*
 on the far right, and in fact the samples from the first-recension
 *dicta* (but not from the second-recension *dicta*) tend to spread
-out to the right. Note also that "*in*", the most common word in
+out to the right. Note also that *in*, the most common word in
 the samples, is actually pretty close to the middle. So, it's not
 so much that the second-recension *dicta* have more occurrences of
-"*in*", it's that the first-recension *dicta* have fewer.
+*in*, it's that the first-recension *dicta* have fewer.
 
-What is really interesting here is that "*an*" and "*si*" cluster
-with the case statements, "*an*" very strongly, "*si*" somewhat
+What is really interesting here is that *an* and *si* cluster
+with the case statements, *an* very strongly, *si* somewhat
 less so. This makes sense because indirect questions dominate the
 language of the case statements. It is a question of genre. So the
 next step in the stylometric analysis is to control for genre by
-removing the question words "*an*" and "*si*" from the list of
+removing the question words *an* and *si* from the list of
 function words.
 
 ![Figure 3 updated 19 Mar 2020](JPGs/3-way_PCA_49_MFWs_001.jpg)
@@ -131,8 +115,8 @@ We've now reached the final stage of the three-way comparison between
 the case statements, the first-recension *dicta*, and the
 second-recension *dicta*. We are now using the 49 most frequent
 words on our function list instead of the 51 most frequent words,
-having commented out "*an*" and "*si*". And even without "*an*" and
-"*si*", PC1 still explains 10.5% of the total variation between the
+having commented out *an* and *si*. And even without *an* and
+*si*, PC1 still explains 10.5% of the total variation between the
 samples, down slightly from 11.2%. PC2 still explains 7.3% of the
 total variation between the samples. So, even controlling for genre,
 the distance between the case statements and the *dicta*---both
