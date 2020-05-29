@@ -82,7 +82,7 @@ most striking feature of this plot is the fact that the case
 statements are so far away from the *dicta*, and the next step is
 to take a look at which function words are producing that effect.
 
-![Figure 2 updated 19 Mar 2020](JPGs/3-way_PCA_51_MFWs_Loadings_001.jpg)
+![Figure 2 updated 28 May 2020](JPGs/4-way_PCA_52_MFWs_Loadings_001.jpg)
 
 Turning on the stylo feature loadings option lets us see how strongly
 particular words influence the placement of text samples along the
@@ -208,7 +208,7 @@ C.19 d.init. has no effect on the outcome of these tests.**
 [^20]: In the case statements, 1st-, and 2nd-recension *dicta* from
 Gratian's *Decretum*, there are 747 occurrences of 79 unique words
 ending in -*que*. (This does not count 423 occurrences of the word
-'*que*' itself.) Of those, 498 are occurrences of 19 unique words
+*que* itself.) Of those, 498 are occurrences of 19 unique words
 from Schinke's 54-word pass list, while 249 occurrences of 60 unique
 words are not. It is from these 249 words that, according to Schinke,
 the -*que* ending should be detached as an enclitic.
@@ -228,14 +228,14 @@ the -*que* ending should be detached as an enclitic.
     the -*que* ending should actually be detached as an enclitic.
 
     False positives over-represent the frequency of occurrence of
-    the '-*que*’ enclitic as a conjunction by an order of magnitude.
-    Including all false positives makes 'xque' the 37th most frequent
+    the -*que* enclitic as a conjunction by an order of magnitude.
+    Including all false positives makes *xque* the 37th most frequent
     word in the sample, while excluding them makes it the 376th
     most frequent word. There are 55 occurrences of the word
-    '*namque*', the most frequently occurring false positive.
-    Detaching the '-*que*' ending from '*namque*' overstates the
-    frequency of '*nam*', making what is actually the 480th most
-    frequent word appear to be the 130th, while making '*namque*',
+    *namque*, the most frequently occurring false positive.
+    Detaching the -*que* ending from *namque* overstates the
+    frequency of *nam*, making what is actually the 480th most
+    frequent word appear to be the 130th, while making *namque*,
     which is actually the 176th most frequent word in the samples
     when false positives are excluded, disappear from the list
     altogether.
