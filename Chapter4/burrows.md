@@ -2,7 +2,7 @@
 author: Paul Evans
 bibliography: ../bib/merged.bib
 csl: ../csl/chicago-fullnote-bibliography.csl
-date: 3 June 2020
+date: 4 June 2020
 suppress-bibliography: false
 title: Chapter 4
 subtitle: Burrows's Delta
@@ -93,7 +93,7 @@ other1 (C.7-10 R1 *dicta*), other2 (C.11-15 R1 *dicta*), monastic
 (C.16-20 R1 *dicta*), other3 (C.21-22 R1 *dicta*), heresy (C.23-26
 R1 *dicta*), marriage (C.27-36 R1 *dicta*), penance (R1 and R2
 *dicta* from *de Penitentia*), and second (all R2 *dicta*, excluding
-those from *de Penitentia*). For each of the fourteen subcorpora,
+those from *de Penitentia*).[^b1] For each of the fourteen subcorpora,
 we will hypothesize each subcorpus in turn to be the work of an
 unknown author, and will treat the other thirteen subcorpora as
 composing a corpus of works by a known author. The scale of the
@@ -102,3 +102,6 @@ by John Burrows and David Hoover, the pioneers of the technique,
 but makes it impractical to show the results at every intermediate
 step in the process.
 
+[^b1]: The division of the first-recension (R1) *dicta* into twelve
+sections follows the division of Gratian's *Decretum* proposed by
+Alfred Beyer in -@beyer_lokale_1998, 17-18.
