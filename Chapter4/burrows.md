@@ -2,7 +2,7 @@
 author: Paul Evans
 bibliography: ../bib/merged.bib
 csl: ../csl/chicago-fullnote-bibliography.csl
-date: 10 April 2020
+date: 3 June 2020
 suppress-bibliography: false
 title: Chapter 4
 subtitle: Burrows's Delta
@@ -20,9 +20,9 @@ linguistics.
 Every attribution experiment starts from an hypothesis (sometimes
 implicit rather than explicit) concerning authorship. The two-dimensional
 visualization above proceeded from the traditional assumption that
-Gratian's *dicta* --- defined as the hypothetical case statements
+Gratian's *dicta*---defined as the hypothetical case statements
 (*themata*) plus the first- and second-recension *dicta* including
-the *dicta* from *de Pen*. --- are the work of a unitary author,
+the *dicta* from *de Pen*.---are the work of a unitary author,
 the eponymous Gratian. The consequence of that assumption for the
 purpose of experimental design (the design of that demonstration)
 is that we can treat the corpus of texts analyzed in that
@@ -34,62 +34,71 @@ frequency variations among/between samples within that population.
 (Explain that 2-D viz separated the population into R1, R2, and
 other [define].)
 
-Attempts to attribute authorship, however, are typically undertaken
-in scenarios where there is a large (enough) number of texts securely
-attributable to a known author, and a text, or at most a small
-number of texts, of unknown authorship. The attempt is then made
-to attribute the unknown text to the known author, or to rule out
-such an attribution. Take *The Federalist* as an example. There are
-numbers of the Federalist of disputed or unknown attribution, a
-small and well-defined number of candidates for authorship ---
-Hamilton, Jay, Madison --- to whom those numbers might be attributed,
-and securely attributed samples from each of the candidates, from
+---
+
+Attempts to attribute authorship are typically undertaken in scenarios
+where there is a large (enough) number of texts securely attributable
+to a known author, and a text, or at most a small number of texts,
+of unknown authorship. The attempt is then made to attribute the
+unknown text to a known author, or to rule out such an attribution.
+Take the *Federalist* as an example. There are numbers of the
+*Federalist* of disputed or unknown attribution, a small and
+well-defined number of candidates for authorship---Hamilton, Jay,
+Madison---to whom those numbers might be attributed, and securely
+attributed samples from each of the candidates, conveniently from
 the same work no less.
 
-This is obviously not possible (this is not the case) with the
-*dicta* from Gratian's *Decretum*. As the survey in Chapter 3 *supra*
-indicated, near-contemporaries knew next to nothing about Gratian.
-Perhaps most notably, although Gratian was thought to have been a
-teacher, no one in the generation following made an unambiguous
-claim to have been his student. There are no other writings securely,
-or even insecurely, attributed to him. That does not mean that we
+Such an approach is obviously not possible in the case of the *dicta*
+from Gratian's *Decretum*. As the survey in Chapter 3 above indicated,
+near-contemporaries knew next to nothing about Gratian. Perhaps
+most notably, although Gratian was thought to have been a teacher,
+no one in the generation following made an unambiguous claim to
+have been his student. There are no other writings securely, or
+even insecurely, attributed to him. That does not mean that we
 cannot apply the established techniques of authorship attribution
 to Gratian's *dicta*, but it does mean that we have to make careful
-(intentional) decisions about experimental design.
+decisions about experimental design.
 
-Introducing Burrow's Delta **(define)** at this point advances my
-argument in two ways. As a technical matter, Burrows's Delta gets
-around the limitation on the number of words to the two or, at best,
-three dimensions that the human mind can visualize by collapsing
-distance measurements across an arbitrary number of dimensions into
-a single metric, the 'Delta'. It can also be fairly straightforwardly
-adapted to the particular situation in which we find ourselves where
-there are no other texts securely attributed to Gratian with which
-we can compare, for example, the hypothetical case statements
-(*themata*) or second-recension *dicta*.
+Introducing Burrow's Delta at this point advances the argument in
+two ways. As a technical matter, Burrows's Delta gets around the
+limitation on the number of words to the two or, at best, three
+dimensions that the human mind can visualize by collapsing distance
+measurements across an arbitrary number of dimensions into a single
+metric, the 'Delta'. It can also be fairly straightforwardly adapted
+to the particular situation in which we find ourselves where there
+are no other texts securely attributed to Gratian with which we can
+compare, for example, the hypothetical case statements (*themata*)
+or second-recension *dicta*.
 
 Two experiments that demonstrate how Burrow's Delta can be applied
 to meet both of these objectives follow. The first will be a
-comparison of the hypothetical case statements (*themata*) with the
-first- and second-recension *dicta* (both including the *dicta*
-from *de Pen*.), using the frequencies of occurrence of the four
-most frequent words (MFWs) in Gratian's *dicta* as the basis for
-comparison. For each of the three subcorpora, we will hypothesize
-each subcorpus in turn to be the work of an unknown author, and
-will treat the other two subcorpora as making up a corpus of works
-by a known author. Using three subcorpora and four dimensions makes
-the solution compact enough to show all the intermediate steps. The
-second experiments will compare the thirty most frequent words
-(MFWs) across ten subcorpora: cases (C.1-36 d.init.), laws (D.1-20
-R1 *dicta*), orders1 (D.21-80 R1 *dicta*), orders2 (D.81-101 R1
-*dicta*), monastic (C.16-20 R1 *dicta*), heresy (C.23-26 R1 *dicta*),
-marriage (C.27-36 R1 *dicta*), penance (*de Pen*. R1 *dicta*), other
-(all other R1 *dicta*), and second (all R2 *dicta*, including *de
-Pen*.). For each of the ten subcorpora, we will hypothesize each
-subcorpus in turn to be the work of an unknown author, and will
-treat the other nine subcorpora as composing a corpus of works by
-a known author. The scale of the second experiment is closer to
-that of the experiments carried out by John Burrows and David Hoover,
-the pioneers of the technique, but makes it impractical to show the
-results at every intermediate step in the process.
+comparison of four subcorpora, Gratian0 (the hypothetical case
+statements or *themata*), Gratian1 (the first-recension *dicta*
+excluding the *dicta* from *de Penitentia*), dePen (first- and
+second-recension *dicta* from *de Penitentia*), and Gratian2 (the
+second-recension *dicta* excluding the *dicta* from *de Penitentia*),
+using the frequencies of occurrence of the four most frequent words
+(MFWs) in Gratian's *dicta* as the basis for comparison. We will
+hypothesize that the subcorpus containing the hypothetical case
+statements (*themata*) is the work of an unknown author, and will
+treat the other three subcorpora as making up a corpus of works by
+a known author. Using four subcorpora and four dimensions makes the
+solution compact enough to show all of the intermediate steps.
+
+The second experiment will compare the thirty most frequent words
+(MFWs) across fourteen subcorpora: cases (C.1-36 d.init.), laws
+(D.1-20 R1 *dicta*), orders1 (D.21-80 R1 *dicta*), orders2 (D.81-101
+R1 *dicta*), simony (C.1 R1 *dicta*), procedure (C.2-6 R1 *dicta*),
+other1 (C.7-10 R1 *dicta*), other2 (C.11-15 R1 *dicta*), monastic
+(C.16-20 R1 *dicta*), other3 (C.21-22 R1 *dicta*), heresy (C.23-26
+R1 *dicta*), marriage (C.27-36 R1 *dicta*), penance (R1 and R2
+*dicta* from *de Penitentia*), and second (all R2 *dicta*, excluding
+those from *de Penitentia*). For each of the fourteen subcorpora,
+we will hypothesize each subcorpus in turn to be the work of an
+unknown author, and will treat the other thirteen subcorpora as
+composing a corpus of works by a known author. The scale of the
+second experiment is closer to that of the experiments carried out
+by John Burrows and David Hoover, the pioneers of the technique,
+but makes it impractical to show the results at every intermediate
+step in the process.
 
