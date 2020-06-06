@@ -1,4 +1,4 @@
-all: burrows.docx merged.docx pca.docx
+all: burrows.docx
 
 burrows.docx: burrows.md ../bib/merged.bib ../ref/draft.docx
 	pandoc -o burrows.docx --filter pandoc-citeproc --reference-doc=../ref/draft.docx burrows.md

@@ -2,7 +2,7 @@
 author: Paul Evans
 bibliography: ../bib/merged.bib
 csl: ../csl/chicago-fullnote-bibliography.csl
-date: 4 June 2020
+date: 6 June 2020
 suppress-bibliography: false
 title: Chapter 4
 subtitle: Burrows's Delta
@@ -30,9 +30,6 @@ test/demonstration as the entire population of words attributable
 to the author Gratian. Population standard deviation was therefore
 the appropriate statistical technique to apply to visualize word
 frequency variations among/between samples within that population.
-
-(Explain that 2-D viz separated the population into R1, R2, and
-other [define].)
 
 ---
 
@@ -101,6 +98,57 @@ second experiment is closer to that of the experiments carried out
 by John Burrows and David Hoover, the pioneers of the technique,
 but makes it impractical to show the results at every intermediate
 step in the process.
+
+---
+
+|     |   Gratian0 |   Gratian1 |     dePen |   Gratian2 |
+|:----|-----------:|-----------:|----------:|-----------:|
+| in  |   -2.87019 | -0.434152  | -0.709549 |  1.1437    |
+| non |   -6.54914 | -0.0361467 |  1.01758  | -0.981437  |
+| et  |   -3.23751 | -0.978645  |  1.02007  | -0.0414224 |
+| est |   -3.52638 |  0.417881  |  0.723278 | -1.14116   |
+
+---
+
+|     |   Gratian0 |
+|:----|-----------:|
+| in  |   -2.87019 |
+| non |   -6.54914 |
+| et  |   -3.23751 |
+| est |   -3.52638 |
+
+---
+
+|     |   Gratian1 |   dePen |   Gratian2 |
+|:----|-----------:|--------:|-----------:|
+| in  |    2.43604 | 2.16064 |    4.01389 |
+| non |    6.51299 | 7.56672 |    5.5677  |
+| et  |    2.25886 | 4.25757 |    3.19608 |
+| est |    3.94426 | 4.24965 |    2.38522 |
+
+---
+
+|          |   Gratian1 |   dePen |   Gratian2 |
+|:---------|-----------:|--------:|-----------:|
+| Gratian0 |    3.78804 | 4.55865 |    3.79072 |
+
+---
+
+|          |   Gratian0 |   Gratian1 |      dePen |   Gratian2 |
+|:---------|-----------:|-----------:|-----------:|-----------:|
+| Gratian0 |  nan       |   3.78804  |   4.55865  |   3.79072  |
+| Gratian1 |    1.43613 | nan        |   0.362766 |   0.545326 |
+| dePen    |    1.98731 |   0.451469 | nan        |   0.767281 |
+| Gratian2 |    1.71849 |   0.627777 |   0.790456 | nan        |
+
+---
+
+|          |      psAug |   Gratian1 |      dePen |   Gratian2 |
+|:---------|-----------:|-----------:|-----------:|-----------:|
+| psAug    | nan        |   2.64561  |   1.7373   |   3.43185  |
+| Gratian1 |   1.02276  | nan        |   0.465323 |   0.932542 |
+| dePen    |   0.517843 |   0.473271 | nan        |   1.34527  |
+| Gratian2 |   5.20047  |   3.35742  |   4.28572  | nan        |
 
 [^b1]: The division of the first-recension (R1) *dicta* into twelve
 sections follows the division of Gratian's *Decretum* proposed by
