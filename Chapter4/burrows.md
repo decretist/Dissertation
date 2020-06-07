@@ -7,43 +7,39 @@ suppress-bibliography: false
 title: Chapter 4
 subtitle: Burrows's Delta
 ---
-The technique of plotting word frequency data by z-score is known
-as Burrows's Delta, after John F. Burrows (d.2019) of the University
-of Newcastle, Australia, who first proposed the metric in 2001. It
-has the advantage of making the statistical significance of plotted
-data apparent in a way that plotting raw frequency data does not.
-Burrows's Delta is one of a number of distance methods of authorship
-attribution, but has the particular advantage of being widely
-accepted in the scholarly literature of the field of computational
-linguistics.
+The plotting examples presented in the previous section are suggestive
+of ways in which differences between the frequencies of occurrence of
+common words in samples from a corpus of texts can be quantified
+in statistically meaningful units (standard deviations or values
+of z) and combined to represent the distance between those samples.
+This technique is, however, of limited value so long as we are
+restricted to the two, or at most three, dimensions the human mind
+is capable of visualizing. In 2001, John F. Burrows (d.2019) of the
+University of Newcastle, Australia, proposed a generalization that
+gets around the limitation on the number of words to two or three
+dimensions by collapsing z-score distance measurements of word
+frequency data across an arbitrary number of dimensions into a
+single metric. Burrows applied the metric, which he called the
+Delta, in the context of a new technique for authorship attribution.
+Although other distance methods of authorship attribution have been
+proposed since, Burrows's Delta is widely accepted in the scholarly
+literature of the field of computational linguistics, and it will
+therefore be used as the basis for the demonstrations in this
+section.
 
 Every attribution experiment starts from an hypothesis (sometimes
-implicit rather than explicit) concerning authorship. The two-dimensional
-visualization above proceeded from the traditional assumption that
-Gratian's *dicta*---defined as the hypothetical case statements
-(*themata*) plus the first- and second-recension *dicta* including
-the *dicta* from *de Pen*.---are the work of a unitary author,
-the eponymous Gratian. The consequence of that assumption for the
-purpose of experimental design (the design of that demonstration)
-is that we can treat the corpus of texts analyzed in that
-test/demonstration as the entire population of words attributable
-to the author Gratian. Population standard deviation was therefore
-the appropriate statistical technique to apply to visualize word
-frequency variations among/between samples within that population.
-
----
-
-Attempts to attribute authorship are typically undertaken in scenarios
-where there is a large (enough) number of texts securely attributable
-to a known author, and a text, or at most a small number of texts,
-of unknown authorship. The attempt is then made to attribute the
-unknown text to a known author, or to rule out such an attribution.
-Take the *Federalist* as an example. There are numbers of the
-*Federalist* of disputed or unknown attribution, a small and
-well-defined number of candidates for authorship---Hamilton, Jay,
-Madison---to whom those numbers might be attributed, and securely
-attributed samples from each of the candidates, conveniently from
-the same work no less.
+implicit rather than explicit) concerning authorship. Attempts to
+attribute authorship are typically undertaken in scenarios where
+there is a large (enough) number of texts securely attributable to
+a known author, and a text, or at most a small number of texts, of
+unknown authorship. The attempt is then made to attribute the unknown
+text to a known author, or to rule out such an attribution. Take
+the *Federalist* as an example. There are numbers of the *Federalist*
+of disputed or unknown attribution, a small and well-defined number
+of candidates for authorship---Hamilton, Jay, Madison---to whom
+those numbers might be attributed, and securely attributed samples
+from each of the candidates, conveniently from the same work no
+less.
 
 Such an approach is obviously not possible in the case of the *dicta*
 from Gratian's *Decretum*. As the survey in Chapter 3 above indicated,
@@ -51,21 +47,13 @@ near-contemporaries knew next to nothing about Gratian. Perhaps
 most notably, although Gratian was thought to have been a teacher,
 no one in the generation following made an unambiguous claim to
 have been his student. There are no other writings securely, or
-even insecurely, attributed to him. That does not mean that we
-cannot apply the established techniques of authorship attribution
-to Gratian's *dicta*, but it does mean that we have to make careful
-decisions about experimental design.
+even insecurely, attributed to him. Fortunately, Burrows's Delta
+can be readily adapted to the particular situation in which we find
+ourselves, where there are no other texts attributed to Gratian
+with which we can compare, for example, the hypothetical case
+statements (*themata*) or second-recension *dicta*.
 
-Introducing Burrow's Delta at this point advances the argument in
-two ways. As a technical matter, Burrows's Delta gets around the
-limitation on the number of words to the two or, at best, three
-dimensions that the human mind can visualize by collapsing distance
-measurements across an arbitrary number of dimensions into a single
-metric, the 'Delta'. It can also be fairly straightforwardly adapted
-to the particular situation in which we find ourselves where there
-are no other texts securely attributed to Gratian with which we can
-compare, for example, the hypothetical case statements (*themata*)
-or second-recension *dicta*.
+---
 
 Two experiments that demonstrate how Burrow's Delta can be applied
 to meet both of these objectives follow. The first will be a
