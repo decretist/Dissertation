@@ -2,7 +2,7 @@
 author: Paul Evans
 bibliography: ../bib/merged.bib
 csl: ../csl/chicago-fullnote-bibliography.csl
-date: 8 June 2020
+date: 9 June 2020
 suppress-bibliography: false
 title: Chapter 4
 subtitle: Burrows's Delta
@@ -80,7 +80,21 @@ enough to allow readers to follow along and reassure themselves of
 the mathematical validity of all of the intermediate steps leading
 to the final result.
 
-$\Delta_B = \frac{1}{N}\sum_{i = 1}^N|z_i(t) - z_i(c)|$
+The first experiment resumes directly where the two-dimensional
+visualization demonstration left off, so all function definitions
+and variable values in force at the conclusion of that demonstration
+are still valid. In particular, this experiment inherits the z-scores
+for all of the four most frequent words (MFWs). While we disregarded
+the data for the third and fourth most frequent words (*et* and
+*est*) for the purpose of the visualization demonstration, they
+will be fully taken into account here. (Remember that the values
+for mean and standard deviations used to derive the z-scores were
+calculated without reference to the Gratian0 sample here being
+treated as the unknown).
+
+First, split the z-scores into two new dataframes, one for the test
+sample Gratian0, assumed for the purpose of this experiment to be
+the work of an unknown author:
 
 ```python
 test = z_scores[[unknown]]
@@ -93,6 +107,10 @@ test = z_scores[[unknown]]
 | et  |    -3.2375 |
 | est |    -3.5264 |
 
+the other for the comparison samples Gratian1, dePen, and Gratian2,
+assumed for the purpose of this experiment to represent the work
+of known authors:
+
 ```python
 corpus = z_scores[samples]
 ```
@@ -103,6 +121,24 @@ corpus = z_scores[samples]
 | non |    -0.0361 |  1.0176 |    -0.9814 |
 | et  |    -0.9786 |  1.0201 |    -0.0414 |
 | est |     0.4179 |  0.7233 |    -1.1412 |
+
+The formula used to calculate Burrows's Delta is:
+
+$\Delta_B = \frac{1}{N}\sum_{i = 1}^N|z_i(t) - z_i(c)|$
+
+It is easiest to deal with the formula in two steps, first evaluating
+the expression $|z_i(t) - z_i(c)|$. Note that because we take the
+absolute value of the result, the order of operands on either side
+of the subtraction operator '-' does not matter. For each of the
+three columns (Gratian1, dePen, and Gratian2) in the *corpus*
+dataframe, subtract the z-score in each row from the z-score in the
+same row of the *test* (Gratian0) dataframe, take the absolute
+value, and record the result in the corresponding column and row
+of the *differences* dataframe. For example, the z-score for *non*
+in *test* (Gratian0) is -6.5491, the z-score for *non* in the
+Gratian1 column of *corpus* is -0.0361, so the absolute value of
+the difference recorded in the *non* row of the Gratian1 column of
+*differences* would be 6.5130.
 
 ```python
 differences = (test.values - corpus).abs()
@@ -115,6 +151,14 @@ differences = (test.values - corpus).abs()
 | et  |     2.2589 |  4.2576 |     3.1961 |
 | est |     3.9443 |  4.2497 |     2.3852 |
 
+Given the layout of the *differences* dataframe in which we have
+stored the intermediate results, the part of the formula we deferred
+dealing with ($\frac{1}{N}\sum_{i = 1}^N$) is simply a notationally
+exact way of indicating that we are to take the average (arithmetic
+mean) of the values in each of the columns, and record the resulting
+value of $\Delta_B$ in the corresponding column of the *deltas*
+dataframe.
+
 ```python
 row = (differences.mean(axis = 0)).to_frame(unknown).transpose()
 ```
@@ -122,6 +166,20 @@ row = (differences.mean(axis = 0)).to_frame(unknown).transpose()
 |          |   Gratian1 |   dePen |   Gratian2 |
 |:---------|-----------:|--------:|-----------:|
 | Gratian0 |      3.788 |  4.5586 |     3.7907 |
+
+The Gratian1 subcorpus is just slightly closer than the Gratian2
+subcorpus to the unknown Gratian0 test case, with values of Delta
+for both rouding to 3.79. A candidate is defined as being *closest*
+to the unknown when it has the lowest mean of the absolute values
+of the differences between the z-scores for the unknown and the
+candidate.But as Burrows pointed out, one candidate will always
+have the lowest $\Delta_B$, so that in itself is not enough to make
+or to rule out an attribution of authorship. We will need further
+information before we can provide any kind of interpretation for
+the result. The most we can say based on this result is that the
+hypothetical case statments are less likely to have been written
+by the author of the *dicta* in *de Penitentia* than by the authors
+of the first- and second-recension *dicta*.
 
 The second experiment is a variation on the first, in which a
 3881-word sample made up of seven extended passages from the
@@ -181,6 +239,22 @@ for candidate in candidates:
 | dePen    |     1.9873 |     0.4515 | nan      |     0.7673 |
 | Gratian2 |     1.7185 |     0.6278 |   0.7905 |   nan      |
 
+Considering the results of the first three experiments together,
+we can start to form some very preliminary conclusions. Based on
+the values for $\Delta_B$ in the table above, the most likely
+attribution is that the first-recension *dicta* (Gratian1) and the
+*dicta* from *de Penitentia* (dePen) have the same author. It is
+less likely that the first-recension *dicta* (Gratian1) and the
+second-recension *dicta* (Gratian2) have the same author. It is
+less likely still that the *dicta* from *de Penitentia* and the
+second-recension *dicta* have the same author. It is much less
+likely that the case statements (Gratian0) have the same author as
+either the first- (Gratian1) or second-recension (Gratian2) *dicta*.
+Finally, the least likely attribution is that the case statements
+(Gratian0) have the same author as the *dicta* from *de Penitentia*.
+
+---
+
 The fourth and final experiment will compare the thirty most frequent
 words (MFWs) across fourteen subcorpora: cases (C.1-36 d.init.),
 laws (D.1-20 R1 *dicta*), orders1 (D.21-80 R1 *dicta*), orders2
@@ -202,13 +276,13 @@ at every step in the process.
 
 [^b3]: *de Penitentia* D.1 c.88 (R1), D.3 c.42 (R1), D.3 c.49 (R1),
 D.5 c.1 (R1), D.6 c.1 (R1), and D.7 c.6 (R1). These seven extended
-passages average 554.4 words in length. **See Friedberg, 1.XXXV,
-for a complete list of passages from *De vera et falsa penitentia*
-quoted in the *Decretum*. Explain rationale for omitting certain
-passages: D.25 c.5 (R2 or Palea), *de Penitentia* D.3 c.4.5 (what
-Friedberg means by "4.5" in this context is unclear), D.3 c.45 (R2).
-Acknowledge Karen Teresa Wagner, *De vera et falsa penitentia : an
-edition and study*, 1995.**
+passages average 554.4 words in length. **See edF 1.XXXV, for a
+complete list of passages from *De vera et falsa penitentia* quoted
+in the *Decretum*. Explain rationale for omitting certain passages:
+D.25 c.5 (R2 or Palea), *de Penitentia* D.3 c.4.5 (what Friedberg
+means by 4.5 in this context is unclear), D.3 c.45 (R2). Acknowledge
+Karen Teresa Wagner, *De vera et falsa penitentia : an edition and
+study*, 1995.**
 
 [^b4]: The division of the first-recension (R1) *dicta* into twelve
 sections follows the division of Gratian's *Decretum* proposed by
