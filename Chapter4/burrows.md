@@ -169,7 +169,7 @@ row = (differences.mean(axis = 0)).to_frame(unknown).transpose()
 
 The Gratian1 subcorpus is just slightly closer than the Gratian2
 subcorpus to the unknown Gratian0 test case, with values of Delta
-for both rouding to 3.79. A candidate is defined as being *closest*
+for both rounding to 3.79. A candidate is defined as being *closest*
 to the unknown when it has the lowest mean of the absolute values
 of the differences between the z-scores for the unknown and the
 candidate.But as Burrows pointed out, one candidate will always
@@ -177,7 +177,7 @@ have the lowest $\Delta_B$, so that in itself is not enough to make
 or to rule out an attribution of authorship. We will need further
 information before we can provide any kind of interpretation for
 the result. The most we can say based on this result is that the
-hypothetical case statments are less likely to have been written
+hypothetical case statements are less likely to have been written
 by the author of the *dicta* in *de Penitentia* than by the authors
 of the first- and second-recension *dicta*.
 
