@@ -39,8 +39,7 @@ the *Federalist* as an example. There are numbers of the *Federalist*
 of disputed or unknown attribution, a small and well-defined number
 of candidates for authorship---Hamilton, Jay, Madison---to whom
 those numbers might be attributed, and securely attributed samples
-from each of the candidates, conveniently from the same work no
-less.
+from each of the candidates, conveniently from the same work.
 
 Such an approach is obviously not possible in the case of the *dicta*
 from Gratian's *Decretum*. As the survey in Chapter 3 above indicated,
@@ -83,36 +82,45 @@ enough to allow readers to follow along and reassure themselves of
 the mathematical validity of all of the intermediate steps leading
 to the final result.
 
-|     |   Gratian0 |   Gratian1 |     dePen |   Gratian2 |
-|:----|-----------:|-----------:|----------:|-----------:|
-| in  |   -2.87019 | -0.434152  | -0.709549 |  1.1437    |
-| non |   -6.54914 | -0.0361467 |  1.01758  | -0.981437  |
-| et  |   -3.23751 | -0.978645  |  1.02007  | -0.0414224 |
-| est |   -3.52638 |  0.417881  |  0.723278 | -1.14116   |
+|     |   Gratian0 |   Gratian1 |   dePen |   Gratian2 |
+|:----|-----------:|-----------:|--------:|-----------:|
+| in  |    -2.8702 |    -0.4342 | -0.7095 |     1.1437 |
+| non |    -6.5491 |    -0.0361 |  1.0176 |    -0.9814 |
+| et  |    -3.2375 |    -0.9786 |  1.0201 |    -0.0414 |
+| est |    -3.5264 |     0.4179 |  0.7233 |    -1.1412 |
 
 ---
 
 |     |   Gratian0 |
 |:----|-----------:|
-| in  |   -2.87019 |
-| non |   -6.54914 |
-| et  |   -3.23751 |
-| est |   -3.52638 |
+| in  |    -2.8702 |
+| non |    -6.5491 |
+| et  |    -3.2375 |
+| est |    -3.5264 |
 
 ---
 
 |     |   Gratian1 |   dePen |   Gratian2 |
 |:----|-----------:|--------:|-----------:|
-| in  |    2.43604 | 2.16064 |    4.01389 |
-| non |    6.51299 | 7.56672 |    5.5677  |
-| et  |    2.25886 | 4.25757 |    3.19608 |
-| est |    3.94426 | 4.24965 |    2.38522 |
+| in  |    -0.4342 | -0.7095 |     1.1437 |
+| non |    -0.0361 |  1.0176 |    -0.9814 |
+| et  |    -0.9786 |  1.0201 |    -0.0414 |
+| est |     0.4179 |  0.7233 |    -1.1412 |
+
+---
+
+|     |   Gratian1 |   dePen |   Gratian2 |
+|:----|-----------:|--------:|-----------:|
+| in  |     2.436  |  2.1606 |     4.0139 |
+| non |     6.513  |  7.5667 |     5.5677 |
+| et  |     2.2589 |  4.2576 |     3.1961 |
+| est |     3.9443 |  4.2497 |     2.3852 |
 
 ---
 
 |          |   Gratian1 |   dePen |   Gratian2 |
 |:---------|-----------:|--------:|-----------:|
-| Gratian0 |    3.78804 | 4.55865 |    3.79072 |
+| Gratian0 |      3.788 |  4.5586 |     3.7907 |
 
 The second experiment is a variation on the first, in which a
 3881-word sample made up of seven extended passages from the
@@ -128,12 +136,9 @@ sample in place of the case statements demonstrates the kinds of
 results to be expected from Burrows's Delta in a situation in
 which an attribution of authorship can reasonably be ruled out.
 
-|          |      psAug |   Gratian1 |      dePen |   Gratian2 |
-|:---------|-----------:|-----------:|-----------:|-----------:|
-| psAug    | nan        |   2.64561  |   1.7373   |   3.43185  |
-| Gratian1 |   1.02276  | nan        |   0.465323 |   0.932542 |
-| dePen    |   0.517843 |   0.473271 | nan        |   1.34527  |
-| Gratian2 |   5.20047  |   3.35742  |   4.28572  | nan        |
+|       |   Gratian1 |   dePen |   Gratian2 |
+|:------|-----------:|--------:|-----------:|
+| psAug |     2.6456 |  1.7373 |     3.4318 |
 
 The third experiment extends the first by treating each of the
 subcorpora, Gratian0, Gratian1, dePen, and Gratian2 sequentially
@@ -144,12 +149,12 @@ circumstance in which there are no securely attributed comparison
 texts outside of the corpus, and in which there is some reason to
 suspect that there are multiple authors at work within the corpus.
 
-|          |   Gratian0 |   Gratian1 |      dePen |   Gratian2 |
-|:---------|-----------:|-----------:|-----------:|-----------:|
-| Gratian0 |  nan       |   3.78804  |   4.55865  |   3.79072  |
-| Gratian1 |    1.43613 | nan        |   0.362766 |   0.545326 |
-| dePen    |    1.98731 |   0.451469 | nan        |   0.767281 |
-| Gratian2 |    1.71849 |   0.627777 |   0.790456 | nan        |
+|          |   Gratian0 |   Gratian1 |    dePen |   Gratian2 |
+|:---------|-----------:|-----------:|---------:|-----------:|
+| Gratian0 |   nan      |     3.788  |   4.5586 |     3.7907 |
+| Gratian1 |     1.4361 |   nan      |   0.3628 |     0.5453 |
+| dePen    |     1.9873 |     0.4515 | nan      |     0.7673 |
+| Gratian2 |     1.7185 |     0.6278 |   0.7905 |   nan      |
 
 The fourth and final experiment will compare the thirty most frequent
 words (MFWs) across fourteen subcorpora: cases (C.1-36 d.init.),
@@ -183,4 +188,5 @@ edition and study*, 1995.**
 [^b4]: The division of the first-recension (R1) *dicta* into twelve
 sections follows the division of Gratian's *Decretum* proposed by
 Alfred Beyer in -@beyer_lokale_1998, 17-18.
+
 

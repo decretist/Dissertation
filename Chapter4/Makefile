@@ -19,5 +19,5 @@ Rem_Non_Novam.docx: Rem_Non_Novam.md project.bib ../ref/reference.docx
 	pandoc -o Rem_Non_Novam.docx --filter pandoc-citeproc --reference-doc=../ref/reference.docx Rem_Non_Novam.md
 
 clean:
-	rm -i burrows.docx chapter4.docx merged.docx pca.docx
+	rm -i burrows.docx
 
