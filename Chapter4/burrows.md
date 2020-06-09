@@ -2,7 +2,7 @@
 author: Paul Evans
 bibliography: ../bib/merged.bib
 csl: ../csl/chicago-fullnote-bibliography.csl
-date: 7 June 2020
+date: 8 June 2020
 suppress-bibliography: false
 title: Chapter 4
 subtitle: Burrows's Delta
@@ -55,8 +55,6 @@ statements (*themata*) or second-recension *dicta*.
 
 (**Burrows's Delta measures Manhattan Distance.**)
 
----
-
 Although other distance methods of authorship attribution have been
 proposed since,[@evert_understanding_2017] Burrows's Delta is widely
 accepted in the scholarly literature of the field of computational
@@ -82,14 +80,11 @@ enough to allow readers to follow along and reassure themselves of
 the mathematical validity of all of the intermediate steps leading
 to the final result.
 
-|     |   Gratian0 |   Gratian1 |   dePen |   Gratian2 |
-|:----|-----------:|-----------:|--------:|-----------:|
-| in  |    -2.8702 |    -0.4342 | -0.7095 |     1.1437 |
-| non |    -6.5491 |    -0.0361 |  1.0176 |    -0.9814 |
-| et  |    -3.2375 |    -0.9786 |  1.0201 |    -0.0414 |
-| est |    -3.5264 |     0.4179 |  0.7233 |    -1.1412 |
+$\Delta_B = \frac{1}{N}\sum_{i = 1}^N|z_i(t) - z_i(c)|$
 
----
+```python
+test = z_scores[[unknown]]
+```
 
 |     |   Gratian0 |
 |:----|-----------:|
@@ -98,7 +93,9 @@ to the final result.
 | et  |    -3.2375 |
 | est |    -3.5264 |
 
----
+```python
+corpus = z_scores[samples]
+```
 
 |     |   Gratian1 |   dePen |   Gratian2 |
 |:----|-----------:|--------:|-----------:|
@@ -107,7 +104,9 @@ to the final result.
 | et  |    -0.9786 |  1.0201 |    -0.0414 |
 | est |     0.4179 |  0.7233 |    -1.1412 |
 
----
+```python
+differences = (test.values - corpus).abs()
+```
 
 |     |   Gratian1 |   dePen |   Gratian2 |
 |:----|-----------:|--------:|-----------:|
@@ -116,7 +115,9 @@ to the final result.
 | et  |     2.2589 |  4.2576 |     3.1961 |
 | est |     3.9443 |  4.2497 |     2.3852 |
 
----
+```python
+row = (differences.mean(axis = 0)).to_frame(unknown).transpose()
+```
 
 |          |   Gratian1 |   dePen |   Gratian2 |
 |:---------|-----------:|--------:|-----------:|
@@ -148,6 +149,30 @@ attempt to demonstrate the adaptation of Burrows's technique in a
 circumstance in which there are no securely attributed comparison
 texts outside of the corpus, and in which there is some reason to
 suspect that there are multiple authors at work within the corpus.
+
+```python
+# author candidates, e.g. Gratian 1, the Master of Penance, Gratian 2, etc.
+candidates = ['Gratian0', 'Gratian1', 'dePen', 'Gratian2']
+deltas = pd.DataFrame(columns = candidates)
+limit = 4 # 4 most frequent words (MFWs)
+for candidate in candidates:
+    unknown = candidate
+    samples = candidates[:]
+    samples.remove(unknown)
+    features = get_features(samples)
+    mfws = list(features.keys())[:limit]
+    counts = get_counts(mfws, [unknown] + samples)
+    lengths = get_lengths([unknown] + samples)
+    frequencies = (counts / lengths.values) * 1000
+    means = frequencies[samples].mean(axis = 1).to_frame('mean')
+    standard_deviations = frequencies[samples].std(axis = 1).to_frame('std')
+    z_scores = (frequencies - means.values) / standard_deviations.values
+    test = z_scores[[unknown]]
+    corpus = z_scores[samples]
+    differences = (test.values - corpus).abs()
+    row = (differences.mean(axis = 0)).to_frame(unknown).transpose()
+    deltas = deltas.append(row)
+```
 
 |          |   Gratian0 |   Gratian1 |    dePen |   Gratian2 |
 |:---------|-----------:|-----------:|---------:|-----------:|
@@ -188,5 +213,4 @@ edition and study*, 1995.**
 [^b4]: The division of the first-recension (R1) *dicta* into twelve
 sections follows the division of Gratian's *Decretum* proposed by
 Alfred Beyer in -@beyer_lokale_1998, 17-18.
-
 
