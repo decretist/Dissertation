@@ -21,12 +21,11 @@ by averaging z-score distance measurements of word frequency data
 for any number of features. This has the effect of collapsing
 distance measurements in an arbitrary number of dimensions into a
 single metric. Burrows called this metric the Delta, and it is now
-generally referred to as Burrows's Delta ($\Delta_B$).[^b1]
-
-Expositions of Burrows's Delta sometime fail to make a clear enough
-distinction between the metric $\Delta_B$ and the authorship
-attribution methodology in which Burrows applied it. The metric is
-not the methodology.
+generally referred to as Burrows's Delta ($\Delta_B$).[^b1] Expositions
+of Burrows's Delta sometime fail to make a clear enough distinction
+between the metric $\Delta_B$ and the authorship attribution
+methodology in which Burrows applied it. The metric is not the
+methodology.
 
 Attempts to attribute authorship are typically undertaken in scenarios
 where there is a large (enough) number of texts securely attributable
@@ -69,6 +68,17 @@ dePen, and Gratian2, (2,113 occurrences out of 81,049 words or
 26.0706 per 1,000), but rather the mean of the normalized frequencies
 of *in* for each of the samples (the mean of 25.5673, 24.9975, and
 28.8320, or 26.4656 occurrences per 1,000). **(mean of means)**
+
+After calculating the mean of means and sample standard deviation
+for each of the features (MFWs), Burrows then converted the normalized
+(percentage) frequencies of occurrence for each feature in each
+sample in the comparison corpus to z-scores by subtracting the mean
+of means from the frequency and dividing the positive or negative
+difference by the standard deviation for the feature. At this point,
+Burrows turned his attention to the unattributed text, tabulating
+all occurrences of the 30 MFWs for which data had been collected
+from the comparison texts, then normalizing the word counts by
+converting them to percentage frequencies of occurrence.
 
 It is not possible to apply Burrow's methodology in the case of the
 *dicta* from Gratian's *Decretum* without modification. As the
@@ -316,17 +326,4 @@ study*, 1995.**
 [^b4]: The division of the first-recension (R1) *dicta* into twelve
 sections follows the division of Gratian's *Decretum* proposed by
 Alfred Beyer in -@beyer_lokale_1998, 17-18.
-
-### Overflow
-
-Burrows applied the metric, which he called the Delta, in the context
-of a new technique for authorship attribution.
-
-(**The metric is not the technique.**)
-
-Every attribution experiment starts from an hypothesis (sometimes
-implicit rather than explicit) concerning authorship.
-
-Such an approach is obviously not possible in the case of the *dicta*
-from Gratian's *Decretum*. 
 
