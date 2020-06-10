@@ -5,5 +5,5 @@ visualization.docx: visualization.md /Users/ple/Work/Dissertation/ref/draft.docx
 	pandoc -o visualization.docx --reference-doc=/Users/ple/Work/Dissertation/ref/draft.docx visualization.md
 
 clean:
-	rm -i burrows.docx visualization.docx
+	rm -i burrows.docx
 
