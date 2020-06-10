@@ -2,7 +2,7 @@
 author: Paul Evans
 bibliography: ../bib/merged.bib
 csl: ../csl/chicago-fullnote-bibliography.csl
-date: 9 June 2020
+date: 10 June 2020
 suppress-bibliography: false
 title: Chapter 4
 subtitle: Burrows's Delta
@@ -23,35 +23,64 @@ distance measurements in an arbitrary number of dimensions into a
 single metric. Burrows called this metric the Delta, and it is now
 generally referred to as Burrows's Delta ($\Delta_B$).[^b1]
 
-Burrows applied the metric, which he called the Delta, in the context
-of a new technique for authorship attribution.
+Expositions of Burrows's Delta sometime fail to make a clear enough
+distinction between the metric $\Delta_B$ and the authorship
+attribution methodology in which Burrows applied it. The metric is
+not the methodology.
 
-(**The metric is not the technique.**)
+Attempts to attribute authorship are typically undertaken in scenarios
+where there is a large (enough) number of texts securely attributable
+to a known author, and a text, or at most a small number of texts,
+of unknown authorship. The attempt is then made to attribute the
+unknown text to one of the known authors, or to rule out such an
+attribution. Take the *Federalist* as an example. There are numbers
+of the *Federalist* of disputed or unknown attribution, a small and
+well-defined number of candidates for authorship---Hamilton, Jay,
+Madison---to whom those numbers might be attributed, and securely
+attributed samples from each of the candidates, conveniently enough
+from the same work.
 
-Every attribution experiment starts from an hypothesis (sometimes
-implicit rather than explicit) concerning authorship. Attempts to
-attribute authorship are typically undertaken in scenarios where
-there is a large (enough) number of texts securely attributable to
-a known author, and a text, or at most a small number of texts, of
-unknown authorship. The attempt is then made to attribute the unknown
-text to a known author, or to rule out such an attribution. Take
-the *Federalist* as an example. There are numbers of the *Federalist*
-of disputed or unknown attribution, a small and well-defined number
-of candidates for authorship---Hamilton, Jay, Madison---to whom
-those numbers might be attributed, and securely attributed samples
-from each of the candidates, conveniently from the same work.
+Burrows's methodology assumes just such a scenario. He began by
+identifying the most frequent words (MFWs) in the corpus of comparison
+texts securely attributed to known authors. In Burrows's published
+descriptions of his methodology, he typically used all of the 30
+most frequent words in the corpus of attributed comparison texts
+without distinguishing between function and content words. He then
+tabulated the number of occurrences of the most frequent words in
+each of the sample texts in the comparison corpus and normalized
+their frequency of occurrence as a percentage. Burrows then used
+the frequency data collected from the comparison texts to calculate
+a mean frequency of occurrence and sample standard deviation for
+each of the MFWs or features.
 
-Such an approach is obviously not possible in the case of the *dicta*
-from Gratian's *Decretum*. As the survey in Chapter 3 above indicated,
-near-contemporaries knew next to nothing about Gratian. Perhaps
-most notably, although Gratian was thought to have been a teacher,
-no one in the generation following made an unambiguous claim to
-have been his student. There are no other writings securely, or
-even insecurely, attributed to him. Fortunately, Burrows's Delta
-can be readily adapted to the particular situation in which we find
-ourselves, where there are no other texts attributed to Gratian
-with which we can compare, for example, the hypothetical case
-statements (*themata*) or second-recension *dicta*.
+It is important to emphasize that the mean frequency of feature
+occurrence calculated at this stage of Burrows's algorithm and
+subsequently used to calculate the sample standard deviation for
+each feature is **not** the overall mean frequency across the corpus
+of attributed comparison text samples. Instead, the comparison
+corpus feature mean is calculated by averaging the normalized
+(percentage) frequency for each feature across all of the text
+samples in the attributed comparison corpus, without concern for
+differences in size (word count) between the samples. To refer back
+to the example presented in the previous section as part of the
+two-dimensional visualization demonstration, we did **not** use the
+**overall** mean frequency of *in* across the three samples Gratian1,
+dePen, and Gratian2, (2,113 occurrences out of 81,049 words or
+26.0706 per 1,000), but rather the mean of the normalized frequencies
+of *in* for each of the samples (the mean of 25.5673, 24.9975, and
+28.8320, or 26.4656 occurrences per 1,000). **(mean of means)**
+
+It is not possible to apply Burrow's methodology in the case of the
+*dicta* from Gratian's *Decretum* without modification. As the
+survey in Chapter 3 above indicated, near-contemporaries knew next
+to nothing about Gratian. Perhaps most notably, although Gratian
+was thought to have been a teacher, no one in the generation following
+made an unambiguous claim to have been his student. There are no
+other writings securely, or even insecurely, attributed to him.
+Fortunately, Burrows's Delta can be readily adapted to the particular
+situation in which we find ourselves, where there are no other texts
+attributed to Gratian with which we can compare, for example, the
+hypothetical case statements (*themata*) or second-recension *dicta*.
 
 (**Burrows's Delta measures Manhattan Distance.**)
 
@@ -81,16 +110,16 @@ the mathematical validity of all of the intermediate steps leading
 to the final result.
 
 The first experiment resumes directly where the two-dimensional
-visualization demonstration left off, so all function definitions
-and variable values in force at the conclusion of that demonstration
-are still valid. In particular, this experiment inherits the z-scores
-for all of the four most frequent words (MFWs). While we disregarded
-the data for the third and fourth most frequent words (*et* and
-*est*) for the purpose of the visualization demonstration, they
-will be fully taken into account here. (Remember that the values
-for mean and standard deviations used to derive the z-scores were
-calculated without reference to the Gratian0 sample here being
-treated as the unknown).
+visualization demonstration left off, so all of the function
+definitions and variable values in force at the conclusion of that
+demonstration are still valid. In particular, this experiment
+inherits the z-scores for all of the four most frequent words (MFWs).
+While we disregarded the data for the third and fourth most frequent
+words (*et* and *est*) for the purpose of the visualization
+demonstration, they will be fully taken into account here. (Remember
+that the values for mean and standard deviations used to derive the
+z-scores were calculated without reference to the Gratian0 sample
+here being treated as the unknown).
 
 First, split the z-scores into two new dataframes, one for the test
 sample Gratian0, assumed for the purpose of this experiment to be
@@ -287,4 +316,17 @@ study*, 1995.**
 [^b4]: The division of the first-recension (R1) *dicta* into twelve
 sections follows the division of Gratian's *Decretum* proposed by
 Alfred Beyer in -@beyer_lokale_1998, 17-18.
+
+### Overflow
+
+Burrows applied the metric, which he called the Delta, in the context
+of a new technique for authorship attribution.
+
+(**The metric is not the technique.**)
+
+Every attribution experiment starts from an hypothesis (sometimes
+implicit rather than explicit) concerning authorship.
+
+Such an approach is obviously not possible in the case of the *dicta*
+from Gratian's *Decretum*. 
 
