@@ -78,7 +78,20 @@ difference by the standard deviation for the feature. At this point,
 Burrows turned his attention to the unattributed text, tabulating
 all occurrences of the 30 MFWs for which data had been collected
 from the comparison texts, then normalizing the word counts by
-converting them to percentage frequencies of occurrence.
+converting them to percentage frequencies of occurrence. Burrows
+then converted the normalized frequencies for each feature in the
+unattributed test sample to z-scores based on the values for the
+mean of means and sample standard deviation derived from the feature
+frequencies in the attributed comparison corpus samples.
+
+With these preliminaries out of the way, Burrows then calculated
+the value of the Delta by taking the average (arithmetic mean) of
+the absolute value of the differences between the z-score for a
+given feature (MFW) for the unattributed test sample and each of
+the comparison samples in the corpus of attributed texts. In Burrows's
+interpretation, the comparison test sample from the attributed
+corpus with the lowest Delta with respect to the unattributed test
+sample was most likely to share a common author with it.
 
 It is not possible to apply Burrow's methodology in the case of the
 *dicta* from Gratian's *Decretum* without modification. As the
@@ -91,8 +104,6 @@ Fortunately, Burrows's Delta can be readily adapted to the particular
 situation in which we find ourselves, where there are no other texts
 attributed to Gratian with which we can compare, for example, the
 hypothetical case statements (*themata*) or second-recension *dicta*.
-
-(**Burrows's Delta measures Manhattan Distance.**)
 
 Although other distance methods of authorship attribution have been
 proposed since,[@evert_understanding_2017] Burrows's Delta is widely
@@ -197,6 +208,8 @@ exact way of indicating that we are to take the average (arithmetic
 mean) of the values in each of the columns, and record the resulting
 value of $\Delta_B$ in the corresponding column of the *deltas*
 dataframe.
+
+(**Burrows's Delta measures Manhattan Distance.**)
 
 ```python
 row = (differences.mean(axis = 0)).to_frame(unknown).transpose()
