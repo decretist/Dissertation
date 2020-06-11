@@ -2,7 +2,7 @@
 author: Paul Evans
 bibliography: ../bib/merged.bib
 csl: ../csl/chicago-fullnote-bibliography.csl
-date: 10 June 2020
+date: 11 June 2020
 suppress-bibliography: false
 title: Chapter 4
 subtitle: Burrows's Delta
@@ -209,7 +209,19 @@ mean) of the values in each of the columns, and record the resulting
 value of $\Delta_B$ in the corresponding column of the *deltas*
 dataframe.
 
-(**Burrows's Delta measures Manhattan Distance.**)
+The seemingly simple act of taking the arithmetic mean (average)
+of the z-score distances between the samples for each feature has
+an interesting and non-intuitive implication. It was mentioned in
+passing in the previous section on visualization that plotting the
+z-score coordinates of word frequencies invokes the tacit assumption
+that the axes are in fact perpendicular to one another, an assumption
+that is at least potentially open to challenge. Burrows's Delta
+generalizes this assumption into an arbitrary number of dimension.
+The scholarly literature on authorship attribution methods describes
+distance metrics such as Burrows's Delta as measuring 'Manhattan
+Distance'. The analogy is to walking or driving from a starting
+to an ending point through a space in which the street have been
+laid out at right angles to one another, like Manhattan.
 
 ```python
 row = (differences.mean(axis = 0)).to_frame(unknown).transpose()
@@ -231,7 +243,7 @@ information before we can provide any kind of interpretation for
 the result. The most we can say based on this result is that the
 hypothetical case statements are less likely to have been written
 by the author of the *dicta* in *de Penitentia* than by the authors
-of the first- and second-recension *dicta*.
+of either the first- or second-recension *dicta*.
 
 The second experiment is a variation on the first, in which a
 3881-word sample made up of seven extended passages from the
