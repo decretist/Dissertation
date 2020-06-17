@@ -186,6 +186,18 @@ satisfactorily answer the question "was there one Gratian or were
 there two?" it is probably because that is not the right question
 to ask.
 
+[^1]: Earlier versions of this chapter were presented as conference
+papers. "Can Stylometry Provide New Evidence about the Identity of
+Gratian 1 and Gratian 2?", was presented to the session on Canon
+Law in the Twelfth and Thirteenth Centuries at the *Rem non novam
+nec insolitam aggredimur* conference and grand opening of the Stephan
+Kuttner Institute of Medieval Canon Law at Yale Law School, May
+21-22, 2015. "New evidence for the authorship of case statements
+and *dicta* in Gratian's *Decretum*" was presented to the Classical
+Sources III session at the Fifteenth International Congress of
+Medieval Canon Law (ICMCL) at Université Paris II Panthéon-Assas,
+July 17-23, 2016.
+
 [^16]: For a general introduction to the use of principal component
 analysis (PCA) in literary stylometric analysis, see @craig_stylistic_2004
 and Chapter 6 "Style" in @jockers_macroanalysis_2013.
