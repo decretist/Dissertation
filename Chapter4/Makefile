@@ -1,4 +1,4 @@
-all: burrows.docx
+all: burrows.docx merged.docx
 
 burrows.docx: burrows.md ../bib/merged.bib ../ref/draft.docx
 	pandoc -o burrows.docx --filter pandoc-citeproc --reference-doc=../ref/draft.docx burrows.md
@@ -19,5 +19,5 @@ Rem_Non_Novam.docx: Rem_Non_Novam.md project.bib ../ref/reference.docx
 	pandoc -o Rem_Non_Novam.docx --filter pandoc-citeproc --reference-doc=../ref/reference.docx Rem_Non_Novam.md
 
 clean:
-	rm -i burrows.docx
+	rm -i burrows.docx merged.docx
 
