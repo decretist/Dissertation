@@ -38,6 +38,29 @@ for Gratian studies asked:
 > mid-twelfth century on was used in the schools and in adjudging
 > cases?[@kuttner_research_1990, 10]
 
+Anders Winroth's 1996 discovery of the first recension of the
+*Decretum* provided a convincing answer to the first part of Kuttner's
+question: the original did go through successive redactions. Winroth
+used the name Gratian 1 to refer to the compiler or compilers of
+the first recension, and Gratian 2 to refer to the compiler or
+compilers of the second recension. He then reformulated the second
+part of Kuttner's question by asking whether Gratian 1 was the same
+person as Gratian 2. Winroth's answer to the question posed in this
+form, that Gratian 2 was not the same person as Gratian 1, has been
+the focus of vigorous but so far inconclusive scholarly debate over
+the last twenty years. Much of the debate has focused on competing
+evaluations of the Sankt Gallen Stiftsbibliothek 673 (Sg) manuscript
+of the *Decretum*, and more recently on secondary evidence such as
+a twelfth-century Siena necrology in which the name Gratian appears.
+
+It does not appear that the debate over the authorship of the
+*Decretum* can be settled on the basis of the currently available
+evidence. The goal of my dissertation project has been to find new
+evidence relevant to the question of the authorship the *Decretum*
+as it has been posed by both Kuttner and Winroth, by using computational
+methods to analyze the authorship of the *dicta* traditionally
+attributed personally to Gratian.
+
 ### Definition of first- and second-recension *dicta*
 
 Many of the examples in this chapter will distinguish between first-

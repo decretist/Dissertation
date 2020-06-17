@@ -4,35 +4,7 @@ csl: ../csl/chicago-fullnote-bibliography.csl
 suppress-bibliography: false
 title: Chapter 4
 subtitle: Stylometry
-abstract: |
-  Since the discovery by Winroth in 1996 of a first recension of
-  Gratian's *Decretum*, there has been scholarly controversy over
-  whether the compiler of the first recension was the same person
-  as the compiler of the second recension. Techniques for authorship
-  attribution developed by researchers in the field of computation
-  linguistics make it possible to approach this problem in a new
-  way. Using the Stylometry with R package, I have analyzed those
-  texts from the *Decretum* traditionally attributed to Gratian
-  personally: the case statements and the *dicta*. Principal component
-  analysis (PCA) of the frequencies of function words (prepositions
-  and conjunctions) in the texts suggests that the author of the
-  case statements was not the same person as the authors of either
-  the first- or second-recension *dicta*. PCA also provides evidence
-  concerning the first- and second-recension *dicta* that suggests
-  they are the product of collaborative authorship rather than being
-  the work of either one or two authors.
 ---
-Twenty years ago, Anders Winroth announced his discovery of the
-first recension of Gratian's *Decretum* at the Tenth International
-Congress of Medieval Canon Law in Syracuse, New York. One of the
-most important questions raised by that discovery is whether Gratian
-1, the compiler of the first recension was the same person as Gratian
-2, the compiler of the second recension. It does not appear that
-the debate over authorship can be settled using currently available
-evidence. The goal of my project is to find new evidence for the
-authorship of case statements and *dicta* in Gratian's *Decretum*
-using computational methods.[^1]
-
 First I'm going to discuss in general terms the use of stylometry
 for authorship attribution. Then, I'm going to discuss the methodology
 and the software that I am using for this project. Finally, I am
