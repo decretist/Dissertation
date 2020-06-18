@@ -1,10 +1,7 @@
-all: merged.docx
+all: chapter4.docx pca.docx
 
 chapter4.docx: chapter4.md ../bib/merged.bib ../ref/draft.docx
 	pandoc -o chapter4.docx --filter pandoc-citeproc --reference-doc=../ref/draft.docx chapter4.md
-
-merged.docx: merged.md ../bib/merged.bib ../ref/draft.docx
-	pandoc -o merged.docx --filter pandoc-citeproc --reference-doc=../ref/draft.docx merged.md
 
 pca.docx: pca.md ../bib/merged.bib ../ref/draft.docx
 	pandoc -o pca.docx --filter pandoc-citeproc --reference-doc=../ref/draft.docx pca.md
@@ -16,5 +13,5 @@ Rem_Non_Novam.docx: Rem_Non_Novam.md project.bib ../ref/reference.docx
 	pandoc -o Rem_Non_Novam.docx --filter pandoc-citeproc --reference-doc=../ref/reference.docx Rem_Non_Novam.md
 
 clean:
-	rm -i merged.docx
+	rm -i chapter4.docx pca.docx
 
