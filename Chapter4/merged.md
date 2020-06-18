@@ -5,19 +5,7 @@ csl: ../csl/chicago-fullnote-bibliography.csl
 date: 17 June 2020
 suppress-bibliography: false
 title: Chapter 4
-subtitle: Work in progress
-abstract: |
-  In the absence of good modern critical editions for the first and
-  second recensions of the *Decretum*, a proxy for the first recension
-  is created by applying the variants recorded in Winroth's appendix
-  as transformations to Friedberg's text. The proxy for the first
-  recension is then subtracted from Friedberg's text, leaving text
-  from the second recension as the difference. The text samples
-  from the first and second recensions of the *Decretum* that provide
-  the basis for authorship attribution are build up by iteratively
-  appending short units of text (the individual first- and
-  second-recension *dicta*) that are non-contiguous in the original
-  context of the *Decretum*.
+subtitle: Stylometry
 ---
 The contemporary audience for Gratian's *Decretum* seems to have
 been reasonably satisfied that a single author was responsible for
@@ -28,7 +16,7 @@ Modern students of Gratian, on the other hand, have been willing
 to entertain the possibility that the *Decretum*, at least in its
 final most widely-circulated form, was the product of collective
 authorship. Stephan Kuttner, as the first item on his 1984 agenda
-for Gratian studies asked:
+for Gratian studies, asked:
 
 > was [the *Concordia discordantium canonum*] drafted and completed
 > in one grandiose thrust, or did the original version go through
@@ -40,13 +28,13 @@ for Gratian studies asked:
 
 Anders Winroth's 1996 discovery of the first recension of the
 *Decretum* provided a convincing answer to the first part of Kuttner's
-question: the original did go through successive redactions. Winroth
+question: the original *did* go through successive redactions. Winroth
 used the name Gratian 1 to refer to the compiler or compilers of
 the first recension, and Gratian 2 to refer to the compiler or
 compilers of the second recension. He then reformulated the second
 part of Kuttner's question by asking whether Gratian 1 was the same
 person as Gratian 2. Winroth's answer to the question posed in this
-form, that Gratian 2 was not the same person as Gratian 1, has been
+form, that Gratian 2 was *not* the same person as Gratian 1, has been
 the focus of vigorous but so far inconclusive scholarly debate over
 the last twenty years. Much of the debate has focused on competing
 evaluations of the Sankt Gallen Stiftsbibliothek 673 (Sg) manuscript
@@ -58,10 +46,86 @@ It does not appear that the debate over the authorship of the
 evidence. The goal of my dissertation project has been to find new
 evidence relevant to the question of the authorship the *Decretum*
 as it has been posed by both Kuttner and Winroth, by using computational
-methods to analyze the authorship of the *dicta* traditionally
-attributed personally to Gratian.
+stylometric methods to analyze the authorship of the *dicta*
+traditionally attributed personally to Gratian.
+
+### Preliminary observations
+
+Stylometry is the measurement of style. "Style is a property of
+texts constituted by an ensemble of formal features which can be
+observed quantitatively or qualitatively." [@herrmann_revisiting_2015,
+44] While style has both qualitative and quantitative aspects,
+stylometry is concerned only with quantitative aspects of style.
+One well-established use of stylometry is to attribute authorship.
+And for the purpose of authorship attribution, the formal linguistic
+features that stylometry measures are the frequencies of occurrence
+of common words.
+
+Linguists draw a distinction between function words and content
+words. The more frequently a word occurs in a language, the more
+likely it is to be a function word, and the less likely it is to
+be a content word. Function words are words like prepositions and
+conjunctions. Content words are words like adjectives, nouns, and
+verbs. Function words convey meaning by their use in grammatical
+structure. The Latin conjunction "*sed*" does not mean anything by
+itself, but rather it places two words or grammatical constructs
+into an adversative relationship with each other.
+
+Another way of thinking about the distinction is to note that in a
+given language, function words constitute a closed class, while
+content words constitute an open class. Language-speaking communities
+can and do make up new adjectives, nouns, verbs all the time; content
+words are therefore an open class that can be added to at will. But
+new prepositions and conjunctions are almost never added to a
+language, and their usage changes very slowly over time, if it
+changes at all, and function words are therefore, for all practical
+purposes, a closed, finite, class.
+
+Evidence from experimental psychology suggests that both authors
+and readers process function words at a subconscious level.
+[@kestemont_function_2014] The frequency with which a given author
+uses particular function words is therefore considered to be more
+or less invariant, making it a reliable authorial signature.
+
+**Some stylometric techniques use only function words, while others
+use common words generally, without regard to whether they are
+function or content words, but in either case function words are
+disproportionately important to stylometric analysis because of
+their observed frequency.**
+
+### The Federalist (Hamilton and Madison)
+
+Stylometric analysis of the frequencies of common words for the
+purpose of attributing authorship has had a number of notable
+successes. The validity of this approach for textual scholarship
+was firmly established by the work of Frederick Mosteller and David
+L. Wallace on the *Federalist Papers*. The authorship of 12 of the
+*Federalist Papers*, 49-57 and 62-63, had been disputed since the
+early 19th century, with competing claims advanced on behalf of
+Alexander Hamilton and James Madison.[^4] In 1944, Douglass Adair,
+using traditional scholarly methods, settled the dispute largely
+to the satisfaction of early American historians, determining that
+Madison was the author of all 12 of the disputed numbers.[^5] In
+1964, Mosteller and Wallace confirmed Adair's findings by conducting
+a stylometric analysis of the frequencies of 70 function words to
+compare the 12 disputed numbers with numbers securely attributed
+to Hamilton and Madison.[@mosteller_inference_1964]
+
+![Federalist](JPGs/Federalist_CA_72_MFWs.jpg)
 
 ### Definition of first- and second-recension *dicta*
+
+**Abstract: In the absence of good modern critical editions for the
+first and second recensions of the *Decretum*, a proxy for the first
+recension is created by applying the variants recorded in Winroth's
+appendix as transformations to Friedberg's text. The proxy for the
+first recension is then subtracted from Friedberg's text, leaving text
+from the second recension as the difference. The text samples from
+the first and second recensions of the *Decretum* that provide the
+basis for authorship attribution are build up by iteratively appending
+short units of text (the individual first- and second-recension
+*dicta*) that are non-contiguous in the original context of the
+*Decretum*.**
 
 Many of the examples in this chapter will distinguish between first-
 and second-recension *dicta*, so this is an appropriate point at
@@ -1302,6 +1366,10 @@ scale of the fourth experiment is similar to that of the experiments
 carried out by John Burrows and David Hoover, the pioneers of the
 technique, but makes it impractical to show intermediate results
 at every step in the process.
+
+[^4]: @mosteller_inference_1964, 14. See also @adair_authorship_1944a, 104.
+
+[^5]: @adair_authorship_1944a and @adair_authorship_1944b.
 
 [^m2]: @winroth_making_2000, 201. The numbers 1 and 2 refer to line
 numbers relative to the first line of the *dictum*, as opposed to
