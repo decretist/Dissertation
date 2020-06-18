@@ -1,9 +1,7 @@
 ---
-author: Paul Evans
 bibliography: ../bib/merged.bib
 csl: ../csl/chicago-fullnote-bibliography.csl
-date: 27 May 2020
-suppress-bibliography: false
+suppress-bibliography: true
 title: Chapter 4
 subtitle: Principal component analysis
 ---

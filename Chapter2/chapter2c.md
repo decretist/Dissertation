@@ -1,6 +1,7 @@
 ---
 bibliography: ../bib/merged.bib
 csl: ../csl/chicago-fullnote-bibliography.csl
+suppress-bibliography: true
 title: Chapter 2c
 ---
 ## *Correctores Romani* edition (1582)

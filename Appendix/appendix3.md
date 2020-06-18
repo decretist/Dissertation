@@ -1,6 +1,4 @@
 ---
-author: Paul Evans
-date: 7 March 2020
 title: Appendix 3
 ---
 |Citation     |Column|Reported by   |Date     |Error                                        |Correction|

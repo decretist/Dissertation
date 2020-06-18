@@ -1,8 +1,8 @@
 ---
-author: Paul Evans
 bibliography: ../bib/merged.bib
 csl: ../csl/chicago-fullnote-bibliography.csl
 reference-section-title: Bibliography
+suppress-bibliography: true
 title: Chapter 5
 subtitle: Close Reading of the Case Statements
 ---

@@ -2,56 +2,84 @@
 bibliography: merged.bib
 csl: ../csl/chicago-fullnote-bibliography.csl
 nocite: |
+  @adair_authorship_1944a
+  @adair_authorship_1944b
   @appelt_urkunden_1979
   @bellomo_common_1995
+  @beyer_lokale_1998
   @brasington_order_2016
   @brasington_ways_2004
   @brundage_teaching_2008
+  @burrows_delta_2002
+  @burrows_questions_2003
+  @campbell_milton_2007
+  @campbell_provenance_1997
   @chodorow_ecclesiology_1972
   @chodorow_review_2003
+  @christensen_introduction_1993
   @corbino_pandectarum_1988
+  @craig_stylistic_2004
   @de_jong_penitential_2009
   @donahue_translating_1987
   @dufour_attrait_1979
   @duvernoy_registre_1965
   @eder_abstract_2013
+  @eder_does_2015
   @eichbauer_gratians_2013
+  @eichbauer_redactions_2007
+  @evert_understanding_2017
   @fowler-magerl_clavis_2005
   @fuhrmann_einfluss_1972
   @fuhrmann_pseudo-isidorian_2001
   @gabriel_paris_1982
   @gilchrist_collection_1980
+  @grebner_patronate_2007
+  @hartmann_history_2008
   @haskins_renaissance_1927
+  @herrmann_revisiting_2015
   @hinschius_decretales_1963
   @hockey_history_2004
   @hoeflich_establishment_2008
+  @hunt_introductions_1980
   @hyde_bologna_1982
   @jaffe_regesta_1956
+  @jansen_laws_2009
   @jansen_medieval_2009
   @jansen_roman_2009
+  @jockers_macroanalysis_2013
   @kalb_studien_1983
   @kantorowicz_albertus_1907
   @kestemont_abstract_2013
   @kestemont_collaborative_2015
   @kestemont_documentary_2013
+  @kestemont_function_2014
   @kirschenbaum_what_2012
+  @kretzschmar_alger_1985
   @kruger_corpus_1928
+  @kuttner_father_1941
+  @kuttner_gratiani_1948
+  @kuttner_research_1990
   @landau_arbeitsplan_1994
   @landau_gratian_2008
   @larrainzar_borrador_1999
   @larson_abbreviatio_2011
   @larson_master_2014
   @leader_oxford_1982
+  @luscombe_abelard_1969
   @manaresi_placiti_1955
   @markus_gregory_1997
   @martyn_letters_2004
   @mclaughlin_summa_1952
+  @minnis_medieval_1988
   @moore_formation_2007
   @moretti_distant_2013
+  @mosteller_inference_1964
   @muller_recovery_1990
+  @nardi_fonti_1998
   @noonan_catholic_1997
   @noonan_gratian_1979
   @norberg_registrum_1982
+  @paucapalea_summa_1890
   @pennington_beginnings_2018
   @pennington_biography_2014
   @pennington_gratian_2014
@@ -63,10 +91,17 @@ nocite: |
   @rashdall_universities_1936
   @reuter_wortkonkordanz_1990
   @ridder-symoens_universities_1992
+  @rufinus_summa_1963
+  @rumrich_stylometry_2002
+  @samuels_deformance_1999
   @schulte_summa_1965
+  @simon_of_bisignano_summa_2014
+  @singer_summa_1963
   @somerville_prefaces_1998
+  @sommar_correctores_2009
   @southern_scholastic_1995
   @thompson_treatise_1993
+  @van_hove_prolegomena_1945
   @verger_patterns_1992
   @watson_digest_1985
   @wei_gratian_2016
@@ -76,7 +111,13 @@ nocite: |
   @winroth_making_2000
   @winroth_schools_2009
   @winroth_teaching_2006
+  @winroth_uncovering_1997
+  @winroth_where_2013
   @zechiel-eckes_blick_2001
+  @zipf_human_1949
+  @zipf_psycho-biology_1935
+  @R
+  @stylo
 reference-section-title: Bibliography
 ---
 
