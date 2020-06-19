@@ -1,6 +1,7 @@
 ---
 bibliography: ../bib/merged.bib
 csl: ../csl/chicago-fullnote-bibliography.csl
+reference-section-title: Bibliography
 suppress-bibliography: true
 title: Chapter 4
 subtitle: Principal component analysis
