@@ -87,6 +87,38 @@ recensions.**
 
 ### Winroth's argument
 
+(**Pennington's argument is largely a response to Winroth's, discuss
+Winroth's argument first, followed by Pennington's critique of and
+response to it.**)
+
+"In the interests of simplicity and clarity, I have therefore chosen
+to call the author of the first recension Gratian 1 and the author
+of the second recension Gratian 2. These labels are not intended
+to suggest that Gratian 1 and Gratian 2 could not have been the
+same person."[@winroth_making_2000, 122]
+
+Winroth's arguments in chapters 1-5 of *The Making of Gratian's
+Decretum* are agnostic as to whether Gratian 1 is the same person
+as Gratian 2. The question of authorial identity is not relevant
+to the primary argument that Winroth advances in those chapters,
+which is that the Admont, Barcelona, and Florence manuscripts
+represent a coherent first recension of the *Decretum* rather than
+an abbreviation. In chapter 6 and in his conclusion, however, Winroth
+observes that the second recension reflects a considerably more
+sophisticated legal culture than that reflected in the first
+recension, notably in the reception of concepts and terminology
+from the study of Roman law, and argues that it is unlikely that
+one author underwent such an intellectual evolution in a single
+generation.
+
+Fourteenth International Congress of Medieval Canon Law, Toronto,
+2012.[@winroth_where_2013]
+
+Winroth interprets an entry in a Siena necrology (Siena, Biblioteca
+communale degli Intronati F12, f.5r) as evidence that Gratian died
+as bishop of Chiusi on the feast day of St Lawrence (August 10) in
+either 1144 or 1145.
+
 ### Pennington's argument
 
 **No transition, and very incomplete**
