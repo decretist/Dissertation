@@ -2,12 +2,25 @@
 author: Paul Evans
 bibliography: ../bib/merged.bib
 csl: ../csl/chicago-fullnote-bibliography.csl
-date: 22 June 2020
+date: 24 June 2020
 reference-section-title: Bibliography
 suppress-bibliography: false
 title: Chapter 4
 subtitle: Principal component analysis
 ---
+Techniques such as Burrow's and Argamon's Delta (measuring Manhattan
+and Euclidean distance respectively), which collapse vector distance
+data for an arbitrary number of features or dimensions into a single
+scalar value interpreted as a nearest-neighbor classification metric,
+are one way of reducing feature distances to a tractable form.
+Principal component analysis (PCA) is an alternative to Delta metrics
+that projects vector distance information for numbers of features
+greater than three into a two- or three- dimensional space for
+convenient visualization. PCA therefore has the advantage that it
+entails less loss of information than the Delta class of techniques
+that reduce data for all dimensions to a single metric.[^pca1]
+(**Updated 24 June 2020.**)
+
 But increasing the number of function words also introduces a new
 problem. We were able to represent our stylometric analysis of the
 frequency of *in* and *non* in the samples from the first- and
@@ -17,22 +30,26 @@ which we collect data. And because human beings are not good at
 visualizing quantitative data in more than three dimensions, we
 need to find a way to reduce the number of dimensions. This is where
 the technique of principal component analysis, or PCA, becomes
-useful.[^16]
+useful.
 
 PCA first combines as many of the raw dimensions as possible into
 synthetic components on the basis of strong correlations, either
-positive or negative. For example, going back to the data on the
-frequencies of *in* and *non* in the first- and second-recension
-*dicta*, the two dimensions of the graph could be collapsed into a
-single component that could be thought of as representing the
-probability that *in* will, and that *non* will *not*, occur
-in a given sample. (And this is, in fact, what the software that
-I'm using for this project does.)
+positive or negative. For example, referring back to Figures 0a and
+0b in the two-dimensional vizualization section above, the two
+dimensions of the plot could be collapsed into a single axis or
+component that can be thought of as representing the frequency with
+which *in* does, and *non* does *not*, occur in a given sample.
+The effect would be to reconfigure the plots in such a way that the
+samples representing the *dicta* from *de Penitentia* (dePen), the
+first-recension *dicta* (Gratian1), and the second-recension *dicta*
+(Gratian2) would be placed from left to right along a single
+horizontal axis. PCA then displays the two components that contribute
+the most to the total variation between the samples, and graphically
+arranges the samples according to their probability relative to
+those two components.[^pca2]
+(**Updated 24 June 2020.**)
 
-Finally, PCA displays the two components that contribute the most
-to the total variation between the samples, and graphically arranges
-the samples according to their probability relative to those two
-components.
+---
 
 For the case statements, I simply used the text from the vulgate
 *Decretum* as it appears in the Friedberg edition.[^19]
@@ -187,19 +204,23 @@ satisfactorily answer the question "was there one Gratian or were
 there two?" it is probably because that is not the right question
 to ask.
 
-[^1]: Earlier versions of this chapter were presented as conference
+[^pca1]: Earlier versions of this section were presented as conference
 papers. "Can Stylometry Provide New Evidence about the Identity of
 Gratian 1 and Gratian 2?", was presented to the session on Canon
 Law in the Twelfth and Thirteenth Centuries at the *Rem non novam
 nec insolitam aggredimur* conference and grand opening of the Stephan
 Kuttner Institute of Medieval Canon Law at Yale Law School, May
-21-22, 2015. "New evidence for the authorship of case statements
-and *dicta* in Gratian's *Decretum*" was presented to the Classical
-Sources III session at the Fifteenth International Congress of
-Medieval Canon Law (ICMCL) at Université Paris II Panthéon-Assas,
-July 17-23, 2016.
+21-22, 2015. [Greta Austin, Thomas Bisson, Uta-Renate Blumenthal,
+Bruce Brasington, Melodie Eichbauer, Richard Helmholz, Eric Knibbs,
+Peter Landau, Kenneth Pennington, Edward Peters (University of
+Pennsylvania), Robert Somerville, and Anders Winroth.] "New evidence
+for the authorship of case statements and *dicta* in Gratian's
+*Decretum*" was presented to the Classical Sources III session at
+the Fifteenth International Congress of Medieval Canon Law (ICMCL)
+at Université Paris II Panthéon-Assas, July 17-23, 2016. [Gero
+Dolezalek, Anders Winroth (session chair).]
 
-[^16]: For a general introduction to the use of principal component
+[^pca2]: For a general introduction to the use of principal component
 analysis (PCA) in literary stylometric analysis, see @craig_stylistic_2004
 and Chapter 6 "Style" in @jockers_macroanalysis_2013.
 
