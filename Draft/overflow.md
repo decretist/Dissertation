@@ -36,6 +36,19 @@ In theory, that means that you ought to be able to make a list of
 every function word in a language, although in practice, that's not
 easy to do.
 
+---
+
+Increasing the number of function words also introduces a new
+problem. We were able to represent our stylometric analysis of the
+frequency of *in* and *non* in the samples from the first- and
+second-recension *dicta* on a two-dimensional graph. But there will
+be as many dimensions on the graph as there are function words for
+which we collect data. And because human beings are not good at
+visualizing quantitative data in more than three dimensions, we
+need to find a way to reduce the number of dimensions. This is where
+the technique of principal component analysis, or PCA, becomes
+useful.
+
 [^a]: As of 10 February 2020, there is a bug in the `pstdev()` function
 in the standard Python 3 statistics library such that the optional
 `mu =` keyword argument to override the value of mean does not work.
