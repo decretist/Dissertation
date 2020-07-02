@@ -18,12 +18,12 @@ authorship. Stephan Kuttner, as the first item on his 1984 agenda
 for Gratian studies, asked:
 
 > was [the *Concordia discordantium canonum*] drafted and completed
-> in one grandiose thrust, or did the original version go through
-> successive redactions? And if the latter, was it Gratian himself,
-> or Gratian with his disciples, or an early generation of canonists
-> after him, who completed the final recension which from the
-> mid-twelfth century on was used in the schools and in adjudging
-> cases?[@kuttner_research_1990, 10]
+in one grandiose thrust, or did the original version go through
+successive redactions? And if the latter, was it Gratian himself,
+or Gratian with his disciples, or an early generation of canonists
+after him, who completed the final recension which from the mid-twelfth
+century on was used in the schools and in adjudging
+cases?[@kuttner_research_1990, 10]
 
 Anders Winroth's 1996 discovery of the first recension of the
 *Decretum* provided a convincing answer to the first part of Kuttner's
@@ -177,9 +177,9 @@ Take D.54 d.p.c.23 as an example. The complete text of the *dictum*
 as it appears in the Friedberg edition (column 214) is:
 
 > *Ecce, quomodo serui ad clericatum ualeant assumi, uel quomodo
-> non admittantur. Liberti quoque non sunt promouendi ad clerum,
-> nisi ab obsequiis sui patroni fuerint absoluti. Unde in Concilio
-> Eliberitano:*
+non admittantur. Liberti quoque non sunt promouendi ad clerum, nisi
+ab obsequiis sui patroni fuerint absoluti. Unde in Concilio
+Eliberitano:*
 
 Winroth's appendix indicates that only the first sentence of the
 *dictum* appears in the first recension:
@@ -333,16 +333,16 @@ contains at least one instance of homeoteleuton. The following fours
 lines from the text of D.23 c.2 in the Friedberg edition (column
 79):
 
-> *Patre et Spiritu sancto omnium creaturarum; qui passus  
-> sit pro salute nostra uera carnis **passione, mortuus uera  
-> corporis sui morte, resurrexit uera carnis** suae receptione  
-> et uera animae resumptione, in qua ueniat iudicare*  
+> *Patre et Spiritu sancto omnium creaturarum; qui passus sit pro
+salute nostra uera carnis **passione, mortuus uera corporis sui
+morte, resurrexit uera carnis** suae receptione et uera animae
+resumptione, in qua ueniat iudicare*
 
 were transcribed as the following three lines in the e-text:
 
-> *Patre et Spiritu sancto omnium creaturarum; qui passus  
-> sit pro salute nostra uera carnis suae receptione  
-> et uera animae resumptione, in qua ueniat iudicare*  
+> *Patre et Spiritu sancto omnium creaturarum; qui passus sit pro
+salute nostra uera carnis suae receptione et uera animae resumptione,
+in qua ueniat iudicare*
 
 skipping over the words "*passione, mortuus uera corporis sui morte,
 resurrexit uera carnis*."[^20]

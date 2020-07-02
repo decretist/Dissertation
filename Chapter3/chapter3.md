@@ -275,11 +275,12 @@ conciliar, and papal source texts, and towards a much more narrowly
 circumscribed technical jurisprudence focused exclusively on
 contemporary papal decretals.
 
-[^3]: See [@kuttner_father_1941]. Kuttner argues is that Gratian
-applied Ivo's program as it had been developed in the intervening
-forty years by scholastic theology, most notably by Abelard, not
-in its original form: scholastic theology got the program from Ivo,
-Gratian got it from scholastic theology. See also [@luscombe_abelard_1969].
+[^3]: See [@kuttner_father_1941]. Kuttner argues that Gratian applied
+Ivo's program as it had been developed in the intervening forty
+years by scholastic theology, most notably by Abelard, and not in
+its original form: scholastic theology got the program from Ivo,
+Gratian got it from scholastic theology. See also [@luscombe_abelard_1969]
+and [@winroth_where_2013, 111
 
 [^4]: Noonan identifies Odofredus as the source for associating
 Gratian with SS. Felix and Nabor (@noonan_gratian_1979, 148),
