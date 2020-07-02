@@ -172,6 +172,25 @@ plots in this section!!!]**
 
 ![Figure 5 updated 25 Jun 2019](JPGs/NoQ_PCA_4_001.jpg)
 
+That leaves the approach of editing the list of function words used
+by stylo to conduct the analysis to exclude individual words
+characteristic of indirect question, starting with the words *an*
+and *si* suggested by the stylo feature loadings.
+
+The frequency of occurrence of the word *an* in the Gratian0 sample
+representing the thirty-six hypothetical case statements (*themata*)
+is a remarkably high 39.1123 occurrences per 1,000 words. By way
+of comparison, the mean frequency of occurrence of *an* across the
+three samples representing the first-recension *dicta* excluding
+*de Penitentia* (Gratian1), the first- and second-recension *dicta*
+from *de Penitentia* (dePen), and the second recension *dicta*
+(Gratian2) is 1.3815 occurrences per 1,000 words with a sample
+standard deviation of 0.5011. The frequency of occurrence of *an*
+in the Gratian0 sample is therefore 75.2996 standard deviations
+away the mean frequency of occurrence of the same word in the
+Gratian1, dePen, and Gratian2 samples.
+(**Updated  2 July 2020.**)
+
 ---
 
 We've now reached the final stage of the three-way comparison between
