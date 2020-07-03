@@ -124,8 +124,6 @@ next step in the stylometric analysis is to control for genre by
 removing the question words *an* and *si* from the list of
 function words.
 
-![Figure 3 updated 19 Mar 2020](JPGs/3-way_PCA_49_MFWs_001.jpg)
-
 ---
 
 There are two ways in which we might go about controlling for genre
@@ -165,13 +163,6 @@ under 10% for both the three- and four-way comparisons. (See Figures
 2,500-word minimum recommended for analysis of Latin prose.
 (**Updated  1 July 2020.**)
 
-**[Update Figures 4 and 5 to use the same samples as the other PCA
-plots in this section!!!]**
-
-![Figure 4 updated 25 Jun 2019](JPGs/NoQ_PCA_3_001.jpg)
-
-![Figure 5 updated 25 Jun 2019](JPGs/NoQ_PCA_4_001.jpg)
-
 That leaves the approach of editing the list of function words used
 by stylo to conduct the analysis to exclude individual words
 characteristic of indirect question, starting with the words *an*
@@ -188,8 +179,31 @@ from *de Penitentia* (dePen), and the second recension *dicta*
 standard deviation of 0.5011. The frequency of occurrence of *an*
 in the Gratian0 sample is therefore 75.2996 standard deviations
 away the mean frequency of occurrence of the same word in the
-Gratian1, dePen, and Gratian2 samples.
+Gratian1, dePen, and Gratian2 samples. The frequency of occurrence
+of the word *si* in the Gratian0 sample, on the other hand, is
+14.4244 occurrences per 1,000 words. Given that the mean frequency
+of occurrence of *si* across the Gratian1, dePen, and Gratian2
+samples is 9.2665 occurrences per 1,000 words and that the sample
+standard deviation is 2.6245, the frequency of occurrence of *si*
+in the Gratian0 sample is far less of an outlier at 1.9653 standard
+deviations away from the mean than *an* was.
 (**Updated  2 July 2020.**)
+
+![Figure 3 updated  2 Jul 2020](JPGs/4-way_PCA_51_MFWs_001.jpg)
+
+```
+------------------------------------------------
+features (e.g. frequent words) actually analyzed
+------------------------------------------------
+
+  [1]  in       et       non      de       quod     ad       sed      uel
+  [9]  unde     si       ut       a        autem    cum      ex       enim
+ [17]  uero     etiam    ab       ergo     quia     item     per      nec
+ [25]  sicut    ita      nisi     tamen    pro      quam     sic      quo
+ [33]  sine     aut      licet    post     contra   siue     quoque   ante
+ [41]  ne       inter    super    atque    dum      apud     postea   ideo
+ [49]  propter  ecce     quomodo
+```
 
 ---
 
@@ -263,6 +277,15 @@ either the one Gratian or two Gratians variety). If we cannot
 satisfactorily answer the question "was there one Gratian or were
 there two?" it is probably because that is not the right question
 to ask.
+
+### Temporary appendix
+
+**[Update Figures 4 and 5 to use the same samples as the other PCA
+plots in this section!!!]**
+
+![Figure 4 updated 25 Jun 2019](JPGs/NoQ_PCA_3_001.jpg)
+
+![Figure 5 updated 25 Jun 2019](JPGs/NoQ_PCA_4_001.jpg)
 
 [^pca1]: Earlier versions of this section were presented as conference
 papers. "Can Stylometry Provide New Evidence about the Identity of
