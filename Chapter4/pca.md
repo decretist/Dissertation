@@ -116,22 +116,19 @@ the samples, is actually pretty close to the middle. So, it's not
 so much that the second-recension *dicta* have more occurrences of
 *in*, it's that the first-recension *dicta* have fewer.
 
-What is really interesting here is that *an* and *si* cluster
-with the case statements, *an* very strongly, *si* somewhat
-less so. This makes sense because indirect questions dominate the
-language of the case statements. It is a question of genre. So the
-next step in the stylometric analysis is to control for genre by
-removing the question words *an* and *si* from the list of
-function words.
-
 ---
 
-There are two ways in which we might go about controlling for genre
-in the *themata*: by editing the Gratian0 sample to remove the
-passages containing indirect questions from each of the case
-statements, and by editing the list of function words used by stylo
-to conduct the analysis to exclude individual words characteristic
-of indirect questions.
+The most visually striking feature of the function loadings plot
+in Figure 2 is the degree to which *an* and *si* cluster with the
+case statements, *an* very strongly so, *si* somewhat less strongly.
+This makes intuitive sense because indirect questions dominate the
+language of the case statements. It is a question of genre. There
+are two ways in which we might go about controlling for genre in
+the *themata*: by editing the Gratian0 sample to remove the passages
+containing indirect questions from each of the case statements, and
+by editing the list of function words used by stylo to conduct the
+analysis to exclude individual words characteristic of indirect
+questions.
 (**Updated  1 July 2020.**)
 
 The case statements all follow a very regular formal pattern. They
@@ -189,6 +186,8 @@ in the Gratian0 sample is far less of an outlier at 1.9653 standard
 deviations away from the mean than *an* was.
 (**Updated  2 July 2020.**)
 
+**[Remove *an*, leave *si* in!!!]**
+
 ![Figure 3 updated  2 Jul 2020](JPGs/4-way_PCA_51_MFWs_001.jpg)
 
 ```
@@ -217,8 +216,6 @@ samples, down slightly from 11.2%. PC2 still explains 7.3% of the
 total variation between the samples. So, even controlling for genre,
 the distance between the case statements and the *dicta*---both
 first- and second-recension---is still quite striking.
-
-![Figure 6 updated 21 Jan 2019](JPGs/Sg_PCA_52_001.jpg)
 
 To turn to the other interesting aspect of the three-way comparison,
 you'll note that the second-recension *dicta* in blue cluster
@@ -286,6 +283,8 @@ plots in this section!!!]**
 ![Figure 4 updated 25 Jun 2019](JPGs/NoQ_PCA_3_001.jpg)
 
 ![Figure 5 updated 25 Jun 2019](JPGs/NoQ_PCA_4_001.jpg)
+
+![Figure 6 updated 21 Jan 2019](JPGs/Sg_PCA_52_001.jpg)
 
 [^pca1]: Earlier versions of this section were presented as conference
 papers. "Can Stylometry Provide New Evidence about the Identity of
