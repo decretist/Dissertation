@@ -175,7 +175,7 @@ from *de Penitentia* (dePen), and the second recension *dicta*
 (Gratian2) is 1.3815 occurrences per 1,000 words with a sample
 standard deviation of 0.5011. The frequency of occurrence of *an*
 in the Gratian0 sample is therefore 75.2996 standard deviations
-away the mean frequency of occurrence of the same word in the
+away from the mean frequency of occurrence of the same word in the
 Gratian1, dePen, and Gratian2 samples. The frequency of occurrence
 of the word *si* in the Gratian0 sample, on the other hand, is
 14.4244 occurrences per 1,000 words. Given that the mean frequency
