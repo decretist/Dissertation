@@ -52,7 +52,7 @@ traditionally attributed personally to Gratian.
 
 Stylometry is the measurement of style. "Style is a property of
 texts constituted by an ensemble of formal features which can be
-observed quantitatively or qualitatively." [@herrmann_revisiting_2015,
+observed quantitatively or qualitatively."[@herrmann_revisiting_2015,
 44] While style has both qualitative and quantitative aspects,
 stylometry is concerned only with quantitative aspects of style.
 One well-established use of stylometry is to attribute authorship.
@@ -76,15 +76,15 @@ content words constitute an open class. Language-speaking communities
 can and do make up new adjectives, nouns, verbs all the time; content
 words are therefore an open class that can be added to at will. But
 new prepositions and conjunctions are almost never added to a
-language, and their usage changes very slowly over time, if it
+language. Their usage changes very slowly over time, if it
 changes at all, and function words are therefore, for all practical
 purposes, a closed, finite, class.
 
 Evidence from experimental psychology suggests that both authors
-and readers process function words at a subconscious level.
-[@kestemont_function_2014] The frequency with which a given author
-uses particular function words is therefore considered to be more
-or less invariant, making it a reliable authorial signature.
+and readers process function words at a subconscious
+level.[@kestemont_function_2014] The frequency with which a given
+author uses particular function words is therefore considered to
+be more or less invariant, making it a reliable authorial signature.
 
 **Some stylometric techniques use only function words, while others
 use common words generally, without regard to whether they are
@@ -101,10 +101,10 @@ was firmly established by the work of Frederick Mosteller and David
 L. Wallace on the *Federalist Papers*. The authorship of 12 of the
 *Federalist Papers*, 49-57 and 62-63, had been disputed since the
 early 19th century, with competing claims advanced on behalf of
-Alexander Hamilton and James Madison.[^5] In 1944, Douglass Adair,
+Alexander Hamilton and James Madison.[^4] In 1944, Douglass Adair,
 using traditional scholarly methods, settled the dispute largely
 to the satisfaction of early American historians, determining that
-Madison was the author of all 12 of the disputed numbers.[^6] In
+Madison was the author of all 12 of the disputed numbers.[^5] In
 1964, Mosteller and Wallace confirmed Adair's findings by conducting
 a stylometric analysis of the frequencies of 70 function words to
 compare the 12 disputed numbers with numbers securely attributed
@@ -121,7 +121,7 @@ appendix as transformations to Friedberg's text. The proxy for the
 first recension is then subtracted from Friedberg's text, leaving text
 from the second recension as the difference. The text samples from
 the first and second recensions of the *Decretum* that provide the
-basis for authorship attribution are build up by iteratively appending
+basis for authorship attribution are built up by iteratively appending
 short units of text (the individual first- and second-recension
 *dicta*) that are non-contiguous in the original context of the
 *Decretum*.**
@@ -136,7 +136,7 @@ second-recension *dicta*, we could consider the first-recension
 we could consider the second-recension *dicta* to be a superset of
 the first-recension *dicta*. While true enough from a commonsensical
 point of view, this is not a useful definition for the kinds of
-questions we would like to be able ask and answer, such as whether
+questions we would like to be able to answer, such as whether
 Gratian 1, the author of the first-recension *dicta*, is the same
 person as Gratian 2, the author of the second-recension *dicta*.
 
@@ -146,7 +146,7 @@ in the text of Friedberg's 1879 edition of Gratian's *Decretum* for
 which there is not a one-to-one correspondence to a word in the
 first-recension *dicta* as defined by Anders Winroth's appendix
 "The Contents of the First Recension of Gratian's
-*Decretum*".[@winroth_making_2000, 197-227] An alternative restatement
+*Decretum*."[@winroth_making_2000, 197-227] An alternative restatement
 would be to define the second-recension *dicta* as the difference
 left by subtracting all of the words of the first-recension *dicta*
 as defined by Winroth's appendix from the text in the Friedberg
@@ -232,12 +232,12 @@ proposed by Lisa Samuels and Jerome McGann in "Deformance and
 Interpretation" (1999), conflates the words "deformation" and
 "performance", and describes a process through which a text is
 transformed by the application of a series of deformances to generate
-a "paratext". [@samuels_deformance_1999] The paratext is different
+a "paratext".[@samuels_deformance_1999] The paratext is different
 from the original text, but defined by the deformances through which
-it was generated from it, and can be analyzed for otherwise unavailable
+it was generated from it and can be analyzed for otherwise unavailable
 insights into the original text.
 
-The methodology for producing the text samples used in this project
+The method for producing the text samples used in this project
 involves multiple stages of deformance. Starting with Friedberg's
 1879 edition of Gratian's *Decretum* as the text, Winroth's appendix,
 which compactly encodes first-recension variants with respect to
@@ -274,9 +274,9 @@ project is corpus preparation. The availability of a suitable corpus
 of electronic texts is a baseline requirement for carrying out
 stylometric analysis. The ideal textual basis for a project of this
 nature would be a set of electronic texts of good modern critical
-editions of both the first and second recensions of Gratian’s
-*Decretum*, following consistent orthographic conventions, and
-adhering to a widely-accepted encoding standard such as the XML
+editions of both the first and second recensions of Gratian's
+*Decretum*, which follow consistent orthographic conventions and
+adhere to a widely-accepted encoding standard such as the XML
 Text Encoding Initiative (TEI P5) format. The Mellon Foundation-supported
 effort directed by Anders Winroth to edit the first recension is
 ongoing, but work on Winroth's edition in progress had not reached
@@ -294,13 +294,13 @@ to be reconstructed through an editorial process quite similar to
 preparing a critical edition to restore it to a state as close as
 possible to what Reuter and Silagi presumably intended.
 
-In 1946, Father Roberto Busa, SJ (d. 2011), began work on what
+In 1946, Father Roberto Busa, SJ (d.2011), began work on what
 ultimately became the *Index Thomisticus*, a concordance of the
 works of St Thomas Aquinas. In 1949, Father Busa secured crucial
 support from Thomas J. Watson of IBM, allowing concordance generation
 to be carried out by means of electro-mechanical and later electronic
 computers operating on punch-card data. The *Index Thomisticus* is
-recognized today as the first important humanities computing project,
+recognized today as the first important humanities computing project
 and figures prominently in origin stories for digital humanities
 as a discipline.[^18] The success of Father Busa's project inspired
 a number of imitators, as well as the development of specialized
@@ -356,7 +356,7 @@ The deformance algorithm used to generate the paratexts described
 in the previous section on the definition of the first- and
 second-recension *dicta* was implemented in the form of a 201-line
 Python program. The program reads the MGH e-text of the Friedberg
-edition, and parses it to extract the *dicta*. The Oxford Concordance
+edition and parses it to extract the *dicta*. The Oxford Concordance
 Program (OCP) format in which the e-text is encoded is extremely
 difficult to parse because it is not tree-structured---it has start
 tags for textual elements such as canons and *dicta*, cases and
@@ -469,15 +469,15 @@ Penitentia* into separate first- and second-recension samples
 following the same procedure used to produce the Gratian1 and
 Gratian2 samples, as a practical matter it is not useful to do so.
 The only case statement (*thema*) for which Winroth's appendix notes
-a textual difference is C.19 d.init.[@winroth_making_2000, 216] The
+a textual difference is C.19 d.init.[@winroth_making_2000, 216] The
 first-recension version of the text of C.19 d.init. omits a 13-word
 clause added to the second recension version, seemingly for the
 purpose of piling up descriptive detail. (*unus relicta propria
 ecclesia eo inuito, alter dimissa regulari canonica cenobio se
-contulit*). Gratian0, the sample containing the cases statements,
+contulit*). Gratian0, the sample containing the case statements,
 is therefore made up of 99.6% first-recension text. Similarly, the
 number of words added to the *dicta* in *de Penitentia* between the
-first and second recensions is relatively minimal, 556 words out
+first and second recensions is relatively small, 556 words out
 of a total of 10,081 words; dePen, the sample containing the *dicta*
 from *de Penitentia*, is therefore made up of 94.5% first-recension
 text.
@@ -549,7 +549,7 @@ most frequent words would be *in*, *et*, *non*, and *est*. (The
 rank reversal between the second- and third-most frequent words is
 a result of the fact that *non* occurs quite infrequently in Gratian0;
 see the table below.) After identifying the four most frequent words
-in the three comparison samples, next, count the numbers of occurrences
+in the three comparison samples, next, count the number of occurrences
 of those words in each of the samples:[^24]
 
 ```python
@@ -888,7 +888,7 @@ words.
 ### Zipf's law
 
 The observed empirical relationship that word frequencies in a
-corpus of text tail off inversely as the rank is known as Zipf’s
+corpus of text tail off inversely as the rank is known as Zipf's
 law, after American quantitative linguist George Kingsley Zipf
 (d.1950). Though he does not seem to have claimed discovery, Zipf
 published the first extended discussions of the phenomenon.[^26]
@@ -902,7 +902,7 @@ corpus, and to demonstrate that Gratian's *dicta* display the
 expected orderliness of word distribution.**
 
 If the words in a corpus of text are rank-ordered from most to least
-frequent, Zipf’s laws posits that, as a first-order approximation,
+frequent, Zipf's laws posits that, as a first-order approximation,
 the frequency of the Nth word will be 1/N times that of the most
 frequent word.[^27] In other words, the theoretical Zipf distribution
 predicts that the frequency of the second most frequent word in a
@@ -949,7 +949,7 @@ which he lived, of the fact that the variables in the formulas by
 which he sought to express these relationships represent discrete
 rather than continuous quantities.[^29] **Zipf also noted that value
 of the exponent of b is likely to differ from 2 depending on the
-size of the corpus [@zipf_psycho-biology_1935, 43]**
+size of the corpus[@zipf_psycho-biology_1935, 43]**
 
 Zipf's final attempt, in 1949, to give a quantitative account of
 the distribution of words in a corpus characterized the distribution
@@ -1061,7 +1061,7 @@ Attempts to attribute authorship are typically undertaken in scenarios
 where there is a large (enough) number of texts securely attributable
 to a known author, and a text, or at most a small number of texts,
 of unknown authorship. The attempt is then made to attribute the
-unknown text to one of the known authors, or to rule out such an
+unknown text to the known author, or to rule out such an
 attribution. Take the *Federalist* as an example. There are numbers
 of the *Federalist* of disputed or unknown attribution, a small and
 well-defined number of candidates for authorship---Hamilton, Jay,
@@ -1250,7 +1250,7 @@ generalizes this assumption into an arbitrary number of dimension.
 The scholarly literature on authorship attribution methods describes
 distance metrics such as Burrows's Delta as measuring 'Manhattan
 Distance'. The analogy is to walking or driving from a starting
-to an ending point through a space in which the street have been
+to an ending point through a space in which the streets have been
 laid out at right angles to one another, like Manhattan.
 
 ```python
@@ -1400,9 +1400,9 @@ at every step in the process.
 | penance   |   0.9152 |     0.8101 |   1.0992 |   0.7609 |     0.8146 |  nan      |   0.9026 |
 | second    |   1.0674 |     0.7861 |   1.2408 |   0.877  |     0.8796 |    0.8927 | nan      |
 
-[^5]: @mosteller_inference_1964, 14. See also @adair_authorship_1944a, 104.
+[^4]: @mosteller_inference_1964, 14. See also @adair_authorship_1944a, 104.
 
-[^6]: @adair_authorship_1944a and @adair_authorship_1944b.
+[^5]: @adair_authorship_1944a and @adair_authorship_1944b.
 
 [^8]: @winroth_making_2000, 201. The numbers 1 and 2 refer to line
 numbers relative to the first line of the *dictum*, as opposed to
