@@ -4,25 +4,21 @@
 
 ## Dissertation
 
-### Chapter 1
-```
-pandoc -f docx -t markdown "Evans-HIGR 295 Draft-SC Accept Changes.docx" -o higr295.md
-```
+### Chapters
 
-### Chapter 3
-```
-pandoc -f docx -t markdown "Chapter 3 - Gratian.docx" -o chapter3-gratian.md
-```
+- [Chapter 0](Chapter0/chapter0.md)
+- [Chapter 1](Chapter1/chapter1.md)
+- [Chapter 2](Chapter2/chapter2.md)
+  - [Presentation](Chapter2/presentation.md)
+  - [Organization](Chapter2/organization.md)
+- [Chapter 3](Chapter3/chapter3.md)
+- [Chapter 4](Chapter4/chapter4.md)
+  - [Principal component analysis](Chapter4/pca.md)
+- [Chapter 5](Chapter5/chapter5.md)
 
-### spellfile
-```
-:set spell
-:set spelllang=en_us
-:set spellfile=$HOME/Work/Dissertation/spl/en.utf-8.add
-```
-If you hand-edit the .add spellfile,
-you will have to re-generate the .spl database:
-```
-:1,$!sort --ignore-case
-:mkspell! %
-```
+### Notebooks
+
+- [2-dimensional visualization](Notebooks/Burrows/Visualization.ipynb)
+- [Zipf's law (1935)](Notebooks/Zipf/Zipf35.ipynb)
+- [Zipf's law (1949)](Notebooks/Zipf/Zipf49.ipynb)
+- [Burrows's delta](Notebooks/Burrows/Burrows.ipynb)
