@@ -194,18 +194,21 @@ ab obsequiis sui patroni fuerint absoluti. Unde in Concilio
 Eliberitano:*" is included in the second recension text sample.
 
 Note that the individual *dicta* are too short for direct analysis
-by the techniques discussed in this chapter.[^9] The smallest unit of
-Latin prose for which computational stylometry works is about 2,500
-words.[@eder_does_2015, 171] The longest first-recension *dictum*
-(*de Pen*. D.1 d.p.c.87) is 1,591 words, and the longest second-recension
-*dictum* (C.7 q.1 d.p.c.48) is 692 words. As a result, first and
-second recension samples long enough for analysis have to be created
-by rolling up or concatenating the first and second recension *dicta*
-as they occur sequentially but discontinuously throughout the
+by the techniques discussed in this chapter.[^9] The smallest unit
+of Latin prose for which computational stylometry works is about
+2,500 words.[@eder_does_2015, 171] The longest first-recension
+*dictum* (*de Pen*. D.1 d.p.c.87) is 1,591 words, and the longest
+second-recension *dictum* (C.7 q.1 d.p.c.48) is 692 words. As a
+result, a first-recension sample long enough to be useful for the
+purpose of stylometric analysis has to be created by rolling up or
+concatenating the first-recension *dicta* as they occur sequentially
+but discontinuously throughout Gratian's text. The corresponding
+second-recension sample is created in the same manner by concatenating
+second-recension *dicta* in the order of their occurrence in the
 *Decretum*.
 
 Both the text of Friedberg's 1879 edition of Gratian's *Decretum*
-and Winroth's appendix are potentially open to criticism. Although
+and Winroth's appendix are open to criticism. Although
 modern scholars admire Friedberg's learning and energy --- the 1879
 edition of the *Decretum* was only one of many such projects that
 he undertook --- his editorial standards were those of 140 years
@@ -356,11 +359,52 @@ The deformance algorithm used to generate the paratexts described
 in the previous section on the definition of the first- and
 second-recension *dicta* was implemented in the form of a 201-line
 Python program. The program reads the MGH e-text of the Friedberg
-edition and parses it to extract the *dicta*. The Oxford Concordance
-Program (OCP) format in which the e-text is encoded is extremely
-difficult to parse because it is not tree-structured---it has start
-tags for textual elements such as canons and *dicta*, cases and
-distinctions, but not (unlike XML) end tags.[@hockey_history_2004]
+edition and parses it to extract the *dicta*.
+
+Most readers will have at least a passing familiarity with the
+syntax of the Hypertext Markup Language (HTML) documents that serve
+as the foundation for the World Wide Web. Elements in HTML documents
+like headers, paragraphs, and links are delimited by start and end
+tags. Tags in HTML documents are recognizable by the use of angle
+bracket characters surrounding an identifier representing an element
+type. For example, `p` is the identifier for the paragraph element
+in HTML, so `<p>` is the paragraph start tag and `</p>` is the
+paragraph end tag. HTML elements, defined as spanning start tag,
+content (if any), and end tag, wholly enclose or are wholly enclosed
+by other elements. Consider the following examples in which `<h1>`
+is the start tag and `</h1>` is the end tag for an HTML top-level
+section heading:
+
+```
+<h1>Valid</h1><p>This is valid HTML.</p>
+<h1>Invalid<p></h1>This is invalid HTML.</p>
+```
+
+The first example is syntactically valid HTML because the start
+tag, content, and end tag for the top-level section heading element
+comes before the start tag, content, and end tag for the paragraph
+element. The second example is syntactically invalid HTML because
+the start tag for the paragraph element comes before the end tag
+for the top-level section heading element, with the result that
+neither of the elements wholly encloses or is wholly enclosed by
+the other.
+
+The examples in the foregoing discussion were framed in terms of
+HTML for the sake of familiarity, but the syntax of the Extensible
+Markup Language (XML), the current standard for encoding electronic
+texts, exhibits the same attributes. A document composed of elements
+delimited by start and end tags in which the elements wholly enclose
+or are wholly enclosed by other elements is said to be tree-structured.
+XML documents are tree-structured, which make them easy to parse.
+Although the markup used in the MGH e-text of the Friedberg edition
+of Gratian's *Decretum* superficially resembles the Standard
+Generalized Markup Language (SGML), an ancestor of XML, the e-text
+is in fact encoded in the Oxford Concordance Program (OCP) format.
+OCP markup is extremely difficult to parse because it is not
+tree-structured---it has start tags for textual elements such as
+canons and *dicta*, cases and distinctions, but not (unlike XML)
+end tags.[@hockey_history_2004]
+
 The extraction engine captures every element of text between a
 *dictum* start tag (`<T A>` or `<T P>`) and the start tag for the
 next element that can possibly follow a *dictum*:
