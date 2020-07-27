@@ -102,9 +102,18 @@ producing that effect.
 Turning on the stylo feature loadings option lets us see how strongly
 particular words influence the placement of text samples along the
 PC1 and PC2 axes. This is called the feature's discriminative
-strength. For example, we see that *sed* and *non* are way out on
-the right of the PC1 axis, while *unde* is way down at the bottom
-of the PC2 axis.
+strength. For example, *sed* and *non* are located toward the right
+(positive) end of the PC1 axis, while *an* and *si* are located
+toward the left (negative) end of the PC1 axis. Similarly, *uel*
+and *uero* are located toward the upper (positive) end of the PC2
+axis, while *quomodo* is located toward the lower (negative) end
+of the PC2 axis. **As we will see mmediately below, *an* and *si*
+are closely associated with the hypothetical case statements
+(*themata*), while *quomodo* is closely associated with the first-
+and second-recesion *dicta* from *de Penitentia*.**
+(**Updated 26 July 2020.**)
+
+---
 
 Remember that in our first experiment with counting function words,
 *non*, the second most common word in the samples, was strongly
