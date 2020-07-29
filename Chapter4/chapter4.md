@@ -236,8 +236,10 @@ Interpretation" (1999), conflates the words "deformation" and
 "performance", and describes a process through which a text is
 transformed by the application of a series of deformances to generate
 a "paratext".[@samuels_deformance_1999] The paratext is different
-from the original text, but defined by the deformances through which
-it was generated from it and can be analyzed for otherwise unavailable
+from the original text, but is defined by the deformances through
+which it is generated from the original. The classic example of
+deformance in a literary context is reversing the order of lines
+in a poem. The paratext can be analyzed for otherwise unavailable
 insights into the original text.
 
 The method for producing the text samples used in this project
@@ -358,8 +360,8 @@ the MGH e-text remains a useful tool for the study of Gratian's
 The deformance algorithm used to generate the paratexts described
 in the previous section on the definition of the first- and
 second-recension *dicta* was implemented in the form of a 201-line
-Python program. The program reads the MGH e-text of the Friedberg
-edition and parses it to extract the *dicta*.
+Python program.[^python] The program reads the MGH e-text of the
+Friedberg edition and parses it to extract the *dicta*.
 
 Most readers will have at least a passing familiarity with the
 syntax of the Hypertext Markup Language (HTML) documents that serve
@@ -728,7 +730,7 @@ We can graph the number of occurrences of *in* and *non* per 1,000
 words in the *dicta*, with the frequency of *in* plotted along the
 horizontal x-axis, and the frequency of *non* plotted along the
 vertical y-axis, to produce a simplified visualization of the total
-variation between the three samples. Means are provided for context:
+variation among the three samples. Means are provided for context:
 the vertical dashed line represents the mean of means for the
 horizontal (*in*) axis, and the horizontal dashed line represents
 the mean of means for the vertical (*non*) axis.
@@ -1098,8 +1100,8 @@ single metric. Burrows called this metric the Delta, and it is now
 generally referred to as Burrows's Delta ($\Delta_B$).[^34] Expositions
 of Burrows's Delta sometime fail to make a clear enough distinction
 between the metric $\Delta_B$ and the authorship attribution
-methodology in which Burrows applied it. The metric is not the
-methodology.
+method in which Burrows applied it. The metric is not the
+method.
 
 Attempts to attribute authorship are typically undertaken in scenarios
 where there is a large (enough) number of texts securely attributable
@@ -1113,10 +1115,10 @@ Madison---to whom those numbers might be attributed, and securely
 attributed samples from each of the candidates, conveniently enough
 from the same work.
 
-Burrows's methodology assumes just such a scenario. He began by
+Burrows's method assumes just such a scenario. He began by
 identifying the most frequent words (MFWs) in the corpus of comparison
 texts securely attributed to known authors. In Burrows's published
-descriptions of his methodology, he typically used all of the 30
+descriptions of his method, he typically used all of the 30
 most frequent words in the corpus of attributed comparison texts
 without distinguishing between function and content words. He then
 tabulated the number of occurrences of the most frequent words in
@@ -1167,7 +1169,7 @@ interpretation, the comparison test sample from the attributed
 corpus with the lowest Delta with respect to the unattributed test
 sample was most likely to share a common author with it.
 
-It is not possible to apply Burrow's methodology in the case of the
+It is not possible to apply Burrow's method in the case of the
 *dicta* from Gratian's *Decretum* without modification. As the
 survey in Chapter 3 above indicated, near-contemporaries knew next
 to nothing about Gratian. Perhaps most notably, although Gratian
@@ -1504,6 +1506,18 @@ Thanks to Anders Winroth for reporting the errors in D.6 d.p.c.3
 homeoteleuton at D.23 c.2 in the MGH e-text to my attention (August
 23, 2019). Clemens Radl of the MGH confirmed to Winroth that the
 e-text was typed.
+
+[^python]: Python is a widely-used general-purpose programming
+language. According to one frequently-cited industry metric, the
+[TIOBE Index](https://www.tiobe.com/tiobe-index/), Python was the
+third-most popular programming language worldwide as of July 2020,
+behind legacy languages C and Java. Python provides powerful features
+for performing operations on textual data, notably regular expressions,
+which allow programmers to specify arbitrarily complicated patterns
+of characters according to a rule, and then to search for and replace
+units of text matching the pattern. (The use of the word *regular*
+in the term *regular expression* is analogous to its use in the
+term *canons regular*. In both cases a rule is being followed.)
 
 [^24]: Much of the analysis from this point forward will take advantage
 of the specialized capabilities of a Python software library called
