@@ -2,7 +2,7 @@
 bibliography: ../bib/merged.bib
 csl: ../csl/chicago-fullnote-bibliography.csl
 reference-section-title: Bibliography
-suppress-bibliography: true
+suppress-bibliography: false
 title: Chapter 2
 subtitle: The *Decretum*
 ---
