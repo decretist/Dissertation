@@ -10,6 +10,15 @@
 - [ ] **~/Tmp is not checked in and not backed up!**
 - [ ] Add statistics code to segment.py? (Mean size of samples plus standard deviation)
 
+(28 July 2020)
+- [x] Google Meet w/Larry Poos 13:00 PDT
+
+(27 July 2020)
+- [x] Zoom w/Kate Jansen 14:30 PDT
+
+(13 July 2020)
+-[x] Zoom w/Stan Chodorow 09:00 PDT
+
 (14 May 2020)
 - [x] Write definition of 1st- and 2nd-recension _dicta_ in samples
 
