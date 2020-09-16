@@ -107,7 +107,7 @@ strength. For example, *sed* and *non* are located toward the right
 toward the left (negative) end of the PC1 axis. Similarly, *uel*
 and *uero* are located toward the upper (positive) end of the PC2
 axis, while *quomodo* is located toward the lower (negative) end
-of the PC2 axis. **As we will see mmediately below, *an* and *si*
+of the PC2 axis. **As we will see immediately below, *an* and *si*
 are closely associated with the hypothetical case statements
 (*themata*), while *quomodo* is closely associated with the first-
 and second-recesion *dicta* from *de Penitentia*.**
