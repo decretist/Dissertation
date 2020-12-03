@@ -322,6 +322,7 @@ MGH e-text:[^19]
 | Citation      |   Column | Error                                         | Correction                                                        |
 |:--------------|---------:|:----------------------------------------------|:------------------------------------------------------------------|
 | D.6 d.p.c.3   |       11 | quantam ad moralem intelligentiam             | quantum ad moralem intelligentiam                                 |
+| D.15 c.2      |       35 | ausu dementiae prolata, refutatur             | ausu dementiae prolata, refutantur                                |
 | D.23 c.2      |       79 |                                               | carnis passione, mortuus uera corporis sui morte, resurrexit uera |
 | D.54 d.p.c.22 |      214 | Quid autem serui ecclesiarum                  | Quod autem serui ecclesiarum                                      |
 | C.2 q.6 c.41  |      483 | contra sententiam restitutionem inpetraverit  | contra sententiam restitutionem inpetrauerit                      |
@@ -1496,11 +1497,11 @@ the fundamental stylometric technique now known as Burrows's Delta
 in a lecture he delivered on the occasion of receiving the award
 in 2001.
 
-[^19]: Data current as of 23 May 2020. For more recent error reports,
+[^19]: Data current as of 4 November 2020. For more recent error reports,
 see the list I maintain for the Stephan Kuttner Institute on
 [GitHub](https://github.com/StephanKuttnerInstitute/FriedbergBugs/blob/master/bug-reports.csv).
 Thanks to Anders Winroth for reporting the errors in D.6 d.p.c.3
-(6 October 2019) and D.23 c.2 (23 August 2019).
+(6 October 2019), D.15 c.2 (4 November 2020), and D.23 c.2 (23 August 2019).
 
 [^20]: Thanks to Anders Winroth for bringing the instance of
 homeoteleuton at D.23 c.2 in the MGH e-text to my attention (August
