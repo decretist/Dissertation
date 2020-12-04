@@ -4,6 +4,7 @@ title: Appendix 3
 |Citation     |Column|Reported by   |Date     |Error                                        |Correction|
 |:------------|-----:|:-------------|---------|---------------------------------------------|----------|
 |D.6 d.p.c.3  |    11|Anders Winroth| 6-Oct-19|quantam ad moralem intelligentiam            |quantum ad moralem intelligentiam|
+|D.15 c.2     |    35|Anders Winroth| 4-Nov-20|ausu dementiae prolata, refutatur            |ausu dementiae prolata, refutantur|
 |D.23 c.2     |    79|Anders Winroth|23-Aug-19|                                             |carnis passione, mortuus uera\
 corporis sui morte, resurrexit uera|
 |D.54 d.p.c.22|   214|Paul Evans    | 6-Apr-13|Quid autem serui ecclesiarum                 |Quod autem serui ecclesiarum|
