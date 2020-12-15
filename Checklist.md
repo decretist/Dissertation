@@ -189,3 +189,6 @@ Clavis Canonum read "Definimus eum rite".)
 
 (27 April 2017)
 + **†John Noonan (1926-2017)**
+
+(3 December 2014)
++ **†John Marino (1946-2014)**
