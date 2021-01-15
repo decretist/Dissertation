@@ -25,20 +25,21 @@ outline was limited and clearly defined: to show that there was no
 information in the known biography of Gratian, either from modern
 scholarship (Noonan, Grebner, Winroth, and Pennington) or from
 evidence left by near-contemporaries (i.e, the authors of the
-prefaces of 12th-century *summae* on the *Decretum*), that contradicted
-or precluded the possibility that the case statements and *dicta*
-had different authors. (quote Chodorow) To the extent that I intended
-to review the evidence left by near-contemporaries, I was mainly
-interested in the question of whether any of the decretist authors
-of the prefaces to the *summae* suggested that they had been students
-of Gratian or otherwise had first-hand knowledge of the circumstances
-under which the *Decretum* had been compiled. The conclusion of the
-first draft of the Gratian chapter was that no near-contemporary
-makes an unambiguous claim to have been Gratian's student or to
-otherwise have had first-hand knowledge of the circumstances under
-which the *Decretum* was compiled, and that nothing in modern
-scholarship precludes or contradicts the possibility that the
-*Decretum* was a product of collective or group authorship.
+prefaces of twelfth-century *summae* on the *Decretum*), that
+contradicted or precluded the possibility that the case statements
+and *dicta* had different authors. (quote Chodorow) To the extent
+that I intended to review the evidence left by near-contemporaries,
+I was mainly interested in the question of whether any of the
+decretist authors of the prefaces to the *summae* suggested that
+they had been students of Gratian or otherwise had first-hand
+knowledge of the circumstances under which the *Decretum* had been
+compiled. The conclusion of the first draft of the Gratian chapter
+was that no near-contemporary makes an unambiguous claim to have
+been Gratian's student or to otherwise have had first-hand knowledge
+of the circumstances under which the *Decretum* was compiled, and
+that nothing in modern scholarship precludes or contradicts the
+possibility that the *Decretum* was a product of collective or group
+authorship.
 
 From 2012 to 2014, I worked as a graduate research assistant for
 the Maryland Institute for Technology in the Humanities (MITH) at
@@ -49,15 +50,15 @@ a brown-bag seminar attended by members of the MITH staff, mostly
 English and Information School faculty plus staff members holding
 appointments in the UMD library system. As is quite common in the
 Digital Humanities community, the primary academic expertise of the
-faculty members present was in 19th-century English literature (for
-example, Neil Fraistat, the director of MITH at the time, is a
-leading authority on Keats, Shelley, and Byron). For the benefit
+faculty members present was in nineteenth-century English literature
+(for example, Neil Fraistat, the director of MITH at the time, is
+a leading authority on Keats, Shelley, and Byron). For the benefit
 of the non-medievalist audience, I presented the problem I was
 investigating in a simplified (though I believe not over-simplified)
 form. Using a physical copy of the Friedberg edition of the *Decretum*
 as a prop, I made the following points:
 
-+ That the *Decretum* was a 12th-century university textbook for
++ That the *Decretum* was a twelfth-century university textbook for
 the study of canon law, the law of the Roman Catholic church.
 
 + That the *Decretum* was written in Latin (I had reason to know
@@ -109,3 +110,46 @@ the commentary historically attributed to Gratian had one or two
 authors. If the results of the experiment made no sense in the terms
 of the question it was intended to answer, that, Fraistat suggested,
 meant that the field was asking the wrong question.
+
+**"If the answer doesn't make sense, you're asking the wrong
+question."**
+
+**Authority**
+
+In the middle ages, to presume to take on the role of *auctor* was
+to make a claim (at least implicitly) to *auctoritas*. Medieval
+writers were in general quite reticent about making claims to
+*auctoritas* on their own behalf, and employed a variety of techniques
+to maintain plausible deniability that they were in fact claiming
+authorship and the authority that goes with it. Some repudiated the
+role of author altogether and circulated the texts they wrote
+pseudonymously under the name of a canonical author of unquestioned
+authority. Augustine was the overwhelming favorite, and Gratian
+extensively quoted from a text, *De vera et falsa penitentia*, that
+circulated under such false pretences in his *de Penitentia*. Others
+sought to distance themselves from the role of author by locating
+authority in texts they quoted rather than in the original use they
+made of those quoted texts in their own writing ("their authority
+deriving mainly from the fact that they consisted mostly of quotations"
+Winroth, *The Making of Gratian's Decretum*, 191).
+
+The problem of authorship and authority was particularly acute in
+the first half of the twelfth century, because early scholastic
+readers were more alert to the chinks in the armor of traditional
+authorities than their less-sophisticated predecessors had been.
+Peter Abelard was unique in the radicalism of his solution to the
+problem: in *Sic et non*, he subverted and indeed dissolved the
+entire notion of authority by showing that texts written by equally
+authoritative authors were in actual, not just apparent, disagreement.
+
+Gratian, here defined as the author(s) of the first-recension
+*dicta*, undertook the conservative hermeneutical project of
+harmonizing the apparently discordant canons, and accordingly adopted
+the strategy of locating authority in the texts that he quoted. It
+seem, however, that the widespread reception of the *Decretum* as
+itself authoritative was influenced be an accidental feature of the
+text.
+
+In any event, the modern notion that the authority of a text derives
+from the independently testable validity of the arguments it contains
+is simply not relevant in the context of the twelfth century.
