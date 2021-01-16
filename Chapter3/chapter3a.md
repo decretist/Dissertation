@@ -5,7 +5,7 @@ csl: ../csl/chicago-fullnote-bibliography.csl
 date: January 14-15, 2021
 reference-section-title: Bibliography
 suppress-bibliography: false
-title: Chapter 3
+title: Chapter 3a
 subtitle: Work in progress
 ---
 The last time we talked, I indicated that chapter 3 on Gratian was
@@ -19,10 +19,10 @@ hesitated about whether to start with Gratian or with the *Decretum*.
 I eventually decided that it would be better to start with the
 *Decretum* than with Gratian since we know much more about the
 *Decretum* than we do about Gratian, and most of what we do know
-about Gratian, we know through the *Decretum* (quote John Wei). The
-chapter that followed from the decision to start with the *Decretum*
-is the one we read and discussed with the HIGR 295 participants in
-November 2017.
+about Gratian, we know through the *Decretum*[^1] The chapter that
+followed from the decision to start with the *Decretum* is the one
+we read and discussed with the HIGR 295 participants in November
+2017.
 
 The purpose of the Gratian chapter in the original dissertation
 outline was limited and clearly defined: to show that there was no
@@ -31,19 +31,18 @@ scholarship (Noonan, Grebner, Winroth, and Pennington) or from
 evidence left by near-contemporaries (i.e, the authors of the
 prefaces of twelfth-century *summae* on the *Decretum*), that
 contradicted or precluded the possibility that the case statements
-and *dicta* had different authors. (quote Chodorow) To the extent
-that I intended to review the evidence left by near-contemporaries,
-I was mainly interested in the question of whether any of the
-decretist authors of the prefaces to the *summae* suggested that
-they had been students of Gratian or otherwise had first-hand
-knowledge of the circumstances under which the *Decretum* had been
-compiled. The conclusion of the first draft of the Gratian chapter
-was that no near-contemporary makes an unambiguous claim to have
-been Gratian's student or to otherwise have had first-hand knowledge
-of the circumstances under which the *Decretum* was compiled, and
-that nothing in modern scholarship precludes or contradicts the
-possibility that the *Decretum* was a product of collective or group
-authorship.
+and *dicta* had different authors.[^2] To the extent that I intended
+to review the evidence left by near-contemporaries, I was mainly
+interested in the question of whether any of the decretist authors
+of the prefaces to the *summae* suggested that they had been students
+of Gratian or otherwise had first-hand knowledge of the circumstances
+under which the *Decretum* had been compiled. The conclusion of the
+first draft of the Gratian chapter was that no near-contemporary
+makes an unambiguous claim to have been Gratian's student or to
+otherwise have had first-hand knowledge of the circumstances under
+which the *Decretum* was compiled, and that nothing in modern
+scholarship precludes or contradicts the possibility that the
+*Decretum* was a product of collective or group authorship.
 
 From 2012 to 2014, I worked as a graduate research assistant for
 the Maryland Institute for Technology in the Humanities (MITH) at
@@ -118,7 +117,7 @@ meant that the field was asking the wrong question.
 **"If the answer doesn't make sense, you're asking the wrong
 question."**
 
-**Authority**
+### Authority
 
 In the middle ages, to presume to take on the role of *auctor* was
 to make a claim (at least implicitly) to *auctoritas*. Medieval
@@ -163,7 +162,7 @@ reason other than that the conventions for the various genres of
 the literature of canon law had not yet been firmly established,
 readers in the 1150s and 1160s seem to have understood it, at least
 implicitly, as an authority claim, a claim that they were more than
-willing to accept.[^1] This was almost certainly an over-reading of the
+willing to accept.[^3] This was almost certainly an over-reading of the
 authority claim actually being made in the *Decretum*. At most,
 there seems to have been a limited claim of authority being made
 by the authors of the first-recension *dicta* (Gratian 1) on behalf
@@ -174,7 +173,18 @@ In any event, the modern notion that the authority of a text derives
 from the independently testable validity of the arguments it contains
 is simply not relevant in the context of the twelfth century.
 
-[^1]: "In the first recension, Gratian I both collected authoritative
+[^1]: "Given this lack of reliable extrinsic evidence, our best
+source of evidence about Gratian is his book(s)." [@wei_gratian_2016,
+33].
+
+[^2]: "The third order of business then is to recount the history
+of efforts, from the *Summa Parisiensis* on, of legal scholars and
+historians to find the man behind the name Gratian. Here, you need
+to lay out the traditional evidence used for solving this puzzle.
+You are lucky that Noonan, Pennington etc. have laid out the evidence
+and played with it for you." – Stan Chodorow
+
+[^3]: "In the first recension, Gratian I both collected authoritative
 texts and commented upon them, as did Peter Lombard in his roughly
 contemporary *Sentences*. Both texts were written to meet the need
 for a basic text-book in the teaching of their respective disciplines.
