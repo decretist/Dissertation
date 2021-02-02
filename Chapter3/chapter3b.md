@@ -52,22 +52,23 @@ of the essay, Barthes uses the term "Critic" in opposition to Author
 only exists in relation to, the Author (as opposed to author).
 
 The *Decretum* is not a literary text, but the *dicta* have features
-that make it worthwhile to consider Barthes's definition when making
-an assessment of Gratian's authorship. The *dicta* are socially
-constructed as complete and closed bodies of text: my stylometric
-analysis suggests that there is no one author (in the way that term
-is generally used) for the first-recension *dicta* taken as a
-totality, and no one author for the second-recension *dicta* taken
-as a totality. The *dicta* are socially constructed individually:
-each dictum is a "tissue of quotations drawn from the innumerable
-centres of culture." The *dicta* started life in a classroom setting,
-and therefore have both a performative and a contemporaneous aspect
-("there is no other time than that of the enunciation and every
-text is eternally written *here* and *now*" Barthes, 145) This makes
-Gratian a scriptor according to Barthes's definition. The *dicta*
-are the record of a particular close-reading of the authoritative
-texts. This makes Gratian a critic, although not necessarily a
-Critic, according to Barthes's definition.
+that make it worthwhile to at least consider whether Barthes offers
+a useful and relevant perspective from which to assess Gratian's
+authorship. The *dicta* are socially constructed as complete and
+closed bodies of text: my stylometric analysis suggests that there
+is no one author (in the way that term is generally used) for the
+first-recension *dicta* taken as a totality, and no one author for
+the second-recension *dicta* taken as a totality. The *dicta* are
+socially constructed individually: each *dictum* is a "tissue of
+quotations drawn from the innumerable centres of culture." The
+*dicta* started life in a classroom setting, and therefore have
+both a performative and a contemporaneous aspect ("there is no other
+time than that of the enunciation and every text is eternally written
+*here* and *now*" [@barthes_death_1977, 145]) This makes Gratian a
+scriptor according to Barthes's definition. The *dicta* are the
+record of a particular close-reading of the authoritative texts.
+This makes Gratian a critic, although not necessarily a Critic,
+according to Barthes's definition.
 
 Post-Noonan scholarship on the biography of Gratian by Grebner,
 Winroth, and Pennington has been conducted in the spirit of an
@@ -82,29 +83,11 @@ his successors.) In doing so, these historians have uncritically
 accepted precisely the conceptualization of authorship that Barthes
 is arguing against:
 
-To give a text an Author is to impose a limit on that text, to
-furnish it with a final signified, to close the writing. Such a
-conception suits criticism very well, the latter then allotting
-itself the important task of discovering the Author (or its hypostases:
-society, history, psyche, liberty) beneath the work: when the Author
-has been found, the text is 'explained' - victory to the critic.
-[@barthes_death_1977, 147]
+    To give a text an Author is to impose a limit on that text, to
+    furnish it with a final signified, to close the writing. Such
+    a conception suits criticism very well, the latter then allotting
+    itself the important task of discovering the Author (or its
+    hypostases: society, history, psyche, liberty) beneath the work:
+    when the Author has been found, the text is 'explained' - victory
+    to the critic. [@barthes_death_1977, 147]
 
-The *Decretum* is not a literary text, but it has features that
-make it worthwhile to at least consider whether Barthes offers a
-useful and relevant perspective from which to assess Gratian's
-authorship. The *dicta* are socially constructed as complete and
-closed bodies of text: my stylometric analysis suggests that there
-is no one author (in the way that term is generally used) for the
-first-recension *dicta* taken as a totality, and no one author for
-the second-recension *dicta* taken as a totality. The *dicta* are
-socially constructed individually: each *dictum* is a "tissue of
-quotations drawn from the innumerable centres of culture." The
-*dicta* started life in a classroom setting, and therefore have
-both a performative and a contemporaneous aspect ("there is no other
-time than that of the enunciation and every text is eternally written
-here and now" [@barthes_death_1977, 145]) This makes Gratian a
-scriptor according to Barthes's definition. The *dicta* are the
-record of a particular close-reading of the authoritative texts.
-This makes Gratian a critic, although not necessarily a Critic,
-according to Barthes's definition.
