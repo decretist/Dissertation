@@ -83,11 +83,11 @@ his successors.) In doing so, these historians have uncritically
 accepted precisely the conceptualization of authorship that Barthes
 is arguing against:
 
-    To give a text an Author is to impose a limit on that text, to
-    furnish it with a final signified, to close the writing. Such
-    a conception suits criticism very well, the latter then allotting
-    itself the important task of discovering the Author (or its
-    hypostases: society, history, psyche, liberty) beneath the work:
-    when the Author has been found, the text is 'explained' - victory
-    to the critic. [@barthes_death_1977, 147]
+> To give a text an Author is to impose a limit on that text, to
+furnish it with a final signified, to close the writing. Such a
+conception suits criticism very well, the latter then allotting
+itself the important task of discovering the Author (or its hypostases:
+society, history, psyche, liberty) beneath the work: when the Author
+has been found, the text is 'explained' - victory to the critic.
+[@barthes_death_1977, 147]
 
