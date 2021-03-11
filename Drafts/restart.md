@@ -46,12 +46,8 @@ of texts attributed to Ulpian.
 ---
 
 The A.S.G. Edwards essay in the July 3, 2020 issue of *The Times
-Literary Supplement (TLS)* [@edwards_go_2020] appears to refer to:
-"The Gawain Poems" by R.A. Cooper and D.A. Pearsall.
-
-Cooper, R. A., and D. A. Pearsall. “The Gawain Poems: A Statistical
-Approach to the Question of Common Authorship.” The Review of English
-Studies 39, no. 155 (1988): 365–85.
+Literary Supplement (TLS)* [@edwards_go_2020] appears to refer to
+"The Gawain Poems" by R.A. Cooper and D.A. Pearsall. [@cooper_gawain_1988]
 
 Cooper and Pearsall conclude that the stylometric evidence they
 evaluate is consistent with common authorship for the four poems
