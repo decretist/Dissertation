@@ -48,14 +48,18 @@ stylometric analysis of two visionary texts of Hildegard of Bingen
 was a useful example for this project.[^pca5]
 (**Updated 25 June 2020.**)
 
----
-
-Because stylometric analysis for authorship attribution depends on
-the frequencies of prepositions and conjunctions, it is important
-to include enclitics substituting for conjunctions. Every word in
-the samples with a -*que* ending that is actually an enclitic, and
-not just part of the word, has been mapped to the word plus the
-pseudo-conjunction *xque*.[^pca6]
+Stylometric analysis for the purpose of authorship attribution rests
+on the frequencies of occurrence of function words including
+conjunctions. It is therefore essential to properly account for the
+frequencies of enclitics endings representing conjunctions. Each
+word in the samples ending with -*que* where the ending represents
+an enclitic being used as a conjunction and is not simply part of
+the word has been mapped to a two-word sequence consisting of the
+word plus the pseudo-conjunction *xque*.[^pca6] Other Latin enclitic endings
+such as -*ne* and -*ve* occur infrequently enough in the samples
+that they can be disregarded for the purpose of pseudo-conjunction
+mapping.
+(**Updated 18 March 2021**)
 
 ---
 
@@ -94,7 +98,7 @@ see a value for PC1 greater than 10% and we want to see a value for
 PC2 greater than 5%. The most visually striking aspect of this plot
 is the fact that the case statements are so far away from the
 *dicta*, and the next step is to take a look at which features
-producing that effect.
+produce that effect.
 (**Updated  1 July 2020.**)
 
 ![Figure 2 updated 28 May 2020](JPGs/4-way_PCA_52_MFWs_Loadings_001.jpg)
@@ -119,9 +123,9 @@ Remember that in our first experiment with counting function words,
 *non*, the second most common word in the samples, was strongly
 associated with the first-recension *dicta*. Here we see *non*
 on the far right, and in fact the samples from the first-recension
-*dicta* (but not from the second-recension *dicta*) tend to spread
+*dicta* (but not those from the second-recension *dicta*) tend to spread
 out to the right. Note also that *in*, the most common word in
-the samples, is actually pretty close to the middle. So, it's not
+the samples, is actually fairly close to the middle. So, it's not
 so much that the second-recension *dicta* have more occurrences of
 *in*, it's that the first-recension *dicta* have fewer.
 
@@ -319,13 +323,26 @@ and Chapter 6 "Style" in @jockers_macroanalysis_2013.
 Kestemont was very generous in his technical advice during the early
 stages of this project.
 
-[^pca6]: In the case statements, 1st-, and 2nd-recension *dicta* from
-Gratian's *Decretum*, there are 747 occurrences of 79 unique words
-ending in -*que*. (This does not count 423 occurrences of the word
-*que* itself.) Of those, 498 are occurrences of 19 unique words
-from Schinke's 54-word pass list, while 249 occurrences of 60 unique
-words are not. It is from these 249 words that, according to Schinke,
-the -*que* ending should be detached as an enclitic.
+[^pca6]: Following the example of @kestemont_collaborative_2015,
+205: "To automatically isolate the clitic, we have stripped the
+suffix (‘x*que*’) from every word that did not occur in a list of
+words proposed by Schinke *et al*. (1996, p. 180-1)."
+
+    The list of words appears in @schinke_stemming_1996. Schinke's
+    article was published in a hard-to-find journal. The article
+    is frequently referenced (55 citations in Google Scholar as of
+    18 March 2021), but I was unable to obtain a copy. My information
+    about Schinke's stemming algorithm and pass list comes indirectly
+    via @porter_schinke_nodate.
+
+    In the case statements, 1st-, and 2nd-recension *dicta* from
+    Gratian's *Decretum*, there are 747 occurrences of 79 unique
+    words ending in -*que*. (This does not count 423 occurrences
+    of the word *que* itself.) Of those, 498 are occurrences of 19
+    unique words from Schinke's 54-word pass list, while 249
+    occurrences of 60 unique words are not. It is from these 249
+    words that, according to Schinke, the -*que* ending should be
+    detached as an enclitic.
 
     However, the 249 words include 72 occurrences of 17 unique words
     ending with the adverbial enclitics -*cumque* or -*cunque*,
