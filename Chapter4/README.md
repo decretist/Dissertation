@@ -1,6 +1,22 @@
 ## README.md
 
-Checklist for 8 June 2020 release of Chapter 4
+### Notes for 2021 release of Chapter 4
+
+CUA *Doctoral Dissertation Handbook 2020-2021 Edition*:
+
+"Illustrative materials include photographs, charts, graphs, tables,
+prints, maps, reproductions, renderings, hand-drawn items, etc. You
+may include illustrative materials either in the body of the text
+or in an appendix. **If included in the text, the materials must be
+inserted as close as possible to their first reference in the text.
+The explanation of the illustrative material must precede the item,
+and the label must follow the illustrative material.** If you include
+the materials in an appendix, the explanation must also precede the
+item." (8)
+
+"The charts and graphs may be in color." (8)
+
+### Checklist for 8 June 2020 release of Chapter 4
 
 - [x] save and check in .csv versions of frequency and z-score tables
 for Gratian0, Gratian1, dePen, Gratian2.
