@@ -102,10 +102,10 @@ located toward the right (positive) end of the PC1 axis, while *an*
 and *si* are located toward the left (negative) end of the PC1 axis.
 Similarly, *uel* and *uero* are located toward the upper (positive)
 end of the PC2 axis, while *quomodo* is located toward the lower
-(negative) end of the PC2 axis. **As we will see immediately below,
+(negative) end of the PC2 axis. As we will see immediately below,
 *an* and *si* are closely associated with the hypothetical case
 statements (*themata*), while *quomodo* is closely associated with
-the first- and second-recesion *dicta* from *de Penitentia*.**
+the first- and second-recesion *dicta* from *de Penitentia*.
 
 ![Figure 2 updated 28 May 2020](JPGs/4-way_PCA_52_MFWs_Loadings_001.jpg)
 
@@ -374,7 +374,6 @@ include any of those thirteen words, so using the text of C.19
 d.init. found in the Friedberg edition rather than a proxy
 first-recension version of the text has no effect on the outcome
 of any of the tests performed in this section.
-(**Updated 25 June 2020.**)
 
 [^pca8]: A man having [made] a vow of chastity betrothed a wife to
 himself; she, renouncing her previous agreement, gave herself to
