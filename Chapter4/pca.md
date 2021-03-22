@@ -2,7 +2,7 @@
 author: Paul Evans
 bibliography: ../bib/merged.bib
 csl: ../csl/chicago-fullnote-bibliography.csl
-date: 18 March 2021
+date: 22 March 2021
 reference-section-title: Bibliography
 suppress-bibliography: false
 title: Chapter 4
@@ -107,7 +107,7 @@ end of the PC2 axis, while *quomodo* is located toward the lower
 statements (*themata*), while *quomodo* is closely associated with
 the first- and second-recesion *dicta* from *de Penitentia*.
 
-![Figure 2 updated 28 May 2020](JPGs/4-way_PCA_52_MFWs_Loadings_001.jpg)
+![Figure 2 updated 22 Mar 2020](JPGs/4-way_PCA_52_MFWs_Loadings_001.jpg)
 
 In the initial function word counting experiment, *non*, the second
 most common word in the samples, was strongly associated with the
