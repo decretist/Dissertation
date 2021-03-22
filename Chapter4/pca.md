@@ -109,21 +109,17 @@ the first- and second-recesion *dicta* from *de Penitentia*.
 
 ![Figure 2 updated 28 May 2020](JPGs/4-way_PCA_52_MFWs_Loadings_001.jpg)
 
----
-
-**[Revised/Updated down to here!!!]**
-
-Remember that in our first experiment with counting function words,
-*non*, the second most common word in the samples, was strongly
-associated with the first-recension *dicta*. Here we see *non*
-on the far right, and in fact the samples from the first-recension
-*dicta* (but not those from the second-recension *dicta*) tend to spread
-out to the right. Note also that *in*, the most common word in
-the samples, is actually fairly close to the middle. So, it's not
-so much that the second-recension *dicta* have more occurrences of
-*in*, it's that the first-recension *dicta* have fewer.
-
----
+In the initial function word counting experiment, *non*, the second
+most common word in the samples, was strongly associated with the
+first-recension *dicta*. In Figure 2, *non* appears far to the
+right, and in fact the samples from the first-recension *dicta*,
+but not those from the second-recension *dicta*, tend to spread out
+to the right. Note however that *in*, the most common word in the
+samples, is fairly close to the middle. To the extent then that
+*in* is more strongly associated with the second-recension than the
+first-recension *dicta*, it is a result of the fact that the word
+occurs less frequently in the first-recension *dicta* rather than
+that it occurs more frequently in the second-recension *dicta*.
 
 The most visually striking feature of the function loadings plot
 in Figure 2 is the degree to which *an* and *si* cluster with the
@@ -136,27 +132,23 @@ containing indirect questions from each of the case statements, and
 by editing the list of function words used by stylo to conduct the
 analysis to exclude individual words characteristic of indirect
 questions.
-(**Updated  1 July 2020.**)
 
 The case statements all follow a very regular formal pattern. They
 are introduced by a hypothetical narrative that is followed by an
 enumeration of the questions that Gratian wants to investigate.
 C.27 d.init. (chosen for this purpose because it is the shortest
 cases statement) demonstrates the pattern:
-(**Updated  1 July 2020.**)
 
 > *Quidam uotum castitatis habens desponsauit sibi uxorem; illa
 priori condicioni renuncians, transtulit se ad alium, et nupsit
 illi; ille, cui prius desponsata fuerat, repetit eam. Hic primum
 queritur, an coniugium possit esse inter uouentes? Secundo, an
 liceat, sponsae a sponso recedere, et alii nubere?*[^pca8]
-(**Updated  1 July 2020.**)
 
 The transition between the narrative section and the enumeration
 of questions is clearly signalled in each of the cases statements
 by the use of one of a small number of formulaic markers, of which
 *Hic primum queritur* is the most common.[^pca9]
-(**Updated  1 July 2020.**)
 
 The results, however, of running principal component analysis (PCA)
 after removing the enumerated questions from the cases statements
@@ -165,7 +157,8 @@ under 10% for both the three- and four-way comparisons. (See Figures
 4 and 5 below.) This probably because at 1,618 words, the Gratian0
 *sine questionibus* sample is too far under the approximately
 2,500-word minimum recommended for analysis of Latin prose.
-(**Updated  1 July 2020.**)
+
+**[Revised/Updated down to here!!!]**
 
 That leaves the approach of editing the list of function words used
 by stylo to conduct the analysis to exclude individual words
@@ -382,12 +375,10 @@ tried to get her back. Here it is first asked whether there is able
 to be a marriage between those vowing? Second, whether someone
 betrothed is allowed to abandon the person to whom they are betrothed
 and to marry another?
-(**Updated  1 July 2020.**)
 
 [^pca9]: The formulaic transition markers used in the hypothetical
 case statements are: *Hic primum queritur* (15), *Queritur* (8),
 *Modo primum queritur* (3), *Nunc primum queritur* (3), *Primo
 queritur* (2), *Primum queritur* (2), *Hic primo queritur* (1),
 *Modo queritur* (1), *Queritur autem* (1).
-(**Updated  1 July 2020.**)
 
