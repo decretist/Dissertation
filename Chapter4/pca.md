@@ -188,7 +188,16 @@ deviations away from the mean than *an* was.
 
 **[Remove *an*, leave *si* in!!!]**
 
-![Figure 3 updated  2 Jul 2020](JPGs/4-way_PCA_51_MFWs_001.jpg)
+We've now reached the final stage of the three-way comparison between
+the case statements, the first-recension *dicta*, and the
+second-recension *dicta*. We are now using the 49 most frequent
+words on our function list instead of the 51 most frequent words,
+having commented out *an* and *si*. And even without *an* and
+*si*, PC1 still explains 10.5% of the total variation between the
+samples, down slightly from 11.2%. PC2 still explains 7.3% of the
+total variation between the samples. So, even controlling for genre,
+the distance between the case statements and the *dicta*---both
+first- and second-recension---is still quite striking.
 
 ```
 ------------------------------------------------
@@ -204,18 +213,9 @@ features (e.g. frequent words) actually analyzed
  [49]  propter  ecce     quomodo
 ```
 
----
+![Figure 3 updated  2 Jul 2020](JPGs/4-way_PCA_51_MFWs_001.jpg)
 
-We've now reached the final stage of the three-way comparison between
-the case statements, the first-recension *dicta*, and the
-second-recension *dicta*. We are now using the 49 most frequent
-words on our function list instead of the 51 most frequent words,
-having commented out *an* and *si*. And even without *an* and
-*si*, PC1 still explains 10.5% of the total variation between the
-samples, down slightly from 11.2%. PC2 still explains 7.3% of the
-total variation between the samples. So, even controlling for genre,
-the distance between the case statements and the *dicta*---both
-first- and second-recension---is still quite striking.
+---
 
 To turn to the other interesting aspect of the three-way comparison,
 you'll note that the second-recension *dicta* in blue cluster
