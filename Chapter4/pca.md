@@ -2,7 +2,7 @@
 author: Paul Evans
 bibliography: ../bib/merged.bib
 csl: ../csl/chicago-fullnote-bibliography.csl
-date: 22 March 2021
+date: 25 March 2021
 reference-section-title: Bibliography
 suppress-bibliography: false
 title: Chapter 4
@@ -111,7 +111,7 @@ the first- and second-recesion *dicta* from *de Penitentia*.
 
 In the initial function word counting experiment, *non*, the second
 most common word in the samples, was strongly associated with the
-first-recension *dicta*. In Figure 2, *non* appears far to the
+first-recension *dicta*.[^ple1] In Figure 2, *non* appears far to the
 right, and in fact the samples from the first-recension *dicta*,
 but not those from the second-recension *dicta*, tend to spread out
 to the right. Note however that *in*, the most common word in the
@@ -126,7 +126,8 @@ in Figure 2 is the degree to which *an* and *si* cluster with the
 case statements, *an* very strongly so, *si* somewhat less strongly.
 This makes intuitive sense because indirect questions dominate the
 language of the case statements. It is a question of genre. There
-are two ways in which we might go about controlling for genre in
+are two possible ways in which we might go about controlling for
+the vocabulary characteristic of the question genre in
 the *themata*: by editing the Gratian0 sample to remove the passages
 containing indirect questions from each of the case statements, and
 by editing the list of function words used by stylo to conduct the
@@ -137,7 +138,7 @@ The case statements all follow a very regular formal pattern. They
 are introduced by a hypothetical narrative that is followed by an
 enumeration of the questions that Gratian wants to investigate.
 C.27 d.init. (chosen for this purpose because it is the shortest
-cases statement) demonstrates the pattern:
+case statement) demonstrates the pattern:
 
 > *Quidam uotum castitatis habens desponsauit sibi uxorem; illa
 priori condicioni renuncians, transtulit se ad alium, et nupsit
@@ -146,7 +147,7 @@ queritur, an coniugium possit esse inter uouentes? Secundo, an
 liceat, sponsae a sponso recedere, et alii nubere?*[^pca8]
 
 The transition between the narrative section and the enumeration
-of questions is clearly signalled in each of the cases statements
+of questions is clearly signalled in each of the case statements
 by the use of one of a small number of formulaic markers, of which
 *Hic primum queritur* is the most common.[^pca9]
 
@@ -158,11 +159,9 @@ under 10% for both the three- and four-way comparisons. (See Figures
 *sine questionibus* sample is too far under the approximately
 2,500-word minimum recommended for analysis of Latin prose.
 
-**[Revised/Updated down to here!!!]**
-
-That leaves the approach of editing the list of function words used
-by stylo to conduct the analysis to exclude individual words
-characteristic of indirect question, starting with the words *an*
+The remaining alternative is to edit the list of function words used
+by stylo to conduct its analysis so that it excludes individual words
+characteristic of indirect questions, starting with the words *an*
 and *si* suggested by the stylo feature loadings.
 
 The frequency of occurrence of the word *an* in the Gratian0 sample
@@ -184,7 +183,8 @@ samples is 9.2665 occurrences per 1,000 words and that the sample
 standard deviation is 2.6245, the frequency of occurrence of *si*
 in the Gratian0 sample is far less of an outlier at 1.9653 standard
 deviations away from the mean than *an* was.
-(**Updated  2 July 2020.**)
+
+**[Revised/Updated down to here!!!]**
 
 **[Remove *an*, leave *si* in!!!]**
 
@@ -382,3 +382,8 @@ case statements are: *Hic primum queritur* (15), *Queritur* (8),
 queritur* (2), *Primum queritur* (2), *Hic primo queritur* (1),
 *Modo queritur* (1), *Queritur autem* (1).
 
+[^ple1]: **PLE**: This is true if only the first- and second-recension
+*dicta* are counted. If the case statements, the first- and
+second-recension *dicta*, and the *dicta* from *de Penitentia* are
+counted, *in* is the most frequent word, *et* is the second most
+frequent word, and *non* is the third most frequent word.
