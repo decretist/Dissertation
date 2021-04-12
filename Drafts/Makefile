@@ -1,3 +1,9 @@
+README.md: obicitur.md ../bib/merged.bib ../ref/draft.docx
+	pandoc -o README.md --citeproc -f markdown-smart -t gfm obicitur.md
+
+obicitur.docx: obicitur.md ../bib/merged.bib ../ref/draft.docx
+	pandoc -o obicitur.docx --citeproc --reference-doc=../ref/draft.docx obicitur.md
+
 restart.docx: restart.md ../bib/merged.bib ../ref/draft.docx
 	pandoc -o restart.docx --citeproc --reference-doc=../ref/draft.docx restart.md
 
