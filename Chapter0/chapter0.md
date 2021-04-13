@@ -398,7 +398,7 @@ for Busa (4) and OCP (8).
 [^10]: See Appendix 1 and Appendix 2 for Python source code of OCP
 parsers written for this project.
 
-[^11]: Placeholder for MALLET footnote.
+[^11]: Placeholder for MALLET footnote. @mccallum_mallet_2002.
 
 [^12]: @pennington_laws_2013; and @pennington_gratian_2014.
 
