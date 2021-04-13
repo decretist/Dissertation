@@ -6,8 +6,8 @@
 
 ### Chapters
 
-- Chapter 0 [(Markdown)](Chapter0/chapter0.markdown)
-- Chapter 1 [(Markdown)](Chapter1/chapter1.markdown)
+- Chapter 0 [(Markdown)](Chapter0/chapter0.markdown) (Updated 13 April 2021)
+- Chapter 1 [(Markdown)](Chapter1/chapter1.markdown) (Updated 13 April 2021)
 - Chapter 2 [(Markdown)](Chapter2/chapter2.md) [(PDF)](Chapter2/chapter2.pdf)
   - [Presentation](Chapter2/presentation.md)
   - [Organization](Chapter2/organization.md)

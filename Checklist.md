@@ -1,3 +1,8 @@
+### 2021 Dissertation Checklist
+
+- [ ] Abstract
+- [ ] Chapter 0: expand Outline of Chapters
+
 ### 2020 Dissertation Checklist
 
 - [ ] Re-establish contact with Anders Winroth: 250-word proposal to ICMAC board for Stephan Kuttner Institute GitHub repository project, acknowledge D.6 d.p.c.3 bug report.
