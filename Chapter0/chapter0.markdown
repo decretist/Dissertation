@@ -145,7 +145,7 @@ Timothy Reuter and Gabriel Silagi edited the *Wortkonkordanz zum
 Decretum Gratiani* for the Monumenta Germaniae Historica (MGH) in
 Munich, a computer-generated concordance in the tradition of Father
 Roberto Busa's *Index Thomisticus*.[9] As part of the project, the MGH
-undertook to scan, correct, and encode the 1879 Friedberg edition of the
+undertook to transcribe and encode the 1879 Friedberg edition of the
 *Decretum*, in the now-obsolete and non-tree-structured Oxford
 Concordance Program (OCP) format. In spring 2013, Winroth and Lou
 Burnard of the Oxford Text Archive (OTA) each provided me with a copy of
@@ -159,19 +159,19 @@ tree-structured the way XML is---textual features have start tags but do
 not have end tags---makes it extremely difficult to parse, so this was a
 slow process.[10]
 
-My initial focus was on the use of David Mimno's MALLET (MAchine
-Learning for LanguagE Toolkit) to topic model *dicta* and canon texts
-from the first and second recensions of Gratian's *Decretum* as a way to
-identify new topics added in the second recension.[11] The inspiration
-was Pennington's observation that most passages in the *Decretum*
-dealing with the legal status of Jews, particularly those dealing with
-forced conversion, were introduced only in the second recension.[12] My
-goal was to see whether MALLET could bring more such topics to the
-surface, by topic modeling the first and second parts of the vulgate
-*Decretum*, topic modeling the first recension, and seeing what topics
-were left when the first recension topics were subtracted from the
-vulgate topics.[13] While simple in concept, this proved prohibitively
-difficult in practice.[14]
+My initial focus was on the use of MALLET (MAchine Learning for LanguagE
+Toolkit) to topic model *dicta* and canon texts from the first and
+second recensions of Gratian's *Decretum* as a way to identify new
+topics added in the second recension.[11] The inspiration was
+Pennington's observation that most passages in the *Decretum* dealing
+with the legal status of Jews, particularly those dealing with forced
+conversion, were introduced only in the second recension.[12] My goal
+was to see whether MALLET could bring more such topics to the surface,
+by topic modeling the first and second parts of the vulgate *Decretum*,
+topic modeling the first recension, and seeing what topics were left
+when the first recension topics were subtracted from the vulgate
+topics.[13] While simple in concept, this proved prohibitively difficult
+in practice.[14]
 
 In July 2013, I was working at MITH, and following the DH 2013
 conference at University of Nebraska-Lincoln out of general interest.
@@ -575,8 +575,15 @@ Blackwell Pub, 2004), 3–19), for Busa (4) and OCP (8).
 [10] See Appendix 1 and Appendix 2 for Python source code of OCP parsers
 written for this project.
 
-[11] Placeholder for MALLET footnote. Andrew Kachites McCallum, “MALLET:
-A Machine Learning for Language Toolkit” 2002.
+[11] The MALLET website at UMass Amherst requests that the use of MALLET
+be acknowledged with the following citation: Andrew Kachites McCallum,
+“MALLET: A Machine Learning for Language Toolkit” 2002. Based on the
+date, the preferred citation appears to refer to the original version of
+MALLET (0.4). Prof. David Mimno of Cornell University, who had been a
+doctoral student of McCallum, is generally recognized as having been the
+lead developer for the version of MALLET (2.0.8) that popularized
+unsupervised topic modelling as a technique in the Digital Humanities
+community starting in 2012.
 
 [12] Kenneth Pennington, “The Law’s Violence against Medieval and Early
 Modern Jews,” *Rivista Internazionale di Diritto Comune* 23 (2013):

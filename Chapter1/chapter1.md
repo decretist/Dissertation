@@ -171,7 +171,7 @@ revolution. There had been a revival in Bologna of the formal study
 of Roman law during the second and third decades of the twelfth
 century. The immediate impetus for the revival was the recovery of
 the great *libri legales* from which law had been taught in the
-late Roman world, most important, the *Digest* of Justinian, because
+late Roman world, most importantly, the *Digest* of Justinian, because
 it provided the pattern for jurisprudence as a systematic intellectual
 activity.[^12] The early Romanists therefore did not need to create
 textbooks for their students as Gratian had to for his.
@@ -185,8 +185,8 @@ both culturally and materially, with the society of the late Roman
 world, it was able to borrow extensively from Roman law.
 
 The emergence of distinct faculties of arts, law, and theology in
-the middle decades of the twelfth century gave rise to a rapidly
-proliferating number of major universities throughout Europe,
+the middle decades of the twelfth century led to a rapid
+proliferation of major universities throughout Europe,
 recognizably continuous in form with those of the present day. The
 existence of standardized textbooks such as Gratian's *Decretum*
 and later Peter Lombard's *Sentences* was an absolutely essential
