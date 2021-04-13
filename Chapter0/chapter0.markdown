@@ -436,6 +436,13 @@ Internazionale di Diritto Canonico* 11, no. 3 (1999): 593–666.
 
 </div>
 
+<div id="ref-mccallum_mallet_2002" class="csl-entry">
+
+McCallum, Andrew Kachites. “MALLET: A Machine Learning for Language
+Toolkit,” 2002.
+
+</div>
+
 <div id="ref-moretti_distant_2013" class="csl-entry">
 
 Moretti, Franco. *Distant Reading*. London: Verso, 2013.
@@ -568,7 +575,8 @@ Blackwell Pub, 2004), 3–19), for Busa (4) and OCP (8).
 [10] See Appendix 1 and Appendix 2 for Python source code of OCP parsers
 written for this project.
 
-[11] Placeholder for MALLET footnote.
+[11] Placeholder for MALLET footnote. Andrew Kachites McCallum, “MALLET:
+A Machine Learning for Language Toolkit” 2002.
 
 [12] Kenneth Pennington, “The Law’s Violence against Medieval and Early
 Modern Jews,” *Rivista Internazionale di Diritto Comune* 23 (2013):
