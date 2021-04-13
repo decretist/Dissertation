@@ -7,7 +7,7 @@
 ### Chapters
 
 - Chapter 0 [(Markdown)](Chapter0/chapter0.markdown) [(PDF)](Chapter0/chapter0.pdf)
-- Chapter 1 [(Markdown)](Chapter1/chapter1.md) [(PDF)](Chapter1/chapter1.pdf)
+- Chapter 1 [(Markdown)](Chapter1/chapter1.markdown) [(PDF)](Chapter1/chapter1.pdf)
 - Chapter 2 [(Markdown)](Chapter2/chapter2.md) [(PDF)](Chapter2/chapter2.pdf)
   - [Presentation](Chapter2/presentation.md)
   - [Organization](Chapter2/organization.md)
