@@ -68,7 +68,9 @@ right and that the Gratian of the first-recension of Part I is not
 necessarily the same as the Gratian of the second-recension of Part
 I, and so on.[^9]
 
-**Long before the discovery of the first recension in the late twentieth
+---
+
+Long before the discovery of the first recension in the late twentieth
 century, however, the first twelfth-century readers of the *Decretum*
 were aware of the limited extent to which it could be thought of
 as the work of a single author. Even early readers, such as Stephen
@@ -77,8 +79,33 @@ endorsed the single author theory by subsuming the entire vulgate
 text of the *Decretum* under the eponym "Gratian," recognized that
 whoever Gratian was, he was not directly responsible either for the
 bulk of the text or for certain notable formal features of the work,
-like the division of Part I into *distinctiones*.[^10] (rewrite!)**
+like the division of Part I into *distinctiones*.[^10]
 
+---
+
+The *Decretum* says nothing about its own authorship. Twelfth-century
+readers, however, implicitly endorsed the single-author theory by
+subsuming the entire text of the vulgate *Decretum* under the eponym
+"Gratian", even through they recognized that he was not directly
+responsible for certain notable formal features of the work, like
+the division of Part I into *distinctiones*.[^a]
+
+Furthermore, the *Decretum*, like many other scholastic texts,
+contains far more quoted than original material. Medieval opinion
+was consequently divided on the question of whether the creators
+the *Decretum* and similar texts ought properly to be considered
+their authors. Stephen of Tournai in the preface to his *Summa* on
+the *Decretum* insists that Gratian is its compiler, not its author:
+
+> "I should properly say that Gratian is the compiler of this work,
+not the author, for he brought together in this volume---that is,
+he arranged---rulings enacted by the holy Fathers. He was not their
+author or framer, unless perchance someone wishes to say that he
+is thus the author since he offered on his own in his dicta many
+things for clarifying and explicating the opinions of the holy
+[Fathers]."[^b]
+
+---
 Gratian was working within a well-established genre of academic
 writing in medieval Latin literature, the canonical collection.[^11]
 The *Decretum* followed in the footsteps of any number of systematic
@@ -111,7 +138,7 @@ to which it had originally been prepended.[^14] Insofar as he did
 not provide a preface for the *Decretum*, Gratian failed to meet
 this particular expectation of the genre, something that did not
 escape the notice of contemporaries like the author of the *Summa
-Parisiensis*.[^a]
+Parisiensis*.[^z]
 
 In presenting and organizing the canonical texts that he had selected,
 however, Gratian added a significant amount of first-person commentary
@@ -441,24 +468,19 @@ difference authors." [@winroth_making_2000, 194-195].
 [^9]: Excepting only that there is no first-recension version of
 Part III.
 
-[^10]: "Compositorem huius operis recte dixerim Gratianum, non
-auctorem. Capitula namque a sanctis patribus edita in hoc volumine
-composuit, i.e. ordinavit. Non eorum auctor vel conditor fuit, nisi
-forte quis eum auctorem idcirco dicere velit, quoniam multa ex parte
-sua sanctorum sententias distinguendo et exponendo in paragraphis
-suis ponit." [@schulte_summa_1965, 5] "I should properly say that
-Gratian is the compiler of this work, not the author, for he brought
-together in this volume---that is, he arranged---rulings enacted
-by the holy Fathers. He was not their author or framer, unless
-perchance someone wishes to say that he is thus the author since
-he offered on his own in his dicta many things for clarifying and
-explicating the opinions of the holy [Fathers]."
-[@somerville_prefaces_1998, 200-201]. Somerville is not translating
-from the 1891 Schulte edition but from @kalb_studien_1983, 113-120.
+[^10]: **Remove**
 
-    "Distinctiones apposuit in prima parte et ultima Paucapalea
-    ..." [@mclaughlin_summa_1952, 1] (Paucapalea arranged the
-    distinctions in the first part and the last, trans. PLE)
+[^a]: "Distinctiones apposuit in prima parte et ultima Paucapalea ..."
+[@mclaughlin_summa_1952, 1] (Paucapalea arranged the distinctions
+in the first part and the last, trans. PLE)
+
+[^b]: [@somerville_prefaces_1998, 200-201]. Somerville is translating
+from @kalb_studien_1983, 113-120. "Compositorem huius operis recte
+dixerim Gratianum, non auctorem. Capitula namque a sanctis patribus
+edita in hoc volumine composuit, i.e. ordinavit. Non eorum auctor
+vel conditor fuit, nisi forte quis eum auctorem idcirco dicere
+velit, quoniam multa ex parte sua sanctorum sententias distinguendo
+et exponendo in paragraphis suis ponit." [@schulte_summa_1965, 5]
 
 [^11]: Cf. [@larson_master_2014, 12-13, n30] "My refusal to apply
 the standard label of 'canonical collection' to the *Decretum* is
@@ -483,7 +505,7 @@ both the *Decretum* and *Panormia* of Ivo of Chartres. For the
 edited Latin text, see [@brasington_ways_2004] For an English
 translation, see [@somerville_prefaces_1998, 132-158].
 
-[^a]: "Master Gratian, antonomastically called in this work 'the
+[^z]: "Master Gratian, antonomastically called in this work 'the
 Master,' **in place of an introduction** prefaced his book with the
 following title, *Concord of discordant canons*, by which he precisely
 sets forth subject matter and intention. @somerville_prefaces_1998, 201.
