@@ -6,14 +6,14 @@
 
 ### Chapters
 
-- Chapter 0 [(Markdown)](Chapter0/chapter0.markdown) (updated 13 April 2021)
-- Chapter 1 [(Markdown)](Chapter1/chapter1.markdown) (updated 13 April 2021)
-- Chapter 2 [(Markdown)](Chapter2/chapter2.markdown) (updated 13 April 2021)
-  - [Presentation](Chapter2/presentation.md)
-  - [Organization](Chapter2/organization.md)
-- [Chapter 3](Chapter3/chapter3.md)
-- Chapter 4 [(Markdown)](Chapter4/chapter4.md) [(PDF)](Chapter4/chapter4.pdf)
-  - Principal component analysis [(Markdown)](Chapter4/pca.md) [(PDF)](Chapter4/pca.pdf)
+- [Chapter 0](Chapter0/chapter0.markdown) (updated 13 April 2021)
+- [Chapter 1](Chapter1/chapter1.markdown) (updated 13 April 2021)
+- [Chapter 2](Chapter2/chapter2.markdown) (updated 13 April 2021)
+  - [Presentation](Chapter2/presentation.markdown)
+  - [Organization](Chapter2/organization.markdown)
+- Chapter 3
+- Chapter 4 [(Markdown)](Chapter4/chapter4.md)
+  - Principal component analysis [(Markdown)](Chapter4/pca.md)
 - [Conclusion](Conclusion/conclusion.markdown) (very rought draft)
 
 ### Notebooks
