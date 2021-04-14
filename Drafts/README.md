@@ -1,5 +1,6 @@
-### Chapter 5
+### Drafts
 
-old.md is the previous version of chapter5.md, which never progressed
-beyond notes from a 2 March 2018 meeting with Stan Chodorow.
+old.md is a previous version of chapter5.md, which never progressed
+beyond notes from a 2 March 2018 meeting at the UCSD Faculty Club
+with Stan Chodorow.
 
