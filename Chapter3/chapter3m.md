@@ -57,8 +57,14 @@ separately from one another.
 How did commentators in the middle ages think about authorship in
 connection with the *Decretum* and similar works? In what sense did
 they consider Gratian to be, or not be, the "author" of the *Decretum*?
-Stephen of Tournai: no.[^2] Bonaventure on the *Sentences* of Peter
-Lombard: yes.[^3]
+The *Decretum* says nothing about its own authorship. Stephen of
+Tournai: no.[^2] Bonaventure (by analogy with the *Sentences* of
+Peter Lombard): yes.[^3] Minus the fashionable 13th c. Aristotelian
+scholastic jargon about causation, Bonaventure's argument that Peter
+Lombard can be considered the author of the *Sentences* can be
+applied *mutatis mutandis* to Gratian and the *Decretum*: by
+Bonaventure's logic, Gratian can be considered the author of the
+*Decretum*.
 
 [^2]: "Compositorem huius operis recte dixerim Gratianum, non
 auctorem. Capitula namque a sanctis patribus edita in hoc volumine
