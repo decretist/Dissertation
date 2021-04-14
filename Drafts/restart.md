@@ -79,53 +79,6 @@ Medieval Law" has 86 citations.)
 
 ---
 
-In the course of tracking down the work referenced in passing in
-the Edwards TLS essay, I came across a recent project that seems
-to have had a very favorable reception:
-
-Neidorf, L., Krieger, M.S., Yakubek, M. et al. Large-scale quantitative
-profiling of the Old English verse tradition. Nat Hum Behav 3,
-560–567 (2019). https://doi.org/10.1038/s41562-019-0570-1
-
-I have not been able to download the paper yet (USD doesn't have
-institutional access to Nature Human Behavior), but I have been
-able to gather enough information from other sources to get the
-general idea. (Their code is publicly available on Github.) The
-authors present stylometric evidence "consistent with the unitary
-authorship of Beowulf." The method they use is to analyze the
-statistical frequency of character bigrams in the text. If the
-techniques I use give you heartburn, Ken, I suspect you'd really
-object to character bigram and trigram analysis. This technique
-involves breaking down words into their constituent two- or
-three-letter substrings. The string "Gratian" broken down into
-bigrams would be ['gr', 'ra', 'at', 'ti', 'ia', 'an'], and broken
-down into trigrams would be ['gra', 'rat', 'ati', 'tia', 'ian']
-(strings are lowercased before being split into bigrams or trigrams).
-After breaking the text down into character bigrams or trigrams,
-the principal component analysis (PCA) is then performed on the
-frequencies of the bigrams or trigrams in exactly the same way as
-it would be on word frequencies. There is justification in the
-academic literature of psycholinguistics to give an account for why
-stylometry based on the frequencies of function words works, i.e.,
-the claim, supported by experimental evidence, that both writers
-and readers process function words at a subconscious level. PCA
-using bigrams and trigrams on the other hand is just sorcery. Which
-is not to say that it doesn't work. I have analyzed the dicta from
-the Decretum using character bigrams instead of words, and the
-results are not notably different from the results I present in the
-dissertation.
-
-There seem to be at least two reasons unrelated to the academic
-merits of the article that it has been as favorable received as it
-has. First, one of the authors, M. Ski Krieger, is associated with
-Harvard, and Harvard has seen fit to publicize the project very
-enthusiastically. Second, the article's finding that Beowulf is the
-product of unitary authorship supports an argument advanced by JRR
-Tolkien in the 20th century, which attracted a significant amount
-of coverage from non-specialist publications.
-
----
-
 This email is resumptive of our conversation of August 3 about
 recent attempts to apply stylometric methods to attribute medieval
 texts. Ken suggested citing attributions that have achieved some
