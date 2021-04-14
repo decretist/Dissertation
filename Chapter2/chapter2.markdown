@@ -647,9 +647,9 @@ Gratiani* (Toronto: Pontifical Institute of Mediaeval Studies, 1952), 1)
 (Paucapalea arranged the distinctions in the first part and the last,
 trans. PLE)
 
-[12]  (Robert Somerville and Bruce Clark Brasington, eds., *Prefaces to
+[12] Robert Somerville and Bruce Clark Brasington, eds., *Prefaces to
 Canon Law Books in Latin Christianity: Selected Translations, 500-1245*
-(New Haven, Conn: Yale University Press, 1998), 200–201). Somerville is
+(New Haven, Conn: Yale University Press, 1998), 200-201. Somerville is
 translating from Herbert Kalb, *Studien zur Summa Stephans von Tournai:
 ein Beitrag zur kanonistischen Wissenschaftsgeschichte des späten 12.
 Jahrhunderts*, Forschungen zur Rechts- und Kulturgeschichte, Bd. 12

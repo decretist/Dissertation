@@ -474,7 +474,7 @@ Part III.
 [@mclaughlin_summa_1952, 1] (Paucapalea arranged the distinctions
 in the first part and the last, trans. PLE)
 
-[^b]: [@somerville_prefaces_1998, 200-201]. Somerville is translating
+[^b]: @somerville_prefaces_1998, 200-201. Somerville is translating
 from @kalb_studien_1983, 113-120. "Compositorem huius operis recte
 dixerim Gratianum, non auctorem. Capitula namque a sanctis patribus
 edita in hoc volumine composuit, i.e. ordinavit. Non eorum auctor
