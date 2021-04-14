@@ -18,7 +18,7 @@
 
 ### *Extravagantes*
 
-- n-grams (coming soon)
+- [n-grams](Extra/n-grams.markdown)
 
 ### Notebooks
 
