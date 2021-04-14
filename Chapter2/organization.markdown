@@ -86,7 +86,7 @@ ecclesiastical sacraments." (Robert Somerville and Bruce Clark
 Brasington, eds., *Prefaces to Canon Law Books in Latin Christianity:
 Selected Translations, 500-1245* (New Haven, Conn: Yale University
 Press, 1998), 192–93) (Rufinus) "Harum primam ministeriis, secundam
-negotiis, tertiam ecclesiasticis deputat sacramentis." (Johann Frierich
+negotiis, tertiam ecclesiasticis deputat sacramentis." (Johann Friedrich
 Schulte, ed., *Die summa über das Decretum Gratiani* (Aalen: Scientia
 Verlag, 1965), 6) "The first of these parts is devoted to ecclesiastical
 ministries, the second to ecclesiastical problems, the third to

@@ -511,7 +511,7 @@ of the Systematic Study of Canon Law.” *Traditio* 35 (January 1979):
 
 <div id="ref-schulte_summa_1965" class="csl-entry">
 
-Schulte, Johann Frierich, ed. *Die summa über das Decretum Gratiani*.
+Schulte, Johann Friedrich, ed. *Die summa über das Decretum Gratiani*.
 Aalen: Scientia Verlag, 1965.
 
 </div>
@@ -656,7 +656,7 @@ huius operis recte dixerim Gratianum, non auctorem. Capitula namque a
 sanctis patribus edita in hoc volumine composuit, i.e. ordinavit. Non
 eorum auctor vel conditor fuit, nisi forte quis eum auctorem idcirco
 dicere velit, quoniam multa ex parte sua sanctorum sententias
-distinguendo et exponendo in paragraphis suis ponit." Johann Frierich
+distinguendo et exponendo in paragraphis suis ponit." Johann Friedrich
 Schulte, ed., *Die summa über das Decretum Gratiani* (Aalen: Scientia
 Verlag, 1965), 5.
 
