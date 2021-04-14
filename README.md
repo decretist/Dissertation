@@ -12,8 +12,8 @@
   - [Presentation](Chapter2/presentation.markdown)
   - [Organization](Chapter2/organization.markdown)
 - Chapter 3
-- Chapter 4 [(Markdown)](Chapter4/chapter4.md)
-  - Principal component analysis [(Markdown)](Chapter4/pca.md)
+- Chapter 4 [(Markdown)](Chapter4/chapter4.markdown)
+  - Principal component analysis [(Markdown)](Chapter4/pca.markdown)
 - [Conclusion](Conclusion/conclusion.markdown) (very rought draft)
 
 ### Notebooks
