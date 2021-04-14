@@ -3,7 +3,13 @@
 - [ ] Abstract
 - [ ] Chapter 0: expand Outline of Chapters
 
+(14 April 2020)
+- [x] Teleconference with William Mattingly re: Latin BERT and fastText embeddings.
+
 ### 2020 Dissertation Checklist
+
+(25 December 2020)
++ **†Reginald Foster OCD (1939-2020)**
 
 - [ ] Re-establish contact with Anders Winroth: 250-word proposal to ICMAC board for Stephan Kuttner Institute GitHub repository project, acknowledge D.6 d.p.c.3 bug report.
 - [ ] Chapter 3: translate passages from _summa_ of Simon of Bisignano referring to Gratian as _magister_ and himself as _discipulus_.

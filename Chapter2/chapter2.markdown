@@ -56,7 +56,7 @@ right and that the Gratian of the first-recension of Part I is not
 necessarily the same as the Gratian of the second-recension of Part I,
 and so on.[9]
 
-Long before the discovery of the first recension in the late twentieth
+**Long before the discovery of the first recension in the late twentieth
 century, however, the first twelfth-century readers of the *Decretum*
 were aware of the limited extent to which it could be thought of as the
 work of a single author. Even early readers, such as Stephen of Tournai
@@ -65,7 +65,7 @@ single author theory by subsuming the entire vulgate text of the
 *Decretum* under the eponym "Gratian," recognized that whoever Gratian
 was, he was not directly responsible either for the bulk of the text or
 for certain notable formal features of the work, like the division of
-Part I into *distinctiones*.[10]
+Part I into *distinctiones*.[10] (rewrite!)**
 
 Gratian was working within a well-established genre of academic writing
 in medieval Latin literature, the canonical collection.[11] The
