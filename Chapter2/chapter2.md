@@ -87,12 +87,12 @@ The *Decretum* says nothing about its own authorship. Twelfth-century
 readers, however, implicitly endorsed the single-author theory by
 subsuming the entire text of the vulgate *Decretum* under the eponym
 "Gratian", even through they recognized that he was not directly
-responsible for certain notable formal features of the work, like
+responsible for certain notable formal features of the work, such as
 the division of Part I into *distinctiones*.[^a]
 
 Furthermore, the *Decretum*, like many other scholastic texts,
 contains far more quoted than original material. Medieval opinion
-was consequently divided on the question of whether the creators
+was consequently divided on the question of whether the creators of
 the *Decretum* and similar texts ought properly to be considered
 their authors. Stephen of Tournai in the preface to his *Summa* on
 the *Decretum* insists that Gratian is its compiler, not its author:
