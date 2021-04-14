@@ -59,15 +59,14 @@ authorship. As was noted briefly above and will be discussed in
 further detail below, the second recension of the *Decretum* had
 three distinct parts. Noonan warned that the Gratian of Part I was
 not necessarily the same as the Gratian of Part II or Part III.
-(And in point of fact, the Gratian of Part III, the compiler of *de
-Consecratione*, is very unlikely to have been the same as the Gratian
-of Parts I and II since the treatise was such a late addition to
-the *Decretum*.) Furthermore, nothing logically excludes the
-possibility that Winroth and Noonan are both right and that the
-Gratian of the first-recension of Part I is not necessarily the
-same as the Gratian of the second-recension of Part I, and so on
-through all the possible permutations and combinations of recensions
-(first and second) and parts (I, II, and III).[^9]
+(And in point of fact, the Gratian of Part III, the compiler of the
+treatise on the sacraments *de Consecratione*, is very unlikely to
+have been the same as the Gratian of Parts I and II since it was
+such a late addition to the *Decretum*.) Furthermore, nothing
+logically excludes the possibility that Winroth and Noonan are both
+right and that the Gratian of the first-recension of Part I is not
+necessarily the same as the Gratian of the second-recension of Part
+I, and so on.[^9]
 
 Long before the discovery of the first recension in the late twentieth
 century, however, the first twelfth-century readers of the *Decretum*
@@ -108,11 +107,11 @@ own authority, he was expected to do so in a prologue. The Prologue
 of Ivo of Chartres, for example, was a work of considerable theoretical
 sophistication that continued to circulate independently and find
 an audience even after Gratian's *Decretum* superseded the collections
-to which it had originally been prepended.[^14] In this respect,
-Gratian did not conform to the expectations of the genre in which
-he was working. For starters, he did not include a preface, something
-that did not escape the notice of contemporaries like the author
-of the *Summa Parisiensis*.
+to which it had originally been prepended.[^14] Insofar as he did
+not provide a preface for the *Decretum*, Gratian failed to meet
+this particular expectation of the genre, something that did not
+escape the notice of contemporaries like the author of the *Summa
+Parisiensis*.[^a]
 
 In presenting and organizing the canonical texts that he had selected,
 however, Gratian added a significant amount of first-person commentary
@@ -126,7 +125,7 @@ addition to the *dicta*, Gratian also wrote the rubrics, so-called
 because they were written in red ink in manuscripts of the *Decretum*.
 The rubrics are one-line summaries of canons that they introduce.
 
-As a first-order approximation, then, Gratian could be considered
+As a first-order approximation, then, Gratian can be considered
 the author, in the modern sense of the word, of the *dicta* and
 rubrics, and the compiler and arranger of the canons and inscriptions.
 (In practice, *dicta*, inscriptions, and rubrics cannot be distinguished
@@ -483,6 +482,13 @@ church's law."
 both the *Decretum* and *Panormia* of Ivo of Chartres. For the
 edited Latin text, see [@brasington_ways_2004] For an English
 translation, see [@somerville_prefaces_1998, 132-158].
+
+[^a]: "Master Gratian, antonomastically called in this work 'the
+Master,' **in place of an introduction** prefaced his book with the
+following title, *Concord of discordant canons*, by which he precisely
+sets forth subject matter and intention. @somerville_prefaces_1998, 201.
+**Add quote in Latin. As noted above (Chapter 1), the title comes
+from a gloss, not from Gratian.**
 
 [^15]: 81,008 words or 19.1%.
 
