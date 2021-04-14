@@ -16,6 +16,10 @@
   - Principal component analysis [(Markdown)](Chapter4/pca.markdown)
 - [Conclusion](Conclusion/conclusion.markdown) (very rought draft)
 
+### *Extravagantes*
+
+- n-grams (coming soon)
+
 ### Notebooks
 
 - [2-dimensional visualization](Notebooks/Burrows/Visualization.ipynb)
