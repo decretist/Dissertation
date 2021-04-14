@@ -454,7 +454,7 @@ perchance someone wishes to say that he is thus the author since
 he offered on his own in his dicta many things for clarifying and
 explicating the opinions of the holy [Fathers]."
 [@somerville_prefaces_1998, 200-201]. Somerville is not translating
-from the 1891 Schulte edition but from [@kalb_studien_1983, 113-120].
+from the 1891 Schulte edition but from @kalb_studien_1983, 113-120.
 
     "Distinctiones apposuit in prima parte et ultima Paucapalea
     ..." [@mclaughlin_summa_1952, 1] (Paucapalea arranged the
