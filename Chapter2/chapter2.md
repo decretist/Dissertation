@@ -79,7 +79,7 @@ endorsed the single author theory by subsuming the entire vulgate
 text of the *Decretum* under the eponym "Gratian," recognized that
 whoever Gratian was, he was not directly responsible either for the
 bulk of the text or for certain notable formal features of the work,
-like the division of Part I into *distinctiones*.[^10]
+like the division of Part I into *distinctiones*.
 
 ---
 
@@ -88,7 +88,7 @@ readers, however, implicitly endorsed the single-author theory by
 subsuming the entire text of the vulgate *Decretum* under the eponym
 "Gratian", even through they recognized that he was not directly
 responsible for certain notable formal features of the work, such as
-the division of Part I into *distinctiones*.[^a]
+the division of Part I into *distinctiones*.[^10]
 
 Furthermore, the *Decretum*, like many other scholastic texts,
 contains far more quoted than original material. Medieval opinion
@@ -103,7 +103,7 @@ he arranged---rulings enacted by the holy Fathers. He was not their
 author or framer, unless perchance someone wishes to say that he
 is thus the author since he offered on his own in his dicta many
 things for clarifying and explicating the opinions of the holy
-[Fathers]."[^b]
+[Fathers]."[^a]
 
 ---
 Gratian was working within a well-established genre of academic
@@ -468,19 +468,17 @@ difference authors." [@winroth_making_2000, 194-195].
 [^9]: Excepting only that there is no first-recension version of
 Part III.
 
-[^10]: **Remove**
-
-[^a]: "Distinctiones apposuit in prima parte et ultima Paucapalea ..."
-[@mclaughlin_summa_1952, 1] (Paucapalea arranged the distinctions
+[^10]: "Distinctiones apposuit in prima parte et ultima Paucapalea ..."
+@mclaughlin_summa_1952, 1. (Paucapalea arranged the distinctions
 in the first part and the last, trans. PLE)
 
-[^b]: @somerville_prefaces_1998, 200-201. Somerville is translating
+[^a]: @somerville_prefaces_1998, 200-201. Somerville is translating
 from @kalb_studien_1983, 113-120. "Compositorem huius operis recte
 dixerim Gratianum, non auctorem. Capitula namque a sanctis patribus
 edita in hoc volumine composuit, i.e. ordinavit. Non eorum auctor
 vel conditor fuit, nisi forte quis eum auctorem idcirco dicere
 velit, quoniam multa ex parte sua sanctorum sententias distinguendo
-et exponendo in paragraphis suis ponit." [@schulte_summa_1965, 5]
+et exponendo in paragraphis suis ponit." @schulte_summa_1965, 5.
 
 [^11]: Cf. [@larson_master_2014, 12-13, n30] "My refusal to apply
 the standard label of 'canonical collection' to the *Decretum* is
