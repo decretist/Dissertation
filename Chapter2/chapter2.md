@@ -105,7 +105,35 @@ is thus the author since he offered on his own in his dicta many
 things for clarifying and explicating the opinions of the holy
 [Fathers]."[^a]
 
+In the preface to his commentary on the *Sentences* of Peter Lombard,
+Bonaventure asks "what is the efficient cause or author of this
+book?", and answers that "Peter Lombard, bishop of Paris, is the
+author of this book." He notes that "the mode of authorship is
+four-fold", and distinguishes the roles of *scriptor*, *compilator*,
+*commentator*, and *auctor*, on the basis of the use they make of
+"the words of other men" (*aliena*) and their own (*sua*):
+
+> Someone else writes the words of other men and also of his own,
+but with his own forming the principle part and those of others
+being annexed merely by way of confirmation, and such a person
+should be called an author [*auctor*].[^b]
+
+He therefore concludes that: 
+
+> Such was the Master [Peter Lombard], who put forward [*ponit*]
+his own opinions, and confirmed [them] from the opinions of the
+Fathers. Whence he truly ought to be called the author of this
+book.[^c]
+
+Although Bonaventure's question is stated in the fashionable terms
+of thirteenth-century Aristotelian scholastic jargon about causation,
+his answer that Peter Lombard can be considered the author of the
+*Sentences* can be transferred directly to Gratian and the *Decretum*:
+by the logic of Bonaventure's argument, Gratian ought to be considered
+the author of the *Decretum*.
+
 ---
+
 Gratian was working within a well-established genre of academic
 writing in medieval Latin literature, the canonical collection.[^11]
 The *Decretum* followed in the footsteps of any number of systematic
@@ -479,6 +507,38 @@ edita in hoc volumine composuit, i.e. ordinavit. Non eorum auctor
 vel conditor fuit, nisi forte quis eum auctorem idcirco dicere
 velit, quoniam multa ex parte sua sanctorum sententias distinguendo
 et exponendo in paragraphis suis ponit." @schulte_summa_1965, 5.
+
+[^b]: Ad intelligentiam dictorum notandum, quod quadruplex est modus
+faciendi librum. Aliquis enim scribit aliena, nihil addendo vel
+mutando; et iste mere dicitur *scriptor*. Aliquis scribit aliena,
+addendo, sed non de suo; et iste *compilator* dicitur. Aliquis
+scribit et aliena et sua, sed aliena tamquam principalia, et sua
+tamquam annexa ad evidentiam; et iste dicitur *commentator*, non
+auctor. Aliquis scribit et sua et aliena, sed sua tanquam principalia,
+aliena tamquam annexa ad confirmationem; et talis debet dici *auctor*.
+(14-15)
+
+    For someone writes out the words of other men without adding
+    or changing anything, and he is called the scribe [*scriptor*]
+    pure and simple. Someone else writes the words of other men,
+    putting together material, but not his own, and he is called
+    the compiler [*compilator*]. Someone else write the words of
+    other men and also his own, but with those of other men comprising
+    the principle part while his own are annexed merely to make
+    clear the argument, and he is called the commentator [*commentator*],
+    not the author. Someone else writes the words of other men and
+    also of his own, but with his own forming the principle part
+    and those of others being annexed merely by way of confirmation,
+    and such a person should be called an author [*auctor*].
+    @kraebel_modes_2019, 98.
+
+[^c]: Talis fuit Magister, qui sententias suas ponit et Patrum sententiis
+confirmat. Unde vere debet dici auctor huius libri. (14-15)
+
+    Such was the Master [Peter Lombard], who put forward [*ponit*]
+    his own opinions, and confirmed [them] from the opinions of the
+    Fathers. Whence he truly ought to be called the author of this
+    book. (trans. PLE)
 
 [^11]: Cf. [@larson_master_2014, 12-13, n30] "My refusal to apply
 the standard label of 'canonical collection' to the *Decretum* is
