@@ -47,24 +47,32 @@ name refers to the fact that rubrics were conventionally written
 in red (*ruber*) ink in manuscripts. A rubric is a very short summary
 of what the following canon is about. In many cases the rubric
 simply reads "*de eodem*", which means "about the same thing" as
-the preceding canon.[^2p4] The 137 *de eodem* rubrics introducing
+the preceding canon. The 137 *de eodem* rubrics introducing
 first-recension canons turn out to be important clues into the
-development of the text of the *Decretum*. Stephan Kuttner observed
-in 1984 that "in the course its composition the material outgrew
-the original plan so that many untidy seams of the texture remain
-visible."[@kuttner_research_1990, 13]
+development of the text of the *Decretum*.[^2p4] Stephan Kuttner
+observed in 1984 that "in the course its composition the material
+outgrew the original plan so that many untidy seams of the texture
+remain visible."[@kuttner_research_1990, 13] Canons that are
+introduced by *de eodem* rubrics but that are clearly not "about
+the same thing" as the preceding canon in the vulgate *Decretum*
+are notable instances of visibly "untidy seams".
+
+**The role of the *de eodem* rubrics in Winroth's argument
+that the Aa, Bc, Fd, and P mss. of the *Decretum* are a first
+recension rather than an abbreviation of the vulgate.
+[@winroth_making_2000] Kuttner's statement of the "untidy seams"
+problem in "Acta and Agenda", and how Winroth solves it.**
 
 ---
 
-Pennington and Eichbauer believe that Gratian wrote the rubrics in
+Eichbauer and Pennington believe that Gratian wrote the rubrics in
 the *Decretum* rather than reusing those he found in formal source
-collections.[^2p6] The fact that the rubrics are short, discontinuous,
-texts means that they are of effectively no value for the purpose
-of authorship attribution. On the other hand, the fact that they
-are believed to have been written by Gratian, and therefore reflect
-his choice of wording, means that they could potentially be useful
-evidence in the search for new topics introduced between the first
-and second recensions.
+collections.[^2p6] The rubrics are far too short to be of value for
+the purpose of authorship attribution. On the other hand, the fact
+that they are believed to have been written by Gratian, and therefore
+reflect his choice of wording, means that they could potentially
+be useful evidence in the search for new topics introduced between
+the first and second recensions.
 
 ---
 
@@ -111,11 +119,10 @@ question node. A *dictum post canonem* is an optional, and usually
 final, terminal node of a canon.
 
 [^2p2]: The distinction between rubrics and *dicta* is blurry:
-"**Gratian** rarely took his rubrics from earlier collections.
-Rather he created his own and **often melded the rubrics with the
-dicta.**" [@eichbauer_redactions_2007, 107] "Both J. Rambaud-Buhot
-and John Noonan, Jr. have highlighted the similarity between dicta
-and rubrics, that is, a rubric very often echoes the dictum that
+"Gratian ... often melded the rubrics with the dicta."
+[@eichbauer_redactions_2007, 107]. "Both J. Rambaud-Buhot and John
+Noonan, Jr. have highlighted the similarity between dicta and
+rubrics, that is, a rubric very often echoes the dictum that
 immediately preceded it." and "These isolated instances in the first
 cluster show that Gratian felt that the dictum was sufficient for
 summarizing the following *auctoritas*." [@eichbauer_redactions_2007,
@@ -131,59 +138,53 @@ canonical collections predating Gratian; the direct use of the
 Register is probable in only a single case." [C.27 q.1 c.19 (JE
 1496)] [@landau_gratian_2008, 34].
 
-[^2p4]: **The role of the *de eodem* rubrics in Winroth's argument
-that the Aa, Bc, Fd, and P mss. of the *Decretum* are a first
-recension rather than an abbreviation of the vulgate.
-[@winroth_making_2000] Kuttner's statement of the "untidy seams"
-problem in "Acta and Agenda", and how Winroth solves it.** Winroth
-observed that there are 398 *de eodem* rubrics in the vulgate
-*Decretum*, see [@winroth_uncovering_1997, 28]; and [@winroth_making_2000,
-127]. The precision of this frequently-cited number can be refined
-in ways that demonstrate the true power of the careful use of
-electronic resources for the study of this, or any, text. (In the
-following examples, ```edF.txt``` is the filename of the OCP-format
-Reuter and Silagi e-text of the Friedberg edition. The commands
-used in the examples should work on any macOS or Linux-based system.)
-Winroth's figure of 398 simply represents the number of occurrences
-of the substring "de eodem" in the file: ```grep -i "de eodem"
-edF.txt | wc -l``` returns 398. Most, but not all, of the occurrences
-of the substring "de eodem" do, in fact, appear in the context of
-a rubric, In one case, *de Cons.* D.2 c.3, the inscription reads
-*Idem de eodem* ("the same person about the same thing"), and
-refining the search to count those occurrences that do **not**
-appear alongside the OCP rubric ```<T R>``` or inscription ```<T
-I>``` tags reveal that in 8 instances, the words *de eodem* are
-simply part of the text of a canon or *dictum*: ```grep -i "de
-eodem" edF.txt | egrep -v "<T R>|<T I>" | wc -l``` returns 8. Setting
-aside, then, those instances in which the words *de eodem* occur
-in canons, *dicta*, or inscriptions (and acknowledging that the
-criteria for distinguishing between inscriptions and rubrics can
-be blurry) leaves 389 rubrics containing the substring "de eodem":
-```grep -i "de eodem" edF.txt | grep "<T R>" | wc -l``` returns
-389. Of those 389, there are 373 *De eodem* rubrics and 13 *Item
-de eodem* rubrics (12 of those 13 introduce second-recension canons
-in D.30 in the first part of the *Decretum*): ```fgrep "De eodem."
-edF.txt | grep "<T R>" | wc -l``` returns 373, and ```fgrep "Item
-de eodem." edF.txt | grep "<T R>" | wc -l``` returns 13. In the
-three remaining cases, words *de eodem* are part of a longer rubric:
-```grep -i "de eodem" edF.txt | grep "<T R>" | fgrep -v "De eodem."
-| fgrep -v "Item de eodem."``` returns the rubrics for D.23 c.32
-(*De eodem, et ut clerici comam non nutriant*), C.22 q.5 c. 16 (*De
-eodem, et ut a ieiunis iuramenta prestentur*), and *de Cons.* D.1
-c.17 (*De eodem, et quod octo diebus dedicationum*). Winroth's
-larger point, however, had to do with the place of the *de eodem*
-rubrics in the "untidy seams" problem. For that purpose, only the
-137 *de eodem* rubrics in the first recension of the Decretum are
-potentially relevant evidence. **See GitHub
+[^2p4]: Winroth observed that there are 398 *de eodem* rubrics in
+the vulgate *Decretum*, see [@winroth_uncovering_1997, 28]; and
+[@winroth_making_2000, 127]. The precision of this frequently-cited
+number can be refined in ways that demonstrate the true power of
+the careful use of electronic resources for the study of this, or
+any, text. (In the following examples, ```edF.txt``` is the filename
+of the OCP-format Reuter and Silagi e-text of the Friedberg edition.
+The commands used in the examples should work on any macOS or
+Linux-based system.) Winroth's figure of 398 simply represents the
+number of occurrences of the substring "de eodem" in the file:
+```grep -i "de eodem" edF.txt | wc -l``` returns 398. Most, but not
+all, of the occurrences of the substring "de eodem" do, in fact,
+appear in the context of a rubric, In one case, *de Cons.* D.2 c.3,
+the inscription reads *Idem de eodem* ("the same person about the
+same thing"), and refining the search to count those occurrences
+that do **not** appear alongside the OCP rubric ```<T R>``` or
+inscription ```<T I>``` tags reveal that in 8 instances, the words
+*de eodem* are simply part of the text of a canon or *dictum*:
+```grep -i "de eodem" edF.txt | egrep -v "<T R>|<T I>" | wc -l```
+returns 8. Setting aside, then, those instances in which the words
+*de eodem* occur in canons, *dicta*, or inscriptions (and acknowledging
+that the criteria for distinguishing between inscriptions and rubrics
+can be blurry) leaves 389 rubrics containing the substring "de
+eodem": ```grep -i "de eodem" edF.txt | grep "<T R>" | wc -l```
+returns 389. Of those 389, there are 373 *De eodem* rubrics and 13
+*Item de eodem* rubrics (12 of those 13 introduce second-recension
+canons in D.30 in the first part of the *Decretum*): ```fgrep "De
+eodem." edF.txt | grep "<T R>" | wc -l``` returns 373, and ```fgrep
+"Item de eodem." edF.txt | grep "<T R>" | wc -l``` returns 13. In
+the three remaining cases, words *de eodem* are part of a longer
+rubric: ```grep -i "de eodem" edF.txt | grep "<T R>" | fgrep -v "De
+eodem." | fgrep -v "Item de eodem."``` returns the rubrics for D.23
+c.32 (*De eodem, et ut clerici comam non nutriant*), C.22 q.5 c.
+16 (*De eodem, et ut a ieiunis iuramenta prestentur*), and *de
+Cons.* D.1 c.17 (*De eodem, et quod octo diebus dedicationum*).
+Winroth's larger point, however, had to do with the place of the
+*de eodem* rubrics in the "untidy seams" problem. For that purpose,
+only the 137 *de eodem* rubrics in the first recension of the
+Decretum are potentially relevant evidence. **See GitHub
 [Sand](https://github.com/decretist/Sand/tree/master/rubrics)
 repository. This result (137) is potentially off by one, i.e., the
 total number of *de eodem* rubrics in the first and second recension
 rubric data sets is 388 instead of 389, with no way to tell whether
 the missing rubric is from the first or second recension.**
 
-[^2p6]: "**Gratian rarely took his rubrics from earlier collections.
-Rather he created his own** and often melded the rubrics with the
-dicta." [@eichbauer_redactions_2007, 107]
+[^2p6]: "Gratian rarely took his rubrics from earlier collections.
+Rather he created his own ..." [@eichbauer_redactions_2007, 107]
 
 [^2p7]: Gratian is known to have used Alger as both a source,
 especially in C.1, and, to some extent, as a methodological model.
