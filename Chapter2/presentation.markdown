@@ -11,45 +11,65 @@ that Reuter and Silagi's OCP e-text of the Friedberg edition can be
 taken apart using a recursive descent parser[1] and should be thought of
 as a sequence of hierarchically nested containers. Taking a bottom-up
 approach, we will first consider the presentation or small-grain
-structure, and start with the canons, the atomic containers out of which
-the higher-order containers in the *Decretum*---parts, distinctions,
-cases, and questions---are built up.
+structure, and start with chapters (*capitula*), atomic containers out
+of which the higher-order containers in the *Decretum*---parts,
+distinctions, cases, and questions---are constructed.
+
+Chapters in Parts I and II of the *Decretum* typically consist of an
+inscription, a rubric, a canon text, and a *dictum post canonem*. There
+are no *dicta post canones* in Part III, which is in this respect more
+similar to the formal source collections Gratian relied on than to the
+rest of the *Decretum*. The discussion that follows focuses on
+inscriptions, rubrics, and *dicta post canones*; canon texts have been
+discussed in the section above on the collection and selection of
+canons, and nothing further need be added here.
+
+Most canons have an inscription, which identifies the ultimate source of
+authority for that canon, usually a papal decretal, a canon from an
+ecumenical council or an important provincial synod, or a patristic
+text.[2] Because Gratian collected his texts almost exclusively from
+formal sources, rather than material sources like the register of Pope
+Gregory I,[3] the inscription affixed to a canon was sometimes
+historically inaccurate, especially if the text in question was one
+derived from the Pseudo-Isidorian collections.
+
+Canons are often, though not always, introduced by a rubric. The name
+refers to the fact that rubrics were conventionally written in red
+(*ruber*) ink in manuscripts. A rubric is a very short summary of what
+the following canon is about. In many cases the rubric simply reads "*de
+eodem*", which means "about the same thing" as the preceding canon.[4]
+
+------------------------------------------------------------------------
+
+The 137 *de eodem* rubrics introducing first-recension canons turn out
+to be important clues into the development of the text of the
+*Decretum*. Stephan Kuttner observed in 1984 that "in the course its
+composition the material outgrew the original plan so that many untidy
+seams of the texture remain visible."[5]
+
+------------------------------------------------------------------------
+
+Pennington and Eichbauer believe that Gratian wrote the rubrics in the
+*Decretum* rather than reusing those he found in formal source
+collections.[6] The fact that the rubrics are short, discontinuous,
+texts means that they are of effectively no value for the purpose of
+authorship attribution. On the other hand, the fact that they are
+believed to have been written by Gratian, and therefore reflect his
+choice of wording, means that they could potentially be useful evidence
+in the search for new topics introduced between the first and second
+recensions.
+
+------------------------------------------------------------------------
 
 The way in which canons are presented in the *Decretum* differs somewhat
 from the way in which they were presented in the formal sources from
 which Gratian selected his material. A canon in the formal sources
 typically included an inscription, a rubric, and the canon text. Gratian
 added a *dictum post canonem* (plural *dicta post canones*) containing
-his own commentary on the preceding canon or series of canons, a he
-feature borrowed from Alger of Liège's theological treatise *De
-misericordia et iustitia* but without immediate precedent in the
-canonical literature.[2]
-
-Most canons have an inscription, which identifies the ultimate source of
-authority for that canon, usually a papal decretal, a canon from an
-ecumenical council or an important provincial synod, or a patristic
-text.[3] Because Gratian collected his texts almost exclusively from
-formal sources, rather than material sources like the register of Pope
-Gregory I,[4] the inscription affixed to a canon was sometimes
-historically inaccurate, especially if the text in question was one
-derived from the Pseudo-Isidorian collections.
-
-A canon is often, though not always, introduced by a rubric. The name
-refers to the fact that rubrics were conventionally written in red ink
-in manuscripts. A rubric is a very short summary of what the following
-canon is about. In many cases the rubric simply reads "*de eodem*",
-which means "about the same thing" as the preceding canon.[5] Pennington
-and Eichbauer believe that Gratian wrote the rubrics in the *Decretum*
-rather than reusing those he found in formal source collections.[6] The
-fact that the rubrics are short, discontinuous, texts means that they
-are of effectively no value for the purpose of authorship attribution.
-On the other hand, the fact that they are believed to have been written
-by Gratian, and therefore reflect his choice of wording, means that they
-could potentially be useful evidence in the search for new topics
-introduced between the first and second recensions.
-
-**(The nature of the canon texts proper has been described above in the
-section on the collection and selection of canons.)**
+his own commentary on the preceding canon or series of canons, a feature
+he borrowed from Alger of Liège's theological treatise *De misericordia
+et iustitia* but without immediate precedent in the canonical
+literature.[7]
 
 Finally, there are the *dicta post canones*, usually abbreviated d.p.c.
 and literally meaning "something said after the canons." The *dicta
@@ -58,10 +78,7 @@ carry the thread of his argument, and do his interpretive work. The
 *dicta* are texts that Gratian (whether we think of him as one person or
 many) actually wrote, and are therefore subject to analysis for
 authorship attribution. "The *dicta* in Gratian's *Decretum* bring the
-reader closer to its author than any other part of the text."[7] **(The
-*dicta post* are not found in Part III, which is in this respect more
-structurally similar to the formal source collections Gratian relied on
-than to the rest of the *Decretum*)**.
+reader closer to its author than any other part of the text."[8]
 
 # Bibliography
 
@@ -139,19 +156,7 @@ nodes at the same nesting level under one parent distinction or question
 node. A *dictum post* is an optional, and usually the last, terminal
 node of a canon.
 
-[2] Gratian is known to have used Alger as both a source, especially in
-C.1, and, to some extent, as a methodological model. (Anders Winroth,
-*The Making of Gratian’s Decretum* (Cambridge: Cambridge University
-Press, 2000), 17, 39, 144). See Robert Kretzschmar's edition, (*Alger
-von Lüttichs Traktat "De misericordia et iustitia": ein kanonistischer
-Konkordanzversuch aus der Zeit des Investiturstreits: Untersuchungen und
-Edition*, Quellen und Forschungen zum Recht im Mittalter, Bd. 2
-(Sigmaringen: J. Thorbecke, 1985)). Somewhat confusingly for Gratian
-scholars, Kretzschmar uses regular typeface for Alger's *dicta* and
-italics for the canons, the opposite of the convention adopted by
-Friedberg and maintained by Winroth.
-
-[3] The distinction between rubrics and *dicta* is blurry: "**Gratian**
+[2] The distinction between rubrics and *dicta* is blurry: "**Gratian**
 rarely took his rubrics from earlier collections. Rather he created his
 own and **often melded the rubrics with the dicta.**" (Melodie Harris
 Eichbauer, “St. Gall Stiftsbibliothek 673 and the Early Redactions of
@@ -163,7 +168,7 @@ instances in the first cluster show that Gratian felt that the dictum
 was sufficient for summarizing the following *auctoritas*." (Eichbauer,
 115) **Expand to include inscriptions.**
 
-[4] "Since Gratian frequently took fragments of letters from the
+[3] "Since Gratian frequently took fragments of letters from the
 Register of Gregory I---266 in all---using the inscription 'in
 registro', older research assumed that he must have used this important
 source in the form of the *Registrum Hadrianum*. According to more
@@ -177,18 +182,16 @@ Decretals of Pope Gregory IX*, ed. Wilfried Hartmann and Kenneth
 Pennington, History of Medieval Canon Law (Washington, D.C: Catholic
 University of America Press, 2008), 34).
 
-[5] **The role of the *de eodem* rubrics in Winroth's argument that the
+[4] **The role of the *de eodem* rubrics in Winroth's argument that the
 Aa, Bc, Fd, and P mss. of the *Decretum* are a first recension rather
-than an abbreviation of the vulgate. (Winroth, *The Making of Gratian’s
-Decretum*) Kuttner's statement of the "untidy seams" problem in "Acta
-and Agenda", and how Winroth solves it. (Stephan Kuttner, “Research on
-Gratian: Acta and Agenda,” in *Studies in the History of Medieval Canon
-Law*, Collected Studies CS325 (Aldershot, Hampshire, Great Britain :
-Brookfield, Vt., USA: Variorum ; Gower, 1990)).** Winroth observed that
-there are 398 *de eodem* rubrics in the vulgate *Decretum*, see (Anders
-Winroth, “Uncovering Gratian’s Original Decretum with the Help of
-Electronic Resources,” *Columbia Library Columns* 46, no. 1 (1997): 28);
-and (Winroth, *The Making of Gratian’s Decretum*, 127). The precision of
+than an abbreviation of the vulgate. (Anders Winroth, *The Making of
+Gratian’s Decretum* (Cambridge: Cambridge University Press, 2000))
+Kuttner's statement of the "untidy seams" problem in "Acta and Agenda",
+and how Winroth solves it.** Winroth observed that there are 398 *de
+eodem* rubrics in the vulgate *Decretum*, see (Anders Winroth,
+“Uncovering Gratian’s Original Decretum with the Help of Electronic
+Resources,” *Columbia Library Columns* 46, no. 1 (1997): 28); and
+(Winroth, *The Making of Gratian’s Decretum*, 127). The precision of
 this frequently-cited number can be refined in ways that demonstrate the
 true power of the careful use of electronic resources for the study of
 this, or any, text. (In the following examples, `edF.txt` is the
@@ -230,9 +233,25 @@ number of *de eodem* rubrics in the first and second recension rubric
 data sets is 388 instead of 389, with no way to tell whether the missing
 rubric is from the first or second recension.**
 
-[6] **"Gratian rarely took his rubrics from earlier collections. Rather
+[5] Stephan Kuttner, “Research on Gratian: Acta and Agenda,” in *Studies
+in the History of Medieval Canon Law*, Collected Studies CS325
+(Aldershot, Hampshire, Great Britain : Brookfield, Vt., USA: Variorum ;
+Gower, 1990), 13.
+
+[6] "**Gratian rarely took his rubrics from earlier collections. Rather
 he created his own** and often melded the rubrics with the dicta."
 (Eichbauer, “St. Gall Stiftsbibliothek 673 and the Early Redactions of
 Gratian’s Decretum,” 107)
 
-[7] Winroth, *The Making of Gratian’s Decretum*, 187.
+[7] Gratian is known to have used Alger as both a source, especially in
+C.1, and, to some extent, as a methodological model. (Winroth, *The
+Making of Gratian’s Decretum*, 17, 39, 144). See Robert Kretzschmar's
+edition, (*Alger von Lüttichs Traktat "De misericordia et iustitia": ein
+kanonistischer Konkordanzversuch aus der Zeit des Investiturstreits:
+Untersuchungen und Edition*, Quellen und Forschungen zum Recht im
+Mittalter, Bd. 2 (Sigmaringen: J. Thorbecke, 1985)). Somewhat
+confusingly for Gratian scholars, Kretzschmar uses regular typeface for
+Alger's *dicta* and italics for the canons, the opposite of the
+convention adopted by Friedberg and maintained by Winroth.
+
+[8] Winroth, *The Making of Gratian’s Decretum*, 187.
