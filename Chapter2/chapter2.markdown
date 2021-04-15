@@ -56,21 +56,6 @@ right and that the Gratian of the first-recension of Part I is not
 necessarily the same as the Gratian of the second-recension of Part I,
 and so on.[9]
 
-------------------------------------------------------------------------
-
-Long before the discovery of the first recension in the late twentieth
-century, however, the first twelfth-century readers of the *Decretum*
-were aware of the limited extent to which it could be thought of as the
-work of a single author. Even early readers, such as Stephen of Tournai
-and the author of the *Summa Parisiensis*, who implicitly endorsed the
-single author theory by subsuming the entire vulgate text of the
-*Decretum* under the eponym "Gratian," recognized that whoever Gratian
-was, he was not directly responsible either for the bulk of the text or
-for certain notable formal features of the work, like the division of
-Part I into *distinctiones*.
-
-------------------------------------------------------------------------
-
 The *Decretum* says nothing about its own authorship. Twelfth-century
 readers, however, implicitly endorsed the single-author theory by
 subsuming the entire text of the vulgate *Decretum* under the eponym
@@ -85,21 +70,22 @@ consequently divided on the question of whether the creators of the
 authors. Stephen of Tournai in the preface to his *Summa* on the
 *Decretum* insists that Gratian is its compiler, not its author:
 
-> "I should properly say that Gratian is the compiler of this work, not
+> I should properly say that Gratian is the compiler of this work, not
 > the author, for he brought together in this volume---that is, he
 > arranged---rulings enacted by the holy Fathers. He was not their
 > author or framer, unless perchance someone wishes to say that he is
 > thus the author since he offered on his own in his dicta many things
 > for clarifying and explicating the opinions of the holy
-> \[Fathers\]."[11]
+> \[Fathers\].[11]
 
-In the preface to his commentary on the *Sentences* of Peter Lombard,
-Bonaventure asks "what is the efficient cause or author of this book?",
-and answers that "Peter Lombard, bishop of Paris, is the author of this
-book." He notes that "the mode of authorship is four-fold", and
-distinguishes the roles of *scriptor*, *compilator*, *commentator*, and
-*auctor*, on the basis of the use they make of "the words of other men"
-(*aliena*) and their own (*sua*):
+Bonaventure indirectly advocates for the opposite opinion in the preface
+to his commentary on the *Sentences* of Peter Lombard. He asks "what is
+the efficient cause or author of this book?", and answers that "Peter
+Lombard, bishop of Paris, is the author of this book." Bonaventure then
+notes that "the mode of authorship is four-fold", and distinguishes the
+roles of *scriptor*, *compilator*, *commentator*, and *auctor*, on the
+basis of the use they make of "the words of other men" (*aliena*) and
+their own (*sua*):
 
 > Someone else writes the words of other men and also of his own, but
 > with his own forming the principle part and those of others being
@@ -118,8 +104,6 @@ answer that Peter Lombard can be considered the author of the
 *Sentences* can be transferred directly to Gratian and the *Decretum*:
 by the logic of Bonaventure's argument, Gratian ought to be considered
 the author of the *Decretum*.
-
-------------------------------------------------------------------------
 
 Gratian was working within a well-established genre of academic writing
 in medieval Latin literature, the canonical collection.[14] The
@@ -695,30 +679,12 @@ distinguendo et exponendo in paragraphis suis ponit." Johann Friedrich
 Schulte, ed., *Die summa über das Decretum Gratiani* (Aalen: Scientia
 Verlag, 1965), 5.
 
-[12] Ad intelligentiam dictorum notandum, quod quadruplex est modus
-faciendi librum. Aliquis enim scribit aliena, nihil addendo vel mutando;
-et iste mere dicitur *scriptor*. Aliquis scribit aliena, addendo, sed
-non de suo; et iste *compilator* dicitur. Aliquis scribit et aliena et
-sua, sed aliena tamquam principalia, et sua tamquam annexa ad
-evidentiam; et iste dicitur *commentator*, non auctor. Aliquis scribit
+[12] Andrew Kraebel, “Modes of Authorship and the Making of Medieval
+English Literature,” in *The Cambridge Handbook of Literary Authorship*,
+ed. Ingo Berensmeyer, Gert Buelens, and Marysa Demoor (Cambridge, United
+Kingdom ; Cambridge University Press, 2019), 98–114, 98. Aliquis scribit
 et sua et aliena, sed sua tanquam principalia, aliena tamquam annexa ad
 confirmationem; et talis debet dici *auctor*. (14-15)
-
-For someone writes out the words of other men without adding or changing
-anything, and he is called the scribe \[*scriptor*\] pure and simple.
-Someone else writes the words of other men, putting together material,
-but not his own, and he is called the compiler \[*compilator*\]. Someone
-else write the words of other men and also his own, but with those of
-other men comprising the principle part while his own are annexed merely
-to make clear the argument, and he is called the commentator
-\[*commentator*\], not the author. Someone else writes the words of
-other men and also of his own, but with his own forming the principle
-part and those of others being annexed merely by way of confirmation,
-and such a person should be called an author \[*auctor*\]. Andrew
-Kraebel, “Modes of Authorship and the Making of Medieval English
-Literature,” in *The Cambridge Handbook of Literary Authorship*, ed.
-Ingo Berensmeyer, Gert Buelens, and Marysa Demoor (Cambridge, United
-Kingdom ; Cambridge University Press, 2019), 98–114, 98.
 
 [13] Talis fuit Magister, qui sententias suas ponit et Patrum sententiis
 confirmat. Unde vere debet dici auctor huius libri. (14-15)
