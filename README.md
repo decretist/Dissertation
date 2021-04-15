@@ -8,7 +8,7 @@
 
 - [Chapter 0](Chapter0/chapter0.markdown) (updated 13 April 2021)
 - [Chapter 1](Chapter1/chapter1.markdown) (updated 13 April 2021)
-- [Chapter 2](Chapter2/chapter2.markdown) (updated 13 April 2021)
+- [Chapter 2](Chapter2/chapter2.markdown) (updated 14 April 2021)
   - [Presentation](Chapter2/presentation.markdown)
   - [Organization](Chapter2/organization.markdown)
 - Chapter 3
