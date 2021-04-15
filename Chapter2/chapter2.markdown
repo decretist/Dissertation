@@ -699,14 +699,10 @@ Doctoris Seraphici S. Bonaventurae S. R. E. Episcopi Cardinalis Opera
 Omnia (Ad Claras Aquas (Quaracchi): Ex Typographia Collegii S.
 Bonaventurae, 1882), 14-15.
 
-[13] Talis fuit Magister, qui sententias suas ponit et Patrum sententiis
-confirmat. Unde vere debet dici auctor huius libri. Bonaventure,
-*Commentaria in Quatuor Libros Sententiarum Magistri Petri Lombardi*,
-14-15.
-
-Such was the Master \[Peter Lombard\], who put forward \[*ponit*\] his
-own opinions, and confirmed \[them\] from the opinions of the Fathers.
-Whence he truly ought to be called the author of this book. (trans. PLE)
+[13] (trans. PLE) Talis fuit Magister, qui sententias suas ponit et
+Patrum sententiis confirmat. Unde vere debet dici auctor huius libri.
+Bonaventure, *Commentaria in Quatuor Libros Sententiarum Magistri Petri
+Lombardi*, 14-15.
 
 [14] Cf. (Atria A. Larson, *Master of Penance: Gratian and the
 Development of Penitential Thought and Law in the Twelfth Century*,

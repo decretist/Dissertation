@@ -518,17 +518,11 @@ aliena tamquam annexa ad confirmationem; et talis debet dici *auctor*.
 
 [^b]: @kraebel_modes_2019, 98. Aliquis scribit et sua et aliena,
 sed sua tanquam principalia, aliena tamquam annexa ad confirmationem;
-et talis debet dici *auctor*.
-@bonaventure_commentaria_1882, 14-15.
+et talis debet dici *auctor*. @bonaventure_commentaria_1882, 14-15.
 
-[^c]: Talis fuit Magister, qui sententias suas ponit et Patrum sententiis
-confirmat. Unde vere debet dici auctor huius libri.
-@bonaventure_commentaria_1882, 14-15.
-
-    Such was the Master [Peter Lombard], who put forward [*ponit*]
-    his own opinions, and confirmed [them] from the opinions of the
-    Fathers. Whence he truly ought to be called the author of this
-    book. (trans. PLE)
+[^c]: (trans. PLE) Talis fuit Magister, qui sententias suas ponit
+et Patrum sententiis confirmat. Unde vere debet dici auctor huius
+libri. @bonaventure_commentaria_1882, 14-15.
 
 [^11]: Cf. [@larson_master_2014, 12-13, n30] "My refusal to apply
 the standard label of 'canonical collection' to the *Decretum* is

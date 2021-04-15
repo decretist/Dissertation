@@ -57,59 +57,6 @@ separately from one another.
 How did commentators in the middle ages think about authorship in
 connection with the *Decretum* and similar works? In what sense did
 they consider Gratian to be, or not be, the "author" of the *Decretum*?
-The *Decretum* says nothing about its own authorship. Stephen of
-Tournai: no.[^2] Bonaventure (by analogy with the *Sentences* of
-Peter Lombard): yes.[^3] Minus the fashionable 13th c. Aristotelian
-scholastic jargon about causation, Bonaventure's argument that Peter
-Lombard can be considered the author of the *Sentences* can be
-applied *mutatis mutandis* to Gratian and the *Decretum*: by
-Bonaventure's logic, Gratian can be considered the author of the
-*Decretum*.
-
-[^2]: "Compositorem huius operis recte dixerim Gratianum, non
-auctorem. Capitula namque a sanctis patribus edita in hoc volumine
-composuit, i.e. ordinavit. Non eorum auctor vel conditor fuit, nisi
-forte quis eum auctorem idcirco dicere velit, quoniam multa ex parte
-sua sanctorum sententias distinguendo et exponendo in paragraphis
-suis ponit." @schulte_summa_1965, 5 "I should properly say that
-Gratian is the compiler of this work, not the author, for he brought
-together in this volume---that is, he arranged---rulings enacted
-by the holy Fathers. He was not their author or framer, unless
-perchance someone wishes to say that he is thus the author since
-he offered on his own in his dicta many things for clarifying and
-explicating the opinions of the holy [Fathers]."
-@somerville_prefaces_1998, 200-201. Somerville translated from
-@kalb_studien_1983, 113-120, not from Schulte.
-
-[^3]: Ad intelligentiam dictorum notandum, quod quadruplex est modus
-faciendi librum. Aliquis enim scribit aliena, nihil addendo vel
-mutando; et iste mere dicitur *scriptor*. Aliquis scribit aliena,
-addendo, sed non de suo; et iste *compilator* dicitur. Aliquis
-scribit et aliena et sua, sed aliena tamquam principalia, et sua
-tamquam annexa ad evidentiam; et iste dicitur *commentator*, non
-auctor. Aliquis scribit et sua et aliena, sed sua tanquam principalia,
-aliena tamquam annexa ad confirmationem; et talis debet dici *auctor*.
-Talis fuit Magister, qui sententias suas ponit et Patrum sententiis
-confirmat. Unde vere debet dici auctor huius libri. (14-15)
-
-    For someone writes out the words of other men without adding
-    or changing anything, and he is called the scribe [*scriptor*]
-    pure and simple. Someone else writes the words of other men,
-    putting together material, but not his own, and he is called
-    the compiler [*compilator*]. Someone else write the words of
-    other men and also his own, but with those of other men comprising
-    the principle part while his own are annexed merely to make
-    clear the argument, and he is called the commentator [*commentator*],
-    not the author. Someone else writes the words of other men and
-    also of his own, but with his own forming the principle part
-    and those of others being annexed merely by way of confirmation,
-    and such a person should be called an author [*auctor*]. (Kraebel,
-    98)
-
-    Such was the Master [Peter Lombard], who put forward [*ponit*]
-    his own opinions, and confirmed [them] from the opinions of the
-    Fathers. Whence he truly ought to be called the author of this
-    book. (trans. PLE)
 
 ### Barthes
 
