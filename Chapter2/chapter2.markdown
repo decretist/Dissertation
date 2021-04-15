@@ -387,6 +387,15 @@ ideological orientations.
 
 <div id="refs" class="references csl-bib-body hanging-indent">
 
+<div id="ref-bonaventure_commentaria_1882" class="csl-entry">
+
+Bonaventure. *Commentaria in Quatuor Libros Sententiarum Magistri Petri
+Lombardi*. Vol. 1. Doctoris Seraphici S. Bonaventurae S. R. E. Episcopi
+Cardinalis Opera Omnia. Ad Claras Aquas (Quaracchi): Ex Typographia
+Collegii S. Bonaventurae, 1882.
+
+</div>
+
 <div id="ref-brasington_ways_2004" class="csl-entry">
 
 Brasington, Bruce Clark, ed. *Ways of Mercy: The Prologue of Ivo of
@@ -684,10 +693,16 @@ English Literature,” in *The Cambridge Handbook of Literary Authorship*,
 ed. Ingo Berensmeyer, Gert Buelens, and Marysa Demoor (Cambridge, United
 Kingdom ; Cambridge University Press, 2019), 98–114, 98. Aliquis scribit
 et sua et aliena, sed sua tanquam principalia, aliena tamquam annexa ad
-confirmationem; et talis debet dici *auctor*. (14-15)
+confirmationem; et talis debet dici *auctor*. Bonaventure, *Commentaria
+in Quatuor Libros Sententiarum Magistri Petri Lombardi*, vol. 1,
+Doctoris Seraphici S. Bonaventurae S. R. E. Episcopi Cardinalis Opera
+Omnia (Ad Claras Aquas (Quaracchi): Ex Typographia Collegii S.
+Bonaventurae, 1882), 14-15.
 
 [13] Talis fuit Magister, qui sententias suas ponit et Patrum sententiis
-confirmat. Unde vere debet dici auctor huius libri. (14-15)
+confirmat. Unde vere debet dici auctor huius libri. Bonaventure,
+*Commentaria in Quatuor Libros Sententiarum Magistri Petri Lombardi*,
+14-15.
 
 Such was the Master \[Peter Lombard\], who put forward \[*ponit*\] his
 own opinions, and confirmed \[them\] from the opinions of the Fathers.
