@@ -38,9 +38,6 @@ refers to the fact that rubrics were conventionally written in red
 (*ruber*) ink in manuscripts. A rubric is a very short summary of what
 the following canon is about. In many cases the rubric simply reads "*de
 eodem*", which means "about the same thing" as the preceding canon.[4]
-
-------------------------------------------------------------------------
-
 The 137 *de eodem* rubrics introducing first-recension canons turn out
 to be important clues into the development of the text of the
 *Decretum*. Stephan Kuttner observed in 1984 that "in the course its

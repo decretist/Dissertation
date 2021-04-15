@@ -47,16 +47,12 @@ name refers to the fact that rubrics were conventionally written
 in red (*ruber*) ink in manuscripts. A rubric is a very short summary
 of what the following canon is about. In many cases the rubric
 simply reads "*de eodem*", which means "about the same thing" as
-the preceding canon.[^2p4]
-
----
-
-The 137 *de eodem* rubrics introducing first-recension canons turn
-out to be important clues into the development of the text of the
-*Decretum*. Stephan Kuttner observed in 1984 that "in the course
-its composition the material outgrew the original plan so that many
-untidy seams of the texture remain visible."[@kuttner_research_1990,
-13]
+the preceding canon.[^2p4] The 137 *de eodem* rubrics introducing
+first-recension canons turn out to be important clues into the
+development of the text of the *Decretum*. Stephan Kuttner observed
+in 1984 that "in the course its composition the material outgrew
+the original plan so that many untidy seams of the texture remain
+visible."[@kuttner_research_1990, 13]
 
 ---
 
@@ -74,9 +70,9 @@ and second recensions.
 
 The way in which canons are presented in the *Decretum* differs
 somewhat from the way in which they were presented in the formal
-sources from which Gratian selected his material.  A canon in the
+sources from which Gratian selected his material. A canon in the
 formal sources typically included an inscription, a rubric, and the
-canon text.  Gratian added a *dictum post canonem* (plural *dicta
+canon text. Gratian added a *dictum post canonem* (plural *dicta
 post canones*) containing his own commentary on the preceding canon
 or series of canons, a feature he borrowed from Alger of Liège's
 theological treatise *De misericordia et iustitia* but without
@@ -149,7 +145,7 @@ Reuter and Silagi e-text of the Friedberg edition. The commands
 used in the examples should work on any macOS or Linux-based system.)
 Winroth's figure of 398 simply represents the number of occurrences
 of the substring "de eodem" in the file: ```grep -i "de eodem"
-edF.txt | wc -l``` returns 398.  Most, but not all, of the occurrences
+edF.txt | wc -l``` returns 398. Most, but not all, of the occurrences
 of the substring "de eodem" do, in fact, appear in the context of
 a rubric, In one case, *de Cons.* D.2 c.3, the inscription reads
 *Idem de eodem* ("the same person about the same thing"), and
@@ -173,7 +169,7 @@ three remaining cases, words *de eodem* are part of a longer rubric:
 | fgrep -v "Item de eodem."``` returns the rubrics for D.23 c.32
 (*De eodem, et ut clerici comam non nutriant*), C.22 q.5 c. 16 (*De
 eodem, et ut a ieiunis iuramenta prestentur*), and *de Cons.* D.1
-c.17 (*De eodem, et quod octo diebus dedicationum*).  Winroth's
+c.17 (*De eodem, et quod octo diebus dedicationum*). Winroth's
 larger point, however, had to do with the place of the *de eodem*
 rubrics in the "untidy seams" problem. For that purpose, only the
 137 *de eodem* rubrics in the first recension of the Decretum are
@@ -191,7 +187,7 @@ dicta." [@eichbauer_redactions_2007, 107]
 [^2p7]: Gratian is known to have used Alger as both a source,
 especially in C.1, and, to some extent, as a methodological model.
 [@winroth_making_2000, 17, 39, 144]. See Robert Kretzschmar's
-edition, [-@kretzschmar_alger_1985]. Somewhat confusingly for Gratian
+edition, -@kretzschmar_alger_1985. Somewhat confusingly for Gratian
 scholars, Kretzschmar uses regular typeface for Alger's *dicta* and
 italics for the canons, the opposite of the convention adopted by
 Friedberg and maintained by Winroth.
