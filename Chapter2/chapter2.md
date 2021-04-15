@@ -88,7 +88,7 @@ he arranged---rulings enacted by the holy Fathers. He was not their
 author or framer, unless perchance someone wishes to say that he
 is thus the author since he offered on his own in his dicta many
 things for clarifying and explicating the opinions of the holy
-[Fathers].[^a]
+[Fathers].[^11]
 
 Bonaventure indirectly advocates for the opposite opinion in the
 preface to his commentary on the *Sentences* of Peter Lombard. He
@@ -102,14 +102,14 @@ four-fold", and distinguishes the roles of *scriptor*, *compilator*,
 > Someone else writes the words of other men and also of his own,
 but with his own forming the principle part and those of others
 being annexed merely by way of confirmation, and such a person
-should be called an author [*auctor*].[^b]
+should be called an author [*auctor*].[^12]
 
 He therefore concludes that: 
 
 > Such was the Master [Peter Lombard], who put forward [*ponit*]
 his own opinions, and confirmed [them] from the opinions of the
 Fathers. Whence he truly ought to be called the author of this
-book.[^c]
+book.[^13]
 
 Although Bonaventure's question is stated in the fashionable terms
 of thirteenth-century Aristotelian scholastic jargon about causation,
@@ -119,11 +119,11 @@ by the logic of Bonaventure's argument, Gratian ought to be considered
 the author of the *Decretum*.
 
 Gratian was working within a well-established genre of academic
-writing in medieval Latin literature, the canonical collection.[^11]
+writing in medieval Latin literature, the canonical collection.[^14]
 The *Decretum* followed in the footsteps of any number of systematic
 canonical collections that had been in circulation since the beginning
 of the eleventh century in which the material was organized by
-topic.[^12]
+topic.[^15]
 
 Twelfth-century readers of a canonical collection did not necessarily
 expect its compiler to have written all (or even any) of the words
@@ -135,7 +135,7 @@ traditional inscriptions ascribing the texts (accurately or
 inaccurately) to recognized authoritative sources. Gratian met this
 expectation. Around seventy percent of the text of the vulgate
 *Decretum* comes from the tradition of canonical texts accumulated
-over the first millennium of the church's history.[^13] An extremely
+over the first millennium of the church's history.[^16] An extremely
 important part of the authorial activity of Gratian, then, did
 consist in the collection and selection of material from the canonical
 tradition and in his presentation and organization of the texts
@@ -146,16 +146,16 @@ own authority, he was expected to do so in a prologue. The Prologue
 of Ivo of Chartres, for example, was a work of considerable theoretical
 sophistication that continued to circulate independently and find
 an audience even after Gratian's *Decretum* superseded the collections
-to which it had originally been prepended.[^14] Insofar as he did
+to which it had originally been prepended.[^17] Insofar as he did
 not provide a preface for the *Decretum*, Gratian failed to meet
 this particular expectation of the genre, something that did not
 escape the notice of contemporaries like the author of the *Summa
-Parisiensis*.[^d]
+Parisiensis*.[^18]
 
 In presenting and organizing the canonical texts that he had selected,
 however, Gratian added a significant amount of first-person commentary
 (*dicta*), amounting to around twenty percent of the vulgate
-*Decretum*.[^15] Gratian's commentary is what binds the *Decretum*
+*Decretum*.[^19] Gratian's commentary is what binds the *Decretum*
 together into a coherent whole, and his *dicta* form the backbone
 of the arguments that he makes. The *dicta* (sayings) are a feature
 that Gratian borrowed from another genre, the theological treatise,
@@ -174,7 +174,7 @@ separated, especially in *de Penitentia*.) But, as Noonan further
 pointed out, the Gratian who compiled, arranged, and edited the
 canons and inscriptions was not necessarily the same as the person
 who wrote the *dicta*, who in turn was not necessarily the same as
-the person who created the rubrics.[^16] All of these considerations
+the person who created the rubrics.[^20] All of these considerations
 suggest that the presumption that the *Decretum* was the product
 of a single author ought to be entertained with extreme caution.
 As I turn my attention to the collection and selection, presentation,
@@ -200,7 +200,7 @@ est corrigat.* ('Canon' is Greek for what is called a 'rule' in
 Latin. It is called a rule because it leads one aright and never
 takes one astray. But others say that it is called a rule because
 it rules, presents a norm for right living, or sets aright what is
-twisted and bent.)"[^17] The late first- or early second-century
+twisted and bent.)"[^21] The late first- or early second-century
 *Didache* is an example of a very early Christian text that contains
 such rules or norms. After the official recognition of Christianity
 by Constantine in 313, the Church had a greater need for an agreed-upon
@@ -208,15 +208,15 @@ set of rules. Such rules were provided by the canons of provincial
 and ecumenical councils, and somewhat later by papal decretals.
 
 Gratian defines canons as either *decreta Pontificum* ("decrees of
-pontiffs") or *statuta conciliorum* ("statutes of councils").[^18]
+pontiffs") or *statuta conciliorum* ("statutes of councils").[^22]
 From a relatively early date, the bishops of Rome had cultivated
 the practice of issuing decretal letters, consciously modeled after
 Roman imperial rescripts, in which they laid down disciplinary and
 doctrinal norms in response to questions put to them, usually by
-other bishops.[^19] The earliest surviving example is a letter from
+other bishops.[^23] The earliest surviving example is a letter from
 Pope Siricius (†399) to Bishop Himerius of Tarragona, written in
 385 in response to a letter that Himerius had sent to Siricius's
-predecessor, Pope Damasus (†384).[^20] The letter, sometimes referred
+predecessor, Pope Damasus (†384).[^24] The letter, sometimes referred
 to by the first word of its text as the *Directa* decretal, remains
 an important source for norms concerning clerical celibacy in late
 antiquity. For modern readers, the most familiar example of an
@@ -229,7 +229,7 @@ Pontus, ought to proceed against those accused of being Christians.
 Another extremely important source for the *Decretum* is canons
 from the ecumenical councils and from historically important
 provincial synods: *Conciliorum vero alia sunt universalia, alia
-provincialia*. ("Some councils are universal, others provincial.")[^21]
+provincialia*. ("Some councils are universal, others provincial.")[^25]
 Although the Council of Nicaea (325) is primarily remembered for
 its doctrinal settlement, memorialized in the Nicene Creed, of the
 Arian controversy over the divine nature of Christ, it also promulgated
@@ -239,7 +239,7 @@ figures such as Augustine of Hippo (†430) or Caesarius of Arles
 (†542) either participated in or presided over them: "*Etiam S.
 Augustinus Yponensis episcopus in eadem sinodo legitur fuisse."*
 (It is read that St. Augustine, bishop of Hippo, also attended this
-synod.)"[^22] By the time the *Decretum* was compiled, the cumulative
+synod.)"[^26] By the time the *Decretum* was compiled, the cumulative
 output of the ecumenical councils and provincial synods amounted
 to a considerable mass of material, and Gratian devoted most of
 *Distinctiones* 15 and 16 to enumerating the canonically authoritative
@@ -252,17 +252,17 @@ definition, could be treated as authoritative in a more general
 sense. The most important of these *auctoritates* were drawn from
 the writings of major patristic figures such as Ambrose (†397),
 Jerome (†419 or 420), Augustine (†430), and Gregory (†604), whom
-later generations considered doctors of the church.[^23] It is easy
+later generations considered doctors of the church.[^27] It is easy
 to see how works such as Ambrose of Milan's *De officiis* ("On
 duties")---a Christian answer to the work of Cicero with the same
 title---could be a rich source of norms. Gratian provides an explicit
 list of "the works of the holy fathers that are received in the
-Catholic Church."[^24] (It is necessary to distinguish the papal
+Catholic Church."[^28] (It is necessary to distinguish the papal
 from the patristic when dealing with figures like Gregory. While
 textual excerpts from the letters found in the registers of Gregory
 clearly derive their authority from the fact that Gregory was pope,
 a text like the *Moralia in Job* has an authority to a large extent
-independent of the formal ecclesiastical office Gregory held.)[^25]
+independent of the formal ecclesiastical office Gregory held.)[^29]
 
 Finally, in addition to excerpts from works of patristic authors,
 another source for extra-canonical authorities was secular law,
@@ -289,11 +289,11 @@ Peter Landau has suggested that Gratian relied primarily on just
 five formal sources in writing the Decretum: Anselm of Lucca's
 *Collectio canonum*, the pseudo-Ivonian *Collectio Tripartita*, Ivo
 of Chartes's *Panormia*, Gregory of San Grisogono's *Polycarpus*,
-and an anonymous *Collection in Three Books* (*3L*).[^26] This
+and an anonymous *Collection in Three Books* (*3L*).[^30] This
 hypothesis is not universally accepted: Pennington, for example,
 believes that Gratian may have also relied on one or more now-lost
 Central Italian collections similar to the *Collection in Nine
-Books* (*9L*).[^27]
+Books* (*9L*).[^31]
 
 By the end of the Patristic period, the canons of the ecumenical
 and of historically important provincial councils constituted a
@@ -342,7 +342,7 @@ impervious to judgment. The collections that resulted from this
 effort, the so-called Pseudo-Isidorian *Decretals* and *Benedictus
 Levita*, were accepted everywhere as genuine in an age lacking any
 serious historical-critical awareness, and they survived to become
-important sources for canonical collectors in the eleventh century.[^29]
+important sources for canonical collectors in the eleventh century.[^33]
 Many of these forged canons eventually found their way into Gratian's
 *Decretum*.
 
@@ -379,7 +379,7 @@ supremacy of the papacy and the independence of the church from lay
 interference, the eleventh-century collectors showed considerable
 interest in the forged decretals of the ninth century. For example,
 252 of the 315 chapters of the anonymous *Collection in 74 Titles*
-(ca. 1050) are drawn from the Pseudo-Isidorian *Decretals*.[^30]
+(ca. 1050) are drawn from the Pseudo-Isidorian *Decretals*.[^34]
 
 The program of the Gregorian reformers collided with two practical
 realities of eleventh-century life. Abbotts and bishops were large
@@ -484,7 +484,7 @@ Part III.
 @mclaughlin_summa_1952, 1. (Paucapalea arranged the distinctions
 in the first part and the last, trans. PLE)
 
-[^a]: @somerville_prefaces_1998, 200-201. Somerville is translating
+[^11]: @somerville_prefaces_1998, 200-201. Somerville is translating
 from @kalb_studien_1983, 113-120. "Compositorem huius operis recte
 dixerim Gratianum, non auctorem. Capitula namque a sanctis patribus
 edita in hoc volumine composuit, i.e. ordinavit. Non eorum auctor
@@ -516,15 +516,15 @@ aliena tamquam annexa ad confirmationem; et talis debet dici *auctor*.
     and such a person should be called an author [*auctor*].
     @kraebel_modes_2019, 98.
 
-[^b]: @kraebel_modes_2019, 98. Aliquis scribit et sua et aliena,
+[^12]: @kraebel_modes_2019, 98. Aliquis scribit et sua et aliena,
 sed sua tanquam principalia, aliena tamquam annexa ad confirmationem;
 et talis debet dici *auctor*. @bonaventure_commentaria_1882, 14-15.
 
-[^c]: (trans. PLE) Talis fuit Magister, qui sententias suas ponit
+[^13]: (trans. PLE) Talis fuit Magister, qui sententias suas ponit
 et Patrum sententiis confirmat. Unde vere debet dici auctor huius
 libri. @bonaventure_commentaria_1882, 14-15.
 
-[^11]: Cf. [@larson_master_2014, 12-13, n30] "My refusal to apply
+[^14]: Cf. [@larson_master_2014, 12-13, n30] "My refusal to apply
 the standard label of 'canonical collection' to the *Decretum* is
 meant to make clear that I do not classify the rest of the *Decretum
 Gratiani* as a canonical collection in the exact way that the work
@@ -537,26 +537,26 @@ courts wanted the canons, not the *dicta*; they wanted a pure
 canonical collection that could serve as a reference manual to the
 church's law."
 
-[^12]: In earlier collections such as the *Collectio Dionysiana*
+[^15]: In earlier collections such as the *Collectio Dionysiana*
 (ca.500) the material was organized chronologically.
 
-[^13]: 302,384 words or 71.2% of the vulgate *Decretum*.
+[^16]: 302,384 words or 71.2% of the vulgate *Decretum*.
 
-[^14]: The prologue was prepended (in slightly different forms) to
+[^17]: The prologue was prepended (in slightly different forms) to
 both the *Decretum* and *Panormia* of Ivo of Chartres. For the
 edited Latin text, see [@brasington_ways_2004] For an English
 translation, see [@somerville_prefaces_1998, 132-158].
 
-[^d]: "Master Gratian, antonomastically called in this work 'the
+[^18]: "Master Gratian, antonomastically called in this work 'the
 Master,' **in place of an introduction** prefaced his book with the
 following title, *Concord of discordant canons*, by which he precisely
 sets forth subject matter and intention. @somerville_prefaces_1998, 201.
 **Add quote in Latin. As noted above (Chapter 1), the title comes
 from a gloss, not from Gratian.**
 
-[^15]: 81,008 words or 19.1%.
+[^19]: 81,008 words or 19.1%.
 
-[^16]: "There are two difficulties when this authorship comes to
+[^20]: "There are two difficulties when this authorship comes to
 be determined. One is that the *Concordia* is a book in three
 distinctive parts, with several distinctive sections within the
 parts, and these parts have undergone editing as to chapter heading,
@@ -568,41 +568,41 @@ one or all? The difficulties relate to one another, because evidence
 that Gratian was, say, the commentator of Part II does not establish
 what role he had in Part I." [@noonan_gratian_1979, 162-163].
 
-[^17]: D.3 c.1-2. *Decretum Gratiani*, First Recension, edition in
+[^21]: D.3 c.1-2. *Decretum Gratiani*, First Recension, edition in
 progress. Anders Winroth, 3/21/2017, p.5, l.13-18.
 
-[^18]: "Porro canonum alii sunt decreta Pontificum, alii statuta
+[^22]: "Porro canonum alii sunt decreta Pontificum, alii statuta
 conciliorum." D.3 d.p.c.2. *Decretum Gratiani*, First Recension,
 edition in progress. Anders Winroth, 3/21/2017, p.5, l.19-20.
 
-[^19]: In addition to genuine papal material, for example a large
+[^23]: In addition to genuine papal material, for example a large
 number of excerpts from the register containing the letters of
 Gregory I, Gratian used a number of pseudo-papal sources, which
 will be discussed below in the context of Gratian's formal sources.
 
-[^20]: JK 255. [@jaffe_regesta_1956, 40] ["Register of papal letters
+[^24]: JK 255. [@jaffe_regesta_1956, 40] ["Register of papal letters
 to 1198. Reflecting the editors who contributed to various time
 periods, the work is conventionally given an abbreviated citation
 as JK to the year 590, JE for 590-882 and JL for 883-1198." [Papal
 Documents: A Finding Aid | Columbia University
 Libraries](http://library.columbia.edu/locations/butler/medieval-studies/guides/papaldoc.html)]
 
-[^21]: D.3 d.p.c.2. *Decretum Gratiani*, First Recension, edition
+[^25]: D.3 d.p.c.2. *Decretum Gratiani*, First Recension, edition
 in progress. Anders Winroth, 3/21/2017.
 
-[^22]: D.16 c.11. *Decretum Gratiani*, First Recension, edition in
+[^26]: D.16 c.11. *Decretum Gratiani*, First Recension, edition in
 progress. Anders Winroth, 3/21/2017. p.32, l.7-9.
 
-[^23]: Ambrose, Augustine, Gregory the Great, and Jerome were
+[^27]: Ambrose, Augustine, Gregory the Great, and Jerome were
 formally recognized as doctors by Boniface VIII in 1298 in the
 *Liber* *Sextus*, VI 3.22, *Gloriosus Deus in sanctis suis* in *De
 reliquiis et veneratione sanctorum* (edF 2.1059-1060). Leo the Great
 was only added to the list in 1754.
 
-[^24]: First recension D.15 c.3, §1-§16 in Friedberg, §2-§17 in
+[^28]: First recension D.15 c.3, §1-§16 in Friedberg, §2-§17 in
 Thompson and Gordley.
 
-[^25]: "The *Moralia*: based on talks Gregory gave on the Book of
+[^29]: "The *Moralia*: based on talks Gregory gave on the Book of
 Job to his 'brethren' who accompanied him to Constantinople while
 he held the office of papal *apocrisiarius* (see above). The work
 as we have it is the result of Gregory's revision and completion
@@ -616,13 +616,13 @@ of the text in his inscription: D.13 c.2; D.45 c.9 and c.14; D.46
 c.1 and c.2; D.47 c.3. Each text is also in the first recension."
 @landau_gratian_2008, 35n22.
 
-[^26]: [@landau_arbeitsplan_1994]. See also [@winroth_making_2000,
+[^30]: [@landau_arbeitsplan_1994]. See also [@winroth_making_2000,
 15-17].
 
-[^27]: For the *Collectio IX librorum* of the Ms Vat. lat. 1349
+[^31]: For the *Collectio IX librorum* of the Ms Vat. lat. 1349
 (*9L*), see [@fowler-magerl_clavis_2005, 79-82]
 
-[^29]: For the much-criticized 1863 edition, see
+[^33]: For the much-criticized 1863 edition, see
 [@hinschius_decretales_1963]. Recent efforts to replace the Hinschius
 edition include [Zum Inhalt von "Projekt
 Pseudoisidor"](http://www.pseudoisidor.mgh.de/) by Karl-Georg Schon;
@@ -639,6 +639,6 @@ Gratiani](https://sites.google.com/a/yale.edu/decretumgratiani/introduction-to-p
 by Eric Knibbs. See @fuhrmann_einfluss_1972 on the influence of the
 forged decretals.
 
-[^30]: "Altogether I have estimated that 252 out of the 315 *capitula*
+[^34]: "Altogether I have estimated that 252 out of the 315 *capitula*
 were taken from Pseudo-Isidore." [@gilchrist_collection_1980, 15]
 
