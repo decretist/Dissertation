@@ -96,18 +96,19 @@ on parser implementation. In Computer Science-theoretic terms, the
 parsed *Decretum* can be thought of as an ordered tree, with parts,
 distinctions, cases, and questions as interior nodes. A canon or
 chapter, properly conceptualized as a node encapsulating rubrics,
-inscriptions, canon texts, and *dicta post*, is also an internal
-node. A *dictum* (*ante*, *post*, or *initiale*) is a terminal node.
-So are rubrics, inscriptions, and canon texts. A case statement
-(*dictum initiale*) is always the first terminal node of a case. A
-*dictum ante* is always the first terminal node of a distinction
-or question. The anomalous C.16 q.2 d.a.c.8 is actually the *dictum
-ante* introducing a vestigial fifth question positioned between
-C.16 q.2 and C.16 q.3 (see Friedberg, 1.787). The traditional
-notation misleadingly implies that d.a.c.1 is a leaf node of c.1.
-In fact, d.a.c.1 and c.1 are both child nodes at the same nesting
-level under one parent distinction or question node. A *dictum post*
-is an optional, and usually the last, terminal node of a canon.
+inscriptions, canon texts, and *dicta post canones*, is also an
+internal node. A *dictum* (*ante* or *post canonem*, or *initiale*)
+is a terminal node. So are rubrics, inscriptions, and canon texts.
+A case statement (*dictum initiale*) is always the first terminal
+node of a case. A *dictum ante canonem* is always the first terminal
+node of a distinction or question. The anomalous C.16 q.2 d.a.c.8
+is actually the *dictum ante canonem* introducing a vestigial fifth
+question positioned between C.16 q.2 and C.16 q.3 (see Friedberg,
+1.787). The traditional notation misleadingly implies that d.a.c.1
+is a leaf node of c.1. In fact, d.a.c.1 and c.1 are both child
+nodes at the same nesting level under one parent distinction or
+question node. A *dictum post canonem* is an optional, and usually
+final, terminal node of a canon.
 
 [^2p2]: The distinction between rubrics and *dicta* is blurry:
 "**Gratian** rarely took his rubrics from earlier collections.
