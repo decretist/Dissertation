@@ -22,7 +22,7 @@
 
 ### Notebooks
 
-- [2-dimensional visualization](Notebooks/Burrows/Visualization.ipynb)
-- [Zipf's law (1935)](Notebooks/Zipf/Zipf35.ipynb)
-- [Zipf's law (1949)](Notebooks/Zipf/Zipf49.ipynb)
-- [Burrows's delta](Notebooks/Burrows/Burrows.ipynb)
+- [2-dimensional visualization](Notebooks/Burrows/Visualization.ipynb) (24 May 2020)
+- [Zipf's law (1935)](Notebooks/Zipf/Zipf35.ipynb) (27 May 2020)
+- [Zipf's law (1949)](Notebooks/Zipf/Zipf49.ipynb) (27 May 2020)
+- [Burrows's delta](Notebooks/Burrows/Burrows.ipynb) (7 July 2020)
