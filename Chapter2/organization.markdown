@@ -72,6 +72,41 @@ the *Decretum*, as indicated by glosses found in the Gt, Pf, and Tr
 manuscripts describing Gratian's work as "principally divided into two
 parts."[4]
 
+# Bibliography
+
+<div id="refs" class="references csl-bib-body hanging-indent">
+
+<div id="ref-schulte_summa_1965" class="csl-entry">
+
+Schulte, Johann Friedrich, ed. *Die summa über das Decretum Gratiani*.
+Aalen: Scientia Verlag, 1965.
+
+</div>
+
+<div id="ref-singer_summa_1963" class="csl-entry">
+
+Singer, Heinrich. *Summa Decretorum*. Aalen : Paderborn: Scientia Verlag
+; F. Schöningh, 1963.
+
+</div>
+
+<div id="ref-somerville_prefaces_1998" class="csl-entry">
+
+Somerville, Robert, and Bruce Clark Brasington, eds. *Prefaces to Canon
+Law Books in Latin Christianity: Selected Translations, 500-1245*. New
+Haven, Conn: Yale University Press, 1998.
+
+</div>
+
+<div id="ref-winroth_making_2000" class="csl-entry">
+
+Winroth, Anders. *The Making of Gratian’s Decretum*. Cambridge:
+Cambridge University Press, 2000.
+
+</div>
+
+</div>
+
 [1] Anders Winroth, *The Making of Gratian’s Decretum* (Cambridge:
 Cambridge University Press, 2000), 5.
 
