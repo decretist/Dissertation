@@ -407,6 +407,8 @@ two of the most important filters---the ninth-century pseudo-Isidorian
 forgers and the eleventh-century Gregorian reformers---had had
 extremely strong ideological orientations.
 
+---
+
 ## Presentation
 
 Having considered how Gratian sourced and collected his materials---the
