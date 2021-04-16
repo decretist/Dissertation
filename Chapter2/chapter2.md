@@ -90,7 +90,7 @@ is thus the author since he offered on his own in his dicta many
 things for clarifying and explicating the opinions of the holy
 [Fathers].[^11]
 
-Bonaventure indirectly advocates for the opposite opinion in the
+Bonaventure (†1274) indirectly advocates for the opposite opinion in the
 preface to his commentary on the *Sentences* of Peter Lombard. He
 asks "what is the efficient cause or author of this book?", and
 answers that "Peter Lombard, bishop of Paris, is the author of this
