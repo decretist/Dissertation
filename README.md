@@ -18,6 +18,7 @@
 ### *Extravagantes*
 
 - [n-grams](Extra/n-grams.markdown)
+- [Correctores](Extra/correctores.markdown)
 
 ### Notebooks
 
