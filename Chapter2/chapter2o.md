@@ -46,7 +46,7 @@ first-recension manuscripts, nor was it included in the earliest
 manuscripts of the more widely-circulated second-recension version
 of the *Decretum*, as indicated by glosses found in the Gt, Pf, and
 Tr manuscripts describing Gratian's work as "principally divided
-into two parts."[^41]
+into two parts."[^2o5]
 
 **[Move all discussion of d.a.c. and d.init. into Organization.
 Case statements or *themata* are a special case of *dicta* found
@@ -72,7 +72,7 @@ their university-educated, urban professional parents, the intense
 concern of "a certain man" in the first case statement to secure a
 good ecclesiastical career for his son (and his willingness on more
 than one occasion to resort to bribery in order to realize that
-objective) has a distinctly contemporary feel to it.[^40]
+objective) has a distinctly contemporary feel to it.[^2o6]
 
 In other cases, the hypothetical case statements are quite remote
 from our own concerns. In case 28, for example, a married infidel,
@@ -88,7 +88,6 @@ in which a man can take another wife if his previous wife is still
 alive; and whether someone who had one wife before he was baptized
 and another wife after he was baptized should be considered a
 bigamist.
-
 
 [^2o1]: Rufinus and Stephen of Tournai describe the tripartite
 division in exactly the same words: "librum suum in tribus partibus
@@ -119,11 +118,11 @@ indication as to why Somerville chose to translate *negotiis* as
     it seems more likely that this is something he had heard Rufinus
     say in lecture. **Kenneth Pennington, "Étienne of Tournai".**
 
-[^40]: "Quidam habens filium ..." C.1, d.init., edF. 1.357. Although
+[^2o5]: **Need footnote on Gt, Pf, and Tr gloss**
+
+[^2o6]: "Quidam habens filium ..." C.1, d.init., edF. 1.357. Although
 Gratian does not say so explicitly, I think that we can reasonably
 infer that the father is an urban merchant or professional, rather
 than a member of the landed aristocracy, since his wealth, the
 source of several bribes, is so readily convertible into cash.
-
-[^41]: **Need footnote on Gt, Pf, and Tr gloss**
 

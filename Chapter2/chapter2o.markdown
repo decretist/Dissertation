@@ -27,7 +27,13 @@ seven distinctions.
 
 The third part of the *Decretum* is a treatise on sacraments (*tractatus
 de consecratione*, abbreviated *de Cons.*) divided into five
-distinctions.[4]
+distinctions.[4] The third part, *de Consecratione*, is problematic in
+several ways. That *de Cons.* is a very late addition is not in
+doubt---it is absent from all first-recension manuscripts, nor was it
+included in the earliest manuscripts of the more widely-circulated
+second-recension version of the *Decretum*, as indicated by glosses
+found in the Gt, Pf, and Tr manuscripts describing Gratian's work as
+"principally divided into two parts."[5]
 
 **\[Move all discussion of d.a.c. and d.init. into Organization. Case
 statements or *themata* are a special case of *dicta* found only in, and
@@ -53,7 +59,7 @@ university-educated, urban professional parents, the intense concern of
 "a certain man" in the first case statement to secure a good
 ecclesiastical career for his son (and his willingness on more than one
 occasion to resort to bribery in order to realize that objective) has a
-distinctly contemporary feel to it.[5]
+distinctly contemporary feel to it.[6]
 
 In other cases, the hypothetical case statements are quite remote from
 our own concerns. In case 28, for example, a married infidel, by which
@@ -68,14 +74,6 @@ infidels, whether there is ever a situation in which a man can take
 another wife if his previous wife is still alive; and whether someone
 who had one wife before he was baptized and another wife after he was
 baptized should be considered a bigamist.
-
-The third part, *de Consecratione*, is problematic in several ways. That
-*de Cons.* is a very late addition is not in doubt---it is absent from
-all first-recension manuscripts, nor was it included in the earliest
-manuscripts of the more widely-circulated second-recension version of
-the *Decretum*, as indicated by glosses found in the Gt, Pf, and Tr
-manuscripts describing Gratian's work as "principally divided into two
-parts."[6]
 
 # Bibliography
 
@@ -164,10 +162,10 @@ Christianity*, 193.
 [4] Anders Winroth, *The Making of Gratian’s Decretum* (Cambridge:
 Cambridge University Press, 2000), 5.
 
-[5] "Quidam habens filium ..." C.1, d.init., edF. 1.357. Although
+[5] **Need footnote on Gt, Pf, and Tr gloss**
+
+[6] "Quidam habens filium ..." C.1, d.init., edF. 1.357. Although
 Gratian does not say so explicitly, I think that we can reasonably infer
 that the father is an urban merchant or professional, rather than a
 member of the landed aristocracy, since his wealth, the source of
 several bribes, is so readily convertible into cash.
-
-[6] **Need footnote on Gt, Pf, and Tr gloss**

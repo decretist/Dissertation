@@ -9,7 +9,7 @@
 - [Chapter 0](Chapter0/chapter0.markdown) (13 April 2021)
 - [Chapter 1](Chapter1/chapter1.markdown) (13 April 2021)
 - [Chapter 2](Chapter2/chapter2.markdown) (15 April 2021)
-  - [Organization](Chapter2/organization.markdown)
+  - [Organization](Chapter2/chapter2o.markdown)
 - Chapter 3
 - Chapter 4 [(Markdown)](Chapter4/chapter4.markdown)
   - Principal component analysis [(Markdown)](Chapter4/pca.markdown)
