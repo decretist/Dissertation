@@ -16,33 +16,31 @@ for the age of the printing press.
 
 The *Correctores *proceeded from the Renaissance Humanist assumption
 that their job was to identify and include the most textually correct
-version of the material source for each of Gratian\'s authorities. In
+version of the material source for each of Gratian's authorities. In
 this sense the *Correctores* were less concerned with getting at the
 text of the collection Gratian actually compiled, and more concerned
 with getting at the text that they thought Gratian should have compiled,
-if his concerns had been those of a Renaissance philological
-scholar.[^1]
+if his concerns had been those of a Renaissance philological scholar.[1]
 
 The 1582 printed edition of the *Decretum* includes the ordinary gloss,
 the standardized commentary by [Johannes
-Teutonicus](http://amesfoundation.law.harvard.edu/BioBibCanonists/Report_Biobib2.php?record_id=a303) (c.1170\--1245)
+Teutonicus](http://amesfoundation.law.harvard.edu/BioBibCanonists/Report_Biobib2.php?record_id=a303) (c.1170--1245)
 in 1216, which was revised and updated by [Bartholomeus
-Brixiensis](http://amesfoundation.law.harvard.edu/BioBibCanonists/Report_Biobib2.php?record_id=a050) (fl.1234\--1258)
-around 1240-1245. UCLA\'s online version of the [Corpus Iuris Canonici
+Brixiensis](http://amesfoundation.law.harvard.edu/BioBibCanonists/Report_Biobib2.php?record_id=a050) (fl.1234--1258)
+around 1240-1245. UCLA's online version of the [Corpus Iuris Canonici
 (1582)](http://digital.library.ucla.edu/canonlaw/) is a convenient way
 for modern scholars to consult the ordinary gloss, which is an important
-tool for understanding the reception of Gratian\'s text by medieval
+tool for understanding the reception of Gratian's text by medieval
 jurists.
 
-[^1]: The idea that the *Correctores* were trying to reproduce the text
-    of the *Decretum* as they though Gratian should have written it, as
-    opposed to the text as he actually wrote it, goes back at least as
-    far as Friedberg: \"Vides non id in animo habuisse correctores
-    Romanos, ut restitueretur decretum, quale a Gratiano compositum
-    esset, sed quale a Gratiano componi debuisset.\" (\"You see it in
-    the mind that the *Correctores Romani* had, as the *Decretum* was
-    restored, not how it was composed by Gratian, but how it ought to
-    have been composed by Gratian.\" trans. PLE) (edF 1.lxxviii, see
-    also Anders Winroth, \"[Emil Friedberg\'s Edition of Gratian\'s
-    Decretum: An
-    Evaluation](http://mahan.wonkwang.ac.kr/link/med/law/canon-law/gratianus/friedberg.html)\".)
+[1] The idea that the *Correctores* were trying to reproduce the text of
+the *Decretum* as they though Gratian should have written it, as opposed
+to the text as he actually wrote it, goes back at least as far as
+Friedberg: "Vides non id in animo habuisse correctores Romanos, ut
+restitueretur decretum, quale a Gratiano compositum esset, sed quale a
+Gratiano componi debuisset." ("You see it in the mind that the
+*Correctores Romani* had, as the *Decretum* was restored, not how it was
+composed by Gratian, but how it ought to have been composed by Gratian."
+trans. PLE) (edF 1.lxxviii, see also Anders Winroth, "[Emil Friedberg's
+Edition of Gratian's Decretum: An
+Evaluation](http://mahan.wonkwang.ac.kr/link/med/law/canon-law/gratianus/friedberg.html)".)
