@@ -1,23 +1,31 @@
 ---
+author: Paul Evans
 bibliography: ../bib/merged.bib
 csl: ../csl/chicago-fullnote-bibliography.csl
+date: 16 April 2021
 reference-section-title: Bibliography
 suppress-bibliography: false
-title: Chapter 2
-subtitle: The *Decretum*
+title: Chapter 2o
+subtitle: Organization
 ---
 ## Organization
 
 The *Decretum* in the form that circulated after around 1150 (the
 Köln Dombibliothek manuscripts 127 and 128 are good early examples)
-has three parts. The first part consists of 101 distinctions. The
-division into distinctions is traditionally thought to have been
-made by Paucapalea (fl. 1140s) rather than by Gratian. The division
-seems to have taken some time to reach its final form: Pennington
-has pointed out that there were 99-distinction versions of the first
+has three parts. Contemporaries like Rufinus and Stephen of Tournai
+understood the three parts to treat respectively of ministries,
+business, and sacraments: "*primam ministeriis, secundam negotiis,
+tertiam ecclesiasticis deputat sacramentis.*"[^2o1]
+
+The first part consists of 101 distinctions. The division of Part
+I into distinctions is traditionally thought to have been made by
+Paucapalea (fl. 1140s) rather than by Gratian. The division seems
+to have taken some time to reach its final form: Pennington has
+pointed out that there were 99-distinction versions of the first
 recension,[@pennington_biography_2018, 366] and Rufinus writing in
 the mid-1160s presumably about the second recension describes Part
-I as "having been completed in one hundred distinctions."[@somerville_prefaces_1998, 193] Groups of distinctions
+I as "having been completed in one hundred
+distinctions."[@somerville_prefaces_1998, 193] Groups of distinctions
 form treatises within the work: the first twenty distinctions, for
 example, form a treatise on laws (*tractatus de legibus*) that
 explores the sources of law. Other topics covered include ecclesiastical
@@ -32,11 +40,6 @@ Pen.*) divided into seven distinctions.
 The third part of the *Decretum* is a treatise on sacraments
 (*tractatus de consecratione*, abbreviated *de Cons.*) divided into
 five distinctions.[@winroth_making_2000, 5]
-
-Contemporaries like Rufinus and Stephen of Tournai understood the
-parts to treat respectively of ministries, business, and sacraments:
-"*primam ministeriis, secundam negotiis, tertiam ecclesiasticis
-deputat sacramentis.*"[^39]
 
 **[Move all discussion of d.a.c. and d.init. into Organization.
 Case statements or *themata* are a special case of *dicta* found
@@ -87,7 +90,7 @@ second-recension version of the *Decretum*, as indicated by glosses
 found in the Gt, Pf, and Tr manuscripts describing Gratian's work
 as "principally divided into two parts."[^41]
 
-[^39]: Rufinus and Stephen of Tournai describe the tripartite
+[^2o1]: Rufinus and Stephen of Tournai describe the tripartite
 division in exactly the same words: "librum suum in tribus partibus
 distinguit, quarum primam ministeriis, secundam negotiis, tertiam
 ecclesiasticis deputat sacramentis." [@singer_summa_1963, 5] "he

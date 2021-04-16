@@ -2,13 +2,18 @@
 
 The *Decretum* in the form that circulated after around 1150 (the Köln
 Dombibliothek manuscripts 127 and 128 are good early examples) has three
-parts. The first part consists of 101 distinctions. The division into
+parts. Contemporaries like Rufinus and Stephen of Tournai understood the
+three parts to treat respectively of ministries, business, and
+sacraments: "*primam ministeriis, secundam negotiis, tertiam
+ecclesiasticis deputat sacramentis.*"[1]
+
+The first part consists of 101 distinctions. The division of Part I into
 distinctions is traditionally thought to have been made by Paucapalea
 (fl. 1140s) rather than by Gratian. The division seems to have taken
 some time to reach its final form: Pennington has pointed out that there
-were 99-distinction versions of the first recension,[1] and Rufinus
+were 99-distinction versions of the first recension,[2] and Rufinus
 writing in the mid-1160s presumably about the second recension describes
-Part I as "having been completed in one hundred distinctions."[2] Groups
+Part I as "having been completed in one hundred distinctions."[3] Groups
 of distinctions form treatises within the work: the first twenty
 distinctions, for example, form a treatise on laws (*tractatus de
 legibus*) that explores the sources of law. Other topics covered include
@@ -22,12 +27,7 @@ seven distinctions.
 
 The third part of the *Decretum* is a treatise on sacraments (*tractatus
 de consecratione*, abbreviated *de Cons.*) divided into five
-distinctions.[3]
-
-Contemporaries like Rufinus and Stephen of Tournai understood the parts
-to treat respectively of ministries, business, and sacraments: "*primam
-ministeriis, secundam negotiis, tertiam ecclesiasticis deputat
-sacramentis.*"[4]
+distinctions.[4]
 
 **\[Move all discussion of d.a.c. and d.init. into Organization. Case
 statements or *themata* are a special case of *dicta* found only in, and
@@ -120,37 +120,28 @@ Cambridge University Press, 2000.
 
 </div>
 
-[1] Kenneth Pennington, “The Biography of Gratian, the Father of Canon
-Law,” in *A Service Beyond All Recompense*, ed. Kurt Martens (Catholic
-University of America Press, 2018), 366.
-
-[2] Robert Somerville and Bruce Clark Brasington, eds., *Prefaces to
-Canon Law Books in Latin Christianity: Selected Translations, 500-1245*
-(New Haven, Conn: Yale University Press, 1998), 193.
-
-[3] Anders Winroth, *The Making of Gratian’s Decretum* (Cambridge:
-Cambridge University Press, 2000), 5.
-
-[4] Rufinus and Stephen of Tournai describe the tripartite division in
+[1] Rufinus and Stephen of Tournai describe the tripartite division in
 exactly the same words: "librum suum in tribus partibus distinguit,
 quarum primam ministeriis, secundam negotiis, tertiam ecclesiasticis
 deputat sacramentis." (Heinrich Singer, *Summa Decretorum* (Aalen :
 Paderborn: Scientia Verlag ; F. Schöningh, 1963), 5) "he divides his
 book into three parts, the first of which he devotes to ecclesiastical
 ministries, the second to \[ecclesiastical\] business, and the third to
+ecclesiastical sacraments." (Robert Somerville and Bruce Clark
+Brasington, eds., *Prefaces to Canon Law Books in Latin Christianity:
+Selected Translations, 500-1245* (New Haven, Conn: Yale University
+Press, 1998), 192–93) (Rufinus) "Harum primam ministeriis, secundam
+negotiis, tertiam ecclesiasticis deputat sacramentis." (Johann Friedrich
+Schulte, ed., *Die summa über das Decretum Gratiani* (Aalen: Scientia
+Verlag, 1965), 6) "The first of these parts is devoted to ecclesiastical
+ministries, the second to ecclesiastical problems, the third to
 ecclesiastical sacraments." (Somerville and Brasington, *Prefaces to
-Canon Law Books in Latin Christianity*, 192–93) (Rufinus) "Harum primam
-ministeriis, secundam negotiis, tertiam ecclesiasticis deputat
-sacramentis." (Johann Friedrich Schulte, ed., *Die summa über das
-Decretum Gratiani* (Aalen: Scientia Verlag, 1965), 6) "The first of
-these parts is devoted to ecclesiastical ministries, the second to
-ecclesiastical problems, the third to ecclesiastical sacraments."
-(Somerville and Brasington, *Prefaces to Canon Law Books in Latin
-Christianity*, 201) (Stephen of Tournai) (Brasington translated the
-preface of Rufinus, Somerville that of Stephen of Tournai. (Somerville
-and Brasington, *Prefaces to Canon Law Books in Latin Christianity*,
-vii). There is no indication as to why Somerville chose to translate
-*negotiis* as "problems" rather than "business".)
+Canon Law Books in Latin Christianity*, 201) (Stephen of Tournai)
+(Brasington translated the preface of Rufinus, Somerville that of
+Stephen of Tournai. (Somerville and Brasington, *Prefaces to Canon Law
+Books in Latin Christianity*, vii). There is no indication as to why
+Somerville chose to translate *negotiis* as "problems" rather than
+"business".)
 
 Given the probable dates of the *summae* of Rufinus (1164) and Stephen
 of Tournai (1165/66), it is just possible that Stephen got the wording
@@ -162,6 +153,16 @@ Tornacensis](http://amesfoundation.law.harvard.edu/BioBibCanonists/Report_Biobib
 Stephen, however, had been a student of Rufinus in Bologna, and it seems
 more likely that this is something he had heard Rufinus say in lecture.
 **Kenneth Pennington, "Étienne of Tournai".**
+
+[2] Kenneth Pennington, “The Biography of Gratian, the Father of Canon
+Law,” in *A Service Beyond All Recompense*, ed. Kurt Martens (Catholic
+University of America Press, 2018), 366.
+
+[3] Somerville and Brasington, *Prefaces to Canon Law Books in Latin
+Christianity*, 193.
+
+[4] Anders Winroth, *The Making of Gratian’s Decretum* (Cambridge:
+Cambridge University Press, 2000), 5.
 
 [5] "Quidam habens filium ..." C.1, d.init., edF. 1.357. Although
 Gratian does not say so explicitly, I think that we can reasonably infer
