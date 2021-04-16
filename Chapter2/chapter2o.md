@@ -39,7 +39,14 @@ Pen.*) divided into seven distinctions.
 
 The third part of the *Decretum* is a treatise on sacraments
 (*tractatus de consecratione*, abbreviated *de Cons.*) divided into
-five distinctions.[@winroth_making_2000, 5]
+five distinctions.[@winroth_making_2000, 5] The third part, *de
+Consecratione*, is problematic in several ways. That *de Cons.*
+is a very late addition is not in doubt---it is absent from all
+first-recension manuscripts, nor was it included in the earliest
+manuscripts of the more widely-circulated second-recension version
+of the *Decretum*, as indicated by glosses found in the Gt, Pf, and
+Tr manuscripts describing Gratian's work as "principally divided
+into two parts."[^41]
 
 **[Move all discussion of d.a.c. and d.init. into Organization.
 Case statements or *themata* are a special case of *dicta* found
@@ -82,13 +89,6 @@ alive; and whether someone who had one wife before he was baptized
 and another wife after he was baptized should be considered a
 bigamist.
 
-The third part, *de Consecratione*, is problematic in several ways.
-That *de Cons.* is a very late addition is not in doubt---it is
-absent from all first-recension manuscripts, nor was it included
-in the earliest manuscripts of the more widely-circulated
-second-recension version of the *Decretum*, as indicated by glosses
-found in the Gt, Pf, and Tr manuscripts describing Gratian's work
-as "principally divided into two parts."[^41]
 
 [^2o1]: Rufinus and Stephen of Tournai describe the tripartite
 division in exactly the same words: "librum suum in tribus partibus
