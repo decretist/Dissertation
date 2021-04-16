@@ -417,7 +417,7 @@ presentation, the small-grain or micro structure of the *Decretum*,
 and organization, the large-grain or macro structure of the *Decretum*.
 The organization of the *Decretum* is very regular, so structurally
 regular, in fact, that Reuter and Silagi's OCP e-text of the Friedberg
-edition can be taken apart using a recursive descent parser[^2p1]
+edition can be taken apart using a recursive descent parser[^35]
 and should be thought of as a sequence of hierarchically nested
 containers. Taking a bottom-up approach, we will first consider the
 presentation or small-grain structure, and start with chapters
@@ -439,9 +439,9 @@ be added here.
 Most canons have an inscription, which identifies the ultimate
 source of authority for that canon, usually a papal decretal, a
 canon from an ecumenical council or an important provincial synod,
-or a patristic text.[^2p2] Because Gratian collected his texts
+or a patristic text.[^36] Because Gratian collected his texts
 almost exclusively from formal sources, rather than material sources
-like the register of Pope Gregory I,[^2p3] the inscription affixed
+like the register of Pope Gregory I,[^37] the inscription affixed
 to a canon was sometimes historically inaccurate, especially if the
 text in question was one derived from the Pseudo-Isidorian collections.
 
@@ -452,7 +452,7 @@ of what the following canon is about. In many cases the rubric
 simply reads "*de eodem*", which means "about the same thing" as
 the preceding canon. The 137 *de eodem* rubrics introducing
 first-recension canons turn out to be important clues into the
-development of the text of the *Decretum*.[^2p4] Stephan Kuttner
+development of the text of the *Decretum*.[^38] Stephan Kuttner
 observed in 1984 that "in the course its composition the material
 outgrew the original plan so that many untidy seams of the texture
 remain visible."[@kuttner_research_1990, 13] Canons that are
@@ -469,7 +469,7 @@ which it consecutively follows in the first recension).
 
 Eichbauer and Pennington believe that Gratian wrote the rubrics in
 the *Decretum* rather than reusing those he found in formal source
-collections.[^2p6] The rubrics are far too short to be of value for
+collections.[^41] The rubrics are far too short to be of value for
 the purpose of authorship attribution. On the other hand, the fact
 that they are believed to have been written by Gratian, and therefore
 reflect his choice of wording, means that they could potentially
@@ -482,7 +482,7 @@ text. Gratian added a *dictum post canonem* containing his own
 commentary on the preceding canon or series of canons, a feature
 he borrowed from Alger of Liège's theological treatise *De misericordia
 et iustitia* but without immediate precedent in the canonical
-literature.[^2p7] The *dicta post canones* are statements that
+literature.[^42] The *dicta post canones* are statements that
 Gratian made on his own authority as a jurist, carry the thread of
 his argument, and do his interpretive work. The *dicta* are texts
 that Gratian (whether we think of him as one person or many) actually
@@ -726,7 +726,7 @@ forged decretals.
 [^34]: "Altogether I have estimated that 252 out of the 315 *capitula*
 were taken from Pseudo-Isidore." [@gilchrist_collection_1980, 15]
 
-[^2p1]: See Appendix 2 for the Python code listing for my implementation
+[^35]: See Appendix 2 for the Python code listing for my implementation
 of the recursive-descent parser. Thanks to Patricio Simari of the
 Electrical Engineering and Computer Science Department at The
 Catholic University of America, who provided helpful suggestions
@@ -748,7 +748,7 @@ at the same nesting level under one parent distinction or question
 node. A *dictum post canonem* is an optional, and usually final,
 terminal node of a canon.
 
-[^2p2]: The distinction between rubrics and *dicta* is blurry:
+[^36]: The distinction between rubrics and *dicta* is blurry:
 "Gratian ... often melded the rubrics with the dicta."
 [@eichbauer_redactions_2007, 107]. "Both J. Rambaud-Buhot and John
 Noonan, Jr. have highlighted the similarity between dicta and
@@ -758,7 +758,7 @@ cluster show that Gratian felt that the dictum was sufficient for
 summarizing the following *auctoritas*." [@eichbauer_redactions_2007,
 115] **Expand to include inscriptions.**
 
-[^2p3]: "Since Gratian frequently took fragments of letters from
+[^37]: "Since Gratian frequently took fragments of letters from
 the Register of Gregory I---266 in all---using the inscription 'in
 registro', older research assumed that he must have used this
 important source in the form of the *Registrum Hadrianum*. According
@@ -768,7 +768,7 @@ canonical collections predating Gratian; the direct use of the
 Register is probable in only a single case." [C.27 q.1 c.19 (JE
 1496)] [@landau_gratian_2008, 34].
 
-[^2p4]: Winroth observed that there are 398 *de eodem* rubrics in
+[^38]: Winroth observed that there are 398 *de eodem* rubrics in
 the vulgate *Decretum*, see [@winroth_uncovering_1997, 28]; and
 [@winroth_making_2000, 127]. The precision of this frequently-cited
 number can be refined in ways that demonstrate the true power of
@@ -813,10 +813,10 @@ total number of *de eodem* rubrics in the first and second recension
 rubric data sets is 388 instead of 389, with no way to tell whether
 the missing rubric is from the first or second recension.**
 
-[^2p6]: "Gratian rarely took his rubrics from earlier collections.
+[^41]: "Gratian rarely took his rubrics from earlier collections.
 Rather he created his own ..." [@eichbauer_redactions_2007, 107]
 
-[^2p7]: Gratian is known to have used Alger as both a source,
+[^42]: Gratian is known to have used Alger as both a source,
 especially in C.1, and, to some extent, as a methodological model.
 [@winroth_making_2000, 17, 39, 144]. See Robert Kretzschmar's
 edition, -@kretzschmar_alger_1985. Somewhat confusingly for Gratian
