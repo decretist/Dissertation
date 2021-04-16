@@ -1,32 +1,37 @@
 ## Organization
 
-**\[Move all discussion of d.a.c. and d.init. into Organization. Case
-statements or *themata* are a special case of *dicta* found only in, and
-closely tied to the organization of, Part II.\]**
-
 The *Decretum* in the form that circulated after around 1150 (the Köln
 Dombibliothek manuscripts 127 and 128 are good early examples) has three
-parts. The first part consists of 101 distinctions. **The division into
+parts. The first part consists of 101 distinctions. The division into
 distinctions is traditionally thought to have been made by Paucapalea
 (fl. 1140s) rather than by Gratian. The division seems to have taken
 some time to reach its final form: Pennington has pointed out that there
-were 99-distinction versions of the first recension, and Rufinus writing
-in the mid-1160s presumably about the second recension describes Part I
-as "having been completed in on hundred distinctions."** Groups of
-distinctions form treatises within the work: the first twenty
+were 99-distinction versions of the first recension,[1] and Rufinus
+writing in the mid-1160s presumably about the second recension describes
+Part I as "having been completed in one hundred distinctions."[2] Groups
+of distinctions form treatises within the work: the first twenty
 distinctions, for example, form a treatise on laws (*tractatus de
 legibus*) that explores the sources of law. Other topics covered include
-ecclesiastical hierarchy and clerical discipline. The second part
-consists of 36 cases, which are further subdivided into 168 questions.
-Four of the questions, C.11 q.2, C.17 q.3, C.22 q.3, and C.29 q.1 are
-empty, and one, C.33 q.3, encapsulates a treatise on penance (*tractatus
-de penitentia*, abbreviated *de Pen.*) divided into seven distinctions.
+ecclesiastical hierarchy and clerical discipline.
+
+The second part consists of 36 cases, which are further subdivided into
+168 questions. Four of the questions, C.11 q.2, C.17 q.3, C.22 q.3, and
+C.29 q.1 are empty, and one, C.33 q.3, encapsulates a treatise on
+penance (*tractatus de penitentia*, abbreviated *de Pen.*) divided into
+seven distinctions.
+
 The third part of the *Decretum* is a treatise on sacraments (*tractatus
 de consecratione*, abbreviated *de Cons.*) divided into five
-distinctions.[1] Contemporaries like Rufinus and Stephen of Tournai
-understood the parts to treat respectively of ministries, business, and
-sacraments: "*primam ministeriis, secundam negotiis, tertiam
-ecclesiasticis deputat sacramentis.*"[2]
+distinctions.[3]
+
+Contemporaries like Rufinus and Stephen of Tournai understood the parts
+to treat respectively of ministries, business, and sacraments: "*primam
+ministeriis, secundam negotiis, tertiam ecclesiasticis deputat
+sacramentis.*"[4]
+
+**\[Move all discussion of d.a.c. and d.init. into Organization. Case
+statements or *themata* are a special case of *dicta* found only in, and
+closely tied to the organization of, Part II.\]**
 
 **The *dictum ante canonem* (abbreviated d.a.c.) and *dictum initiale*
 (abbreviated d.init.) are special cases of *dicta* and, like the *dictum
@@ -48,7 +53,7 @@ university-educated, urban professional parents, the intense concern of
 "a certain man" in the first case statement to secure a good
 ecclesiastical career for his son (and his willingness on more than one
 occasion to resort to bribery in order to realize that objective) has a
-distinctly contemporary feel to it.[3]
+distinctly contemporary feel to it.[5]
 
 In other cases, the hypothetical case statements are quite remote from
 our own concerns. In case 28, for example, a married infidel, by which
@@ -70,11 +75,19 @@ all first-recension manuscripts, nor was it included in the earliest
 manuscripts of the more widely-circulated second-recension version of
 the *Decretum*, as indicated by glosses found in the Gt, Pf, and Tr
 manuscripts describing Gratian's work as "principally divided into two
-parts."[4]
+parts."[6]
 
 # Bibliography
 
 <div id="refs" class="references csl-bib-body hanging-indent">
+
+<div id="ref-pennington_biography_2018" class="csl-entry">
+
+Pennington, Kenneth. “The Biography of Gratian, the Father of Canon
+Law.” In *A Service Beyond All Recompense*, edited by Kurt Martens,
+359–92. Catholic University of America Press, 2018.
+
+</div>
 
 <div id="ref-schulte_summa_1965" class="csl-entry">
 
@@ -107,31 +120,37 @@ Cambridge University Press, 2000.
 
 </div>
 
-[1] Anders Winroth, *The Making of Gratian’s Decretum* (Cambridge:
+[1] Kenneth Pennington, “The Biography of Gratian, the Father of Canon
+Law,” in *A Service Beyond All Recompense*, ed. Kurt Martens (Catholic
+University of America Press, 2018), 366.
+
+[2] Robert Somerville and Bruce Clark Brasington, eds., *Prefaces to
+Canon Law Books in Latin Christianity: Selected Translations, 500-1245*
+(New Haven, Conn: Yale University Press, 1998), 193.
+
+[3] Anders Winroth, *The Making of Gratian’s Decretum* (Cambridge:
 Cambridge University Press, 2000), 5.
 
-[2] Rufinus and Stephen of Tournai describe the tripartite division in
+[4] Rufinus and Stephen of Tournai describe the tripartite division in
 exactly the same words: "librum suum in tribus partibus distinguit,
 quarum primam ministeriis, secundam negotiis, tertiam ecclesiasticis
 deputat sacramentis." (Heinrich Singer, *Summa Decretorum* (Aalen :
 Paderborn: Scientia Verlag ; F. Schöningh, 1963), 5) "he divides his
 book into three parts, the first of which he devotes to ecclesiastical
 ministries, the second to \[ecclesiastical\] business, and the third to
-ecclesiastical sacraments." (Robert Somerville and Bruce Clark
-Brasington, eds., *Prefaces to Canon Law Books in Latin Christianity:
-Selected Translations, 500-1245* (New Haven, Conn: Yale University
-Press, 1998), 192–93) (Rufinus) "Harum primam ministeriis, secundam
-negotiis, tertiam ecclesiasticis deputat sacramentis." (Johann Friedrich
-Schulte, ed., *Die summa über das Decretum Gratiani* (Aalen: Scientia
-Verlag, 1965), 6) "The first of these parts is devoted to ecclesiastical
-ministries, the second to ecclesiastical problems, the third to
 ecclesiastical sacraments." (Somerville and Brasington, *Prefaces to
-Canon Law Books in Latin Christianity*, 201) (Stephen of Tournai)
-(Brasington translated the preface of Rufinus, Somerville that of
-Stephen of Tournai. (Somerville and Brasington, *Prefaces to Canon Law
-Books in Latin Christianity*, vii). There is no indication as to why
-Somerville chose to translate *negotiis* as "problems" rather than
-"business".)
+Canon Law Books in Latin Christianity*, 192–93) (Rufinus) "Harum primam
+ministeriis, secundam negotiis, tertiam ecclesiasticis deputat
+sacramentis." (Johann Friedrich Schulte, ed., *Die summa über das
+Decretum Gratiani* (Aalen: Scientia Verlag, 1965), 6) "The first of
+these parts is devoted to ecclesiastical ministries, the second to
+ecclesiastical problems, the third to ecclesiastical sacraments."
+(Somerville and Brasington, *Prefaces to Canon Law Books in Latin
+Christianity*, 201) (Stephen of Tournai) (Brasington translated the
+preface of Rufinus, Somerville that of Stephen of Tournai. (Somerville
+and Brasington, *Prefaces to Canon Law Books in Latin Christianity*,
+vii). There is no indication as to why Somerville chose to translate
+*negotiis* as "problems" rather than "business".)
 
 Given the probable dates of the *summae* of Rufinus (1164) and Stephen
 of Tournai (1165/66), it is just possible that Stephen got the wording
@@ -144,10 +163,10 @@ Stephen, however, had been a student of Rufinus in Bologna, and it seems
 more likely that this is something he had heard Rufinus say in lecture.
 **Kenneth Pennington, "Étienne of Tournai".**
 
-[3] "Quidam habens filium ..." C.1, d.init., edF. 1.357. Although
+[5] "Quidam habens filium ..." C.1, d.init., edF. 1.357. Although
 Gratian does not say so explicitly, I think that we can reasonably infer
 that the father is an urban merchant or professional, rather than a
 member of the landed aristocracy, since his wealth, the source of
 several bribes, is so readily convertible into cash.
 
-[4] **Need footnote on Gt, Pf, and Tr gloss**
+[6] **Need footnote on Gt, Pf, and Tr gloss**

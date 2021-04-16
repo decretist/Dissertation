@@ -78,14 +78,14 @@ authors. Stephen of Tournai in the preface to his *Summa* on the
 > for clarifying and explicating the opinions of the holy
 > \[Fathers\].[11]
 
-Bonaventure indirectly advocates for the opposite opinion in the preface
-to his commentary on the *Sentences* of Peter Lombard. He asks "what is
-the efficient cause or author of this book?", and answers that "Peter
-Lombard, bishop of Paris, is the author of this book." Bonaventure then
-notes that "the mode of authorship is four-fold", and distinguishes the
-roles of *scriptor*, *compilator*, *commentator*, and *auctor*, on the
-basis of the use they make of "the words of other men" (*aliena*) and
-their own (*sua*):
+Bonaventure (†1274) indirectly advocates for the opposite opinion in the
+preface to his commentary on the *Sentences* of Peter Lombard. He asks
+"what is the efficient cause or author of this book?", and answers that
+"Peter Lombard, bishop of Paris, is the author of this book."
+Bonaventure then notes that "the mode of authorship is four-fold", and
+distinguishes the roles of *scriptor*, *compilator*, *commentator*, and
+*auctor*, on the basis of the use they make of "the words of other men"
+(*aliena*) and their own (*sua*):
 
 > Someone else writes the words of other men and also of his own, but
 > with his own forming the principle part and those of others being
@@ -382,6 +382,8 @@ through a fairly rigorous filtering process, and two of the most
 important filters---the ninth-century pseudo-Isidorian forgers and the
 eleventh-century Gregorian reformers---had had extremely strong
 ideological orientations.
+
+------------------------------------------------------------------------
 
 ## Presentation
 
