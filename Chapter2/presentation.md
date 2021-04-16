@@ -25,13 +25,15 @@ containers in the *Decretum*---parts, distinctions, cases, and
 questions---are constructed.
 
 Chapters in Parts I and II of the *Decretum* typically consist of
-an inscription, a rubric, a canon text, and a *dictum post canonem*.
-There are no *dicta post canones* in Part III, which is in this
-respect more similar to the formal source collections Gratian relied
-on than to the rest of the *Decretum*. The discussion that follows
-focuses on inscriptions, rubrics, and *dicta post canones*; canon
-texts have been discussed in the section above on the collection
-and selection of canons, and nothing further need be added here.
+an inscription, a rubric, a canon text, and a *dictum post canonem*,
+literally meaning "something said after the canon" and usually
+abbreviated d.p.c. There are no *dicta post canones* in Part III,
+which is in this respect more similar to the formal source collections
+Gratian relied on than to the rest of the *Decretum*. The discussion
+that follows focuses on inscriptions, rubrics, and *dicta post
+canones*; canon texts have been discussed in the section above on
+the collection and selection of canons, and nothing further need
+be added here.
 
 Most canons have an inscription, which identifies the ultimate
 source of authority for that canon, usually a papal decretal, a
@@ -55,15 +57,14 @@ outgrew the original plan so that many untidy seams of the texture
 remain visible."[@kuttner_research_1990, 13] Canons that are
 introduced by *de eodem* rubrics but that are clearly not "about
 the same thing" as the preceding canon in the vulgate *Decretum*
-are notable instances of visibly "untidy seams".
-
-**The role of the *de eodem* rubrics in Winroth's argument
-that the Aa, Bc, Fd, and P mss. of the *Decretum* are a first
-recension rather than an abbreviation of the vulgate.
-[@winroth_making_2000] Kuttner's statement of the "untidy seams"
-problem in "Acta and Agenda", and how Winroth solves it.**
-
----
+are notable instances of visibly "untidy seams". One of Winroth's
+strongest arguments that the Aa, Bc, Fd, and P manuscripts represent
+a first recension rather than an abbreviation of the *Decretum* is
+that otherwise problematic *de eodem* rubrics make sense in the
+sequential order in which canons appear in those manuscripts (e.g.,
+the *de eodem* rubric for C.24 q.3 c.5 refers back to C.24 q.3 c.2,
+which it consecutively follows in the first recension).
+[@winroth_making_2000, 15, 70]
 
 Eichbauer and Pennington believe that Gratian wrote the rubrics in
 the *Decretum* rather than reusing those he found in formal source
@@ -74,27 +75,20 @@ reflect his choice of wording, means that they could potentially
 be useful evidence in the search for new topics introduced between
 the first and second recensions.
 
----
-
-The way in which canons are presented in the *Decretum* differs
-somewhat from the way in which they were presented in the formal
-sources from which Gratian selected his material. A canon in the
-formal sources typically included an inscription, a rubric, and the
-canon text. Gratian added a *dictum post canonem* (plural *dicta
-post canones*) containing his own commentary on the preceding canon
-or series of canons, a feature he borrowed from Alger of Liège's
-theological treatise *De misericordia et iustitia* but without
-immediate precedent in the canonical literature.[^2p7]
-
-Finally, there are the *dicta post canones*, usually abbreviated
-d.p.c. and literally meaning "something said after the canons." The
-*dicta post* are statements that Gratian made on his own authority
-as a jurist, carry the thread of his argument, and do his interpretive
-work. The *dicta* are texts that Gratian (whether we think of him
-as one person or many) actually wrote, and are therefore subject
-to analysis for authorship attribution. "The *dicta* in Gratian's
-*Decretum* bring the reader closer to its author than any other
-part of the text."[@winroth_making_2000, 187]
+A chapter in the formal sources from which Gratian selected his
+material typically included an inscription, a rubric, and a canon
+text. Gratian added a *dictum post canonem* containing his own
+commentary on the preceding canon or series of canons, a feature
+he borrowed from Alger of Liège's theological treatise *De misericordia
+et iustitia* but without immediate precedent in the canonical
+literature.[^2p7] The *dicta post canones* are statements that
+Gratian made on his own authority as a jurist, carry the thread of
+his argument, and do his interpretive work. The *dicta* are texts
+that Gratian (whether we think of him as one person or many) actually
+wrote, and are therefore subject to analysis for authorship
+attribution. "The *dicta* in Gratian's *Decretum* bring the reader
+closer to its author than any other part of the
+text."[@winroth_making_2000, 187]
 
 [^2p1]: See Appendix 2 for the Python code listing for my implementation
 of the recursive-descent parser. Thanks to Patricio Simari of the
@@ -113,10 +107,10 @@ node of a distinction or question. The anomalous C.16 q.2 d.a.c.8
 is actually the *dictum ante canonem* introducing a vestigial fifth
 question positioned between C.16 q.2 and C.16 q.3 (see Friedberg,
 1.787). The traditional notation misleadingly implies that d.a.c.1
-is a leaf node of c.1. In fact, d.a.c.1 and c.1 are both child
-nodes at the same nesting level under one parent distinction or
-question node. A *dictum post canonem* is an optional, and usually
-final, terminal node of a canon.
+is a leaf node of c.1. In fact, d.a.c.1 and c.1 are both child nodes
+at the same nesting level under one parent distinction or question
+node. A *dictum post canonem* is an optional, and usually final,
+terminal node of a canon.
 
 [^2p2]: The distinction between rubrics and *dicta* is blurry:
 "Gratian ... often melded the rubrics with the dicta."

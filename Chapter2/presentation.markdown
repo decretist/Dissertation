@@ -16,13 +16,14 @@ of which the higher-order containers in the *Decretum*---parts,
 distinctions, cases, and questions---are constructed.
 
 Chapters in Parts I and II of the *Decretum* typically consist of an
-inscription, a rubric, a canon text, and a *dictum post canonem*. There
-are no *dicta post canones* in Part III, which is in this respect more
-similar to the formal source collections Gratian relied on than to the
-rest of the *Decretum*. The discussion that follows focuses on
-inscriptions, rubrics, and *dicta post canones*; canon texts have been
-discussed in the section above on the collection and selection of
-canons, and nothing further need be added here.
+inscription, a rubric, a canon text, and a *dictum post canonem*,
+literally meaning "something said after the canon" and usually
+abbreviated d.p.c. There are no *dicta post canones* in Part III, which
+is in this respect more similar to the formal source collections Gratian
+relied on than to the rest of the *Decretum*. The discussion that
+follows focuses on inscriptions, rubrics, and *dicta post canones*;
+canon texts have been discussed in the section above on the collection
+and selection of canons, and nothing further need be added here.
 
 Most canons have an inscription, which identifies the ultimate source of
 authority for that canon, usually a papal decretal, a canon from an
@@ -45,14 +46,12 @@ material outgrew the original plan so that many untidy seams of the
 texture remain visible."[5] Canons that are introduced by *de eodem*
 rubrics but that are clearly not "about the same thing" as the preceding
 canon in the vulgate *Decretum* are notable instances of visibly "untidy
-seams".
-
-**The role of the *de eodem* rubrics in Winroth's argument that the Aa,
-Bc, Fd, and P mss. of the *Decretum* are a first recension rather than
-an abbreviation of the vulgate.[6] Kuttner's statement of the "untidy
-seams" problem in "Acta and Agenda", and how Winroth solves it.**
-
-------------------------------------------------------------------------
+seams". One of Winroth's strongest arguments that the Aa, Bc, Fd, and P
+manuscripts represent a first recension rather than an abbreviation of
+the *Decretum* is that otherwise problematic *de eodem* rubrics make
+sense in the sequential order in which canons appear in those
+manuscripts (e.g., the *de eodem* rubric for C.24 q.3 c.5 refers back to
+C.24 q.3 c.2, which it consecutively follows in the first recension).[6]
 
 Eichbauer and Pennington believe that Gratian wrote the rubrics in the
 *Decretum* rather than reusing those he found in formal source
@@ -63,26 +62,18 @@ choice of wording, means that they could potentially be useful evidence
 in the search for new topics introduced between the first and second
 recensions.
 
-------------------------------------------------------------------------
-
-The way in which canons are presented in the *Decretum* differs somewhat
-from the way in which they were presented in the formal sources from
-which Gratian selected his material. A canon in the formal sources
-typically included an inscription, a rubric, and the canon text. Gratian
-added a *dictum post canonem* (plural *dicta post canones*) containing
-his own commentary on the preceding canon or series of canons, a feature
-he borrowed from Alger of Liège's theological treatise *De misericordia
-et iustitia* but without immediate precedent in the canonical
-literature.[8]
-
-Finally, there are the *dicta post canones*, usually abbreviated d.p.c.
-and literally meaning "something said after the canons." The *dicta
-post* are statements that Gratian made on his own authority as a jurist,
-carry the thread of his argument, and do his interpretive work. The
-*dicta* are texts that Gratian (whether we think of him as one person or
-many) actually wrote, and are therefore subject to analysis for
-authorship attribution. "The *dicta* in Gratian's *Decretum* bring the
-reader closer to its author than any other part of the text."[9]
+A chapter in the formal sources from which Gratian selected his material
+typically included an inscription, a rubric, and a canon text. Gratian
+added a *dictum post canonem* containing his own commentary on the
+preceding canon or series of canons, a feature he borrowed from Alger of
+Liège's theological treatise *De misericordia et iustitia* but without
+immediate precedent in the canonical literature.[8] The *dicta post
+canones* are statements that Gratian made on his own authority as a
+jurist, carry the thread of his argument, and do his interpretive work.
+The *dicta* are texts that Gratian (whether we think of him as one
+person or many) actually wrote, and are therefore subject to analysis
+for authorship attribution. "The *dicta* in Gratian's *Decretum* bring
+the reader closer to its author than any other part of the text."[9]
 
 # Bibliography
 
@@ -236,7 +227,7 @@ in the History of Medieval Canon Law*, Collected Studies CS325
 (Aldershot, Hampshire, Great Britain : Brookfield, Vt., USA: Variorum ;
 Gower, 1990), 13.
 
-[6] Winroth, *The Making of Gratian’s Decretum*.
+[6] Winroth, *The Making of Gratian’s Decretum*, 15, 70.
 
 [7] "Gratian rarely took his rubrics from earlier collections. Rather he
 created his own ..." (Eichbauer, “St. Gall Stiftsbibliothek 673 and the
