@@ -18,6 +18,7 @@
 ### *Extravagantes*
 
 - [n-grams](Extra/n-grams.markdown)
+- [Barthes](Extra/barthes.markdown) (2 February 2021)
 - [Correctores](Extra/correctores.markdown)
 
 ### Notebooks
