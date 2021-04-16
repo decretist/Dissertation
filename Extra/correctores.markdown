@@ -14,7 +14,7 @@ by the Spanish archbishop Antonio Agustín (1517-1586), the *Correctores*
 the *Decretum* (along with the rest of the *Corpus* *Iuris* *Canonici*)
 for the age of the printing press.
 
-The *Correctores *proceeded from the Renaissance Humanist assumption
+The *Correctores* proceeded from the Renaissance Humanist assumption
 that their job was to identify and include the most textually correct
 version of the material source for each of Gratian's authorities. In
 this sense the *Correctores* were less concerned with getting at the
