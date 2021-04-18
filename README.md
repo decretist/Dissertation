@@ -11,15 +11,15 @@
 - [Chapter 2](Chapter2/chapter2.markdown) (15 April 2021)
   - [Organization](Chapter2/chapter2o.markdown)
 - Chapter 3
-- Chapter 4 [(Markdown)](Chapter4/chapter4.markdown)
-  - Principal component analysis [(Markdown)](Chapter4/pca.markdown)
+- [Chapter 4](Chapter4/chapter4.markdown) (28 July 2020)
+  - [Principal component analysis](Chapter4/pca.markdown) (25 March 2021)
 - [Conclusion](Conclusion/conclusion.markdown) (very rought draft)
 
 ### *Extravagantes*
 
-- [n-grams](Extra/n-grams.markdown)
+- [N-grams](Extra/n-grams.markdown)
 - [Barthes](Extra/barthes.markdown) (2 February 2021)
-- [Correctores](Extra/correctores.markdown)
+- [*Correctores*](Extra/correctores.markdown)
 
 ### Notebooks
 

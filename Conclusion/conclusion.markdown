@@ -135,8 +135,8 @@ the evolution of the text of the first recension.
 First, he appears to be the author of the case statements in the literal
 sense of having formulated their exact wording. In his capacity as
 literal author of the case statement, I refer to him elsewhere in my
-dissertation as Gratian 0, as opposed to Anders's Gratian 1 and Gratian 2.
-Unlike Gratian 1 and Gratian 2, Gratian 0 is clearly one person. The
+dissertation as Gratian 0, as opposed to Anders's Gratian 1 and Gratian
+2. Unlike Gratian 1 and Gratian 2, Gratian 0 is clearly one person. The
 case statements were textually quite stable from an early stage in the
 project (only 13 words were added, to C.19 d.init., in the second
 recension). I don't think, however, that they predated the formation of
@@ -269,3 +269,7 @@ figuring it out together. We should not think of the Gratian of the
 1120s and 1130s as the kind of guild-certified master, able to "explain
 it all for you," that we would expect to meet from the 1150s or 1160s
 on.
+
+<div align="center">
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
+</div>
