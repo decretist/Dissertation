@@ -457,3 +457,7 @@ statements are: *Hic primum queritur* (15), *Queritur* (8), *Modo primum
 queritur* (3), *Nunc primum queritur* (3), *Primo queritur* (2), *Primum
 queritur* (2), *Hic primo queritur* (1), *Modo queritur* (1), *Queritur
 autem* (1).
+
+<div align="center">
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
+</div>

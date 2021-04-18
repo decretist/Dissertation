@@ -1623,3 +1623,7 @@ Vergleich der Dekretabbreviationen "Omnes leges aut divine" (Bamberg),
 "Humanum genus duobus regitur" (Pommersfelden) und "De his qui intra
 claustra monasterii consistunt" (Lichtenthal, Baden-Baden)*, Bamberger
 theologische Studien ; Bd. 6 (Frankfurt am Main ; PLang, 1998)), 17-18.
+
+<div align="center">
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
+</div>

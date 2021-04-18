@@ -2,9 +2,11 @@ all: chapter4.markdown pca.markdown
 
 chapter4.markdown: chapter4.md ../bib/merged.bib
 	pandoc -o chapter4.markdown --citeproc -f markdown-smart -t gfm chapter4.md
+	cat ../lic/license.html >> chapter4.markdown
 
 pca.markdown: pca.md ../bib/merged.bib
 	pandoc -o pca.markdown --citeproc -f markdown-smart -t gfm pca.md
+	cat ../lic/license.html >> pca.markdown
 
 chapter4.docx: chapter4.md ../bib/merged.bib ../ref/final.docx
 	pandoc -o chapter4.docx --citeproc --reference-doc=../ref/final.docx chapter4.md

@@ -110,3 +110,7 @@ decompostion of the *dicta* from Gratian's *Decretum* into trigrams.
 [2] Neidorf, L., Krieger, M.S., Yakubek, M. et al. Large-scale
 quantitative profiling of the Old English verse tradition. Nat Hum Behav
 3, 560–567 (2019). https://doi.org/10.1038/s41562-019-0570-1
+
+<div align="center">
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
+</div>
