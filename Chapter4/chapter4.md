@@ -769,7 +769,7 @@ from the mean is said to have a z-score of 1.0 or -1.0 depending
 on whether the value is greater or lesser than the mean. The formula
 used to calculate the sample standard deviation is:
 
-$s=\\sqrt{\\frac{1}{N - 1}\\sum\_{i=1}^N(x\_i-\\bar{x})^2}$
+$s=\sqrt{\frac{1}{N - 1}\sum_{i=1}^N(x_i-\bar{x})^2}$
 
 The formula is slightly daunting notationally, but it is not difficult
 to use it to calculate the desired results. The example immediately
