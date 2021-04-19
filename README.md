@@ -15,6 +15,12 @@
   - [Principal component analysis](Chapter4/pca.markdown) (25 March 2021)
 - [Conclusion](Conclusion/conclusion.markdown) (very rought draft)
 
+### Appendices
+
+- [Appendix 1](Appendix/appendix1.markdown)
+- [Appendix 2](Appendix/appendix2.markdown)
+- [Appendix 3](Appendix/appendix3.markdown)
+
 ### *Extravagantes*
 
 - [N-grams](Extra/n-grams.markdown)
