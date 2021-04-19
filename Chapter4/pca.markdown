@@ -263,8 +263,6 @@ plots in this section!!!\]**
 
 ![Figure 5 updated 25 Jun 2019](JPGs/NoQ_PCA_4_001.jpg)
 
-![Figure 6 updated 21 Jan 2019](JPGs/Sg_PCA_52_001.jpg)
-
 # Bibliography
 
 <div id="refs" class="references csl-bib-body hanging-indent">

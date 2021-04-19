@@ -284,8 +284,6 @@ plots in this section!!!]**
 
 ![Figure 5 updated 25 Jun 2019](JPGs/NoQ_PCA_4_001.jpg)
 
-![Figure 6 updated 21 Jan 2019](JPGs/Sg_PCA_52_001.jpg)
-
 [^pca1]: Earlier versions of this section were presented as conference
 papers. "Can Stylometry Provide New Evidence about the Identity of
 Gratian 1 and Gratian 2?", was presented to the session on Canon

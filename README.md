@@ -25,6 +25,7 @@
 
 - [N-grams](Extra/n-grams.markdown)
 - [Barthes](Extra/barthes.markdown) (2 February 2021)
+- [Sg case statements](Extra/sg.markdown)
 - [*Correctores*](Extra/correctores.markdown)
 
 ### Notebooks
