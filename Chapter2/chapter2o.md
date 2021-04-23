@@ -160,7 +160,14 @@ indication as to why Somerville chose to translate *negotiis* as
     it seems more likely that this is something he had heard Rufinus
     say in lecture. **Kenneth Pennington, "Étienne of Tournai".**
 
-[^2o5]: **Need footnote on Gt, Pf, and Tr gloss**
+[^2o5]: Three early manuscripts (Gt, Pf, and Tr) contain the gloss:
+"*Concordia discordantium canonum iuxta determinationem Gratiani
+episcopi quae in duas partes principaliter est divisa* (The agreement
+of disagreeing canons according to the determination of Bishop
+Gratian, which is principally divided into two parts.)" Gt = Ghent,
+Bibl. der Rijksuniversiteit 55; Pf = Paris, Bibl. Nationale lat.
+3884 I and II; and Tr = Trier, Stadtbibl. 906 (1141). See
+@noonan_gratian_1979, 154; and @pennington_biography_2018, 382.
 
 [^2o6]: Add footnote restating distinction between canon and
 chapter.

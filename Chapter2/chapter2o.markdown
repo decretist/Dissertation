@@ -120,6 +120,14 @@ baptized should be considered a bigamist.
 
 <div id="refs" class="references csl-bib-body hanging-indent">
 
+<div id="ref-noonan_gratian_1979" class="csl-entry">
+
+Noonan, John T. “Gratian Slept Here: The Changing Identity of the Father
+of the Systematic Study of Canon Law.” *Traditio* 35 (January 1979):
+145–72.
+
+</div>
+
 <div id="ref-pennington_biography_2018" class="csl-entry">
 
 Pennington, Kenneth. “The Biography of Gratian, the Father of Canon
@@ -203,7 +211,16 @@ Christianity*, 193.
 [4] Anders Winroth, *The Making of Gratian’s Decretum* (Cambridge:
 Cambridge University Press, 2000), 5.
 
-[5] **Need footnote on Gt, Pf, and Tr gloss**
+[5] Three early manuscripts (Gt, Pf, and Tr) contain the gloss:
+"*Concordia discordantium canonum iuxta determinationem Gratiani
+episcopi quae in duas partes principaliter est divisa* (The agreement of
+disagreeing canons according to the determination of Bishop Gratian,
+which is principally divided into two parts.)" Gt = Ghent, Bibl. der
+Rijksuniversiteit 55; Pf = Paris, Bibl. Nationale lat. 3884 I and II;
+and Tr = Trier, Stadtbibl. 906 (1141). See John T. Noonan, “Gratian
+Slept Here: The Changing Identity of the Father of the Systematic Study
+of Canon Law,” *Traditio* 35 (January 1979): 145–72, 154; and
+Pennington, “The Biography of Gratian, the Father of Canon Law”, 382.
 
 [6] Add footnote restating distinction between canon and chapter.
 
