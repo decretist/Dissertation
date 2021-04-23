@@ -2,7 +2,7 @@
 author: Paul Evans
 bibliography: ../bib/merged.bib
 csl: ../csl/chicago-fullnote-bibliography.csl
-date: 16 April 2021
+date: 23 April 2021
 reference-section-title: Bibliography
 suppress-bibliography: false
 title: Chapter 2o
@@ -85,6 +85,23 @@ ante in the second recension. Thus, the dicta ante in Part II,
 like the case statements, are quite stable, displaying very little
 change between the first and second recension.
 
+The case statements all follow a very regular formal pattern. They
+are introduced by a hypothetical narrative that is followed by an
+enumeration of the questions that Gratian wants to investigate.
+C.27 d.init. (chosen for this purpose because it is the shortest
+case statement) demonstrates the pattern:
+
+> *Quidam uotum castitatis habens desponsauit sibi uxorem; illa
+priori condicioni renuncians, transtulit se ad alium, et nupsit
+illi; ille, cui prius desponsata fuerat, repetit eam. Hic primum
+queritur, an coniugium possit esse inter uouentes? Secundo, an
+liceat, sponsae a sponso recedere, et alii nubere?*[^pca8]
+
+The transition between the narrative section and the enumeration
+of questions is clearly signalled in each of the case statements
+by the use of one of a small number of formulaic markers, of which
+*Hic primum queritur* is the most common.[^pca9]
+
 The hypothetical case statements or *themata* that introduce each
 of the thirty-six *causae* (cases) that constitute the second part
 of the *Decretum* reflect at least in some places an outlook and a
@@ -157,4 +174,18 @@ chapter.
 [^dac2]: **Confirm**. If these questions are missing altogether in
 the first recension, what is the relationship to the questions as
 stated in the initial case statement?
+
+[^pca8]: A man having [made] a vow of chastity betrothed a wife to
+himself; she, renouncing her previous agreement, gave herself to
+another and married him; he to whom she had been first betrothed
+tried to get her back. Here it is first asked whether there is able
+to be a marriage between those vowing? Second, whether someone
+betrothed is allowed to abandon the person to whom they are betrothed
+and to marry another?
+
+[^pca9]: The formulaic transition markers used in the hypothetical
+case statements are: *Hic primum queritur* (15), *Queritur* (8),
+*Modo primum queritur* (3), *Nunc primum queritur* (3), *Primo
+queritur* (2), *Primum queritur* (2), *Hic primo queritur* (1),
+*Modo queritur* (1), *Queritur autem* (1).
 

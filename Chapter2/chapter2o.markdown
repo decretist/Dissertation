@@ -71,6 +71,23 @@ q.3 d.a.c.1, and 3 words were added to C.29 q.1 d.a.c.1.In total, only
 the dicta ante in Part II, like the case statements, are quite stable,
 displaying very little change between the first and second recension.
 
+The case statements all follow a very regular formal pattern. They are
+introduced by a hypothetical narrative that is followed by an
+enumeration of the questions that Gratian wants to investigate. C.27
+d.init. (chosen for this purpose because it is the shortest case
+statement) demonstrates the pattern:
+
+> *Quidam uotum castitatis habens desponsauit sibi uxorem; illa priori
+> condicioni renuncians, transtulit se ad alium, et nupsit illi; ille,
+> cui prius desponsata fuerat, repetit eam. Hic primum queritur, an
+> coniugium possit esse inter uouentes? Secundo, an liceat, sponsae a
+> sponso recedere, et alii nubere?*[8]
+
+The transition between the narrative section and the enumeration of
+questions is clearly signalled in each of the case statements by the use
+of one of a small number of formulaic markers, of which *Hic primum
+queritur* is the most common.[9]
+
 The hypothetical case statements or *themata* that introduce each of the
 thirty-six *causae* (cases) that constitute the second part of the
 *Decretum* reflect at least in some places an outlook and a set of
@@ -83,7 +100,7 @@ university-educated, urban professional parents, the intense concern of
 "a certain man" in the first case statement to secure a good
 ecclesiastical career for his son (and his willingness on more than one
 occasion to resort to bribery in order to realize that objective) has a
-distinctly contemporary feel to it.[8]
+distinctly contemporary feel to it.[10]
 
 In other cases, the hypothetical case statements are quite remote from
 our own concerns. In case 28, for example, a married infidel, by which
@@ -194,7 +211,20 @@ Cambridge University Press, 2000), 5.
 recension, what is the relationship to the questions as stated in the
 initial case statement?
 
-[8] "Quidam habens filium ..." C.1, d.init., edF. 1.357. Although
+[8] A man having \[made\] a vow of chastity betrothed a wife to himself;
+she, renouncing her previous agreement, gave herself to another and
+married him; he to whom she had been first betrothed tried to get her
+back. Here it is first asked whether there is able to be a marriage
+between those vowing? Second, whether someone betrothed is allowed to
+abandon the person to whom they are betrothed and to marry another?
+
+[9] The formulaic transition markers used in the hypothetical case
+statements are: *Hic primum queritur* (15), *Queritur* (8), *Modo primum
+queritur* (3), *Nunc primum queritur* (3), *Primo queritur* (2), *Primum
+queritur* (2), *Hic primo queritur* (1), *Modo queritur* (1), *Queritur
+autem* (1).
+
+[10] "Quidam habens filium ..." C.1, d.init., edF. 1.357. Although
 Gratian does not say so explicitly, I think that we can reasonably infer
 that the father is an urban merchant or professional, rather than a
 member of the landed aristocracy, since his wealth, the source of
