@@ -232,9 +232,17 @@ useful. @beyer_lokale_1998, 17.
 into distinctions to Paucapalea.**
 
 [^d]: **Placeholder for footnote about internal references to
-*tractatus ordinandorum*.** C.1 q.7 d.p.c.6 (edF 1.430); C.3 q.1
-d.p.c.7 (edF 1.507); C.9 q.3 c.15 (edF 1.647) (why is this not in
-a *dictum post*?); C.16 q.1 d.p.c.40 (edF 1.773); *de Cons*. D.1
-c.50 (edF 1.1303) (I thought there were no *dicta post* in *de
+*tractatus ordinandorum*.** 
+
+  C.1 q.7 d.p.c.6 (edF 1.430): reference to D.55 c.1 "Priscis igitur, etc."  
+
+  C.3 q.1 d.p.c.7 (edF 1.507): reference to D.79 c.9 "Si quis pecunia
+uel gratia humana, seu populari uel militari tumultu, etc." 
+
+  C.9 q.3 c.15 **why is this not in a *dictum post*?** (edF 1.647): reference vague, but probably to D.93 c.9 (edF 1.321)
+
+  C.16 q.1 d.p.c.40 (edF 1.773) this also appears to be a reference to D.93 c.5.
+
+  *de Cons*. D.1 c.50 (edF 1.1303) (I thought there were no *dicta post* in *de
 Cons*?).
 
