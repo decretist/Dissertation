@@ -10,6 +10,8 @@ subtitle: Organization
 ---
 ## Organization
 
+### Parts
+
 The *Decretum* in the form that circulated after around 1150 (the
 Köln Dombibliothek manuscripts 127 and 128 are good early examples)
 has three parts. Contemporaries like Rufinus and Stephen of Tournai
@@ -33,20 +35,20 @@ hierarchy and clerical discipline.
 
 The second part consists of 36 cases, which are further subdivided
 into 168 questions. Four of the questions, C.11 q.2, C.17 q.3, C.22
-q.3, and C.29 q.1 are empty, and one, C.33 q.3, encapsulates a
-treatise on penance (*tractatus de penitentia*, abbreviated *de
-Pen.*) divided into seven distinctions.
+q.3, and C.29 q.1 are empty, meaning that they contain no
+chapters.[^tmp1] C.33 q.3, encapsulates a treatise on penance (*de
+Penitentia*, abbreviated *de Pen.*) *De Penitentia* is structurally
+similar to Part I, and is divided into seven distinctions.
 
-The third part of the *Decretum* is a treatise on sacraments
-(*tractatus de consecratione*, abbreviated *de Cons.*) divided into
-five distinctions.[@winroth_making_2000, 5] The third part, *de
-Consecratione*, is problematic in several ways. That *de Cons.*
-is a very late addition is not in doubt---it is absent from all
-first-recension manuscripts, nor was it included in the earliest
-manuscripts of the more widely-circulated second-recension version
-of the *Decretum*, as indicated by glosses found in the Gt, Pf, and
-Tr manuscripts describing Gratian's work as "principally divided
-into two parts."[^2o5]
+The third part of the *Decretum* is a treatise on sacraments (*de
+Consecratione*, abbreviated *de Cons.*) divided into five
+distinctions.[@winroth_making_2000, 5] That *de Consecratione* is
+a very late addition to the *Decretum* is not in doubt---it is
+absent from all first-recension manuscripts, nor was it included
+in the earliest manuscripts of the more widely-circulated
+second-recension version, as indicated by glosses found in the Gt,
+Pf, and Tr manuscripts describing Gratian's work as "principally
+divided into two parts."[^2o5]
 
 **[Move all discussion of d.a.c. and d.init. into Organization.
 Case statements or *themata* are a special case of *dicta* found
@@ -195,4 +197,9 @@ Gratian does not say so explicitly, I think that we can reasonably
 infer that the father is an urban merchant or professional, rather
 than a member of the landed aristocracy, since his wealth, the
 source of several bribes, is so readily convertible into cash.
+
+[tmp1]: All of the empty questions contain a *dictum ante* (see
+below) in the vulgate *Decretum*, but in three of the four cases
+it was added only in the second recension: C.11 q.2 d.a.c.1, C.17
+q.3 d.a.c.1, and C.22 q.3 d.a.c.1.
 
