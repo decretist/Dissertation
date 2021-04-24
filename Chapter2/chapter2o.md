@@ -198,7 +198,7 @@ infer that the father is an urban merchant or professional, rather
 than a member of the landed aristocracy, since his wealth, the
 source of several bribes, is so readily convertible into cash.
 
-[tmp1]: All of the empty questions contain a *dictum ante* (see
+[^tmp1]: All of the empty questions contain a *dictum ante* (see
 below) in the vulgate *Decretum*, but in three of the four cases
 it was added only in the second recension: C.11 q.2 d.a.c.1, C.17
 q.3 d.a.c.1, and C.22 q.3 d.a.c.1.

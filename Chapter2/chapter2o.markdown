@@ -23,19 +23,19 @@ ecclesiastical hierarchy and clerical discipline.
 
 The second part consists of 36 cases, which are further subdivided into
 168 questions. Four of the questions, C.11 q.2, C.17 q.3, C.22 q.3, and
-C.29 q.1 are empty, meaning that they contain no chapters.\[^tmp1\] C.33
-q.3, encapsulates a treatise on penance (*de Penitentia*, abbreviated
-*de Pen.*) *De Penitentia* is structurally similar to Part I, and is
-divided into seven distinctions.
+C.29 q.1 are empty, meaning that they contain no chapters.[4] C.33 q.3,
+encapsulates a treatise on penance (*de Penitentia*, abbreviated *de
+Pen.*) *De Penitentia* is structurally similar to Part I, and is divided
+into seven distinctions.
 
 The third part of the *Decretum* is a treatise on sacraments (*de
 Consecratione*, abbreviated *de Cons.*) divided into five
-distinctions.[4] That *de Consecratione* is a very late addition to the
+distinctions.[5] That *de Consecratione* is a very late addition to the
 *Decretum* is not in doubt---it is absent from all first-recension
 manuscripts, nor was it included in the earliest manuscripts of the more
 widely-circulated second-recension version, as indicated by glosses
 found in the Gt, Pf, and Tr manuscripts describing Gratian's work as
-"principally divided into two parts."[5]
+"principally divided into two parts."[6]
 
 **\[Move all discussion of d.a.c. and d.init. into Organization. Case
 statements or *themata* are a special case of *dicta* found only in, and
@@ -57,7 +57,7 @@ questions in Part II are formally coordinate with the distinctions in
 Part I, *de Pen*. and Part III. That is, they contain a single terminal
 node (the *dictum ante*), followed by an ordered sequence of one or more
 internal nodes (the chapters) containing inscription, rubric, canon and
-*dictum post* terminal nodes.[6]
+*dictum post* terminal nodes.[7]
 
 Distinctions are the highest-order containers in Part I, *de Pen*. and
 Part III.
@@ -66,7 +66,7 @@ There are 8,371 words in the first-recension dicta ante in Part II. Four
 *dicta ante* (C.11 q.2 d.a.c.1, C.17 q.2 d.a.c.1, C.17 q.3 d.a.c.1, and
 C.22 q.3 d.a.c.1) were added in their entirety to the second recension,
 presumably because the questions they introduced were not added to the
-*Decretum* until the second recension.[7] Two first-recension dicta
+*Decretum* until the second recension.[8] Two first-recension dicta
 ante were modified in the second recension: 23 words were added to C.21
 q.3 d.a.c.1, and 3 words were added to C.29 q.1 d.a.c.1.In total, only
 202 words were added to the dicta ante in the second recension. Thus,
@@ -83,12 +83,12 @@ statement) demonstrates the pattern:
 > condicioni renuncians, transtulit se ad alium, et nupsit illi; ille,
 > cui prius desponsata fuerat, repetit eam. Hic primum queritur, an
 > coniugium possit esse inter uouentes? Secundo, an liceat, sponsae a
-> sponso recedere, et alii nubere?*[8]
+> sponso recedere, et alii nubere?*[9]
 
 The transition between the narrative section and the enumeration of
 questions is clearly signalled in each of the case statements by the use
 of one of a small number of formulaic markers, of which *Hic primum
-queritur* is the most common.[9]
+queritur* is the most common.[10]
 
 The hypothetical case statements or *themata* that introduce each of the
 thirty-six *causae* (cases) that constitute the second part of the
@@ -102,7 +102,7 @@ university-educated, urban professional parents, the intense concern of
 "a certain man" in the first case statement to secure a good
 ecclesiastical career for his son (and his willingness on more than one
 occasion to resort to bribery in order to realize that objective) has a
-distinctly contemporary feel to it.[10]
+distinctly contemporary feel to it.[11]
 
 In other cases, the hypothetical case statements are quite remote from
 our own concerns. In case 28, for example, a married infidel, by which
@@ -117,11 +117,6 @@ infidels, whether there is ever a situation in which a man can take
 another wife if his previous wife is still alive; and whether someone
 who had one wife before he was baptized and another wife after he was
 baptized should be considered a bigamist.
-
-\[tmp1\]: All of the empty questions contain a *dictum ante* (see below)
-in the vulgate *Decretum*, but in three of the four cases it was added
-only in the second recension: C.11 q.2 d.a.c.1, C.17 q.3 d.a.c.1, and
-C.22 q.3 d.a.c.1.
 
 # Bibliography
 
@@ -215,10 +210,15 @@ University of America Press, 2018), 366.
 [3] Somerville and Brasington, *Prefaces to Canon Law Books in Latin
 Christianity*, 193.
 
-[4] Anders Winroth, *The Making of Gratian’s Decretum* (Cambridge:
+[4] All of the empty questions contain a *dictum ante* (see below) in
+the vulgate *Decretum*, but in three of the four cases it was added only
+in the second recension: C.11 q.2 d.a.c.1, C.17 q.3 d.a.c.1, and C.22
+q.3 d.a.c.1.
+
+[5] Anders Winroth, *The Making of Gratian’s Decretum* (Cambridge:
 Cambridge University Press, 2000), 5.
 
-[5] Three early manuscripts (Gt, Pf, and Tr) contain the gloss:
+[6] Three early manuscripts (Gt, Pf, and Tr) contain the gloss:
 "*Concordia discordantium canonum iuxta determinationem Gratiani
 episcopi quae in duas partes principaliter est divisa* (The agreement of
 disagreeing canons according to the determination of Bishop Gratian,
@@ -229,26 +229,26 @@ Slept Here: The Changing Identity of the Father of the Systematic Study
 of Canon Law,” *Traditio* 35 (January 1979): 145–72, 154; and
 Pennington, “The Biography of Gratian, the Father of Canon Law”, 382.
 
-[6] Add footnote restating distinction between canon and chapter.
+[7] Add footnote restating distinction between canon and chapter.
 
-[7] **Confirm**. If these questions are missing altogether in the first
+[8] **Confirm**. If these questions are missing altogether in the first
 recension, what is the relationship to the questions as stated in the
 initial case statement?
 
-[8] A man having \[made\] a vow of chastity betrothed a wife to himself;
+[9] A man having \[made\] a vow of chastity betrothed a wife to himself;
 she, renouncing her previous agreement, gave herself to another and
 married him; he to whom she had been first betrothed tried to get her
 back. Here it is first asked whether there is able to be a marriage
 between those vowing? Second, whether someone betrothed is allowed to
 abandon the person to whom they are betrothed and to marry another?
 
-[9] The formulaic transition markers used in the hypothetical case
+[10] The formulaic transition markers used in the hypothetical case
 statements are: *Hic primum queritur* (15), *Queritur* (8), *Modo primum
 queritur* (3), *Nunc primum queritur* (3), *Primo queritur* (2), *Primum
 queritur* (2), *Hic primo queritur* (1), *Modo queritur* (1), *Queritur
 autem* (1).
 
-[10] "Quidam habens filium ..." C.1, d.init., edF. 1.357. Although
+[11] "Quidam habens filium ..." C.1, d.init., edF. 1.357. Although
 Gratian does not say so explicitly, I think that we can reasonably infer
 that the father is an urban merchant or professional, rather than a
 member of the landed aristocracy, since his wealth, the source of
