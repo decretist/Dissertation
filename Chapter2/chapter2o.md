@@ -40,7 +40,8 @@ include ecclesiastical hierarchy and clerical discipline.
 The first treatise, on laws (*tractatus de legibus*), explores the
 sources of law, and corresponds to the first twenty distinctions.
 The second treatise, on the ecclesiastical hierarchy and clerical
-discipline and referred to by Gratian as *tractatus ordinanrorum*
+discipline, corresponds to distinctions 21-80. Gratian refers to
+it in several places under the title *tractatus ordinanrorum*.
 
 The division of Part I into distinctions is traditionally thought
 to have been made by Paucapalea (fl. 1140s) rather than by Gratian.
@@ -67,6 +68,8 @@ in the earliest manuscripts of the more widely-circulated
 second-recension version, as indicated by glosses found in the Gt,
 Pf, and Tr manuscripts describing Gratian's work as "principally
 divided into two parts."[^2o5]
+
+### Distinctions
 
 **[Move all discussion of d.a.c. and d.init. into Organization.
 Case statements or *themata* are a special case of *dicta* found
