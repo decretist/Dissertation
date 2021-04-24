@@ -26,31 +26,27 @@ understood the three parts to treat respectively of ministries,
 business, and sacraments: "*primam ministeriis, secundam negotiis,
 tertiam ecclesiasticis deputat sacramentis.*"[^2o1]
 
-The first part consists of 101 distinctions.
-
 The first part was originally written as a collection of treatises
 (*tractatus*) but is divided into 101 distinctions in the vulgate
-*Decretum*.
+*Decretum*. The division of Part I into distinctions is traditionally
+thought to have been made by Paucapalea (fl. 1140s) rather than by
+Gratian.[^c] The division seems to have taken some time to reach
+its final form: Pennington has pointed out that there were
+99-distinction versions of the first recension,[@pennington_biography_2018,
+366] and Rufinus writing in the mid-1160s presumably about the
+second recension describes Part I as "having been completed in one
+hundred distinctions."[@somerville_prefaces_1998, 193]
 
-Groups of distinctions form treatises within the work: the first
-twenty distinctions, for example, form a treatise on laws (*tractatus
-de legibus*) that explores the sources of law. Other topics covered
-include ecclesiastical hierarchy and clerical discipline.
+The first treatise, on the sources of law (*tractatus de legibus*),
+corresponds to distinctions 1-20. The second treatise, on the
+ecclesiastical hierarchy and clerical discipline, corresponds to
+distinctions 21-80. Gratian explicitly refers to this treatise at
+several other places in the *Decretum* using the title *tractatus
+ordinandorum*.[^d] Gratian at D.81 d.a.c.1 indicates that the
+material corresponding to distinctions 81-101 is separate from, but
+in some sense supplemental to, the *tractatus ordinandorum*.
 
-The first treatise, on laws (*tractatus de legibus*), explores the
-sources of law, and corresponds to the first twenty distinctions.
-The second treatise, on the ecclesiastical hierarchy and clerical
-discipline, corresponds to distinctions 21-80. Gratian refers to
-it in several places under the title *tractatus ordinanrorum*.
-
-The division of Part I into distinctions is traditionally thought
-to have been made by Paucapalea (fl. 1140s) rather than by Gratian.
-The division seems to have taken some time to reach its final form:
-Pennington has pointed out that there were 99-distinction versions
-of the first recension,[@pennington_biography_2018, 366] and Rufinus
-writing in the mid-1160s presumably about the second recension
-describes Part I as "having been completed in one hundred
-distinctions."[@somerville_prefaces_1998, 193]
+---
 
 The second part consists of 36 cases, which are further subdivided
 into 168 questions. Four of the questions, C.11 q.2, C.17 q.3, C.22
@@ -70,6 +66,8 @@ Pf, and Tr manuscripts describing Gratian's work as "principally
 divided into two parts."[^2o5]
 
 ### Distinctions
+
+### Cases and Questions
 
 **[Move all discussion of d.a.c. and d.init. into Organization.
 Case statements or *themata* are a special case of *dicta* found
@@ -229,4 +227,14 @@ other (CC.21-22), heresy (CC.23-26), and marriage (CC.27-36). The
 thematic groupings are to some extent a matter of opinion. Anders
 Winroth referred me to Alfred Beyer's groupings which I have found
 useful. @beyer_lokale_1998, 17.
+
+[^c]: **Placeholder for footnote attributing division of Part I
+into distinctions to Paucapalea.**
+
+[^d]: **Placeholder for footnote about internal references to
+*tractatus ordinandorum*.** C.1 q.7 d.p.c.6 (edF 1.430); C.3 q.1
+d.p.c.7 (edF 1.507); C.9 q.3 c.15 (edF 1.647) (why is this not in
+a *dictum post*?); C.16 q.1 d.p.c.40 (edF 1.773); *de Cons*. D.1
+c.50 (edF 1.1303) (I thought there were no *dicta post* in *de
+Cons*?).
 
