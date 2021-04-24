@@ -10,6 +10,13 @@ subtitle: Organization
 ---
 ## Organization
 
+We now turn our attention from the chapters, the lower-order
+containers that provide the small-grain organization or micro
+structure of the *Decretum* to the parts, distinctions, cases and
+questions. These higher-order containers, constructed out of chapters,
+provide the large-grain organization or macro structure of the
+*Decretum*.
+
 ### Parts
 
 The *Decretum* in the form that circulated after around 1150 (the
@@ -19,26 +26,37 @@ understood the three parts to treat respectively of ministries,
 business, and sacraments: "*primam ministeriis, secundam negotiis,
 tertiam ecclesiasticis deputat sacramentis.*"[^2o1]
 
-The first part consists of 101 distinctions. The division of Part
-I into distinctions is traditionally thought to have been made by
-Paucapalea (fl. 1140s) rather than by Gratian. The division seems
-to have taken some time to reach its final form: Pennington has
-pointed out that there were 99-distinction versions of the first
-recension,[@pennington_biography_2018, 366] and Rufinus writing in
-the mid-1160s presumably about the second recension describes Part
-I as "having been completed in one hundred
-distinctions."[@somerville_prefaces_1998, 193] Groups of distinctions
-form treatises within the work: the first twenty distinctions, for
-example, form a treatise on laws (*tractatus de legibus*) that
-explores the sources of law. Other topics covered include ecclesiastical
-hierarchy and clerical discipline.
+The first part consists of 101 distinctions.
+
+The first part was originally written as a collection of treatises
+(*tractatus*) but is divided into 101 distinctions in the vulgate
+*Decretum*.
+
+Groups of distinctions form treatises within the work: the first
+twenty distinctions, for example, form a treatise on laws (*tractatus
+de legibus*) that explores the sources of law. Other topics covered
+include ecclesiastical hierarchy and clerical discipline.
+
+The first treatise, on laws (*tractatus de legibus*), explores the
+sources of law, and corresponds to the first twenty distinctions.
+The second treatise, on the ecclesiastical hierarchy and clerical
+discipline and referred to by Gratian as *tractatus ordinanrorum*
+
+The division of Part I into distinctions is traditionally thought
+to have been made by Paucapalea (fl. 1140s) rather than by Gratian.
+The division seems to have taken some time to reach its final form:
+Pennington has pointed out that there were 99-distinction versions
+of the first recension,[@pennington_biography_2018, 366] and Rufinus
+writing in the mid-1160s presumably about the second recension
+describes Part I as "having been completed in one hundred
+distinctions."[@somerville_prefaces_1998, 193]
 
 The second part consists of 36 cases, which are further subdivided
 into 168 questions. Four of the questions, C.11 q.2, C.17 q.3, C.22
-q.3, and C.29 q.1 are empty, meaning that they contain no
-chapters.[^tmp1] C.33 q.3, encapsulates a treatise on penance (*de
-Penitentia*, abbreviated *de Pen.*) *De Penitentia* is structurally
-similar to Part I, and is divided into seven distinctions.
+q.3, and C.29 q.1 are empty, meaning that they contain no chapters.[^a]
+C.33 q.3, encapsulates a treatise on penance (*de Penitentia*,
+abbreviated *de Pen.*) *De Penitentia* is structurally similar to
+Part I, and is divided into seven distinctions.[^b]
 
 The third part of the *Decretum* is a treatise on sacraments (*de
 Consecratione*, abbreviated *de Cons.*) divided into five
@@ -83,9 +101,9 @@ were not added to the *Decretum* until the second recension.[^2o7]
 Two first-recension dicta ante were modified in the second recension:
 23 words were added to C.21 q.3 d.a.c.1, and 3 words were added to
 C.29 q.1 d.a.c.1.In total, only 202 words were added to the dicta
-ante in the second recension. Thus, the dicta ante in Part II,
-like the case statements, are quite stable, displaying very little
-change between the first and second recension.
+ante in the second recension. Thus, the dicta ante in Part II, like
+the case statements, are quite stable, displaying very little change
+between the first and second recension.
 
 The case statements all follow a very regular formal pattern. They
 are introduced by a hypothetical narrative that is followed by an
@@ -162,6 +180,11 @@ indication as to why Somerville chose to translate *negotiis* as
     it seems more likely that this is something he had heard Rufinus
     say in lecture. **Kenneth Pennington, "Étienne of Tournai".**
 
+[^a]: All of the empty questions contain a *dictum ante* (see below)
+in the vulgate *Decretum*, but in three of the four cases it was
+added only in the second recension: C.11 q.2 d.a.c.1, C.17 q.3
+d.a.c.1, and C.22 q.3 d.a.c.1.
+
 [^2o5]: Three early manuscripts (Gt, Pf, and Tr) contain the gloss:
 "*Concordia discordantium canonum iuxta determinationem Gratiani
 episcopi quae in duas partes principaliter est divisa* (The agreement
@@ -171,8 +194,7 @@ Bibl. der Rijksuniversiteit 55; Pf = Paris, Bibl. Nationale lat.
 3884 I and II; and Tr = Trier, Stadtbibl. 906 (1141). See
 @noonan_gratian_1979, 154; and @pennington_biography_2018, 382.
 
-[^2o6]: Add footnote restating distinction between canon and
-chapter.
+[^2o6]: Add footnote restating distinction between canon and chapter.
 
 [^2o7]: **Confirm**. If these questions are missing altogether in
 the first recension, what is the relationship to the questions as
@@ -192,14 +214,16 @@ case statements are: *Hic primum queritur* (15), *Queritur* (8),
 queritur* (2), *Primum queritur* (2), *Hic primo queritur* (1),
 *Modo queritur* (1), *Queritur autem* (1).
 
-[^2o10]: "Quidam habens filium ..." C.1, d.init., edF. 1.357. Although
-Gratian does not say so explicitly, I think that we can reasonably
-infer that the father is an urban merchant or professional, rather
-than a member of the landed aristocracy, since his wealth, the
-source of several bribes, is so readily convertible into cash.
+[^2o10]: "Quidam habens filium ..." C.1, d.init., edF. 1.357.
+Although Gratian does not say so explicitly, I think that we can
+reasonably infer that the father is an urban merchant or professional,
+rather than a member of the landed aristocracy, since his wealth,
+the source of several bribes, is so readily convertible into cash.
 
-[^tmp1]: All of the empty questions contain a *dictum ante* (see
-below) in the vulgate *Decretum*, but in three of the four cases
-it was added only in the second recension: C.11 q.2 d.a.c.1, C.17
-q.3 d.a.c.1, and C.22 q.3 d.a.c.1.
+[^b]: The cases can be grouped thematically: simony (C.1), procedure
+(CC.2-6), other (CC.7-10), other (CC.11-15), monastic (CC.16-20),
+other (CC.21-22), heresy (CC.23-26), and marriage (CC.27-36). The
+thematic groupings are to some extent a matter of opinion. Anders
+Winroth referred me to Alfred Beyer's groupings which I have found
+useful. @beyer_lokale_1998, 17.
 
