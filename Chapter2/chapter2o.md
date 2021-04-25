@@ -24,13 +24,13 @@ Köln Dombibliothek manuscripts 127 and 128 are good early examples)
 has three parts. Contemporaries like Rufinus and Stephen of Tournai
 understood the three parts to treat respectively of ministries,
 business, and sacraments: "*primam ministeriis, secundam negotiis,
-tertiam ecclesiasticis deputat sacramentis.*"[^2o1]
+tertiam ecclesiasticis deputat sacramentis.*"[^1]
 
 The first part was originally written as a collection of treatises
 (*tractatus*) but is divided into 101 distinctions in the vulgate
 *Decretum*. The division of Part I into distinctions is traditionally
 thought to have been made by Paucapalea (fl. 1140s) rather than by
-Gratian.[^c] The division seems to have taken some time to reach
+Gratian.[^2] The division seems to have taken some time to reach
 its final form: Pennington has pointed out that there were
 99-distinction versions of the first recension,[@pennington_biography_2018,
 366] and Rufinus writing in the mid-1160s presumably about the
@@ -42,7 +42,7 @@ corresponds to distinctions 1-20. The second treatise, on the
 ecclesiastical hierarchy and clerical discipline, corresponds to
 distinctions 21-80. Gratian explicitly refers to this treatise at
 several other places in the *Decretum* using the title *tractatus
-ordinandorum*.[^d] Gratian at D.81 d.a.c.1 indicates that the
+ordinandorum*.[^5] Gratian at D.81 d.a.c.1 indicates that the
 material corresponding to distinctions 81-101 is separate from, but
 in some sense supplemental to, the *tractatus ordinandorum*.
 
@@ -50,10 +50,10 @@ in some sense supplemental to, the *tractatus ordinandorum*.
 
 The second part consists of 36 cases, which are further subdivided
 into 168 questions. Four of the questions, C.11 q.2, C.17 q.3, C.22
-q.3, and C.29 q.1 are empty, meaning that they contain no chapters.[^a]
+q.3, and C.29 q.1 are empty, meaning that they contain no chapters.[^6]
 C.33 q.3, encapsulates a treatise on penance (*de Penitentia*,
 abbreviated *de Pen.*) *De Penitentia* is structurally similar to
-Part I, and is divided into seven distinctions.[^b]
+Part I, and is divided into seven distinctions.[^7]
 
 The third part of the *Decretum* is a treatise on sacraments (*de
 Consecratione*, abbreviated *de Cons.*) divided into five
@@ -63,7 +63,7 @@ absent from all first-recension manuscripts, nor was it included
 in the earliest manuscripts of the more widely-circulated
 second-recension version, as indicated by glosses found in the Gt,
 Pf, and Tr manuscripts describing Gratian's work as "principally
-divided into two parts."[^2o5]
+divided into two parts."[^9]
 
 ### Distinctions
 
@@ -89,7 +89,7 @@ The questions in Part II are formally coordinate with the distinctions
 in Part I, *de Pen*. and Part III. That is, they contain a single
 terminal node (the *dictum ante*), followed by an ordered sequence
 of one or more internal nodes (the chapters) containing inscription,
-rubric, canon and *dictum post* terminal nodes.[^2o6]
+rubric, canon and *dictum post* terminal nodes.[^10]
 
 Distinctions are the highest-order containers in Part I, *de Pen*.
 and Part III.
@@ -98,7 +98,7 @@ There are 8,371 words in the first-recension dicta ante in Part II.
 Four *dicta ante* (C.11 q.2 d.a.c.1, C.17 q.2 d.a.c.1, C.17 q.3
 d.a.c.1, and C.22 q.3 d.a.c.1) were added in their entirety to the
 second recension, presumably because the questions they introduced
-were not added to the *Decretum* until the second recension.[^2o7]
+were not added to the *Decretum* until the second recension.[^11]
 Two first-recension dicta ante were modified in the second recension:
 23 words were added to C.21 q.3 d.a.c.1, and 3 words were added to
 C.29 q.1 d.a.c.1.In total, only 202 words were added to the dicta
@@ -116,12 +116,12 @@ case statement) demonstrates the pattern:
 priori condicioni renuncians, transtulit se ad alium, et nupsit
 illi; ille, cui prius desponsata fuerat, repetit eam. Hic primum
 queritur, an coniugium possit esse inter uouentes? Secundo, an
-liceat, sponsae a sponso recedere, et alii nubere?*[^2o8]
+liceat, sponsae a sponso recedere, et alii nubere?*[^12]
 
 The transition between the narrative section and the enumeration
 of questions is clearly signalled in each of the case statements
 by the use of one of a small number of formulaic markers, of which
-*Hic primum queritur* is the most common.[^2o9]
+*Hic primum queritur* is the most common.[^13]
 
 The hypothetical case statements or *themata* that introduce each
 of the thirty-six *causae* (cases) that constitute the second part
@@ -135,7 +135,7 @@ their university-educated, urban professional parents, the intense
 concern of "a certain man" in the first case statement to secure a
 good ecclesiastical career for his son (and his willingness on more
 than one occasion to resort to bribery in order to realize that
-objective) has a distinctly contemporary feel to it.[^2o10]
+objective) has a distinctly contemporary feel to it.[^14]
 
 In other cases, the hypothetical case statements are quite remote
 from our own concerns. In case 28, for example, a married infidel,
@@ -152,7 +152,7 @@ alive; and whether someone who had one wife before he was baptized
 and another wife after he was baptized should be considered a
 bigamist.
 
-[^2o1]: Rufinus and Stephen of Tournai describe the tripartite
+[^1]: Rufinus and Stephen of Tournai describe the tripartite
 division in exactly the same words: "librum suum in tribus partibus
 distinguit, quarum primam ministeriis, secundam negotiis, tertiam
 ecclesiasticis deputat sacramentis." [@singer_summa_1963, 5] "he
@@ -181,12 +181,29 @@ indication as to why Somerville chose to translate *negotiis* as
     it seems more likely that this is something he had heard Rufinus
     say in lecture. **Kenneth Pennington, "Étienne of Tournai".**
 
-[^a]: All of the empty questions contain a *dictum ante* (see below)
+[^2]: **Placeholder for footnote attributing division of Part I
+into distinctions to Paucapalea.**
+
+[^5]: There are five internal references to the *tractatus ordinandorum* in the vulgate *Decretum*:  
+C.1 q.7 d.p.c.6 "Item: 'Priscis igitur, etc.' Require supra in tractatu ordinandorum." (edF 1.430): reference to D.55 c.1 (edF 1.215).  
+C.3 q.1 d.p.c.7 "Unde supra in tractatu ordinandorum: 'Si quis pecunia uel gratia humana, seu populari uel militari tumultu, etc.'" (edF 1.507): reference to D.79 c.9 (edf 1.278).  
+C.9 q.3 c.15 (inscription) "ut supra in tractatu ordinandorum, ubi agitur de obedientia minorum erga maiores." (edF 1.647): no canon incipit is provided, but this appears to be a reference to D.93 c.9 (rubric): "Maioribus minores obedientiam exhibeant." (edF 1.321).  
+C.16 q.1 d.p.c.40 "Hoc idem datur intelligi ex uerbis B. Siluestri, qui obedientiam minorum erga maiores assignans ait: 'Abbas hostiario, monachus abbati sit subditus,' supra in tractatu ordinandorum." (edF 1.773): this also appears to be a reference to D.93 c.5. (edF1.321)  
+*de Cons*. D.1 d.p.c.50 "Item Pelagius: 'Dilectionis tuae rescripta.' Require in tractatu ordinandorum." (edF 1.1303): reference to D.76 c.12 (edF 1.271). Note that this reference occurs in one of only two substantive *dicta post* in *de Cons*.
+
+[^6]: All of the empty questions contain a *dictum ante* (see below)
 in the vulgate *Decretum*, but in three of the four cases it was
 added only in the second recension: C.11 q.2 d.a.c.1, C.17 q.3
 d.a.c.1, and C.22 q.3 d.a.c.1.
 
-[^2o5]: Three early manuscripts (Gt, Pf, and Tr) contain the gloss:
+[^7]: The cases can be grouped thematically: simony (C.1), procedure
+(CC.2-6), other (CC.7-10), other (CC.11-15), monastic (CC.16-20),
+other (CC.21-22), heresy (CC.23-26), and marriage (CC.27-36). The
+thematic groupings are to some extent a matter of opinion. Anders
+Winroth referred me to Alfred Beyer's groupings which I have found
+useful. @beyer_lokale_1998, 17.
+
+[^9]: Three early manuscripts (Gt, Pf, and Tr) contain the gloss:
 "*Concordia discordantium canonum iuxta determinationem Gratiani
 episcopi quae in duas partes principaliter est divisa* (The agreement
 of disagreeing canons according to the determination of Bishop
@@ -195,13 +212,13 @@ Bibl. der Rijksuniversiteit 55; Pf = Paris, Bibl. Nationale lat.
 3884 I and II; and Tr = Trier, Stadtbibl. 906 (1141). See
 @noonan_gratian_1979, 154; and @pennington_biography_2018, 382.
 
-[^2o6]: Add footnote restating distinction between canon and chapter.
+[^10]: Add footnote restating distinction between canon and chapter.
 
-[^2o7]: **Confirm**. If these questions are missing altogether in
+[^11]: **Confirm**. If these questions are missing altogether in
 the first recension, what is the relationship to the questions as
 stated in the initial case statement?
 
-[^2o8]: A man having [made] a vow of chastity betrothed a wife to
+[^12]: A man having [made] a vow of chastity betrothed a wife to
 himself; she, renouncing her previous agreement, gave herself to
 another and married him; he to whom she had been first betrothed
 tried to get her back. Here it is first asked whether there is able
@@ -209,39 +226,15 @@ to be a marriage between those vowing? Second, whether someone
 betrothed is allowed to abandon the person to whom they are betrothed
 and to marry another?
 
-[^2o9]: The formulaic transition markers used in the hypothetical
+[^13]: The formulaic transition markers used in the hypothetical
 case statements are: *Hic primum queritur* (15), *Queritur* (8),
 *Modo primum queritur* (3), *Nunc primum queritur* (3), *Primo
 queritur* (2), *Primum queritur* (2), *Hic primo queritur* (1),
 *Modo queritur* (1), *Queritur autem* (1).
 
-[^2o10]: "Quidam habens filium ..." C.1, d.init., edF. 1.357.
+[^14]: "Quidam habens filium ..." C.1, d.init., edF. 1.357.
 Although Gratian does not say so explicitly, I think that we can
 reasonably infer that the father is an urban merchant or professional,
 rather than a member of the landed aristocracy, since his wealth,
 the source of several bribes, is so readily convertible into cash.
-
-[^b]: The cases can be grouped thematically: simony (C.1), procedure
-(CC.2-6), other (CC.7-10), other (CC.11-15), monastic (CC.16-20),
-other (CC.21-22), heresy (CC.23-26), and marriage (CC.27-36). The
-thematic groupings are to some extent a matter of opinion. Anders
-Winroth referred me to Alfred Beyer's groupings which I have found
-useful. @beyer_lokale_1998, 17.
-
-[^c]: **Placeholder for footnote attributing division of Part I
-into distinctions to Paucapalea.**
-
-[^d]: **Placeholder for footnote about internal references to
-*tractatus ordinandorum*.** 
-
-    C.1 q.7 d.p.c.6 (edF 1.430): reference to D.55 c.1 "Priscis igitur, etc."  
-
-    C.3 q.1 d.p.c.7 (edF 1.507): reference to D.79 c.9 "Si quis pecunia uel gratia humana, seu populari uel militari tumultu, etc." 
-
-    C.9 q.3 c.15 **why is this not in a *dictum post*?** (edF 1.647): reference vague, but probably to D.93 c.9 (edF 1.321)
-
-    C.16 q.1 d.p.c.40 (edF 1.773) this also appears to be a reference to D.93 c.5.
-
-    *de Cons*. D.1 c.50 (edF 1.1303) (I thought there were no *dicta post* in *de
-Cons*?).
 
