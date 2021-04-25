@@ -94,15 +94,15 @@ rubric, canon and *dictum post* terminal nodes.[^10]
 Distinctions are the highest-order containers in Part I, *de Pen*.
 and Part III.
 
-There are 8,371 words in the first-recension dicta ante in Part II.
+There are 8,371 words in the first-recension *dicta ante* in Part II.
 Four *dicta ante* (C.11 q.2 d.a.c.1, C.17 q.2 d.a.c.1, C.17 q.3
 d.a.c.1, and C.22 q.3 d.a.c.1) were added in their entirety to the
 second recension, presumably because the questions they introduced
 were not added to the *Decretum* until the second recension.[^11]
-Two first-recension dicta ante were modified in the second recension:
+Two first-recension *dicta ante* were modified in the second recension:
 23 words were added to C.21 q.3 d.a.c.1, and 3 words were added to
-C.29 q.1 d.a.c.1.In total, only 202 words were added to the dicta
-ante in the second recension. Thus, the dicta ante in Part II, like
+C.29 q.1 d.a.c.1.In total, only 202 words were added to the *dicta
+ante* in the second recension. Thus, the *dicta ante* in Part II, like
 the case statements, are quite stable, displaying very little change
 between the first and second recension.
 
