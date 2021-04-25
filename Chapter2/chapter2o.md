@@ -188,7 +188,7 @@ into distinctions to Paucapalea.**
 C.1 q.7 d.p.c.6 "Item: 'Priscis igitur, etc.' Require supra in tractatu ordinandorum." (edF 1.430): reference to D.55 c.1 (edF 1.215).  
 C.3 q.1 d.p.c.7 "Unde supra in tractatu ordinandorum: 'Si quis pecunia uel gratia humana, seu populari uel militari tumultu, etc.'" (edF 1.507): reference to D.79 c.9 (edf 1.278).  
 C.9 q.3 c.15 (inscription) "ut supra in tractatu ordinandorum, ubi agitur de obedientia minorum erga maiores." (edF 1.647): no canon incipit is provided, but this appears to be a reference to D.93 c.9 (rubric): "Maioribus minores obedientiam exhibeant." (edF 1.321).  
-C.16 q.1 d.p.c.40 "Hoc idem datur intelligi ex uerbis B. Siluestri, qui obedientiam minorum erga maiores assignans ait: 'Abbas hostiario, monachus abbati sit subditus,' supra in tractatu ordinandorum." (edF 1.773): this also appears to be a reference to D.93 c.5. (edF1.321)  
+C.16 q.1 d.p.c.40 "Hoc idem datur intelligi ex uerbis B. Siluestri, qui obedientiam minorum erga maiores assignans ait: 'Abbas hostiario, monachus abbati sit subditus,' supra in tractatu ordinandorum." (edF 1.773): this also appears to be a reference to D.93 c.5. (edF1.321).  
 *de Cons*. D.1 d.p.c.50 "Item Pelagius: 'Dilectionis tuae rescripta.' Require in tractatu ordinandorum." (edF 1.1303): reference to D.76 c.12 (edF 1.271). Note that this reference occurs in one of only two substantive *dicta post* in *de Cons*.
 
 [^6]: All of the empty questions contain a *dictum ante* (see below)
