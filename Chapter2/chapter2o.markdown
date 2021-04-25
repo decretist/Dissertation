@@ -256,7 +256,7 @@ incipit is provided, but this appears to be a reference to D.93 c.9
 C.16 q.1 d.p.c.40 "Hoc idem datur intelligi ex uerbis B. Siluestri, qui
 obedientiam minorum erga maiores assignans ait: 'Abbas hostiario,
 monachus abbati sit subditus,' supra in tractatu ordinandorum." (edF
-1.773): this also appears to be a reference to D.93 c.5. (edF1.321)  
+1.773): this also appears to be a reference to D.93 c.5. (edF1.321).  
 *de Cons*. D.1 d.p.c.50 "Item Pelagius: 'Dilectionis tuae rescripta.'
 Require in tractatu ordinandorum." (edF 1.1303): reference to D.76 c.12
 (edF 1.271). Note that this reference occurs in one of only two
