@@ -430,9 +430,9 @@ questions---are constructed.
 Chapters in Parts I and II of the *Decretum* typically consist of
 an inscription, a rubric, a canon text, and a *dictum post canonem*,
 literally meaning "something said after the canon" and usually
-abbreviated d.p.c. There are no *dicta post canones* in Part III,
-which is in this respect more similar to the formal source collections
-Gratian relied on than to the rest of the *Decretum*. The discussion
+abbreviated d.p.c. There are almost no *dicta post canones* in Part III,
+which is in this respect much more similar to the formal source collections
+Gratian relied on than to the rest of the *Decretum*.[^tmp1] The discussion
 that follows focuses on inscriptions, rubrics, and *dicta post
 canones*; canon texts have been discussed in the section above on
 the collection and selection of canons, and nothing further need
@@ -825,4 +825,10 @@ edition, -@kretzschmar_alger_1985. Somewhat confusingly for Gratian
 scholars, Kretzschmar uses regular typeface for Alger's *dicta* and
 italics for the canons, the opposite of the convention adopted by
 Friedberg and maintained by Winroth.
+
+[^tmp1]: There are 11 *dicta post* (`<T P>`) tags in Part III (*de
+Consecratione*) in the Reuter and Silagi e-text of the Friedberg
+edition. Nine are really inscriptions, leaving two short *dicta
+post*, *de Cons*. D.1 d.p.c.50 (54 words) and *de Cons*. D.4 d.p.c.20
+(19 words).
 

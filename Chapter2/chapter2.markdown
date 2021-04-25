@@ -405,19 +405,20 @@ distinctions, cases, and questions---are constructed.
 Chapters in Parts I and II of the *Decretum* typically consist of an
 inscription, a rubric, a canon text, and a *dictum post canonem*,
 literally meaning "something said after the canon" and usually
-abbreviated d.p.c. There are no *dicta post canones* in Part III, which
-is in this respect more similar to the formal source collections Gratian
-relied on than to the rest of the *Decretum*. The discussion that
-follows focuses on inscriptions, rubrics, and *dicta post canones*;
-canon texts have been discussed in the section above on the collection
-and selection of canons, and nothing further need be added here.
+abbreviated d.p.c. There are almost no *dicta post canones* in Part III,
+which is in this respect much more similar to the formal source
+collections Gratian relied on than to the rest of the *Decretum*.[36]
+The discussion that follows focuses on inscriptions, rubrics, and *dicta
+post canones*; canon texts have been discussed in the section above on
+the collection and selection of canons, and nothing further need be
+added here.
 
 Most canons have an inscription, which identifies the ultimate source of
 authority for that canon, usually a papal decretal, a canon from an
 ecumenical council or an important provincial synod, or a patristic
-text.[36] Because Gratian collected his texts almost exclusively from
+text.[37] Because Gratian collected his texts almost exclusively from
 formal sources, rather than material sources like the register of Pope
-Gregory I,[37] the inscription affixed to a canon was sometimes
+Gregory I,[38] the inscription affixed to a canon was sometimes
 historically inaccurate, especially if the text in question was one
 derived from the Pseudo-Isidorian collections.
 
@@ -427,10 +428,10 @@ refers to the fact that rubrics were conventionally written in red
 the following canon is about. In many cases the rubric simply reads "*de
 eodem*", which means "about the same thing" as the preceding canon. The
 137 *de eodem* rubrics introducing first-recension canons turn out to be
-important clues into the development of the text of the *Decretum*.[38]
+important clues into the development of the text of the *Decretum*.[39]
 Stephan Kuttner observed in 1984 that "in the course its composition the
 material outgrew the original plan so that many untidy seams of the
-texture remain visible."[39] Canons that are introduced by *de eodem*
+texture remain visible."[40] Canons that are introduced by *de eodem*
 rubrics but that are clearly not "about the same thing" as the preceding
 canon in the vulgate *Decretum* are notable instances of visibly "untidy
 seams". One of Winroth's strongest arguments that the Aa, Bc, Fd, and P
@@ -439,11 +440,11 @@ the *Decretum* is that otherwise problematic *de eodem* rubrics make
 sense in the sequential order in which canons appear in those
 manuscripts (e.g., the *de eodem* rubric for C.24 q.3 c.5 refers back to
 C.24 q.3 c.2, which it consecutively follows in the first
-recension).[40]
+recension).[41]
 
 Eichbauer and Pennington believe that Gratian wrote the rubrics in the
 *Decretum* rather than reusing those he found in formal source
-collections.[41] The rubrics are far too short to be of value for the
+collections.[42] The rubrics are far too short to be of value for the
 purpose of authorship attribution. On the other hand, the fact that they
 are believed to have been written by Gratian, and therefore reflect his
 choice of wording, means that they could potentially be useful evidence
@@ -455,13 +456,13 @@ typically included an inscription, a rubric, and a canon text. Gratian
 added a *dictum post canonem* containing his own commentary on the
 preceding canon or series of canons, a feature he borrowed from Alger of
 Liège's theological treatise *De misericordia et iustitia* but without
-immediate precedent in the canonical literature.[42] The *dicta post
+immediate precedent in the canonical literature.[43] The *dicta post
 canones* are statements that Gratian made on his own authority as a
 jurist, carry the thread of his argument, and do his interpretive work.
 The *dicta* are texts that Gratian (whether we think of him as one
 person or many) actually wrote, and are therefore subject to analysis
 for authorship attribution. "The *dicta* in Gratian's *Decretum* bring
-the reader closer to its author than any other part of the text."[43]
+the reader closer to its author than any other part of the text."[44]
 
 # Bibliography
 
@@ -989,7 +990,13 @@ d.a.c.1 and c.1 are both child nodes at the same nesting level under one
 parent distinction or question node. A *dictum post canonem* is an
 optional, and usually final, terminal node of a canon.
 
-[36] The distinction between rubrics and *dicta* is blurry: "Gratian ...
+[36] There are 11 *dicta post* (`<T P>`) tags in Part III (*de
+Consecratione*) in the Reuter and Silagi e-text of the Friedberg
+edition. Nine are really inscriptions, leaving two short *dicta post*,
+*de Cons*. D.1 d.p.c.50 (54 words) and *de Cons*. D.4 d.p.c.20 (19
+words).
+
+[37] The distinction between rubrics and *dicta* is blurry: "Gratian ...
 often melded the rubrics with the dicta." (Melodie Harris Eichbauer,
 “St. Gall Stiftsbibliothek 673 and the Early Redactions of Gratian’s
 Decretum,” *Bulletin of Medieval Canon Law* 27 (2007): 107). "Both J.
@@ -1000,7 +1007,7 @@ the first cluster show that Gratian felt that the dictum was sufficient
 for summarizing the following *auctoritas*." (Eichbauer, 115) **Expand
 to include inscriptions.**
 
-[37] "Since Gratian frequently took fragments of letters from the
+[38] "Since Gratian frequently took fragments of letters from the
 Register of Gregory I---266 in all---using the inscription 'in
 registro', older research assumed that he must have used this important
 source in the form of the *Registrum Hadrianum*. According to more
@@ -1010,7 +1017,7 @@ collections predating Gratian; the direct use of the Register is
 probable in only a single case." \[C.27 q.1 c.19 (JE 1496)\] (Landau,
 “Gratian and the Decretum Gratiani,” 34).
 
-[38] Winroth observed that there are 398 *de eodem* rubrics in the
+[39] Winroth observed that there are 398 *de eodem* rubrics in the
 vulgate *Decretum*, see (Anders Winroth, “Uncovering Gratian’s Original
 Decretum with the Help of Electronic Resources,” *Columbia Library
 Columns* 46, no. 1 (1997): 28); and (Winroth, *The Making of Gratian’s
@@ -1055,18 +1062,18 @@ number of *de eodem* rubrics in the first and second recension rubric
 data sets is 388 instead of 389, with no way to tell whether the missing
 rubric is from the first or second recension.**
 
-[39] Stephan Kuttner, “Research on Gratian: Acta and Agenda,” in
+[40] Stephan Kuttner, “Research on Gratian: Acta and Agenda,” in
 *Studies in the History of Medieval Canon Law*, Collected Studies CS325
 (Aldershot, Hampshire, Great Britain : Brookfield, Vt., USA: Variorum ;
 Gower, 1990), 13.
 
-[40] Winroth, *The Making of Gratian’s Decretum*, 15, 70.
+[41] Winroth, *The Making of Gratian’s Decretum*, 15, 70.
 
-[41] "Gratian rarely took his rubrics from earlier collections. Rather
+[42] "Gratian rarely took his rubrics from earlier collections. Rather
 he created his own ..." (Eichbauer, “St. Gall Stiftsbibliothek 673 and
 the Early Redactions of Gratian’s Decretum,” 107)
 
-[42] Gratian is known to have used Alger as both a source, especially in
+[43] Gratian is known to have used Alger as both a source, especially in
 C.1, and, to some extent, as a methodological model. (Winroth, *The
 Making of Gratian’s Decretum*, 17, 39, 144). See Robert Kretzschmar's
 edition, (*Alger von Lüttichs Traktat "De misericordia et iustitia": ein
@@ -1077,7 +1084,7 @@ confusingly for Gratian scholars, Kretzschmar uses regular typeface for
 Alger's *dicta* and italics for the canons, the opposite of the
 convention adopted by Friedberg and maintained by Winroth.
 
-[43] Winroth, *The Making of Gratian’s Decretum*, 187.
+[44] Winroth, *The Making of Gratian’s Decretum*, 187.
 
 <div align="center">
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
