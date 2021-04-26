@@ -37,8 +37,14 @@ its final form: Pennington has pointed out that there were
 second recension describes Part I as "having been completed in one
 hundred distinctions."[@somerville_prefaces_1998, 193]
 
+The treatises seem to have started out short and tightly focused
+and only later to have coalesced into larger units: there is a
+first-recension *dictum* in Part II that makes reference to
+distinctions 19-20 specifically as the treatise of decretal letters
+(*tractatus decretalium epistolarum*).[^tmp1]
+
 The first treatise, on the sources of law (*tractatus de legibus*),
-corresponds to distinctions 1-20. The second treatise, on the
+corresponds to distinctions 1-20.[^tmp2] The second treatise, on the
 ecclesiastical hierarchy and clerical discipline, corresponds to
 distinctions 21-80. Gratian explicitly refers to this treatise at
 several other places in the *Decretum* using the title *tractatus
@@ -241,3 +247,16 @@ reasonably infer that the father is an urban merchant or professional,
 rather than a member of the landed aristocracy, since his wealth,
 the source of several bribes, is so readily convertible into cash.
 
+[^tmp1]: C.1 q.1 d.p.c.96 (Friedberg 1.392) refers to D.19 c.9 under
+the title *tractatus decretalium epistolarum* in a context that
+strongly suggests that the treatise referred to is to be understood
+as corresponding to distinctions 19-20. Use of the title "treatise
+of decretal letters" strongly suggests that this is to be read as
+a specific reference to distinctions 19-20, understood as a
+self-contained text independent from the rest of the treatise on
+laws.
+
+[^tmp2]: Distinctions 1-20 are usually referred to by modern scholars
+as the treatise on laws (*tractatus de legibus*). I cannot find an
+internal reference in the *Decretum* referring to it under that
+title.
