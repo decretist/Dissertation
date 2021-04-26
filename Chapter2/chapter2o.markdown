@@ -158,6 +158,13 @@ theologische Studien ; Bd. 6. Frankfurt am Main ; PLang, 1998.
 
 </div>
 
+<div id="ref-mclaughlin_summa_1952" class="csl-entry">
+
+McLaughlin, Terence P., ed. *The Summa Parisiensis on the Decretum
+Gratiani*. Toronto: Pontifical Institute of Mediaeval Studies, 1952.
+
+</div>
+
 <div id="ref-noonan_gratian_1979" class="csl-entry">
 
 Noonan, John T. “Gratian Slept Here: The Changing Identity of the Father
@@ -239,8 +246,11 @@ Stephen, however, had been a student of Rufinus in Bologna, and it seems
 more likely that this is something he had heard Rufinus say in lecture.
 **Kenneth Pennington, "Étienne of Tournai".**
 
-[2] **Placeholder for footnote attributing division of Part I into
-distinctions to Paucapalea.**
+[2] "Distinctiones apposuit in prima parte et ultima Paucapalea ..."
+Terence P. McLaughlin, ed., *The Summa Parisiensis on the Decretum
+Gratiani* (Toronto: Pontifical Institute of Mediaeval Studies, 1952), 1.
+(Paucapalea arranged the distinctions in the first part and the last,
+trans. PLE)
 
 [3] Kenneth Pennington, “The Biography of Gratian, the Father of Canon
 Law,” in *A Service Beyond All Recompense*, ed. Kurt Martens (Catholic
@@ -275,7 +285,7 @@ C.9 q.3 c.15 (inscription) "ut supra in tractatu ordinandorum, ubi
 agitur de obedientia minorum erga maiores." (second recension, Friedberg
 1.647): no canon incipit is provided, but this appears to be a reference
 to D.93 c.9 (rubric): "Maioribus minores obedientiam exhibeant." (second
-recension, Friedberg 1.321). **Reference to epilogue.**  
+recension, Friedberg 1.321). **(Reference to epilogue.)**  
 C.16 q.1 d.p.c.40 "Hoc idem datur intelligi ex uerbis B. Siluestri, qui
 obedientiam minorum erga maiores assignans ait: 'Abbas hostiario,
 monachus abbati sit subditus,' supra in tractatu ordinandorum." (second
@@ -283,8 +293,8 @@ recension, Friedberg 1.773): this also appears to be a reference to D.93
 c.5. (second recension, Friedberg 1.321). C.16 q.1 d.p.c.40 is a
 first-recension *dictum post* that was expanded in the second recension.
 The reference to the second-recension chapter D.93 c.5 is in the text
-added to the *dictum* in the second recension. **Reference to
-epilogue.**  
+added to the *dictum* in the second recension. **(Reference to
+epilogue.)**  
 *de Cons*. D.1 d.p.c.50 "Item Pelagius: 'Dilectionis tuae rescripta.'
 Require in tractatu ordinandorum." (Friedberg 1.1303): reference to D.76
 c.12 (first recension, Friedberg 1.271). Note that this reference occurs

@@ -187,8 +187,9 @@ indication as to why Somerville chose to translate *negotiis* as
     it seems more likely that this is something he had heard Rufinus
     say in lecture. **Kenneth Pennington, "Étienne of Tournai".**
 
-[^2]: **Placeholder for footnote attributing division of Part I
-into distinctions to Paucapalea.**
+[^2]: "Distinctiones apposuit in prima parte et ultima Paucapalea ..."
+@mclaughlin_summa_1952, 1. (Paucapalea arranged the distinctions
+in the first part and the last, trans. PLE)
 
 [^5]: C.1 q.1 d.p.c.96 "Unde etiam ab ecclesia Romana repudiatur,
 et a Deo fuisse percussus legitur in gestis Romanorum Pontificum
