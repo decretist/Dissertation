@@ -185,11 +185,14 @@ indication as to why Somerville chose to translate *negotiis* as
 into distinctions to Paucapalea.**
 
 [^5]: There are five internal references to the *tractatus ordinandorum* in the vulgate *Decretum*:  
-C.1 q.7 d.p.c.6 "Item: 'Priscis igitur, etc.' Require supra in tractatu ordinandorum." (edF 1.430): reference to D.55 c.1 (edF 1.215).  
-C.3 q.1 d.p.c.7 "Unde supra in tractatu ordinandorum: 'Si quis pecunia uel gratia humana, seu populari uel militari tumultu, etc.'" (edF 1.507): reference to D.79 c.9 (edf 1.278).  
-C.9 q.3 c.15 (inscription) "ut supra in tractatu ordinandorum, ubi agitur de obedientia minorum erga maiores." (edF 1.647): no canon incipit is provided, but this appears to be a reference to D.93 c.9 (rubric): "Maioribus minores obedientiam exhibeant." (edF 1.321).  
-C.16 q.1 d.p.c.40 "Hoc idem datur intelligi ex uerbis B. Siluestri, qui obedientiam minorum erga maiores assignans ait: 'Abbas hostiario, monachus abbati sit subditus,' supra in tractatu ordinandorum." (edF 1.773): this also appears to be a reference to D.93 c.5. (edF1.321).  
-*de Cons*. D.1 d.p.c.50 "Item Pelagius: 'Dilectionis tuae rescripta.' Require in tractatu ordinandorum." (edF 1.1303): reference to D.76 c.12 (edF 1.271). Note that this reference occurs in one of only two substantive *dicta post* in *de Cons*.
+C.1 q.7 d.p.c.6 "Item: 'Priscis igitur, etc.' Require supra in tractatu ordinandorum." (first recension, Friedberg 1.430): reference to D.55 c.1 (first recension, Friedberg 1.215).  
+C.3 q.1 d.p.c.7 "Unde supra in tractatu ordinandorum: 'Si quis pecunia uel gratia humana, seu populari uel militari tumultu, etc.'" (second recension, Friedberg 1.507): reference to D.79 c.9 (first recension, Friedberg 1.278).  
+C.9 q.3 c.15 (inscription) "ut supra in tractatu ordinandorum, ubi agitur de obedientia minorum erga maiores." (second recension, Friedberg 1.647): no canon incipit is provided, but this appears to be a reference to D.93 c.9 (rubric): "Maioribus minores obedientiam exhibeant." (second recension, Friedberg 1.321). **Reference to epilogue.**  
+C.16 q.1 d.p.c.40 "Hoc idem datur intelligi ex uerbis B. Siluestri, qui obedientiam minorum erga maiores assignans ait: 'Abbas hostiario, monachus abbati sit subditus,' supra in tractatu ordinandorum." (second recension, Friedberg 1.773): this also appears to be a reference to D.93 c.5. (second recension, Friedberg 1.321). **Reference to epilogue. C.16 q.1 d.p.c.40 is a first-recension *dictum post* that was expanded in the second recension. The reference to the second-recension chapter D.93 c.5 is in the text added to the *dictum* in the second recension.**  
+*de Cons*. D.1 d.p.c.50 "Item Pelagius: 'Dilectionis tuae rescripta.' Require in tractatu ordinandorum." (Friedberg 1.1303): reference to D.76 c.12 (first recension, Friedberg 1.271). Note that this reference occurs in one of only two substantive *dicta post* in *de Cons*.
+
+    There is one additional internal reference to this treatise under the title *tractatus de promotionibus clericorum*.  
+    C.16 q.1 d.p.c.20 "Gelasius tamen (sicut in tractatu de promotionibus clericorum inuenitur) in capitulo illo: 'Monachus nouicius, etc.' permittit illos ex dispensatione defensores fieri." (first recension, Friedberg 1.766): reference to D.77 c.9 (first recension, Friedberg 1.274)
 
 [^6]: All of the empty questions contain a *dictum ante* (see below)
 in the vulgate *Decretum*, but in three of the four cases it was
@@ -232,7 +235,7 @@ case statements are: *Hic primum queritur* (15), *Queritur* (8),
 queritur* (2), *Primum queritur* (2), *Hic primo queritur* (1),
 *Modo queritur* (1), *Queritur autem* (1).
 
-[^14]: "Quidam habens filium ..." C.1, d.init., edF. 1.357.
+[^14]: "Quidam habens filium ..." C.1, d.init., Friedberg 1.357.
 Although Gratian does not say so explicitly, I think that we can
 reasonably infer that the father is an urban merchant or professional,
 rather than a member of the landed aristocracy, since his wealth,
