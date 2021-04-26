@@ -249,13 +249,14 @@ University of America Press, 2018), 366.
 [4] Somerville and Brasington, *Prefaces to Canon Law Books in Latin
 Christianity*, 193.
 
-[5] C.1 q.1 d.p.c.96 (Friedberg 1.392) refers to D.19 c.9 under the
-title *tractatus decretalium epistolarum* in a context that strongly
-suggests that the treatise referred to is to be understood as
-corresponding to distinctions 19-20. Use of the title "treatise of
-decretal letters" strongly suggests that this is to be read as a
-specific reference to distinctions 19-20, understood as a self-contained
-text independent from the rest of the treatise on laws.
+[5] C.1 q.1 d.p.c.96 "Unde etiam ab ecclesia Romana repudiatur, et a Deo
+fuisse percussus legitur in gestis Romanorum Pontificum hoc modo:
+'Anastasius secundus natione Romanus, etc.' Require retro in tractatu
+decretalium epistolarum." (first recension, Friedberg 1.392) refers to
+D.19 c.9 (first recension, Friedberg 1.63). Use of the title "treatise
+of decretal letters" strongly suggests that this is to be read as a
+specific reference to a self-contained text corresponding to
+distinctions 19-20 rather than to the treatise on laws generally.
 
 [6] Distinctions 1-20 are usually referred to by modern scholars as the
 treatise on laws (*tractatus de legibus*). I cannot find an internal
