@@ -280,10 +280,11 @@ C.16 q.1 d.p.c.40 "Hoc idem datur intelligi ex uerbis B. Siluestri, qui
 obedientiam minorum erga maiores assignans ait: 'Abbas hostiario,
 monachus abbati sit subditus,' supra in tractatu ordinandorum." (second
 recension, Friedberg 1.773): this also appears to be a reference to D.93
-c.5. (second recension, Friedberg 1.321). **Reference to epilogue. C.16
-q.1 d.p.c.40 is a first-recension *dictum post* that was expanded in the
-second recension. The reference to the second-recension chapter D.93 c.5
-is in the text added to the *dictum* in the second recension.**  
+c.5. (second recension, Friedberg 1.321). C.16 q.1 d.p.c.40 is a
+first-recension *dictum post* that was expanded in the second recension.
+The reference to the second-recension chapter D.93 c.5 is in the text
+added to the *dictum* in the second recension. **Reference to
+epilogue.**  
 *de Cons*. D.1 d.p.c.50 "Item Pelagius: 'Dilectionis tuae rescripta.'
 Require in tractatu ordinandorum." (Friedberg 1.1303): reference to D.76
 c.12 (first recension, Friedberg 1.271). Note that this reference occurs
