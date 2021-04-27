@@ -71,16 +71,14 @@ I, and so on.[^9]
 The *Decretum* says nothing about its own authorship. Twelfth-century
 readers, however, implicitly endorsed the single-author theory by
 subsuming the entire text of the vulgate *Decretum* under the eponym
-"Gratian", even through they recognized that he was not directly
-responsible for certain notable formal features of the work, such as
-the division of Part I into *distinctiones*.[^10]
-
-Furthermore, the *Decretum*, like many other scholastic texts,
-contains far more quoted than original material. Medieval opinion
-was consequently divided on the question of whether the creators of
-the *Decretum* and similar texts ought properly to be considered
-their authors. Stephen of Tournai in the preface to his *Summa* on
-the *Decretum* insists that Gratian is its compiler, not its author:
+"Gratian". The *Decretum*, however, like many other scholastic
+texts, contains far more quoted than original material. Medieval
+opinion was therefore divided not on the question of whether the
+*Decretum* had a single author, but rather on the question of whether
+the creator of the *Decretum* and creators of similar texts ought
+properly to be considered authors at all. Stephen of Tournai in
+the preface to his *Summa* on the *Decretum* insists that Gratian
+is its compiler, not its author:
 
 > I should properly say that Gratian is the compiler of this work,
 not the author, for he brought together in this volume---that is,
@@ -565,10 +563,6 @@ difference authors." [@winroth_making_2000, 194-195].
 
 [^9]: Excepting only that there is no first-recension version of
 Part III.
-
-[^10]: "Distinctiones apposuit in prima parte et ultima Paucapalea ..."
-@mclaughlin_summa_1952, 1. (Paucapalea arranged the distinctions
-in the first part and the last, trans. PLE)
 
 [^11]: @somerville_prefaces_1998, 200-201. Somerville is translating
 from @kalb_studien_1983, 113-120. "Compositorem huius operis recte
