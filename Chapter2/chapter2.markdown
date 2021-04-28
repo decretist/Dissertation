@@ -448,7 +448,7 @@ choice of wording, means that they could potentially be useful evidence
 in the search for new topics introduced between the first and second
 recensions.
 
-A chapter in the formal sources from which Gratian selected his material
+Chapters in the formal sources from which Gratian selected his material
 typically included an inscription, a rubric, and a canon text. Gratian
 added a *dictum post canonem* containing his own commentary on the
 preceding canon or series of canons, a feature he borrowed from Alger of
@@ -506,7 +506,7 @@ C.29 q.1 are empty, meaning that they contain no chapters.[52] C.33 q.3,
 encapsulates a treatise on penance (*de Penitentia*, abbreviated *de
 Pen.*) *De Penitentia* is structurally similar to Part I, and is divided
 into seven distinctions. Certain sequences of cases in Part II comprise
-thematic groups, notably: simony (case 1), procedure (cases 2-6),
+thematic groups, notably simony (case 1), procedure (cases 2-6),
 monastic life (cases 16-20), heresy (cases 23-26), and marriage (cases
 27-36).[53]
 
