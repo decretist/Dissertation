@@ -1,7 +1,5 @@
 ## Organization
 
-### Distinctions
-
 ### Cases and Questions
 
 **\[Move all discussion of d.a.c. and d.init. into Organization. Case
@@ -21,19 +19,13 @@ written by someone other than the author(s) of the first-recension
 *dicta*. The emphasis of the discussion of *dicta ante* will therefore
 necessarily be on their function in the organization of Part II. The
 questions in Part II are formally coordinate with the distinctions in
-Part I, *de Pen*. and Part III. That is, they contain a single terminal
-node (the *dictum ante*), followed by an ordered sequence of one or more
-internal nodes (the chapters) containing inscription, rubric, canon and
-*dictum post* terminal nodes.[1]
-
-Distinctions are the highest-order containers in Part I, *de Pen*. and
-Part III.
+Part I, *de Pen*. and Part III.
 
 There are 8,371 words in the first-recension *dicta ante* in Part II.
 Four *dicta ante* (C.11 q.2 d.a.c.1, C.17 q.2 d.a.c.1, C.17 q.3 d.a.c.1,
 and C.22 q.3 d.a.c.1) were added in their entirety to the second
 recension, presumably because the questions they introduced were not
-added to the *Decretum* until the second recension.[2] Two
+added to the *Decretum* until the second recension.[1] Two
 first-recension *dicta ante* were modified in the second recension: 23
 words were added to C.21 q.3 d.a.c.1, and 3 words were added to C.29 q.1
 d.a.c.1.In total, only 202 words were added to the *dicta ante* in the
@@ -51,12 +43,12 @@ statement) demonstrates the pattern:
 > condicioni renuncians, transtulit se ad alium, et nupsit illi; ille,
 > cui prius desponsata fuerat, repetit eam. Hic primum queritur, an
 > coniugium possit esse inter uouentes? Secundo, an liceat, sponsae a
-> sponso recedere, et alii nubere?*[3]
+> sponso recedere, et alii nubere?*[2]
 
 The transition between the narrative section and the enumeration of
 questions is clearly signalled in each of the case statements by the use
 of one of a small number of formulaic markers, of which *Hic primum
-queritur* is the most common.[4]
+queritur* is the most common.[3]
 
 The hypothetical case statements or *themata* that introduce each of the
 thirty-six *causae* (cases) that constitute the second part of the
@@ -70,7 +62,7 @@ university-educated, urban professional parents, the intense concern of
 "a certain man" in the first case statement to secure a good
 ecclesiastical career for his son (and his willingness on more than one
 occasion to resort to bribery in order to realize that objective) has a
-distinctly contemporary feel to it.[5]
+distinctly contemporary feel to it.[4]
 
 In other cases, the hypothetical case statements are quite remote from
 our own concerns. In case 28, for example, a married infidel, by which
@@ -86,26 +78,24 @@ another wife if his previous wife is still alive; and whether someone
 who had one wife before he was baptized and another wife after he was
 baptized should be considered a bigamist.
 
-[1] Add footnote restating distinction between canon and chapter.
-
-[2] **Confirm**. If these questions are missing altogether in the first
+[1] **Confirm**. If these questions are missing altogether in the first
 recension, what is the relationship to the questions as stated in the
 initial case statement?
 
-[3] A man having \[made\] a vow of chastity betrothed a wife to himself;
+[2] A man having \[made\] a vow of chastity betrothed a wife to himself;
 she, renouncing her previous agreement, gave herself to another and
 married him; he to whom she had been first betrothed tried to get her
 back. Here it is first asked whether there is able to be a marriage
 between those vowing? Second, whether someone betrothed is allowed to
 abandon the person to whom they are betrothed and to marry another?
 
-[4] The formulaic transition markers used in the hypothetical case
+[3] The formulaic transition markers used in the hypothetical case
 statements are: *Hic primum queritur* (15), *Queritur* (8), *Modo primum
 queritur* (3), *Nunc primum queritur* (3), *Primo queritur* (2), *Primum
 queritur* (2), *Hic primo queritur* (1), *Modo queritur* (1), *Queritur
 autem* (1).
 
-[5] "Quidam habens filium ..." C.1, d.init., Friedberg 1.357. Although
+[4] "Quidam habens filium ..." C.1, d.init., Friedberg 1.357. Although
 Gratian does not say so explicitly, I think that we can reasonably infer
 that the father is an urban merchant or professional, rather than a
 member of the landed aristocracy, since his wealth, the source of

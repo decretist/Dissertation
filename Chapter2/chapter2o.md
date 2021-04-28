@@ -10,8 +10,6 @@ subtitle: Organization
 ---
 ## Organization
 
-### Distinctions
-
 ### Cases and Questions
 
 **[Move all discussion of d.a.c. and d.init. into Organization.
@@ -31,13 +29,7 @@ were written by someone other than the author(s) of the first-recension
 *dicta*. The emphasis of the discussion of *dicta ante* will therefore
 necessarily be on their function in the organization of Part II.
 The questions in Part II are formally coordinate with the distinctions
-in Part I, *de Pen*. and Part III. That is, they contain a single
-terminal node (the *dictum ante*), followed by an ordered sequence
-of one or more internal nodes (the chapters) containing inscription,
-rubric, canon and *dictum post* terminal nodes.[^13]
-
-Distinctions are the highest-order containers in Part I, *de Pen*.
-and Part III.
+in Part I, *de Pen*. and Part III.
 
 There are 8,371 words in the first-recension *dicta ante* in Part II.
 Four *dicta ante* (C.11 q.2 d.a.c.1, C.17 q.2 d.a.c.1, C.17 q.3
@@ -96,8 +88,6 @@ in which a man can take another wife if his previous wife is still
 alive; and whether someone who had one wife before he was baptized
 and another wife after he was baptized should be considered a
 bigamist.
-
-[^13]: Add footnote restating distinction between canon and chapter.
 
 [^14]: **Confirm**. If these questions are missing altogether in
 the first recension, what is the relationship to the questions as
