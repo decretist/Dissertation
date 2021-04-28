@@ -24,13 +24,13 @@ Köln Dombibliothek manuscripts 127 and 128 are good early examples)
 has three parts. Contemporaries like Rufinus and Stephen of Tournai
 understood the three parts to treat respectively of ministries,
 business, and sacraments: "*primam ministeriis, secundam negotiis,
-tertiam ecclesiasticis deputat sacramentis.*"[^1]
+tertiam ecclesiasticis deputat sacramentis.*"[^44]
 
 The first part was originally written as a collection of treatises
 (*tractatus*) but is divided into 101 distinctions in the vulgate
 *Decretum*. The division of Part I into distinctions is traditionally
 thought to have been made by Paucapalea (fl. 1140s) rather than by
-Gratian.[^2] The division seems to have taken some time to reach
+Gratian.[^45] The division seems to have taken some time to reach
 its final form: Pennington has pointed out that there were
 99-distinction versions of the first recension,[@pennington_biography_2018,
 366] and Rufinus writing in the mid-1160s presumably about the
@@ -38,26 +38,26 @@ second recension describes Part I as "having been completed in one
 hundred distinctions."[@somerville_prefaces_1998, 193]
 
 Modern scholarship conventionally divides Part I into a treatise
-on laws (*tractatus de legibus*) corresponding to distinctions 1-20,[^5]
+on laws (*tractatus de legibus*) corresponding to distinctions 1-20,[^48]
 a treatise of those in holy orders (*tractatus ordinandorum*)
-corresponding to distinctions 21-80,[^6] and an epilogue to the *tractatus
-ordinandorum* corresponding to distinctions 81-101.[^7] The treatises
+corresponding to distinctions 21-80,[^49] and an epilogue to the *tractatus
+ordinandorum* corresponding to distinctions 81-101.[^50] The treatises
 seem to have started out short and tightly focused and only later
 to have coalesced into the larger units: a first-recension *dictum*
 in Part II makes reference to a treatise of decretal letters
 (*tractatus decretalium epistolarum*) apparently corresponding to
 distinctions 19-20 specifically rather than to the *tractatus de
-legibus* generally.[^8]
+legibus* generally.[^51]
 
 The second part consists of 36 cases, which are further subdivided
 into 168 questions. Four of the questions, C.11 q.2, C.17 q.3, C.22
-q.3, and C.29 q.1 are empty, meaning that they contain no chapters.[^9]
+q.3, and C.29 q.1 are empty, meaning that they contain no chapters.[^52]
 C.33 q.3, encapsulates a treatise on penance (*de Penitentia*,
 abbreviated *de Pen.*) *De Penitentia* is structurally similar to
 Part I, and is divided into seven distinctions. Certain sequences
 of cases in Part II comprise thematic groups, notably: simony (case
 1), procedure (cases 2-6), monastic life (cases 16-20), heresy
-(cases 23-26), and marriage (cases 27-36).[^10]
+(cases 23-26), and marriage (cases 27-36).[^53]
 
 The third part of the *Decretum* is a treatise on sacraments (*de
 Consecratione*, abbreviated *de Cons.*) divided into five
@@ -67,7 +67,7 @@ absent from all first-recension manuscripts, nor was it included
 in the earliest manuscripts of the more widely-circulated
 second-recension version, as indicated by glosses found in the Gt,
 Pf, and Tr manuscripts describing Gratian's work as "principally
-divided into two parts."[^12]
+divided into two parts."[^55]
 
 ### Distinctions
 
@@ -156,7 +156,7 @@ alive; and whether someone who had one wife before he was baptized
 and another wife after he was baptized should be considered a
 bigamist.
 
-[^1]: Rufinus and Stephen of Tournai describe the tripartite
+[^44]: Rufinus and Stephen of Tournai describe the tripartite
 division in exactly the same words: "librum suum in tribus partibus
 distinguit, quarum primam ministeriis, secundam negotiis, tertiam
 ecclesiasticis deputat sacramentis." [@singer_summa_1963, 5] "he
@@ -185,7 +185,7 @@ indication as to why Somerville chose to translate *negotiis* as
     it seems more likely that this is something he had heard Rufinus
     say in lecture. **Kenneth Pennington, "Étienne of Tournai".**
 
-[^2]: "In 1933 two scholars, Franz Gillmann and Adam Vetulani,
+[^45]: "In 1933 two scholars, Franz Gillmann and Adam Vetulani,
 concluded independently that Gratian himself did not introduce the
 division of the Distinctiones into the first part of the Decretum.
 They attributed the division to the members of the schools, suggesting
@@ -195,11 +195,11 @@ apposuit in prima parte et ultima Paucapalea ..." @mclaughlin_summa_1952, 1.
 (Paucapalea arranged the distinctions in the first part and the
 last, trans.  PLE)
 
-[^5]: Distinctions 1-20 are conventionally referred to by modern
+[^48]: Distinctions 1-20 are conventionally referred to by modern
 scholars as the treatise on laws (*tractatus de legibus*). I cannot
 find an internal reference to it in the *Decretum* under that title.
 
-[^6]: There are five internal references to the *tractatus ordinandorum* in the vulgate *Decretum*:  
+[^49]: There are five internal references to the *tractatus ordinandorum* in the vulgate *Decretum*:  
 C.1 q.7 d.p.c.6 "Item: 'Priscis igitur, etc.' Require supra in tractatu ordinandorum." (first recension, Friedberg 1.430): reference to D.55 c.1 (first recension, Friedberg 1.215).  
 C.3 q.1 d.p.c.7 "Unde supra in tractatu ordinandorum: 'Si quis pecunia uel gratia humana, seu populari uel militari tumultu, etc.'" (second recension, Friedberg 1.507): reference to D.79 c.9 (first recension, Friedberg 1.278).  
 C.9 q.3 c.15 (inscription) "ut supra in tractatu ordinandorum, ubi agitur de obedientia minorum erga maiores." (second recension, Friedberg 1.647): no canon incipit is provided, but this appears to be a reference to D.93 c.9 (rubric): "Maioribus minores obedientiam exhibeant." (second recension, Friedberg 1.321). **(Reference to epilogue.)**  
@@ -209,9 +209,9 @@ C.16 q.1 d.p.c.40 "Hoc idem datur intelligi ex uerbis B. Siluestri, qui obedient
     There is one additional internal reference to this treatise under the title *tractatus de promotionibus clericorum*.  
     C.16 q.1 d.p.c.20 "Gelasius tamen (sicut in tractatu de promotionibus clericorum inuenitur) in capitulo illo: 'Monachus nouicius, etc.' permittit illos ex dispensatione defensores fieri." (first recension, Friedberg 1.766): reference to D.77 c.9 (first recension, Friedberg 1.274)
 
-[^7]: **Placeholder for footnote c.**
+[^50]: **Placeholder for footnote c.**
 
-[^8]: C.1 q.1 d.p.c.96 "Unde etiam ab ecclesia Romana repudiatur,
+[^51]: C.1 q.1 d.p.c.96 "Unde etiam ab ecclesia Romana repudiatur,
 et a Deo fuisse percussus legitur in gestis Romanorum Pontificum
 hoc modo: 'Anastasius secundus natione Romanus, etc.' Require retro
 in tractatu decretalium epistolarum." (first recension, Friedberg
@@ -221,19 +221,19 @@ this is to be read as a specific reference to a self-contained text
 corresponding to distinctions 19-20 rather than to the treatise on
 laws generally.
 
-[^9]: All of the empty questions contain a *dictum ante* (see below)
+[^52]: All of the empty questions contain a *dictum ante* (see below)
 in the vulgate *Decretum*, but in three of the four cases it was
 added only in the second recension: C.11 q.2 d.a.c.1, C.17 q.3
 d.a.c.1, and C.22 q.3 d.a.c.1.
 
-[^10]: The cases can be grouped thematically: simony (C.1), procedure
+[^53]: The cases can be grouped thematically: simony (C.1), procedure
 (CC.2-6), other (CC.7-10), other (CC.11-15), monastic (CC.16-20),
 other (CC.21-22), heresy (CC.23-26), and marriage (CC.27-36). The
 thematic groupings are to some extent a matter of opinion. Anders
 Winroth referred me to Alfred Beyer's groupings which I have found
 useful. @beyer_lokale_1998, 17.
 
-[^12]: Three early manuscripts (Gt, Pf, and Tr) contain the gloss:
+[^55]: Three early manuscripts (Gt, Pf, and Tr) contain the gloss:
 "*Concordia discordantium canonum iuxta determinationem Gratiani
 episcopi quae in duas partes principaliter est divisa* (The agreement
 of disagreeing canons according to the determination of Bishop

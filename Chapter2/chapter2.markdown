@@ -461,9 +461,77 @@ person or many) actually wrote, and are therefore subject to analysis
 for authorship attribution. "The *dicta* in Gratian's *Decretum* bring
 the reader closer to its author than any other part of the text."[43]
 
+## Organization
+
+We now turn our attention from the chapters, the lower-order containers
+that provide the small-grain organization or micro structure of the
+*Decretum* to the parts, distinctions, cases and questions. These
+higher-order containers, constructed out of chapters, provide the
+large-grain organization or macro structure of the *Decretum*.
+
+### Parts
+
+The *Decretum* in the form that circulated after around 1150 (the Köln
+Dombibliothek manuscripts 127 and 128 are good early examples) has three
+parts. Contemporaries like Rufinus and Stephen of Tournai understood the
+three parts to treat respectively of ministries, business, and
+sacraments: "*primam ministeriis, secundam negotiis, tertiam
+ecclesiasticis deputat sacramentis.*"[44]
+
+The first part was originally written as a collection of treatises
+(*tractatus*) but is divided into 101 distinctions in the vulgate
+*Decretum*. The division of Part I into distinctions is traditionally
+thought to have been made by Paucapalea (fl. 1140s) rather than by
+Gratian.[45] The division seems to have taken some time to reach its
+final form: Pennington has pointed out that there were 99-distinction
+versions of the first recension,[46] and Rufinus writing in the
+mid-1160s presumably about the second recension describes Part I as
+"having been completed in one hundred distinctions."[47]
+
+Modern scholarship conventionally divides Part I into a treatise on laws
+(*tractatus de legibus*) corresponding to distinctions 1-20,[48] a
+treatise of those in holy orders (*tractatus ordinandorum*)
+corresponding to distinctions 21-80,[49] and an epilogue to the
+*tractatus ordinandorum* corresponding to distinctions 81-101.[50] The
+treatises seem to have started out short and tightly focused and only
+later to have coalesced into the larger units: a first-recension
+*dictum* in Part II makes reference to a treatise of decretal letters
+(*tractatus decretalium epistolarum*) apparently corresponding to
+distinctions 19-20 specifically rather than to the *tractatus de
+legibus* generally.[51]
+
+The second part consists of 36 cases, which are further subdivided into
+168 questions. Four of the questions, C.11 q.2, C.17 q.3, C.22 q.3, and
+C.29 q.1 are empty, meaning that they contain no chapters.[52] C.33 q.3,
+encapsulates a treatise on penance (*de Penitentia*, abbreviated *de
+Pen.*) *De Penitentia* is structurally similar to Part I, and is divided
+into seven distinctions. Certain sequences of cases in Part II comprise
+thematic groups, notably: simony (case 1), procedure (cases 2-6),
+monastic life (cases 16-20), heresy (cases 23-26), and marriage (cases
+27-36).[53]
+
+The third part of the *Decretum* is a treatise on sacraments (*de
+Consecratione*, abbreviated *de Cons.*) divided into five
+distinctions.[54] That *de Consecratione* is a very late addition to the
+*Decretum* is not in doubt---it is absent from all first-recension
+manuscripts, nor was it included in the earliest manuscripts of the more
+widely-circulated second-recension version, as indicated by glosses
+found in the Gt, Pf, and Tr manuscripts describing Gratian's work as
+"principally divided into two parts."[55]
+
 # Bibliography
 
 <div id="refs" class="references csl-bib-body hanging-indent">
+
+<div id="ref-beyer_lokale_1998" class="csl-entry">
+
+Beyer, Alfred. *Lokale Abbreviationen des Decretum Gratiani: Analyse und
+Vergleich der Dekretabbreviationen "Omnes leges aut divine" (Bamberg),
+"Humanum genus duobus regitur" (Pommersfelden) und "De his qui intra
+claustra monasterii consistunt" (Lichtenthal, Baden-Baden)*. Bamberger
+theologische Studien ; Bd. 6. Frankfurt am Main ; PLang, 1998.
+
+</div>
 
 <div id="ref-bonaventure_commentaria_1882" class="csl-entry">
 
@@ -480,6 +548,15 @@ Brasington, Bruce Clark, ed. *Ways of Mercy: The Prologue of Ivo of
 Chartres ; Edition and Analysis*. Vita Regularis, Bd. 2. Münster :
 Piscataway, N.J: LIT ; Distributed in North America by Transaction
 Publishers, 2004.
+
+</div>
+
+<div id="ref-chodorow_ecclesiology_1972" class="csl-entry">
+
+Chodorow, Stanley. *Christian Political Theory and Church Politics in
+the Mid-Twelfth Century; the Ecclesiology of Gratian’s Decretum*.
+Publications of the Center for Medieval and Renaissance Studies,
+U.C.L.A., 5. Berkeley: University of California Press, 1972.
 
 </div>
 
@@ -625,11 +702,26 @@ Cambridge University Press, 1997.
 
 </div>
 
+<div id="ref-mclaughlin_summa_1952" class="csl-entry">
+
+McLaughlin, Terence P., ed. *The Summa Parisiensis on the Decretum
+Gratiani*. Toronto: Pontifical Institute of Mediaeval Studies, 1952.
+
+</div>
+
 <div id="ref-noonan_gratian_1979" class="csl-entry">
 
 Noonan, John T. “Gratian Slept Here: The Changing Identity of the Father
 of the Systematic Study of Canon Law.” *Traditio* 35 (January 1979):
 145–72.
+
+</div>
+
+<div id="ref-pennington_biography_2018" class="csl-entry">
+
+Pennington, Kenneth. “The Biography of Gratian, the Father of Canon
+Law.” In *A Service Beyond All Recompense*, edited by Kurt Martens,
+359–92. Catholic University of America Press, 2018.
 
 </div>
 
@@ -640,11 +732,25 @@ Aalen: Scientia Verlag, 1965.
 
 </div>
 
+<div id="ref-singer_summa_1963" class="csl-entry">
+
+Singer, Heinrich. *Summa Decretorum*. Aalen : Paderborn: Scientia Verlag
+; F. Schöningh, 1963.
+
+</div>
+
 <div id="ref-somerville_prefaces_1998" class="csl-entry">
 
 Somerville, Robert, and Bruce Clark Brasington, eds. *Prefaces to Canon
 Law Books in Latin Christianity: Selected Translations, 500-1245*. New
 Haven, Conn: Yale University Press, 1998.
+
+</div>
+
+<div id="ref-vetulani_gratien_1990" class="csl-entry">
+
+Vetulani, Adam. *Sur Gratien et les Décrétales*. Collected studies ;
+CS308. Aldershot, Hampshire: Variorum, 1990.
 
 </div>
 
@@ -1069,6 +1175,139 @@ Alger's *dicta* and italics for the canons, the opposite of the
 convention adopted by Friedberg and maintained by Winroth.
 
 [43] Winroth, *The Making of Gratian’s Decretum*, 187.
+
+[44] Rufinus and Stephen of Tournai describe the tripartite division in
+exactly the same words: "librum suum in tribus partibus distinguit,
+quarum primam ministeriis, secundam negotiis, tertiam ecclesiasticis
+deputat sacramentis." (Heinrich Singer, *Summa Decretorum* (Aalen :
+Paderborn: Scientia Verlag ; F. Schöningh, 1963), 5) "he divides his
+book into three parts, the first of which he devotes to ecclesiastical
+ministries, the second to \[ecclesiastical\] business, and the third to
+ecclesiastical sacraments." (Somerville and Brasington, *Prefaces to
+Canon Law Books in Latin Christianity*, 192–93) (Rufinus) "Harum primam
+ministeriis, secundam negotiis, tertiam ecclesiasticis deputat
+sacramentis." (Schulte, *Die summa über das Decretum Gratiani*, 6) "The
+first of these parts is devoted to ecclesiastical ministries, the second
+to ecclesiastical problems, the third to ecclesiastical sacraments."
+(Somerville and Brasington, *Prefaces to Canon Law Books in Latin
+Christianity*, 201) (Stephen of Tournai) (Brasington translated the
+preface of Rufinus, Somerville that of Stephen of Tournai. (Somerville
+and Brasington, *Prefaces to Canon Law Books in Latin Christianity*,
+vii). There is no indication as to why Somerville chose to translate
+*negotiis* as "problems" rather than "business".)
+
+Given the probable dates of the *summae* of Rufinus (1164) and Stephen
+of Tournai (1165/66), it is just possible that Stephen got the wording
+from the preface to the *Summa* of Rufinus. Kenneth Pennington,
+[Rufinus](http://amesfoundation.law.harvard.edu/BioBibCanonists/Report_Biobib2.php?record_id=a492)
+and [Stephanus
+Tornacensis](http://amesfoundation.law.harvard.edu/BioBibCanonists/Report_Biobib2.php?record_id=a502),
+*Bio-Bibliographical Guide to Medieval and Early Modern Jurists.*
+Stephen, however, had been a student of Rufinus in Bologna, and it seems
+more likely that this is something he had heard Rufinus say in lecture.
+**Kenneth Pennington, "Étienne of Tournai".**
+
+[45] "In 1933 two scholars, Franz Gillmann and Adam Vetulani, concluded
+independently that Gratian himself did not introduce the division of the
+Distinctiones into the first part of the Decretum. They attributed the
+division to the members of the schools, suggesting that Paucapalea, the
+first decretist, may have made it." Stanley Chodorow, *Christian
+Political Theory and Church Politics in the Mid-Twelfth Century; the
+Ecclesiology of Gratian’s Decretum*, Publications of the Center for
+Medieval and Renaissance Studies, U.C.L.A., 5 (Berkeley: University of
+California Press, 1972), 15. Adam Vetulani, *Sur Gratien et les
+Décrétales*, Collected studies ; CS308. (Aldershot, Hampshire: Variorum,
+1990). "Distinctiones apposuit in prima parte et ultima Paucapalea ..."
+Terence P. McLaughlin, ed., *The Summa Parisiensis on the Decretum
+Gratiani* (Toronto: Pontifical Institute of Mediaeval Studies, 1952), 1.
+(Paucapalea arranged the distinctions in the first part and the last,
+trans. PLE)
+
+[46] Kenneth Pennington, “The Biography of Gratian, the Father of Canon
+Law,” in *A Service Beyond All Recompense*, ed. Kurt Martens (Catholic
+University of America Press, 2018), 366.
+
+[47] Somerville and Brasington, *Prefaces to Canon Law Books in Latin
+Christianity*, 193.
+
+[48] Distinctions 1-20 are conventionally referred to by modern scholars
+as the treatise on laws (*tractatus de legibus*). I cannot find an
+internal reference to it in the *Decretum* under that title.
+
+[49] There are five internal references to the *tractatus ordinandorum*
+in the vulgate *Decretum*:  
+C.1 q.7 d.p.c.6 "Item: 'Priscis igitur, etc.' Require supra in tractatu
+ordinandorum." (first recension, Friedberg 1.430): reference to D.55 c.1
+(first recension, Friedberg 1.215).  
+C.3 q.1 d.p.c.7 "Unde supra in tractatu ordinandorum: 'Si quis pecunia
+uel gratia humana, seu populari uel militari tumultu, etc.'" (second
+recension, Friedberg 1.507): reference to D.79 c.9 (first recension,
+Friedberg 1.278).  
+C.9 q.3 c.15 (inscription) "ut supra in tractatu ordinandorum, ubi
+agitur de obedientia minorum erga maiores." (second recension, Friedberg
+1.647): no canon incipit is provided, but this appears to be a reference
+to D.93 c.9 (rubric): "Maioribus minores obedientiam exhibeant." (second
+recension, Friedberg 1.321). **(Reference to epilogue.)**  
+C.16 q.1 d.p.c.40 "Hoc idem datur intelligi ex uerbis B. Siluestri, qui
+obedientiam minorum erga maiores assignans ait: 'Abbas hostiario,
+monachus abbati sit subditus,' supra in tractatu ordinandorum." (second
+recension, Friedberg 1.773): this also appears to be a reference to D.93
+c.5. (second recension, Friedberg 1.321). C.16 q.1 d.p.c.40 is a
+first-recension *dictum post* that was expanded in the second recension.
+The reference to the second-recension chapter D.93 c.5 is in the text
+added to the *dictum* in the second recension. **(Reference to
+epilogue.)**  
+*de Cons*. D.1 d.p.c.50 "Item Pelagius: 'Dilectionis tuae rescripta.'
+Require in tractatu ordinandorum." (Friedberg 1.1303): reference to D.76
+c.12 (first recension, Friedberg 1.271). Note that this reference occurs
+in one of only two substantive *dicta post* in *de Cons*.
+
+There is one additional internal reference to this treatise under the
+title *tractatus de promotionibus clericorum*.  
+C.16 q.1 d.p.c.20 "Gelasius tamen (sicut in tractatu de promotionibus
+clericorum inuenitur) in capitulo illo: 'Monachus nouicius, etc.'
+permittit illos ex dispensatione defensores fieri." (first recension,
+Friedberg 1.766): reference to D.77 c.9 (first recension, Friedberg
+1.274)
+
+[50] **Placeholder for footnote c.**
+
+[51] C.1 q.1 d.p.c.96 "Unde etiam ab ecclesia Romana repudiatur, et a
+Deo fuisse percussus legitur in gestis Romanorum Pontificum hoc modo:
+'Anastasius secundus natione Romanus, etc.' Require retro in tractatu
+decretalium epistolarum." (first recension, Friedberg 1.392) refers to
+D.19 c.9 (first recension, Friedberg 1.63). Use of the title "treatise
+of decretal letters" strongly suggests that this is to be read as a
+specific reference to a self-contained text corresponding to
+distinctions 19-20 rather than to the treatise on laws generally.
+
+[52] All of the empty questions contain a *dictum ante* (see below) in
+the vulgate *Decretum*, but in three of the four cases it was added only
+in the second recension: C.11 q.2 d.a.c.1, C.17 q.3 d.a.c.1, and C.22
+q.3 d.a.c.1.
+
+[53] The cases can be grouped thematically: simony (C.1), procedure
+(CC.2-6), other (CC.7-10), other (CC.11-15), monastic (CC.16-20), other
+(CC.21-22), heresy (CC.23-26), and marriage (CC.27-36). The thematic
+groupings are to some extent a matter of opinion. Anders Winroth
+referred me to Alfred Beyer's groupings which I have found useful.
+Alfred Beyer, *Lokale Abbreviationen des Decretum Gratiani: Analyse und
+Vergleich der Dekretabbreviationen "Omnes leges aut divine" (Bamberg),
+"Humanum genus duobus regitur" (Pommersfelden) und "De his qui intra
+claustra monasterii consistunt" (Lichtenthal, Baden-Baden)*, Bamberger
+theologische Studien ; Bd. 6 (Frankfurt am Main ; PLang, 1998), 17.
+
+[54] Winroth, *The Making of Gratian’s Decretum*, 5.
+
+[55] Three early manuscripts (Gt, Pf, and Tr) contain the gloss:
+"*Concordia discordantium canonum iuxta determinationem Gratiani
+episcopi quae in duas partes principaliter est divisa* (The agreement of
+disagreeing canons according to the determination of Bishop Gratian,
+which is principally divided into two parts.)" Gt = Ghent, Bibl. der
+Rijksuniversiteit 55; Pf = Paris, Bibl. Nationale lat. 3884 I and II;
+and Tr = Trier, Stadtbibl. 906 (1141). See Noonan, “Gratian Slept Here”,
+154; and Pennington, “The Biography of Gratian, the Father of Canon
+Law”, 382.
 
 <div align="center">
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
