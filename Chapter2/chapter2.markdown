@@ -519,6 +519,22 @@ widely-circulated second-recension version, as indicated by glosses
 found in the Gt, Pf, and Tr manuscripts describing Gratian's work as
 "principally divided into two parts."[55]
 
+### Distinctions
+
+Parts are internal nodes that contain only other internal nodes
+(distinctions and cases). Chapters are internal nodes that contain only
+terminal or leaf nodes (inscriptions, rubrics, canons, and *dicta post
+canones*). The remaining types of containers, distinctions, cases, and
+questions, contain both terminal or leaf nodes (*dicta ante canones* and
+*dicta initialia* or *themata*) and internal nodes (cases contain
+questions, distinctions and questions contain chapters).
+
+Distinctions are the highest-order containers in Part I, *de Pen*., and
+Part III. They contain a single terminal node (the *dictum ante*),
+followed by an ordered sequence of one or more internal nodes (the
+chapters) containing inscription, rubric, canon and *dictum post*
+terminal nodes.[56]
+
 # Bibliography
 
 <div id="refs" class="references csl-bib-body hanging-indent">
@@ -1308,6 +1324,8 @@ Rijksuniversiteit 55; Pf = Paris, Bibl. Nationale lat. 3884 I and II;
 and Tr = Trier, Stadtbibl. 906 (1141). See Noonan, “Gratian Slept Here”,
 154; and Pennington, “The Biography of Gratian, the Father of Canon
 Law”, 382.
+
+[56] Add footnote restating distinction between canon and chapter.
 
 <div align="center">
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.

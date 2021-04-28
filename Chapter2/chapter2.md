@@ -552,6 +552,23 @@ second-recension version, as indicated by glosses found in the Gt,
 Pf, and Tr manuscripts describing Gratian's work as "principally
 divided into two parts."[^55]
 
+### Distinctions
+
+Parts are internal nodes that contain only other internal nodes
+(distinctions and cases). Chapters are internal nodes that contain
+only terminal or leaf nodes (inscriptions, rubrics, canons, and
+*dicta post canones*). The remaining types of containers, distinctions,
+cases, and questions, contain both terminal or leaf nodes (*dicta
+ante canones* and *dicta initialia* or *themata*) and internal nodes
+(cases contain questions, distinctions and questions contain
+chapters).
+
+Distinctions are the highest-order containers in Part I, *de Pen*.,
+and Part III. They contain a single terminal node (the *dictum
+ante*), followed by an ordered sequence of one or more internal
+nodes (the chapters) containing inscription, rubric, canon and
+*dictum post* terminal nodes.[^56]
+
 [^2]: "Given this lack of reliable extrinsic evidence, our best
 source of evidence about Gratian is his book(s)." [@wei_gratian_2016,
 33].
@@ -972,4 +989,6 @@ Gratian, which is principally divided into two parts.)" Gt = Ghent,
 Bibl. der Rijksuniversiteit 55; Pf = Paris, Bibl. Nationale lat.
 3884 I and II; and Tr = Trier, Stadtbibl. 906 (1141). See
 @noonan_gratian_1979, 154; and @pennington_biography_2018, 382.
+
+[^56]: Add footnote restating distinction between canon and chapter.
 
