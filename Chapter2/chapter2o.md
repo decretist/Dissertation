@@ -49,14 +49,15 @@ in Part II makes reference to a treatise of decretal letters
 distinctions 19-20 specifically rather than to the *tractatus de
 legibus* generally.[^8]
 
----
-
 The second part consists of 36 cases, which are further subdivided
 into 168 questions. Four of the questions, C.11 q.2, C.17 q.3, C.22
 q.3, and C.29 q.1 are empty, meaning that they contain no chapters.[^9]
 C.33 q.3, encapsulates a treatise on penance (*de Penitentia*,
 abbreviated *de Pen.*) *De Penitentia* is structurally similar to
-Part I, and is divided into seven distinctions.[^10]
+Part I, and is divided into seven distinctions. Certain sequences
+of cases in Part II comprise thematic groups, notably: simony (case
+1), procedure (cases 2-6), monastic life (cases 16-20), heresy
+(cases 23-26), and marriage (cases 27-36).[^10]
 
 The third part of the *Decretum* is a treatise on sacraments (*de
 Consecratione*, abbreviated *de Cons.*) divided into five
