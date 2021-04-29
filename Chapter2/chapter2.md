@@ -578,12 +578,12 @@ conventionally abbreviated d.init.). The case statements are a
 subset of the *dicta* that are found only in, and that are closely
 tied to the organization of, Part II. Medieval and modern scholarship
 agree in accepting the *dicta initialia*, like the *dicta ante* and
-*dicta post*, as having been written by Gratian.[^a] Cases contain
+*dicta post*, as having been written by Gratian.[^57] Cases contain
 a single terminal or leaf node (the *dictum initiale*) followed by
 an ordered sequence of one or more internal nodes, the questions,
 which in turn contain chapters. The depth of Part II, considered
 as a tree-structured document composed of nested containers, is one
-greater than the depth of Parts I and III.[^b]
+greater than the depth of Parts I and III.[^58]
 
 The case statements all follow a very regular formal pattern. They
 are introduced by a hypothetical narrative that is followed by an
@@ -595,7 +595,7 @@ case statement) demonstrates the pattern:
 priori condicioni renuncians, transtulit se ad alium, et nupsit
 illi; ille, cui prius desponsata fuerat, repetit eam. Hic primum
 queritur, an coniugium possit esse inter uouentes? Secundo, an
-liceat, sponsae a sponso recedere, et alii nubere?*[^d] (A man
+liceat, sponsae a sponso recedere, et alii nubere?*[^59] (A man
 having [made] a vow of chastity betrothed a wife to himself; she,
 renouncing her previous agreement, gave herself to another and
 married him; he to whom she had been first betrothed tried to get
@@ -607,7 +607,7 @@ marry another? [trans. PLE])
 The transition between the narrative section and the enumeration
 of questions is clearly signalled in each of the case statements
 by the use of one of a small number of formulaic markers, of which
-*Hic primum queritur* is the most common.[^c]
+*Hic primum queritur* is the most common.[^60]
 
 The cases statements appear to have been in some sense lesson plans,
 providing the outline for Gratian's classroom presentation of
@@ -638,7 +638,7 @@ children by their university-educated, urban professional parents,
 the intense concern of "a certain man" in the first case statement
 to secure a good ecclesiastical career for his son (and his willingness
 to resort more than once to bribery in order to realize that
-objective) has a distinctly contemporary feel to it.[^e]
+objective) has a distinctly contemporary feel to it.[^61]
 
 **The key finding of the dissertation is that the case statements
 were written by someone other than the author(s) of the first-recension
@@ -1067,7 +1067,7 @@ Bibl. der Rijksuniversiteit 55; Pf = Paris, Bibl. Nationale lat.
 
 [^56]: Add footnote restating distinction between canon and chapter.
 
-[^a]: I continue here, as I have throughout Chapter 2, to use the
+[^57]: I continue here, as I have throughout Chapter 2, to use the
 name Gratian as a conventional label for the author or authors of
 the *Decretum*, while deferring judgement as to whether the name
 stands for a single individual or many. Anticipating Chapter 3, the
@@ -1075,19 +1075,19 @@ name Gratian can be taken to stand for someone performing the
 author-function (Foucault) with respect to a discrete selection of
 text under consideration (e.g., a particular *dictum*).
 
-[^b]: In Parts I and II, the part contains distinctions which contain
+[^58]: In Parts I and II, the part contains distinctions which contain
 chapters (depth = 3). In Part II, the part contains cases which
 contain questions which contain chapters (depth = 4).
 
-[^d]: Friedberg, 1.1046.
+[^59]: Friedberg, 1.1046.
 
-[^c]: The formulaic transition markers used in the hypothetical
+[^60]: The formulaic transition markers used in the hypothetical
 case statements are: *Hic primum queritur* (15), *Queritur* (8),
 *Modo primum queritur* (3), *Nunc primum queritur* (3), *Primo
 queritur* (2), *Primum queritur* (2), *Hic primo queritur* (1),
 *Modo queritur* (1), *Queritur autem* (1).
 
-[^e]: C.1 d.init., Friedberg 1.357. Although Gratian does not say
+[^61]: C.1 d.init., Friedberg 1.357. Although Gratian does not say
 so explicitly, I think that we can reasonably infer that the father
 is an urban merchant or professional, rather than a member of the
 landed aristocracy, since his wealth is in a form sufficiently

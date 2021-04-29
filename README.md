@@ -8,7 +8,7 @@
 
 - [Chapter 0](Chapter0/chapter0.markdown) (13 April 2021) 25 pages
 - [Chapter 1](Chapter1/chapter1.markdown) (13 April 2021) 30 pages
-- [Chapter 2](Chapter2/chapter2.markdown) (28 April 2021) 41 pages
+- [Chapter 2](Chapter2/chapter2.markdown) (29 April 2021) 46 pages
   - [Organization](Chapter2/chapter2o.markdown) (29 April 2021)
 - Chapter 3
 - [Chapter 4](Chapter4/chapter4.markdown) (28 July 2020)
