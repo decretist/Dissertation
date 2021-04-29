@@ -179,7 +179,7 @@ As I turn my attention to the collection and selection, presentation,
 and organization of the canonical texts found in the *Decretum*, I
 will continue to use the name Gratian as a conventional label for
 its author or authors, while withholding judgment as to whether one
-person or many stand behind the name
+person or many stand behind the name.
 
 ## Collection and Selection
 

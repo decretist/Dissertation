@@ -5,16 +5,16 @@
 Cases (*causae*) are the highest-order containers in the second part of
 the *Decretum*. Each of the 36 cases in Part II is introduced by a
 hypothetical case statement (*thema* or *dictum initiale*,
-conventionally abbreviated d.init.). The case statements are a
-special-case subset of *dicta* that are found only in, and that are
-closely tied to the organization of, Part II. Medieval and modern
-scholarship agree in accepting the *dicta initialia*, like the *dicta
-ante* and *dicta post*, as having been written by Gratian.[1] Cases
-contain a single terminal or leaf node (the *dictum initiale*) followed
-by an ordered sequence of one or more internal nodes, the questions,
-which in turn contain chapters. The depth of Part II, considered as a
-tree-structured document composed of nested containers, is one greater
-than the depth of Parts I and III.[2]
+conventionally abbreviated d.init.). The case statements are a subset of
+the *dicta* that are found only in, and that are closely tied to the
+organization of, Part II. Medieval and modern scholarship agree in
+accepting the *dicta initialia*, like the *dicta ante* and *dicta post*,
+as having been written by Gratian.[1] Cases contain a single terminal or
+leaf node (the *dictum initiale*) followed by an ordered sequence of one
+or more internal nodes, the questions, which in turn contain chapters.
+The depth of Part II, considered as a tree-structured document composed
+of nested containers, is one greater than the depth of Parts I and
+III.[2]
 
 The case statements all follow a very regular formal pattern. They are
 introduced by a hypothetical narrative that is followed by an
@@ -26,7 +26,7 @@ statement) demonstrates the pattern:
 > condicioni renuncians, transtulit se ad alium, et nupsit illi; ille,
 > cui prius desponsata fuerat, repetit eam. Hic primum queritur, an
 > coniugium possit esse inter uouentes? Secundo, an liceat, sponsae a
-> sponso recedere, et alii nubere?* (A man having \[made\] a vow of
+> sponso recedere, et alii nubere?*[3] (A man having \[made\] a vow of
 > chastity betrothed a wife to himself; she, renouncing her previous
 > agreement, gave herself to another and married him; he to whom she had
 > been first betrothed tried to get her back. Here it is first asked
@@ -37,10 +37,12 @@ statement) demonstrates the pattern:
 The transition between the narrative section and the enumeration of
 questions is clearly signalled in each of the case statements by the use
 of one of a small number of formulaic markers, of which *Hic primum
-queritur* is the most common.[3]
+queritur* is the most common.[4]
 
-**Gratian intended the case statements to be memorable, not necessarily
-realistic.**
+The cases statements appear to have been in some sense lesson plans,
+providing the outline for Gratian's classroom presentation of canonical
+sources. As such, they were intended to be memorable rather than
+realistic.
 
 In D.28, d.init., for example, a married infidel, by which Gratian means
 a Muslim, converts to Christianity. As a result, his wife separates from
@@ -54,7 +56,7 @@ man can take another wife if his previous wife is still alive, and
 whether someone who had one wife before he was baptized and another wife
 after he was baptized should be considered a bigamist.
 
-Some case statement however reflect an outlook and a set of concerns
+Some case statements, however, reflect an outlook and a set of concerns
 that Gratian's benefice-seeking students probably understood as
 realistic, and that university-educated urban professionals of the
 present day might not find difficult to identify with. At a time when
@@ -65,9 +67,7 @@ university-educated, urban professional parents, the intense concern of
 "a certain man" in the first case statement to secure a good
 ecclesiastical career for his son (and his willingness to resort more
 than once to bribery in order to realize that objective) has a
-distinctly contemporary feel to it.[4]
-
-------------------------------------------------------------------------
+distinctly contemporary feel to it.[5]
 
 **The key finding of the dissertation is that the case statements were
 written by someone other than the author(s) of the first-recension
@@ -89,7 +89,7 @@ There are 8,371 words in the first-recension *dicta ante* in Part II.
 Four *dicta ante* (C.11 q.2 d.a.c.1, C.17 q.2 d.a.c.1, C.17 q.3 d.a.c.1,
 and C.22 q.3 d.a.c.1) were added in their entirety to the second
 recension, presumably because the questions they introduced were not
-added to the *Decretum* until the second recension.[5] Two
+added to the *Decretum* until the second recension.[6] Two
 first-recension *dicta ante* were modified in the second recension: 23
 words were added to C.21 q.3 d.a.c.1, and 3 words were added to C.29 q.1
 d.a.c.1.In total, only 202 words were added to the *dicta ante* in the
@@ -97,26 +97,33 @@ second recension. Thus, the *dicta ante* in Part II, like the case
 statements, are quite stable, displaying very little change between the
 first and second recension.
 
-[1] i.e., the person performing the author-function at that place in the
-text.
+[1] I continue here, as I have throughout Chapter 2, to use the name
+Gratian as a conventional label for the author or authors of the
+*Decretum*, while deferring judgement as to whether the name stands for
+a single individual or many. Anticipating Chapter 3, the name Gratian
+can be taken to stand for someone performing the author-function
+(Foucault) with respect to a discrete selection of text under
+consideration (e.g., a particular *dictum*).
 
 [2] In Parts I and II, the part contains distinctions which contain
 chapters (depth = 3). In Part II, the part contains cases which contain
 questions which contain chapters (depth = 4).
 
-[3] The formulaic transition markers used in the hypothetical case
+[3] Friedberg, 1.1046.
+
+[4] The formulaic transition markers used in the hypothetical case
 statements are: *Hic primum queritur* (15), *Queritur* (8), *Modo primum
 queritur* (3), *Nunc primum queritur* (3), *Primo queritur* (2), *Primum
 queritur* (2), *Hic primo queritur* (1), *Modo queritur* (1), *Queritur
 autem* (1).
 
-[4] C.1 d.init., Friedberg 1.357. Although Gratian does not say so
+[5] C.1 d.init., Friedberg 1.357. Although Gratian does not say so
 explicitly, I think that we can reasonably infer that the father is an
 urban merchant or professional, rather than a member of the landed
 aristocracy, since his wealth is in a form sufficiently liquid to be
 readily convertible into cash bribes.
 
-[5] **Confirm**. If these questions are missing altogether in the first
+[6] **Confirm**. If these questions are missing altogether in the first
 recension, what is the relationship to the questions as stated in the
 initial case statement?
 
