@@ -11,8 +11,8 @@
 - [Chapter 2](Chapter2/chapter2.markdown) (29 April 2021) 46 pages
   - [Organization](Chapter2/chapter2o.markdown) (29 April 2021)
 - Chapter 3
-- [Chapter 4](Chapter4/chapter4.markdown) (28 July 2020)
-  - [Principal component analysis](Chapter4/pca.markdown) (25 March 2021)
+- [Chapter 4](Chapter4/chapter4.markdown) (28 July 2020) 80 pages
+  - [Principal component analysis](Chapter4/pca.markdown) (25 March 2021) 26 pages
 - [Conclusion](Conclusion/conclusion.markdown) (very rought draft)
 
 ### Appendices
