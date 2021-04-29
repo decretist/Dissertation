@@ -498,7 +498,7 @@ form is a useful first step toward understanding how stylometric
 analysis works in practice. For the purpose of the following
 discussion, the *dicta* will be divided into four samples:
 
-+ the hypothetical case statements (*dicta initiales* or *themata*) that introduce the thirty-six cases in Part II of the *Decretum*,
++ the hypothetical case statements (*dicta initialia* or *themata*) that introduce the thirty-six cases in Part II of the *Decretum*,
 + the first-recension *dicta* from Parts I and II of the *Decretum*,
 + the first- and second-recension *dicta* from *de Penitentia*, and
 + the second-recension *dicta* from Parts I and II of the *Decretum*.
