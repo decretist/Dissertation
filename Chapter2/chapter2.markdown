@@ -380,8 +380,6 @@ important filters---the ninth-century pseudo-Isidorian forgers and the
 eleventh-century Gregorian reformers---had had extremely strong
 ideological orientations.
 
-------------------------------------------------------------------------
-
 ## Presentation
 
 Having considered how Gratian sourced and collected his materials---the
@@ -391,24 +389,26 @@ collected. Here, it is important to distinguish between presentation,
 the small-grain or micro structure of the *Decretum*, and organization,
 the large-grain or macro structure of the *Decretum*. The organization
 of the *Decretum* is very regular, so structurally regular, in fact,
-that Reuter and Silagi's OCP e-text of the Friedberg edition can be
-taken apart using a recursive descent parser[34] and should be thought
-of as a sequence of hierarchically nested containers. Taking a bottom-up
-approach, we will first consider the presentation or small-grain
-structure, and start with chapters (*capitula*), atomic containers out
-of which the higher-order containers in the *Decretum*---parts,
-distinctions, cases, and questions---are constructed.
+that Reuter and Silagi's Oxford Concordance Program (OCP) e-text of the
+Friedberg edition can be taken apart using a recursive descent
+parser[34] and should be thought of as a sequence of hierarchically
+nested containers. Taking a bottom-up approach, we will first consider
+the presentation or small-grain structure, and start with chapters
+(*capitula*), atomic containers out of which the higher-order containers
+in the *Decretum*---parts, distinctions, cases, and questions---are
+constructed.
 
 Chapters in Parts I and II of the *Decretum* typically consist of an
-inscription, a rubric, a canon text, and a *dictum post canonem*,
-literally meaning "something said after the canon" and usually
-abbreviated d.p.c. There are almost no *dicta post canones* in Part III,
-which is in this respect much more similar to the formal source
-collections Gratian relied on than to the rest of the *Decretum*.[35]
-The discussion that follows focuses on inscriptions, rubrics, and *dicta
-post canones*; canon texts have been discussed in the section above on
-the collection and selection of canons, and nothing further need be
-added here.
+inscription, a rubric, a canon, and a *dictum post canonem*, literally
+meaning "something said after the canon" and usually abbreviated d.p.c.
+There are almost no *dicta post canones* in Part III, which is in this
+respect much more similar to the formal source collections Gratian
+relied on than to the rest of the *Decretum*.[35] The discussion that
+follows focuses on inscriptions, rubrics, and *dicta post canones*;
+canons have been discussed in the preceding section on the collection
+and selection, and nothing further need be added here.
+
+### Inscriptions
 
 Most canons have an inscription, which identifies the ultimate source of
 authority for that canon, usually a papal decretal, a canon from an
@@ -418,6 +418,8 @@ formal sources, rather than material sources like the register of Pope
 Gregory I,[37] the inscription affixed to a canon was sometimes
 historically inaccurate, especially if the text in question was one
 derived from the Pseudo-Isidorian collections.
+
+### Rubrics
 
 Canons are often, though not always, introduced by a rubric. The name
 refers to the fact that rubrics were conventionally written in red
@@ -448,18 +450,20 @@ choice of wording, means that they could potentially be useful evidence
 in the search for new topics introduced between the first and second
 recensions.
 
+### *Dicta post canones*
+
 Chapters in the formal sources from which Gratian selected his material
-typically included an inscription, a rubric, and a canon text. Gratian
-added a *dictum post canonem* containing his own commentary on the
-preceding canon or series of canons, a feature he borrowed from Alger of
-Liège's theological treatise *De misericordia et iustitia* but without
-immediate precedent in the canonical literature.[42] The *dicta post
-canones* are statements that Gratian made on his own authority as a
-jurist, carry the thread of his argument, and do his interpretive work.
-The *dicta* are texts that Gratian (whether we think of him as one
-person or many) actually wrote, and are therefore subject to analysis
-for authorship attribution. "The *dicta* in Gratian's *Decretum* bring
-the reader closer to its author than any other part of the text."[43]
+typically included an inscription, a rubric, and a canon. Gratian added
+a *dictum post canonem* containing his own commentary on the preceding
+canon or series of canons, a feature he borrowed from Alger of Liège's
+theological treatise *De misericordia et iustitia* but without immediate
+precedent in the canonical literature.[42] The *dicta post canones* are
+statements that Gratian made on his own authority as a jurist, carry the
+thread of his argument, and do his interpretive work. The *dicta* are
+texts that Gratian (whether we think of him as one person or many)
+actually wrote, and are therefore subject to analysis for authorship
+attribution. "The *dicta* in Gratian's *Decretum* bring the reader
+closer to its author than any other part of the text."[43]
 
 ## Organization
 
@@ -486,7 +490,8 @@ Gratian.[45] The division seems to have taken some time to reach its
 final form: Pennington has pointed out that there were 99-distinction
 versions of the first recension,[46] and Rufinus writing in the
 mid-1160s presumably about the second recension describes Part I as
-"having been completed in one hundred distinctions."[47]
+"*toto tractatu in centum distinctionibus exacto* (having been completed
+in one hundred distinctions.)"[47]
 
 Modern scholarship conventionally divides Part I into a treatise on laws
 (*tractatus de legibus*) corresponding to distinctions 1-20,[48] a
@@ -515,9 +520,9 @@ Consecratione*, abbreviated *de Cons.*) divided into five
 distinctions.[54] That *de Consecratione* is a very late addition to the
 *Decretum* is not in doubt---it is absent from all first-recension
 manuscripts, nor was it included in the earliest manuscripts of the more
-widely-circulated second-recension version, as indicated by glosses
-found in the Gt, Pf, and Tr manuscripts describing Gratian's work as
-"principally divided into two parts."[55]
+widely-circulated second recension, as indicated by glosses found in
+Ghent (Gt), Paris (Pf), and Trier (Tr) manuscripts describing Gratian's
+work as "principally divided into two parts."[55]
 
 ### Distinctions
 
@@ -529,11 +534,11 @@ questions, contain both terminal or leaf nodes (*dicta ante canones* and
 *dicta initialia* or *themata*) and internal nodes (cases contain
 questions, distinctions and questions contain chapters).
 
-Distinctions are the highest-order containers in Part I, *de Pen*., and
-Part III. They contain a single terminal node (the *dictum ante*),
-followed by an ordered sequence of one or more internal nodes (the
-chapters) containing inscription, rubric, canon and *dictum post*
-terminal nodes.[56]
+Distinctions (*distinctiones*) are the highest-order containers in Part
+I, *de Pen*., and Part III. They contain a single terminal node (the
+*dictum ante*), followed by an ordered sequence of one or more internal
+nodes (the chapters) containing inscription, rubric, canon and *dictum
+post* terminal nodes.[56]
 
 ### Cases
 
@@ -548,8 +553,8 @@ as having been written by Gratian.[57] Cases contain a single terminal
 or leaf node (the *dictum initiale*) followed by an ordered sequence of
 one or more internal nodes, the questions, which in turn contain
 chapters. The depth of Part II, considered as a tree-structured document
-composed of nested containers, is one greater than the depth of Parts I
-and III.[58]
+composed of hierarchically nested containers, is one greater than the
+depth of Parts I and III.[58]
 
 The case statements all follow a very regular formal pattern. They are
 introduced by a hypothetical narrative that is followed by an
@@ -604,18 +609,14 @@ ecclesiastical career for his son (and his willingness to resort more
 than once to bribery in order to realize that objective) has a
 distinctly contemporary feel to it.[61]
 
-**The key finding of the dissertation is that the case statements were
-written by someone other than the author(s) of the first-recension
-*dicta*.**
-
 ### Questions
 
-Questions are second-order internal nodes subordinate to cases, and are
-found only in Part II of the *Decretum*. They are contained by a case
-and in turn contain chapters. They are formally identical with
-distinctions in Part I, *de Pen*., and Part III, that is, they contain a
-single terminal node (the *dictum ante*), followed by an ordered
-sequence of one or more internal nodes (the chapters) containing
+Questions (*quaestiones*) are second-order internal nodes subordinate to
+cases, and are found only in Part II of the *Decretum*. They are
+contained by a case and in turn contain chapters. They are formally
+identical with distinctions in Part I, *de Pen*., and Part III, that is,
+they contain a single terminal node (the *dictum ante*), followed by an
+ordered sequence of one or more internal nodes (the chapters) containing
 inscription, rubric, canon and *dictum post* terminal nodes.
 
 Because questions are contained by and subordinate to cases, the *dicta
@@ -626,7 +627,8 @@ organization of Gratian's arguments in Part I, *de Pen*. and Part III to
 which the *dicta ante* in those parts can refer. For each *dictum ante*
 in Part II, on the other hand, there is a corresponding item from the
 list of enumerated question in the *thema* for the case in which it is
-contained.[62]
+contained.[62] The *dicta ante* restate and expand upon the questions in
+the *themata* that present the outline for the case.
 
 There are 8,371 words in the first-recension *dicta ante* in Part II.
 Four *dicta ante* (C.11 q.2 d.a.c.1, C.17 q.2 d.a.c.1, C.17 q.3 d.a.c.1,
@@ -639,6 +641,12 @@ d.a.c.1.In total, only 202 words were added to the *dicta ante* in the
 second recension. Thus, the *dicta ante* in Part II, like the case
 statements, are quite stable, displaying very little change between the
 first and second recension.
+
+## Conclusion
+
+**The key finding of the dissertation is that the case statements were
+written by someone other than the author(s) of the first-recension
+*dicta*.**
 
 # Bibliography
 
@@ -1180,32 +1188,37 @@ in Seventy-Four Titles: A Canon Law Manual of the Gregorian Reform*,
 Mediaeval Sources in Translation 22 (Toronto: Pontifical Institute of
 Mediaeval Studies, 1980), 15)
 
-[34] See Appendix 2 for the Python code listing for my implementation of
-the recursive-descent parser. Thanks to Patricio Simari of the
+[34] See Appendix 2 for the Python 3 code listing for my implementation
+of the recursive-descent parser. Thanks to Patricio Simari of the
 Electrical Engineering and Computer Science Department at The Catholic
-University of America, who provided helpful suggestions on parser
-implementation. In Computer Science-theoretic terms, the parsed
-*Decretum* can be thought of as an ordered tree, with parts,
-distinctions, cases, and questions as interior nodes. A canon or
-chapter, properly conceptualized as a node encapsulating rubrics,
-inscriptions, canon texts, and *dicta post canones*, is also an internal
-node. A *dictum* (*ante* or *post canonem*, or *initiale*) is a terminal
-node. So are rubrics, inscriptions, and canon texts. A case statement
-(*dictum initiale*) is always the first terminal node of a case. A
-*dictum ante canonem* is always the first terminal node of a distinction
-or question. The anomalous C.16 q.2 d.a.c.8 is actually the *dictum ante
-canonem* introducing a vestigial fifth question positioned between C.16
-q.2 and C.16 q.3 (see Friedberg, 1.787). The traditional notation
-misleadingly implies that d.a.c.1 is a leaf node of c.1. In fact,
-d.a.c.1 and c.1 are both child nodes at the same nesting level under one
-parent distinction or question node. A *dictum post canonem* is an
-optional, and usually final, terminal node of a canon.
+University of America, who suggested this approach to the problem. In
+terminology borrowed from the field of informatics,the parsed *Decretum*
+can be thought of as an ordered tree, with parts, distinctions, cases,
+and questions as interior nodes. A chapter, properly conceptualized as a
+node encapsulating rubrics, inscriptions, canons, and *dicta post
+canones*, is also an internal node. **(English-language scholarship on
+Gratian's *Decretum* typically uses the term *canon* to refer
+indifferently to both the container (chapter) and to the text it
+contains (canon). The following discussion uses the term *chapter* to
+refer to the container in order to reemphasize this important
+distinction.)** Any *dictum* (*ante* or *post canonem*, or *initiale*)
+is a terminal node. So are rubrics, inscriptions, and canons. A case
+statement (*dictum initiale*) is always the first terminal node of a
+case. A *dictum ante canonem* is always the first terminal node of a
+distinction or question. The anomalous C.16 q.2 d.a.c.8 is actually the
+*dictum ante canonem* introducing a vestigial fifth question positioned
+between C.16 q.2 and C.16 q.3 (see Friedberg 1.787). The traditional
+notation misleadingly implies that d.a.c.1 is a leaf node of c.1. In
+fact, d.a.c.1 and c.1 are both child nodes at the same nesting level
+under one parent distinction or question node. A *dictum post canonem*
+is an optional, and usually final, terminal node of a canon.
 
 [35] There are 11 *dicta post* (`<T P>`) tags in Part III (*de
 Consecratione*) in the Reuter and Silagi e-text of the Friedberg
 edition. Nine are really inscriptions, leaving two short *dicta post*,
 *de Cons*. D.1 d.p.c.50 (54 words) and *de Cons*. D.4 d.p.c.20 (19
-words).
+words). **With very few exceptions, I did not second-guess Reuter and
+Silagi's tagging decisions.**
 
 [36] The distinction between rubrics and *dicta* is blurry: "Gratian ...
 often melded the rubrics with the dicta." (Melodie Harris Eichbauer,
@@ -1225,8 +1238,8 @@ source in the form of the *Registrum Hadrianum*. According to more
 recent research (Landau), even these texts from the Register of Gregory
 I found in Gratian derive almost without exception from canonical
 collections predating Gratian; the direct use of the Register is
-probable in only a single case." \[C.27 q.1 c.19 (JE 1496)\] (Landau,
-“Gratian and the Decretum Gratiani,” 34).
+probable in only a single case." \[C.27 q.1 c.19 (JE 1496)\] Landau,
+“Gratian and the Decretum Gratiani”, 34.
 
 [38] Winroth observed that there are 398 *de eodem* rubrics in the
 vulgate *Decretum*, see (Anders Winroth, “Uncovering Gratian’s Original
@@ -1281,41 +1294,43 @@ Gower, 1990), 13.
 [40] Winroth, *The Making of Gratian’s Decretum*, 15, 70.
 
 [41] "Gratian rarely took his rubrics from earlier collections. Rather
-he created his own ..." (Eichbauer, “St. Gall Stiftsbibliothek 673 and
-the Early Redactions of Gratian’s Decretum,” 107)
+he created his own ..." Eichbauer, “St. Gall Stiftsbibliothek 673 and
+the Early Redactions of Gratian’s Decretum”, 107.
 
 [42] Gratian is known to have used Alger as both a source, especially in
 C.1, and, to some extent, as a methodological model. (Winroth, *The
-Making of Gratian’s Decretum*, 17, 39, 144). See Robert Kretzschmar's
-edition, (*Alger von Lüttichs Traktat "De misericordia et iustitia": ein
-kanonistischer Konkordanzversuch aus der Zeit des Investiturstreits:
-Untersuchungen und Edition*, Quellen und Forschungen zum Recht im
-Mittalter, Bd. 2 (Sigmaringen: J. Thorbecke, 1985)). Somewhat
-confusingly for Gratian scholars, Kretzschmar uses regular typeface for
-Alger's *dicta* and italics for the canons, the opposite of the
-convention adopted by Friedberg and maintained by Winroth.
+Making of Gratian’s Decretum*, 17, 39, 144). Somewhat confusingly for
+Gratian scholars, Robert Kretzschmar's edition of *De misericordia et
+iustitia* uses regular typeface for Alger's *dicta* and italics for the
+canons, the opposite of the convention adopted by Friedberg and
+maintained by Winroth. See Robert Kretzschmar, *Alger von Lüttichs
+Traktat "De misericordia et iustitia": ein kanonistischer
+Konkordanzversuch aus der Zeit des Investiturstreits: Untersuchungen und
+Edition*, Quellen und Forschungen zum Recht im Mittalter, Bd. 2
+(Sigmaringen: J. Thorbecke, 1985).
 
 [43] Winroth, *The Making of Gratian’s Decretum*, 187.
 
 [44] Rufinus and Stephen of Tournai describe the tripartite division in
-exactly the same words: "librum suum in tribus partibus distinguit,
-quarum primam ministeriis, secundam negotiis, tertiam ecclesiasticis
-deputat sacramentis." (Heinrich Singer, *Summa Decretorum* (Aalen :
-Paderborn: Scientia Verlag ; F. Schöningh, 1963), 5) "he divides his
-book into three parts, the first of which he devotes to ecclesiastical
-ministries, the second to \[ecclesiastical\] business, and the third to
-ecclesiastical sacraments." (Somerville and Brasington, *Prefaces to
-Canon Law Books in Latin Christianity*, 192–93) (Rufinus) "Harum primam
-ministeriis, secundam negotiis, tertiam ecclesiasticis deputat
-sacramentis." (Schulte, *Die summa über das Decretum Gratiani*, 6) "The
-first of these parts is devoted to ecclesiastical ministries, the second
-to ecclesiastical problems, the third to ecclesiastical sacraments."
-(Somerville and Brasington, *Prefaces to Canon Law Books in Latin
-Christianity*, 201) (Stephen of Tournai) (Brasington translated the
-preface of Rufinus, Somerville that of Stephen of Tournai. (Somerville
-and Brasington, *Prefaces to Canon Law Books in Latin Christianity*,
-vii). There is no indication as to why Somerville chose to translate
-*negotiis* as "problems" rather than "business".)
+exactly the same words. **Rufinus:** "*librum suum in tribus partibus
+distinguit, quarum primam ministeriis, secundam negotiis, tertiam
+ecclesiasticis deputat sacramentis.*" Heinrich Singer, *Summa
+Decretorum* (Aalen : Paderborn: Scientia Verlag ; F. Schöningh, 1963), 5.
+("\[H\]e divides his book into three parts, the first of which he
+devotes to ecclesiastical ministries, the second to \[ecclesiastical\]
+business, and the third to ecclesiastical sacraments.") Somerville and
+Brasington, *Prefaces to Canon Law Books in Latin Christianity*,
+192-193. **Stephen of Tournai:** "*Harum primam ministeriis, secundam
+negotiis, tertiam ecclesiasticis deputat sacramentis.*" Schulte, *Die
+summa über das Decretum Gratiani*, 6. ("The first of these parts is
+devoted to ecclesiastical ministries, the second to ecclesiastical
+problems, the third to ecclesiastical sacraments.") Somerville and
+Brasington, *Prefaces to Canon Law Books in Latin Christianity*, 201.
+(Brasington translated the preface of Rufinus, Somerville that of
+Stephen of Tournai. Somerville and Brasington, *Prefaces to Canon Law
+Books in Latin Christianity*, vii. There is no indication as to why
+Somerville chose to translate *negotiis* as "problems" rather than
+"business".)
 
 Given the probable dates of the *summae* of Rufinus (1164) and Stephen
 of Tournai (1165/66), it is just possible that Stephen got the wording
@@ -1348,8 +1363,8 @@ trans. PLE)
 Law,” in *A Service Beyond All Recompense*, ed. Kurt Martens (Catholic
 University of America Press, 2018), 366.
 
-[47] Somerville and Brasington, *Prefaces to Canon Law Books in Latin
-Christianity*, 193.
+[47] Singer, *Summa Decretorum*, 5. Somerville and Brasington, *Prefaces
+to Canon Law Books in Latin Christianity*, 193.
 
 [48] Distinctions 1-20 are conventionally referred to by modern scholars
 as the treatise on laws (*tractatus de legibus*). I cannot find an
@@ -1444,7 +1459,7 @@ consideration (e.g., a particular *dictum*).
 chapters (depth = 3). In Part II, the part contains cases which contain
 questions which contain chapters (depth = 4).
 
-[59] Friedberg, 1.1046.
+[59] Friedberg 1.1046.
 
 [60] The formulaic transition markers used in the hypothetical case
 statements are: *Hic primum queritur* (15), *Queritur* (8), *Modo primum
