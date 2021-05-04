@@ -1,3 +1,22 @@
+Authorship on any significant scale in the pre-modern world required
+wrapping a specialized and expensive scribal infrastructure around the
+figure of the author. Three examples from classical and late antiquity
+illustrate the possible ways in which this requirement could be met.
+Cicero pursued his literary ambitions with the support of highly skilled
+but unfree labor purchased out of his personal wealth, most famously his
+slave and later freedman Tiro. A wealthy patron paid for the secretarial
+staff that supported the authorial activities of Origen of Alexandria
+(†.253). Quasi-monastic members of the episcopal household of Augustine
+of Hippo (†.430) provided the scribal support that made his prodigious
+authorial output possible. The model pioneered by Augustine and his
+household in which monastic labor enabled the original production of
+texts by their authors as well as the subsequent copying and circulation
+of finished texts proved a durable one, predominant in the Latin West
+until the thirteenth century.
+
+Authorship of a text the size of Gratian's *Decretum* was therefore
+necessarily a collaborative effort.
+
 ## Gratian
 
 The starting point for all modern scholarship on Gratian himself is John
@@ -246,6 +265,147 @@ theological jurisprudence in the tradition of Gratian, based on a rich
 collection of scriptural, patristic, conciliar, and papal source texts,
 and towards a much more narrowly circumscribed technical jurisprudence
 focused exclusively on contemporary papal decretals.
+
+# Bibliography
+
+<div id="refs" class="references csl-bib-body hanging-indent">
+
+<div id="ref-van_hove_prolegomena_1945" class="csl-entry">
+
+Hove, Alphonse van. *Prolegomena ad Codicem iuris canonici*. Editio
+artera auctior et emendatior. Commentarium Lovaniense in Codicem iuris
+canonici, v. 1, t. 1. Mechlinae: H. Dessain, 1945.
+
+</div>
+
+<div id="ref-hunt_introductions_1980" class="csl-entry">
+
+Hunt, Richard William. “The Introductions to the ’Artes’ in the Twelfth
+Century.” In *The History of Grammar in the Middle Ages: Collected
+Papers*, edited by G. L. Bursill-Hall, 117–44. Amsterdam Studies in the
+Theory and History of Linguistic Science. Series 3: Studies in the
+History of Linguistics v.5. Amsterdam: J. Benjamins, 1980.
+
+</div>
+
+<div id="ref-kuttner_research_1990" class="csl-entry">
+
+Kuttner, Stephan. “Research on Gratian: Acta and Agenda.” In *Studies in
+the History of Medieval Canon Law*. Collected Studies CS325. Aldershot,
+Hampshire, Great Britain : Brookfield, Vt., USA: Variorum ; Gower, 1990.
+
+</div>
+
+<div id="ref-kuttner_father_1941" class="csl-entry">
+
+———. “The Father of the Science of Canon Law.” *Jurist* 1 (1941): 2–19.
+
+</div>
+
+<div id="ref-luscombe_abelard_1969" class="csl-entry">
+
+Luscombe, D. E. “Abelard and the Decretum of Gratian.” In *The School of
+Peter Abelard: The Influence of Abelard’s Thought in the Early
+Scholastic Period*, 214–23. Cambridge Studies in Medieval Life and
+Thought, new series, v. 14. London: Cambridge U.P, 1969.
+
+</div>
+
+<div id="ref-minnis_medieval_1988" class="csl-entry">
+
+Minnis, A. J. *Medieval Theory of Authorship: Scholastic Literary
+Attitudes in the Later Middle Ages*. 2nd ed. Middle Ages Series.
+Philadelphia: University of Pennsylvania Press, 1988.
+
+</div>
+
+<div id="ref-noonan_gratian_1979" class="csl-entry">
+
+Noonan, John T. “Gratian Slept Here: The Changing Identity of the Father
+of the Systematic Study of Canon Law.” *Traditio* 35 (January 1979):
+145–72.
+
+</div>
+
+<div id="ref-pennington_biography_2014" class="csl-entry">
+
+Pennington, Kenneth. “The Biography of Gratian, the Father of Canon
+Law.” *Villanova Law Review* 59 (2014): 679–706.
+
+</div>
+
+<div id="ref-radding_origins_1988" class="csl-entry">
+
+Radding, Charles. *The Origins of Medieval Jurisprudence: Pavia and
+Bologna, 850- 1150*. New Haven: Yale University Press, 1988.
+
+</div>
+
+<div id="ref-rufinus_summa_1963" class="csl-entry">
+
+Rufinus. *Summa Decretorum*. Edited by Heinrich Singer. Aalen :
+Paderborn: Scientia Verlag ; F. Schöningh, 1963.
+
+</div>
+
+<div id="ref-paucapalea_summa_1890" class="csl-entry">
+
+Schulte, Johann Friedrich von, ed. *Die Summa des Paucapalea über das
+Decretum Gratiani*. Giessen: E. Roth, 1890.
+
+</div>
+
+<div id="ref-simon_of_bisignano_summa_2014" class="csl-entry">
+
+Simon of Bisignano. *Summa in Decretum Simonis Bisinianensis*. Edited by
+Pier Virginio Aimone-Braida. Monumenta Iuris Canonici. Series A, Corpus
+Glossatorum ; Vol. 8. Città del Vaticano: Biblioteca Apostolica
+Vaticana, 2014.
+
+</div>
+
+<div id="ref-somerville_prefaces_1998" class="csl-entry">
+
+Somerville, Robert, and Bruce Clark Brasington, eds. *Prefaces to Canon
+Law Books in Latin Christianity: Selected Translations, 500-1245*. New
+Haven, Conn: Yale University Press, 1998.
+
+</div>
+
+<div id="ref-southern_scholastic_1995" class="csl-entry">
+
+Southern, R. W. *Scholastic Humanism and the Unification of Europe*.
+Vol. 1. Oxford, UK ; Cambridge, Mass., USA: Blackwell, 1995.
+
+</div>
+
+<div id="ref-weigand_development_2008" class="csl-entry">
+
+Weigand, Rudolf. “The Development of the Glossa Ordinaria to Gratian’s
+Decretum.” In *The History of Medieval Canon Law in the Classical
+Period, 1140-1234: From Gratian to the Decretals of Pope Gregory IX*,
+edited by Wilfried Hartmann and Kenneth Pennington, 55–97. History of
+Medieval Canon Law. Washington, D.C: Catholic University of America
+Press, 2008.
+
+</div>
+
+<div id="ref-winroth_making_2000" class="csl-entry">
+
+Winroth, Anders. *The Making of Gratian’s Decretum*. Cambridge:
+Cambridge University Press, 2000.
+
+</div>
+
+<div id="ref-winroth_where_2013" class="csl-entry">
+
+———. “Where Gratian Slept: The Life and Death of the Father of Canon
+Law.” *Zeitschrift der Savigny-Stiftung für Rechtsgeschichte:
+Kanonistische Abteilung* 99, no. 1 (August 2013): 105–28.
+
+</div>
+
+</div>
 
 [1] John T. Noonan, “Gratian Slept Here: The Changing Identity of the
 Father of the Systematic Study of Canon Law,” *Traditio* 35 (January

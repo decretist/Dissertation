@@ -2,7 +2,7 @@
 bibliography: ../bib/merged.bib
 csl: ../csl/chicago-fullnote-bibliography.csl
 reference-section-title: Bibliography
-suppress-bibliography: true
+suppress-bibliography: false
 title: Chapter 3
 subtitle: Authors
 abstract: |
@@ -14,6 +14,26 @@ abstract: |
   the evidence and played with it for you.\
   – Stan Chodorow
 ---
+Authorship on any significant scale in the pre-modern world required
+wrapping a specialized and expensive scribal infrastructure around
+the figure of the author. Three examples from classical and late
+antiquity illustrate the possible ways in which this requirement
+could be met. Cicero pursued his literary ambitions with the support
+of highly skilled but unfree labor purchased out of his personal
+wealth, most famously his slave and later freedman Tiro. A wealthy
+patron paid for the secretarial staff that supported the authorial
+activities of Origen of Alexandria (†.253). Quasi-monastic members
+of the episcopal household of Augustine of Hippo (†.430) provided
+the scribal support that made his prodigious authorial output
+possible. The model pioneered by Augustine and his household in
+which monastic labor enabled the original production of texts by
+their authors as well as the subsequent copying and circulation of
+finished texts proved a durable one, predominant in the Latin West
+until the thirteenth century.
+
+Authorship of a text the size of Gratian's *Decretum* was therefore
+necessarily a collaborative effort.
+
 ## Gratian
 
 The starting point for all modern scholarship on Gratian himself
