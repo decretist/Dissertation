@@ -4,6 +4,7 @@ csl: ../csl/chicago-fullnote-bibliography.csl
 reference-section-title: Bibliography
 suppress-bibliography: true
 title: Chapter 3
+subtitle: Authors
 abstract: |
   The third order of business then is to recount the history of
   efforts, from the *Summa Parisiensis* on, of legal scholars and

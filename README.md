@@ -6,11 +6,11 @@
 
 ### Chapters
 
-- [Chapter 0](Chapter0/chapter0.markdown) (13 April 2021) 25 pages
-- [Chapter 1](Chapter1/chapter1.markdown) (13 April 2021) 30 pages
-- [Chapter 2](Chapter2/chapter2.markdown) (3 May 2021) 47 pages
-- [Chapter 3](Chapter3/chapter3.markdown) (24 June 2020) 17 pages
-- [Chapter 4](Chapter4/chapter4.markdown) (28 July 2020) 80 pages
+- [Chapter 0: Introduction](Chapter0/chapter0.markdown) (13 April 2021) 25 pages
+- [Chapter 1: Background](Chapter1/chapter1.markdown) (13 April 2021) 30 pages
+- [Chapter 2: The *Decretum*](Chapter2/chapter2.markdown) (3 May 2021) 47 pages
+- [Chapter 3: Authors](Chapter3/chapter3.markdown) (24 June 2020) 17 pages
+- [Chapter 4: Stylometry](Chapter4/chapter4.markdown) (28 July 2020) 80 pages
   - [Principal component analysis](Chapter4/pca.markdown) (25 March 2021) 26 pages
 - [Conclusion](Conclusion/conclusion.markdown) (very rought draft) 13 pages
 
