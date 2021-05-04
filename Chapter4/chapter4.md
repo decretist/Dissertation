@@ -209,13 +209,13 @@ second-recension *dicta* in the order of their occurrence in the
 
 Both the text of Friedberg's 1879 edition of Gratian's *Decretum*
 and Winroth's appendix are open to criticism. Although
-modern scholars admire Friedberg's learning and energy --- the 1879
+modern scholars admire Friedberg's learning and energy---the 1879
 edition of the *Decretum* was only one of many such projects that
-he undertook --- his editorial standards were those of 140 years
+he undertook---his editorial standards were those of 140 years
 ago. In particular, Friedberg's selection of eight unrepresentative
 German manuscripts as the basis for his edition, and his particular
-reliance on two of them --- Köln Erzbischöfliche Diözesan- und
-Dombibliothek 127 (Ka) and 128 (Kb) --- are seen today as serious
+reliance on two of them---Köln Erzbischöfliche Diözesan- und
+Dombibliothek 127 (Ka) and 128 (Kb)---are seen today as serious
 deficiencies.[^11]
 
 Winroth himself acknowledged the provisional nature of his

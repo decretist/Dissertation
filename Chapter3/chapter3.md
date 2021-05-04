@@ -48,14 +48,14 @@ elements of the mythology surrounding Gratian, the claim that Gratian
 was a Camaldolese monk.**
 
 Odofredus (†1265), a professor of law at Bologna, claimed that
-Gratian "was staying" (stabat) at the monastery of SS. Felice and
+Gratian "was staying" (*stabat*) at the monastery of SS. Felice and
 Nabor while working as a rubricator.[^4] Odofredus did not indicate
 the basis for his statement that Gratian had been a resident of SS.
 Felice and Nabor, nor did he say that Gratian had been a monk. In
 1758, Camaldolese scholars Mittarelli and Costadono discovered papal
 privileges conferred in 1113 and 1153 identifying SS. Felice and
-Nabor as Camaldolese, and inferred from them that the monastery --
-and by extension Gratian himself -- had been Camaldolese during the
+Nabor as Camaldolese, and inferred from them that the monastery---
+and by extension Gratian himself---had been Camaldolese during the
 intervening years. The claim that Gratian had a connection to the
 Camaldolese order attracted criticism in the eighteenth century,
 and fell out of favor in the nineteenth century, but was put back
@@ -67,8 +67,8 @@ the courtroom to the historical record. **Noonan relied heavily
 on the legal hearsay standard as understood and applied by
 twentieth-century American courts of law as the basis for his
 debunking of much Gratian mythology.** By Noonan's standards, the
-statement of Odofredus -- hearsay, not attributed to a source, a
-century after the fact -- is nothing more than legend. **Winroth,
+statement of Odofredus---hearsay, not attributed to a source, a
+century after the fact---is nothing more than legend. **Winroth,
 however, has questioned whether this is an appropriate standard for
 evaluating historical evidence.**
 
@@ -148,10 +148,10 @@ experience as a classroom teacher. On the one hand, the early
 manuscript tradition for the *Decretum* displays enough variation,
 even among the first-recension manuscripts Aa, Bc, Fd, and P, to
 suggest that the text developed continuously over the span of, and
-in parallel with, a relatively long teaching career --- perhaps a
+in parallel with, a relatively long teaching career---perhaps a
 decade or more. On the other hand, Gratian's personal obscurity is
-so profound --- Stephan Kuttner compared Gratian to the anonymous
-builders of Gothic cathedrals[^7] --- as to suggest a short, or
+so profound---Stephan Kuttner compared Gratian to the anonymous
+builders of Gothic cathedrals[^7]---as to suggest a short, or
 even no, teaching career.[^8]
 
 Considering the fact that Gratian was universally credited as the
@@ -329,7 +329,7 @@ generally used of all the masterpieces of twelfth-century learning."
 "the book, and not the teaching of pupils, was the offering Gratian's
 monastic life brought to the Church". [@southern_scholastic_1995,
 286-287, 304]. Southern also asserts that no one claims to have
-been Gratian's student --- "none of the earliest users of his work
+been Gratian's student---"none of the earliest users of his work
 claims to have been taught by him". "although other scholars made
 some very early alterations and additions to the text of the
 *Decretum*, none of them claimed to have been taught by him."
