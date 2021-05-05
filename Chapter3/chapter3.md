@@ -14,42 +14,6 @@ abstract: |
   the evidence and played with it for you.\
   – Stan Chodorow
 ---
-Authorship on any significant scale in the pre-modern world required
-wrapping a specialized and expensive scribal infrastructure around
-the figure of the author.[^a] Three examples from classical and
-late antiquity illustrate the possible ways in which this requirement
-could be met. Cicero (†43 BCE) pursued his literary ambitions with
-the support of highly skilled but unfree labor purchased out of his
-personal wealth, most famously his slave and later freedman Tiro.
-A wealthy lay patron named Ambrose paid for the secretarial staff
-that supported the authorial activities of Origen of Alexandria
-(†253).[^b] Quasi-monastic members of the episcopal household of
-Augustine of Hippo (†430) provided the scribal support that made
-his prodigious authorial output possible. The mode of production
-pioneered by Augustine and his household in which monastic labor
-enabled the creation of original texts by their authors as well as
-the subsequent copying and circulation of finished texts proved a
-durable one, and predominated in the Latin West until the thirteenth
-century.[^c]
-
-[^a]: Check Peter Brown, *Augustine of Hippo* and James J. O'Donnell,
-*Augustine: A New Biography* to see if either of them makes the
-point that scribal or secretarial support was required for individual
-authorship in antiquity. The need for scribal or secretarial support
-presupposes that authors create texts by dictating them.
-
-[^b]: John Anthony McGuckin, "The Life of Origen (ca.  186–255)"
-in *The Westminster Handbook to Origen*, 12. McGuckin got this story
-from Eusebius, *Ecclesiastical History* 6.23.2.
-
-[^c]: Monastic modes of text production were gradually replaced by
-commercial modes of production, e.g., around the University of
-Paris. See Richard H. and Mary A. Rouse, *Manuscripts and their
-Makers: Commercial Book Producers in Medieval Paris 1200-1500.*
-
-Authorship of a text the size of Gratian's *Decretum* was therefore
-necessarily a collaborative effort.
-
 ## Gratian
 
 The starting point for all modern scholarship on Gratian himself
