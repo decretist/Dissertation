@@ -85,7 +85,7 @@ distinguishes the roles of *scriptor*, *compilator*, *commentator*, and
 (*aliena*) and their own (*sua*):
 
 > Someone else writes the words of other men and also of his own, but
-> with his own forming the principle part and those of others being
+> with his own forming the principal part and those of others being
 > annexed merely by way of confirmation, and such a person should be
 > called an author \[*auctor*\].[11]
 
@@ -1315,8 +1315,8 @@ Edition*, Quellen und Forschungen zum Recht im Mittalter, Bd. 2
 exactly the same words. **Rufinus:** "*librum suum in tribus partibus
 distinguit, quarum primam ministeriis, secundam negotiis, tertiam
 ecclesiasticis deputat sacramentis.*" Heinrich Singer, *Summa
-Decretorum* (Aalen : Paderborn: Scientia Verlag ; F. Schöningh, 1963), 5.
-("\[H\]e divides his book into three parts, the first of which he
+Decretorum* (Aalen : Paderborn: Scientia Verlag ; F. Schöningh, 1963),
+5. ("\[H\]e divides his book into three parts, the first of which he
 devotes to ecclesiastical ministries, the second to \[ecclesiastical\]
 business, and the third to ecclesiastical sacraments.") Somerville and
 Brasington, *Prefaces to Canon Law Books in Latin Christianity*,

@@ -98,7 +98,7 @@ four-fold", and distinguishes the roles of *scriptor*, *compilator*,
 "the words of other men" (*aliena*) and their own (*sua*):
 
 > Someone else writes the words of other men and also of his own,
-but with his own forming the principle part and those of others
+but with his own forming the principal part and those of others
 being annexed merely by way of confirmation, and such a person
 should be called an author [*auctor*].[^11]
 
