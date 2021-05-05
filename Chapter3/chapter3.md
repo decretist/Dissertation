@@ -4,7 +4,7 @@ csl: ../csl/chicago-fullnote-bibliography.csl
 reference-section-title: Bibliography
 suppress-bibliography: false
 title: Chapter 3
-subtitle: Authors
+subtitle: Gratian
 abstract: |
   The third order of business then is to recount the history of
   efforts, from the *Summa Parisiensis* on, of legal scholars and
@@ -34,8 +34,8 @@ century.[^c]
 
 [^a]: Check Peter Brown, *Augustine of Hippo* and James J. O'Donnell,
 *Augustine: A New Biography* to see if either of them makes the
-point that scribal or secretatrial support was required for individual
-authorship in antiquity. The need for scribal or secretatrial support
+point that scribal or secretarial support was required for individual
+authorship in antiquity. The need for scribal or secretarial support
 presupposes that authors create texts by dictating them.
 
 [^b]: John Anthony McGuckin, "The Life of Origen (ca.  186–255)"

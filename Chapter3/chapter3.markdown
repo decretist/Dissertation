@@ -410,8 +410,8 @@ Kanonistische Abteilung* 99, no. 1 (August 2013): 105–28.
 
 [1] Check Peter Brown, *Augustine of Hippo* and James J. O'Donnell,
 *Augustine: A New Biography* to see if either of them makes the point
-that scribal or secretatrial support was required for individual
-authorship in antiquity. The need for scribal or secretatrial support
+that scribal or secretarial support was required for individual
+authorship in antiquity. The need for scribal or secretarial support
 presupposes that authors create texts by dictating them.
 
 [2] John Anthony McGuckin, "The Life of Origen (ca. 186–255)" in *The
