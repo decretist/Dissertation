@@ -129,11 +129,9 @@ Foucault's essay is a response to Barthes's.
 Foucault's essay is more directly relevant than Barthes's to the
 problems of authorship raised by Gratian's *Decretum*,
 
-[^1]: Check Peter Brown, *Augustine of Hippo* and James J. O'Donnell,
-*Augustine: A New Biography* to see if either of them makes the
-point that scribal or secretarial support was required for individual
-authorship in antiquity. The need for scribal or secretarial support
-presupposes that authors create texts by dictating them.
+[^1]: @odonnell_augustine_2005, 136, 139. The need for scribal or
+secretarial support presupposes that authors create texts by dictating
+them.
 
 [^2]: John Anthony McGuckin, "The Life of Origen (ca. 186–255)" in
 *The Westminster Handbook to Origen*, 12. McGuckin got this story
