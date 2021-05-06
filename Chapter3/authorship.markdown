@@ -140,6 +140,13 @@ Bauer and Karl H. L. Welker, 107–22. Vienna, 2007.
 
 </div>
 
+<div id="ref-odonnell_augustine_2005" class="csl-entry">
+
+O’Donnell, James Joseph. *Augustine: A New Biography*. 1st ed. New York:
+HarperCollins Publishers, 2005.
+
+</div>
+
 <div id="ref-pennington_biography_2014" class="csl-entry">
 
 Pennington, Kenneth. “The Biography of Gratian, the Father of Canon
@@ -165,11 +172,10 @@ Kanonistische Abteilung* 99, no. 1 (August 2013): 105–28.
 
 </div>
 
-[1] Check Peter Brown, *Augustine of Hippo* and James J. O'Donnell,
-*Augustine: A New Biography* to see if either of them makes the point
-that scribal or secretarial support was required for individual
-authorship in antiquity. The need for scribal or secretarial support
-presupposes that authors create texts by dictating them.
+[1] James Joseph O’Donnell, *Augustine: A New Biography*, 1st ed. (New
+York: HarperCollins Publishers, 2005), 136, 139. The need for scribal or
+secretarial support presupposes that authors create texts by dictating
+them.
 
 [2] John Anthony McGuckin, "The Life of Origen (ca. 186–255)" in *The
 Westminster Handbook to Origen*, 12. McGuckin got this story from
