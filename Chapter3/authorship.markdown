@@ -59,13 +59,17 @@ authorship he is arguing against and the term "author" where he intends
 to use the word in its more general and non-technical sense. An Author
 is the creative intellect uniquely responsible for a literary text, and
 "is in the same relation of antecedence to his work as a father to his
-child."[6] Barthes argues that authors cannot be Authors, since because
-all literary texts are socially constructed, no person or persons can
-have a parent-child relationship to a text: "The text is a tissue of
+child."[6] Barthes argues that authors cannot be Authors---no person or
+persons can have a parent-child relationship to a text since all
+literary texts are socially constructed: "The text is a tissue of
 quotations drawn from the innumerable centres of culture."[7]
 
+**Gratian may be the author of the *dicta* but he is not their Author.
+The *dicta* are socially constructed "tissue\[s\] of quotations drawn
+from the innumerable centres of culture."**
+
 The Barthes's central argument is against precisely the kind of reading
-that is prevalent in scholarship on Gratian and the *Decretum*::
+that is prevalent in scholarship on Gratian and the *Decretum*:
 
 > To give a text an Author is to impose a limit on that text, to furnish
 > it with a final signified, to close the writing. Such a conception
@@ -79,15 +83,14 @@ conceptualization of authorship in which the performative aspect of the
 author's act is the central focus. Barthes uses the terms "criticism"
 and "critic" to refer respectively to the activity of close-reading a
 literary text and one engaging in that activity. Translating the terms
-as "reading" and "reader" would not be seriously misleading.
-
-**Gratian is a scriptor: the *dicta* were originally delivered in a
-classroom setting, and therefore have both a performative and a
+as "reading" and "reader" would not be seriously misleading. Gratian as
+author of the *dicta* is therefore, using Barthes's definitions, both
+scriptor and critic. The *dicta* were originally delivered in a
+classroom setting, and thus have both a performative and a
 contemporaneous aspect ("there is no other time than that of the
-enunciation and every text is eternally written *here* and *now*")[9]**
-
-**Gratian is a critic: the *dicta* are the record of a particular
-close-reading of a selection of authoritative texts.**
+enunciation and every text is eternally written *here* and *now*")[9]
+The *dicta* are also the record of a particular close-reading of a
+selection of authoritative texts.
 
 ### Foucault
 
