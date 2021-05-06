@@ -45,14 +45,84 @@ conceptualization of authorship that is somewhat anachronistic when
 applied to a medieval text and has been largely discarded by literary
 scholarship over the last half-century.
 
+---
+
+Roland Barthes's 1967 essay "The Death of the Author" and Michel
+Foucault's 1969 response "What Is an Author?" are foundational
+readings in the theory of authorship.[^5]
+
+### Barthes
+
+"The Death of the Author" holds a place in literary studies somewhat
+similar to the place that Noonan's "Gratian Slept Here" holds in
+canon law studies---it is a clearing of the ground of older ways
+of thinking in the field. Although the title of the essay was a
+lightning-rod in 1980s theory war polemics, taken as if Barthes
+were arguing that texts somehow wrote themselves, Medievalists will
+recognize the French title of the essay, "La mort de l'auteur," as
+a pun on *Le Morte d'Arthur*. Barthes's essay is short and relatively
+free of arcane technical terms. Barthes was a literary critic and
+scholar making an argument to other literary critics and scholars
+against the practice of close-reading literary texts with the focus
+on the biographical and historical context of the author and its
+relationship to the text.
+
+Barthes uses the term "Author" to indicate the conceptualization
+of authorship he is arguing against and the term "author" where he
+intends to use the word in its more general and non-technical sense.
+An Author is the creative intellect uniquely responsible for a
+literary text, and "is in the same relation of antecedence to his
+work as a father to his child." [@barthes_death_1977, 145] Barthes
+argues that authors cannot be Authors, since because all literary
+texts are socially constructed, no person or persons can have a
+parent-child relationship to a text: "The text is a tissue of
+quotations drawn from the innumerable centres of culture."
+[@barthes_death_1977, 146]
+
+The Barthes's central argument is against precisely the kind of
+reading that is prevalent in scholarship on Gratian and the
+*Decretum*::
+
+> To give a text an Author is to impose a limit on that text, to
+furnish it with a final signified, to close the writing. Such a
+conception suits criticism very well, the latter then allotting
+itself the important task of discovering the Author (or its hypostases:
+society, history, psyche, liberty) beneath the work: when the Author
+has been found, the text is 'explained' - victory to the critic.
+[@barthes_death_1977, 147]
+
+Barthes uses the term "scriptor" to indicate an alternative
+conceptualization of authorship in which the performative aspect
+of the author's act is the central focus. Barthes uses the terms
+"criticism" and "critic" to refer respectively to the activity of
+close-reading a literary text and one engaging in that activity.
+Translating the terms as "reading" and "reader" would not be seriously
+misleading.
+
+**Gratian is a scriptor: the *dicta* were originally delivered in
+a classroom setting, and therefore have both a performative and a
+contemporaneous aspect ("there is no other time than that of the
+enunciation and every text is eternally written *here* and *now*"
+[@barthes_death_1977, 145])**
+
+**Gratian is a critic: the *dicta* are the record of a particular
+close-reading of a selection of authoritative texts.**
+
+### Foucault
+
+Foucault's essay is a response to Barthes's.
+
+Foucault's essay is more directly relevant than Barthes's to the
+problems of authorship raised by Gratian's *Decretum*,
+
 [^1]: Check Peter Brown, *Augustine of Hippo* and James J. O'Donnell,
 *Augustine: A New Biography* to see if either of them makes the
 point that scribal or secretarial support was required for individual
 authorship in antiquity. The need for scribal or secretarial support
 presupposes that authors create texts by dictating them.
 
-[^2]: John Anthony McGuckin, "The Life of Origen (ca.  186–255)"
-in *The Westminster Handbook to Origen*, 12. McGuckin got this story
+[^2]: John Anthony McGuckin, "The Life of Origen (ca. 186–255)" in
+*The Westminster Handbook to Origen*, 12. McGuckin got this story
 from Eusebius, *Ecclesiastical History* 6.23.2.
 
 [^3]: Monastic modes of text production were gradually replaced by
@@ -62,4 +132,6 @@ Makers: Commercial Book Producers in Medieval Paris 1200-1500.*
 
 [^4]: @grebner_patronate_2007; @winroth_where_2013;
 @pennington_biography_2014; and @pennington_biography_2018.
+
+[^5]: @barthes_death_1977; and @foucault_what_1998.
 

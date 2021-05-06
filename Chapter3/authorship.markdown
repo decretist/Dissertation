@@ -33,9 +33,88 @@ have uncritically accepted a conceptualization of authorship that is
 somewhat anachronistic when applied to a medieval text and has been
 largely discarded by literary scholarship over the last half-century.
 
+------------------------------------------------------------------------
+
+Roland Barthes's 1967 essay "The Death of the Author" and Michel
+Foucault's 1969 response "What Is an Author?" are foundational readings
+in the theory of authorship.[5]
+
+### Barthes
+
+"The Death of the Author" holds a place in literary studies somewhat
+similar to the place that Noonan's "Gratian Slept Here" holds in canon
+law studies---it is a clearing of the ground of older ways of thinking
+in the field. Although the title of the essay was a lightning-rod in
+1980s theory war polemics, taken as if Barthes were arguing that texts
+somehow wrote themselves, Medievalists will recognize the French title
+of the essay, "La mort de l'auteur," as a pun on *Le Morte d'Arthur*.
+Barthes's essay is short and relatively free of arcane technical terms.
+Barthes was a literary critic and scholar making an argument to other
+literary critics and scholars against the practice of close-reading
+literary texts with the focus on the biographical and historical context
+of the author and its relationship to the text.
+
+Barthes uses the term "Author" to indicate the conceptualization of
+authorship he is arguing against and the term "author" where he intends
+to use the word in its more general and non-technical sense. An Author
+is the creative intellect uniquely responsible for a literary text, and
+"is in the same relation of antecedence to his work as a father to his
+child."[6] Barthes argues that authors cannot be Authors, since because
+all literary texts are socially constructed, no person or persons can
+have a parent-child relationship to a text: "The text is a tissue of
+quotations drawn from the innumerable centres of culture."[7]
+
+The Barthes's central argument is against precisely the kind of reading
+that is prevalent in scholarship on Gratian and the *Decretum*::
+
+> To give a text an Author is to impose a limit on that text, to furnish
+> it with a final signified, to close the writing. Such a conception
+> suits criticism very well, the latter then allotting itself the
+> important task of discovering the Author (or its hypostases: society,
+> history, psyche, liberty) beneath the work: when the Author has been
+> found, the text is 'explained' - victory to the critic.[8]
+
+Barthes uses the term "scriptor" to indicate an alternative
+conceptualization of authorship in which the performative aspect of the
+author's act is the central focus. Barthes uses the terms "criticism"
+and "critic" to refer respectively to the activity of close-reading a
+literary text and one engaging in that activity. Translating the terms
+as "reading" and "reader" would not be seriously misleading.
+
+**Gratian is a scriptor: the *dicta* were originally delivered in a
+classroom setting, and therefore have both a performative and a
+contemporaneous aspect ("there is no other time than that of the
+enunciation and every text is eternally written *here* and *now*")[9]**
+
+**Gratian is a critic: the *dicta* are the record of a particular
+close-reading of a selection of authoritative texts.**
+
+### Foucault
+
+Foucault's essay is a response to Barthes's.
+
+Foucault's essay is more directly relevant than Barthes's to the
+problems of authorship raised by Gratian's *Decretum*,
+
 # Bibliography
 
 <div id="refs" class="references csl-bib-body hanging-indent">
+
+<div id="ref-barthes_death_1977" class="csl-entry">
+
+Barthes, Roland. “The Death of the Author.” In *Image, Music, Text*,
+translated by Stephen Heath, 142–48. New York: Hill; Wang, 1977.
+
+</div>
+
+<div id="ref-foucault_what_1998" class="csl-entry">
+
+Foucault, Michel. “What Is an Author?” In *Aesthetics, Method, and
+Epistemology*, edited by James D. Faubion and Paul Rabinow, translated
+by Robert Hurley, 205–22. Essential Works of Foucault, 1954-1984, v. 2.
+New York: New Press, 1998.
+
+</div>
 
 <div id="ref-grebner_patronate_2007" class="csl-entry">
 
@@ -97,3 +176,18 @@ the Father of Canon Law,” *Villanova Law Review* 59 (2014): 679–706; and
 Kenneth Pennington, “The Biography of Gratian, the Father of Canon Law,”
 in *A Service Beyond All Recompense*, ed. Kurt Martens (Catholic
 University of America Press, 2018), 359–92.
+
+[5] Roland Barthes, “The Death of the Author,” in *Image, Music, Text*,
+trans. Stephen Heath (New York: Hill; Wang, 1977), 142–48; and Michel
+Foucault, “What Is an Author?” in *Aesthetics, Method, and
+Epistemology*, ed. James D. Faubion and Paul Rabinow, trans. Robert
+Hurley, Essential Works of Foucault, 1954-1984, v. 2 (New York: New
+Press, 1998), 205–22.
+
+[6] Barthes, “The Death of the Author,” 145.
+
+[7] Barthes, 146.
+
+[8] Barthes, 147.
+
+[9] Barthes, 145.

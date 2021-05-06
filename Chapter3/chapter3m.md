@@ -8,24 +8,6 @@ suppress-bibliography: false
 title: Chapter 3m
 subtitle: Authorship and Authority
 ---
-### Introduction
-
-Post-Noonan scholarship on the biography of Gratian by Grebner,
-Winroth, and Pennington[^1] has been conducted in the spirit of an
-Albert Schweitzer-like "quest of the historical Gratian." **It is
-worth noting that Noonan himself entertains a more nuanced concept
-of authorship than Grebner, Winroth, and Pennington.** The unifying
-idea has been that if we can identify the historical Gratian, we
-will have identified the author of the *Decretum*, with the authorship
-of the *Decretum* understood in a way very similar to the way in
-which we might understand the authorship of a nineteenth century
-novel. In doing so, these historians have uncritically accepted a
-conceptualization of authorship that is anachronistic when applied
-to medieval texts and has been discarded by literary scholarship
-over the last half-century.
-
-[^1]: @grebner_patronate_2007; @winroth_where_2013; @pennington_biography_2014; and @pennington_biography_2018.
-
 ### Authorship vs. Authority
 
 When modern scholars talk about authorship, they are mostly interested
@@ -49,14 +31,6 @@ Furthermore, the *Decretum* is mostly quoted text. Therefore, the
 questions of the authorship and authority of the *Decretum* as a whole
 and of the *dicta* have to be considered distinctly although not
 separately from one another.
-
-### Was Gratian the author of the *Decretum*?
-
-### Author or Compiler?
-
-How did commentators in the middle ages think about authorship in
-connection with the *Decretum* and similar works? In what sense did
-they consider Gratian to be, or not be, the "author" of the *Decretum*?
 
 ### Parking Lot
 

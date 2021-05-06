@@ -8,6 +8,9 @@ barthes.markdown: barthes.md ../bib/merged.bib
 	pandoc -o barthes.markdown --citeproc -f markdown-smart -t gfm barthes.md
 	cat ../lic/license.html >> barthes.markdown
 
+barthes.docx: barthes.md ../bib/merged.bib ../ref/draft.docx
+	pandoc -o barthes.docx --citeproc --reference-doc=../ref/draft.docx barthes.md
+
 sg.markdown: sg.md
 	pandoc -o sg.markdown -f markdown-smart -t gfm sg.md
 	cat ../lic/license.html >> sg.markdown
