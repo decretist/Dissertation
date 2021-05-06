@@ -26,13 +26,26 @@ the subsequent copying and circulation of finished texts proved a
 durable one, and predominated in the Latin West until the thirteenth
 century.[^3]
 
-Authorship of a text the size of Gratian's *Decretum* was therefore
-necessarily a collaborative effort.
+Given the material and social technologies for authorship available
+in the twelfth century, creation of a text the size of Gratian's
+*Decretum* would necessarily have been a collaborative effort.
+Pennington has noted that "Gratian may have had an atelier of
+assistants",[@pennington_biography_2018, 362] but that observation
+suggests that the nature of the collaboration between Gratian and
+those Pennington conceives of as his assistant needs to be examined
+more closely. What substantive intellectual contributions, if any,
+did Gratian's collaborators make to the project?[^5] There are a
+number of indications, discussed in the previous chapter, that the
+*Decretum* outgrew the ability of a single author to effectively
+manage the development of the text. The question is whether Gratian's
+partial loss of control of the project opened up a space for
+collaborative authorship. The starting point for this inquiry is a
+theoretically informed understanding of what authorship is.
 
 ## Authorship
 
 The recent work on the life of Gratian by Grebner, Winroth, and
-Pennington[^4] reviewed in the preceding section tacitly assumes
+Pennington[^6] reviewed in the preceding section tacitly assumes
 that if we can identify the historical Gratian, we will have
 identified the author of the *Decretum* (or at least the author of
 the first recension), with authorship of the text understood in a
@@ -49,7 +62,7 @@ scholarship over the last half-century.
 
 Roland Barthes's 1967 essay "The Death of the Author" and Michel
 Foucault's 1969 response "What Is an Author?" are foundational
-readings in the theory of authorship.[^5]
+readings in the theory of authorship.[^7]
 
 ### Barthes
 
@@ -131,8 +144,14 @@ commercial modes of production, e.g., around the University of
 Paris. See Richard H. and Mary A. Rouse, *Manuscripts and their
 Makers: Commercial Book Producers in Medieval Paris 1200-1500.*
 
-[^4]: @grebner_patronate_2007; @winroth_where_2013;
+[^5]: The quasi-monastic model of text production leaves open a range of
+possibilities. Those who have read the *Vita Augustini* written by
+Possidius of Calama († c.437) are likely to be unimpressed by the
+intellectual caliber of Augustine's episcopal household, and to
+assess its contribution to his work accordingly.
+
+[^6]: @grebner_patronate_2007; @winroth_where_2013;
 @pennington_biography_2014; and @pennington_biography_2018.
 
-[^5]: @barthes_death_1977; and @foucault_what_1998.
+[^7]: @barthes_death_1977; and @foucault_what_1998.
 
