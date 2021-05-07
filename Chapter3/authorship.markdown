@@ -26,7 +26,7 @@ any, did Gratian's collaborators make to the project?[5] There are a
 number of indications, discussed in the previous chapter, that the
 *Decretum* outgrew the ability of a single author to effectively manage
 the development of the text. The question is whether Gratian's partial
-loss of control of the project opened up a space for collaborative
+loss of control of the project opened up a space for truly collaborative
 authorship. The starting point for this inquiry is a theoretically
 informed understanding of what authorship is.
 
@@ -105,6 +105,44 @@ The *dicta* are also the record of a particular close-reading of a
 selection of authoritative texts.
 
 ### Foucault
+
+Barthes's criticism of the idea of authorship is apophatic, concerned
+mostly with what, in his view, authorship is not. Barthes warns against
+the conceptualization of authorship that most historians (including
+those who have written about Gratian's authorship of the *Decretum*)
+take for granted. **Foucault on the other hand ...**
+
+Foucault asks "\[w\]hat is an author’s name? How does it function?"[12]
+
+> ... if we proved that Shakespeare did not write those sonnets which
+> pass for his, that would constitute a significant change and affect
+> the manner in which the author's name functions. If we proved that
+> Shakespeare wrote Bacon's *Organon* by showing that the same author
+> wrote both the works of Bacon and those of Shakespeare, that would ...
+> entirely modify the functioning of the author's name.[13]
+
+> In *De Viris illustribus*, Saint Jerome explains that homonymy is not
+> sufficient to identify legitimately authors of more than one work:
+> different individuals could have had the same name, or one man could
+> have, illegitimately, borrowed another’s patronymic. The name as an
+> individual trademark is not enough when one works within a textual
+> tradition.[14]
+
+> How, then can one attribute several discourses to one and the same
+> author? How can one use the author function to determine if one is
+> dealing with one or several individuals? Saint Jerome proposes four
+> criteria: (1) if among several books attributed to an author one is
+> inferior to the others, it must be withdrawn from the list of the
+> author’s works (the author is therefore defined as a constant level of
+> value); (2) the same should be done if certain texts contradict the
+> doctrine expounded in the author’s other works (the author is thus
+> defined as a field of conceptual or theoretical coherence); (3) one
+> must also exclude works that are written in a different style,
+> containing words and expressions not ordinarily found in the writer’s
+> production; (4) finally, passages quoting statements made or
+> mentioning events that occurred after the author’s death must be
+> regarded as interpolated texts (the author is seen as a historical
+> figure at the crossroads of a certain number of events).[15]
 
 Foucault's essay is a response to Barthes's.
 
@@ -220,3 +258,11 @@ Press, 1998), 205–22.
 [10] Barthes, 147.
 
 [11] Barthes, 145.
+
+[12] Foucault, “What Is an Author?” 209.
+
+[13] Foucault, 210.
+
+[14] Foucault, 214.
+
+[15] Foucault, 214.
