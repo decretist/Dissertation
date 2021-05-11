@@ -133,32 +133,40 @@ against the conceptualization of authorship that most historians
 Foucault asks "[w]hat is an author’s name? How does it
 function?"[@foucault_what_1998, 209]
 
->... if we proved that Shakespeare did not write those sonnets which
+> ... if we proved that Shakespeare did not write those sonnets which
 pass for his, that would constitute a significant change and affect
 the manner in which the author's name functions. If we proved that
 Shakespeare wrote Bacon's *Organon* by showing that the same author
 wrote both the works of Bacon and those of Shakespeare, that would ...
 entirely modify the functioning of the author's name.[@foucault_what_1998, 210]
 
->In *De Viris illustribus*, Saint Jerome explains that homonymy is not
+> In *De Viris illustribus*, Saint Jerome explains that homonymy is not
 sufficient to identify legitimately authors of more than one work:
 different individuals could have had the same name, or one man could
 have, illegitimately, borrowed another’s patronymic. The name as
 an individual trademark is not enough when one works within a textual
 tradition. [@foucault_what_1998, 214]
 
->How, then can one attribute several discourses to one and the same
+> How, then can one attribute several discourses to one and the same
 author? How can one use the author function to determine if one is
 dealing with one or several individuals? Saint Jerome proposes four
-criteria: (1) if among several books attributed to an author one
+criteria:
+
+> \(1\) if among several books attributed to an author one
 is inferior to the others, it must be withdrawn from the list of
 the author’s works (the author is therefore defined as a constant
-level of value); (2) the same should be done if certain texts
+level of value);
+
+> \(2\) the same should be done if certain texts
 contradict the doctrine expounded in the author’s other works (the
 author is thus defined as a field of conceptual or theoretical
-coherence); (3) one must also exclude works that are written in a
+coherence);
+
+> \(3\) one must also exclude works that are written in a
 different style, containing words and expressions not ordinarily
-found in the writer’s production; (4) finally, passages quoting
+found in the writer’s production;
+
+> \(4\) finally, passages quoting
 statements made or mentioning events that occurred after the author’s
 death must be regarded as interpolated texts (the author is seen
 as a historical figure at the crossroads of a certain number of
