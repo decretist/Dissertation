@@ -150,7 +150,7 @@ tradition. [@foucault_what_1998, 214]
 > How, then can one attribute several discourses to one and the same
 author? How can one use the author function to determine if one is
 dealing with one or several individuals? Saint Jerome proposes four
-criteria:
+criteria:[^15]
 
 > \(1\) if among several books attributed to an author one
 is inferior to the others, it must be withdrawn from the list of
@@ -200,4 +200,16 @@ assess its contribution to his work accordingly.
 @pennington_biography_2014; and @pennington_biography_2018.
 
 [^7]: @barthes_death_1977; and @foucault_what_1998.
+
+[^15]: @foucault_what_1998, 214. Foucault claims to have derived
+the four criteria for determining whether a given "discursive set"
+has one or several authors from Jerome's *De Viris illustribus*.
+He provides, however, no citations. Walzer and Inabinit indicate
+that "similar principles" can be found in @hulley_principles_1944,
+105-109. @walzer_who_2011, 188. The section of Hulley's article
+on "various points pertinent to questions of authorship" is in fact
+almost certainly the ultimate source for Foucault's four criteria,
+and provides citations to many works by Jerome (not just *De Viris
+illustribus*) relevant to the question of determining the authorship
+of a text or texts.
 

@@ -131,7 +131,7 @@ Foucault asks "\[w\]hat is an author’s name? How does it function?"[12]
 > How, then can one attribute several discourses to one and the same
 > author? How can one use the author function to determine if one is
 > dealing with one or several individuals? Saint Jerome proposes four
-> criteria:
+> criteria:[15]
 
 > \(1\) if among several books attributed to an author one is inferior
 > to the others, it must be withdrawn from the list of the author’s
@@ -148,7 +148,7 @@ Foucault asks "\[w\]hat is an author’s name? How does it function?"[12]
 > \(4\) finally, passages quoting statements made or mentioning events
 > that occurred after the author’s death must be regarded as
 > interpolated texts (the author is seen as a historical figure at the
-> crossroads of a certain number of events).[15]
+> crossroads of a certain number of events).[16]
 
 Foucault's essay is a response to Barthes's.
 
@@ -184,6 +184,13 @@ Bauer and Karl H. L. Welker, 107–22. Vienna, 2007.
 
 </div>
 
+<div id="ref-hulley_principles_1944" class="csl-entry">
+
+Hulley, Karl Kelchner. “Principles of Textual Criticism Known to St.
+Jerome.” *Harvard Studies in Classical Philology* 55 (1944): 87–109.
+
+</div>
+
 <div id="ref-odonnell_augustine_2005" class="csl-entry">
 
 O’Donnell, James Joseph. *Augustine: A New Biography*. 1st ed. New York:
@@ -203,6 +210,14 @@ Law.” *Villanova Law Review* 59 (2014): 679–706.
 ———. “The Biography of Gratian, the Father of Canon Law.” In *A Service
 Beyond All Recompense*, edited by Kurt Martens, 359–92. Catholic
 University of America Press, 2018.
+
+</div>
+
+<div id="ref-walzer_who_2011" class="csl-entry">
+
+Walzer, Arthur E., and Brandon M. Inabinet. “Who Wrote the Rhetoric? A
+Response to Brad McAdon.” *Advances in the History of Rhetoric* 14, no.
+2 (July 2011): 166–90.
 
 </div>
 
@@ -271,4 +286,19 @@ Press, 1998), 205–22.
 
 [14] Foucault, 214.
 
-[15] Foucault, 214.
+[15] Foucault, “What Is an Author?”, 214. Foucault claims to have
+derived the four criteria for determining whether a given "discursive
+set" has one or several authors from Jerome's *De Viris illustribus*. He
+provides, however, no citations. Walzer and Inabinit indicate that
+"similar principles" can be found in Karl Kelchner Hulley, “Principles
+of Textual Criticism Known to St. Jerome,” *Harvard Studies in Classical
+Philology* 55 (1944): 87–109, 105-109. Arthur E. Walzer and Brandon M.
+Inabinet, “Who Wrote the Rhetoric? A Response to Brad McAdon,” *Advances
+in the History of Rhetoric* 14, no. 2 (July 2011): 166–90, 188. The
+section of Hulley's article on "various points pertinent to questions of
+authorship" is in fact almost certainly the ultimate source for
+Foucault's four criteria, and provides citations to many works by Jerome
+(not just *De Viris illustribus*) relevant to the question of
+determining the authorship of a text or texts.
+
+[16] Foucault, “What Is an Author?” 214.
