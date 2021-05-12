@@ -14,7 +14,7 @@
   - [Gratian](Chapter3/chapter3.markdown) (1 July 2020) 20 pages
 - [Chapter 4: Stylometry](Chapter4/chapter4.markdown) (28 July 2020) 80 pages
   - [Principal component analysis](Chapter4/pca.markdown) (25 March 2021) 26 pages
-- [Conclusion](Conclusion/conclusion.markdown) (very rought draft) 13 pages
+- [Conclusion](Conclusion/conclusion.markdown) (very rought draft) 15 pages
 
 ### Appendices
 
