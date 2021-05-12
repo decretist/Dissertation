@@ -2,9 +2,9 @@
 author: Paul Evans
 bibliography: ../bib/merged.bib
 csl: ../csl/chicago-fullnote-bibliography.csl
-date: 5 May 2021
+date: 11 May 2021
 reference-section-title: Bibliography
-suppress-bibliography: true
+suppress-bibliography: false
 title: Chapter 3
 subtitle: Authorship
 ---
@@ -30,7 +30,7 @@ Given the material and social technologies for authorship available
 in the twelfth century, creation of a text the size of Gratian's
 *Decretum* would necessarily have been a collaborative effort.
 Pennington has noted that "Gratian may have had an atelier of
-assistants",[@pennington_biography_2018, 362] but that observation
+assistants,"[@pennington_biography_2018, 362] but that observation
 suggests that the nature of the collaboration between Gratian and
 those Pennington conceives of as his assistant needs to be examined
 more closely. What substantive intellectual contributions, if any,
@@ -39,7 +39,7 @@ number of indications, discussed in the previous chapter, that the
 *Decretum* outgrew the ability of a single author to effectively
 manage the development of the text. The question is whether Gratian's
 partial loss of control of the project opened up a space for
-truly collaborative authorship. The starting point for this inquiry
+genuinely collaborative authorship. The starting point for this inquiry
 is a theoretically informed understanding of what authorship is.
 
 ## Authorship
@@ -126,19 +126,34 @@ texts.
 
 Barthes's criticism of the idea of authorship is apophatic, concerned
 mostly with what, in his view, authorship is not. Barthes warns
-against the conceptualization of authorship that most historians
-(including those who have written about Gratian's authorship of the
-*Decretum*) take for granted. **Foucault on the other hand ...**
+against the conceptualization of authorship, centered on the
+biographical-historical context of the individual author, that most
+historians (including those who have written about Gratian's
+authorship of the *Decretum*) take for granted. In place of the
+conceptualization of authorship rendered suspect by Barthes, Foucault
+proposes the idea of the "author function." He starts by asking
+"[w]hat is an author’s name? How does it function?"[@foucault_what_1998,
+209] and then goes on to observe:
 
-Foucault asks "[w]hat is an author’s name? How does it
-function?"[@foucault_what_1998, 209]
+> ... if we proved that Shakespeare did not write those sonnets
+which pass for his, that would constitute a significant change and
+affect the manner in which the author's name functions. If we proved
+that Shakespeare wrote Bacon's *Organon* by showing that the same
+author wrote both the works of Bacon and those of Shakespeare, that
+would ...  entirely modify the functioning of the author's
+name.[@foucault_what_1998, 210]
 
-> ... if we proved that Shakespeare did not write those sonnets which
-pass for his, that would constitute a significant change and affect
-the manner in which the author's name functions. If we proved that
-Shakespeare wrote Bacon's *Organon* by showing that the same author
-wrote both the works of Bacon and those of Shakespeare, that would ...
-entirely modify the functioning of the author's name.[@foucault_what_1998, 210]
+Foucault has a reputation for the use of specialized vocabulary
+(his critics would say jargon) in his writing that many historians
+find objectionable. The specialized use of the term "author function"
+is a case in point. The idea that he is attempting to convey,
+however, is relatively straightforward. Abstract away the biographical
+details about the author from the work that the *idea* of the author
+does for us when we close-read a text, and what remains is the
+author function. Ironically, given the rather avant-garde reputation
+that is still attached to his name at least in the English-speaking
+world, Foucault derives the substantive content of the idea of the
+author function almost entirely from Jerome (†420).
 
 > In *De Viris illustribus*, Saint Jerome explains that homonymy is not
 sufficient to identify legitimately authors of more than one work:

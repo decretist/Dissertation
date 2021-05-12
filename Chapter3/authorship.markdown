@@ -18,7 +18,7 @@ thirteenth century.[3]
 Given the material and social technologies for authorship available in
 the twelfth century, creation of a text the size of Gratian's *Decretum*
 would necessarily have been a collaborative effort. Pennington has noted
-that "Gratian may have had an atelier of assistants",[4] but that
+that "Gratian may have had an atelier of assistants,"[4] but that
 observation suggests that the nature of the collaboration between
 Gratian and those Pennington conceives of as his assistant needs to be
 examined more closely. What substantive intellectual contributions, if
@@ -26,9 +26,9 @@ any, did Gratian's collaborators make to the project?[5] There are a
 number of indications, discussed in the previous chapter, that the
 *Decretum* outgrew the ability of a single author to effectively manage
 the development of the text. The question is whether Gratian's partial
-loss of control of the project opened up a space for truly collaborative
-authorship. The starting point for this inquiry is a theoretically
-informed understanding of what authorship is.
+loss of control of the project opened up a space for genuinely
+collaborative authorship. The starting point for this inquiry is a
+theoretically informed understanding of what authorship is.
 
 ## Authorship
 
@@ -108,11 +108,13 @@ selection of authoritative texts.
 
 Barthes's criticism of the idea of authorship is apophatic, concerned
 mostly with what, in his view, authorship is not. Barthes warns against
-the conceptualization of authorship that most historians (including
-those who have written about Gratian's authorship of the *Decretum*)
-take for granted. **Foucault on the other hand ...**
-
-Foucault asks "\[w\]hat is an author’s name? How does it function?"[12]
+the conceptualization of authorship, centered on the
+biographical-historical context of the individual author, that most
+historians (including those who have written about Gratian's authorship
+of the *Decretum*) take for granted. In place of the conceptualization
+of authorship rendered suspect by Barthes, Foucault proposes the idea of
+the "author function." He starts by asking "\[w\]hat is an author’s
+name? How does it function?"[12] and then goes on to observe:
 
 > ... if we proved that Shakespeare did not write those sonnets which
 > pass for his, that would constitute a significant change and affect
@@ -120,6 +122,18 @@ Foucault asks "\[w\]hat is an author’s name? How does it function?"[12]
 > Shakespeare wrote Bacon's *Organon* by showing that the same author
 > wrote both the works of Bacon and those of Shakespeare, that would ...
 > entirely modify the functioning of the author's name.[13]
+
+Foucault has a reputation for the use of specialized vocabulary (his
+critics would say jargon) in his writing that many historians find
+objectionable. The specialized use of the term "author function" is a
+case in point. The idea that he is attempting to convey, however, is
+relatively straightforward. Abstract away the biographical details about
+the author from the work that the *idea* of the author does for us when
+we close-read a text, and what remains is the author function.
+Ironically, given the rather avant-garde reputation that is still
+attached to his name at least in the English-speaking world, Foucault
+derives the substantive content of the idea of the author function
+almost entirely from Jerome (†420).
 
 > In *De Viris illustribus*, Saint Jerome explains that homonymy is not
 > sufficient to identify legitimately authors of more than one work:
@@ -154,6 +168,82 @@ Foucault's essay is a response to Barthes's.
 
 Foucault's essay is more directly relevant than Barthes's to the
 problems of authorship raised by Gratian's *Decretum*,
+
+# Bibliography
+
+<div id="refs" class="references csl-bib-body hanging-indent">
+
+<div id="ref-barthes_death_1977" class="csl-entry">
+
+Barthes, Roland. “The Death of the Author.” In *Image, Music, Text*,
+translated by Stephen Heath, 142–48. New York: Hill; Wang, 1977.
+
+</div>
+
+<div id="ref-foucault_what_1998" class="csl-entry">
+
+Foucault, Michel. “What Is an Author?” In *Aesthetics, Method, and
+Epistemology*, edited by James D. Faubion and Paul Rabinow, translated
+by Robert Hurley, 205–22. Essential Works of Foucault, 1954-1984, v. 2.
+New York: New Press, 1998.
+
+</div>
+
+<div id="ref-grebner_patronate_2007" class="csl-entry">
+
+Grebner, Gundula. “Lay Patronate in Bologna in the first half of the
+12th Century: Regular Canons, Notaries, and the Decretum.” In *Europa
+und seine Regionen: 2000 Jahre Rechtsgeschichte*, edited by Andreas
+Bauer and Karl H. L. Welker, 107–22. Vienna, 2007.
+
+</div>
+
+<div id="ref-hulley_principles_1944" class="csl-entry">
+
+Hulley, Karl Kelchner. “Principles of Textual Criticism Known to St.
+Jerome.” *Harvard Studies in Classical Philology* 55 (1944): 87–109.
+
+</div>
+
+<div id="ref-odonnell_augustine_2005" class="csl-entry">
+
+O’Donnell, James Joseph. *Augustine: A New Biography*. 1st ed. New York:
+HarperCollins Publishers, 2005.
+
+</div>
+
+<div id="ref-pennington_biography_2014" class="csl-entry">
+
+Pennington, Kenneth. “The Biography of Gratian, the Father of Canon
+Law.” *Villanova Law Review* 59 (2014): 679–706.
+
+</div>
+
+<div id="ref-pennington_biography_2018" class="csl-entry">
+
+———. “The Biography of Gratian, the Father of Canon Law.” In *A Service
+Beyond All Recompense*, edited by Kurt Martens, 359–92. Catholic
+University of America Press, 2018.
+
+</div>
+
+<div id="ref-walzer_who_2011" class="csl-entry">
+
+Walzer, Arthur E., and Brandon M. Inabinet. “Who Wrote the Rhetoric? A
+Response to Brad McAdon.” *Advances in the History of Rhetoric* 14, no.
+2 (July 2011): 166–90.
+
+</div>
+
+<div id="ref-winroth_where_2013" class="csl-entry">
+
+Winroth, Anders. “Where Gratian Slept: The Life and Death of the Father
+of Canon Law.” *Zeitschrift der Savigny-Stiftung für Rechtsgeschichte:
+Kanonistische Abteilung* 99, no. 1 (August 2013): 105–28.
+
+</div>
+
+</div>
 
 [1] James Joseph O’Donnell, *Augustine: A New Biography*, 1st ed. (New
 York: HarperCollins Publishers, 2005), 136, 139. The need for scribal or
