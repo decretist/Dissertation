@@ -2,7 +2,7 @@
 author: Paul Evans
 bibliography: ../bib/merged.bib
 csl: ../csl/chicago-fullnote-bibliography.csl
-date: 13 April 2021
+date: 12 May 2021
 reference-section-title: Bibliography
 suppress-bibliography: false
 title: Conclusion
