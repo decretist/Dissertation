@@ -4,7 +4,7 @@ bibliography: ../bib/merged.bib
 csl: ../csl/chicago-fullnote-bibliography.csl
 date: 5 May 2021
 reference-section-title: Bibliography
-suppress-bibliography: false
+suppress-bibliography: true
 title: Chapter 3
 subtitle: Authorship
 ---
