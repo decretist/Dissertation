@@ -34,9 +34,13 @@ separately from one another.
 
 ### Parking Lot
 
-Pennington's "someone would have noticed" argument:
+Pennington has argued against Winroth's claim that the development
+from the first to the second recension of the *Decretum* was
+accomplished in a single bound by someone other than the original
+Gratian on the grounds that someone would have noticed and remarked
+on such an extreme reconfiguration of the text:
 
-My main argument for not accepting the theory that there were two
+> My main argument for not accepting the theory that there were two
 Gratians is quite simple. It is difficult to imagine that if a
 Gratian compiled the pre-Vulgate *Decretum*, and another person
 doubled the size from ca. 2000 canons to ca. 4000, the first
@@ -45,17 +49,22 @@ known about the second Gratian’s work and blithely attributed what
 was now a massive work to just "Gratian."[@pennington_biography_2018,
 361-362.]
 
-PLE: They did not notice or know because the *Decretum* came to the
-attention of a significant audience only among the second, not the
-first, generation of jurists after Gratian. An example of the kind
-of change that did *not* escape the notice of the earliest widespread
-audience was the division of the first part of the *Decretum* into
-distinctions by Paucapalea. Note that Paucapalea, to whom the
-division of the first part of the *Decretum* into distinctions was
-attributed, was so far removed from the circumstances surrounding
-the compilation of the *Decretum* that he did not even know the
-name of its author. (This, in turn, is an argument in favor of the
-case statements having been the first part of the *Decretum* reduced
-to a written form. The logical alternative, that case statements
+They did not notice or know, however, because the *Decretum* came
+to the attention of a significant audience only among the second,
+not the first, generation of jurists after Gratian. The earliest
+significant change to the text to draw widespread notice was the
+division of the first part of the *Decretum* into distinctions by
+Paucapalea. Paucapalea, though, was far enough removed from the
+circumstances surrounding the composition of the text that he did
+not even know the name of its author. Ironically, Pennington's
+"someone would have noticed" argument is wrong precisely because
+his argument that the text of the *Decretum* underwent a long and
+slow development process is right.
+
+This, in turn, is an argument in favor of the case statements
+having been one of the first parts of the *Decretum* reduced to a
+stable written form. The logical alternative, that case statements
 were written after the fact, would have to have taken place late
-enough in the process that someone would have noticed.
+enough in the development of the text that someone would have
+noticed.
+
