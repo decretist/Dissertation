@@ -36,7 +36,7 @@ extensively quoted in his *de Penitentia* from a text, *De vera et
 falsa penitentia*, that circulated under such false pretences.
 Others sought to distance themselves from the role of author by
 locating authority in texts they quoted rather than in the original
-use they made of those quoted texts in their own writing.[^1] In
+use they made of those quoted texts in their own writing.[^tmp1] In
 any event, the modern notion that the ultimate source for the
 authority of a text is is an independent judgement by the reader
 of the validity of the arguments it contains is simply not applicable
@@ -67,14 +67,14 @@ or 1140s for no particular reason other than that the conventions
 for the various genres of the literature of canon law had not yet
 been firmly established, readers in the 1150s and 1160s seem to
 have understood it, at least implicitly, as a claim to authority,
-a claim that they were more than willing to accept.[^2] This was
+a claim that they were more than willing to accept.[^tmp2] This was
 almost certainly an over-reading of the authority claim actually
-being made in the *Decretum*.[^3]
+being made in the *Decretum*.[^tmp3]
 
-[^1]: "their authority deriving mainly from the fact that they
+[^tmp1]: "their authority deriving mainly from the fact that they
 consisted mostly of quotations" @winroth_making_2000, 191.
 
-[^2]: "In the first recension, Gratian I both collected authoritative
+[^tmp2]: "In the first recension, Gratian I both collected authoritative
 texts and commented upon them, as did Peter Lombard in his roughly
 contemporary *Sentences*. Both texts were written to meet the need
 for a basic text-book in the teaching of their respective disciplines.
@@ -97,7 +97,7 @@ the awareness of teachers like Bernard of Pavia that their compilations
 might become standard school-texts (and, hence, that comments were
 best relegated to the margins)." @winroth_making_2000, 191.
 
-[^3]: At most, there seems to have been a limited claim of authority
+[^tmp3]: At most, there seems to have been a limited claim of authority
 being made by the authors of the first-recension *dicta* (Gratian 1)
 on behalf of their *magister*, the author of the case statements
 (Gratian 0), whose harmonization of the canons was authoritative
