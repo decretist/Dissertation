@@ -2,9 +2,11 @@ all: authorship.markdown chapter3.markdown
 
 authorship.markdown: authorship.md ../bib/merged.bib
 	pandoc -o authorship.markdown --citeproc -f markdown-smart -t gfm authorship.md
+	cat ../lic/license.html >> authorship.markdown
 	
 chapter3.markdown: chapter3.md ../bib/merged.bib
 	pandoc -o chapter3.markdown --citeproc -f markdown-smart -t gfm chapter3.md
+	cat ../lic/license.html >> chapter3.markdown
 
 authorship.docx: authorship.md ../bib/merged.bib ../ref/final.docx
 	pandoc -o authorship.docx --citeproc --reference-doc=../ref/final.docx authorship.md
