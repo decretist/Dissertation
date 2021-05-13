@@ -1,8 +1,18 @@
 ---
 author: Paul Evans
-date: June 6, 2020
+date: 13 May, 2021
 title: Overflow
 ---
+## Chapter 3
+
+### *Decretum* vs. *dicta*
+
+Furthermore, the *Decretum* is mostly quoted text. Therefore, the
+questions of the authorship and authority of the *Decretum* as a
+whole and of the *dicta* have to be considered distinctly although
+not separately from one another.
+
+## Chapter 4
 The two-dimensional visualization above proceeded from the traditional
 assumption that Gratian's *dicta*---defined as the hypothetical
 case statements (*themata*) plus the first- and second-recension

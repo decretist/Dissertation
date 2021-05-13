@@ -1,13 +1,3 @@
----
-author: Paul Evans
-bibliography: ../bib/merged.bib
-csl: ../csl/chicago-fullnote-bibliography.csl
-date: 12 May 2021
-reference-section-title: Bibliography
-suppress-bibliography: false
-title: Chapter 3m
-subtitle: Authorship and Authority
----
 ### Authorship vs. Authority
 
 When modern scholars talk about authorship, they are mostly interested
