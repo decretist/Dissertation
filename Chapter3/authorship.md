@@ -2,7 +2,7 @@
 author: Paul Evans
 bibliography: ../bib/merged.bib
 csl: ../csl/chicago-fullnote-bibliography.csl
-date: 11 May 2021
+date: 13 May 2021
 reference-section-title: Bibliography
 suppress-bibliography: false
 title: Chapter 3

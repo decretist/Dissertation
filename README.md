@@ -10,8 +10,7 @@
 - [Chapter 1: Background](Chapter1/chapter1.markdown) (13 April 2021) 30 pages
 - [Chapter 2: The *Decretum*](Chapter2/chapter2.markdown) (3 May 2021) 47 pages
 - Chapter 3: Authority, Authorship, Author
-  - [Authority](Chapter3/authority.markdown) (12 May 2021) 4 pages
-  - [Authorship](Chapter3/authorship.markdown) (11 May 2021) 11 pages
+  - [Authority, Authorship](Chapter3/authorship.markdown) (13 May 2021) 15 pages
   - [Author](Chapter3/chapter3.markdown) (1 July 2020) 20 pages
 - [Chapter 4: Stylometry](Chapter4/chapter4.markdown) (28 July 2020) 80 pages
   - [Principal component analysis](Chapter4/pca.markdown) (25 March 2021) 26 pages
