@@ -1,5 +1,8 @@
-all: authorship.markdown chapter3.markdown
+all: authority.markdown authorship.markdown chapter3.markdown
 
+authority.markdown: authority.md ../bib/merged.bib
+	pandoc -o authority.markdown --citeproc -f markdown-smart -t gfm authority.md
+	
 authorship.markdown: authorship.md ../bib/merged.bib
 	pandoc -o authorship.markdown --citeproc -f markdown-smart -t gfm authorship.md
 	
@@ -19,5 +22,5 @@ chapter3m.docx: chapter3m.md ../bib/merged.bib ../ref/draft.docx
 	pandoc -o chapter3m.docx --citeproc --reference-doc=../ref/draft.docx chapter3m.md
 
 clean:
-	rm -i authorship.markdown chapter3.markdown
+	rm -i authority.markdown authorship.markdown chapter3.markdown
 

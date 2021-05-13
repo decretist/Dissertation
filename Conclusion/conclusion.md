@@ -319,7 +319,7 @@ circumstances surrounding the composition of the text that he did
 not even know the name of its author. Ironically, Pennington's
 "someone would have noticed" argument is wrong precisely because
 his argument that the text of the *Decretum* underwent a long and
-slow development process is right.
+slow process of development is right.
 
 This, in turn, is an argument in favor of the case statements
 having been one of the first parts of the *Decretum* reduced to a
