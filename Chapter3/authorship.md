@@ -206,24 +206,22 @@ author wrote both the works of Bacon and those of Shakespeare, that
 would ...  entirely modify the functioning of the author's
 name.[@foucault_what_1998, 210]
 
-Foucault has a reputation for the use of specialized vocabulary
-(his critics would say jargon) in his writing that many historians
-find objectionable. The specialized use of the term "author function"
+Foucault has a reputation for using esoteric vocabulary in his
+writing---his critics would say jargon---in a way that many historians
+find objectionable. The technical use of the term "author function"
 is a case in point. The idea that he is attempting to convey,
 however, is relatively straightforward. Abstract away the biographical
 details about the author from the work that the *idea* of the author
-does for us when we close-read a text, and what remains is the
-author function. Ironically, given the rather avant-garde reputation
-that is still attached to his name at least in the English-speaking
+does for us when we read a text, and what remains is the author
+function. Ironically, given the rather avant-garde reputation that
+is still attached to his name at least in the English-speaking
 world, Foucault derives the substantive content of the idea of the
 author function almost entirely from Jerome (†420).
 
-> In *De Viris illustribus*, Saint Jerome explains that homonymy is not
-sufficient to identify legitimately authors of more than one work:
-different individuals could have had the same name, or one man could
-have, illegitimately, borrowed another’s patronymic. The name as
-an individual trademark is not enough when one works within a textual
-tradition. [@foucault_what_1998, 214]
+> In *De Viris illustribus*, Saint Jerome explains that homonymy
+is not sufficient to identify legitimately authors of more than one
+work ... The name as an individual trademark is not enough when one
+works within a textual tradition. [@foucault_what_1998, 214]
 
 > How, then can one attribute several discourses to one and the same
 author? How can one use the author function to determine if one is
