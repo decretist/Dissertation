@@ -29,7 +29,7 @@
 - [x] Zoom w/Kate Jansen 14:30 PDT
 
 (13 July 2020)
--[x] Zoom w/Stan Chodorow 09:00 PDT
+- [x] Zoom w/Stan Chodorow 09:00 PDT
 
 (14 May 2020)
 - [x] Write definition of 1st- and 2nd-recension _dicta_ in samples
