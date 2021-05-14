@@ -1,7 +1,7 @@
 ### 2021 Dissertation Checklist
 
 - [ ] Abstract
-- [ ] Chapter 0: expand Outline of Chapters
+- [ ] Chapter 0: expand outline of chapters
 - [ ] Chapter 2: add Mm, Sg comments to case statements section
 
 (14 April 2020)
