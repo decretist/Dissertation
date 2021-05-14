@@ -2,6 +2,7 @@
 
 - [ ] Abstract
 - [ ] Chapter 0: expand Outline of Chapters
+- [ ] Chapter 2: add Mm, Sg comments to case statements section
 
 (14 April 2020)
 - [x] Teleconference with William Mattingly re: Latin BERT and fastText embeddings.
