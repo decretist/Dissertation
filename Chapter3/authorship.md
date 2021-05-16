@@ -230,12 +230,12 @@ which the name of Gratian became attached quite early on "as an
 individual trademark." Furthermore, modern theories of literary
 authorship are substantially derived from the work of the figure
 that Gratian's twelfth-century contemporaries, most notably Abelard,
-considered supremely authoritative on precisely this kind of problem.
+considered supremely authoritative on precisely this kind of problem.[^18]
 
 > How, then can one attribute several discourses to one and the same
 author? How can one use the author function to determine if one is
 dealing with one or several individuals? Saint Jerome proposes four
-criteria:[^18]
+criteria:[^19]
 
 > \(1\) if among several books attributed to an author one
 is inferior to the others, it must be withdrawn from the list of
@@ -318,7 +318,13 @@ assess its contribution to his work accordingly.
 
 [^10]: @barthes_death_1977; and @foucault_what_1998.
 
-[^18]: @foucault_what_1998, 214. Foucault claims to have derived
+[^18]: "We must also be very careful not to be deceived by a false
+attribution of authorship or by a corrupt text ... Jerome, that
+most reliable writer and most faithful translator has given us
+forewarning of this." @abelard_prologue_1988, 89. **Translated from
+Boyer and McKeon, 89-104.**
+
+[^19]: @foucault_what_1998, 214. Foucault claims to have derived
 the four criteria for determining whether a given "discursive set"
 has one or several authors from Jerome's *De Viris illustribus*.
 He provides, however, no citations. Walzer and Inabinit indicate

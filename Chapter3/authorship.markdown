@@ -207,12 +207,12 @@ the name of Gratian became attached quite early on "as an individual
 trademark." Furthermore, modern theories of literary authorship are
 substantially derived from the work of the figure that Gratian's
 twelfth-century contemporaries, most notably Abelard, considered
-supremely authoritative on precisely this kind of problem.
+supremely authoritative on precisely this kind of problem.[18]
 
 > How, then can one attribute several discourses to one and the same
 > author? How can one use the author function to determine if one is
 > dealing with one or several individuals? Saint Jerome proposes four
-> criteria:[18]
+> criteria:[19]
 
 > \(1\) if among several books attributed to an author one is inferior
 > to the others, it must be withdrawn from the list of the author’s
@@ -229,7 +229,7 @@ supremely authoritative on precisely this kind of problem.
 > \(4\) finally, passages quoting statements made or mentioning events
 > that occurred after the author’s death must be regarded as
 > interpolated texts (the author is seen as a historical figure at the
-> crossroads of a certain number of events).[19]
+> crossroads of a certain number of events).[20]
 
 Foucault's essay is a response to Barthes's.
 
@@ -239,6 +239,15 @@ problems of authorship raised by Gratian's *Decretum*,
 # Bibliography
 
 <div id="refs" class="references csl-bib-body hanging-indent">
+
+<div id="ref-abelard_prologue_1988" class="csl-entry">
+
+Abelard, Peter. “Prologue to the Yes and No.” In *Medieval Literary
+Theory and Criticism, c.1100-c.1375: The Commentary Tradition*, edited
+by A. J. Minnis, A. Brian Scott, and David Wallace, 87–100. Oxford:
+Clarendon Press, 1988.
+
+</div>
 
 <div id="ref-barthes_death_1977" class="csl-entry">
 
@@ -406,7 +415,15 @@ Press, 1998), 205–22.
 
 [17] Foucault, 214.
 
-[18] Foucault, “What Is an Author?”, 214. Foucault claims to have
+[18] "We must also be very careful not to be deceived by a false
+attribution of authorship or by a corrupt text ... Jerome, that most
+reliable writer and most faithful translator has given us forewarning of
+this." Peter Abelard, “Prologue to the Yes and No,” in *Medieval
+Literary Theory and Criticism, c.1100-c.1375: The Commentary Tradition*,
+ed. A. J. Minnis, A. Brian Scott, and David Wallace (Oxford: Clarendon
+Press, 1988), 87–100, 89. **Translated from Boyer and McKeon, 89-104.**
+
+[19] Foucault, “What Is an Author?”, 214. Foucault claims to have
 derived the four criteria for determining whether a given "discursive
 set" has one or several authors from Jerome's *De Viris illustribus*. He
 provides, however, no citations. Walzer and Inabinit indicate that
@@ -421,7 +438,7 @@ Foucault's four criteria, and provides citations to many works by Jerome
 (not just *De Viris illustribus*) relevant to the question of
 determining the authorship of a text or texts.
 
-[19] Foucault, “What Is an Author?” 214.
+[20] Foucault, “What Is an Author?” 214.
 
 <div align="center">
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
