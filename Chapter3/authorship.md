@@ -320,7 +320,7 @@ assess its contribution to his work accordingly.
 
 [^18]: "We must also be very careful not to be deceived by a false
 attribution of authorship or by a corrupt text ... Jerome, that
-most reliable writer and most faithful translator has given us
+most reliable writer and most faithful translator, has given us
 forewarning of this." @abelard_prologue_1988, 89. **Translated from
 Boyer and McKeon, 89-104.**
 

@@ -417,8 +417,8 @@ Press, 1998), 205–22.
 
 [18] "We must also be very careful not to be deceived by a false
 attribution of authorship or by a corrupt text ... Jerome, that most
-reliable writer and most faithful translator has given us forewarning of
-this." Peter Abelard, “Prologue to the Yes and No,” in *Medieval
+reliable writer and most faithful translator, has given us forewarning
+of this." Peter Abelard, “Prologue to the Yes and No,” in *Medieval
 Literary Theory and Criticism, c.1100-c.1375: The Commentary Tradition*,
 ed. A. J. Minnis, A. Brian Scott, and David Wallace (Oxford: Clarendon
 Press, 1988), 87–100, 89. **Translated from Boyer and McKeon, 89-104.**
