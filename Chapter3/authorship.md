@@ -223,6 +223,15 @@ is not sufficient to identify legitimately authors of more than one
 work ... The name as an individual trademark is not enough when one
 works within a textual tradition. [@foucault_what_1998, 214]
 
+This is significant. We face in the *Decretum* a problem concerning
+authorship that medieval textual scholars like Abelard and Gratian
+himself would have found quite familiar: a textual tradition to
+which the name of Gratian became attached quite early on "as an
+individual trademark." Furthermore, modern theories of literary
+authorship are substantially derived from the work of the figure
+that Gratian's twelfth-century contemporaries, most notably Abelard,
+considered supremely authoritative on precisely this kind of problem.
+
 > How, then can one attribute several discourses to one and the same
 author? How can one use the author function to determine if one is
 dealing with one or several individuals? Saint Jerome proposes four
