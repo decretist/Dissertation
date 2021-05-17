@@ -421,7 +421,10 @@ reliable writer and most faithful translator, has given us forewarning
 of this." Peter Abelard, “Prologue to the Yes and No,” in *Medieval
 Literary Theory and Criticism, c.1100-c.1375: The Commentary Tradition*,
 ed. A. J. Minnis, A. Brian Scott, and David Wallace (Oxford: Clarendon
-Press, 1988), 87–100, 89. **Translated from Boyer and McKeon, 89-104.**
+Press, 1988), 87–100, 89. **"Illud quoque diligenter attendi convenit ne
+... falsa tituli inscriptione vel scripturae ipsius corruptione fallamur
+... Unde fidelissimus scriptor et veracissimus interpres Hieronymus ...
+nos praemonuit." Boyer and McKeon, 91.**
 
 [19] Foucault, “What Is an Author?”, 214. Foucault claims to have
 derived the four criteria for determining whether a given "discursive
