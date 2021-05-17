@@ -214,20 +214,29 @@ supremely authoritative on precisely this kind of problem.[18]
 > dealing with one or several individuals? Saint Jerome proposes four
 > criteria:[19]
 
+Only two of Jerome's four criteria (the second and fourth) have figured
+significantly in recent scholarship on the authorship of Gratian's
+*Decretum*.
+
 > \(1\) if among several books attributed to an author one is inferior
-> to the others, it must be withdrawn from the list of the author’s
+> to the others, it must be withdrawn from the list of the author's
 > works (the author is therefore defined as a constant level of value);
 
 > \(2\) the same should be done if certain texts contradict the doctrine
 > expounded in the author’s other works (the author is thus defined as a
 > field of conceptual or theoretical coherence);
 
+Winroth argues that the second recension of the *Decretum* reflects a
+level of reception of Roman Law doctrine so much more advanced than the
+first recension that the two recensions cannot be attributed to a single
+author.
+
 > \(3\) one must also exclude works that are written in a different
 > style, containing words and expressions not ordinarily found in the
 > writer’s production;
 
 > \(4\) finally, passages quoting statements made or mentioning events
-> that occurred after the author’s death must be regarded as
+> that occurred after the author's death must be regarded as
 > interpolated texts (the author is seen as a historical figure at the
 > crossroads of a certain number of events).[20]
 
