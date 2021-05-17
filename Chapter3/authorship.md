@@ -237,25 +237,33 @@ author? How can one use the author function to determine if one is
 dealing with one or several individuals? Saint Jerome proposes four
 criteria:[^19]
 
-> \(1\) if among several books attributed to an author one
-is inferior to the others, it must be withdrawn from the list of
-the author’s works (the author is therefore defined as a constant
-level of value);
+Only two of Jerome's four criteria (the second and fourth) have
+figured significantly in recent scholarship on the authorship of
+Gratian's *Decretum*.
 
-> \(2\) the same should be done if certain texts
-contradict the doctrine expounded in the author’s other works (the
-author is thus defined as a field of conceptual or theoretical
-coherence);
+> \(1\) if among several books attributed to an author one is
+inferior to the others, it must be withdrawn from the list of the
+author's works (the author is therefore defined as a constant level
+of value);
 
-> \(3\) one must also exclude works that are written in a
-different style, containing words and expressions not ordinarily
-found in the writer’s production;
+> \(2\) the same should be done if certain texts contradict the
+doctrine expounded in the author’s other works (the author is thus
+defined as a field of conceptual or theoretical coherence);
 
-> \(4\) finally, passages quoting
-statements made or mentioning events that occurred after the author’s
-death must be regarded as interpolated texts (the author is seen
-as a historical figure at the crossroads of a certain number of
-events). [@foucault_what_1998, 214]
+Winroth argues that the second recension of the *Decretum* reflects
+a level of reception of Roman Law doctrine so much more advanced
+than the first recension that the two recensions cannot be attributed
+to a single author.
+
+> \(3\) one must also exclude works that are written in a different
+style, containing words and expressions not ordinarily found in the
+writer’s production;
+
+> \(4\) finally, passages quoting statements made or mentioning
+events that occurred after the author's death must be regarded as
+interpolated texts (the author is seen as a historical figure at
+the crossroads of a certain number of events). [@foucault_what_1998,
+214]
 
 Foucault's essay is a response to Barthes's.
 
