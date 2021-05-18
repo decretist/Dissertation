@@ -196,10 +196,10 @@ Gratian or his plan of work.
 
 #### Omnibonus or Omnebene
 
-Omnibonus or Omnebene (d.1185) composed an abbreviation (*summa*?
-abridged version?) of the *Decretum* in the 1150s.[18] The basis for the
-claim that Omnebene was a student of Gratian is an entry for the year
-1130 in the chronicle of Norman monk Robert of Torigni (†1186)
+Omnibonus or Omnebene (d.1185) composed an adaptation or transformation
+of the *Decretum* in the 1150s.[18] The basis for the claim that
+Omnebene was a student of Gratian is an entry for the year 1130 in the
+chronicle of Norman monk Robert of Torigni (†1186)
 
 > *Gratianus episcopus Clusinus coadunavit decreta valde utilia ex
 > decretis, canonibus, doctoribus, legibus Romanis, sufficientia ad
@@ -218,20 +218,18 @@ Gratian has improved in recent years since the Siena necrology has made
 the identification of Gratian as bishop of Chiusi more probable.
 
 The dates do not preclude Omnebene's having been a student of Gratian.
-Although Omnebene lived into the 1180s, the abbreviation itself seems to
-date from the 1150s, perhaps a decade after the end of whatever teaching
-career Gratian may have had, and at precisely the moment that
-continent-wide interest in the text was increasing most rapidly.
-
-**Is there any internal evidence in Omnebene's abbreviation that Gratian
-was his teacher? Cite recent editions of Omnebene's abbreviation.**
+Although Omnebene lived into the 1180s, the adaptation itself seems to
+date from around 1156, perhaps a decade and a half after the end of
+whatever teaching career Gratian may have had, and at precisely the
+moment that continent-wide interest in the text was increasing most
+rapidly.[20]
 
 #### Simon of Bisignano
 
 Simon of Bisignano (fl. 1174--1179) was the author of a *Summa
 decretorum* dated c.1177-79, and a number of glosses on the *Decretum*
-are attributed to him.[20] The evidence that Simon of Bisignano was a
-student of Gratian’s comes from references within his writings.[21]
+are attributed to him.[21] The evidence that Simon of Bisignano was a
+student of Gratian’s comes from references within his writings.[22]
 Simon refers to himself as *discipulus* and to Gratian as *magister* in
 at least two places in his *Summa* (**Landau says "frequently"**). There
 is, however a hiatus of almost four decades between the latest plausible
@@ -537,7 +535,11 @@ online version). *Chronicles of the reigns of Stephen, Henry II, and
 Richard I*, ed. Richard Howlett (1884). *Chronica Roberti de Torigneio*,
 ed. Richard Howlett, RS 82 4.118.
 
-[20] Kenneth Pennington, [Simon of
+[20] **Is there any internal evidence in Omnebene's abbreviation that
+Gratian was his teacher? Cite recent editions of Omnebene's
+abbreviation.**
+
+[21] Kenneth Pennington, [Simon of
 Bisignano](http://amesfoundation.law.harvard.edu/BioBibCanonists/Report_Biobib2.php?record_id=a497),
 *Bio-Bibliographical Guide to Medieval and Early Modern Jurists.*
 Pennington does not indicate that Simon of Bisignano was a student of
@@ -550,7 +552,7 @@ of Medieval Canon Law (Washington, D.C: Catholic University of America
 Press, 2008), 97) **Simon's glosses are dated earlier than his *Summa*
 (cite Hartmann and Pennington).**
 
-[21] Stephan Kuttner, “Research on Gratian: Acta and Agenda,” in
+[22] Stephan Kuttner, “Research on Gratian: Acta and Agenda,” in
 *Studies in the History of Medieval Canon Law*, Collected Studies CS325
 (Aldershot, Hampshire, Great Britain : Brookfield, Vt., USA: Variorum ;
 Gower, 1990), 7. Noonan, “Gratian Slept Here”, 157, rejects this, but

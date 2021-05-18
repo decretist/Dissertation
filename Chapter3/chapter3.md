@@ -162,8 +162,8 @@ suggest that the text developed continuously over the span of, and
 in parallel with, a relatively long teaching career---perhaps a
 decade or more. On the other hand, Gratian's personal obscurity is
 so profound---Stephan Kuttner compared Gratian to the anonymous
-builders of Gothic cathedrals[^7]---as to suggest a short, or
-even no, teaching career.[^8]
+builders of Gothic cathedrals[^11]---as to suggest a short, or
+even no, teaching career.[^12]
 
 Considering the fact that Gratian was universally credited as the
 author of the foundational textbook for the study of canon law in
@@ -171,7 +171,7 @@ the classical period, one of the truly stellar intellectual
 achievements of the renaissance of the twelfth century, his complete
 absence from the kinds of academic genealogies and origin stories
 that Odofredus (†1265) handed down to his own Roman law students
-is striking indeed.[^9]
+is striking indeed.[^13]
 
 We might be better able to assess Gratian's teaching career and how
 it influenced the compilation and transmission of the *Decretum*
@@ -187,10 +187,10 @@ Paucapalea was easily the most prominent figure from the early
 period of the Bolognese school of decretists who followed in Gratian's
 immediate footsteps. Pennington flatly states that Paucapalea was
 "[a] pupil of Gratian and the author of the first commentary on
-the Decretum".[^10] But in the preface to that commentary, Paucapalea
+the Decretum".[^14] But in the preface to that commentary, Paucapalea
 does not refer to Gratian by name: "*Magistri autem hoc opus condentis
 ipsa decreta sunt materia.* The decrees themselves, however, are
-the subject matter of the master producing this work."[^11]
+the subject matter of the master producing this work."[^15]
 
 The omission is potentially significant. Prefaces to academic books
 in the twelfth century formed a recognized genre with well-established
@@ -201,7 +201,7 @@ explicit statement in his preface affirming the authority of both
 the work commented on and its author. If Paucapalea had had something
 to say about the authority of Gratian, his readers would have
 expected him to do so in his preface. That he did not suggests that
-he may not have known enough about Gratian to credibly do so.[^12]
+he may not have known enough about Gratian to credibly do so.[^16]
 
 Furthermore, Paucapalea in the preface to his *summa* clearly shows
 both that he is aware of the third part of the *Decretum*, *de
@@ -212,7 +212,7 @@ domini atque baptismo nec non et confirmatione pleniter tractat,
 et in his suum tractatum terminat.* In the end, he treats fully the
 dedication of churches, the body and blood of the Lord, baptism,
 and also confirmation, and with these things concludes his
-treatise."[^13]
+treatise."[^17]
 
 If Rambaud is correct that *de Consecratione* was not part of the
 original *Decretum*, the fact that Paucapalea attributed it to the
@@ -222,11 +222,10 @@ of Gratian or his plan of work.
 
 #### Omnibonus or Omnebene
 
-Omnibonus or Omnebene (d.1185) composed an abbreviation (*summa*?
-abridged version?) of the *Decretum* in the 1150s.[^o] The basis
-for the claim that Omnebene was a student of Gratian is an entry
-for the year 1130 in the chronicle of Norman monk Robert of Torigni
-(†1186)
+Omnibonus or Omnebene (d.1185) composed an adaptation or transformation
+of the *Decretum* in the 1150s.[^18] The basis for the claim that
+Omnebene was a student of Gratian is an entry for the year 1130 in
+the chronicle of Norman monk Robert of Torigni (†1186)
 
 > *Gratianus episcopus Clusinus coadunavit decreta valde utilia ex
 decretis, canonibus, doctoribus, legibus Romanis, sufficientia ad
@@ -237,7 +236,7 @@ magister Omnebonum episcopus Veronensis, qui fuerat eius discipulus.*
 of decrees, canons, doctors, Roman laws, sufficient for deciding
 all ecclesiastical cases, which are resorted to at the Roman curia
 and in other ecclesiastical courts. Master Omnebonum bishop of
-Verona, who had been his student, afterwards abbreviated them.)[^14]
+Verona, who had been his student, afterwards abbreviated them.)[^19]
 
 Although the evidence of Robert's chronicle is by Noonan's standard
 hearsay, Robert's reputation as a well-informed source concerning
@@ -245,23 +244,19 @@ Gratian has improved in recent years since the Siena necrology has
 made the identification of Gratian as bishop of Chiusi more probable.
 
 The dates do not preclude Omnebene's having been a student of
-Gratian. Although Omnebene lived into the 1180s, the abbreviation
-itself seems to date from the 1150s, perhaps a decade after the end
-of whatever teaching career Gratian may have had, and at precisely
-the moment that continent-wide interest in the text was increasing
-most rapidly.
-
-**Is there any internal evidence in Omnebene's abbreviation that
-Gratian was his teacher? Cite recent editions of Omnebene's
-abbreviation.**
+Gratian. Although Omnebene lived into the 1180s, the adaptation
+itself seems to date from around 1156, perhaps a decade and a half
+after the end of whatever teaching career Gratian may have had, and
+at precisely the moment that continent-wide interest in the text
+was increasing most rapidly.[^20]
 
 #### Simon of Bisignano
 
 Simon of Bisignano (fl. 1174--1179) was the author of a *Summa
 decretorum* dated c.1177-79, and a number of glosses on the *Decretum*
-are attributed to him.[^15] The evidence that Simon of Bisignano
+are attributed to him.[^21] The evidence that Simon of Bisignano
 was a student of Gratian’s comes from references within his
-writings.[^16] Simon refers to himself as *discipulus* and to Gratian
+writings.[^22] Simon refers to himself as *discipulus* and to Gratian
 as *magister* in at least two places in his *Summa* (**Landau says
 "frequently"**). There is, however a hiatus of almost four decades
 between the latest plausible date for the end of Gratian's teaching
@@ -320,12 +315,12 @@ on to have unusually influential academic careers in the field
 (Donahue at Harvard, and Somerville at Columbia where he was Winroth's
 dissertation advisor).
 
-[^7]: "He is one of those deeply admirable men of pious modesty,
+[^11]: "He is one of those deeply admirable men of pious modesty,
 like the builders of the medieval cathedrals, whose person is hidden
 and effaced completely behind their immortal works." [@kuttner_father_1941,
 4].
 
-[^8]: **Expand: Winroth argues for a short teaching career, Southern
+[^12]: **Expand: Winroth argues for a short teaching career, Southern
 agues for no teaching career.** R.W. Southern is the extreme outlier
 in this regard, citing as late as 1995 Gratian's supposed association
 with the Camaldolese order to advance an argument that he had never
@@ -347,7 +342,7 @@ some very early alterations and additions to the text of the
 [@southern_scholastic_1995, 287, 304]. **Does Southern provide
 footnotes to support these statements?**
 
-[^9]: **Expand:** The tradition of Roman law teaching in Bologna
+[^13]: **Expand:** The tradition of Roman law teaching in Bologna
 preserved an elaborate genealogy of masters and their students:
 Pepo preceded Wernerius [Irnerius], who taught the Four Doctors.
 Odofredus is an important source for this tradition, and his remarks
@@ -359,29 +354,37 @@ Latin text with accompanying English translation, see
 Note that Odofredus is also the source for associating Gratian with
 the monastery of SS. Felix and Nabor. [@noonan_gratian_1979, 148].
 
-[^10]: Kenneth Pennington,
+[^14]: Kenneth Pennington,
 [Paucapalea](http://amesfoundation.law.harvard.edu/BioBibCanonists/Report_Biobib2.php?record_id=a366),
 *Bio-Bibliographical Guide to Medieval and Early Modern Jurists.*
 
-[^11]: [@paucapalea_summa_1890, 3] [@somerville_prefaces_1998, 184]
+[^15]: [@paucapalea_summa_1890, 3] [@somerville_prefaces_1998, 184]
 Indeed, based on a search through the OCR text layer of a PDF file
 scanned from the Schulte edition and provided to me by Ken Pennington,
 Paucapalea appears not to refer to Gratian by name anywhere in his
 *summa*.
 
-[^12]: **Going to need a very heavyweight footnote here referencing
+[^16]: **Going to need a very heavyweight footnote here referencing
 Minnis.** [@minnis_medieval_1988] [@hunt_introductions_1980]
 
-[^13]: [@paucapalea_summa_1890, 3] [@somerville_prefaces_1998,
+[^17]: [@paucapalea_summa_1890, 3] [@somerville_prefaces_1998,
 184-185]
 
-[^14]: Kuttner, *Repertorium*, 453. MGH Scriptores (SS) 6 (1844), 490.
+[^18]: Kenneth Pennington,
+[Omnibonus](http://amesfoundation.law.harvard.edu/BioBibCanonists/Report_Biobib2.php?record_id=a363),
+*Bio-Bibliographical Guide to Medieval and Early Modern Jurists.*
+
+[^19]: Kuttner, *Repertorium*, 453. MGH Scriptores (SS) 6 (1844), 490.
 *Chronique de Robert de Torigny*, ed. Léopold Delisle, 183-184 (see
 BSB online version). *Chronicles of the reigns of Stephen, Henry
 II, and Richard I*, ed. Richard Howlett (1884). *Chronica Roberti
 de Torigneio*, ed. Richard Howlett, RS 82 4.118.
 
-[^15]: Kenneth Pennington,
+[^20]: **Is there any internal evidence in Omnebene's abbreviation that
+Gratian was his teacher? Cite recent editions of Omnebene's
+abbreviation.**
+
+[^21]: Kenneth Pennington,
 [Simon of Bisignano](http://amesfoundation.law.harvard.edu/BioBibCanonists/Report_Biobib2.php?record_id=a497),
 *Bio-Bibliographical Guide to Medieval and Early Modern Jurists.*
 Pennington does not indicate that Simon of Bisignano was a student
@@ -390,7 +393,7 @@ by the *sigla* s., si., and sy. [@weigand_development_2008, 97]
 **Simon's glosses are dated earlier than his *Summa* (cite Hartmann
 and Pennington).**
 
-[^16]: @kuttner_research_1990, 7. @noonan_gratian_1979, 157, rejects
+[^22]: @kuttner_research_1990, 7. @noonan_gratian_1979, 157, rejects
 this, but Kuttner disagrees. Simon of Bisignano refers to Gratian
 as *magister* and to himself as *discipulus* in his comments on
 C.27 q.2, @simon_of_bisignano_summa_2014, 412. Simon again refers
@@ -440,6 +443,3 @@ or editor's name as the basis for the tag.**
     Although our master taught that, we nevertheless do not wish
     to imitate him in this (PLE).
 
-[^o]: Kenneth Pennington,
-[Omnibonus](http://amesfoundation.law.harvard.edu/BioBibCanonists/Report_Biobib2.php?record_id=a363),
-*Bio-Bibliographical Guide to Medieval and Early Modern Jurists.*
