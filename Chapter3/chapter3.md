@@ -122,7 +122,17 @@ either 1144 or 1145.
 
 ### Pennington's argument
 
-**No transition, and very incomplete**
+Pennington builds on Larson's conjecture that the canon referred
+to at D.63 d.p.c.34 in the first recension and later incorporated
+as D.63 c.35 in the second recension is not canon 28 from the Second
+Lateran Council (1139), but rather a canon from an earlier council
+or synod convened by Innocent II at Rome in 1133 that was restated
+at Lateran II (a common practice in the early twelfth century).
+Pennington supports Larson's conjecture by noting that the text of
+the canon as it appears in the *Decretum* includes variants (*facta
+fuerit* vs *fuerit celebrata*, and *consensus* vs *assensus*) found
+in none of the twenty manuscript witnesses to the Lateran II canons
+edited by Martin Brett.[@pennington_biography_2018, 365]
 
 Pennington, depending on Eichbauer, argues that because the number
 of additional canons found in the margins of Bc, and in both the
@@ -135,8 +145,8 @@ and Vulgate versions. Furthermore, the fact that the Lateran II
 canons *are* present in this "next-to-last" stage undermines the
 argument going back to Fransen and supported by Lenherr that the
 Lateran II canons are a last-minute addition, and poorly if at all
-integrated into the argument of the *Decretum*.[@pennington_biography_2014,
-686]
+integrated into the argument of the *Decretum*.[@pennington_biography_2018,
+367-368]
 
 ### Gratian's teaching career
 
