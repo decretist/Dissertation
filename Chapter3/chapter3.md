@@ -380,9 +380,13 @@ BSB online version). *Chronicles of the reigns of Stephen, Henry
 II, and Richard I*, ed. Richard Howlett (1884). *Chronica Roberti
 de Torigneio*, ed. Richard Howlett, RS 82 4.118.
 
-[^20]: **Is there any internal evidence in Omnebene's abbreviation that
-Gratian was his teacher? Cite recent editions of Omnebene's
-abbreviation.**
+[^20]: **There is no print edition of Omnebene's adaptation (confirmed
+by Ken Pennington, 17 May 2021). The only online form in which the
+manuscript is available is a low-quality digitization of an old
+microfilm of Paris, Bibliothèque nationale de France, Latin 3886.
+I was therefore unable to look for any internal evidence in Omnebene's
+adaptation (e.g., a comment in a preface), indicating that Gratian
+had been his teacher.**
 
 [^21]: Kenneth Pennington,
 [Simon of Bisignano](http://amesfoundation.law.harvard.edu/BioBibCanonists/Report_Biobib2.php?record_id=a497),
