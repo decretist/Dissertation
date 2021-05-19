@@ -56,7 +56,7 @@ of Saints Felice and Nabor, nor did he say that Gratian had been a
 monk. In 1758, Camaldolese scholars Mittarelli and Costadono
 discovered papal privileges conferred in 1113 and 1153 identifying
 Saints Felice and Nabor as Camaldolese, and inferred from them that
-the monastery--- and by extension Gratian himself---had been
+the monastery---and by extension Gratian himself---had been
 Camaldolese during the intervening years. The claim that Gratian
 had a connection to the Camaldolese order attracted criticism in
 the eighteenth century, and fell out of favor in the nineteenth
@@ -109,13 +109,10 @@ reception of concepts and terminology from the study of Roman law,
 and argues that it is unlikely that one author underwent such an
 intellectual evolution in a single generation.[^a]
 
-Fourteenth International Congress of Medieval Canon Law, Toronto,
-2012.[@winroth_where_2013]
-
 Winroth interprets an entry in a Siena necrology (Siena, Biblioteca
 communale degli Intronati F12, f.5r) as evidence that Gratian died
 as bishop of Chiusi on the feast day of St Lawrence (August 10) in
-either 1144 or 1145.
+either 1144 or 1145.[^tmp_b]
 
 ### Pennington's argument
 
@@ -129,21 +126,33 @@ Pennington supports Larson's conjecture by noting that the text of
 the canon as it appears in the *Decretum* includes variants (*facta
 fuerit* vs *fuerit celebrata*, and *consensus* vs *assensus*) found
 in none of the twenty manuscript witnesses to the Lateran II canons
-edited by Martin Brett.[@pennington_biography_2018, 365]
+edited by Martin Brett.[@pennington_biography_2018, 365] Pennington
+argues that there is enough doubt as to whether D.63 d.p.c.34 refers
+to canon 28 from Lateran II---as opposed to a canon from an earlier
+council or synod later reissued with minor textual variations as
+canon 28 at Lateran II---that it cannot be used as the sole or
+primary basis for imposing a *terminus post quem* of 1139 on the
+first recension of the *Decretum*.
 
-Pennington, depending on Eichbauer, argues that because the number
-of additional canons found in the margins of Bc, and in both the
-margins and appendices of Fd and Aa, fall well short of the number
-that would be expected if they had been copied from a Vulgate
-*Decretum* (87 are missing from Aa, and 62 are missing from Fd),
-these manuscripts represent an intermediate "next-to-last" stage
-in the development of the *Decretum* text intermediate the pre-Vulgate
-and Vulgate versions.[^c] Furthermore, the fact that the Lateran
-II canons *are* present in this "next-to-last" stage undermines the
-argument going back to Fransen and supported by Lenherr that the
-Lateran II canons are a last-minute addition, and poorly if at all
-integrated into the argument of the *Decretum*.[@pennington_biography_2018,
-367-368]
+Pennington, building on Eichbauer's findings, argues that because
+the number of additional canons found in the margins of Bc, and in
+both the margins and appendices of Fd and Aa, fall well short of
+the number that would be expected if they had been copied from a
+Vulgate *Decretum* (87 are missing from Aa, and 62 are missing from
+Fd), these manuscripts represent an intermediate "next-to-last"
+stage in the development of the *Decretum* text intermediate the
+pre-Vulgate and Vulgate versions.[^c] Furthermore, the fact that
+the Lateran II canons *are* present in this "next-to-last" stage
+undermines the argument going back to Fransen and supported by
+Lenherr that the Lateran II canons are a last-minute addition, and
+poorly if at all integrated into the argument of the
+*Decretum*.[@pennington_biography_2018, 367-368] **Pennington also
+cites early manuscripts of the *Decretum* with 99 and 100 distinctions
+in Part I as evidence for the continuous evolution of the text
+between the first and second recensions.**
+
+[^hidden]: Pennington assumes an Iberian origin for Bc, but wasn't
+it originally Italian?
 
 ### Gratian's teaching career
 
@@ -323,6 +332,10 @@ as 3L, that were only used in the second recension, but this turned
 out to be an accident of the specific sections I used as case studies
 (C. 24 and C.11 q.3)." (Anders Winroth, email to Paul Evans, 18 May
 2021).
+
+[^tmp_b]: @winroth_where_2013. The article expands on a presentation
+given by Winroth at the Fourteenth International Congress of Medieval
+Canon Law, Toronto, 2012.
 
 [^b]: **Placeholder for Pennington, Larson footnote** Pennington
 asserts that "[t]he main reason that Winroth created a second

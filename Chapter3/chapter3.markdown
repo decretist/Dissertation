@@ -36,7 +36,7 @@ for his statement that Gratian had been a resident of Saints Felice and
 Nabor, nor did he say that Gratian had been a monk. In 1758, Camaldolese
 scholars Mittarelli and Costadono discovered papal privileges conferred
 in 1113 and 1153 identifying Saints Felice and Nabor as Camaldolese, and
-inferred from them that the monastery--- and by extension Gratian
+inferred from them that the monastery---and by extension Gratian
 himself---had been Camaldolese during the intervening years. The claim
 that Gratian had a connection to the Camaldolese order attracted
 criticism in the eighteenth century, and fell out of favor in the
@@ -90,13 +90,10 @@ concepts and terminology from the study of Roman law, and argues that it
 is unlikely that one author underwent such an intellectual evolution in
 a single generation.[8]
 
-Fourteenth International Congress of Medieval Canon Law, Toronto,
-2012.[9]
-
 Winroth interprets an entry in a Siena necrology (Siena, Biblioteca
 communale degli Intronati F12, f.5r) as evidence that Gratian died as
 bishop of Chiusi on the feast day of St Lawrence (August 10) in either
-1144 or 1145.
+1144 or 1145.[9]
 
 ### Pennington's argument
 
@@ -110,19 +107,28 @@ conjecture by noting that the text of the canon as it appears in the
 *Decretum* includes variants (*facta fuerit* vs *fuerit celebrata*, and
 *consensus* vs *assensus*) found in none of the twenty manuscript
 witnesses to the Lateran II canons edited by Martin Brett.[11]
+Pennington argues that there is enough doubt as to whether D.63 d.p.c.34
+refers to canon 28 from Lateran II---as opposed to a canon from an
+earlier council or synod later reissued with minor textual variations as
+canon 28 at Lateran II---that it cannot be used as the sole or primary
+basis for imposing a *terminus post quem* of 1139 on the first recension
+of the *Decretum*.
 
-Pennington, depending on Eichbauer, argues that because the number of
-additional canons found in the margins of Bc, and in both the margins
-and appendices of Fd and Aa, fall well short of the number that would be
-expected if they had been copied from a Vulgate *Decretum* (87 are
-missing from Aa, and 62 are missing from Fd), these manuscripts
+Pennington, building on Eichbauer's findings, argues that because the
+number of additional canons found in the margins of Bc, and in both the
+margins and appendices of Fd and Aa, fall well short of the number that
+would be expected if they had been copied from a Vulgate *Decretum* (87
+are missing from Aa, and 62 are missing from Fd), these manuscripts
 represent an intermediate "next-to-last" stage in the development of the
 *Decretum* text intermediate the pre-Vulgate and Vulgate versions.[12]
 Furthermore, the fact that the Lateran II canons *are* present in this
 "next-to-last" stage undermines the argument going back to Fransen and
 supported by Lenherr that the Lateran II canons are a last-minute
 addition, and poorly if at all integrated into the argument of the
-*Decretum*.[13]
+*Decretum*.[13] **Pennington also cites early manuscripts of the
+*Decretum* with 99 and 100 distinctions in Part I as evidence for the
+continuous evolution of the text between the first and second
+recensions.**
 
 ### Gratian's teaching career
 
@@ -385,14 +391,6 @@ Cambridge University Press, 2000.
 
 </div>
 
-<div id="ref-winroth_where_2013" class="csl-entry">
-
-———. “Where Gratian Slept: The Life and Death of the Father of Canon
-Law.” *Zeitschrift der Savigny-Stiftung für Rechtsgeschichte:
-Kanonistische Abteilung* 99, no. 1 (August 2013): 105–28.
-
-</div>
-
 </div>
 
 [1] John T. Noonan, “Gratian Slept Here: The Changing Identity of the
@@ -410,10 +408,7 @@ scholastic theology. See also (D. E. Luscombe, “Abelard and the Decretum
 of Gratian.” in *The School of Peter Abelard: The Influence of Abelard’s
 Thought in the Early Scholastic Period*, Cambridge Studies in Medieval
 Life and Thought, new series, v. 14 (London: Cambridge U.P, 1969),
-214–23) and \[Anders Winroth, “Where Gratian Slept: The Life and Death
-of the Father of Canon Law,” *Zeitschrift der Savigny-Stiftung für
-Rechtsgeschichte: Kanonistische Abteilung* 99, no. 1 (August 2013):
-105–28, 111
+214–23) and \[1, 111
 
 [4] Noonan identifies Odofredus as the source for associating Gratian
 with Saints Felix and Nabor (Noonan, “Gratian Slept Here”, 148), but cf.
@@ -461,7 +456,9 @@ in the second recension, but this turned out to be an accident of the
 specific sections I used as case studies (C. 24 and C.11 q.3)." (Anders
 Winroth, email to Paul Evans, 18 May 2021).
 
-[9] Winroth, “Where Gratian Slept.”
+[9] 1.  The article expands on a presentation given by Winroth at the
+    Fourteenth International Congress of Medieval Canon Law,
+    Toronto, 2012.
 
 [10] **Placeholder for Pennington, Larson footnote** Pennington asserts
 that "\[t\]he main reason that Winroth created a second 'Gratian' is
@@ -602,17 +599,16 @@ cited: the version of the Aimone edition I have access to is a PDF dated
 Fribourg 2007. BibTex records in merged.bib are inconsistent as to
 whether to use the author's or editor's name as the basis for the tag.**
 
-<CAVSA XXVII>  
-&lt;Q.II&gt; § *Sequitur secunda questio*  
-Sacram et authenticam pie recordationis Gratianus de matrimonio
-distinctionem composuit, quam quidam inanis glorie aucupes fecere
-bifrontem et simplicium potibus inuidentes more seuorum animalium aquas
-limpidas turbauerunt. Gratianus uero, canonum habita notitia et mente
-perspecta, dixit inter sponsum et sponsam esse matrimonium, sed
-initiatum; inter uirum et uxorem consummatum. Sed quoniam non est
-discipulus super magistrum nec debet securis contra eum qui secat
-gloriari timemus os nostrum in celum mittere et eum reprehendere cuius
-non sumus digni soluere corrigiam calceamenti.
+<CAVSA XXVII> &lt;Q.II&gt; § *Sequitur secunda questio* Sacram et
+authenticam pie recordationis Gratianus de matrimonio distinctionem
+composuit, quam quidam inanis glorie aucupes fecere bifrontem et
+simplicium potibus inuidentes more seuorum animalium aquas limpidas
+turbauerunt. Gratianus uero, canonum habita notitia et mente perspecta,
+dixit inter sponsum et sponsam esse matrimonium, sed initiatum; inter
+uirum et uxorem consummatum. Sed quoniam non est discipulus super
+magistrum nec debet securis contra eum qui secat gloriari timemus os
+nostrum in celum mittere et eum reprehendere cuius non sumus digni
+soluere corrigiam calceamenti.
 
 Note that the phrase "sed inanis glorie aucupes fecere bifrontem" also
 occurs in Rufinus's treatment of the same question, C.27 q.2. (Rufinus,
@@ -632,10 +628,8 @@ ought not boast (*gloriari*) against him who cuts (*secat*) (Isaiah
 fault with him the string (*corrigiam*) of whose shoes we are not worthy
 to loosen (John 1:27) (PLE).
 
-<DISTINCTIO IIII>  
-31. *Solet queri*  
-Quod quamuis Magister noster docuerit, nos tamen in hoc nolumus eum
-imitari.
+<DISTINCTIO IIII> 31. *Solet queri* Quod quamuis Magister noster
+docuerit, nos tamen in hoc nolumus eum imitari.
 
 Although our master taught that, we nevertheless do not wish to imitate
 him in this (PLE).
