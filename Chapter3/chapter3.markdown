@@ -5,7 +5,7 @@ T. Noonan Jr.'s classic 1979 *Traditio* article "Gratian slept here: The
 changing identity of the father of the systematic study of canon law".
 Noonan's approach is apophatic, demonstrating that there is no sound
 historical basis for most of the affirmative statements, for example
-that Gratian was a Camaldolese monk at the monastery of SS. Felix and
+that Gratian was a Camaldolese monk at the monastery of Saints Felix and
 Nabor in Bologna, that many mid-twentieth century handbooks and
 reference works presented as commonplace.[1]
 
@@ -30,18 +30,18 @@ of the mythology surrounding Gratian, the claim that Gratian was a
 Camaldolese monk.**
 
 Odofredus (†1265), a professor of law at Bologna, claimed that Gratian
-"was staying" (*stabat*) at the monastery of SS. Felice and Nabor while
-working as a rubricator.[4] Odofredus did not indicate the basis for his
-statement that Gratian had been a resident of SS. Felice and Nabor, nor
-did he say that Gratian had been a monk. In 1758, Camaldolese scholars
-Mittarelli and Costadono discovered papal privileges conferred in 1113
-and 1153 identifying SS. Felice and Nabor as Camaldolese, and inferred
-from them that the monastery--- and by extension Gratian himself---had
-been Camaldolese during the intervening years. The claim that Gratian
-had a connection to the Camaldolese order attracted criticism in the
-eighteenth century, and fell out of favor in the nineteenth century, but
-was put back into circulation in the mid-twentieth century by Van
-Hove.[5]
+"was staying" (*stabat*) at the monastery of Saints Felice and Nabor
+while working as a rubricator.[4] Odofredus did not indicate the basis
+for his statement that Gratian had been a resident of Saints Felice and
+Nabor, nor did he say that Gratian had been a monk. In 1758, Camaldolese
+scholars Mittarelli and Costadono discovered papal privileges conferred
+in 1113 and 1153 identifying Saints Felice and Nabor as Camaldolese, and
+inferred from them that the monastery--- and by extension Gratian
+himself---had been Camaldolese during the intervening years. The claim
+that Gratian had a connection to the Camaldolese order attracted
+criticism in the eighteenth century, and fell out of favor in the
+nineteenth century, but was put back into circulation in the
+mid-twentieth century by Van Hove.[5]
 
 Noonan (†2017) was a distinguished professor of law and an appellate
 judge who applied the standards of evidence of the law school and the
@@ -105,12 +105,12 @@ Pennington builds on Larson's conjecture that the canon referred to at
 D.63 d.p.c.34 in the first recension and later incorporated as D.63 c.35
 in the second recension is not canon 28 from the Second Lateran Council
 (1139), but rather a canon from an earlier council or synod convened by
-Innocent II at Rome in 1133 that was restated at Lateran II (a common
-practice in the early twelfth century). Pennington supports Larson's
+Innocent II at Rome in 1133 that was reissued, a common practice in the
+early twelfth century, at Lateran II.[9] Pennington supports Larson's
 conjecture by noting that the text of the canon as it appears in the
 *Decretum* includes variants (*facta fuerit* vs *fuerit celebrata*, and
 *consensus* vs *assensus*) found in none of the twenty manuscript
-witnesses to the Lateran II canons edited by Martin Brett.[9]
+witnesses to the Lateran II canons edited by Martin Brett.[10]
 
 Pennington, depending on Eichbauer, argues that because the number of
 additional canons found in the margins of Bc, and in both the margins
@@ -118,12 +118,12 @@ and appendices of Fd and Aa, fall well short of the number that would be
 expected if they had been copied from a Vulgate *Decretum* (87 are
 missing from Aa, and 62 are missing from Fd), these manuscripts
 represent an intermediate "next-to-last" stage in the development of the
-*Decretum* text intermediate the pre-Vulgate and Vulgate versions.
+*Decretum* text intermediate the pre-Vulgate and Vulgate versions.[11]
 Furthermore, the fact that the Lateran II canons *are* present in this
 "next-to-last" stage undermines the argument going back to Fransen and
 supported by Lenherr that the Lateran II canons are a last-minute
 addition, and poorly if at all integrated into the argument of the
-*Decretum*.[10]
+*Decretum*.[12]
 
 ### Gratian's teaching career
 
@@ -138,15 +138,15 @@ manuscripts Aa, Bc, Fd, and P, to suggest that the text developed
 continuously over the span of, and in parallel with, a relatively long
 teaching career---perhaps a decade or more. On the other hand, Gratian's
 personal obscurity is so profound---Stephan Kuttner compared Gratian to
-the anonymous builders of Gothic cathedrals[11]---as to suggest a short,
-or even no, teaching career.[12]
+the anonymous builders of Gothic cathedrals[13]---as to suggest a short,
+or even no, teaching career.[14]
 
 Considering the fact that Gratian was universally credited as the author
 of the foundational textbook for the study of canon law in the classical
 period, one of the truly stellar intellectual achievements of the
 renaissance of the twelfth century, his complete absence from the kinds
 of academic genealogies and origin stories that Odofredus (†1265) handed
-down to his own Roman law students is striking indeed.[13]
+down to his own Roman law students is striking indeed.[15]
 
 We might be better able to assess Gratian's teaching career and how it
 influenced the compilation and transmission of the *Decretum* were we in
@@ -161,11 +161,11 @@ Bisignano (fl. 1174--1179), Omnebene (d. 1185).
 Paucapalea was easily the most prominent figure from the early period of
 the Bolognese school of decretists who followed in Gratian's immediate
 footsteps. Pennington flatly states that Paucapalea was "\[a\] pupil of
-Gratian and the author of the first commentary on the Decretum".[14] But
+Gratian and the author of the first commentary on the Decretum".[16] But
 in the preface to that commentary, Paucapalea does not refer to Gratian
 by name: "*Magistri autem hoc opus condentis ipsa decreta sunt materia.*
 The decrees themselves, however, are the subject matter of the master
-producing this work."[15]
+producing this work."[17]
 
 The omission is potentially significant. Prefaces to academic books in
 the twelfth century formed a recognized genre with well-established
@@ -176,7 +176,7 @@ in his preface affirming the authority of both the work commented on and
 its author. If Paucapalea had had something to say about the authority
 of Gratian, his readers would have expected him to do so in his preface.
 That he did not suggests that he may not have known enough about Gratian
-to credibly do so.[16]
+to credibly do so.[18]
 
 Furthermore, Paucapalea in the preface to his *summa* clearly shows both
 that he is aware of the third part of the *Decretum*, *de
@@ -186,7 +186,7 @@ extremis de ecclesiarum dedicatione et corpore et sanguine domini atque
 baptismo nec non et confirmatione pleniter tractat, et in his suum
 tractatum terminat.* In the end, he treats fully the dedication of
 churches, the body and blood of the Lord, baptism, and also
-confirmation, and with these things concludes his treatise."[17]
+confirmation, and with these things concludes his treatise."[19]
 
 If Rambaud is correct that *de Consecratione* was not part of the
 original *Decretum*, the fact that Paucapalea attributed it to the same
@@ -197,7 +197,7 @@ Gratian or his plan of work.
 #### Omnibonus or Omnebene
 
 Omnibonus or Omnebene (d.1185) composed an adaptation or transformation
-of the *Decretum* in the 1150s.[18] The basis for the claim that
+of the *Decretum* in the 1150s.[20] The basis for the claim that
 Omnebene was a student of Gratian is an entry for the year 1130 in the
 chronicle of Norman monk Robert of Torigni (†1186)
 
@@ -210,7 +210,7 @@ chronicle of Norman monk Robert of Torigni (†1186)
 > decrees, canons, doctors, Roman laws, sufficient for deciding all
 > ecclesiastical cases, which are resorted to at the Roman curia and in
 > other ecclesiastical courts. Master Omnebonum bishop of Verona, who
-> had been his student, afterwards abbreviated them.)[19]
+> had been his student, afterwards abbreviated them.)[21]
 
 Although the evidence of Robert's chronicle is by Noonan's standard
 hearsay, Robert's reputation as a well-informed source concerning
@@ -222,14 +222,14 @@ Although Omnebene lived into the 1180s, the adaptation itself seems to
 date from around 1156, perhaps a decade and a half after the end of
 whatever teaching career Gratian may have had, and at precisely the
 moment that continent-wide interest in the text was increasing most
-rapidly.[20]
+rapidly.[22]
 
 #### Simon of Bisignano
 
 Simon of Bisignano (fl. 1174--1179) was the author of a *Summa
 decretorum* dated c.1177-79, and a number of glosses on the *Decretum*
-are attributed to him.[21] The evidence that Simon of Bisignano was a
-student of Gratian’s comes from references within his writings.[22]
+are attributed to him.[23] The evidence that Simon of Bisignano was a
+student of Gratian’s comes from references within his writings.[24]
 Simon refers to himself as *discipulus* and to Gratian as *magister* in
 at least two places in his *Summa* (**Landau says "frequently"**). There
 is, however a hiatus of almost four decades between the latest plausible
@@ -417,20 +417,20 @@ Rechtsgeschichte: Kanonistische Abteilung* 99, no. 1 (August 2013):
 105–28, 111
 
 [4] Noonan identifies Odofredus as the source for associating Gratian
-with SS. Felix and Nabor (Noonan, “Gratian Slept Here”, 148), but cf. R.
-W. Southern, *Scholastic Humanism and the Unification of Europe*, vol. 1
-(Oxford, UK ; Cambridge, Mass., USA: Blackwell, 1995), 286n5. Southern
-draws attention to an inscription found in a Geneva manuscript of the
-*Decretum*, Bibliothèque publique et universitaire, MS Lat. 60: *Anno
-domini MCL a Gratiano S. Feliciani Bononiensis monacho editum*.
+with Saints Felix and Nabor (Noonan, “Gratian Slept Here”, 148), but cf.
+R. W. Southern, *Scholastic Humanism and the Unification of Europe*,
+vol. 1 (Oxford, UK ; Cambridge, Mass., USA: Blackwell, 1995), 286n5.
+Southern draws attention to an inscription found in a Geneva manuscript
+of the *Decretum*, Bibliothèque publique et universitaire, MS Lat. 60:
+*Anno domini MCL a Gratiano S. Feliciani Bononiensis monacho editum*.
 Pennington does not identify the manuscript as one known to date from
 the twelfth century (see Kenneth Pennington,
 [Gratianus](http://amesfoundation.law.harvard.edu/BioBibCanonists/Report_Biobib2.php?record_id=a242),
 *Bio-Bibliographical Guide to Medieval and Early Modern Jurists*), and
 of course there is no way of knowing how long after the manuscript was
 produced the inscription was added. The value of the inscription as
-independent evidence attesting to a connection between Gratian and SS.
-Felix and Nabor is therefore unknown, but it is possible that it
+independent evidence attesting to a connection between Gratian and
+Saints Felix and Nabor is therefore unknown, but it is possible that it
 predates Odofredus.
 
 [5] **Cite Noonan, “Gratian Slept Here”, but also cite Alphonse van
@@ -453,18 +453,45 @@ Cambridge University Press, 2000), 122.
 
 [8] Winroth, “Where Gratian Slept.”
 
-[9] Kenneth Pennington, “The Biography of Gratian, the Father of Canon
-Law,” in *A Service Beyond All Recompense*, ed. Kurt Martens (Catholic
-University of America Press, 2018), 365.
+[9] **Placeholder for Pennington, Larson footnote** Pennington asserts
+that "\[t\]he main reason that Winroth created a second 'Gratian' is
+because of a text \[D.63 d.p.c.34\] that is found in all pre-Vulgate
+manuscripts." Kenneth Pennington, “The Biography of Gratian, the Father
+of Canon Law,” in *A Service Beyond All Recompense*, ed. Kurt Martens
+(Catholic University of America Press, 2018), 359–92, 362. D.63 d.p.c.34
+*is* central to Winroth's argument in favor of a late date (1139) for
+the first recension, but is not relevant to his argument in favor of the
+two-author hypothesis. "The reference to Lateran II only proves that the
+*Decretum*, as transmitted by extant manuscripts (and I have checked
+several dozens, 'vulgate' as well as 'pre-vulgate'), cannot have been
+written before 1139." (Anders Winroth, email to Paul Evans, 18 May
+2021). That the second recension makes much more sophisticated use of
+Roman law concepts and terminology than the first recension was the
+original basis for Winroth's two-author hypothesis. Winroth now situates
+differences between the first and second recension with respect to the
+use of Roman law in a broader context: "The argument about two authors
+is based on textual (you could almost say literary) analysis:
+formulations, practices of organization, source use, etc. Justinian’s
+Roman law books is really the only category of source only used in one
+of the two recensions. I used to think that there were other sources,
+such as 3L, that were only used in the second recension, but this turned
+out to be an accident of the specific sections I used as case studies
+(C. 24 and C.11 q.3)." (Anders Winroth, email to Paul Evans, 18 May
+2021).
 
-[10] Pennington, 367–68.
+[10] Pennington, 365.
 
-[11] "He is one of those deeply admirable men of pious modesty, like the
+[11] **Placeholder for Pennington, Eichbauer footnote**
+
+[12] Pennington, “The Biography of Gratian, the Father of Canon Law,”
+367–68.
+
+[13] "He is one of those deeply admirable men of pious modesty, like the
 builders of the medieval cathedrals, whose person is hidden and effaced
 completely behind their immortal works." (Kuttner, “The Father of the
 Science of Canon Law,” 4).
 
-[12] **Expand: Winroth argues for a short teaching career, Southern
+[14] **Expand: Winroth argues for a short teaching career, Southern
 agues for no teaching career.** R.W. Southern is the extreme outlier in
 this regard, citing as late as 1995 Gratian's supposed association with
 the Camaldolese order to advance an argument that he had never been a
@@ -485,7 +512,7 @@ alterations and additions to the text of the *Decretum*, none of them
 claimed to have been taught by him." (Southern, 1:287, 304). **Does
 Southern provide footnotes to support these statements?**
 
-[13] **Expand:** The tradition of Roman law teaching in Bologna
+[15] **Expand:** The tradition of Roman law teaching in Bologna
 preserved an elaborate genealogy of masters and their students: Pepo
 preceded Wernerius \[Irnerius\], who taught the Four Doctors. Odofredus
 is an important source for this tradition, and his remarks about
@@ -496,13 +523,14 @@ accompanying English translation, see (Charles Radding, *The Origins of
 Medieval Jurisprudence: Pavia and Bologna, 850- 1150* (New Haven: Yale
 University Press, 1988), 159–60) **See also Pennington "Big Bang".**
 Note that Odofredus is also the source for associating Gratian with the
-monastery of SS. Felix and Nabor. (Noonan, “Gratian Slept Here,” 148).
+monastery of Saints Felix and Nabor. (Noonan, “Gratian Slept Here,”
+148).
 
-[14] Kenneth Pennington,
+[16] Kenneth Pennington,
 [Paucapalea](http://amesfoundation.law.harvard.edu/BioBibCanonists/Report_Biobib2.php?record_id=a366),
 *Bio-Bibliographical Guide to Medieval and Early Modern Jurists.*
 
-[15]  (Johann Friedrich von Schulte, ed., *Die Summa des Paucapalea über
+[17]  (Johann Friedrich von Schulte, ed., *Die Summa des Paucapalea über
 das Decretum Gratiani* (Giessen: E. Roth, 1890), 3) (Robert Somerville
 and Bruce Clark Brasington, eds., *Prefaces to Canon Law Books in Latin
 Christianity: Selected Translations, 500-1245* (New Haven, Conn: Yale
@@ -511,7 +539,7 @@ text layer of a PDF file scanned from the Schulte edition and provided
 to me by Ken Pennington, Paucapalea appears not to refer to Gratian by
 name anywhere in his *summa*.
 
-[16] **Going to need a very heavyweight footnote here referencing
+[18] **Going to need a very heavyweight footnote here referencing
 Minnis.** (A. J. Minnis, *Medieval Theory of Authorship: Scholastic
 Literary Attitudes in the Later Middle Ages*, 2nd ed, Middle Ages Series
 (Philadelphia: University of Pennsylvania Press, 1988)) (Richard William
@@ -521,21 +549,21 @@ Bursill-Hall, Amsterdam Studies in the Theory and History of Linguistic
 Science. Series 3: Studies in the History of Linguistics v.5 (Amsterdam:
 J. Benjamins, 1980), 117–44)
 
-[17]  (Schulte, *Die Summa des Paucapalea über das Decretum Gratiani*,
+[19]  (Schulte, *Die Summa des Paucapalea über das Decretum Gratiani*,
 3) (Somerville and Brasington, *Prefaces to Canon Law Books in Latin
 Christianity*, 184–85)
 
-[18] Kenneth Pennington,
+[20] Kenneth Pennington,
 [Omnibonus](http://amesfoundation.law.harvard.edu/BioBibCanonists/Report_Biobib2.php?record_id=a363),
 *Bio-Bibliographical Guide to Medieval and Early Modern Jurists.*
 
-[19] Kuttner, *Repertorium*, 453. MGH Scriptores (SS) 6 (1844), 490.
+[21] Kuttner, *Repertorium*, 453. MGH Scriptores (SS) 6 (1844), 490.
 *Chronique de Robert de Torigny*, ed. Léopold Delisle, 183-184 (see BSB
 online version). *Chronicles of the reigns of Stephen, Henry II, and
 Richard I*, ed. Richard Howlett (1884). *Chronica Roberti de Torigneio*,
 ed. Richard Howlett, RS 82 4.118.
 
-[20] **There is no print edition of Omnebene's adaptation (confirmed by
+[22] **There is no print edition of Omnebene's adaptation (confirmed by
 Ken Pennington, 17 May 2021). The only online form in which the
 manuscript is available is a low-quality digitization of an old
 microfilm of Paris, Bibliothèque nationale de France, Latin 3886. I was
@@ -543,7 +571,7 @@ therefore unable to look for any internal evidence in Omnebene's
 adaptation (e.g., a comment in a preface), indicating that Gratian had
 been his teacher.**
 
-[21] Kenneth Pennington, [Simon of
+[23] Kenneth Pennington, [Simon of
 Bisignano](http://amesfoundation.law.harvard.edu/BioBibCanonists/Report_Biobib2.php?record_id=a497),
 *Bio-Bibliographical Guide to Medieval and Early Modern Jurists.*
 Pennington does not indicate that Simon of Bisignano was a student of
@@ -556,7 +584,7 @@ of Medieval Canon Law (Washington, D.C: Catholic University of America
 Press, 2008), 97) **Simon's glosses are dated earlier than his *Summa*
 (cite Hartmann and Pennington).**
 
-[22] Stephan Kuttner, “Research on Gratian: Acta and Agenda,” in
+[24] Stephan Kuttner, “Research on Gratian: Acta and Agenda,” in
 *Studies in the History of Medieval Canon Law*, Collected Studies CS325
 (Aldershot, Hampshire, Great Britain : Brookfield, Vt., USA: Variorum ;
 Gower, 1990), 7. Noonan, “Gratian Slept Here”, 157, rejects this, but

@@ -126,13 +126,38 @@ Pennington builds on Larson's conjecture that the canon referred
 to at D.63 d.p.c.34 in the first recension and later incorporated
 as D.63 c.35 in the second recension is not canon 28 from the Second
 Lateran Council (1139), but rather a canon from an earlier council
-or synod convened by Innocent II at Rome in 1133 that was restated
-at Lateran II (a common practice in the early twelfth century).
+or synod convened by Innocent II at Rome in 1133 that was reissued,
+a common practice in the early twelfth century, at Lateran II.[^tmp1]
 Pennington supports Larson's conjecture by noting that the text of
 the canon as it appears in the *Decretum* includes variants (*facta
 fuerit* vs *fuerit celebrata*, and *consensus* vs *assensus*) found
 in none of the twenty manuscript witnesses to the Lateran II canons
 edited by Martin Brett.[@pennington_biography_2018, 365]
+
+[^tmp1]: **Placeholder for Pennington, Larson footnote** Pennington
+asserts that "[t]he main reason that Winroth created a second
+'Gratian' is because of a text [D.63 d.p.c.34] that is found in all
+pre-Vulgate manuscripts." @pennington_biography_2018, 362. D.63
+d.p.c.34 *is* central to Winroth's argument in favor of a late date
+(1139) for the first recension, but is not relevant to his argument
+in favor of the two-author hypothesis. "The reference to Lateran
+II only proves that the *Decretum*, as transmitted by extant
+manuscripts (and I have checked several dozens, 'vulgate' as well
+as 'pre-vulgate'), cannot have been written before 1139." (Anders
+Winroth, email to Paul Evans, 18 May 2021). That the second recension
+makes much more sophisticated use of Roman law concepts and terminology
+than the first recension was the original basis for Winroth's
+two-author hypothesis. Winroth now situates differences between
+the first and second recension with respect to the use of Roman law
+in a broader context: "The argument about two authors is based on
+textual (you could almost say literary) analysis: formulations,
+practices of organization, source use, etc. Justinian’s Roman law
+books is really the only category of source only used in one of the
+two recensions. I used to think that there were other sources, such
+as 3L, that were only used in the second recension, but this turned
+out to be an accident of the specific sections I used as case studies
+(C. 24 and C.11 q.3)." (Anders Winroth, email to Paul Evans, 18 May
+2021).
 
 Pennington, depending on Eichbauer, argues that because the number
 of additional canons found in the margins of Bc, and in both the
@@ -141,12 +166,14 @@ that would be expected if they had been copied from a Vulgate
 *Decretum* (87 are missing from Aa, and 62 are missing from Fd),
 these manuscripts represent an intermediate "next-to-last" stage
 in the development of the *Decretum* text intermediate the pre-Vulgate
-and Vulgate versions. Furthermore, the fact that the Lateran II
+and Vulgate versions.[^tmp2] Furthermore, the fact that the Lateran II
 canons *are* present in this "next-to-last" stage undermines the
 argument going back to Fransen and supported by Lenherr that the
 Lateran II canons are a last-minute addition, and poorly if at all
 integrated into the argument of the *Decretum*.[@pennington_biography_2018,
 367-368]
+
+[^tmp2]: **Placeholder for Pennington, Eichbauer footnote**
 
 ### Gratian's teaching career
 
