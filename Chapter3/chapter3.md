@@ -88,29 +88,38 @@ recensions.**
 
 ### Winroth's argument
 
-(**Pennington's argument is largely a response to Winroth's, discuss
-Winroth's argument first, followed by Pennington's critique of and
-response to it.**)
-
-"In the interests of simplicity and clarity, I have therefore chosen
-to call the author of the first recension Gratian 1 and the author
-of the second recension Gratian 2. These labels are not intended
-to suggest that Gratian 1 and Gratian 2 could not have been the
-same person."[@winroth_making_2000, 122]
-
 Winroth's arguments in chapters 1-5 of *The Making of Gratian's
 Decretum* are agnostic as to whether Gratian 1 is the same person
-as Gratian 2. The question of authorial identity is not relevant
-to the primary argument that Winroth advances in those chapters,
-which is that the Admont, Barcelona, and Florence manuscripts
-represent a coherent first recension of the *Decretum* rather than
-an abbreviation. In chapter 6 and in his conclusion, however, Winroth
-observes that the second recension reflects a considerably more
-sophisticated legal culture than that reflected in the first
-recension, notably in the reception of concepts and terminology
-from the study of Roman law, and argues that it is unlikely that
-one author underwent such an intellectual evolution in a single
-generation.
+as Gratian 2.
+
+> "In the interests of simplicity and clarity, I have therefore
+chosen to call the author of the first recension Gratian 1 and the
+author of the second recension Gratian 2. These labels are not
+intended to suggest that Gratian 1 and Gratian 2 could not have
+been the same person."[@winroth_making_2000, 122]
+
+The question of authorial identity is not relevant to the primary
+argument that Winroth advances in those chapters, which is that the
+Admont, Barcelona, and Florence manuscripts represent a coherent
+first recension of the *Decretum* rather than an abbreviation. In
+chapter 6 and in his conclusion, however, Winroth observes that the
+second recension reflects a considerably more sophisticated legal
+culture than that reflected in the first recension, notably in the
+reception of concepts and terminology from the study of Roman law,
+and argues that it is unlikely that one author underwent such an
+intellectual evolution in a single generation.[^tmp3]
+
+[^tmp3]: Winroth has since come to contextualize the differences
+between the first and second recension with respect to the use of
+Roman law within a broader context: "The argument about two authors
+is based on textual (you could almost say literary) analysis:
+formulations, practices of organization, source use, etc. Justinian’s
+Roman law books is really the only category of source only used in
+one of the two recensions. I used to think that there were other
+sources, such as 3L, that were only used in the second recension,
+but this turned out to be an accident of the specific sections I
+used as case studies (C. 24 and C.11 q.3)." (Anders Winroth, email
+to Paul Evans, 18 May 2021).
 
 Fourteenth International Congress of Medieval Canon Law, Toronto,
 2012.[@winroth_where_2013]
@@ -138,26 +147,17 @@ edited by Martin Brett.[@pennington_biography_2018, 365]
 asserts that "[t]he main reason that Winroth created a second
 'Gratian' is because of a text [D.63 d.p.c.34] that is found in all
 pre-Vulgate manuscripts." @pennington_biography_2018, 362. D.63
-d.p.c.34 *is* central to Winroth's argument in favor of a late date
-(1139) for the first recension, but is not relevant to his argument
-in favor of the two-author hypothesis. "The reference to Lateran
-II only proves that the *Decretum*, as transmitted by extant
-manuscripts (and I have checked several dozens, 'vulgate' as well
-as 'pre-vulgate'), cannot have been written before 1139." (Anders
-Winroth, email to Paul Evans, 18 May 2021). That the second recension
-makes much more sophisticated use of Roman law concepts and terminology
-than the first recension was the original basis for Winroth's
-two-author hypothesis. Winroth now situates differences between
-the first and second recension with respect to the use of Roman law
-in a broader context: "The argument about two authors is based on
-textual (you could almost say literary) analysis: formulations,
-practices of organization, source use, etc. Justinian’s Roman law
-books is really the only category of source only used in one of the
-two recensions. I used to think that there were other sources, such
-as 3L, that were only used in the second recension, but this turned
-out to be an accident of the specific sections I used as case studies
-(C. 24 and C.11 q.3)." (Anders Winroth, email to Paul Evans, 18 May
-2021).
+d.p.c.34 *is* central to Winroth's arguments in favor of a late
+date for the first recension (1139), and for a short teaching career
+for Gratian, but is not relevant to his argument in favor of the
+two-author hypothesis. "The reference to Lateran II only proves
+that the *Decretum*, as transmitted by extant manuscripts (and I
+have checked several dozens, 'vulgate' as well as 'pre-vulgate'),
+cannot have been written before 1139." (Anders Winroth, email to
+Paul Evans, 18 May 2021). As noted in Chapter 2 and the footnote
+above, the original basis for Winroth's two-author hypothesis was
+that the second recension makes much more sophisticated use of Roman
+law concepts and terminology than the first recension.
 
 Pennington, depending on Eichbauer, argues that because the number
 of additional canons found in the margins of Bc, and in both the
@@ -166,8 +166,8 @@ that would be expected if they had been copied from a Vulgate
 *Decretum* (87 are missing from Aa, and 62 are missing from Fd),
 these manuscripts represent an intermediate "next-to-last" stage
 in the development of the *Decretum* text intermediate the pre-Vulgate
-and Vulgate versions.[^tmp2] Furthermore, the fact that the Lateran II
-canons *are* present in this "next-to-last" stage undermines the
+and Vulgate versions.[^tmp2] Furthermore, the fact that the Lateran
+II canons *are* present in this "next-to-last" stage undermines the
 argument going back to Fransen and supported by Lenherr that the
 Lateran II canons are a last-minute addition, and poorly if at all
 integrated into the argument of the *Decretum*.[@pennington_biography_2018,
