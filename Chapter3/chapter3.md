@@ -22,7 +22,7 @@ slept here: The changing identity of the father of the systematic
 study of canon law". Noonan's approach is apophatic, demonstrating
 that there is no sound historical basis for most of the affirmative
 statements, for example that Gratian was a Camaldolese monk at the
-monastery of SS. Felix and Nabor in Bologna, that many mid-twentieth
+monastery of Saints Felix and Nabor in Bologna, that many mid-twentieth
 century handbooks and reference works presented as
 commonplace.[@noonan_gratian_1979]
 
@@ -49,12 +49,12 @@ elements of the mythology surrounding Gratian, the claim that Gratian
 was a Camaldolese monk.**
 
 Odofredus (†1265), a professor of law at Bologna, claimed that
-Gratian "was staying" (*stabat*) at the monastery of SS. Felice and
+Gratian "was staying" (*stabat*) at the monastery of Saints Felice and
 Nabor while working as a rubricator.[^4] Odofredus did not indicate
-the basis for his statement that Gratian had been a resident of SS.
+the basis for his statement that Gratian had been a resident of Saints
 Felice and Nabor, nor did he say that Gratian had been a monk. In
 1758, Camaldolese scholars Mittarelli and Costadono discovered papal
-privileges conferred in 1113 and 1153 identifying SS. Felice and
+privileges conferred in 1113 and 1153 identifying Saints Felice and
 Nabor as Camaldolese, and inferred from them that the monastery---
 and by extension Gratian himself---had been Camaldolese during the
 intervening years. The claim that Gratian had a connection to the
@@ -289,7 +289,7 @@ Gratian got it from scholastic theology. See also [@luscombe_abelard_1969]
 and [@winroth_where_2013, 111
 
 [^4]: Noonan identifies Odofredus as the source for associating
-Gratian with SS. Felix and Nabor (@noonan_gratian_1979, 148),
+Gratian with Saints Felix and Nabor (@noonan_gratian_1979, 148),
 but cf. @southern_scholastic_1995, 286n5. Southern draws attention
 to an inscription found in a Geneva manuscript of the *Decretum*,
 Bibliothèque publique et universitaire, MS Lat. 60: *Anno domini
@@ -301,7 +301,7 @@ twelfth century (see Kenneth Pennington,
 and of course there is no way of knowing how long after the manuscript
 was produced the inscription was added. The value of the inscription
 as independent evidence attesting to a connection between Gratian
-and SS. Felix and Nabor is therefore unknown, but it is possible
+and Saints Felix and Nabor is therefore unknown, but it is possible
 that it predates Odofredus.
 
 [^5]: **Cite @noonan_gratian_1979, but also cite
@@ -352,7 +352,7 @@ Odofredus, *Lectura super Digesto veteri*, (2 volumes, Lyon:
 Latin text with accompanying English translation, see
 [@radding_origins_1988, 159-160] **See also Pennington "Big Bang".**
 Note that Odofredus is also the source for associating Gratian with
-the monastery of SS. Felix and Nabor. [@noonan_gratian_1979, 148].
+the monastery of Saints Felix and Nabor. [@noonan_gratian_1979, 148].
 
 [^14]: Kenneth Pennington,
 [Paucapalea](http://amesfoundation.law.harvard.edu/BioBibCanonists/Report_Biobib2.php?record_id=a366),
