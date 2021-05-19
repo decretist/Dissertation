@@ -49,29 +49,29 @@ elements of the mythology surrounding Gratian, the claim that Gratian
 was a Camaldolese monk.**
 
 Odofredus (†1265), a professor of law at Bologna, claimed that
-Gratian "was staying" (*stabat*) at the monastery of Saints Felice and
-Nabor while working as a rubricator.[^4] Odofredus did not indicate
-the basis for his statement that Gratian had been a resident of Saints
-Felice and Nabor, nor did he say that Gratian had been a monk. In
-1758, Camaldolese scholars Mittarelli and Costadono discovered papal
-privileges conferred in 1113 and 1153 identifying Saints Felice and
-Nabor as Camaldolese, and inferred from them that the monastery---
-and by extension Gratian himself---had been Camaldolese during the
-intervening years. The claim that Gratian had a connection to the
-Camaldolese order attracted criticism in the eighteenth century,
-and fell out of favor in the nineteenth century, but was put back
-into circulation in the mid-twentieth century by Van Hove.[^5]
+Gratian "was staying" (*stabat*) at the monastery of Saints Felice
+and Nabor while working as a rubricator.[^4] Odofredus did not
+indicate the basis for his statement that Gratian had been a resident
+of Saints Felice and Nabor, nor did he say that Gratian had been a
+monk. In 1758, Camaldolese scholars Mittarelli and Costadono
+discovered papal privileges conferred in 1113 and 1153 identifying
+Saints Felice and Nabor as Camaldolese, and inferred from them that
+the monastery--- and by extension Gratian himself---had been
+Camaldolese during the intervening years. The claim that Gratian
+had a connection to the Camaldolese order attracted criticism in
+the eighteenth century, and fell out of favor in the nineteenth
+century, but was put back into circulation in the mid-twentieth
+century by Van Hove.[^5]
 
 Noonan (†2017) was a distinguished professor of law and an appellate
 judge who applied the standards of evidence of the law school and
-the courtroom to the historical record. **Noonan relied heavily
-on the legal hearsay standard as understood and applied by
-twentieth-century American courts of law as the basis for his
-debunking of much Gratian mythology.** By Noonan's standards, the
-statement of Odofredus---hearsay, not attributed to a source, a
-century after the fact---is nothing more than legend. **Winroth,
-however, has questioned whether this is an appropriate standard for
-evaluating historical evidence.**
+the courtroom to the historical record. **Noonan relied heavily on
+the legal hearsay standard as understood and applied by twentieth-century
+American courts of law as the basis for his debunking of much Gratian
+mythology.** By Noonan's standards, the statement of Odofredus---hearsay,
+not attributed to a source, a century after the fact---is nothing
+more than legend. **Winroth, however, has questioned whether this
+is an appropriate standard for evaluating historical evidence.**
 
 > To conclude, we have reason to believe that Gratian composed and
 commented upon a substantial portion of the Concordia. In such
@@ -107,19 +107,7 @@ second recension reflects a considerably more sophisticated legal
 culture than that reflected in the first recension, notably in the
 reception of concepts and terminology from the study of Roman law,
 and argues that it is unlikely that one author underwent such an
-intellectual evolution in a single generation.[^tmp3]
-
-[^tmp3]: Winroth has since come to contextualize the differences
-between the first and second recension with respect to the use of
-Roman law within a broader context: "The argument about two authors
-is based on textual (you could almost say literary) analysis:
-formulations, practices of organization, source use, etc. Justinian’s
-Roman law books is really the only category of source only used in
-one of the two recensions. I used to think that there were other
-sources, such as 3L, that were only used in the second recension,
-but this turned out to be an accident of the specific sections I
-used as case studies (C. 24 and C.11 q.3)." (Anders Winroth, email
-to Paul Evans, 18 May 2021).
+intellectual evolution in a single generation.[^a]
 
 Fourteenth International Congress of Medieval Canon Law, Toronto,
 2012.[@winroth_where_2013]
@@ -136,28 +124,12 @@ to at D.63 d.p.c.34 in the first recension and later incorporated
 as D.63 c.35 in the second recension is not canon 28 from the Second
 Lateran Council (1139), but rather a canon from an earlier council
 or synod convened by Innocent II at Rome in 1133 that was reissued,
-a common practice in the early twelfth century, at Lateran II.[^tmp1]
+a common practice in the early twelfth century, at Lateran II.[^b]
 Pennington supports Larson's conjecture by noting that the text of
 the canon as it appears in the *Decretum* includes variants (*facta
 fuerit* vs *fuerit celebrata*, and *consensus* vs *assensus*) found
 in none of the twenty manuscript witnesses to the Lateran II canons
 edited by Martin Brett.[@pennington_biography_2018, 365]
-
-[^tmp1]: **Placeholder for Pennington, Larson footnote** Pennington
-asserts that "[t]he main reason that Winroth created a second
-'Gratian' is because of a text [D.63 d.p.c.34] that is found in all
-pre-Vulgate manuscripts." @pennington_biography_2018, 362. D.63
-d.p.c.34 *is* central to Winroth's arguments in favor of a late
-date for the first recension (1139), and for a short teaching career
-for Gratian, but is not relevant to his argument in favor of the
-two-author hypothesis. "The reference to Lateran II only proves
-that the *Decretum*, as transmitted by extant manuscripts (and I
-have checked several dozens, 'vulgate' as well as 'pre-vulgate'),
-cannot have been written before 1139." (Anders Winroth, email to
-Paul Evans, 18 May 2021). As noted in Chapter 2 and the footnote
-above, the original basis for Winroth's two-author hypothesis was
-that the second recension makes much more sophisticated use of Roman
-law concepts and terminology than the first recension.
 
 Pennington, depending on Eichbauer, argues that because the number
 of additional canons found in the margins of Bc, and in both the
@@ -166,14 +138,12 @@ that would be expected if they had been copied from a Vulgate
 *Decretum* (87 are missing from Aa, and 62 are missing from Fd),
 these manuscripts represent an intermediate "next-to-last" stage
 in the development of the *Decretum* text intermediate the pre-Vulgate
-and Vulgate versions.[^tmp2] Furthermore, the fact that the Lateran
+and Vulgate versions.[^c] Furthermore, the fact that the Lateran
 II canons *are* present in this "next-to-last" stage undermines the
 argument going back to Fransen and supported by Lenherr that the
 Lateran II canons are a last-minute addition, and poorly if at all
 integrated into the argument of the *Decretum*.[@pennington_biography_2018,
 367-368]
-
-[^tmp2]: **Placeholder for Pennington, Eichbauer footnote**
 
 ### Gratian's teaching career
 
@@ -189,8 +159,8 @@ suggest that the text developed continuously over the span of, and
 in parallel with, a relatively long teaching career---perhaps a
 decade or more. On the other hand, Gratian's personal obscurity is
 so profound---Stephan Kuttner compared Gratian to the anonymous
-builders of Gothic cathedrals[^11]---as to suggest a short, or
-even no, teaching career.[^12]
+builders of Gothic cathedrals[^11]---as to suggest a short, or even
+no, teaching career.[^12]
 
 Considering the fact that Gratian was universally credited as the
 author of the foundational textbook for the study of canon law in
@@ -342,6 +312,36 @@ on to have unusually influential academic careers in the field
 (Donahue at Harvard, and Somerville at Columbia where he was Winroth's
 dissertation advisor).
 
+[^a]: Winroth has since come to contextualize the differences between
+the first and second recension with respect to the use of Roman law
+within a broader context: "The argument about two authors is based
+on textual (you could almost say literary) analysis: formulations,
+practices of organization, source use, etc. Justinian’s Roman law
+books is really the only category of source only used in one of the
+two recensions. I used to think that there were other sources, such
+as 3L, that were only used in the second recension, but this turned
+out to be an accident of the specific sections I used as case studies
+(C. 24 and C.11 q.3)." (Anders Winroth, email to Paul Evans, 18 May
+2021).
+
+[^b]: **Placeholder for Pennington, Larson footnote** Pennington
+asserts that "[t]he main reason that Winroth created a second
+'Gratian' is because of a text [D.63 d.p.c.34] that is found in all
+pre-Vulgate manuscripts." @pennington_biography_2018, 362. D.63
+d.p.c.34 *is* central to Winroth's arguments in favor of a late
+date for the first recension (1139), and for a short teaching career
+for Gratian, but is not relevant to his argument in favor of the
+two-author hypothesis. "The reference to Lateran II only proves
+that the *Decretum*, as transmitted by extant manuscripts (and I
+have checked several dozens, 'vulgate' as well as 'pre-vulgate'),
+cannot have been written before 1139." (Anders Winroth, email to
+Paul Evans, 18 May 2021). As noted in Chapter 2 and the footnote
+above, the original basis for Winroth's two-author hypothesis was
+that the second recension makes much more sophisticated use of Roman
+law concepts and terminology than the first recension.
+
+[^c]: **Placeholder for Pennington, Eichbauer footnote**
+
 [^11]: "He is one of those deeply admirable men of pious modesty,
 like the builders of the medieval cathedrals, whose person is hidden
 and effaced completely behind their immortal works." [@kuttner_father_1941,
@@ -379,7 +379,8 @@ Odofredus, *Lectura super Digesto veteri*, (2 volumes, Lyon:
 Latin text with accompanying English translation, see
 [@radding_origins_1988, 159-160] **See also Pennington "Big Bang".**
 Note that Odofredus is also the source for associating Gratian with
-the monastery of Saints Felix and Nabor. [@noonan_gratian_1979, 148].
+the monastery of Saints Felix and Nabor. [@noonan_gratian_1979,
+148].
 
 [^14]: Kenneth Pennington,
 [Paucapalea](http://amesfoundation.law.harvard.edu/BioBibCanonists/Report_Biobib2.php?record_id=a366),
@@ -401,11 +402,11 @@ Minnis.** [@minnis_medieval_1988] [@hunt_introductions_1980]
 [Omnibonus](http://amesfoundation.law.harvard.edu/BioBibCanonists/Report_Biobib2.php?record_id=a363),
 *Bio-Bibliographical Guide to Medieval and Early Modern Jurists.*
 
-[^19]: Kuttner, *Repertorium*, 453. MGH Scriptores (SS) 6 (1844), 490.
-*Chronique de Robert de Torigny*, ed. Léopold Delisle, 183-184 (see
-BSB online version). *Chronicles of the reigns of Stephen, Henry
-II, and Richard I*, ed. Richard Howlett (1884). *Chronica Roberti
-de Torigneio*, ed. Richard Howlett, RS 82 4.118.
+[^19]: Kuttner, *Repertorium*, 453. MGH Scriptores (SS) 6 (1844),
+490. *Chronique de Robert de Torigny*, ed. Léopold Delisle, 183-184
+(see BSB online version). *Chronicles of the reigns of Stephen,
+Henry II, and Richard I*, ed. Richard Howlett (1884). *Chronica
+Roberti de Torigneio*, ed. Richard Howlett, RS 82 4.118.
 
 [^20]: **There is no print edition of Omnebene's adaptation (confirmed
 by Ken Pennington, 17 May 2021). The only online form in which the
@@ -415,8 +416,8 @@ I was therefore unable to look for any internal evidence in Omnebene's
 adaptation (e.g., a comment in a preface), indicating that Gratian
 had been his teacher.**
 
-[^21]: Kenneth Pennington,
-[Simon of Bisignano](http://amesfoundation.law.harvard.edu/BioBibCanonists/Report_Biobib2.php?record_id=a497),
+[^21]: Kenneth Pennington, [Simon of
+Bisignano](http://amesfoundation.law.harvard.edu/BioBibCanonists/Report_Biobib2.php?record_id=a497),
 *Bio-Bibliographical Guide to Medieval and Early Modern Jurists.*
 Pennington does not indicate that Simon of Bisignano was a student
 of Gratian. Glosses attributed to Simon of Bisignano are indicated
@@ -435,22 +436,21 @@ edition I have access to is a PDF dated Fribourg 2007. BibTex records
 in merged.bib are inconsistent as to whether to use the author's
 or editor's name as the basis for the tag.**
 
-    <CAVSA XXVII>  
-    <Q.II> § *Sequitur secunda questio*  
-    Sacram et authenticam pie recordationis Gratianus de matrimonio
-    distinctionem composuit, quam quidam inanis glorie aucupes
-    fecere bifrontem et simplicium potibus inuidentes more seuorum
-    animalium aquas limpidas turbauerunt. Gratianus uero, canonum
-    habita notitia et mente perspecta, dixit inter sponsum et sponsam
-    esse matrimonium, sed initiatum; inter uirum et uxorem consummatum.
+    <CAVSA XXVII> <Q.II> § *Sequitur secunda questio* Sacram et
+    authenticam pie recordationis Gratianus de matrimonio distinctionem
+    composuit, quam quidam inanis glorie aucupes fecere bifrontem
+    et simplicium potibus inuidentes more seuorum animalium aquas
+    limpidas turbauerunt. Gratianus uero, canonum habita notitia
+    et mente perspecta, dixit inter sponsum et sponsam esse
+    matrimonium, sed initiatum; inter uirum et uxorem consummatum.
     Sed quoniam non est discipulus super magistrum nec debet securis
     contra eum qui secat gloriari timemus os nostrum in celum mittere
     et eum reprehendere cuius non sumus digni soluere corrigiam
     calceamenti.
 
     Note that the phrase "sed inanis glorie aucupes fecere bifrontem"
-    also occurs in Rufinus's treatment of the same question, C.27 q.2.
-    [@rufinus_summa_1963, 440].
+    also occurs in Rufinus's treatment of the same question, C.27
+    q.2. [@rufinus_summa_1963, 440].
 
     Gratian of pious remembrance composed a sacred and *authenticam*
     distinction concerning marriage, *quam quidam inanis glorie
@@ -466,10 +466,8 @@ or editor's name as the basis for the tag.**
     fault with him the string (*corrigiam*) of whose shoes we are
     not worthy to loosen (John 1:27) (PLE).
 
-    <DISTINCTIO IIII>  
-    31. *Solet queri*  
-    Quod quamuis Magister noster docuerit, nos tamen in hoc nolumus
-    eum imitari.
+    <DISTINCTIO IIII> 31. *Solet queri* Quod quamuis Magister noster
+    docuerit, nos tamen in hoc nolumus eum imitari.
 
     Although our master taught that, we nevertheless do not wish
     to imitate him in this (PLE).
