@@ -330,7 +330,7 @@ Cambridge University Press, 2000.
 <div id="ref-winroth_where_2013" class="csl-entry">
 
 ———. “Where Gratian Slept: The Life and Death of the Father of Canon
-Law.” *Zeitschrift der Savigny-Stiftung für Rechtsgeschichte:
+Law.” *Zeitschrift Der Savigny-Stiftung für Rechtsgeschichte:
 Kanonistische Abteilung* 99, no. 1 (August 2013): 105–28.
 
 </div>
@@ -397,7 +397,7 @@ its contribution to his work accordingly.
 12th Century: Regular Canons, Notaries, and the Decretum,” in *Europa
 und seine Regionen: 2000 Jahre Rechtsgeschichte*, ed. Andreas Bauer and
 Karl H. L. Welker (Vienna, 2007), 107–22; Anders Winroth, “Where Gratian
-Slept: The Life and Death of the Father of Canon Law,” *Zeitschrift der
+Slept: The Life and Death of the Father of Canon Law,” *Zeitschrift Der
 Savigny-Stiftung für Rechtsgeschichte: Kanonistische Abteilung* 99, no.
 1 (August 2013): 105–28; Kenneth Pennington, “The Biography of Gratian,
 the Father of Canon Law,” *Villanova Law Review* 59 (2014): 679–706; and

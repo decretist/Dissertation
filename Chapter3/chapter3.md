@@ -32,6 +32,8 @@ seems to have been more aware of, and more interested in, the
 emergence of scholastic theology in northern France than we can
 easily explain.[^3]
 
+### Noonan
+
 The starting point for all modern scholarship on Gratian himself
 is John T. Noonan Jr.'s classic 1979 *Traditio* article "Gratian
 slept here: The changing identity of the father of the systematic
@@ -47,13 +49,13 @@ the mythology surrounding Gratian), is sufficient to illustrate the
 nature of Noonan's method and conclusions.
 
 Odofredus (†1265), a professor of law at Bologna, claimed that
-Gratian "was staying" (*stabat*) at the monastery of Saints Felice
+Gratian "was staying" (*stabat*) at the monastery of Saints Felix
 and Nabor while working as a rubricator.[^4] Odofredus did not
 indicate the basis for his statement that Gratian had been a resident
-of Saints Felice and Nabor, nor did he say that Gratian had been a
+of Saints Felix and Nabor, nor did he say that Gratian had been a
 monk. In 1758, Camaldolese scholars Mittarelli and Costadono
 discovered papal privileges conferred in 1113 and 1153 identifying
-Saints Felice and Nabor as Camaldolese, and inferred from them that
+Saints Felix and Nabor as Camaldolese, and inferred from them that
 the monastery---and by extension Gratian himself---had been
 Camaldolese during the intervening years. The claim that Gratian
 had a connection to the Camaldolese order attracted criticism in
@@ -71,7 +73,21 @@ not attributed to a source, a century after the fact---is nothing
 more than legend.
 
 Winroth has questioned whether this is an appropriate standard for
-evaluating historical evidence.[^6]
+evaluating historical evidence.[^6] Noonan's insistence on adhering
+to the courtroom rules of evidence can seem like overkill. If, after
+all, the monastery of Saints Felix and Nabor in Bologna was in the
+hands of Camaldolese communities in 1113 and 1153, it does not seem
+unreasonable to infer that it was in the hands of one in the 1120s
+and 1130s when Gratian was putatively associated with the foundation,
+whatever we think the nature of that association to have been. But
+Noonan's caution seems justified when we consider, for example,
+Southern's having seized upon the one thinly-sources datum of the
+Camaldolese connection as the foundation for his entire reconstruction
+of Gratian's intentions and motivations in undertaking the *Decretum*
+project, including a peremptory dismissal of any possibility that
+Gratian had a teaching career.
+
+---
 
 > To conclude, we have reason to believe that Gratian composed and
 commented upon a substantial portion of the Concordia. In such
@@ -86,7 +102,7 @@ recent (post-1996) discussion of the identity of Gratian necessarily
 focus on accounting for the existence of the first and second
 recensions.**
 
-### Winroth's argument
+### Winroth
 
 Winroth's arguments in chapters 1-5 of *The Making of Gratian's
 Decretum* are agnostic as to whether Gratian 1 is the same person
@@ -114,7 +130,7 @@ communale degli Intronati F12, f.5r) as evidence that Gratian died
 as bishop of Chiusi on the feast day of St Lawrence (August 10) in
 either 1144 or 1145.[^10]
 
-### Pennington's argument
+### Pennington
 
 Pennington builds on Larson's conjecture that the canon referred
 to at D.63 d.p.c.34 in the first recension and later incorporated
@@ -297,7 +313,7 @@ Gratian got it from scholastic theology. See also @luscombe_abelard_1969;
 and @winroth_where_2013, 111.
 
 [^4]: Noonan identifies Odofredus as the source for associating
-Gratian with Saints Felix and Nabor @noonan_gratian_1979, 148;
+Gratian with Saints Felix and Nabor. @noonan_gratian_1979, 148;
 but cf. @southern_scholastic_1995, 286n5. Southern draws attention
 to an inscription found in a Geneva manuscript of the *Decretum*,
 Bibliothèque publique et universitaire, MS Lat. 60: *Anno domini
