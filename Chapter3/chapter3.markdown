@@ -6,11 +6,11 @@ closer examination, to be myth.[1] On the evidence found in the
 *Decretum*, Gratian seems to have been less interested in contemporary
 ecclesiastical or secular politics in general, and in the Investiture
 Controversy (1076-1122) in particular, than some modern scholars think
-he should have been. Gratian similarly seems, based on the relatively
+he ought to have been. Gratian similarly seems, based on the relatively
 limited use he makes in the *Decretum* of material from the *Codex* and
 *Digest* of Justinian, to have been either less interested in, or less
 aware of, the revival of the study of Roman law in the early twelfth
-century than we think he should have been. On the other hand, he seems
+century than we think he ought to have been. On the other hand, he seems
 to have been more aware of, and more interested in, the emergence of
 scholastic theology in northern France than we can easily explain.[2]
 
@@ -148,7 +148,7 @@ recensions.**
 <!--
 Pennington assumes an Iberian origin for Bc, but wasn't it originally
 Italian?
--->
+  -->
 
 ### Gratian's teaching career
 
@@ -411,6 +411,14 @@ Cambridge University Press, 2000.
 
 </div>
 
+<div id="ref-winroth_where_2013" class="csl-entry">
+
+———. “Where Gratian Slept: The Life and Death of the Father of Canon
+Law.” *Zeitschrift der Savigny-Stiftung für Rechtsgeschichte:
+Kanonistische Abteilung* 99, no. 1 (August 2013): 105–28.
+
+</div>
+
 </div>
 
 [1] John T. Noonan, “Gratian Slept Here: The Changing Identity of the
@@ -426,7 +434,10 @@ scholastic theology. See also D. E. Luscombe, “Abelard and the Decretum
 of Gratian.” in *The School of Peter Abelard: The Influence of Abelard’s
 Thought in the Early Scholastic Period*, Cambridge Studies in Medieval
 Life and Thought, new series, v. 14 (London: Cambridge U.P, 1969),
-214–23; and 1, 111.
+214–23; and Anders Winroth, “Where Gratian Slept: The Life and Death of
+the Father of Canon Law,” *Zeitschrift der Savigny-Stiftung für
+Rechtsgeschichte: Kanonistische Abteilung* 99, no. 1 (August 2013):
+105–28, 111.
 
 [3] Noonan, “Gratian Slept Here.”
 
@@ -447,18 +458,17 @@ independent evidence attesting to a connection between Gratian and
 Saints Felix and Nabor is therefore unknown, but it is possible that it
 predates Odofredus.
 
-[5] **Cite Noonan, “Gratian Slept Here”, but also cite Alphonse van
-Hove, *Prolegomena ad Codicem iuris canonici*, Editio artera auctior et
+[5] See Noonan, “Gratian Slept Here”, 150-151. Alphonse van Hove,
+*Prolegomena ad Codicem iuris canonici*, Editio artera auctior et
 emendatior, Commentarium Lovaniense in Codicem iuris canonici, v. 1, t.
-1 (Mechlinae: H. Dessain, 1945).** Van Hove's *Prolegomena* had an
-outsized impact on the trajectory of medieval canon law studies in
-twentieth century North America because of its having been used by the
-1964 Yale seminar led by Peter Landau in the absence of Stephan Kuttner,
-who was undergoing treatment for cancer at the time. Seminar
-participants including Charles Donahue and Robert Somerville went on to
-have unusually influential academic careers in the field (Donahue at
-Harvard, and Somerville at Columbia where he was Winroth's dissertation
-advisor).
+1 (Mechlinae: H. Dessain, 1945) had an outsized impact on the trajectory
+of medieval canon law studies in twentieth century North America because
+of its having been used by the 1964 Yale seminar led by Peter Landau in
+the absence of Stephan Kuttner, who was undergoing treatment for cancer
+at the time. Seminar participants including Charles Donahue and Robert
+Somerville went on to have unusually influential academic careers in the
+field (Donahue at Harvard, and Somerville at Columbia where he was
+Winroth's dissertation advisor).
 
 [6] "Noonan used sound historical methods, but he chose, as a
 distinguished professor of law and later a prominent judge, to couch his
@@ -467,7 +477,7 @@ cross-examine witnesses. To make any headway with as complex and
 difficult a problem as Gratian's biography, it will be important to
 cling a bit more closely than Noonan did to classical historical
 methodology and terminology, as they have been codified from the late
-nineteenth century on." 1, 106.
+nineteenth century on." Winroth, “Where Gratian Slept”, 106.
 
 [7] Noonan, “Gratian Slept Here,” 172.
 
@@ -485,9 +495,9 @@ in the second recension, but this turned out to be an accident of the
 specific sections I used as case studies (C. 24 and C.11 q.3)." (Anders
 Winroth, email to Paul Evans, 18 May 2021).
 
-[10] 1.  The article expands on a presentation given by Winroth at the
-    Fourteenth International Congress of Medieval Canon Law,
-    Toronto, 2012.
+[10] See Winroth, “Where Gratian Slept”. The article expands on a
+presentation given by Winroth at the Fourteenth International Congress
+of Medieval Canon Law, Toronto, 2012.
 
 [11] **Placeholder for Pennington, Larson footnote** Pennington asserts
 that "\[t\]he main reason that Winroth created a second 'Gratian' is

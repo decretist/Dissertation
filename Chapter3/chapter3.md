@@ -22,15 +22,15 @@ has proved, on closer examination, to be myth.[@noonan_gratian_1979]
 On the evidence found in the *Decretum*, Gratian seems to have been
 less interested in contemporary ecclesiastical or secular politics
 in general, and in the Investiture Controversy (1076-1122) in
-particular, than some modern scholars think he should have been.
+particular, than some modern scholars think he ought to have been.
 Gratian similarly seems, based on the relatively limited use he
 makes in the *Decretum* of material from the *Codex* and *Digest*
 of Justinian, to have been either less interested in, or less aware
 of, the revival of the study of Roman law in the early twelfth
-century than we think he should have been. On the other hand, he
+century than we think he ought to have been. On the other hand, he
 seems to have been more aware of, and more interested in, the
 emergence of scholastic theology in northern France than we can
-easily explain.[^3]
+easily explain.[^2]
 
 ### Noonan
 
@@ -56,12 +56,12 @@ of Saints Felix and Nabor, nor did he say that Gratian had been a
 monk. In 1758, Camaldolese scholars Mittarelli and Costadono
 discovered papal privileges conferred in 1113 and 1153 identifying
 Saints Felix and Nabor as Camaldolese, and inferred from them that
-the monastery---and by extension Gratian himself---had been
-Camaldolese during the intervening years. The claim that Gratian
-had a connection to the Camaldolese order attracted criticism in
-the eighteenth century, and fell out of favor in the nineteenth
-century, but was put back into circulation in the mid-twentieth
-century by Van Hove.[^5]
+the monastery---and by extension Gratian himself---had been Camaldolese
+during the intervening years. The claim that Gratian had a connection
+to the Camaldolese order attracted criticism in the eighteenth
+century, and fell out of favor in the nineteenth century, but was
+put back into circulation in the mid-twentieth century by Van
+Hove.[^5]
 
 Noonan (†2017) was a distinguished professor of law and an appellate
 judge who applied the standards of evidence of the law school and
@@ -170,7 +170,7 @@ between the first and second recensions.**
 <!--
 Pennington assumes an Iberian origin for Bc, but wasn't it originally
 Italian?
--->
+  -->
 
 ### Gratian's teaching career
 
@@ -305,7 +305,7 @@ conciliar, and papal source texts, and towards a much more narrowly
 circumscribed technical jurisprudence focused exclusively on
 contemporary papal decretals.
 
-[^3]: See @kuttner_father_1941. Kuttner argues that Gratian applied
+[^2]: See @kuttner_father_1941. Kuttner argues that Gratian applied
 Ivo's program as it had been developed in the intervening forty
 years by scholastic theology, most notably by Abelard, and not in
 its original form: scholastic theology got the program from Ivo,
@@ -328,16 +328,15 @@ as independent evidence attesting to a connection between Gratian
 and Saints Felix and Nabor is therefore unknown, but it is possible
 that it predates Odofredus.
 
-[^5]: **Cite @noonan_gratian_1979, but also cite
-@van_hove_prolegomena_1945.** Van Hove's *Prolegomena* had an
-outsized impact on the trajectory of medieval canon law studies in
-twentieth century North America because of its having been used by
-the 1964 Yale seminar led by Peter Landau in the absence of Stephan
-Kuttner, who was undergoing treatment for cancer at the time. Seminar
-participants including Charles Donahue and Robert Somerville went
-on to have unusually influential academic careers in the field
-(Donahue at Harvard, and Somerville at Columbia where he was Winroth's
-dissertation advisor).
+[^5]: See @noonan_gratian_1979, 150-151. @van_hove_prolegomena_1945
+had an outsized impact on the trajectory of medieval canon law
+studies in twentieth century North America because of its having
+been used by the 1964 Yale seminar led by Peter Landau in the absence
+of Stephan Kuttner, who was undergoing treatment for cancer at the
+time. Seminar participants including Charles Donahue and Robert
+Somerville went on to have unusually influential academic careers
+in the field (Donahue at Harvard, and Somerville at Columbia where
+he was Winroth's dissertation advisor).
 
 [^6]: "Noonan used sound historical methods, but he chose, as a
 distinguished professor of law and later a prominent judge, to couch
@@ -360,7 +359,7 @@ out to be an accident of the specific sections I used as case studies
 (C. 24 and C.11 q.3)." (Anders Winroth, email to Paul Evans, 18 May
 2021).
 
-[^10]: @winroth_where_2013. The article expands on a presentation
+[^10]: See @winroth_where_2013. The article expands on a presentation
 given by Winroth at the Fourteenth International Congress of Medieval
 Canon Law, Toronto, 2012.
 
