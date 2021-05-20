@@ -85,7 +85,7 @@ Southern's having seized upon the one thinly-sourced datum of the
 Camaldolese connection as the foundation for his entire reconstruction
 of Gratian's intentions and motivations in undertaking the *Decretum*
 project, including a peremptory dismissal of any possibility that
-Gratian had a teaching career.
+Gratian had a teaching career.[^a]
 
 ---
 
@@ -347,6 +347,21 @@ to cling a bit more closely than Noonan did to classical historical
 methodology and terminology, as they have been codified from the
 late nineteenth century on." @winroth_where_2013, 106.
 
+[^a]: R.W. Southern takes an extreme position with respect to
+Gratian's teaching career, citing as late as 1995 Gratian's supposed
+association with the Camaldolese order to advance an argument that
+he had never been a teacher: "Reliable writers after his death
+affirmed that Gratian was a Benedictine monk of the Camaldolesian
+Order, a small Italian branch of the Benedictines, which combined
+austerity of life with considerable freedom to contribute to the
+work of the Church in a wide variety of ways. This is what Gratian
+did. He engaged in a very un-monastic branch of study, and produced
+a law book which became the most widely distributed and probably
+most generally used of all the masterpieces of twelfth-century
+learning." "the book, and not the teaching of pupils, was the
+offering Gratian's monastic life brought to the Church".
+[@southern_scholastic_1995, 286-287, 304].
+
 [^9]: Winroth has since come to contextualize the differences between
 the first and second recension with respect to the use of Roman law
 within a broader context: "The argument about two authors is based
@@ -386,24 +401,11 @@ like the builders of the medieval cathedrals, whose person is hidden
 and effaced completely behind their immortal works." [@kuttner_father_1941,
 4].
 
-[^16]: **Expand: Winroth argues for a short teaching career, Southern
-argues for no teaching career.** R.W. Southern is the extreme outlier
-in this regard, citing as late as 1995 Gratian's supposed association
-with the Camaldolese order to advance an argument that he had never
-been a teacher: "Reliable writers after his death affirmed that
-Gratian was a Benedictine monk of the Camaldolesian Order, a small
-Italian branch of the Benedictines, which combined austerity of
-life with considerable freedom to contribute to the work of the
-Church in a wide variety of ways. This is what Gratian did. He
-engaged in a very un-monastic branch of study, and produced a law
-book which became the most widely distributed and probably most
-generally used of all the masterpieces of twelfth-century learning."
-"the book, and not the teaching of pupils, was the offering Gratian's
-monastic life brought to the Church". [@southern_scholastic_1995,
-286-287, 304]. Southern also asserts that no one claims to have
-been Gratian's student---"none of the earliest users of his work
-claims to have been taught by him". "although other scholars made
-some very early alterations and additions to the text of the
+[^16]: **Winroth argues for a short teaching career, Southern argues
+for no teaching career.** Southern also asserts that no one claims
+to have been Gratian's student---"none of the earliest users of his
+work claims to have been taught by him". "although other scholars
+made some very early alterations and additions to the text of the
 *Decretum*, none of them claimed to have been taught by him."
 [@southern_scholastic_1995, 287, 304]. **Does Southern provide
 footnotes to support these statements?**
