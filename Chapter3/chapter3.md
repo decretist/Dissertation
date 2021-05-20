@@ -81,7 +81,7 @@ unreasonable to infer that it was in the hands of one in the 1120s
 and 1130s when Gratian was putatively associated with the foundation,
 whatever we think the nature of that association to have been. But
 Noonan's caution seems justified when we consider, for example,
-Southern's having seized upon the one thinly-sources datum of the
+Southern's having seized upon the one thinly-sourced datum of the
 Camaldolese connection as the foundation for his entire reconstruction
 of Gratian's intentions and motivations in undertaking the *Decretum*
 project, including a peremptory dismissal of any possibility that
