@@ -87,17 +87,26 @@ of Gratian's intentions and motivations in undertaking the *Decretum*
 project, including a peremptory dismissal of any possibility that
 Gratian had a teaching career.[^a]
 
----
-
-<!--
 Noonan left open the possibility that a Gratian who was recorded
-as having participated in an 1143 case in Venice as a legal consultant
-might be the same Gratian responsible for the *Decretum*.
+as having participated in an 1143 case in Venice as one of three
+legal consultants ("Magister Walfredus", "Gratianus", and "Moysis",
+in that order)[^b] advising a three-judge panel presided over by a
+papal legate, Cardinal Goizo, might be the same Gratian responsible
+for the *Decretum*.
 
-But we can say that it is possible, even plausible, that the unbiased
+> But we can say that it is possible, even plausible, that the unbiased
 notary who recorded the scene at S. Marco is the only person to
 have left an eyewitness account of Gratian.
+[@noonan_gratian_1979, 171]
 
+[^b]: Pennngton reads a lot into the order (why wasn't Gratian
+referred to first?) and the honorifics (why wasn't Gratian referred
+to as "Magister"?). @pennington_biography_2018, 387-388. There is,
+however, no reason to assume that the notary who reported on the
+proceedings would necessarily have been well-informed about Gratian,
+who was, after all, not a local figure in Venice.
+
+<!--
 There are two difficulties when this authorship comes to be determined.
 One is that the *Concordia* is a book in three distinctive parts,
 with several distinctive sections within the parts, and these parts
