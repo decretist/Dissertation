@@ -69,6 +69,29 @@ career.[7]
 
 ------------------------------------------------------------------------
 
+<!--
+Noonan left open the possibility that a Gratian who was recorded
+as having participated in an 1143 case in Venice as a legal consultant
+might be the same Gratian responsible for the *Decretum*.
+
+But we can say that it is possible, even plausible, that the unbiased
+notary who recorded the scene at S. Marco is the only person to
+have left an eyewitness account of Gratian.
+
+There are two difficulties when this authorship comes to be determined.
+One is that the *Concordia* is a book in three distinctive parts,
+with several distinctive sections within the parts, and these parts
+have undergone editing as to chapter headings, chapter insertions,
+and chapter order. Whatever the later formal ascription, is Gratian
+responsible for all the parts? The other difficulty is the range of
+roles the one 'responsible' person might have had [em-dash] compiler,
+commentator, rubricator, reviser. Was Gratian one or all? The
+difficulties relate to each other, because evidence that Gratian
+was, say, the commentator of Part II does not establish what role
+he had in Part I. @noonan_gratian_1979, 162-163.
+
+  -->
+
 > To conclude, we have reason to believe that Gratian composed and
 > commented upon a substantial portion of the Concordia. In such
 > composition and commentary he revealed himself to be a teacher with
@@ -81,6 +104,16 @@ career.[7]
 recent (post-1996) discussion of the identity of Gratian necessarily
 focus on accounting for the existence of the first and second
 recensions.**
+
+<!--
+### Grebner
+It's not clear whether I need separate section for Grebner.
+
+Does Grebner's prosopographic analysis put Gratian on the "right"
+side of the Anacletian schism (i.e., on the same side as Haimeric
+with the Innocentians)?
+
+  -->
 
 ### Winroth
 
@@ -148,6 +181,25 @@ recensions.**
 <!--
 Pennington assumes an Iberian origin for Bc, but wasn't it originally
 Italian?
+
+Pennington claims to be arguing that there was one Gratian, but is
+in fact arguing that Gratian composed the *Decretum* incrementally
+over the course of a teaching career spanning several decades, which
+is not quite the same thing.
+
+Pennington does not address Winroth's content-based arguments in
+favor of the two-author hypothesis (e.g., differences between the
+first and second recensions in terms of the levels of sophistication
+in the use of Justinianic Roman Law).
+
+Pennington's strongest argument in favor of his position on Sg is
+not an abbreviation is that the unique Causa Prima (an ordered
+subset of canons and *dicta* from Part I of the first recension of
+the *Decretum*) includes neither texts from the *tractatus de
+legibus* (distinctions 1-20) nor from the "epilogue" (distinctions
+81-101). Moreover, cases 24-26 [verify!] are missing entirely. Why,
+Pennington asks, would an abbreviator do this?
+
   -->
 
 ### Gratian's teaching career
