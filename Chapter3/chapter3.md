@@ -99,13 +99,6 @@ notary who recorded the scene at S. Marco is the only person to
 have left an eyewitness account of Gratian.
 [@noonan_gratian_1979, 171]
 
-[^b]: Pennngton reads a lot into the order (why wasn't Gratian
-referred to first?) and the honorifics (why wasn't Gratian referred
-to as "Magister"?). @pennington_biography_2018, 387-388. There is,
-however, no reason to assume that the notary who reported on the
-proceedings would necessarily have been well-informed about Gratian,
-who was, after all, not a local figure in Venice.
-
 <!--
 There are two difficulties when this authorship comes to be determined.
 One is that the *Concordia* is a book in three distinctive parts,
@@ -118,8 +111,8 @@ commentator, rubricator, reviser. Was Gratian one or all? The
 difficulties relate to each other, because evidence that Gratian
 was, say, the commentator of Part II does not establish what role
 he had in Part I. @noonan_gratian_1979, 162-163.
-
   -->
+---
 
 > To conclude, we have reason to believe that Gratian composed and
 commented upon a substantial portion of the Concordia. In such
@@ -422,6 +415,13 @@ most generally used of all the masterpieces of twelfth-century
 learning." "the book, and not the teaching of pupils, was the
 offering Gratian's monastic life brought to the Church".
 [@southern_scholastic_1995, 286-287, 304].
+
+[^b]: Pennngton reads a great deal into the order (why wasn't Gratian
+referred to first?) and the honorifics (why wasn't Gratian referred
+to as "Magister"?). @pennington_biography_2018, 387-388. There is,
+however, no reason to assume that the notary who reported on the
+proceedings would necessarily have been well-informed about Gratian,
+who was, after all, not a local figure in Venice.
 
 [^9]: Winroth has since come to contextualize the differences between
 the first and second recension with respect to the use of Roman law

@@ -90,8 +90,9 @@ commentator, rubricator, reviser. Was Gratian one or all? The
 difficulties relate to each other, because evidence that Gratian
 was, say, the commentator of Part II does not establish what role
 he had in Part I. @noonan_gratian_1979, 162-163.
-
   -->
+
+------------------------------------------------------------------------
 
 > To conclude, we have reason to believe that Gratian composed and
 > commented upon a substantial portion of the Concordia. In such
@@ -547,14 +548,14 @@ was the offering Gratian's monastic life brought to the Church".
 (Southern, *Scholastic Humanism and the Unification of Europe*,
 1:286–87, 304).
 
-[8] Pennngton reads a lot into the order (why wasn't Gratian referred to
-first?) and the honorifics (why wasn't Gratian referred to as
-"Magister"?). Kenneth Pennington, “The Biography of Gratian, the Father
-of Canon Law,” in *A Service Beyond All Recompense*, ed. Kurt Martens
-(Catholic University of America Press, 2018), 359–92, 387-388. There is,
-however, no reason to assume that the notary who reported on the
-proceedings would necessarily have been well-informed about Gratian, who
-was, after all, not a local figure in Venice.
+[8] Pennngton reads a great deal into the order (why wasn't Gratian
+referred to first?) and the honorifics (why wasn't Gratian referred to
+as "Magister"?). Kenneth Pennington, “The Biography of Gratian, the
+Father of Canon Law,” in *A Service Beyond All Recompense*, ed. Kurt
+Martens (Catholic University of America Press, 2018), 359–92, 387-388.
+There is, however, no reason to assume that the notary who reported on
+the proceedings would necessarily have been well-informed about Gratian,
+who was, after all, not a local figure in Venice.
 
 [9] Noonan, “Gratian Slept Here,” 171.
 
