@@ -35,6 +35,14 @@
 <td>ausu dementiae prolata, refutantur</td>
 </tr>
 <tr class="odd">
+<td style="text-align: left;">D.16 c.9</td>
+<td style="text-align: right;">45</td>
+<td style="text-align: left;">Anders Winroth</td>
+<td>18-May-21</td>
+<td>sub Iustiniano principe.</td>
+<td>sub Iustiniano principe,</td>
+</tr>
+<tr class="even">
 <td style="text-align: left;">D.23 c.2</td>
 <td style="text-align: right;">79</td>
 <td style="text-align: left;">Anders Winroth</td>
@@ -43,7 +51,7 @@
 <td>carnis passione, mortuus uera<br />
 corporis sui morte, resurrexit uera</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;">D.54 d.p.c.22</td>
 <td style="text-align: right;">214</td>
 <td style="text-align: left;">Paul Evans</td>
@@ -51,7 +59,7 @@ corporis sui morte, resurrexit uera</td>
 <td>Quid autem serui ecclesiarum</td>
 <td>Quod autem serui ecclesiarum</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;">C.2 q.6 c.41</td>
 <td style="text-align: right;">483</td>
 <td style="text-align: left;">Paul Evans</td>
@@ -59,7 +67,7 @@ corporis sui morte, resurrexit uera</td>
 <td>contra sententiam restitutionem inpetraverit</td>
 <td>contra sententiam restitutionem inpetrauerit</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;">C.4 d.init.</td>
 <td style="text-align: right;">536</td>
 <td style="text-align: left;">Paul Evans</td>
@@ -67,7 +75,7 @@ corporis sui morte, resurrexit uera</td>
 <td>a communione ait remouendus</td>
 <td>a communione sit remouendus</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;">C.4 d.init.</td>
 <td style="text-align: right;">536</td>
 <td style="text-align: left;">Paul Evans</td>
@@ -75,7 +83,7 @@ corporis sui morte, resurrexit uera</td>
 <td>in episcoporum indicio</td>
 <td>in episcoporum iudicio</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;">C.7 d.init.</td>
 <td style="text-align: right;">566</td>
 <td style="text-align: left;">Paul Evans</td>

@@ -193,13 +193,13 @@ in the *Decretum*.
 
 Both the text of Friedberg's 1879 edition of Gratian's *Decretum* and
 Winroth's appendix are open to criticism. Although modern scholars
-admire Friedberg's learning and energy --- the 1879 edition of the
-*Decretum* was only one of many such projects that he undertook --- his
+admire Friedberg's learning and energy---the 1879 edition of the
+*Decretum* was only one of many such projects that he undertook---his
 editorial standards were those of 140 years ago. In particular,
 Friedberg's selection of eight unrepresentative German manuscripts as
-the basis for his edition, and his particular reliance on two of them
---- Köln Erzbischöfliche Diözesan- und Dombibliothek 127 (Ka) and 128
-(Kb) --- are seen today as serious deficiencies.[11]
+the basis for his edition, and his particular reliance on two of
+them---Köln Erzbischöfliche Diözesan- und Dombibliothek 127 (Ka) and 128
+(Kb)---are seen today as serious deficiencies.[11]
 
 Winroth himself acknowledged the provisional nature of his appendix.[12]
 Furthermore, Pennington has pointed out that although Winroth's appendix
@@ -299,6 +299,7 @@ table below lists all currently known errors in the MGH e-text:[19]
 |:--------------|-------:|:----------------------------------------------|:------------------------------------------------------------------|
 | D.6 d.p.c.3   |     11 | quantam ad moralem intelligentiam             | quantum ad moralem intelligentiam                                 |
 | D.15 c.2      |     35 | ausu dementiae prolata, refutatur             | ausu dementiae prolata, refutantur                                |
+| D.16 c.9      |     45 | sub Iustiniano principe.                      | sub Iustiniano principe,                                          |
 | D.23 c.2      |     79 |                                               | carnis passione, mortuus uera corporis sui morte, resurrexit uera |
 | D.54 d.p.c.22 |    214 | Quid autem serui ecclesiarum                  | Quod autem serui ecclesiarum                                      |
 | C.2 q.6 c.41  |    483 | contra sententiam restitutionem inpetraverit  | contra sententiam restitutionem inpetrauerit                      |
@@ -468,7 +469,7 @@ is a useful first step toward understanding how stylometric analysis
 works in practice. For the purpose of the following discussion, the
 *dicta* will be divided into four samples:
 
--   the hypothetical case statements (*dicta initiales* or *themata*)
+-   the hypothetical case statements (*dicta initialia* or *themata*)
     that introduce the thirty-six cases in Part II of the *Decretum*,
 -   the first-recension *dicta* from Parts I and II of the *Decretum*,
 -   the first- and second-recension *dicta* from *de Penitentia*, and
@@ -733,7 +734,7 @@ said to have a z-score of 1.0 or -1.0 depending on whether the value is
 greater or lesser than the mean. The formula used to calculate the
 sample standard deviation is:
 
-<img src="https://render.githubusercontent.com/render/math?math=s=\sqrt{\frac{1}{N-1}\sum_{i=1}^N(x_i-\bar{x})^2}">
+$s=\\sqrt{\\frac{1}{N - 1}\\sum\_{i=1}^N(x\_i-\\bar{x})^2}$
 
 The formula is slightly daunting notationally, but it is not difficult
 to use it to calculate the desired results. The example immediately
@@ -1475,12 +1476,12 @@ recipient of the Busa Prize is John Burrows, who first introduced the
 fundamental stylometric technique now known as Burrows's Delta in a
 lecture he delivered on the occasion of receiving the award in 2001.
 
-[19] Data current as of 4 November 2020. For more recent error reports,
-see the list I maintain for the Stephan Kuttner Institute on
+[19] Data current as of 18 May 2021. For more recent error reports, see
+the list I maintain for the Stephan Kuttner Institute on
 [GitHub](https://github.com/StephanKuttnerInstitute/FriedbergBugs/blob/master/bug-reports.csv).
 Thanks to Anders Winroth for reporting the errors in D.6 d.p.c.3 (6
-October 2019), D.15 c.2 (4 November 2020), and D.23 c.2 (23 August
-2019).
+October 2019), D.15 c.2 (4 November 2020), D.16 c.9 (18 May 2021), and
+D.23 c.2 (23 August 2019).
 
 [20] Thanks to Anders Winroth for bringing the instance of homeoteleuton
 at D.23 c.2 in the MGH e-text to my attention (August 23, 2019). Clemens
