@@ -20,7 +20,7 @@
 
 - [Appendix 1](Appendix/appendix1.markdown)
 - [Appendix 2](Appendix/appendix2.markdown)
-- [Appendix 3](Appendix/appendix3.markdown)
+- [Appendix 3](Appendix/appendix3.markdown) (updated 18 May 2021)
 
 ### *Extravagantes*
 

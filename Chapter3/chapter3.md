@@ -87,16 +87,16 @@ of Gratian's intentions and motivations in undertaking the *Decretum*
 project, including a peremptory dismissal of any possibility that
 Gratian had a teaching career.[^a]
 
-Noonan left open the possibility that a Gratian who was recorded
-as having participated in an 1143 case in Venice as one of three
-legal consultants ("Magister Walfredus", "Gratianus", and "Moysis",
-in that order)[^b] advising a three-judge panel presided over by a
-papal legate, Cardinal Goizo, might be the same Gratian responsible
-for the *Decretum*.
+Noonan did leave open one affirmative possibility, that a Gratian
+who was recorded as having participated in an 1143 case in Venice
+as one of three legal consultants ("Magister Walfredus", "Gratianus",
+and "Moysis", in that order)[^b] advising a three-judge panel
+presided over by a papal legate, Cardinal Goizo, might be the same
+Gratian responsible for the *Decretum*.
 
-> But we can say that it is possible, even plausible, that the unbiased
-notary who recorded the scene at S. Marco is the only person to
-have left an eyewitness account of Gratian.
+> But we can say that it is possible, even plausible, that the
+unbiased notary who recorded the scene at S. Marco is the only
+person to have left an eyewitness account of Gratian.
 [@noonan_gratian_1979, 171]
 
 <!--
@@ -122,7 +122,7 @@ He worked in Bologna in the 1130s and 1140s. Beyond these conclusions,
 we have unverified hearsay, palpable legend, and the silent figure
 in the shadows of S. Marco.[@noonan_gratian_1979, 172]
 
-**Transition: Noonan wrote before the discover of the first recension;
+**Transition: Noonan wrote before the discovery of the first recension;
 recent (post-1996) discussion of the identity of Gratian necessarily
 focus on accounting for the existence of the first and second
 recensions.**
@@ -134,7 +134,6 @@ It's not clear whether I need separate section for Grebner.
 Does Grebner's prosopographic analysis put Gratian on the "right"
 side of the Anacletian schism (i.e., on the same side as Haimeric
 with the Innocentians)?
-
   -->
 
 ### Winroth
@@ -216,15 +215,33 @@ favor of the two-author hypothesis (e.g., differences between the
 first and second recensions in terms of the levels of sophistication
 in the use of Justinianic Roman Law).
 
+  -->
+
 Pennington's strongest argument in favor of his position on Sg is
-not an abbreviation is that the unique Causa Prima (an ordered
+not an abbreviation is that the unique *Causa Prima* (an ordered
 subset of canons and *dicta* from Part I of the first recension of
 the *Decretum*) includes neither texts from the *tractatus de
 legibus* (distinctions 1-20) nor from the "epilogue" (distinctions
-81-101). Moreover, cases 24-26 [verify!] are missing entirely. Why,
+81-101). Moreover, cases 24-26 [**verify!**] are missing entirely. Why,
 Pennington asks, would an abbreviator do this?
 
-  -->
+There are two aspects to Pennington's reservations about identifying
+the Gratian named in the Siena necrology with the author of the
+*Decretum*. Pennington is open to the possibility that the author
+of the *Decretum* eventually became a bishop somewhere, but questions
+whether the person named in the necrology was either the bishop of
+Chiusi, or the author of the *Decretum*. He notes that the necrology
+refers to "Gratian of Chiusi, bishop", not to "Gratian, bishop of
+Chiusi." His second reservation concerning the identification of
+the Gratian mentioned in the Siena necrology as "the Gratian is
+closely related to his reservation about Grebner's identification
+of the Gratian mentioned in the record of the 1143 Venice court
+case: neither record accords Gratian the kind of prominence that might 
+be expected for a figure of such importance. Gratian appears second on
+the list of the three legal consultants in the Venice case, and is not referred
+to with the honorific title "*Magister*." And the Siena necrology records
+nothing beyond the bare facts of a name, a day (but not year) of death,
+and that the defunct had been a bishop from or of Chiusi.
 
 ### Gratian's teaching career
 
