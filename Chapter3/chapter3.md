@@ -204,17 +204,6 @@ between the first and second recensions.**
 <!--
 Pennington assumes an Iberian origin for Bc, but wasn't it originally
 Italian?
-
-Pennington claims to be arguing that there was one Gratian, but is
-in fact arguing that Gratian composed the *Decretum* incrementally
-over the course of a teaching career spanning several decades, which
-is not quite the same thing.
-
-Pennington does not address Winroth's content-based arguments in
-favor of the two-author hypothesis (e.g., differences between the
-first and second recensions in terms of the levels of sophistication
-in the use of Justinianic Roman Law).
-
   -->
 
 Pennington's strongest argument in favor of his position on Sg is
@@ -222,8 +211,17 @@ not an abbreviation is that the unique *Causa Prima* (an ordered
 subset of canons and *dicta* from Part I of the first recension of
 the *Decretum*) includes neither texts from the *tractatus de
 legibus* (distinctions 1-20) nor from the "epilogue" (distinctions
-81-101). Moreover, cases 24-26 [**verify!**] are missing entirely. Why,
-Pennington asks, would an abbreviator do this?
+81-101). Moreover, four cases, 24-26 and 28, are missing from Sg
+entirely. Why, Pennington asks, would an abbreviator do this?
+
+<!--
+The subset of canons and *dicta* from Part I of the first recension
+of the *Decretum* from which *Causa Prima* in the Sg manuscript is
+composed is ordered, with the relatively insignificant exception
+that the four canons corresponding to D.32 c.3, c.4, c.6, and c.7
+are inserted between the canons corresponding to D.31 c.6 and D.31
+c.7.[@larrainzar_borrador_1999, 653]
+  -->
 
 There are two aspects to Pennington's reservations about identifying
 the Gratian named in the Siena necrology with the author of the
@@ -236,12 +234,23 @@ Chiusi." His second reservation concerning the identification of
 the Gratian mentioned in the Siena necrology as "the Gratian is
 closely related to his reservation about Grebner's identification
 of the Gratian mentioned in the record of the 1143 Venice court
-case: neither record accords Gratian the kind of prominence that might 
+case: neither record accords Gratian the kind of prominence that might
 be expected for a figure of such importance. Gratian appears second on
 the list of the three legal consultants in the Venice case, and is not referred
 to with the honorific title "*Magister*." And the Siena necrology records
 nothing beyond the bare facts of a name, a day (but not year) of death,
 and that the defunct had been a bishop from or of Chiusi.
+
+<!--
+Pennington claims to be arguing that there was one Gratian, but is
+in fact arguing that Gratian composed the *Decretum* incrementally
+over the course of a teaching career spanning several decades, which
+is not quite the same thing. Also, Pennington does not address
+Winroth's content-based arguments in favor of the two-author
+hypothesis (e.g., differences between the first and second recensions
+in terms of the levels of sophistication in the use of Justinianic
+Roman Law).
+  -->
 
 ### Gratian's teaching career
 
