@@ -129,9 +129,10 @@ cited in connection with the 1143 court case: "Recently, Gundula Grebner
 uncovered more evidence that would confirm Gratian's presence in a
 Venetian courtroom and change Noonan's plausible to certain."[13]
 
-<!-- Grebner's prosopographic analysis appears to put Gratian on
-the "right" side of the Anacletian schism (i.e., on the same side
-as Haimeric with the Innocentians).
+<!--
+Grebner's prosopographic analysis appears to put Gratian on the
+"right" side of the Anacletian schism (i.e., on the same side as
+Haimeric with the Innocentians).
   -->
 
 ### Winroth
