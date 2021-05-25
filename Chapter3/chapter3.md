@@ -25,12 +25,12 @@ in general, and in the Investiture Controversy (1076-1122) in
 particular, than some modern scholars think he ought to have been.
 Gratian similarly seems, based on the relatively limited use he
 makes in the *Decretum* of material from the *Codex* and *Digest*
-of Justinian, to have been either less interested in, or less aware
-of, the revival of the study of Roman law in the early twelfth
-century than we think he ought to have been. On the other hand, he
-seems to have been more aware of, and more interested in, the
-emergence of scholastic theology in northern France than we can
-easily explain.[^2]
+of Justinian, to have been either less interested in, or less
+well-informed about, the revival of the study of Roman law in the
+early twelfth century than we think he ought to have been. On the
+other hand, he seems to have been more well-informed about, and
+more interested in, the emergence of scholastic theology in northern
+France than we can easily explain.[^2]
 
 ### Noonan
 
@@ -44,22 +44,22 @@ works presented as commonplace.[@noonan_gratian_1979] It is unnecessary
 to exhaustively catalog all of the many Gratian myths that Noonan
 debunked. A single example, his examination of the history of the
 claim that Gratian was a Camaldolese monk at the monastery of Saints
-Felix and Nabor in Bologna (one of the most prominent elements of
-the mythology surrounding Gratian), is sufficient to illustrate the
+Felix and Nabor in Bologna---one of the most prominent elements of
+the mythology surrounding Gratian---is sufficient to illustrate the
 nature of Noonan's method and conclusions.
 
 Odofredus (†1265), a professor of law at Bologna, claimed that
 Gratian "was staying" (*stabat*) at the monastery of Saints Felix
 and Nabor while working as a rubricator.[^4] Odofredus did not
-indicate the basis for his statement that Gratian had been a resident
-of Saints Felix and Nabor, nor did he say that Gratian had been a
+indicate the basis for his statement that Gratian had been resident
+at Saints Felix and Nabor, nor did he say that Gratian had been a
 monk. In 1758, Camaldolese scholars Mittarelli and Costadono
 discovered papal privileges conferred in 1113 and 1153 identifying
 Saints Felix and Nabor as Camaldolese, and inferred from them that
 the monastery---and by extension Gratian himself---had been Camaldolese
 during the intervening years. The claim that Gratian had a connection
 to the Camaldolese order attracted criticism in the eighteenth
-century, and fell out of favor in the nineteenth century, but was
+century, and fell out of favor in the nineteenth century, before being
 put back into circulation in the mid-twentieth century by Van
 Hove.[^5]
 
@@ -87,6 +87,31 @@ of Gratian's intentions and motivations in undertaking the *Decretum*
 project, including a peremptory dismissal of any possibility that
 Gratian had a teaching career.[^a]
 
+<!--
+Noonan briefly discusses an entry in the chronicle of Robert of
+Torigny identifying Gratian as bishop of Chiusi. Noonan considers
+that claim unverifiable.[@noonan_gratian_1979, 153-154] The
+since-discovered Siena necrology makes Robert's identification more
+plausible, though by no means certain.
+  -->
+
+Noonan's wide-ranging skepticism extended considerably further than
+this or that alleged fact about Gratian's biography; he expressed
+significant doubt about the assumption that a text like the *Decretum* 
+had a single author:
+
+> There are two difficulties when this authorship comes to be determined.
+One is that the *Concordia* is a book in three distinctive parts,
+with several distinctive sections within the parts, and these parts
+have undergone editing as to chapter headings, chapter insertions,
+and chapter order. Whatever the later formal ascription, is Gratian
+responsible for all the parts? The other difficulty is the range of
+roles the one 'responsible' person might have had---compiler,
+commentator, rubricator, reviser. Was Gratian one or all? The
+difficulties relate to each other, because evidence that Gratian
+was, say, the commentator of Part II does not establish what role
+he had in Part I.[@noonan_gratian_1979, 162-163]
+
 Noonan did leave open one affirmative possibility, that a Gratian
 who was recorded as having participated in an 1143 case in Venice
 as one of three legal consultants ("Magister Walfredus", "Gratianus",
@@ -98,21 +123,6 @@ Gratian responsible for the *Decretum*.
 unbiased notary who recorded the scene at S. Marco is the only
 person to have left an eyewitness account of Gratian.
 [@noonan_gratian_1979, 171]
-
-<!--
-There are two difficulties when this authorship comes to be determined.
-One is that the *Concordia* is a book in three distinctive parts,
-with several distinctive sections within the parts, and these parts
-have undergone editing as to chapter headings, chapter insertions,
-and chapter order. Whatever the later formal ascription, is Gratian
-responsible for all the parts? The other difficulty is the range of
-roles the one 'responsible' person might have had [em-dash] compiler,
-commentator, rubricator, reviser. Was Gratian one or all? The
-difficulties relate to each other, because evidence that Gratian
-was, say, the commentator of Part II does not establish what role
-he had in Part I. @noonan_gratian_1979, 162-163.
-  -->
----
 
 Noonan concludes that
 
@@ -495,7 +505,7 @@ a law book which became the most widely distributed and probably
 most generally used of all the masterpieces of twelfth-century
 learning." "the book, and not the teaching of pupils, was the
 offering Gratian's monastic life brought to the Church".
-[@southern_scholastic_1995, 286-287, 304].
+@southern_scholastic_1995, 286-287, 304.
 
 [^b]: Pennngton reads a great deal into the order (why wasn't Gratian
 referred to first?) and the honorifics (why wasn't Gratian referred
