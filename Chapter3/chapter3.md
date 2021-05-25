@@ -159,6 +159,52 @@ reception of concepts and terminology from the study of Roman law,
 and argues that it is unlikely that one author underwent such an
 intellectual evolution in a single generation.[^9]
 
+#### Sg
+
+Much of the debate over whether the *Decretum* was the result of a
+continuous or discontinuous process of composition focused on the
+Sankt Gallen 673 (Sg) manuscript. Pennington and some of his students
+have argued that it represented, at some unknown number of removes,
+an earlier version of the *Decretum* than Winroth's first recension.
+Winroth and Wei have argued that Sg was a relatively uninteresting
+abbreviation of a first recension manuscript with some second
+recension interpolations.[^sg1]
+
+The version of the *Decretum* preserved in the Sankt Gallen
+Stiftsbibliothek 673 (Sg) manuscript contains somewhat fewer than
+1,050 canons,[^sg2] and is therefore considerably shorter than
+either the first recension (1,860 canons) or the vulgate (3,945)
+versions of the text.[^sg3] Formally, Sg is not divided into parts;
+all of its content is presented in the form of cases. The first
+case, however, is unique to Sg, and is referred to as *Causa Prima*
+to distinguish it from the *Causa* I found in all other pre-vulgate
+and vulgate versions of the *Decretum*. (*Causa* I appears as *Causa*
+II in Sg.) It contains a subset of canons and *dicta* found in Part
+I, presented in almost exactly the same order in which they appear
+in other versions of the *Decretum*. (There is one relatively minor
+exception with respect to the ordering of the texts, the four canons
+corresponding to D.32 c.3, c.4, c.6, and c.7 are inserted between
+the canons corresponding to D.31 c.6 and D.31
+c.7.)[@larrainzar_borrador_1999, 653] Notably, *Causa Prima* contains
+no texts (canons or *dicta*) from the *tractatus de legibus*
+(distinctions 1-20) and none from Gratian's "epilogue" (distinctions
+81-101).
+
+[^sg1]: See @eichbauer_gratians_2013 for a good recent overview of
+these debates.
+
+[^sg2]: Carlos Larrainzar in -@larrainzar_borrador_1999, 601,
+describes Sg as having "poco menos de 1,050 *auctoritates* y en
+torno a los 650 *dicta*." "The second recension contains 3,945
+canons (including the paleae) in the editions. The first recension
+contains only 1,860 canons (47 percent)." @winroth_making_2000,
+122.
+
+[^sg3]: See @larrainzar_borrador_1999, 601, for the number of canons
+in Sg, emphasizing that it is approximate.  See @winroth_making_2000,
+122, for the number of canons in the first recension.  3,945 is a
+conventional number.
+
 Winroth interprets an entry in a Siena necrology (Siena, Biblioteca
 communale degli Intronati F12, f.5r) as evidence that Gratian died
 as bishop of Chiusi on the feast day of St Lawrence (August 10) in
