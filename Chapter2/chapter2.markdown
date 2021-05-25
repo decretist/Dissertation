@@ -401,12 +401,13 @@ constructed.
 Chapters in Parts I and II of the *Decretum* typically consist of an
 inscription, a rubric, a canon, and a *dictum post canonem*, literally
 meaning "something said after the canon" and usually abbreviated d.p.c.
-There are almost no *dicta post canones* in Part III, which is in this
-respect much more similar to the formal source collections Gratian
-relied on than to the rest of the *Decretum*.[35] The discussion that
-follows focuses on inscriptions, rubrics, and *dicta post canones*;
-canons have been discussed in the preceding section on the collection
-and selection, and nothing further need be added here.
+Some chapters contain multiple canons, each of which may be accompanied
+by its own inscription. There are almost no *dicta post canones* in Part
+III, which is in this respect much more similar to the formal source
+collections Gratian relied on than to the rest of the *Decretum*.[35]
+The discussion that follows focuses on inscriptions, rubrics, and *dicta
+post canones*; canons have been discussed in the preceding section on
+the collection and selection, and nothing further need be added here.
 
 ### Inscriptions
 

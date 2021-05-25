@@ -114,26 +114,35 @@ he had in Part I. @noonan_gratian_1979, 162-163.
   -->
 ---
 
-> To conclude, we have reason to believe that Gratian composed and
-commented upon a substantial portion of the Concordia. In such
-composition and commentary he revealed himself to be a teacher with
-theological knowledge and interests and a lawyer's point of view.
-He worked in Bologna in the 1130s and 1140s. Beyond these conclusions,
-we have unverified hearsay, palpable legend, and the silent figure
-in the shadows of S. Marco.[@noonan_gratian_1979, 172]
+Noonan concludes that
 
-**Transition: Noonan wrote before the discovery of the first recension;
-recent (post-1996) discussion of the identity of Gratian necessarily
-focus on accounting for the existence of the first and second
-recensions.**
+> we have reason to believe that Gratian composed and commented
+upon a substantial portion of the Concordia. In such composition
+and commentary he revealed himself to be a teacher with theological
+knowledge and interests and a lawyer's point of view.  He worked
+in Bologna in the 1130s and 1140s. Beyond these conclusions, we
+have unverified hearsay, palpable legend, and the silent figure in
+the shadows of S. Marco.[@noonan_gratian_1979, 172]
 
-<!--
+This, then, is our starting point. Noonan wrote, however, before
+Winroth's discovery of the first recension. Scholarship on the
+identity of Gratian in this century has necessarily had to take
+into account both Noonan's pruning of his biography and the existence
+of the first and second recensions.
+
 ### Grebner
-It's not clear whether I need separate section for Grebner.
 
-Does Grebner's prosopographic analysis put Gratian on the "right"
-side of the Anacletian schism (i.e., on the same side as Haimeric
-with the Innocentians)?
+One of the earliest attempts to do so was Gundula Grebner's "Lay
+patronate in Bologna in the first half of the 12th century: Regular
+canons, notaries, and the *Decretum*."[@grebner_patronate_2007]
+Grebner's article is usually cited in connection with the 1143 court
+case: "Recently, Gundula Grebner uncovered more evidence that would
+confirm Gratian's presence in a Venetian courtroom and change
+Noonan's plausible to certain."[@pennington_biography_2018, 387]
+
+<!-- Grebner's prosopographic analysis appears to put Gratian on
+the "right" side of the Anacletian schism (i.e., on the same side
+as Haimeric with the Innocentians).
   -->
 
 ### Winroth
@@ -201,8 +210,8 @@ contains only 1,860 canons (47 percent)." @winroth_making_2000,
 122.
 
 [^sg3]: See @larrainzar_borrador_1999, 601, for the number of canons
-in Sg, emphasizing that it is approximate.  See @winroth_making_2000,
-122, for the number of canons in the first recension.  3,945 is a
+in Sg, emphasizing that it is approximate. See @winroth_making_2000,
+122, for the number of canons in the first recension. 3,945 is a
 conventional number.
 
 Winroth interprets an entry in a Siena necrology (Siena, Biblioteca
