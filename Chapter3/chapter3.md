@@ -188,7 +188,15 @@ recension on the grounds that he thinks D.63 d.p.c.34 *must* refer
 to canon 28 from the Second Lateran Council of 1139. That first-recension
 *dictum* makes a reference to a canon, D.63 c.35, that was later
 incorporated into the text of the *Decretum* as D.63 c.35 in the
-second recension.
+second recension.[^winroth1]
+
+[^winroth1]: Cite Winroth's dissertation, 345, where he appears
+open to the possibility that D.63 d.p.c.34 is an interpolation,
+without commiting to it. Winroth ultimately accepted the argument
+of Rudolf Wiegand (†1998) that the interpolation hypothesis is a
+slippery slope---once you start rejecting problematic passages
+because they are inconvenient (chronologically or otherwise), there
+is no obvious place to stop.
 
 Winroth rejects claims that the Sg manuscript of the *Decretum* is
 descended from a version earlier than the first recension, and

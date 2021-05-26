@@ -167,7 +167,7 @@ recension on the grounds that he thinks D.63 d.p.c.34 *must* refer to
 canon 28 from the Second Lateran Council of 1139. That first-recension
 *dictum* makes a reference to a canon, D.63 c.35, that was later
 incorporated into the text of the *Decretum* as D.63 c.35 in the second
-recension.
+recension.[16]
 
 Winroth rejects claims that the Sg manuscript of the *Decretum* is
 descended from a version earlier than the first recension, and argues
@@ -181,7 +181,7 @@ Finally, Winroth accepts an entry in a Siena necrology (Siena,
 Biblioteca Comunale degli Intronati F.I.2, f.5r) brought to scholarly
 attention by Francesco Reali as evidence that Gratian the author of the
 first recension died as bishop of Chiusi on the feast day of St Lawrence
-(August 10) in either 1144 or 1145.[16] The datum provided by the
+(August 10) in either 1144 or 1145.[17] The datum provided by the
 necrology, recording the death of a "Gratian of Chiusi, bishop",
 considered along with an axiomatic assumption of an 1139 date for the
 first recension, strengthens the case from Winroth's perspective that
@@ -198,13 +198,13 @@ argued that it represented, at some unknown number of removes, an
 earlier version of the *Decretum* than Winroth's first recension.
 Winroth and Wei have argued that Sg was a relatively uninteresting
 abbreviation of a first recension manuscript with some second recension
-interpolations.[17]
+interpolations.[18]
 
 The version of the *Decretum* preserved in the Sankt Gallen
 Stiftsbibliothek 673 (Sg) manuscript contains somewhat fewer than 1,050
-canons,[18] and is therefore considerably shorter than either the first
+canons,[19] and is therefore considerably shorter than either the first
 recension (1,860 canons) or the vulgate (3,945) versions of the
-text.[19] Formally, Sg is not divided into parts; all of its content is
+text.[20] Formally, Sg is not divided into parts; all of its content is
 presented in the form of cases. The first case, however, is unique to
 Sg, and is referred to as *Causa Prima* to distinguish it from the
 *Causa* I found in all other pre-vulgate and vulgate versions of the
@@ -214,7 +214,7 @@ exactly the same order in which they appear in other versions of the
 *Decretum*. (There is one relatively minor exception with respect to the
 ordering of the texts, the four canons corresponding to D.32 c.3, c.4,
 c.6, and c.7 are inserted between the canons corresponding to D.31 c.6
-and D.31 c.7.)[20] Notably, *Causa Prima* contains no texts (canons or
+and D.31 c.7.)[21] Notably, *Causa Prima* contains no texts (canons or
 *dicta*) from the *tractatus de legibus* (distinctions 1-20) and none
 from Gratian's "epilogue" (distinctions 81-101).
 
@@ -225,11 +225,11 @@ D.63 d.p.c.34 in the first recension and later incorporated as D.63 c.35
 in the second recension is not canon 28 from the Second Lateran Council
 (1139), but rather a canon from an earlier council or synod convened by
 Innocent II at Rome in 1133 that was reissued, a common practice in the
-early twelfth century, at Lateran II.[21] Pennington supports Larson's
+early twelfth century, at Lateran II.[22] Pennington supports Larson's
 conjecture by noting that the text of the canon as it appears in the
 *Decretum* includes variants (*facta fuerit* vs *fuerit celebrata*, and
 *consensus* vs *assensus*) found in none of the twenty manuscript
-witnesses to the Lateran II canons edited by Martin Brett.[22]
+witnesses to the Lateran II canons edited by Martin Brett.[23]
 Pennington argues that there is enough doubt as to whether D.63 d.p.c.34
 refers to canon 28 from Lateran II---as opposed to a canon from an
 earlier council or synod later reissued with minor textual variations as
@@ -243,12 +243,12 @@ margins and appendices of Fd and Aa, fall well short of the number that
 would be expected if they had been copied from a Vulgate *Decretum* (87
 are missing from Aa, and 62 are missing from Fd), these manuscripts
 represent an intermediate "next-to-last" stage in the development of the
-*Decretum* text intermediate the pre-Vulgate and Vulgate versions.[23]
+*Decretum* text intermediate the pre-Vulgate and Vulgate versions.[24]
 Furthermore, the fact that the Lateran II canons *are* present in this
 "next-to-last" stage undermines the argument going back to Fransen and
 supported by Lenherr that the Lateran II canons are a last-minute
 addition, and poorly if at all integrated into the argument of the
-*Decretum*.[24] **Pennington also cites early manuscripts of the
+*Decretum*.[25] **Pennington also cites early manuscripts of the
 *Decretum* with 99 and 100 distinctions in Part I as evidence for the
 continuous evolution of the text between the first and second
 recensions.**
@@ -514,15 +514,22 @@ in the second recension, but this turned out to be an accident of the
 specific sections I used as case studies (C. 24 and C.11 q.3)." (Anders
 Winroth, email to Paul Evans, 18 May 2021).
 
-[16] See Winroth, “Where Gratian Slept,” August 2013. The article
+[16] Cite Winroth's dissertation, 345, where he appears open to the
+possibility that D.63 d.p.c.34 is an interpolation, without commiting to
+it. Winroth ultimately accepted the argument of Rudolf Wiegand (†1998)
+that the interpolation hypothesis is a slippery slope---once you start
+rejecting problematic passages because they are inconvenient
+(chronologically or otherwise), there is no obvious place to stop.
+
+[17] See Winroth, “Where Gratian Slept,” August 2013. The article
 expands on a presentation given by Winroth at the Fourteenth
 International Congress of Medieval Canon Law, Toronto, 2012.
 
-[17] See Melodie H. Eichbauer, “Gratian’s Decretum and the Changing
+[18] See Melodie H. Eichbauer, “Gratian’s Decretum and the Changing
 Historiographical Landscape,” *History Compass* 11, no. 12 (December
 2013): 1111–25 for a good recent overview of these debates.
 
-[18] Carlos Larrainzar in (“El Borrador de la ’Concordia’ de Graciano:
+[19] Carlos Larrainzar in (“El Borrador de la ’Concordia’ de Graciano:
 Sankt Gallen, Stiftsbibliothek MS 673 (=Sg),” *Ius Ecclesiae: Rivista
 Internazionale di Diritto Canonico* 11, no. 3 (1999): 593–666), 601,
 describes Sg as having "poco menos de 1,050 *auctoritates* y en torno a
@@ -531,14 +538,14 @@ the paleae) in the editions. The first recension contains only 1,860
 canons (47 percent)." Winroth, *The Making of Gratian’s Decretum*, 2000,
 122.
 
-[19] See Larrainzar, “El Borrador de la ’Concordia’ de Graciano”, 601,
+[20] See Larrainzar, “El Borrador de la ’Concordia’ de Graciano”, 601,
 for the number of canons in Sg, emphasizing that it is approximate. See
 Winroth, *The Making of Gratian’s Decretum*, 2000, 122, for the number
 of canons in the first recension. 3,945 is a conventional number.
 
-[20] Larrainzar, “El Borrador de la ’Concordia’ de Graciano,” 653.
+[21] Larrainzar, “El Borrador de la ’Concordia’ de Graciano,” 653.
 
-[21] **Placeholder for Pennington, Larson footnote** Pennington asserts
+[22] **Placeholder for Pennington, Larson footnote** Pennington asserts
 that "\[t\]he main reason that Winroth created a second 'Gratian' is
 because of a text \[D.63 d.p.c.34\] that is found in all pre-Vulgate
 manuscripts." Pennington, “The Biography of Gratian, the Father of Canon
@@ -554,11 +561,11 @@ for Winroth's two-author hypothesis was that the second recension makes
 much more sophisticated use of Roman law concepts and terminology than
 the first recension.
 
-[22] Pennington, 365.
+[23] Pennington, 365.
 
-[23] **Placeholder for Pennington, Eichbauer footnote**
+[24] **Placeholder for Pennington, Eichbauer footnote**
 
-[24] Pennington, “The Biography of Gratian, the Father of Canon Law,”
+[25] Pennington, “The Biography of Gratian, the Father of Canon Law,”
 367–68.
 
 <div align="center">
