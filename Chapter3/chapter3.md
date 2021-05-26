@@ -183,6 +183,33 @@ reception of concepts and terminology from the study of Roman law,
 and argues that it is unlikely that one author underwent such an
 intellectual evolution in a single generation.[^15]
 
+Winroth is strongly committed to a late date (1139) for the first
+recension on the grounds that he thinks D.63 d.p.c.34 *must* refer
+to canon 28 from the Second Lateran Council of 1139. That first-recension
+*dictum* makes a reference to a canon, D.63 c.35, that was later
+incorporated into the text of the *Decretum* as D.63 c.35 in the
+second recension.
+
+Winroth rejects claims that the Sg manuscript of the *Decretum* is
+descended from a version earlier than the first recension, and
+argues that it is instead an abbreviation of the first recension
+with some interpolations from the second. Winroth therefore does
+not see the existence of Sg as a reason to assume either a long
+teaching career for Gratian or a long period of incremental development
+for the text of the *Decretum*.
+
+Finally, Winroth accepts an entry in a Siena necrology (Siena,
+Biblioteca Comunale degli Intronati F.I.2, f.5r) brought to scholarly
+attention by Francesco Reali as evidence that Gratian the author
+of the first recension died as bishop of Chiusi on the feast day
+of St Lawrence (August 10) in either 1144 or 1145.[^20] The datum
+provided by the necrology, recording the death of a "Gratian of
+Chiusi, bishop", considered along with an axiomatic assumption of
+an 1139 date for the first recension, strengthens the case from
+Winroth's perspective that Gratian, having been elevated to a
+bishopric not long after having finished work on the first recension,
+was unlikely to have been the author of the second recension.
+
 #### Sg
 
 Much of the debate over whether the *Decretum* was the result of a
@@ -213,11 +240,6 @@ c.7.)[@larrainzar_borrador_1999, 653] Notably, *Causa Prima* contains
 no texts (canons or *dicta*) from the *tractatus de legibus*
 (distinctions 1-20) and none from Gratian's "epilogue" (distinctions
 81-101).
-
-Winroth interprets an entry in a Siena necrology (Siena, Biblioteca
-Comunale degli Intronati F.I.2, f.5r) as evidence that Gratian died
-as bishop of Chiusi on the feast day of St Lawrence (August 10) in
-either 1144 or 1145.[^20]
 
 ### Pennington
 

@@ -162,6 +162,33 @@ concepts and terminology from the study of Roman law, and argues that it
 is unlikely that one author underwent such an intellectual evolution in
 a single generation.[15]
 
+Winroth is strongly committed to a late date (1139) for the first
+recension on the grounds that he thinks D.63 d.p.c.34 *must* refer to
+canon 28 from the Second Lateran Council of 1139. That first-recension
+*dictum* makes a reference to a canon, D.63 c.35, that was later
+incorporated into the text of the *Decretum* as D.63 c.35 in the second
+recension.
+
+Winroth rejects claims that the Sg manuscript of the *Decretum* is
+descended from a version earlier than the first recension, and argues
+that it is instead an abbreviation of the first recension with some
+interpolations from the second. Winroth therefore does not see the
+existence of Sg as a reason to assume either a long teaching career for
+Gratian or a long period of incremental development for the text of the
+*Decretum*.
+
+Finally, Winroth accepts an entry in a Siena necrology (Siena,
+Biblioteca Comunale degli Intronati F.I.2, f.5r) brought to scholarly
+attention by Francesco Reali as evidence that Gratian the author of the
+first recension died as bishop of Chiusi on the feast day of St Lawrence
+(August 10) in either 1144 or 1145.[16] The datum provided by the
+necrology, recording the death of a "Gratian of Chiusi, bishop",
+considered along with an axiomatic assumption of an 1139 date for the
+first recension, strengthens the case from Winroth's perspective that
+Gratian, having been elevated to a bishopric not long after having
+finished work on the first recension, was unlikely to have been the
+author of the second recension.
+
 #### Sg
 
 Much of the debate over whether the *Decretum* was the result of a
@@ -171,13 +198,13 @@ argued that it represented, at some unknown number of removes, an
 earlier version of the *Decretum* than Winroth's first recension.
 Winroth and Wei have argued that Sg was a relatively uninteresting
 abbreviation of a first recension manuscript with some second recension
-interpolations.[16]
+interpolations.[17]
 
 The version of the *Decretum* preserved in the Sankt Gallen
 Stiftsbibliothek 673 (Sg) manuscript contains somewhat fewer than 1,050
-canons,[17] and is therefore considerably shorter than either the first
+canons,[18] and is therefore considerably shorter than either the first
 recension (1,860 canons) or the vulgate (3,945) versions of the
-text.[18] Formally, Sg is not divided into parts; all of its content is
+text.[19] Formally, Sg is not divided into parts; all of its content is
 presented in the form of cases. The first case, however, is unique to
 Sg, and is referred to as *Causa Prima* to distinguish it from the
 *Causa* I found in all other pre-vulgate and vulgate versions of the
@@ -187,14 +214,9 @@ exactly the same order in which they appear in other versions of the
 *Decretum*. (There is one relatively minor exception with respect to the
 ordering of the texts, the four canons corresponding to D.32 c.3, c.4,
 c.6, and c.7 are inserted between the canons corresponding to D.31 c.6
-and D.31 c.7.)[19] Notably, *Causa Prima* contains no texts (canons or
+and D.31 c.7.)[20] Notably, *Causa Prima* contains no texts (canons or
 *dicta*) from the *tractatus de legibus* (distinctions 1-20) and none
 from Gratian's "epilogue" (distinctions 81-101).
-
-Winroth interprets an entry in a Siena necrology (Siena, Biblioteca
-Comunale degli Intronati F.I.2, f.5r) as evidence that Gratian died as
-bishop of Chiusi on the feast day of St Lawrence (August 10) in either
-1144 or 1145.[20]
 
 ### Pennington
 
@@ -492,11 +514,15 @@ in the second recension, but this turned out to be an accident of the
 specific sections I used as case studies (C. 24 and C.11 q.3)." (Anders
 Winroth, email to Paul Evans, 18 May 2021).
 
-[16] See Melodie H. Eichbauer, “Gratian’s Decretum and the Changing
+[16] See Winroth, “Where Gratian Slept,” August 2013. The article
+expands on a presentation given by Winroth at the Fourteenth
+International Congress of Medieval Canon Law, Toronto, 2012.
+
+[17] See Melodie H. Eichbauer, “Gratian’s Decretum and the Changing
 Historiographical Landscape,” *History Compass* 11, no. 12 (December
 2013): 1111–25 for a good recent overview of these debates.
 
-[17] Carlos Larrainzar in (“El Borrador de la ’Concordia’ de Graciano:
+[18] Carlos Larrainzar in (“El Borrador de la ’Concordia’ de Graciano:
 Sankt Gallen, Stiftsbibliothek MS 673 (=Sg),” *Ius Ecclesiae: Rivista
 Internazionale di Diritto Canonico* 11, no. 3 (1999): 593–666), 601,
 describes Sg as having "poco menos de 1,050 *auctoritates* y en torno a
@@ -505,16 +531,12 @@ the paleae) in the editions. The first recension contains only 1,860
 canons (47 percent)." Winroth, *The Making of Gratian’s Decretum*, 2000,
 122.
 
-[18] See Larrainzar, “El Borrador de la ’Concordia’ de Graciano”, 601,
+[19] See Larrainzar, “El Borrador de la ’Concordia’ de Graciano”, 601,
 for the number of canons in Sg, emphasizing that it is approximate. See
 Winroth, *The Making of Gratian’s Decretum*, 2000, 122, for the number
 of canons in the first recension. 3,945 is a conventional number.
 
-[19] Larrainzar, “El Borrador de la ’Concordia’ de Graciano,” 653.
-
-[20] See Winroth, “Where Gratian Slept,” August 2013. The article
-expands on a presentation given by Winroth at the Fourteenth
-International Congress of Medieval Canon Law, Toronto, 2012.
+[20] Larrainzar, “El Borrador de la ’Concordia’ de Graciano,” 653.
 
 [21] **Placeholder for Pennington, Larson footnote** Pennington asserts
 that "\[t\]he main reason that Winroth created a second 'Gratian' is
