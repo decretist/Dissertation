@@ -210,6 +210,17 @@ Winroth's perspective that Gratian, having been elevated to a
 bishopric not long after having finished work on the first recension,
 was unlikely to have been the author of the second recension.
 
+<!--
+
+*This* argument that Gratian could not have been the author of the
+second recension is persuasive if and only if you believe *both*
+that the first recension was competed not earlier than 1139 *and*
+that Gratian was a bishop by 1143 and dead by 1145. It is however
+neither the only nor the strongest argument against Gratian's
+authorship of the second recension.
+
+  -->
+
 #### Sg
 
 Much of the debate over whether the *Decretum* was the result of a
