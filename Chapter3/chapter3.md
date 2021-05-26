@@ -188,15 +188,7 @@ recension on the grounds that he thinks D.63 d.p.c.34 *must* refer
 to canon 28 from the Second Lateran Council of 1139. That first-recension
 *dictum* makes a reference to a canon, D.63 c.35, that was later
 incorporated into the text of the *Decretum* as D.63 c.35 in the
-second recension.[^winroth1]
-
-[^winroth1]: Cite Winroth's dissertation, 345, where he appears
-open to the possibility that D.63 d.p.c.34 is an interpolation,
-without commiting to it. Winroth ultimately accepted the argument
-of Rudolf Wiegand (†1998) that the interpolation hypothesis is a
-slippery slope---once you start rejecting problematic passages
-because they are inconvenient (chronologically or otherwise), there
-is no obvious place to stop.
+second recension.[^16]
 
 Winroth rejects claims that the Sg manuscript of the *Decretum* is
 descended from a version earlier than the first recension, and
@@ -210,7 +202,7 @@ Finally, Winroth accepts an entry in a Siena necrology (Siena,
 Biblioteca Comunale degli Intronati F.I.2, f.5r) brought to scholarly
 attention by Francesco Reali as evidence that Gratian the author
 of the first recension died as bishop of Chiusi on the feast day
-of St Lawrence (August 10) in either 1144 or 1145.[^20] The datum
+of St Lawrence (August 10) in either 1144 or 1145.[^17] The datum
 provided by the necrology, recording the death of a "Gratian of
 Chiusi, bishop", considered along with an axiomatic assumption of
 an 1139 date for the first recension, strengthens the case from
@@ -227,13 +219,13 @@ have argued that it represented, at some unknown number of removes,
 an earlier version of the *Decretum* than Winroth's first recension.
 Winroth and Wei have argued that Sg was a relatively uninteresting
 abbreviation of a first recension manuscript with some second
-recension interpolations.[^16]
+recension interpolations.[^18]
 
 The version of the *Decretum* preserved in the Sankt Gallen
 Stiftsbibliothek 673 (Sg) manuscript contains somewhat fewer than
-1,050 canons,[^17] and is therefore considerably shorter than either
+1,050 canons,[^19] and is therefore considerably shorter than either
 the first recension (1,860 canons) or the vulgate (3,945) versions
-of the text.[^18] Formally, Sg is not divided into parts; all of
+of the text.[^20] Formally, Sg is not divided into parts; all of
 its content is presented in the form of cases. The first case,
 however, is unique to Sg, and is referred to as *Causa Prima* to
 distinguish it from the *Causa* I found in all other pre-vulgate
@@ -256,7 +248,7 @@ to at D.63 d.p.c.34 in the first recension and later incorporated
 as D.63 c.35 in the second recension is not canon 28 from the Second
 Lateran Council (1139), but rather a canon from an earlier council
 or synod convened by Innocent II at Rome in 1133 that was reissued,
-a common practice in the early twelfth century, at Lateran II.[^21]
+a common practice in the early twelfth century, at Lateran II.[^22]
 Pennington supports Larson's conjecture by noting that the text of
 the canon as it appears in the *Decretum* includes variants (*facta
 fuerit* vs *fuerit celebrata*, and *consensus* vs *assensus*) found
@@ -276,7 +268,7 @@ the number that would be expected if they had been copied from a
 Vulgate *Decretum* (87 are missing from Aa, and 62 are missing from
 Fd), these manuscripts represent an intermediate "next-to-last"
 stage in the development of the *Decretum* text intermediate the
-pre-Vulgate and Vulgate versions.[^23] Furthermore, the fact that
+pre-Vulgate and Vulgate versions.[^24] Furthermore, the fact that
 the Lateran II canons *are* present in this "next-to-last" stage
 undermines the argument going back to Fransen and supported by
 Lenherr that the Lateran II canons are a last-minute addition, and
@@ -420,25 +412,33 @@ but this turned out to be an accident of the specific sections I
 used as case studies (C. 24 and C.11 q.3)." (Anders Winroth, email
 to Paul Evans, 18 May 2021).
 
-[^16]: See @eichbauer_gratians_2013 for a good recent overview of
+[^16]: Cite Winroth's dissertation, 345, where he appears
+open to the possibility that D.63 d.p.c.34 is an interpolation,
+without commiting to it. Winroth ultimately accepted the argument
+of Rudolf Wiegand (†1998) that the interpolation hypothesis is a
+slippery slope---once you start rejecting problematic passages
+because they are inconvenient (chronologically or otherwise), there
+is no obvious place to stop.
+
+[^17]: See @winroth_where_2013. The article expands on a presentation
+given by Winroth at the Fourteenth International Congress of Medieval
+Canon Law, Toronto, 2012.
+
+[^18]: See @eichbauer_gratians_2013 for a good recent overview of
 these debates.
 
-[^17]: Carlos Larrainzar in -@larrainzar_borrador_1999, 601, describes
-Sg as having "poco menos de 1,050 *auctoritates* y en torno a los
-650 *dicta*." "The second recension contains 3,945 canons (including
-the paleae) in the editions. The first recension contains only 1,860
+[^19]: Carlos Larrainzar describes Sg as having "poco menos de 1,050
+*auctoritates* y en torno a los 650 *dicta*." @larrainzar_borrador_1999, 601.
+"The second recension contains 3,945 canons (including the
+paleae) in the editions. The first recension contains only 1,860
 canons (47 percent)." @winroth_making_2000, 122.
 
-[^18]: See @larrainzar_borrador_1999, 601, for the number of canons
+[^20]: See @larrainzar_borrador_1999, 601, for the number of canons
 in Sg, emphasizing that it is approximate. See @winroth_making_2000,
 122, for the number of canons in the first recension. 3,945 is a
 conventional number.
 
-[^20]: See @winroth_where_2013. The article expands on a presentation
-given by Winroth at the Fourteenth International Congress of Medieval
-Canon Law, Toronto, 2012.
-
-[^21]: **Placeholder for Pennington, Larson footnote** Pennington
+[^22]: **Placeholder for Pennington, Larson footnote** Pennington
 asserts that "[t]he main reason that Winroth created a second
 'Gratian' is because of a text [D.63 d.p.c.34] that is found in all
 pre-Vulgate manuscripts." @pennington_biography_2018, 362. D.63
@@ -454,5 +454,5 @@ above, the original basis for Winroth's two-author hypothesis was
 that the second recension makes much more sophisticated use of Roman
 law concepts and terminology than the first recension.
 
-[^23]: **Placeholder for Pennington, Eichbauer footnote**
+[^24]: **Placeholder for Pennington, Eichbauer footnote**
 

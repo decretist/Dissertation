@@ -529,14 +529,14 @@ International Congress of Medieval Canon Law, Toronto, 2012.
 Historiographical Landscape,” *History Compass* 11, no. 12 (December
 2013): 1111–25 for a good recent overview of these debates.
 
-[19] Carlos Larrainzar in (“El Borrador de la ’Concordia’ de Graciano:
-Sankt Gallen, Stiftsbibliothek MS 673 (=Sg),” *Ius Ecclesiae: Rivista
-Internazionale di Diritto Canonico* 11, no. 3 (1999): 593–666), 601,
-describes Sg as having "poco menos de 1,050 *auctoritates* y en torno a
-los 650 *dicta*." "The second recension contains 3,945 canons (including
-the paleae) in the editions. The first recension contains only 1,860
-canons (47 percent)." Winroth, *The Making of Gratian’s Decretum*, 2000,
-122.
+[19] Carlos Larrainzar describes Sg as having "poco menos de 1,050
+*auctoritates* y en torno a los 650 *dicta*." Carlos Larrainzar, “El
+Borrador de la ’Concordia’ de Graciano: Sankt Gallen, Stiftsbibliothek
+MS 673 (=Sg),” *Ius Ecclesiae: Rivista Internazionale di Diritto
+Canonico* 11, no. 3 (1999): 593–666, 601. "The second recension contains
+3,945 canons (including the paleae) in the editions. The first recension
+contains only 1,860 canons (47 percent)." Winroth, *The Making of
+Gratian’s Decretum*, 2000, 122.
 
 [20] See Larrainzar, “El Borrador de la ’Concordia’ de Graciano”, 601,
 for the number of canons in Sg, emphasizing that it is approximate. See
