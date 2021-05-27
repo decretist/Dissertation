@@ -51,16 +51,16 @@ opus condentis ipsa decreta sunt materia.* The decrees themselves,
 however, are the subject matter of the master producing this
 work."[^29]
 
-The omission is potentially significant. Prefaces to academic books
-in the twelfth century formed a recognized genre with well-established
+The omission is significant. Prefaces to academic books in the
+twelfth century formed a recognized genre with well-established
 conventions. In an age resistant to any attempt by the human present
 to appropriate the authority of the divinely-inspired past, a
-commentator like Paucapalea would have been expected to offer an
-explicit statement in his preface affirming the authority of both
-the work commented on and its author. If Paucapalea had had something
-to say about the authority of Gratian, his readers would have
-expected him to do so in his preface. That he did not suggests that
-he may not have known enough about Gratian to credibly do so.[^30]
+commentator like Paucapalea was expected to offer an explicit
+statement in his preface affirming the authority of both the work
+commented on and its author. If Paucapalea had had something to say
+about the authority and authorship of Gratian, his readers would
+have expected him to do so in his preface. That he did not suggests
+that he did not known enough about Gratian to credibly do so.[^30]
 
 Furthermore, Paucapalea in the preface to his *summa* clearly shows
 both that he is aware of the third part of the *Decretum*, *de

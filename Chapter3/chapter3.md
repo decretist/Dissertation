@@ -4,16 +4,47 @@ csl: ../csl/chicago-fullnote-bibliography.csl
 reference-section-title: Bibliography
 suppress-bibliography: false
 title: Chapter 3
-subtitle: Gratian
-abstract: |
-  The third order of business then is to recount the history of
-  efforts, from the *Summa Parisiensis* on, of legal scholars and
-  historians to find the man behind the name Gratian. Here, you
-  need to lay out the traditional evidence used for solving this
-  puzzle. You are lucky that Noonan, Pennington etc. have laid out
-  the evidence and played with it for you.\
-  – Stan Chodorow
+subtitle: Authority, Author, and Authorship
 ---
+The purpose of this chapter is to examine the closely connected
+questions of the authority, author, and authorship of the
+*Decretum*.[^stan]
+
+[^stan]: "The third order of business then is to recount the history
+of efforts, from the *Summa Parisiensis* on, of legal scholars and
+historians to find the man behind the name Gratian. Here, you need
+to lay out the traditional evidence used for solving this puzzle.
+You are lucky that Noonan, Pennington etc. have laid out the evidence
+and played with it for you." – Stan Chodorow
+
+Scholars such as Noonan, Winroth, and Pennington who have investigated
+the authorship of the *Decretum* in recent decades have primarily
+been interested in the question of who wrote the exact words the
+text contains. That emphasis on the attribution of exact words does
+not accord well with either medieval definitions of authorship or
+those found in current theories of authorship. (Contemporary
+theories of literary authorship are ironically closer to medieval
+theories of authorship than either are to the definition of authorship
+tacitly assumed by most historians, and in some interesting cases
+draw on late antique and medieval sources.)
+
+Medieval sources on whom we rely for most of our evidence about who
+wrote the *Decretum*, the authors of glosses or of prefaces to
+twelfth-century *summae* on the *Decretum*, were not uninterested
+in the question of who wrote the exact words in the text. That
+question however overlapped for them in a way that it does not for
+us with the question of who was the ultimate source of the text's
+authority. Recent scholarship sometimes misinterprets twelfth-century
+statements that are really about the authority of the author or of
+the work as instead being statements about the biography of Gratian
+or about the authorship of the *Decretum*. The overlapping questions
+of the authority, author, and authorship of the *Decretum* therefore
+have to be considered carefully, and where necessary distinctly.
+
+No near contemporary makes an unambiguous claim to have been Gratian's
+student or to have otherwise had first-hand knowledge of the
+circumstances under which the *Decretum* was compiled.
+
 ## Authority
 
 Modern scholars considering the authorship of a text are primarily
