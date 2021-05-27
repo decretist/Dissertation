@@ -4,7 +4,7 @@ csl: ../csl/chicago-fullnote-bibliography.csl
 reference-section-title: Bibliography
 suppress-bibliography: false
 title: Chapter 3
-subtitle: Authority, Author, and Authorship
+subtitle: Authority, Author, Authorship
 ---
 The purpose of this chapter is to examine the closely connected
 questions of the authority, author, and authorship of the
@@ -44,6 +44,65 @@ have to be considered carefully, and where necessary distinctly.
 No near contemporary makes an unambiguous claim to have been Gratian's
 student or to have otherwise had first-hand knowledge of the
 circumstances under which the *Decretum* was compiled.
+
+#### Paucapalea
+
+Paucapalea was easily the most prominent figure from the early
+period of the Bolognese school of decretists who followed in Gratian's
+immediate footsteps. Pennington flatly states that Paucapalea was
+"[a] pupil of Gratian and the author of the first commentary on
+the *Decretum*".[^p1] But in the preface to that commentary,
+Paucapalea does not refer to Gratian by name: "*Magistri autem hoc
+opus condentis ipsa decreta sunt materia.* The decrees themselves,
+however, are the subject matter of the master producing this
+work."[^p2]
+
+The omission is significant. Prefaces to academic books in the
+twelfth century formed a recognized genre with well-established
+conventions. In an age resistant to any attempt by the human present
+to appropriate the authority of the divinely-inspired past, a
+commentator like Paucapalea was expected to offer an explicit
+statement in his preface affirming the authority of both the work
+commented on and its author. If Paucapalea had had something to say
+about the authority and authorship of Gratian, his readers would
+have expected him to do so in his preface. That he did not suggests
+that he did not known enough about Gratian to credibly do so.[^p3]
+
+<!--
+
+Furthermore, Paucapalea in the preface to his *summa* clearly shows
+both that he is aware of the third part of the *Decretum*, *de
+Consecratione*, and that he uncritically accepts it as having been
+compiled by the same Master responsible for the rest of the work:
+"*In extremis de ecclesiarum dedicatione et corpore et sanguine
+domini atque baptismo nec non et confirmatione pleniter tractat,
+et in his suum tractatum terminat.* In the end, he treats fully the
+dedication of churches, the body and blood of the Lord, baptism,
+and also confirmation, and with these things concludes his
+treatise."[^p4]
+
+[^p4]: @paucapalea_summa_1890, 3; @somerville_prefaces_1998, 184-185.
+
+If Rambaud is correct that *de Consecratione* was not part of the
+original *Decretum*, the fact that Paucapalea attributed it to the
+same unnamed master responsible for rest of the text on which he
+was commenting strongly suggests that he did not have direct knowledge
+of Gratian or his plan of work.
+
+  -->
+
+[^p1]: Kenneth Pennington,
+[Paucapalea](http://amesfoundation.law.harvard.edu/BioBibCanonists/Report_Biobib2.php?record_id=a366),
+*Bio-Bibliographical Guide to Medieval and Early Modern Jurists.*
+
+[^p2]: [@paucapalea_summa_1890, 3] [@somerville_prefaces_1998, 184]
+Indeed, based on a search through the OCR text layer of a PDF file
+scanned from the Schulte edition and provided to me by Ken Pennington,
+Paucapalea appears not to refer to Gratian by name anywhere in his
+*summa*.
+
+[^p3]: **Going to need a very heavyweight footnote here referencing
+Minnis.** [@minnis_medieval_1988] [@hunt_introductions_1980]
 
 ## Authority
 

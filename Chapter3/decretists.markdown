@@ -31,46 +31,10 @@ Bisignano (fl. 1174--1179), Omnebene (d. 1185).
 
 #### Paucapalea
 
-Paucapalea was easily the most prominent figure from the early period of
-the Bolognese school of decretists who followed in Gratian's immediate
-footsteps. Pennington flatly states that Paucapalea was "\[a\] pupil of
-Gratian and the author of the first commentary on the *Decretum*".[4]
-But in the preface to that commentary, Paucapalea does not refer to
-Gratian by name: "*Magistri autem hoc opus condentis ipsa decreta sunt
-materia.* The decrees themselves, however, are the subject matter of the
-master producing this work."[5]
-
-The omission is significant. Prefaces to academic books in the twelfth
-century formed a recognized genre with well-established conventions. In
-an age resistant to any attempt by the human present to appropriate the
-authority of the divinely-inspired past, a commentator like Paucapalea
-was expected to offer an explicit statement in his preface affirming the
-authority of both the work commented on and its author. If Paucapalea
-had had something to say about the authority and authorship of Gratian,
-his readers would have expected him to do so in his preface. That he did
-not suggests that he did not known enough about Gratian to credibly do
-so.[6]
-
-Furthermore, Paucapalea in the preface to his *summa* clearly shows both
-that he is aware of the third part of the *Decretum*, *de
-Consecratione*, and that he uncritically accepts it as having been
-compiled by the same Master responsible for the rest of the work: "*In
-extremis de ecclesiarum dedicatione et corpore et sanguine domini atque
-baptismo nec non et confirmatione pleniter tractat, et in his suum
-tractatum terminat.* In the end, he treats fully the dedication of
-churches, the body and blood of the Lord, baptism, and also
-confirmation, and with these things concludes his treatise."[7]
-
-If Rambaud is correct that *de Consecratione* was not part of the
-original *Decretum*, the fact that Paucapalea attributed it to the same
-unnamed master responsible for rest of the text on which he was
-commenting strongly suggests that he did not have direct knowledge of
-Gratian or his plan of work.
-
 #### Omnibonus or Omnebene
 
 Omnibonus or Omnebene (d.1185) composed an adaptation or transformation
-of the *Decretum* in the 1150s.[8] The basis for the claim that Omnebene
+of the *Decretum* in the 1150s.[4] The basis for the claim that Omnebene
 was a student of Gratian is an entry for the year 1130 in the chronicle
 of Norman monk Robert of Torigni (†1186)
 
@@ -83,7 +47,7 @@ of Norman monk Robert of Torigni (†1186)
 > decrees, canons, doctors, Roman laws, sufficient for deciding all
 > ecclesiastical cases, which are resorted to at the Roman curia and in
 > other ecclesiastical courts. Master Omnebonum bishop of Verona, who
-> had been his student, afterwards abbreviated them.)[9]
+> had been his student, afterwards abbreviated them.)[5]
 
 Although the evidence of Robert's chronicle is by Noonan's standard
 hearsay, Robert's reputation as a well-informed source concerning
@@ -95,16 +59,16 @@ Although Omnebene lived into the 1180s, the adaptation itself seems to
 date from around 1156, perhaps a decade and a half after the end of
 whatever teaching career Gratian may have had, and at precisely the
 moment that continent-wide interest in the text was increasing most
-rapidly.[10]
+rapidly.[6]
 
 #### Simon of Bisignano
 
 Simon of Bisignano (fl. 1174--1179) was the author of a *Summa
 decretorum* dated c.1177-79, and a number of glosses on the *Decretum*
-are attributed to him.[11] The evidence that Simon of Bisignano was a
-student of Gratian’s comes from references within his writings.[12]
-Simon refers to himself as *discipulus* and to Gratian as *magister* in
-at least two places in his *Summa* (**Landau says "frequently"**). There
+are attributed to him.[7] The evidence that Simon of Bisignano was a
+student of Gratian’s comes from references within his writings.[8] Simon
+refers to himself as *discipulus* and to Gratian as *magister* in at
+least two places in his *Summa* (**Landau says "frequently"**). There
 is, however a hiatus of almost four decades between the latest plausible
 date for the end of Gratian's teaching career, and the documentary
 evidence we have for Simon's professional career as a canonist. Although
@@ -131,16 +95,6 @@ focused exclusively on contemporary papal decretals.
 
 <div id="refs" class="references csl-bib-body hanging-indent">
 
-<div id="ref-hunt_introductions_1980" class="csl-entry">
-
-Hunt, Richard William. “The Introductions to the ’Artes’ in the Twelfth
-Century.” In *The History of Grammar in the Middle Ages: Collected
-Papers*, edited by G. L. Bursill-Hall, 117–44. Amsterdam Studies in the
-Theory and History of Linguistic Science. Series 3: Studies in the
-History of Linguistics v.5. Amsterdam: J. Benjamins, 1980.
-
-</div>
-
 <div id="ref-kuttner_research_1990" class="csl-entry">
 
 Kuttner, Stephan. “Research on Gratian: Acta and Agenda.” In *Studies in
@@ -152,14 +106,6 @@ Hampshire, Great Britain : Brookfield, Vt., USA: Variorum ; Gower, 1990.
 <div id="ref-kuttner_father_1941" class="csl-entry">
 
 ———. “The Father of the Science of Canon Law.” *Jurist* 1 (1941): 2–19.
-
-</div>
-
-<div id="ref-minnis_medieval_1988" class="csl-entry">
-
-Minnis, A. J. *Medieval Theory of Authorship: Scholastic Literary
-Attitudes in the Later Middle Ages*. 2nd ed. Middle Ages Series.
-Philadelphia: University of Pennsylvania Press, 1988.
 
 </div>
 
@@ -185,27 +131,12 @@ Paderborn: Scientia Verlag ; F. Schöningh, 1963.
 
 </div>
 
-<div id="ref-paucapalea_summa_1890" class="csl-entry">
-
-Schulte, Johann Friedrich von, ed. *Die Summa des Paucapalea über das
-Decretum Gratiani*. Giessen: E. Roth, 1890.
-
-</div>
-
 <div id="ref-simon_of_bisignano_summa_2014" class="csl-entry">
 
 Simon of Bisignano. *Summa in Decretum Simonis Bisinianensis*. Edited by
 Pier Virginio Aimone-Braida. Monumenta Iuris Canonici. Series A, Corpus
 Glossatorum ; Vol. 8. Città del Vaticano: Biblioteca Apostolica
 Vaticana, 2014.
-
-</div>
-
-<div id="ref-somerville_prefaces_1998" class="csl-entry">
-
-Somerville, Robert, and Bruce Clark Brasington, eds. *Prefaces to Canon
-Law Books in Latin Christianity: Selected Translations, 500-1245*. New
-Haven, Conn: Yale University Press, 1998.
 
 </div>
 
@@ -260,43 +191,16 @@ Changing Identity of the Father of the Systematic Study of Canon Law,”
 *Traditio* 35 (January 1979): 148).
 
 [4] Kenneth Pennington,
-[Paucapalea](http://amesfoundation.law.harvard.edu/BioBibCanonists/Report_Biobib2.php?record_id=a366),
-*Bio-Bibliographical Guide to Medieval and Early Modern Jurists.*
-
-[5]  (Johann Friedrich von Schulte, ed., *Die Summa des Paucapalea über
-das Decretum Gratiani* (Giessen: E. Roth, 1890), 3) (Robert Somerville
-and Bruce Clark Brasington, eds., *Prefaces to Canon Law Books in Latin
-Christianity: Selected Translations, 500-1245* (New Haven, Conn: Yale
-University Press, 1998), 184) Indeed, based on a search through the OCR
-text layer of a PDF file scanned from the Schulte edition and provided
-to me by Ken Pennington, Paucapalea appears not to refer to Gratian by
-name anywhere in his *summa*.
-
-[6] **Going to need a very heavyweight footnote here referencing
-Minnis.** (A. J. Minnis, *Medieval Theory of Authorship: Scholastic
-Literary Attitudes in the Later Middle Ages*, 2nd ed, Middle Ages Series
-(Philadelphia: University of Pennsylvania Press, 1988)) (Richard William
-Hunt, “The Introductions to the ’Artes’ in the Twelfth Century,” in *The
-History of Grammar in the Middle Ages: Collected Papers*, ed. G. L.
-Bursill-Hall, Amsterdam Studies in the Theory and History of Linguistic
-Science. Series 3: Studies in the History of Linguistics v.5 (Amsterdam:
-J. Benjamins, 1980), 117–44)
-
-[7] Schulte, *Die Summa des Paucapalea über das Decretum Gratiani*, 3;
-Somerville and Brasington, *Prefaces to Canon Law Books in Latin
-Christianity*, 184-185.
-
-[8] Kenneth Pennington,
 [Omnibonus](http://amesfoundation.law.harvard.edu/BioBibCanonists/Report_Biobib2.php?record_id=a363),
 *Bio-Bibliographical Guide to Medieval and Early Modern Jurists.*
 
-[9] Kuttner, *Repertorium*, 453. MGH Scriptores (SS) 6 (1844), 490.
+[5] Kuttner, *Repertorium*, 453. MGH Scriptores (SS) 6 (1844), 490.
 *Chronique de Robert de Torigny*, ed. Léopold Delisle, 183-184 (see BSB
 online version). *Chronicles of the reigns of Stephen, Henry II, and
 Richard I*, ed. Richard Howlett (1884). *Chronica Roberti de Torigneio*,
 ed. Richard Howlett, RS 82 4.118.
 
-[10] **There is no print edition of Omnebene's adaptation (confirmed by
+[6] **There is no print edition of Omnebene's adaptation (confirmed by
 Ken Pennington, 17 May 2021). The only online form in which the
 manuscript is available is a low-quality digitization of an old
 microfilm of Paris, Bibliothèque nationale de France, Latin 3886. I was
@@ -304,7 +208,7 @@ therefore unable to look for any internal evidence in Omnebene's
 adaptation (e.g., a comment in a preface), indicating that Gratian had
 been his teacher.**
 
-[11] Kenneth Pennington, [Simon of
+[7] Kenneth Pennington, [Simon of
 Bisignano](http://amesfoundation.law.harvard.edu/BioBibCanonists/Report_Biobib2.php?record_id=a497),
 *Bio-Bibliographical Guide to Medieval and Early Modern Jurists.*
 Pennington does not indicate that Simon of Bisignano was a student of
@@ -317,8 +221,8 @@ of Medieval Canon Law (Washington, D.C: Catholic University of America
 Press, 2008), 97) **Simon's glosses are dated earlier than his *Summa*
 (cite Hartmann and Pennington).**
 
-[12] Stephan Kuttner, “Research on Gratian: Acta and Agenda,” in
-*Studies in the History of Medieval Canon Law*, Collected Studies CS325
+[8] Stephan Kuttner, “Research on Gratian: Acta and Agenda,” in *Studies
+in the History of Medieval Canon Law*, Collected Studies CS325
 (Aldershot, Hampshire, Great Britain : Brookfield, Vt., USA: Variorum ;
 Gower, 1990), 7. Noonan, “Gratian Slept Here”, 157, rejects this, but
 Kuttner disagrees. Simon of Bisignano refers to Gratian as *magister*
