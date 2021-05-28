@@ -400,7 +400,7 @@ Therefore, it is not subject to comparative analysis using the
 techniques available for examining Parts I and II. [@noonan_gratian_1979,
 154] Noonan lists Mazarine 1289 (possibly a typo for Pm = Paris,
 Bibl. Mazarine 1287?) in place of Sl. [@weigand_kanonisten_1990].
-[@pennington_biography_2014, 698-700], supplements Noonan's discussion
+[@pennington_biography_2018, 382-385], supplements Noonan's discussion
 of these eight glosses.
 
     The author of the preface to the *Summa Parisiensis* incorrectly

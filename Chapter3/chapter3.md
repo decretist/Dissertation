@@ -10,13 +10,6 @@ The purpose of this chapter is to examine the closely connected
 questions of the authority, author, and authorship of the
 *Decretum*.[^stan]
 
-[^stan]: "The third order of business then is to recount the history
-of efforts, from the *Summa Parisiensis* on, of legal scholars and
-historians to find the man behind the name Gratian. Here, you need
-to lay out the traditional evidence used for solving this puzzle.
-You are lucky that Noonan, Pennington etc. have laid out the evidence
-and played with it for you." – Stan Chodorow
-
 Scholars such as Noonan, Winroth, and Pennington who have investigated
 the authorship of the *Decretum* in recent decades have primarily
 been interested in the question of who wrote the exact words the
@@ -40,6 +33,32 @@ the work as instead being statements about the biography of Gratian
 or about the authorship of the *Decretum*. The overlapping questions
 of the authority, author, and authorship of the *Decretum* therefore
 have to be considered carefully, and where necessary distinctly.
+
+We have already encountered two twelfth-century statements on the
+authority, author, and authorship of the *Decretum*. The first was
+the early gloss inserted in lieu of a title at the beginning of the
+Gt, Pf, and Tr manuscripts: "*Concordia discordantium canonum iuxta
+determinationem Gratiani episcopi quae in duas partes principaliter
+est divisa* (The agreement of disagreeing canons according to the
+determination of Bishop Gratian, which is principally divided into
+two parts.)"[^gloss] The glossator provides Gratian's name, but
+does not make a strong claim for either his authority or authorship.
+
+The second was in the preface of Stephen of Tournai
+to his *Summa* on the *Decretum*:
+
+> "*Compositorem huius operis recte dixerim Gratianum, non auctorem.
+Capitula namque a sanctis patribus edita in hoc volumine composuit,
+i.e. ordinavit. Non eorum auctor vel conditor fuit, nisi forte quis
+eum auctorem idcirco dicere velit, quoniam multa ex parte sua
+sanctorum sententias distinguendo et exponendo in paragraphis suis
+ponit.* (I should properly say that Gratian is the compiler of this
+work, not the author, for he brought together in this volume---that
+is, he arranged---rulings enacted by the holy Fathers.  He was not
+their author or framer, unless perchance someone wishes to say that
+he is thus the author since he offered on his own in his dicta many
+things for clarifying and explicating the opinions of the holy
+[Fathers]."
 
 No near contemporary makes an unambiguous claim to have been Gratian's
 student or to have otherwise had first-hand knowledge of the
@@ -698,6 +717,15 @@ Foucault's essay is a response to Barthes's.
 
 Foucault's essay is more directly relevant than Barthes's to the
 problems of authorship raised by Gratian's *Decretum*,
+
+[^stan]: "The third order of business then is to recount the history
+of efforts, from the *Summa Parisiensis* on, of legal scholars and
+historians to find the man behind the name Gratian. Here, you need
+to lay out the traditional evidence used for solving this puzzle.
+You are lucky that Noonan, Pennington etc. have laid out the evidence
+and played with it for you." – Stan Chodorow
+
+[^gloss]: @noonan_gratian_1979, 154; and @pennington_biography_2018, 382-385.
 
 [^1]: "their authority deriving mainly from the fact that they
 consisted mostly of quotations" @winroth_making_2000, 191.

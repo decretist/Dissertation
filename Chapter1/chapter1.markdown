@@ -559,10 +559,11 @@ Supplement 1*, edited by William C. Jordan, 309–20. New York: Scribner,
 
 </div>
 
-<div id="ref-pennington_biography_2014" class="csl-entry">
+<div id="ref-pennington_biography_2018" class="csl-entry">
 
-———. “The Biography of Gratian, the Father of Canon Law.” *Villanova Law
-Review* 59 (2014): 679–706.
+———. “The Biography of Gratian, the Father of Canon Law.” In *A Service
+Beyond All Recompense*, edited by Kurt Martens, 359–92. Catholic
+University of America Press, 2018.
 
 </div>
 
@@ -712,8 +713,9 @@ a typo for Pm = Paris, Bibl. Mazarine 1287?) in place of Sl. (Rudolf
 Weigand, “Frühe Kanonisten und ihre Karriere in der Kirche,”
 *Zeitschrift der Savigny-Stiftung für Rechtsgeschichte. Kanonistische
 Abteilung* 76 (1990): 135–55). (Kenneth Pennington, “The Biography of
-Gratian, the Father of Canon Law,” *Villanova Law Review* 59 (2014):
-698–700), supplements Noonan's discussion of these eight glosses.
+Gratian, the Father of Canon Law,” in *A Service Beyond All Recompense*,
+ed. Kurt Martens (Catholic University of America Press, 2018), 382–85),
+supplements Noonan's discussion of these eight glosses.
 
 The author of the preface to the *Summa Parisiensis* incorrectly thought
 that Gratian himself had given the collection the title *Concordia
