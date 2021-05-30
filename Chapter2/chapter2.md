@@ -433,7 +433,7 @@ more similar to the formal source collections Gratian relied on
 than to the rest of the *Decretum*.[^35] The discussion that follows
 focuses on inscriptions, rubrics, and *dicta post canones*; canons
 have been discussed in the preceding section on the collection and
-selection, and nothing further need be added here.
+selection, and nothing further needs to be added here.
 
 ### Inscriptions
 
@@ -582,7 +582,7 @@ part of the *Decretum*. Each of the 36 cases in Part II is introduced
 by a hypothetical case statement (*thema* or *dictum initiale*,
 conventionally abbreviated d.init.). The case statements are a
 subset of the *dicta* that are found only in, and that are closely
-tied to the organization of, Part II. Medieval and modern scholarship
+connected with the organization of, Part II. Medieval and modern scholarship
 agree in accepting the *dicta initialia*, like the *dicta ante* and
 *dicta post*, as having been written by Gratian.[^57] Cases contain
 a single terminal or leaf node (the *dictum initiale*) followed by
@@ -927,11 +927,11 @@ parsed *Decretum* can be thought of as an ordered tree, with parts,
 distinctions, cases, and questions as interior nodes. A chapter,
 properly conceptualized as a node encapsulating rubrics, inscriptions,
 canons, and *dicta post canones*, is also an internal node.
-**(English-language scholarship on Gratian's *Decretum* typically
+(English-language scholarship on Gratian's *Decretum* typically
 uses the term *canon* to refer indifferently to both the container
 (chapter) and to the text it contains (canon). The following
 discussion uses the term *chapter* to refer to the container in
-order to reemphasize this important distinction.)** Any *dictum*
+order to reemphasize this important distinction.) Any *dictum*
 (*ante* or *post canonem*, or *initiale*) is a terminal node. So
 are rubrics, inscriptions, and canons. A case statement (*dictum
 initiale*) is always the first terminal node of a case. A *dictum
@@ -960,7 +960,7 @@ rubrics, that is, a rubric very often echoes the dictum that
 immediately preceded it." and "These isolated instances in the first
 cluster show that Gratian felt that the dictum was sufficient for
 summarizing the following *auctoritas*." [@eichbauer_redactions_2007,
-115] **Expand to include inscriptions.**
+115]
 
 [^37]: "Since Gratian frequently took fragments of letters from
 the Register of Gregory I---266 in all---using the inscription 'in
@@ -1010,12 +1010,11 @@ Cons.* D.1 c.17 (*De eodem, et quod octo diebus dedicationum*).
 Winroth's larger point, however, had to do with the place of the
 *de eodem* rubrics in the "untidy seams" problem. For that purpose,
 only the 137 *de eodem* rubrics in the first recension of the
-Decretum are potentially relevant evidence. **See GitHub
-[Sand](https://github.com/decretist/Sand/tree/master/rubrics)
-repository. This result (137) is potentially off by one, i.e., the
+Decretum are potentially relevant evidence.
+(This result [137] is potentially off by one, i.e., the
 total number of *de eodem* rubrics in the first and second recension
 rubric data sets is 388 instead of 389, with no way to tell whether
-the missing rubric is from the first or second recension.**
+the missing rubric is from the first or second recension.)
 
 [^41]: "Gratian rarely took his rubrics from earlier collections.
 Rather he created his own ..." @eichbauer_redactions_2007, 107.
@@ -1031,7 +1030,7 @@ and maintained by Winroth. See @kretzschmar_alger_1985.
 [^44]: Rufinus and Stephen of Tournai describe the tripartite
 division in exactly the same words. **Rufinus:** "*librum suum in
 tribus partibus distinguit, quarum primam ministeriis, secundam
-negotiis, tertiam ecclesiasticis deputat sacramentis.*" @singer_summa_1963, 5.
+negotiis, tertiam ecclesiasticis deputat sacramentis.*" @singer_summa_1963, 5
 ("[H]e divides his book into three parts, the first of which he
 devotes to ecclesiastical ministries, the second to [ecclesiastical]
 business, and the third to ecclesiastical sacraments.")
@@ -1056,7 +1055,7 @@ Somerville chose to translate *negotiis* as "problems" rather than
     *Bio-Bibliographical Guide to Medieval and Early Modern Jurists.*
     Stephen, however, had been a student of Rufinus in Bologna, and
     it seems more likely that this is something he had heard Rufinus
-    say in lecture. **Kenneth Pennington, "Étienne of Tournai".**
+    say in lecture. @pennington_stephen_2019.
 
 [^45]: "In 1933 two scholars, Franz Gillmann and Adam Vetulani,
 concluded independently that Gratian himself did not introduce the
@@ -1066,7 +1065,7 @@ that Paucapalea, the first decretist, may have made it."
 @chodorow_ecclesiology_1972, 15. @vetulani_gratien_1990. "Distinctiones
 apposuit in prima parte et ultima Paucapalea ..." @mclaughlin_summa_1952, 1.
 (Paucapalea arranged the distinctions in the first part and the
-last, trans.  PLE)
+last, trans. PLE)
 
 [^47]: @singer_summa_1963, 5. @somerville_prefaces_1998, 193.
 

@@ -407,7 +407,8 @@ III, which is in this respect much more similar to the formal source
 collections Gratian relied on than to the rest of the *Decretum*.[35]
 The discussion that follows focuses on inscriptions, rubrics, and *dicta
 post canones*; canons have been discussed in the preceding section on
-the collection and selection, and nothing further need be added here.
+the collection and selection, and nothing further needs to be added
+here.
 
 ### Inscriptions
 
@@ -547,8 +548,8 @@ Cases (*causae*) are the highest-order containers in the second part of
 the *Decretum*. Each of the 36 cases in Part II is introduced by a
 hypothetical case statement (*thema* or *dictum initiale*,
 conventionally abbreviated d.init.). The case statements are a subset of
-the *dicta* that are found only in, and that are closely tied to the
-organization of, Part II. Medieval and modern scholarship agree in
+the *dicta* that are found only in, and that are closely connected with
+the organization of, Part II. Medieval and modern scholarship agree in
 accepting the *dicta initialia*, like the *dicta ante* and *dicta post*,
 as having been written by Gratian.[57] Cases contain a single terminal
 or leaf node (the *dictum initiale*) followed by an ordered sequence of
@@ -847,11 +848,20 @@ of the Systematic Study of Canon Law.” *Traditio* 35 (January 1979):
 
 </div>
 
+<div id="ref-pennington_stephen_2019" class="csl-entry">
+
+Pennington, Kenneth. “Stephen of Tournai (Étienne de Tournai):
+(1128–1203).” In *Great Christian Jurists in French History*, edited by
+Olivier Descamps and Rafael Domingo, 35--51. Law and Christianity.
+Cambridge: Cambridge University Press, 2019.
+
+</div>
+
 <div id="ref-pennington_biography_2018" class="csl-entry">
 
-Pennington, Kenneth. “The Biography of Gratian, the Father of Canon
-Law.” In *A Service Beyond All Recompense*, edited by Kurt Martens,
-359–92. Catholic University of America Press, 2018.
+———. “The Biography of Gratian, the Father of Canon Law.” In *A Service
+Beyond All Recompense*, edited by Kurt Martens, 359–92. Catholic
+University of America Press, 2018.
 
 </div>
 
@@ -1197,13 +1207,13 @@ terminology borrowed from the field of informatics,the parsed *Decretum*
 can be thought of as an ordered tree, with parts, distinctions, cases,
 and questions as interior nodes. A chapter, properly conceptualized as a
 node encapsulating rubrics, inscriptions, canons, and *dicta post
-canones*, is also an internal node. **(English-language scholarship on
+canones*, is also an internal node. (English-language scholarship on
 Gratian's *Decretum* typically uses the term *canon* to refer
 indifferently to both the container (chapter) and to the text it
 contains (canon). The following discussion uses the term *chapter* to
 refer to the container in order to reemphasize this important
-distinction.)** Any *dictum* (*ante* or *post canonem*, or *initiale*)
-is a terminal node. So are rubrics, inscriptions, and canons. A case
+distinction.) Any *dictum* (*ante* or *post canonem*, or *initiale*) is
+a terminal node. So are rubrics, inscriptions, and canons. A case
 statement (*dictum initiale*) is always the first terminal node of a
 case. A *dictum ante canonem* is always the first terminal node of a
 distinction or question. The anomalous C.16 q.2 d.a.c.8 is actually the
@@ -1229,8 +1239,7 @@ Rambaud-Buhot and John Noonan, Jr. have highlighted the similarity
 between dicta and rubrics, that is, a rubric very often echoes the
 dictum that immediately preceded it." and "These isolated instances in
 the first cluster show that Gratian felt that the dictum was sufficient
-for summarizing the following *auctoritas*." (Eichbauer, 115) **Expand
-to include inscriptions.**
+for summarizing the following *auctoritas*." (Eichbauer, 115)
 
 [37] "Since Gratian frequently took fragments of letters from the
 Register of Gregory I---266 in all---using the inscription 'in
@@ -1280,12 +1289,11 @@ prestentur*), and *de Cons.* D.1 c.17 (*De eodem, et quod octo diebus
 dedicationum*). Winroth's larger point, however, had to do with the
 place of the *de eodem* rubrics in the "untidy seams" problem. For that
 purpose, only the 137 *de eodem* rubrics in the first recension of the
-Decretum are potentially relevant evidence. **See GitHub
-[Sand](https://github.com/decretist/Sand/tree/master/rubrics)
-repository. This result (137) is potentially off by one, i.e., the total
-number of *de eodem* rubrics in the first and second recension rubric
-data sets is 388 instead of 389, with no way to tell whether the missing
-rubric is from the first or second recension.**
+Decretum are potentially relevant evidence. (This result \[137\] is
+potentially off by one, i.e., the total number of *de eodem* rubrics in
+the first and second recension rubric data sets is 388 instead of 389,
+with no way to tell whether the missing rubric is from the first or
+second recension.)
 
 [39] Stephan Kuttner, “Research on Gratian: Acta and Agenda,” in
 *Studies in the History of Medieval Canon Law*, Collected Studies CS325
@@ -1316,8 +1324,8 @@ Edition*, Quellen und Forschungen zum Recht im Mittalter, Bd. 2
 exactly the same words. **Rufinus:** "*librum suum in tribus partibus
 distinguit, quarum primam ministeriis, secundam negotiis, tertiam
 ecclesiasticis deputat sacramentis.*" Heinrich Singer, *Summa
-Decretorum* (Aalen : Paderborn: Scientia Verlag ; F. Schöningh, 1963),
-5. ("\[H\]e divides his book into three parts, the first of which he
+Decretorum* (Aalen : Paderborn: Scientia Verlag ; F. Schöningh, 1963), 5
+("\[H\]e divides his book into three parts, the first of which he
 devotes to ecclesiastical ministries, the second to \[ecclesiastical\]
 business, and the third to ecclesiastical sacraments.") Somerville and
 Brasington, *Prefaces to Canon Law Books in Latin Christianity*,
@@ -1342,7 +1350,10 @@ Tornacensis](http://amesfoundation.law.harvard.edu/BioBibCanonists/Report_Biobib
 *Bio-Bibliographical Guide to Medieval and Early Modern Jurists.*
 Stephen, however, had been a student of Rufinus in Bologna, and it seems
 more likely that this is something he had heard Rufinus say in lecture.
-**Kenneth Pennington, "Étienne of Tournai".**
+Kenneth Pennington, “Stephen of Tournai (Étienne de Tournai):
+(1128–1203),” in *Great Christian Jurists in French History*, ed.
+Olivier Descamps and Rafael Domingo, Law and Christianity (Cambridge:
+Cambridge University Press, 2019), 35--51.
 
 [45] "In 1933 two scholars, Franz Gillmann and Adam Vetulani, concluded
 independently that Gratian himself did not introduce the division of the
