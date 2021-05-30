@@ -1228,8 +1228,8 @@ is an optional, and usually final, terminal node of a canon.
 Consecratione*) in the Reuter and Silagi e-text of the Friedberg
 edition. Nine are really inscriptions, leaving two short *dicta post*,
 *de Cons*. D.1 d.p.c.50 (54 words) and *de Cons*. D.4 d.p.c.20 (19
-words). **With very few exceptions, I did not second-guess Reuter and
-Silagi's tagging decisions.**
+words). Reuter and Silagi's tagging decisions were in the vast majority
+of cases sound, and I made very few changes to them.
 
 [36] The distinction between rubrics and *dicta* is blurry: "Gratian ...
 often melded the rubrics with the dicta." (Melodie Harris Eichbauer,
@@ -1382,7 +1382,7 @@ to Canon Law Books in Latin Christianity*, 193.
 as the treatise on laws (*tractatus de legibus*). I cannot find an
 internal reference to it in the *Decretum* under that title.
 
-[49] There are five internal references to the *tractatus ordinandorum*
+[49] There are three internal references to the *tractatus ordinandorum*
 in the vulgate *Decretum*:  
 C.1 q.7 d.p.c.6 "Item: 'Priscis igitur, etc.' Require supra in tractatu
 ordinandorum." (first recension, Friedberg 1.430): reference to D.55 c.1
@@ -1391,20 +1391,6 @@ C.3 q.1 d.p.c.7 "Unde supra in tractatu ordinandorum: 'Si quis pecunia
 uel gratia humana, seu populari uel militari tumultu, etc.'" (second
 recension, Friedberg 1.507): reference to D.79 c.9 (first recension,
 Friedberg 1.278).  
-C.9 q.3 c.15 (inscription) "ut supra in tractatu ordinandorum, ubi
-agitur de obedientia minorum erga maiores." (second recension, Friedberg
-1.647): no canon incipit is provided, but this appears to be a reference
-to D.93 c.9 (rubric): "Maioribus minores obedientiam exhibeant." (second
-recension, Friedberg 1.321). **(Reference to epilogue.)**  
-C.16 q.1 d.p.c.40 "Hoc idem datur intelligi ex uerbis B. Siluestri, qui
-obedientiam minorum erga maiores assignans ait: 'Abbas hostiario,
-monachus abbati sit subditus,' supra in tractatu ordinandorum." (second
-recension, Friedberg 1.773): this also appears to be a reference to D.93
-c.5. (second recension, Friedberg 1.321). C.16 q.1 d.p.c.40 is a
-first-recension *dictum post* that was expanded in the second recension.
-The reference to the second-recension chapter D.93 c.5 is in the text
-added to the *dictum* in the second recension. **(Reference to
-epilogue.)**  
 *de Cons*. D.1 d.p.c.50 "Item Pelagius: 'Dilectionis tuae rescripta.'
 Require in tractatu ordinandorum." (Friedberg 1.1303): reference to D.76
 c.12 (first recension, Friedberg 1.271). Note that this reference occurs
@@ -1418,7 +1404,26 @@ permittit illos ex dispensatione defensores fieri." (first recension,
 Friedberg 1.766): reference to D.77 c.9 (first recension, Friedberg
 1.274)
 
-[50] **Placeholder for footnote c.**
+[50] Gratian refers at D.81 d.a.c.1 to the section starting at D.81 as
+an "epilogue": "*Verum quia aliquantulum diffusius in his immorati
+sumus, precedentibus coherentia quedam sub epilogo ad memoriam
+subiciamus.*" (Friedberg 1.281) The distinction between the *tractatus
+ordinandorum* and the epilogue however is not a strong one. There are
+two internal references to the epilogue that refer to it as if it were
+simply an undifferentiated part of the *tractatus ordinandorum*:  
+C.9 q.3 c.15 (inscription) "ut supra in tractatu ordinandorum, ubi
+agitur de obedientia minorum erga maiores." (second recension, Friedberg
+1.647): no canon incipit is provided, but this appears to be a reference
+to D.93 c.9 (rubric): "Maioribus minores obedientiam exhibeant." (second
+recension, Friedberg 1.321).  
+C.16 q.1 d.p.c.40 "Hoc idem datur intelligi ex uerbis B. Siluestri, qui
+obedientiam minorum erga maiores assignans ait: 'Abbas hostiario,
+monachus abbati sit subditus,' supra in tractatu ordinandorum." (second
+recension, Friedberg 1.773): this also appears to be a reference to D.93
+c.5. (second recension, Friedberg 1.321). C.16 q.1 d.p.c.40 is a
+first-recension *dictum post* that was expanded in the second recension.
+The reference to the second-recension chapter D.93 c.5 is in the text
+added to the *dictum* in the second recension.
 
 [51] C.1 q.1 d.p.c.96 "Unde etiam ab ecclesia Romana repudiatur, et a
 Deo fuisse percussus legitur in gestis Romanorum Pontificum hoc modo:

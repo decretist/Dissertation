@@ -76,7 +76,7 @@ was increasing most rapidly.[^34]
 Simon of Bisignano (fl. 1174--1179) was the author of a *Summa
 decretorum* dated c.1177-79, and a number of glosses on the *Decretum*
 are attributed to him.[^35] The evidence that Simon of Bisignano
-was a student of Gratian’s comes from references within his
+was a student of Gratian's comes from references within his
 writings.[^36] Simon refers to himself as *discipulus* and to Gratian
 as *magister* in at least two places in his *Summa* (**Landau says
 "frequently"**). There is, however a hiatus of almost four decades
