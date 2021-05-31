@@ -594,6 +594,59 @@ containers, is one greater than the depth of Parts I and III.[^58]
 The case statements all follow a very regular formal pattern. They
 are introduced by a hypothetical narrative that is followed by an
 enumeration of the questions that Gratian wants to investigate.
+The text of C.4 d.init. found in the Admont (Aa), Barcelona (Bc),
+and Paris (P) manuscripts of the first recension of the *Decretum*
+demonstrates the pattern:[^59]
+
+> Quidam in excommunicatione constitutus episcopum accusare disponit;
+adolescentem infra xiiiium etatis sue annum ad assertionem sue cause
+adducit. Prohibitus ab accusatione adolescentem accusatorem et se
+testem facit. Adolescens personam accusatoris et testis gerere
+cupit; die statuta ad iudicium electorum iudicum episcopus minime
+concurrit; a communione suspenditur; tandem renouato iudicio accusator
+culpabilis in accusatione inuenitur; demum ad assertionem proprie
+cause procedit. Hic primum queritur, an in excommunicatione constitutus
+alium accusare ualeat? Secundo, an infra xiiiium annum in criminali
+causa testari quis possit? Tercio, utrum ab accusatione prohibitus
+personam testificantis possit assumere? Quarto, an idem possit esse
+accusator et testis? Quinto, an die constituta non occurrens a
+communione sit remouendus? Sexto, si in episcoporum iudicio accusatoris
+persona culpabilis inuenta fuerit, an ad assertionem proprie cause
+de cetero sit admittenda?
+
+**Quidam]** AaBc _om._ P
+**excommunicatione]** AaBc excomunicatione P
+**adolescentem]** AaP adulescentem Bc
+**etatis...annum]** BcP annum etatis sue Aa
+**die]** AaBc di P
+**iudicium]** AaP iuditium Bc 
+**iudicum]** AaBc iudicium P
+**concurrit]** AaBcP occurrit Fr.
+**suspenditur]** AaBc suspendere P
+**iudicio]** AaP iuditio Bc
+**an]** AaBc autem P
+AaBc infra P
+**criminali]** AaBc criminari P
+**ab]** AaBc _om._ P
+**an...Quinto,]** AaBc _om._ P
+**an]** AaBc aut P
+**iudicio]** AaP iuditio Bc
+
+> Someone permanently excommunicated (_in excommunicatione constitutus_)
+arranges to accuse a bishop; he brings in (_adducit_) an adolescent
+under fourteen years of age to the assertion (t.t.) of his case;
+prohibited from accusation, he make the adolescent the accuser and
+himself the witness; the adolescent wishes to conduct/perform
+(_gerere_) the role (_personam_) of [both] accuser and witness; on
+the appointed day, the bishop does not appear before (_lit._ to)
+the court of the judge-electors; he is suspended from communion;
+at last, after the court reconvened [_lit._ the court having been
+renewed], the accuser is found [to be] at fault in [bringing] the
+accusation; finally he proceeds to the assertion (t.t.) of his own
+case. (trans. PLE)
+
+<!--
+
 C.27 d.init. (chosen for this purpose because it is the shortest
 case statement) demonstrates the pattern:
 
@@ -609,6 +662,10 @@ her back. Here it is first asked whether there is able to be a
 marriage between those vowing? Second, whether someone betrothed
 is allowed to abandon the person to whom they are betrothed and to
 marry another? [trans. PLE])
+
+[^59]: Friedberg 1.1046.
+
+  -->
 
 The transition between the narrative section and the enumeration
 of questions is clearly signalled in each of the case statements
@@ -1136,7 +1193,9 @@ text under consideration (e.g., a particular *dictum*).
 chapters (depth = 3). In Part II, the part contains cases which
 contain questions which contain chapters (depth = 4).
 
-[^59]: Friedberg 1.1046.
+[^59]: Edited by Paul Evans based on transcriptions by University
+of San Diego students Emily Bolender (P) and Paige Ferguson (Aa and
+Bc).
 
 [^60]: The formulaic transition markers used in the hypothetical
 case statements are: *Hic primum queritur* (15), *Queritur* (8),
