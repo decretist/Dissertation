@@ -581,27 +581,39 @@ pattern:[59]
 > culpabilis inuenta fuerit, an ad assertionem proprie cause de cetero
 > sit admittenda?
 
-**Quidam\]** AaBc *om.* P **excommunicatione\]** AaBc excomunicatione P
-**adolescentem\]** AaP adulescentem Bc **etatis...annum\]** BcP annum
-etatis sue Aa **die\]** AaBc di P **iudicium\]** AaP iuditium Bc
-**iudicum\]** AaBc iudicium P **concurrit\]** AaBcP occurrit Fr.
-**suspenditur\]** AaBc suspendere P **iudicio\]** AaP iuditio Bc
-**an\]** AaBc autem P AaBc infra P **criminali\]** AaBc criminari P
-**ab\]** AaBc *om.* P **an...Quinto,\]** AaBc *om.* P **an\]** AaBc aut
-P **iudicio\]** AaP iuditio Bc
+------------------------------------------------------------------------
+
+> **Quidam\]** AaBc *om.* P **excommunicatione\]** AaBc excomunicatione
+> P **adolescentem\]** AaP adulescentem Bc **etatis...annum\]** BcP
+> annum etatis sue Aa **die\]** AaBc di P **iudicium\]** AaP iuditium Bc
+> **iudicum\]** AaBc iudicium P **concurrit\]** AaBcP occurrit Fr.
+> **suspenditur\]** AaBc suspendere P **iudicio\]** AaP iuditio Bc
+> **an\]** AaBc autem P AaBc infra P **criminali\]** AaBc criminari P
+> **ab\]** AaBc *om.* P **an...Quinto,\]** AaBc *om.* P **an\]** AaBc
+> aut P **iudicio\]** AaP iuditio Bc
 
 > Someone permanently excommunicated (*in excommunicatione constitutus*)
 > arranges to accuse a bishop; he brings in (*adducit*) an adolescent
-> under fourteen years of age to the assertion (t.t.) of his case;
-> prohibited from accusation, he make the adolescent the accuser and
-> himself the witness; the adolescent wishes to conduct/perform
-> (*gerere*) the role (*personam*) of \[both\] accuser and witness; on
-> the appointed day, the bishop does not appear before (*lit.* to) the
-> court of the judge-electors; he is suspended from communion; at last,
-> after the court reconvened \[*lit.* the court having been renewed\],
-> the accuser is found \[to be\] at fault in \[bringing\] the
-> accusation; finally he proceeds to the assertion (t.t.) of his own
-> case. (trans. PLE)
+> under fourteen years of age to the assertion of his case; prohibited
+> from accusation, he make the adolescent the accuser and himself the
+> witness; the adolescent wishes to perform (*gerere*) the role
+> (*personam*) of \[both\] accuser and witness; on the appointed day,
+> the bishop does not appear before (*lit.* to) the court of the
+> judge-electors; he is suspended from communion; at last, after the
+> court reconvened \[*lit.* the court having been renewed\], the accuser
+> is found \[to be\] at fault in \[bringing\] the accusation; finally he
+> proceeds to the assertion of his own case. (trans. PLE)
+
+> Here it is first asked whether \[someone\] permanently excommunicated
+> (*in excommunicatione constitutus*) is able to accuse another? Second,
+> whether anyone *quis* ?= *aliquis*) under 14 years is able to testify
+> in a criminal case? Third, whether someone prohibited from accusation
+> is able to assume the role (*personam*) of testifying? Fourth, whether
+> the same person is able to be \[both\] accuser and witness? Fifth,
+> whether someone not appearing on the appointed day ought to be removed
+> from communion. Sixth, if the person of the accuser was found culpable
+> in the court of the bishops, whether he ought to be admitted to the
+> assertion of his own case concerning other things?
 
 <!--
 
