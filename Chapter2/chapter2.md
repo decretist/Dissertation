@@ -644,19 +644,17 @@ the bishop does not appear before (*lit.* to) the court of the
 judge-electors; he is suspended from communion; at last, after the
 court reconvened [*lit.* the court having been renewed], the accuser
 is found [to be] at fault in [bringing] the accusation; finally he
-proceeds to the assertion of his own case. (trans. PLE)
-
-> Here it is first asked whether [someone] permanently excommunicated
-(*in excommunicatione constitutus*) is able to accuse another?
-Second, whether anyone *quis* ?= *aliquis*) under 14 years is able
-to testify in a criminal case? Third, whether someone prohibited
-from accusation is able to assume the role (*personam*) of testifying?
-Fourth, whether the same person is able to be [both] accuser and
-witness? Fifth, whether someone not appearing on the appointed day
-ought to be removed from communion. Sixth, if the person of the
-accuser was found culpable in the court of the bishops, whether he
-ought to be admitted to the assertion of his own case concerning
-other things?
+proceeds to the assertion of his own case. Here it is first asked
+whether [someone] permanently excommunicated (*in excommunicatione
+constitutus*) is able to accuse another? Second, whether anyone
+(*quis*) under 14 years is able to testify in a criminal case?
+Third, whether someone prohibited from accusation is able to assume
+the role (*personam*) of testifying? Fourth, whether the same
+person is able to be [both] accuser and witness? Fifth, whether
+someone not appearing on the appointed day ought to be removed from
+communion. Sixth, if the person of the accuser was found culpable
+in the court of the bishops, whether he ought to be admitted to the
+assertion of his own case concerning other things? (trans. PLE)
 
 <!--
 
@@ -739,17 +737,44 @@ case in which it is contained.[^62] The *dicta ante* restate and
 expand upon the questions in the *themata* that present the outline
 for the case.
 
-There are 8,371 words in the first-recension *dicta ante* in Part
-II. Four *dicta ante* (C.11 q.2 d.a.c.1, C.17 q.2 d.a.c.1, C.17 q.3
-d.a.c.1, and C.22 q.3 d.a.c.1) were added in their entirety to the
-second recension, presumably because the questions they introduced
-were not added to the *Decretum* until the second recension.[^63]
-Two first-recension *dicta ante* were modified in the second
+There are 8,547 words in the first-recension *dicta ante* in Part
+II. Two first-recension *dicta ante* were modified in the second
 recension: 23 words were added to C.21 q.3 d.a.c.1, and 3 words
-were added to C.29 q.1 d.a.c.1.In total, only 202 words were added
+were added to C.29 q.1 d.a.c.1. In total, only 26 words were added
 to the *dicta ante* in the second recension. Thus, the *dicta ante*
 in Part II, like the case statements, are quite stable, displaying
 very little change between the first and second recension.
+
+<!--
+
+Winroth's appendix *includes*:
+
+C.11 q.2 d.init. (p.212)
+C.17 q.3 d.init. (p.216)
+C.22 q.3 d.init. (p.218)
+
+Check Admont 43 f.33v to verify that C.17 q.2 d.init. is really
+missing. (Bc "breaks off after C.12" [p.26]; P "ends suddenly in
+mid-sentence in the middle of C.12, q.2, c.39" [p.32])
+
+C.17 q.2 has no *dictum ante* but is a non-empty question with two
+chapters in the first recension. C.17 q.3 has a *dictum ante* but
+is an empty question with no chapters in the first recension.
+
+C.17 q.2 does not really have a *dictum ante* in the second recension.
+What Reuter and Silagi tagged as <T A> is really an inscription:
+"Unde Alexander II.:"
+
+I incorrectly rolled up the following samples with the second-recension
+*dicta*. (I was probably confused by Winroth listing them as "d.init."
+rather than "d.a.c.1" in his appendix.)
+
+C.11 q.2 d.a.c.1 (42 words)
+C.17 q.2 d.a.c.1 (3 words)
+C.17 q.3 d.a.c.1 (73 words)
+C.22 q.3 d.a.c.1 (58 words)
+
+  -->
 
 ## Conclusion
 
@@ -838,7 +863,9 @@ vel conditor fuit, nisi forte quis eum auctorem idcirco dicere
 velit, quoniam multa ex parte sua sanctorum sententias distinguendo
 et exponendo in paragraphis suis ponit." @schulte_summa_1965, 5.
 
-[^tmp]: Ad intelligentiam dictorum notandum, quod quadruplex est modus
+<!--
+
+Ad intelligentiam dictorum notandum, quod quadruplex est modus
 faciendi librum. Aliquis enim scribit aliena, nihil addendo vel
 mutando; et iste mere dicitur *scriptor*. Aliquis scribit aliena,
 addendo, sed non de suo; et iste *compilator* dicitur. Aliquis
@@ -861,6 +888,8 @@ aliena tamquam annexa ad confirmationem; et talis debet dici *auctor*.
     and those of others being annexed merely by way of confirmation,
     and such a person should be called an author [*auctor*].
     @kraebel_modes_2019, 98.
+
+  -->
 
 [^11]: @kraebel_modes_2019, 98. Aliquis scribit et sua et aliena,
 sed sua tanquam principalia, aliena tamquam annexa ad confirmationem;
@@ -1031,6 +1060,17 @@ immediately preceded it." and "These isolated instances in the first
 cluster show that Gratian felt that the dictum was sufficient for
 summarizing the following *auctoritas*." [@eichbauer_redactions_2007,
 115]
+
+<!--
+
+Larson, p.23: *dicta* and canons poorly separated in *de Pen*.
+
+Chodorow, p.13 fn.20: *auctoritates* and *dicta* are not well-separated.
+cf. J.Rambaud
+
+Do *dicta* and inscriptions overlap?
+
+  -->
 
 [^37]: "Since Gratian frequently took fragments of letters from
 the Register of Gregory I---266 in all---using the inscription 'in
@@ -1226,8 +1266,4 @@ liquid to be readily convertible into cash bribes.
 tree-structured data in which internal nodes have only sibling
 pointers, and tree-structured data in which internal nodes have
 both sibling and parent pointers.
-
-[^63]: **Confirm**. If these questions are missing altogether in
-the first recension, what is the relationship to the questions as
-stated in the initial case statement?
 

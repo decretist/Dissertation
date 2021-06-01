@@ -602,18 +602,17 @@ pattern:[59]
 > judge-electors; he is suspended from communion; at last, after the
 > court reconvened \[*lit.* the court having been renewed\], the accuser
 > is found \[to be\] at fault in \[bringing\] the accusation; finally he
-> proceeds to the assertion of his own case. (trans. PLE)
-
-> Here it is first asked whether \[someone\] permanently excommunicated
-> (*in excommunicatione constitutus*) is able to accuse another? Second,
-> whether anyone *quis* ?= *aliquis*) under 14 years is able to testify
-> in a criminal case? Third, whether someone prohibited from accusation
-> is able to assume the role (*personam*) of testifying? Fourth, whether
-> the same person is able to be \[both\] accuser and witness? Fifth,
-> whether someone not appearing on the appointed day ought to be removed
-> from communion. Sixth, if the person of the accuser was found culpable
-> in the court of the bishops, whether he ought to be admitted to the
-> assertion of his own case concerning other things?
+> proceeds to the assertion of his own case. Here it is first asked
+> whether \[someone\] permanently excommunicated (*in excommunicatione
+> constitutus*) is able to accuse another? Second, whether anyone
+> (*quis*) under 14 years is able to testify in a criminal case? Third,
+> whether someone prohibited from accusation is able to assume the role
+> (*personam*) of testifying? Fourth, whether the same person is able to
+> be \[both\] accuser and witness? Fifth, whether someone not appearing
+> on the appointed day ought to be removed from communion. Sixth, if the
+> person of the accuser was found culpable in the court of the bishops,
+> whether he ought to be admitted to the assertion of his own case
+> concerning other things? (trans. PLE)
 
 <!--
 
@@ -693,23 +692,88 @@ list of enumerated question in the *thema* for the case in which it is
 contained.[62] The *dicta ante* restate and expand upon the questions in
 the *themata* that present the outline for the case.
 
-There are 8,371 words in the first-recension *dicta ante* in Part II.
-Four *dicta ante* (C.11 q.2 d.a.c.1, C.17 q.2 d.a.c.1, C.17 q.3 d.a.c.1,
-and C.22 q.3 d.a.c.1) were added in their entirety to the second
-recension, presumably because the questions they introduced were not
-added to the *Decretum* until the second recension.[63] Two
-first-recension *dicta ante* were modified in the second recension: 23
-words were added to C.21 q.3 d.a.c.1, and 3 words were added to C.29 q.1
-d.a.c.1.In total, only 202 words were added to the *dicta ante* in the
-second recension. Thus, the *dicta ante* in Part II, like the case
+There are 8,547 words in the first-recension *dicta ante* in Part II.
+Two first-recension *dicta ante* were modified in the second recension:
+23 words were added to C.21 q.3 d.a.c.1, and 3 words were added to C.29
+q.1 d.a.c.1. In total, only 26 words were added to the *dicta ante* in
+the second recension. Thus, the *dicta ante* in Part II, like the case
 statements, are quite stable, displaying very little change between the
 first and second recension.
+
+<!--
+
+Winroth's appendix *includes*:
+
+C.11 q.2 d.init. (p.212)
+C.17 q.3 d.init. (p.216)
+C.22 q.3 d.init. (p.218)
+
+Check Admont 43 f.33v to verify that C.17 q.2 d.init. is really
+missing. (Bc "breaks off after C.12" [p.26]; P "ends suddenly in
+mid-sentence in the middle of C.12, q.2, c.39" [p.32])
+
+C.17 q.2 has no *dictum ante* but is a non-empty question with two
+chapters in the first recension. C.17 q.3 has a *dictum ante* but
+is an empty question with no chapters in the first recension.
+
+C.17 q.2 does not really have a *dictum ante* in the second recension.
+What Reuter and Silagi tagged as <T A> is really an inscription:
+"Unde Alexander II.:"
+
+I incorrectly rolled up the following samples with the second-recension
+*dicta*. (I was probably confused by Winroth listing them as "d.init."
+rather than "d.a.c.1" in his appendix.)
+
+C.11 q.2 d.a.c.1 (42 words)
+C.17 q.2 d.a.c.1 (3 words)
+C.17 q.3 d.a.c.1 (73 words)
+C.22 q.3 d.a.c.1 (58 words)
+
+  -->
 
 ## Conclusion
 
 **The key finding of the dissertation is that the case statements were
 written by someone other than the author(s) of the first-recension
 *dicta*.**
+
+<!--
+
+Ad intelligentiam dictorum notandum, quod quadruplex est modus
+faciendi librum. Aliquis enim scribit aliena, nihil addendo vel
+mutando; et iste mere dicitur *scriptor*. Aliquis scribit aliena,
+addendo, sed non de suo; et iste *compilator* dicitur. Aliquis
+scribit et aliena et sua, sed aliena tamquam principalia, et sua
+tamquam annexa ad evidentiam; et iste dicitur *commentator*, non
+auctor. Aliquis scribit et sua et aliena, sed sua tanquam principalia,
+aliena tamquam annexa ad confirmationem; et talis debet dici *auctor*.
+(14-15)
+
+    For someone writes out the words of other men without adding
+    or changing anything, and he is called the scribe [*scriptor*]
+    pure and simple. Someone else writes the words of other men,
+    putting together material, but not his own, and he is called
+    the compiler [*compilator*]. Someone else write the words of
+    other men and also his own, but with those of other men comprising
+    the principle part while his own are annexed merely to make
+    clear the argument, and he is called the commentator [*commentator*],
+    not the author. Someone else writes the words of other men and
+    also of his own, but with his own forming the principle part
+    and those of others being annexed merely by way of confirmation,
+    and such a person should be called an author [*auctor*].
+    @kraebel_modes_2019, 98.
+
+  -->
+<!--
+
+Larson, p.23: *dicta* and canons poorly separated in *de Pen*.
+
+Chodorow, p.13 fn.20: *auctoritates* and *dicta* are not well-separated.
+cf. J.Rambaud
+
+Do *dicta* and inscriptions overlap?
+
+  -->
 
 # Bibliography
 
@@ -1556,10 +1620,6 @@ readily convertible into cash bribes.
 tree-structured data in which internal nodes have only sibling pointers,
 and tree-structured data in which internal nodes have both sibling and
 parent pointers.
-
-[63] **Confirm**. If these questions are missing altogether in the first
-recension, what is the relationship to the questions as stated in the
-initial case statement?
 
 <div align="center">
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
