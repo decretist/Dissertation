@@ -20,8 +20,8 @@ suggest that the text developed continuously over the span of, and
 in parallel with, a relatively long teaching career---perhaps a
 decade or more. On the other hand, Gratian's personal obscurity is
 so profound---Stephan Kuttner compared Gratian to the anonymous
-builders of Gothic cathedrals[^25]---as to suggest a short, or even
-no, teaching career.[^26]
+builders of Gothic cathedrals[^d25]---as to suggest a short, or even
+no, teaching career.[^d26]
 
 Considering the fact that Gratian was universally credited as the
 author of the foundational textbook for the study of canon law in
@@ -29,64 +29,12 @@ the classical period, one of the truly stellar intellectual
 achievements of the renaissance of the twelfth century, his complete
 absence from the kinds of academic genealogies and origin stories
 that Odofredus (†1265) handed down to his own Roman law students
-is striking indeed.[^27]
+is striking indeed.[^d27]
 
 We might be better able to assess Gratian's teaching career and how
 it influenced the compilation and transmission of the *Decretum*
 were we in a position to positively identify at least a few of his
-students. Here again, however, the evidence is mixed at best. Three
-twelfth-century canonist have, with varying degrees of plausibility,
-been identified as having been students of Gratian: Paucapalea (fl.
-1140s), Simon of Bisignano (fl. 1174--1179), Omnebene (d. 1185).
-
-#### Paucapalea
-
-#### Omnibonus or Omnebene
-
-Omnibonus or Omnebene (d.1185) composed an adaptation or transformation
-of the *Decretum* in the 1150s.[^32] The basis for the claim that
-Omnebene was a student of Gratian is an entry for the year 1130 in
-the chronicle of Norman monk Robert of Torigni (†1186)
-
-> *Gratianus episcopus Clusinus coadunavit decreta valde utilia ex
-decretis, canonibus, doctoribus, legibus Romanis, sufficientia ad
-omnes ecclesiasticas causas decidendas, que frequentantur in curia
-Romana et in aliis curiis ecclesiasticis. Hec postmodum abbreviavit
-magister Omnebonum episcopus Veronensis, qui fuerat eius discipulus.*
-(Gratian bishop of Chiusi brought together very useful decrees out
-of decrees, canons, doctors, Roman laws, sufficient for deciding
-all ecclesiastical cases, which are resorted to at the Roman curia
-and in other ecclesiastical courts. Master Omnebonum bishop of
-Verona, who had been his student, afterwards abbreviated them.)[^33]
-
-Although the evidence of Robert's chronicle is by Noonan's standard
-hearsay, Robert's reputation as a well-informed source concerning
-Gratian has improved in recent years since the Siena necrology has
-made the identification of Gratian as bishop of Chiusi more probable.
-
-The dates do not preclude Omnebene's having been a student of
-Gratian. Although Omnebene lived into the 1180s, the adaptation
-itself seems to date from around 1156, perhaps a decade and a half
-after the end of whatever teaching career Gratian may have had, and
-at precisely the moment that continent-wide interest in the text
-was increasing most rapidly.[^34]
-
-#### Simon of Bisignano
-
-Simon of Bisignano (fl. 1174--1179) was the author of a *Summa
-decretorum* dated c.1177-79, and a number of glosses on the *Decretum*
-are attributed to him.[^35] The evidence that Simon of Bisignano
-was a student of Gratian's comes from references within his
-writings.[^36] Simon refers to himself as *discipulus* and to Gratian
-as *magister* in at least two places in his *Summa* (**Landau says
-"frequently"**). There is, however a hiatus of almost four decades
-between the latest plausible date for the end of Gratian's teaching
-career, and the documentary evidence we have for Simon's professional
-career as a canonist. Although it is not chronologically impossible
-for Simon to have been Gratian's student, it seems more likely that
-he described himself as *discipulus* in something like the same
-sense that we might describe contemporary scholars like Chodorow,
-Pennington, and Winroth as "students of Gratian".
+students. Here again, however, the evidence is mixed at best.
 
 ### Epilogue
 
@@ -102,12 +50,12 @@ conciliar, and papal source texts, and towards a much more narrowly
 circumscribed technical jurisprudence focused exclusively on
 contemporary papal decretals.
 
-[^25]: "He is one of those deeply admirable men of pious modesty,
+[^d25]: "He is one of those deeply admirable men of pious modesty,
 like the builders of the medieval cathedrals, whose person is hidden
 and effaced completely behind their immortal works." [@kuttner_father_1941,
 4].
 
-[^26]: **Winroth argues for a short teaching career, Southern argues
+[^d26]: **Winroth argues for a short teaching career, Southern argues
 for no teaching career.** Southern also asserts that no one claims
 to have been Gratian's student---"none of the earliest users of his
 work claims to have been taught by him". "although other scholars
@@ -116,7 +64,7 @@ made some very early alterations and additions to the text of the
 [@southern_scholastic_1995, 287, 304]. **Does Southern provide
 footnotes to support these statements?**
 
-[^27]: **Expand:** The tradition of Roman law teaching in Bologna
+[^d27]: **Expand:** The tradition of Roman law teaching in Bologna
 preserved an elaborate genealogy of masters and their students:
 Pepo preceded Wernerius [Irnerius], who taught the Four Doctors.
 Odofredus is an important source for this tradition, and his remarks
@@ -129,43 +77,7 @@ Note that Odofredus is also the source for associating Gratian with
 the monastery of Saints Felix and Nabor. [@noonan_gratian_1979,
 148].
 
-[^32]: Kenneth Pennington,
-[Omnibonus](http://amesfoundation.law.harvard.edu/BioBibCanonists/Report_Biobib2.php?record_id=a363),
-*Bio-Bibliographical Guide to Medieval and Early Modern Jurists.*
-
-[^33]: Kuttner, *Repertorium*, 453. MGH Scriptores (SS) 6 (1844),
-490. *Chronique de Robert de Torigny*, ed. Léopold Delisle, 183-184
-(see BSB online version). *Chronicles of the reigns of Stephen,
-Henry II, and Richard I*, ed. Richard Howlett (1884). *Chronica
-Roberti de Torigneio*, ed. Richard Howlett, RS 82 4.118.
-
-[^34]: **There is no print edition of Omnebene's adaptation (confirmed
-by Ken Pennington, 17 May 2021). The only online form in which the
-manuscript is available is a low-quality digitization of an old
-microfilm of Paris, Bibliothèque nationale de France, Latin 3886.
-I was therefore unable to look for any internal evidence in Omnebene's
-adaptation (e.g., a comment in a preface), indicating that Gratian
-had been his teacher.**
-
-[^35]: Kenneth Pennington, [Simon of
-Bisignano](http://amesfoundation.law.harvard.edu/BioBibCanonists/Report_Biobib2.php?record_id=a497),
-*Bio-Bibliographical Guide to Medieval and Early Modern Jurists.*
-Pennington does not indicate that Simon of Bisignano was a student
-of Gratian. Glosses attributed to Simon of Bisignano are indicated
-by the *sigla* s., si., and sy. [@weigand_development_2008, 97]
-**Simon's glosses are dated earlier than his *Summa* (cite Hartmann
-and Pennington).**
-
-[^36]: @kuttner_research_1990, 7. @noonan_gratian_1979, 157, rejects
-this, but Kuttner disagrees. Simon of Bisignano refers to Gratian
-as *magister* and to himself as *discipulus* in his comments on
-C.27 q.2, @simon_of_bisignano_summa_2014, 412. Simon again refers
-to Gratian as *magister* in his comments on D.4 c.31 of *de
-Consecratione* @simon_of_bisignano_summa_2014, 542. **Page numbers
-may not coincide with print edition cited: the version of the Aimone
-edition I have access to is a PDF dated Fribourg 2007. BibTex records
-in merged.bib are inconsistent as to whether to use the author's
-or editor's name as the basis for the tag.**
+<!--
 
     <CAVSA XXVII> <Q.II> § *Sequitur secunda questio* Sacram et
     authenticam pie recordationis Gratianus de matrimonio distinctionem
@@ -202,4 +114,6 @@ or editor's name as the basis for the tag.**
 
     Although our master taught that, we nevertheless do not wish
     to imitate him in this (PLE).
+
+  -->
 
