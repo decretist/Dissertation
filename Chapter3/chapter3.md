@@ -47,18 +47,18 @@ does not make a strong claim for either his authority or authorship.
 The second was in the preface of Stephen of Tournai
 to his *Summa* on the *Decretum*:
 
-> "*Compositorem huius operis recte dixerim Gratianum, non auctorem.
+> *Compositorem huius operis recte dixerim Gratianum, non auctorem.
 Capitula namque a sanctis patribus edita in hoc volumine composuit,
 i.e. ordinavit. Non eorum auctor vel conditor fuit, nisi forte quis
 eum auctorem idcirco dicere velit, quoniam multa ex parte sua
 sanctorum sententias distinguendo et exponendo in paragraphis suis
 ponit.* (I should properly say that Gratian is the compiler of this
 work, not the author, for he brought together in this volume---that
-is, he arranged---rulings enacted by the holy Fathers.  He was not
+is, he arranged---rulings enacted by the holy Fathers. He was not
 their author or framer, unless perchance someone wishes to say that
 he is thus the author since he offered on his own in his dicta many
 things for clarifying and explicating the opinions of the holy
-[Fathers]."
+[Fathers].)[^tmp1]
 
 No near contemporary makes an unambiguous claim to have been Gratian's
 student or to have otherwise had first-hand knowledge of the
@@ -66,7 +66,7 @@ circumstances under which the *Decretum* was compiled.
 
 Three twelfth-century canonist have, with varying degrees of
 plausibility, been identified as having been students of Gratian:
-Paucapalea (fl.  1140s), Simon of Bisignano (fl. 1174--1179),
+Paucapalea (fl. 1140s), Simon of Bisignano (fl. 1174--1179),
 Omnebene (d. 1185).
 
 #### Paucapalea
@@ -690,7 +690,7 @@ which pass for his, that would constitute a significant change and
 affect the manner in which the author's name functions. If we proved
 that Shakespeare wrote Bacon's *Organon* by showing that the same
 author wrote both the works of Bacon and those of Shakespeare, that
-would ...  entirely modify the functioning of the author's
+would ... entirely modify the functioning of the author's
 name.[@foucault_what_1998, 210]
 
 Foucault has a reputation for using esoteric vocabulary in his
@@ -766,6 +766,8 @@ and played with it for you." – Stan Chodorow
 
 [^2]: @noonan_gratian_1979, 154; and @pennington_biography_2018, 382-385.
 
+[^tmp1]: @schulte_summa_1965, 5; and @somerville_prefaces_1998, 200-201.
+
 [^3]: Kenneth Pennington,
 [Paucapalea](http://amesfoundation.law.harvard.edu/BioBibCanonists/Report_Biobib2.php?record_id=a366),
 *Bio-Bibliographical Guide to Medieval and Early Modern Jurists.*
@@ -793,7 +795,7 @@ de Torigneio*, ed. Richard Howlett, RS 82 4.118.
 (confirmed by Ken Pennington, 17 May 2021). The only online form
 in which the manuscript is available is a low-quality digitization
 of an old microfilm of Paris, Bibliothèque nationale de France,
-Latin 3886.  I was therefore unable to look for any internal evidence
+Latin 3886. I was therefore unable to look for any internal evidence
 in Omnebene's adaptation (e.g., a comment in a preface), indicating
 that Gratian had been his teacher.**
 
