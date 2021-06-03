@@ -36,13 +36,28 @@ have to be considered carefully, and where necessary distinctly.
 
 We have already encountered two twelfth-century statements on the
 authority, author, and authorship of the *Decretum*. The first was
-the early gloss inserted in lieu of a title at the beginning of the
-Gt, Pf, and Tr manuscripts: "*Concordia discordantium canonum iuxta
-determinationem Gratiani episcopi quae in duas partes principaliter
-est divisa* (The agreement of disagreeing canons according to the
-determination of Bishop Gratian, which is principally divided into
-two parts.)"[^2] The glossator provides Gratian's name, but
-does not make a strong claim for either his authority or authorship.
+the gloss inserted in lieu of a title at the beginning of the early
+Ghent (Gt), Paris (Pf), and Trier (Tr) manuscripts: "*Concordia
+discordantium canonum iuxta determinationem Gratiani episcopi quae
+in duas partes principaliter est divisa* (The agreement of disagreeing
+canons according to the determination of Bishop Gratian, which is
+principally divided into two parts.)"[^2] The glossator provides
+Gratian's name, but advances at best an ambivalent claim with respect
+to his authorship of the *Decretum*. The glossator includes the
+possibly helpful information that Gratian had been a bishop. We do
+not know what basis the glossator had for making this statement and
+therefore cannot form a judgement as to its reliability. The default
+stance of modern scholarship would be to understand this as being
+a statement (whether true or false) about the biography of Gratian.
+For that reason, it is the kind of evidence that must be evaluated
+with particular care. The teaching authority of the church is vested
+in the bishops. To identify Gratian as a bishop is to make a very
+specific kind of claim about his authority, and by extension that
+of the *Decretum*. Presumably the glossator had some reason to
+believe that Gratian had actually been a bishop. The purpose of
+communicating that information to the reader however appears to
+have been to advance an authority claim on behalf of the collection
+and its compiler.
 
 The second was in the preface of Stephen of Tournai
 to his *Summa* on the *Decretum*:
