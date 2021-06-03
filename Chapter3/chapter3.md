@@ -103,9 +103,9 @@ domini atque baptismo nec non et confirmatione pleniter tractat,
 et in his suum tractatum terminat.* In the end, he treats fully the
 dedication of churches, the body and blood of the Lord, baptism,
 and also confirmation, and with these things concludes his
-treatise."[^p4]
+treatise."[^p]
 
-[^p4]: @paucapalea_summa_1890, 3; @somerville_prefaces_1998, 184-185.
+[^p]: @paucapalea_summa_1890, 3; @somerville_prefaces_1998, 184-185.
 
 If Rambaud is correct that *de Consecratione* was not part of the
 original *Decretum*, the fact that Paucapalea attributed it to the
