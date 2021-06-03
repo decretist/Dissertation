@@ -59,8 +59,10 @@ communicating that information to the reader however appears to
 have been to advance an authority claim on behalf of the collection
 and its compiler.
 
-The second was in the preface of Stephen of Tournai
-to his *Summa* on the *Decretum*:
+The second of the two twelfth-century statements on the authority,
+author, and authorship of the *Decretum* we have already encountered
+is found in the preface of Stephen of Tournai to his *Summa* on the
+*Decretum*:
 
 > *Compositorem huius operis recte dixerim Gratianum, non auctorem.
 Capitula namque a sanctis patribus edita in hoc volumine composuit,
@@ -74,6 +76,20 @@ their author or framer, unless perchance someone wishes to say that
 he is thus the author since he offered on his own in his dicta many
 things for clarifying and explicating the opinions of the holy
 [Fathers].)[^tmp1]
+
+Stephen also provides Gratian's name, but specifically denies his
+authorship of the *Decretum*, demoting him to to the status of a
+*compositor*. Unlike the anonymous glossator, Stephen at least
+chooses an active-voice verb to characterize Gratian's creative
+relationship with the text of the *Decretum*: Gratian, according
+to Stephen, "arranged (*ordinavit*)" the canons. Gratian's role is
+a distinctly subordinate one, however, confined to "clarifying and
+explicating the opinions of the holy Fathers" whom Stephen centers
+as the ultimate source for the authority of the *Decretum*.
+
+<!--
+
+  -->
 
 No near contemporary makes an unambiguous claim to have been Gratian's
 student or to have otherwise had first-hand knowledge of the
