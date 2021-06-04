@@ -33,26 +33,20 @@ were in general quite reticent about making claims to authority on their
 own behalf, and employed a variety of techniques to maintain plausible
 deniability that they were in fact claiming authorship and the authority
 that went with it. Some repudiated the role of author altogether and
-circulated the texts they wrote pseudonymously under the name of a
-canonical author of unquestioned authority. Augustine was the
-overwhelming favorite, and Gratian extensively quoted in his *de
-Penitentia* from a text, *De vera et falsa penitentia*, that circulated
-under such false pretences. Others sought to distance themselves from
-the role of author by locating authority in texts they quoted rather
-than in the original use they made of those quoted texts in their own
-writing.[2] In any event, the modern notion that the ultimate source for
-the authority of a text is is an independent judgement by the reader of
-the validity of the arguments it contains is simply not applicable to
-the twelfth century.
-
-The problem of authorship and authority was particularly acute in the
-first half of the twelfth century, because early scholastic readers were
-more alert to the chinks in the armor of traditional authorities than
-their less-sophisticated predecessors had been. Peter Abelard was unique
-in the radicalism of his solution to the problem: in *Sic et non*, he
-subverted and indeed dissolved the entire notion of authority by showing
-that texts written by equally authoritative authors were in actual, not
-just apparent, disagreement.
+circulated the texts they wrote either anonymously or pseudonymously
+under the name of a canonical author of unquestioned authority.
+Augustine was the overwhelming favorite, and Gratian extensively quoted
+in his *de Penitentia* from a text, *De vera et falsa penitentia*, that
+circulated under such false pretences. Others sought to distance
+themselves from the role of author by locating authority in texts they
+quoted rather than in the original use they made of those quoted texts
+in their own writing.[2] Gratian made use of both strategies. He
+circulated the *Decretum* anonymously, and made no overt claim for the
+authority of his collection other than that derived from the patristic
+texts he extracted out of his material sources. In any event, the modern
+notion that the ultimate source for the authority of a text is is an
+independent judgement by the reader of the validity of the arguments it
+contains is simply not applicable to the twelfth century.
 
 <!-- need transition -->
 
@@ -223,9 +217,18 @@ arguments it makes.
 This dissertation is about whether one, two, or many authors wrote
 the exact words in the text of the *dicta* in the *Decretum*.
 
-Hold paragraph below as conclusion to the Authority section
+Reserve paragraphs below as conclusion to the Authority section
 
   -->
+
+The problem of authorship and authority was particularly acute in the
+first half of the twelfth century, because early scholastic readers were
+more alert to the chinks in the armor of traditional authorities than
+their less-sophisticated predecessors had been. Peter Abelard was unique
+in the radicalism of his solution to the problem: in *Sic et non*, he
+subverted and indeed dissolved the entire notion of authority by showing
+that texts written by equally authoritative authors were in actual, not
+just apparent, disagreement.
 
 Gratian undertook the conservative hermeneutical project of harmonizing
 the apparently discordant canons to the level of sophistication demanded
@@ -970,12 +973,25 @@ Kanonistische Abteilung* 99, no. 1 (August 2013): 105–28.
 
 </div>
 
-[1] "The third order of business then is to recount the history of
-efforts, from the *Summa Parisiensis* on, of legal scholars and
-historians to find the man behind the name Gratian. Here, you need to
-lay out the traditional evidence used for solving this puzzle. You are
-lucky that Noonan, Pennington etc. have laid out the evidence and played
-with it for you." – Stan Chodorow
+[1] The purpose of the first (Authority) section of this chapter is to
+show, more than tell, that most of the medieval statements that modern
+historians take to be evidence about the biography of the author or the
+authorship of the text are really statements about the *authority* of
+either Gratian or the *Decretum*.
+
+You summarized the purpose of the second (Author) section of this
+chapter---which at the time we took to *be* the chapter---thusly:
+
+"The third order of business then is to recount the history of efforts,
+from the *Summa Parisiensis* on, of legal scholars and historians to
+find the man behind the name Gratian. Here, you need to lay out the
+traditional evidence used for solving this puzzle. You are lucky that
+Noonan, Pennington etc. have laid out the evidence and played with it
+for you." – Stan Chodorow
+
+Is the *Summa Parisiensis* just an example, or is there something
+particularly significant about the evidence it provides regarding
+Gratian and the *Decretum* that I need to specifically address?
 
 [2] "their authority deriving mainly from the fact that they consisted
 mostly of quotations" Anders Winroth, *The Making of Gratian’s Decretum*
@@ -1014,15 +1030,18 @@ scanned from the Schulte edition and provided to me by Ken Pennington,
 Paucapalea appears not to refer to Gratian by name anywhere in his
 *summa*.
 
-[8] **Going to need a very heavyweight footnote here referencing
-Minnis.** (A. J. Minnis, *Medieval Theory of Authorship: Scholastic
+"*Sicut uetus testamentum* makes no reference to a named person in its
+Prologue when it discusses the purpose and method of the author of the
+Concordia\*." Noonan, “Gratian Slept Here”, 165.
+
+[8] See A. J. Minnis, *Medieval Theory of Authorship: Scholastic
 Literary Attitudes in the Later Middle Ages*, 2nd ed, Middle Ages Series
-(Philadelphia: University of Pennsylvania Press, 1988)) (Richard William
-Hunt, “The Introductions to the ’Artes’ in the Twelfth Century,” in *The
-History of Grammar in the Middle Ages: Collected Papers*, ed. G. L.
-Bursill-Hall, Amsterdam Studies in the Theory and History of Linguistic
-Science. Series 3: Studies in the History of Linguistics v.5 (Amsterdam:
-J. Benjamins, 1980), 117–44)
+(Philadelphia: University of Pennsylvania Press, 1988); and Richard
+William Hunt, “The Introductions to the ’Artes’ in the Twelfth Century,”
+in *The History of Grammar in the Middle Ages: Collected Papers*, ed. G.
+L. Bursill-Hall, Amsterdam Studies in the Theory and History of
+Linguistic Science. Series 3: Studies in the History of Linguistics v.5
+(Amsterdam: J. Benjamins, 1980), 117–44.
 
 [9] Kenneth Pennington,
 [Omnibonus](http://amesfoundation.law.harvard.edu/BioBibCanonists/Report_Biobib2.php?record_id=a363),
