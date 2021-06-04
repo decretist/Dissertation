@@ -9,19 +9,14 @@ subtitle: Decretists
 ### Gratian's teaching career
 
 Evidence concerning Gratian's career as a teacher of canon law is
-contradictory. Most medieval and modern readers of the *Decretum*
-have seen it as a teaching text, both in the sense that its intended
-use (or at least one of its intended uses) was as an introductory
-textbook, and also in the sense that it reflected the author's
-experience as a classroom teacher. On the one hand, the early
-manuscript tradition for the *Decretum* displays enough variation,
-even among the first-recension manuscripts Aa, Bc, Fd, and P, to
-suggest that the text developed continuously over the span of, and
-in parallel with, a relatively long teaching career---perhaps a
-decade or more. On the other hand, Gratian's personal obscurity is
-so profound---Stephan Kuttner compared Gratian to the anonymous
-builders of Gothic cathedrals[^d25]---as to suggest a short, or even
-no, teaching career.[^d26]
+contradictory. On the one hand, the early manuscript tradition for
+the *Decretum* displays enough variation, even among the first-recension
+manuscripts Aa, Bc, Fd, and P, to suggest that the text developed
+continuously over the span of, and in parallel with, a relatively
+long teaching career---perhaps a decade or more. On the other hand,
+Gratian's personal obscurity is so profound---Stephan Kuttner
+compared Gratian to the anonymous builders of Gothic cathedrals[^d25]---as
+to suggest a short, or even no, teaching career.[^d26]
 
 Considering the fact that Gratian was universally credited as the
 author of the foundational textbook for the study of canon law in
@@ -55,14 +50,8 @@ like the builders of the medieval cathedrals, whose person is hidden
 and effaced completely behind their immortal works." [@kuttner_father_1941,
 4].
 
-[^d26]: **Winroth argues for a short teaching career, Southern argues
-for no teaching career.** Southern also asserts that no one claims
-to have been Gratian's student---"none of the earliest users of his
-work claims to have been taught by him". "although other scholars
-made some very early alterations and additions to the text of the
-*Decretum*, none of them claimed to have been taught by him."
-[@southern_scholastic_1995, 287, 304]. **Does Southern provide
-footnotes to support these statements?**
+[^d26]: **Winroth argues for a short teaching career, Southern
+argues for no teaching career.**
 
 [^d27]: **Expand:** The tradition of Roman law teaching in Bologna
 preserved an elaborate genealogy of masters and their students:

@@ -1,12 +1,8 @@
 ### Gratian's teaching career
 
 Evidence concerning Gratian's career as a teacher of canon law is
-contradictory. Most medieval and modern readers of the *Decretum* have
-seen it as a teaching text, both in the sense that its intended use (or
-at least one of its intended uses) was as an introductory textbook, and
-also in the sense that it reflected the author's experience as a
-classroom teacher. On the one hand, the early manuscript tradition for
-the *Decretum* displays enough variation, even among the first-recension
+contradictory. On the one hand, the early manuscript tradition for the
+*Decretum* displays enough variation, even among the first-recension
 manuscripts Aa, Bc, Fd, and P, to suggest that the text developed
 continuously over the span of, and in parallel with, a relatively long
 teaching career---perhaps a decade or more. On the other hand, Gratian's
@@ -105,13 +101,6 @@ Bologna, 850- 1150*. New Haven: Yale University Press, 1988.
 
 </div>
 
-<div id="ref-southern_scholastic_1995" class="csl-entry">
-
-Southern, R. W. *Scholastic Humanism and the Unification of Europe*.
-Vol. 1. Oxford, UK ; Cambridge, Mass., USA: Blackwell, 1995.
-
-</div>
-
 </div>
 
 [1] "He is one of those deeply admirable men of pious modesty, like the
@@ -120,14 +109,7 @@ completely behind their immortal works." (Stephan Kuttner, “The Father
 of the Science of Canon Law,” *Jurist* 1 (1941): 4).
 
 [2] **Winroth argues for a short teaching career, Southern argues for no
-teaching career.** Southern also asserts that no one claims to have been
-Gratian's student---"none of the earliest users of his work claims to
-have been taught by him". "although other scholars made some very early
-alterations and additions to the text of the *Decretum*, none of them
-claimed to have been taught by him." (R. W. Southern, *Scholastic
-Humanism and the Unification of Europe*, vol. 1 (Oxford, UK ; Cambridge,
-Mass., USA: Blackwell, 1995), 287, 304). **Does Southern provide
-footnotes to support these statements?**
+teaching career.**
 
 [3] **Expand:** The tradition of Roman law teaching in Bologna preserved
 an elaborate genealogy of masters and their students: Pepo preceded

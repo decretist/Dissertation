@@ -51,13 +51,13 @@ stance of modern scholarship would be to understand this as being
 a statement (whether true or false) about the biography of Gratian.
 For that reason, it is the kind of evidence that must be evaluated
 with particular care. The teaching authority of the church is vested
-in the bishops. To identify Gratian as a bishop is to make a very
-specific kind of claim about his authority, and by extension that
-of the *Decretum*. Presumably the glossator had some reason to
-believe that Gratian had actually been a bishop. The purpose of
-communicating that information to the reader however appears to
-have been to advance an authority claim on behalf of the collection
-and its compiler.
+in the bishops. To identify Gratian as a bishop is therefore to
+make a very specific kind of claim about his authority, and by
+extension that of the *Decretum*. Presumably the glossator had some
+reason to believe that Gratian had actually been a bishop. The
+purpose of communicating that information to the reader however
+appears to have been to advance an authority claim on behalf of the
+collection and its compiler.
 
 The second of the two twelfth-century statements on the authority,
 author, and authorship of the *Decretum* we have already encountered
@@ -87,20 +87,22 @@ a distinctly subordinate one, however, confined to "clarifying and
 explicating the opinions of the holy Fathers" whom Stephen centers
 as the ultimate source for the authority of the *Decretum*.
 
-<!--
-
-  -->
-
-No near contemporary makes an unambiguous claim to have been Gratian's
+Most medieval and modern readers of the *Decretum* have seen it as
+a teaching text, both in the sense that its intended use (or at
+least one of its intended uses) was as an introductory textbook,
+and also in the sense that it reflected the author's experiences
+as a classroom teacher. Gratian's students would appear therefore
+to have been the potential witnesses with the best visibility into
+the authorship of the text of the *Decretum*. Unfortunately no
+near-contemporary makes an unambiguous claim to have been Gratian's
 student or to have otherwise had first-hand knowledge of the
-circumstances under which the *Decretum* was compiled.
-
-Three twelfth-century canonist have, with varying degrees of
-plausibility, been identified as having been students of Gratian:
-Paucapalea (fl. 1140s), Simon of Bisignano (fl. 1174--1179),
+circumstances under which the *Decretum* was composed,[^tmp2]
+although three twelfth-century canonist have, with varying degrees
+of plausibility, been identified as having been students of Gratian:
+Paucapalea (fl. 1140s), Simon of Bisignano (fl. 1174--1179), and
 Omnebene (d. 1185).
 
-#### Paucapalea
+### Paucapalea
 
 Paucapalea was easily the most prominent figure from the early
 period of the Bolognese school of decretists who followed in Gratian's
@@ -146,7 +148,7 @@ of Gratian or his plan of work.
 
   -->
 
-#### Omnibonus or Omnebene
+### Omnibonus or Omnebene
 
 Omnibonus or Omnebene (d.1185) composed an adaptation or transformation
 of the *Decretum* in the 1150s.[^6] The basis for the claim that
@@ -176,7 +178,7 @@ after the end of whatever teaching career Gratian may have had, and
 at precisely the moment that continent-wide interest in the text
 was increasing most rapidly.[^8]
 
-#### Simon of Bisignano
+### Simon of Bisignano
 
 Simon of Bisignano (fl. 1174--1179) was the author of a *Summa
 decretorum* dated c.1177-79, and a number of glosses on the *Decretum*
@@ -798,6 +800,14 @@ and played with it for you." – Stan Chodorow
 [^2]: @noonan_gratian_1979, 154; and @pennington_biography_2018, 382-385.
 
 [^tmp1]: @schulte_summa_1965, 5; and @somerville_prefaces_1998, 200-201.
+
+[^tmp2]: R.W. Southern asserts that no one claims to have been
+Gratian's student---"none of the earliest users of his work claims
+to have been taught by him". "although other scholars made some
+very early alterations and additions to the text of the *Decretum*,
+none of them claimed to have been taught by him."
+[@southern_scholastic_1995, 287, 304]. **Does Southern provide
+footnotes to support these statements?**
 
 [^3]: Kenneth Pennington,
 [Paucapalea](http://amesfoundation.law.harvard.edu/BioBibCanonists/Report_Biobib2.php?record_id=a366),
