@@ -14,9 +14,6 @@ chapter3.docx: chapter3.md ../bib/merged.bib ../ref/final.docx
 decretists.docx: decretists.md ../bib/merged.bib ../ref/final.docx
 	pandoc -o decretists.docx --citeproc --reference-doc=../ref/final.docx decretists.md
 
-chapter3a.docx: chapter3a.md ../bib/merged.bib ../ref/draft.docx
-	pandoc -o chapter3a.docx --citeproc --reference-doc=../ref/draft.docx chapter3a.md
-
 clean:
 	rm -i chapter3.markdown decretists.markdown
 
