@@ -25,6 +25,37 @@ statements about the biography of Gratian or about the authorship of the
 authorship of the *Decretum* therefore have to be considered carefully,
 and where necessary distinctly.
 
+## Authority
+
+In the middle ages, to presume to take on the role of *auctor* was to
+make a claim (at least implicitly) to *auctoritas*. Medieval writers
+were in general quite reticent about making claims to authority on their
+own behalf, and employed a variety of techniques to maintain plausible
+deniability that they were in fact claiming authorship and the authority
+that went with it. Some repudiated the role of author altogether and
+circulated the texts they wrote pseudonymously under the name of a
+canonical author of unquestioned authority. Augustine was the
+overwhelming favorite, and Gratian extensively quoted in his *de
+Penitentia* from a text, *De vera et falsa penitentia*, that circulated
+under such false pretences. Others sought to distance themselves from
+the role of author by locating authority in texts they quoted rather
+than in the original use they made of those quoted texts in their own
+writing.[2] In any event, the modern notion that the ultimate source for
+the authority of a text is is an independent judgement by the reader of
+the validity of the arguments it contains is simply not applicable to
+the twelfth century.
+
+The problem of authorship and authority was particularly acute in the
+first half of the twelfth century, because early scholastic readers were
+more alert to the chinks in the armor of traditional authorities than
+their less-sophisticated predecessors had been. Peter Abelard was unique
+in the radicalism of his solution to the problem: in *Sic et non*, he
+subverted and indeed dissolved the entire notion of authority by showing
+that texts written by equally authoritative authors were in actual, not
+just apparent, disagreement.
+
+<!-- need transition -->
+
 We have already encountered two twelfth-century statements on the
 authority, author, and authorship of the *Decretum*. The first was the
 gloss inserted in lieu of a title at the beginning of the early Ghent
@@ -32,7 +63,7 @@ gloss inserted in lieu of a title at the beginning of the early Ghent
 canonum iuxta determinationem Gratiani episcopi quae in duas partes
 principaliter est divisa* (The agreement of disagreeing canons according
 to the determination of Bishop Gratian, which is principally divided
-into two parts.)"[2] The glossator provides Gratian's name, but advances
+into two parts.)"[3] The glossator provides Gratian's name, but advances
 at best an ambivalent claim with respect to his authorship of the
 *Decretum*. The glossator includes the possibly helpful information that
 Gratian had been a bishop. We do not know what basis the glossator had
@@ -65,7 +96,7 @@ found in the preface of Stephen of Tournai to his *Summa* on the
 > their author or framer, unless perchance someone wishes to say that he
 > is thus the author since he offered on his own in his dicta many
 > things for clarifying and explicating the opinions of the holy
-> \[Fathers\].)[3]
+> \[Fathers\].)[4]
 
 Stephen also provides Gratian's name, but specifically denies his
 authorship of the *Decretum*, demoting him to to the status of a
@@ -86,7 +117,7 @@ witnesses with the best visibility into the authorship of the text of
 the *Decretum*. Unfortunately no near-contemporary makes an unambiguous
 claim to have been Gratian's student or to have otherwise had first-hand
 knowledge of the circumstances under which the *Decretum* was
-composed,[4] although three twelfth-century canonist have, with varying
+composed,[5] although three twelfth-century canonist have, with varying
 degrees of plausibility, been identified as having been students of
 Gratian: Paucapalea (fl. 1140s), Simon of Bisignano (fl. 1174--1179),
 and Omnebene (d. 1185).
@@ -96,11 +127,11 @@ and Omnebene (d. 1185).
 Paucapalea was easily the most prominent figure from the early period of
 the Bolognese school of decretists who followed in Gratian's immediate
 footsteps. Pennington flatly states that Paucapalea was "\[a\] pupil of
-Gratian and the author of the first commentary on the *Decretum*".[5]
+Gratian and the author of the first commentary on the *Decretum*".[6]
 But in the preface to that commentary, Paucapalea does not refer to
 Gratian by name: "*Magistri autem hoc opus condentis ipsa decreta sunt
 materia.* The decrees themselves, however, are the subject matter of the
-master producing this work."[6]
+master producing this work."[7]
 
 The omission is significant. Prefaces to academic books in the twelfth
 century formed a recognized genre with well-established conventions. In
@@ -111,7 +142,7 @@ authority of both the work commented on and its author. If Paucapalea
 had had something to say about the authority and authorship of Gratian,
 his readers would have expected him to do so in his preface. That he did
 not suggests that he did not known enough about Gratian to credibly do
-so.[7]
+so.[8]
 
 <!--
 
@@ -139,7 +170,7 @@ of Gratian or his plan of work.
 ### Omnibonus or Omnebene
 
 Omnibonus or Omnebene (d.1185) composed an adaptation or transformation
-of the *Decretum* in the 1150s.[8] The basis for the claim that Omnebene
+of the *Decretum* in the 1150s.[9] The basis for the claim that Omnebene
 was a student of Gratian is an entry for the year 1130 in the chronicle
 of Norman monk Robert of Torigni (†1186)
 
@@ -152,7 +183,7 @@ of Norman monk Robert of Torigni (†1186)
 > decrees, canons, doctors, Roman laws, sufficient for deciding all
 > ecclesiastical cases, which are resorted to at the Roman curia and in
 > other ecclesiastical courts. Master Omnebonum bishop of Verona, who
-> had been his student, afterwards abbreviated them.)[9]
+> had been his student, afterwards abbreviated them.)[10]
 
 Although the evidence of Robert's chronicle is by Noonan's standard
 hearsay, Robert's reputation as a well-informed source concerning
@@ -164,14 +195,14 @@ Although Omnebene lived into the 1180s, the adaptation itself seems to
 date from around 1156, perhaps a decade and a half after the end of
 whatever teaching career Gratian may have had, and at precisely the
 moment that continent-wide interest in the text was increasing most
-rapidly.[10]
+rapidly.[11]
 
 ### Simon of Bisignano
 
 Simon of Bisignano (fl. 1174--1179) was the author of a *Summa
 decretorum* dated c.1177-79, and a number of glosses on the *Decretum*
-are attributed to him.[11] The evidence that Simon of Bisignano was a
-student of Gratian's comes from references within his writings.[12]
+are attributed to him.[12] The evidence that Simon of Bisignano was a
+student of Gratian's comes from references within his writings.[13]
 Simon refers to himself as *discipulus* and to Gratian as *magister* in
 at least two places in his *Summa* (**Landau says "frequently"**). There
 is, however a hiatus of almost four decades between the latest plausible
@@ -183,46 +214,18 @@ in something like the same sense that we might describe contemporary
 scholars like Chodorow, Pennington, and Winroth as "students of
 Gratian".
 
-## Authority
+<!--
 
 Modern scholars considering the authorship of a text are primarily
-interested in the question of who wrote the exact words it contains and
-whose thought is reflected in the arguments it makes. This dissertation
-is about whether one, two, or many authors wrote the exact words in the
-text of the *dicta* in the *Decretum*. The medieval sources we depend on
-for much of our evidence about who wrote the *Decretum* were not
-uninterested in the question of who wrote the exact words in the text,
-but that question overlapped for them in a way that it does not for us
-with the question of who was the source of the text's authority. The
-question of the authority of the *Decretum* therefore has to be
-considered separately from that of authorship.
+interested in the question of whose thought is reflected in the
+arguments it makes.
 
-In the middle ages, to presume to take on the role of *auctor* was to
-make a claim (at least implicitly) to *auctoritas*. Medieval writers
-were in general quite reticent about making claims to authority on their
-own behalf, and employed a variety of techniques to maintain plausible
-deniability that they were in fact claiming authorship and the authority
-that went with it. Some repudiated the role of author altogether and
-circulated the texts they wrote pseudonymously under the name of a
-canonical author of unquestioned authority. Augustine was the
-overwhelming favorite, and Gratian extensively quoted in his *de
-Penitentia* from a text, *De vera et falsa penitentia*, that circulated
-under such false pretences. Others sought to distance themselves from
-the role of author by locating authority in texts they quoted rather
-than in the original use they made of those quoted texts in their own
-writing.[13] In any event, the modern notion that the ultimate source
-for the authority of a text is is an independent judgement by the reader
-of the validity of the arguments it contains is simply not applicable to
-the twelfth century.
+This dissertation is about whether one, two, or many authors wrote
+the exact words in the text of the *dicta* in the *Decretum*.
 
-The problem of authorship and authority was particularly acute in the
-first half of the twelfth century, because early scholastic readers were
-more alert to the chinks in the armor of traditional authorities than
-their less-sophisticated predecessors had been. Peter Abelard was unique
-in the radicalism of his solution to the problem: in *Sic et non*, he
-subverted and indeed dissolved the entire notion of authority by showing
-that texts written by equally authoritative authors were in actual, not
-just apparent, disagreement.
+Hold paragraph below as conclusion to the Authority section
+
+  -->
 
 Gratian undertook the conservative hermeneutical project of harmonizing
 the apparently discordant canons to the level of sophistication demanded
@@ -243,7 +246,7 @@ claim that they were more than willing to accept.[14] This was almost
 certainly an over-reading of the authority claim actually being made in
 the *Decretum*.[15]
 
-## Gratian
+## Author
 
 Very little is known about the historical Gratian, and almost everything
 that previous generations thought was known about Gratian has proved, on
@@ -974,19 +977,23 @@ lay out the traditional evidence used for solving this puzzle. You are
 lucky that Noonan, Pennington etc. have laid out the evidence and played
 with it for you." – Stan Chodorow
 
-[2] John T. Noonan, “Gratian Slept Here: The Changing Identity of the
+[2] "their authority deriving mainly from the fact that they consisted
+mostly of quotations" Anders Winroth, *The Making of Gratian’s Decretum*
+(Cambridge: Cambridge University Press, 2000), 191.
+
+[3] John T. Noonan, “Gratian Slept Here: The Changing Identity of the
 Father of the Systematic Study of Canon Law,” *Traditio* 35 (January
 1979): 145–72, 154; and Kenneth Pennington, “The Biography of Gratian,
 the Father of Canon Law,” in *A Service Beyond All Recompense*, ed. Kurt
 Martens (Catholic University of America Press, 2018), 359–92, 382-385.
 
-[3] Johann Friedrich Schulte, ed., *Die summa über das Decretum
+[4] Johann Friedrich Schulte, ed., *Die summa über das Decretum
 Gratiani* (Aalen: Scientia Verlag, 1965), 5; and Robert Somerville and
 Bruce Clark Brasington, eds., *Prefaces to Canon Law Books in Latin
 Christianity: Selected Translations, 500-1245* (New Haven, Conn: Yale
 University Press, 1998), 200-201.
 
-[4] R.W. Southern asserts that no one claims to have been Gratian's
+[5] R.W. Southern asserts that no one claims to have been Gratian's
 student---"none of the earliest users of his work claims to have been
 taught by him". "although other scholars made some very early
 alterations and additions to the text of the *Decretum*, none of them
@@ -995,11 +1002,11 @@ Humanism and the Unification of Europe*, vol. 1 (Oxford, UK ; Cambridge,
 Mass., USA: Blackwell, 1995), 287, 304). **Does Southern provide
 footnotes to support these statements?**
 
-[5] Kenneth Pennington,
+[6] Kenneth Pennington,
 [Paucapalea](http://amesfoundation.law.harvard.edu/BioBibCanonists/Report_Biobib2.php?record_id=a366),
 *Bio-Bibliographical Guide to Medieval and Early Modern Jurists.*
 
-[6]  (Johann Friedrich von Schulte, ed., *Die Summa des Paucapalea über
+[7]  (Johann Friedrich von Schulte, ed., *Die Summa des Paucapalea über
 das Decretum Gratiani* (Giessen: E. Roth, 1890), 3) (Somerville and
 Brasington, *Prefaces to Canon Law Books in Latin Christianity*, 184)
 Indeed, based on a search through the OCR text layer of a PDF file
@@ -1007,7 +1014,7 @@ scanned from the Schulte edition and provided to me by Ken Pennington,
 Paucapalea appears not to refer to Gratian by name anywhere in his
 *summa*.
 
-[7] **Going to need a very heavyweight footnote here referencing
+[8] **Going to need a very heavyweight footnote here referencing
 Minnis.** (A. J. Minnis, *Medieval Theory of Authorship: Scholastic
 Literary Attitudes in the Later Middle Ages*, 2nd ed, Middle Ages Series
 (Philadelphia: University of Pennsylvania Press, 1988)) (Richard William
@@ -1017,17 +1024,17 @@ Bursill-Hall, Amsterdam Studies in the Theory and History of Linguistic
 Science. Series 3: Studies in the History of Linguistics v.5 (Amsterdam:
 J. Benjamins, 1980), 117–44)
 
-[8] Kenneth Pennington,
+[9] Kenneth Pennington,
 [Omnibonus](http://amesfoundation.law.harvard.edu/BioBibCanonists/Report_Biobib2.php?record_id=a363),
 *Bio-Bibliographical Guide to Medieval and Early Modern Jurists.*
 
-[9] Kuttner, *Repertorium*, 453. MGH Scriptores (SS) 6 (1844), 490.
+[10] Kuttner, *Repertorium*, 453. MGH Scriptores (SS) 6 (1844), 490.
 *Chronique de Robert de Torigny*, ed. Léopold Delisle, 183-184 (see BSB
 online version). *Chronicles of the reigns of Stephen, Henry II, and
 Richard I*, ed. Richard Howlett (1884). *Chronica Roberti de Torigneio*,
 ed. Richard Howlett, RS 82 4.118.
 
-[10] **There is no print edition of Omnebene's adaptation (confirmed by
+[11] **There is no print edition of Omnebene's adaptation (confirmed by
 Ken Pennington, 17 May 2021). The only online form in which the
 manuscript is available is a low-quality digitization of an old
 microfilm of Paris, Bibliothèque nationale de France, Latin 3886. I was
@@ -1035,7 +1042,7 @@ therefore unable to look for any internal evidence in Omnebene's
 adaptation (e.g., a comment in a preface), indicating that Gratian had
 been his teacher.**
 
-[11] Kenneth Pennington, [Simon of
+[12] Kenneth Pennington, [Simon of
 Bisignano](http://amesfoundation.law.harvard.edu/BioBibCanonists/Report_Biobib2.php?record_id=a497),
 *Bio-Bibliographical Guide to Medieval and Early Modern Jurists.*
 Pennington does not indicate that Simon of Bisignano was a student of
@@ -1048,7 +1055,7 @@ of Medieval Canon Law (Washington, D.C: Catholic University of America
 Press, 2008), 97) **Simon's glosses are dated earlier than his *Summa*
 (cite Hartmann and Pennington).**
 
-[12] Stephan Kuttner, “Research on Gratian: Acta and Agenda,” in
+[13] Stephan Kuttner, “Research on Gratian: Acta and Agenda,” in
 *Studies in the History of Medieval Canon Law*, Collected Studies CS325
 (Aldershot, Hampshire, Great Britain : Brookfield, Vt., USA: Variorum ;
 Gower, 1990), 7. Noonan, “Gratian Slept Here”, 157, rejects this, but
@@ -1066,10 +1073,6 @@ numbers may not coincide with print edition cited: the version of the
 Aimone edition I have access to is a PDF dated Fribourg 2007. BibTex
 records in merged.bib are inconsistent as to whether to use the author's
 or editor's name as the basis for the tag.**
-
-[13] "their authority deriving mainly from the fact that they consisted
-mostly of quotations" Anders Winroth, *The Making of Gratian’s Decretum*
-(Cambridge: Cambridge University Press, 2000), 191.
 
 [14] "In the first recension, Gratian I both collected authoritative
 texts and commented upon them, as did Peter Lombard in his roughly
@@ -1092,7 +1095,7 @@ subjects. The development of glosses, *summae*, *questiones*,
 *distinctiones*, etc., came later, as did the awareness of teachers like
 Bernard of Pavia that their compilations might become standard
 school-texts (and, hence, that comments were best relegated to the
-margins)." Winroth, , 191.
+margins)." Winroth, *The Making of Gratian’s Decretum*, 2000, 191.
 
 [15] At most, there seems to have been a limited claim of authority
 being made by the authors of the first-recension *dicta* (Gratian 1) on

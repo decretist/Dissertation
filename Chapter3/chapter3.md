@@ -34,6 +34,38 @@ or about the authorship of the *Decretum*. The overlapping questions
 of the authority, author, and authorship of the *Decretum* therefore
 have to be considered carefully, and where necessary distinctly.
 
+## Authority
+
+In the middle ages, to presume to take on the role of *auctor* was
+to make a claim (at least implicitly) to *auctoritas*. Medieval
+writers were in general quite reticent about making claims to
+authority on their own behalf, and employed a variety of techniques
+to maintain plausible deniability that they were in fact claiming
+authorship and the authority that went with it. Some repudiated the
+role of author altogether and circulated the texts they wrote
+pseudonymously under the name of a canonical author of unquestioned
+authority. Augustine was the overwhelming favorite, and Gratian
+extensively quoted in his *de Penitentia* from a text, *De vera et
+falsa penitentia*, that circulated under such false pretences.
+Others sought to distance themselves from the role of author by
+locating authority in texts they quoted rather than in the original
+use they made of those quoted texts in their own writing.[^11] In
+any event, the modern notion that the ultimate source for the
+authority of a text is is an independent judgement by the reader
+of the validity of the arguments it contains is simply not applicable
+to the twelfth century.
+
+The problem of authorship and authority was particularly acute in
+the first half of the twelfth century, because early scholastic
+readers were more alert to the chinks in the armor of traditional
+authorities than their less-sophisticated predecessors had been.
+Peter Abelard was unique in the radicalism of his solution to the
+problem: in *Sic et non*, he subverted and indeed dissolved the
+entire notion of authority by showing that texts written by equally
+authoritative authors were in actual, not just apparent, disagreement.
+
+<!-- need transition -->
+
 We have already encountered two twelfth-century statements on the
 authority, author, and authorship of the *Decretum*. The first was
 the gloss inserted in lieu of a title at the beginning of the early
@@ -195,48 +227,18 @@ likely that he described himself as *discipulus* in something like
 the same sense that we might describe contemporary scholars like
 Chodorow, Pennington, and Winroth as "students of Gratian".
 
-## Authority
+<!--
 
 Modern scholars considering the authorship of a text are primarily
-interested in the question of who wrote the exact words it contains
-and whose thought is reflected in the arguments it makes. This
-dissertation is about whether one, two, or many authors wrote the
-exact words in the text of the *dicta* in the *Decretum*. The
-medieval sources we depend on for much of our evidence about who
-wrote the *Decretum* were not uninterested in the question of who
-wrote the exact words in the text, but that question overlapped for
-them in a way that it does not for us with the question of who was
-the source of the text's authority. The question of the authority
-of the *Decretum* therefore has to be considered separately from
-that of authorship.
+interested in the question of whose thought is reflected in the
+arguments it makes.
 
-In the middle ages, to presume to take on the role of *auctor* was
-to make a claim (at least implicitly) to *auctoritas*. Medieval
-writers were in general quite reticent about making claims to
-authority on their own behalf, and employed a variety of techniques
-to maintain plausible deniability that they were in fact claiming
-authorship and the authority that went with it. Some repudiated the
-role of author altogether and circulated the texts they wrote
-pseudonymously under the name of a canonical author of unquestioned
-authority. Augustine was the overwhelming favorite, and Gratian
-extensively quoted in his *de Penitentia* from a text, *De vera et
-falsa penitentia*, that circulated under such false pretences.
-Others sought to distance themselves from the role of author by
-locating authority in texts they quoted rather than in the original
-use they made of those quoted texts in their own writing.[^11] In
-any event, the modern notion that the ultimate source for the
-authority of a text is is an independent judgement by the reader
-of the validity of the arguments it contains is simply not applicable
-to the twelfth century.
+This dissertation is about whether one, two, or many authors wrote
+the exact words in the text of the *dicta* in the *Decretum*.
 
-The problem of authorship and authority was particularly acute in
-the first half of the twelfth century, because early scholastic
-readers were more alert to the chinks in the armor of traditional
-authorities than their less-sophisticated predecessors had been.
-Peter Abelard was unique in the radicalism of his solution to the
-problem: in *Sic et non*, he subverted and indeed dissolved the
-entire notion of authority by showing that texts written by equally
-authoritative authors were in actual, not just apparent, disagreement.
+Hold paragraph below as conclusion to the Authority section
+
+  -->
 
 Gratian undertook the conservative hermeneutical project of harmonizing
 the apparently discordant canons to the level of sophistication
@@ -258,7 +260,7 @@ a claim that they were more than willing to accept.[^12] This was
 almost certainly an over-reading of the authority claim actually
 being made in the *Decretum*.[^13]
 
-## Gratian
+## Author
 
 Very little is known about the historical Gratian, and almost
 everything that previous generations thought was known about Gratian
@@ -797,6 +799,9 @@ to lay out the traditional evidence used for solving this puzzle.
 You are lucky that Noonan, Pennington etc. have laid out the evidence
 and played with it for you." – Stan Chodorow
 
+[^11]: "their authority deriving mainly from the fact that they
+consisted mostly of quotations" @winroth_making_2000, 191.
+
 [^2]: @noonan_gratian_1979, 154; and @pennington_biography_2018, 382-385.
 
 [^tmp1]: @schulte_summa_1965, 5; and @somerville_prefaces_1998, 200-201.
@@ -862,9 +867,6 @@ with print edition cited: the version of the Aimone edition I have
 access to is a PDF dated Fribourg 2007. BibTex records in merged.bib
 are inconsistent as to whether to use the author's or editor's name
 as the basis for the tag.**
-
-[^11]: "their authority deriving mainly from the fact that they
-consisted mostly of quotations" @winroth_making_2000, 191.
 
 [^12]: "In the first recension, Gratian I both collected authoritative
 texts and commented upon them, as did Peter Lombard in his roughly
