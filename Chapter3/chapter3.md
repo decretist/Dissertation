@@ -835,15 +835,14 @@ footnotes to support these statements?**
 [Paucapalea](http://amesfoundation.law.harvard.edu/BioBibCanonists/Report_Biobib2.php?record_id=a366),
 *Bio-Bibliographical Guide to Medieval and Early Modern Jurists.*
 
-[^7]: [@paucapalea_summa_1890, 3] [@somerville_prefaces_1998, 184]
+[^7]: @paucapalea_summa_1890, 3; and @somerville_prefaces_1998, 184.
 Indeed, based on a search through the OCR text layer of a PDF file
 scanned from the Schulte edition and provided to me by Ken Pennington,
 Paucapalea appears not to refer to Gratian by name anywhere in his
-*summa*.
-
-    "*Sicut uetus testamentum* makes no reference to a named person
-    in its Prologue when it discusses the purpose and method of the
-    author of the Concordia*." @noonan_gratian_1979, 165.
+*summa*. Furthermore, "*Sicut uetus testamentum* makes no reference
+to a named person in its Prologue when it discusses the purpose and
+method of the author of the *Concordia*." @noonan_gratian_1979,
+165.
 
 [^8]: See @minnis_medieval_1988; and @hunt_introductions_1980.
 

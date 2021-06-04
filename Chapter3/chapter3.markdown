@@ -1022,17 +1022,15 @@ footnotes to support these statements?**
 [Paucapalea](http://amesfoundation.law.harvard.edu/BioBibCanonists/Report_Biobib2.php?record_id=a366),
 *Bio-Bibliographical Guide to Medieval and Early Modern Jurists.*
 
-[7]  (Johann Friedrich von Schulte, ed., *Die Summa des Paucapalea über
-das Decretum Gratiani* (Giessen: E. Roth, 1890), 3) (Somerville and
-Brasington, *Prefaces to Canon Law Books in Latin Christianity*, 184)
+[7] Johann Friedrich von Schulte, ed., *Die Summa des Paucapalea über
+das Decretum Gratiani* (Giessen: E. Roth, 1890), 3; and Somerville and
+Brasington, *Prefaces to Canon Law Books in Latin Christianity*, 184.
 Indeed, based on a search through the OCR text layer of a PDF file
 scanned from the Schulte edition and provided to me by Ken Pennington,
 Paucapalea appears not to refer to Gratian by name anywhere in his
-*summa*.
-
-"*Sicut uetus testamentum* makes no reference to a named person in its
-Prologue when it discusses the purpose and method of the author of the
-Concordia\*." Noonan, “Gratian Slept Here”, 165.
+*summa*. Furthermore, "*Sicut uetus testamentum* makes no reference to a
+named person in its Prologue when it discusses the purpose and method of
+the author of the *Concordia*." Noonan, “Gratian Slept Here”, 165.
 
 [8] See A. J. Minnis, *Medieval Theory of Authorship: Scholastic
 Literary Attitudes in the Later Middle Ages*, 2nd ed, Middle Ages Series
