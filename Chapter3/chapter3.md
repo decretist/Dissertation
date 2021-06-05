@@ -191,9 +191,15 @@ of Gratian or his plan of work.
 ### Omnibonus or Omnebene
 
 Omnibonus or Omnebene (d.1185) composed an adaptation or transformation
-of the *Decretum* in the 1150s.[^9] The basis for the claim that
-Omnebene was a student of Gratian is an entry for the year 1130 in
-the chronicle of Norman monk Robert of Torigni (†1186)
+of the *Decretum* in the 1150s.[^9] The dates do not preclude
+Omnebene's having been a student of Gratian. Although Omnebene lived
+into the 1180s, the adaptation itself seems to date from around
+1156, perhaps a decade and a half after the end of whatever teaching
+career Gratian may have had, and at precisely the moment that
+continent-wide interest in the text was increasing most rapidly.[^10]
+The basis for the claim that Omnebene was a student of Gratian is
+an entry for the year 1130 in the chronicle of Norman monk Robert
+of Torigni (†1186)
 
 > *Gratianus episcopus Clusinus coadunavit decreta valde utilia ex
 decretis, canonibus, doctoribus, legibus Romanis, sufficientia ad
@@ -204,7 +210,7 @@ magister Omnebonum episcopus Veronensis, qui fuerat eius discipulus.*
 of decrees, canons, doctors, Roman laws, sufficient for deciding
 all ecclesiastical cases, which are resorted to at the Roman curia
 and in other ecclesiastical courts. Master Omnebonum bishop of
-Verona, who had been his student, afterwards abbreviated them.)[^10]
+Verona, who had been his student, afterwards abbreviated them.)[^11]
 
 Although the evidence of Robert's chronicle is by Noonan's standard
 hearsay, Robert's reputation as a well-informed source concerning
@@ -218,13 +224,6 @@ as hearsay: "We are left to speculate as to how sound his story
 was." @noonan_gratian_1979, 153-154.
 
   -->
-
-The dates do not preclude Omnebene's having been a student of
-Gratian. Although Omnebene lived into the 1180s, the adaptation
-itself seems to date from around 1156, perhaps a decade and a half
-after the end of whatever teaching career Gratian may have had, and
-at precisely the moment that continent-wide interest in the text
-was increasing most rapidly.[^11]
 
 ### Simon of Bisignano
 
@@ -871,19 +870,19 @@ method of the author of the *Concordia*." @noonan_gratian_1979,
 [Omnibonus](http://amesfoundation.law.harvard.edu/BioBibCanonists/Report_Biobib2.php?record_id=a363),
 *Bio-Bibliographical Guide to Medieval and Early Modern Jurists.*
 
-[^10]: Kuttner, *Repertorium*, 453. MGH Scriptores (SS) 6 (1844), 490.
-*Chronique de Robert de Torigny*, ed. Léopold Delisle, 183-184 (see
-BSB online version). *Chronicles of the reigns of Stephen, Henry
-II, and Richard I*, ed. Richard Howlett (1884). *Chronica Roberti
-de Torigneio*, ed. Richard Howlett, RS 82 4.118.
-
-[^11]: **There is no print edition of Omnebene's adaptation
+[^10]: **There is no print edition of Omnebene's adaptation
 (confirmed by Ken Pennington, 17 May 2021). The only online form
 in which the manuscript is available is a low-quality digitization
 of an old microfilm of Paris, Bibliothèque nationale de France,
 Latin 3886. I was therefore unable to look for any internal evidence
 in Omnebene's adaptation (e.g., a comment in a preface), indicating
 that Gratian had been his teacher.**
+
+[^11]: Kuttner, *Repertorium*, 453. MGH Scriptores (SS) 6 (1844), 490.
+*Chronique de Robert de Torigny*, ed. Léopold Delisle, 183-184 (see
+BSB online version). *Chronicles of the reigns of Stephen, Henry
+II, and Richard I*, ed. Richard Howlett (1884). *Chronica Roberti
+de Torigneio*, ed. Richard Howlett, RS 82 4.118.
 
 [^12]: Kenneth Pennington, [Simon of
 Bisignano](http://amesfoundation.law.harvard.edu/BioBibCanonists/Report_Biobib2.php?record_id=a497),
