@@ -48,8 +48,6 @@ notion that the ultimate source for the authority of a text is is an
 independent judgement by the reader of the validity of the arguments it
 contains is simply not applicable to the twelfth century.
 
-<!-- need transition -->
-
 We have already encountered two twelfth-century statements on the
 authority, author, and authorship of the *Decretum*. The first was the
 gloss inserted in lieu of a title at the beginning of the early Ghent
@@ -115,6 +113,21 @@ composed,[5] although three twelfth-century canonist have, with varying
 degrees of plausibility, been identified as having been students of
 Gratian: Paucapalea (fl. 1140s), Simon of Bisignano (fl. 1174--1179),
 and Omnebene (d. 1185).
+
+<!--
+
+What we'd really like to have is evidence from one or more of his
+students about the biography of Gratian and about the authorship
+of the *Decretum*. The *Decretum* was a teaching text, and Gratian's
+students had a front-row seat to its development. Unfortunately,
+"the usual suspects" are all silent, strongly suggesting we have
+the wrong "usual suspects," i.e. they (Paucapalea, Omnebene, and
+Simon, etc.) were not actually Gratian's students. We don't appear
+to have anything from Gratian's actual students. If we want the
+*ipsissima verba* of Gratian's actual students, we probably have
+to look between the covers of the *Decretum* to find them.
+
+  -->
 
 ### Paucapalea
 
@@ -183,6 +196,14 @@ Although the evidence of Robert's chronicle is by Noonan's standard
 hearsay, Robert's reputation as a well-informed source concerning
 Gratian has improved in recent years since the Siena necrology has made
 the identification of Gratian as bishop of Chiusi more probable.
+
+<!--
+
+Include footnote indicating Noonan dimisses Robert's chronicle entry
+as hearsay: "We are left to speculate as to how sound his story
+was." @noonan_gratian_1979, 153-154.
+
+  -->
 
 The dates do not preclude Omnebene's having been a student of Gratian.
 Although Omnebene lived into the 1180s, the adaptation itself seems to
