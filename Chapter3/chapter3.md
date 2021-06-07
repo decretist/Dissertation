@@ -232,14 +232,37 @@ all ecclesiastical cases, which are resorted to at the Roman curia
 and in other ecclesiastical courts. Master Omnebonum bishop of
 Verona, who had been his student, afterwards abbreviated them.)[^11]
 
-Although the evidence of Robert's chronicle is by Noonan's standard
-hearsay, Robert's reputation as a well-informed source concerning
-Gratian has improved in recent years since the Siena necrology has
-made the identification of Gratian as bishop of Chiusi more probable.
+Robert's brief chronicle entry contains five distinct factual
+assertions: i) that Gratian was bishop of Chiusi, ii) that he
+"brought together the decrees" (*coadunavit decreta*)[^tmp1] in the
+form of the *Decretum*, iii) that he did so around 1130, iv) that
+Omnebene was bishop of Verona, and v) that he abbreviated the
+*Decretum*. Three of these factual assertions are uncontroversial:
+that Gratian "brought together" the *Decretum*, that Omnebene
+abbreviated it, and that Omnebene was bishop of Verona.
+
+[^tmp1]: It is worth noting that by characterizing Gratian's activity
+as one of "bringing together" the decrees, Robert is making a fairly
+weak claim on behalf Gratian's authorship of the *Decretum*.
+
+Those scholars who interpret the discovery of the first-recension
+manuscripts as evidence that Gratian's work on the *Decretum*
+extended over a decade or more---Pennington and Larson, but not
+Winroth---have come to see Robert's 1130 date as more plausible
+than it had previously been thought to be. Other scholars who accept
+a twelfth-century reference to a "Gratian of Chiusi, bishop" in a
+Siena necrology as referring to the Gratian associated with the
+*Decretum*---Winroth, but not Pennington---have come to see Robert's
+claim that Gratian was the bishop of Chiusi as more plausible than
+it had previously been thought to be. The result is that Robert's
+overall reputation as a well-informed source concerning Gratian has
+improved in this century without there necessarily being much
+agreement as which of his claims ought to be considered more credible
+in light of newly available evidence.
 
 <!--
 
-Include footnote indicating Noonan dimisses Robert's chronicle entry
+Include footnote indicating Noonan dismisses Robert's chronicle entry
 as hearsay: "We are left to speculate as to how sound his story
 was." @noonan_gratian_1979, 153-154.
 
@@ -909,11 +932,17 @@ Latin 3886. I was therefore unable to look for any internal evidence
 in Omnebene's adaptation (e.g., a comment in a preface), indicating
 that Gratian had been his teacher.**
 
-[^11]: Kuttner, *Repertorium*, 453. MGH Scriptores (SS) 6 (1844), 490.
-*Chronique de Robert de Torigny*, ed. Léopold Delisle, 183-184 (see
-BSB online version). *Chronicles of the reigns of Stephen, Henry
-II, and Richard I*, ed. Richard Howlett (1884). *Chronica Roberti
-de Torigneio*, ed. Richard Howlett, RS 82 4.118.
+[^11]: @kuttner_repertorium_1937, 453. [MGH Scriptores SS 6,
+490](https://www.dmgh.de/mgh_ss_6/index.htm#page/490/mode/1up).
+
+<!--
+
+*Chronique de Robert de Torigny*, ed. Léopold Delisle, 183-184.
+*Chronicles of the reigns of Stephen, Henry II, and Richard I*,
+ed. Richard Howlett (1884).
+*Chronica Roberti de Torigneio*, ed. Richard Howlett, RS 82 4.118.
+
+  -->
 
 [^12]: Kenneth Pennington, [Simon of
 Bisignano](http://amesfoundation.law.harvard.edu/BioBibCanonists/Report_Biobib2.php?record_id=a497),
