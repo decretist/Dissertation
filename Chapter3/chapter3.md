@@ -222,12 +222,13 @@ all ecclesiastical cases, which are resorted to at the Roman curia
 and in other ecclesiastical courts. Master Omnebonum bishop of
 Verona, who had been his student, afterwards abbreviated them.)[^11]
 
-Robert's brief chronicle entry contains five distinct factual
+Robert's brief chronicle entry contains six distinct factual
 assertions: i) that Gratian was bishop of Chiusi, ii) that he
-"brought together the decrees" (*coadunavit decreta*)[^tmp1] in the
-form of the *Decretum*, iii) that he did so around 1130, iv) that
-Omnebene was bishop of Verona, and v) that he abbreviated the
-*Decretum*. Three of these factual assertions are uncontroversial:
+"brought together the decrees" (*coadunavit decreta*) in a form
+useful to, and widely used by, ecclesiastical courts, iii) that he
+did so around 1130, iv) that Omnebene was bishop of Verona, v) that
+he abbreviated the *Decretum*, and vi) that he had been Gratian's
+student.[^tmp1] Three of these factual assertions are uncontroversial:
 that Gratian "brought together" the *Decretum*, that Omnebene
 abbreviated it, and that Omnebene was bishop of Verona.
 
@@ -235,24 +236,33 @@ Those scholars who interpret the discovery of the first-recension
 manuscripts as evidence that Gratian's work on the *Decretum*
 extended over a decade or more---Pennington and Larson, but not
 Winroth---have come to see Robert's 1130 date as more plausible
-than it had previously been thought to be. Other scholars who accept
-a twelfth-century reference to a "Gratian of Chiusi, bishop" in a
-Siena necrology as referring to the Gratian associated with the
-*Decretum*---Winroth, but not Pennington---have come to see Robert's
-claim that Gratian was the bishop of Chiusi as more plausible than
-it had previously been thought to be. The result is that Robert's
-overall reputation as a well-informed source concerning Gratian has
-improved in this century without there necessarily being much
-agreement as which of his claims ought to be considered more credible
-in light of newly available evidence.
+than it had previously been thought to be.[@larson_early_2007, 54-55]
+Other scholars who accept a twelfth-century reference to a "Gratian
+of Chiusi, bishop" in a Siena necrology as referring to the Gratian
+associated with the *Decretum*---Winroth, but not Pennington---have
+come to see Robert's claim that Gratian was the bishop of Chiusi
+as more plausible than it had previously been thought to be. The
+result is that Robert's overall reputation as a well-informed source
+concerning Gratian has improved in this century without there
+necessarily being much agreement as to whether the claim that Gratian
+was working on the *Decretum* around 1130 or that he was bishop of
+Chiusi ought to be considered more credible in light of newly
+available evidence.
 
-<!--
-
-Include footnote indicating Noonan dismisses Robert's chronicle entry
-as hearsay: "We are left to speculate as to how sound his story
-was." @noonan_gratian_1979, 153-154.
-
-  -->
+The best place to look for first-hand evidence from Omnebene about
+Gratian and whether he had been Gratian's student, as well as the
+circumstances under which the *Decretum* was composed, would be in
+a preface to his abbreviation. Unfortunately, there is no printed
+edition of the abbreviation, and the only form in which a manuscript
+of the abbreviation was available was a low-resolution digitization
+of an old microfilm of Paris, Bibliothèque nationale de France,
+Latin 3886. It does not appear to have a preface of any kind, but
+launches immediately into the abbreviation starting with "*Humanum
+genus duobus regitur*." In the apparent absence then of any first-hand
+evidence from Omnebene himself, we have only Robert's word that
+Omnebene was Gratian's student, and so, like Noonan, "[w]e are left
+to speculate as to how sound his story was."[@noonan_gratian_1979,
+153-154]
 
 ### Simon of Bisignano
 
@@ -942,7 +952,10 @@ ed. Richard Howlett (1884).
 
 [^tmp1]: It is worth noting that by characterizing Gratian's activity
 as one of "bringing together" the decrees, Robert is making a fairly
-weak claim on behalf Gratian's authorship of the *Decretum*.
+weak claim on behalf Gratian's authorship of the *Decretum*. It is
+also worth noting that Robert's description of the usefulness of
+the *Decretum* says nothing whatever about its use as a teaching
+text.
 
 [^12]: Kenneth Pennington, [Simon of
 Bisignano](http://amesfoundation.law.harvard.edu/BioBibCanonists/Report_Biobib2.php?record_id=a497),
@@ -1074,8 +1087,8 @@ to Paul Evans, 18 May 2021).
 
 [^31]: Cite Winroth's dissertation, 345, where he appears
 open to the possibility that D.63 d.p.c.34 is an interpolation,
-without commiting to it. Winroth ultimately accepted the argument
-of Rudolf Wiegand (†1998) that the interpolation hypothesis is a
+without committing to it. Winroth ultimately accepted the argument
+of Rudolf Weigand (†1998) that the interpolation hypothesis is a
 slippery slope---once you start rejecting problematic passages
 because they are inconvenient (chronologically or otherwise), there
 is no obvious place to stop.
