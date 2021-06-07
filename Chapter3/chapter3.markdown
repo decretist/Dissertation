@@ -590,6 +590,16 @@ the defunct had been a bishop from or of Chiusi.
 
 <!--
 
+In his assumption that Gratian must have been well-known, even
+famous, in his own lifetime, Pennington disagrees with Kuttner, who
+sees Gratian as a figure of shrouded in profound personal obscurity:
+"He is one of those deeply admirable men of pious modesty, like the
+builders of the medieval cathedrals, whose person is hidden and
+effaced completely behind their immortal works."[@kuttner_father_1941, 4].
+
+  -->
+<!--
+
 Pennington claims to be arguing that there was one Gratian, but is
 in fact arguing that Gratian composed the *Decretum* incrementally
 over the course of a teaching career spanning several decades, which

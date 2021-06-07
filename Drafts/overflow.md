@@ -12,6 +12,33 @@ questions of the authorship and authority of the *Decretum* as a
 whole and of the *dicta* have to be considered distinctly although
 not separately from one another.
 
+---
+
+### Gratian's teaching career
+
+Evidence concerning Gratian's career as a teacher of canon law is
+contradictory.  We might be better able to assess Gratian's teaching
+career and how it influenced the compilation and transmission of
+the *Decretum* were we in a position to positively identify at least
+a few of his students. Here again, however, the evidence is mixed
+at best.
+
+---
+
+### Epilogue
+
+By the beginning of the thirteenth century, the systematic study
+of canon law had evolved in a direction of which its father Gratian
+would probably not have approved, and which he may even have had
+difficulty recognizing as the same practical or applied branch of
+theology his own work presupposed it to be. After around 1190, the
+attention of both academic and practicing canonists decisively
+turned away from theological jurisprudence in the tradition of
+Gratian, based on a rich collection of scriptural, patristic,
+conciliar, and papal source texts, and towards a much more narrowly
+circumscribed technical jurisprudence focused exclusively on
+contemporary papal decretals.
+
 ## Chapter 4
 The two-dimensional visualization above proceeded from the traditional
 assumption that Gratian's *dicta*---defined as the hypothetical

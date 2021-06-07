@@ -11,7 +11,6 @@
 - [Chapter 2: The *Decretum*](Chapter2/chapter2.markdown) (1 June 2021) 49 pages\
 Chapter 2 is now out for review! [(PDF)](Chapter2/chapter2.pdf)
 - [Chapter 3: Authority, Author, Authorship](Chapter3/chapter3.markdown) (6 June 2021) 45 pages
-  - [Decretists](Chapter3/decretists.markdown) 2 pages
 - [Chapter 4: Stylometry](Chapter4/chapter4.markdown) (28 July 2020) 80 pages
   - [Principal component analysis](Chapter4/pca.markdown) (25 March 2021) 26 pages
 - [Conclusion](Conclusion/conclusion.markdown) (very rought draft) 15 pages
