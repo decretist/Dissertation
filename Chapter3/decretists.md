@@ -9,22 +9,10 @@ subtitle: Decretists
 ### Gratian's teaching career
 
 Evidence concerning Gratian's career as a teacher of canon law is
-contradictory. On the one hand, the early manuscript tradition for
-the *Decretum* displays enough variation, even among the first-recension
-manuscripts Aa, Bc, Fd, and P, to suggest that the text developed
-continuously over the span of, and in parallel with, a relatively
-long teaching career---perhaps a decade or more. On the other hand,
-Gratian's personal obscurity is so profound---Stephan Kuttner
-compared Gratian to the anonymous builders of Gothic cathedrals[^d25]---as
-to suggest a short, or even no, teaching career.[^d26]
-
-Considering the fact that Gratian was universally credited as the
-author of the foundational textbook for the study of canon law in
-the classical period, one of the truly stellar intellectual
-achievements of the renaissance of the twelfth century, his complete
-absence from the kinds of academic genealogies and origin stories
-that Odofredus (†1265) handed down to his own Roman law students
-is striking indeed.[^d27]
+contradictory. Gratian's personal obscurity is so profound---Stephan
+Kuttner compared Gratian to the anonymous builders of Gothic
+cathedrals[^d25]---as to suggest a short, or even no, teaching
+career.[^d26]
 
 We might be better able to assess Gratian's teaching career and how
 it influenced the compilation and transmission of the *Decretum*
@@ -53,17 +41,8 @@ and effaced completely behind their immortal works." [@kuttner_father_1941,
 [^d26]: **Winroth argues for a short teaching career, Southern
 argues for no teaching career.**
 
-[^d27]: **Expand:** The tradition of Roman law teaching in Bologna
-preserved an elaborate genealogy of masters and their students:
-Pepo preceded Wernerius [Irnerius], who taught the Four Doctors.
-Odofredus is an important source for this tradition, and his remarks
-about Irnerius can be found in his commentary on *Dig.* 1.1.6.
-Odofredus, *Lectura super Digesto veteri*, (2 volumes, Lyon:
-1550-1552; repr. Bologna 1967-1968). For a short excerpt from the
-Latin text with accompanying English translation, see
-[@radding_origins_1988, 159-160] **See also Pennington "Big Bang".**
-Note that Odofredus is also the source for associating Gratian with
-the monastery of Saints Felix and Nabor. [@noonan_gratian_1979,
+[^d27]: Note that Odofredus is the source for associating Gratian
+with the monastery of Saints Felix and Nabor. [@noonan_gratian_1979,
 148].
 
 <!--

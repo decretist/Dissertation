@@ -1,21 +1,9 @@
 ### Gratian's teaching career
 
 Evidence concerning Gratian's career as a teacher of canon law is
-contradictory. On the one hand, the early manuscript tradition for the
-*Decretum* displays enough variation, even among the first-recension
-manuscripts Aa, Bc, Fd, and P, to suggest that the text developed
-continuously over the span of, and in parallel with, a relatively long
-teaching career---perhaps a decade or more. On the other hand, Gratian's
-personal obscurity is so profound---Stephan Kuttner compared Gratian to
-the anonymous builders of Gothic cathedrals[1]---as to suggest a short,
-or even no, teaching career.[2]
-
-Considering the fact that Gratian was universally credited as the author
-of the foundational textbook for the study of canon law in the classical
-period, one of the truly stellar intellectual achievements of the
-renaissance of the twelfth century, his complete absence from the kinds
-of academic genealogies and origin stories that Odofredus (†1265) handed
-down to his own Roman law students is striking indeed.[3]
+contradictory. Gratian's personal obscurity is so profound---Stephan
+Kuttner compared Gratian to the anonymous builders of Gothic
+cathedrals[1]---as to suggest a short, or even no, teaching career.[2]
 
 We might be better able to assess Gratian's teaching career and how it
 influenced the compilation and transmission of the *Decretum* were we in
@@ -86,21 +74,6 @@ Kuttner, Stephan. “The Father of the Science of Canon Law.” *Jurist* 1
 
 </div>
 
-<div id="ref-noonan_gratian_1979" class="csl-entry">
-
-Noonan, John T. “Gratian Slept Here: The Changing Identity of the Father
-of the Systematic Study of Canon Law.” *Traditio* 35 (January 1979):
-145–72.
-
-</div>
-
-<div id="ref-radding_origins_1988" class="csl-entry">
-
-Radding, Charles. *The Origins of Medieval Jurisprudence: Pavia and
-Bologna, 850- 1150*. New Haven: Yale University Press, 1988.
-
-</div>
-
 </div>
 
 [1] "He is one of those deeply admirable men of pious modesty, like the
@@ -110,21 +83,6 @@ of the Science of Canon Law,” *Jurist* 1 (1941): 4).
 
 [2] **Winroth argues for a short teaching career, Southern argues for no
 teaching career.**
-
-[3] **Expand:** The tradition of Roman law teaching in Bologna preserved
-an elaborate genealogy of masters and their students: Pepo preceded
-Wernerius \[Irnerius\], who taught the Four Doctors. Odofredus is an
-important source for this tradition, and his remarks about Irnerius can
-be found in his commentary on *Dig.* 1.1.6. Odofredus, *Lectura super
-Digesto veteri*, (2 volumes, Lyon: 1550-1552; repr. Bologna 1967-1968).
-For a short excerpt from the Latin text with accompanying English
-translation, see (Charles Radding, *The Origins of Medieval
-Jurisprudence: Pavia and Bologna, 850- 1150* (New Haven: Yale University
-Press, 1988), 159–60) **See also Pennington "Big Bang".** Note that
-Odofredus is also the source for associating Gratian with the monastery
-of Saints Felix and Nabor. (John T. Noonan, “Gratian Slept Here: The
-Changing Identity of the Father of the Systematic Study of Canon Law,”
-*Traditio* 35 (January 1979): 148).
 
 <div align="center">
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.

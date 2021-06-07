@@ -116,16 +116,36 @@ Most medieval and modern readers of the *Decretum* have seen it as
 a teaching text, both in the sense that its intended use (or at
 least one of its intended uses) was as an introductory textbook,
 and also in the sense that it reflected the author's experiences
-as a classroom teacher. Gratian's students would appear therefore
-to have been the potential witnesses with the best visibility into
-the authorship of the text of the *Decretum*. Unfortunately no
+as a classroom teacher. The early manuscript tradition for the
+*Decretum* displays enough variation, even among the first-recension
+Admont (Aa), Barcelona (Bc), Florence (Fd), and Paris (P) manuscripts,
+to suggest that the text developed continuously over the span of,
+and in parallel with, a relatively long teaching career---perhaps
+a decade or more. Gratian's students would therefore appear to have
+been the potential witnesses with the best visibility into the
+authorship of the text of the *Decretum* over the course of the
+1130s and possibly as early as the 1120s. Unfortunately no
 near-contemporary makes an unambiguous claim to have been Gratian's
 student or to have otherwise had first-hand knowledge of the
-circumstances under which the *Decretum* was composed,[^5]
-although three twelfth-century canonist have, with varying degrees
-of plausibility, been identified as having been students of Gratian:
-Paucapalea (fl. 1140s), Simon of Bisignano (fl. 1174--1179), and
-Omnebene (d. 1185).
+circumstances under which the *Decretum* was composed.[^5] Considering
+the fact that Gratian was universally credited as the author of the
+foundational textbook for the study of canon law in the classical
+period, his complete absence from the kinds of academic genealogies
+and origin stories that Odofredus (†1265) handed down to his own
+Roman law students is striking indeed.[^d] Three twelfth-century
+canonist have, however, with varying degrees of plausibility, been
+identified as having been students of Gratian: Paucapalea (fl.
+1140s), Simon of Bisignano (fl. 1174--1179), and Omnebene (d. 1185).
+
+[^d]: The tradition of Roman law teaching in Bologna preserved
+an elaborate genealogy of masters and their students: Pepo preceded
+Wernerius [Irnerius], who taught the Four Doctors. Odofredus is
+an important source for this tradition, and his remarks about
+Irnerius can be found in his commentary on *Dig.* 1.1.6. Odofredus,
+*Lectura super Digesto veteri*, (2 volumes, Lyon: 1550-1552; repr.
+Bologna 1967-1968). For a short excerpt from the Latin text with
+accompanying English translation, see [@radding_origins_1988,
+159-160] **See also Pennington "Big Bang".**
 
 <!--
 
