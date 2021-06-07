@@ -137,16 +137,6 @@ canonist have, however, with varying degrees of plausibility, been
 identified as having been students of Gratian: Paucapalea (fl.
 1140s), Simon of Bisignano (fl. 1174--1179), and Omnebene (d. 1185).
 
-[^d]: The tradition of Roman law teaching in Bologna preserved
-an elaborate genealogy of masters and their students: Pepo preceded
-Wernerius [Irnerius], who taught the Four Doctors. Odofredus is
-an important source for this tradition, and his remarks about
-Irnerius can be found in his commentary on *Dig.* 1.1.6. Odofredus,
-*Lectura super Digesto veteri*, (2 volumes, Lyon: 1550-1552; repr.
-Bologna 1967-1968). For a short excerpt from the Latin text with
-accompanying English translation, see [@radding_origins_1988,
-159-160] **See also Pennington "Big Bang".**
-
 <!--
 
 What we'd really like to have is evidence from one or more of his
@@ -240,10 +230,6 @@ Omnebene was bishop of Verona, and v) that he abbreviated the
 *Decretum*. Three of these factual assertions are uncontroversial:
 that Gratian "brought together" the *Decretum*, that Omnebene
 abbreviated it, and that Omnebene was bishop of Verona.
-
-[^tmp1]: It is worth noting that by characterizing Gratian's activity
-as one of "bringing together" the decrees, Robert is making a fairly
-weak claim on behalf Gratian's authorship of the *Decretum*.
 
 Those scholars who interpret the discovery of the first-recension
 manuscripts as evidence that Gratian's work on the *Decretum*
@@ -905,6 +891,16 @@ none of them claimed to have been taught by him."
 [@southern_scholastic_1995, 287, 304]. **Does Southern provide
 footnotes to support these statements?**
 
+[^d]: The tradition of Roman law teaching in Bologna preserved
+an elaborate genealogy of masters and their students: Pepo preceded
+Wernerius [Irnerius], who taught the Four Doctors. Odofredus is
+an important source for this tradition, and his remarks about
+Irnerius can be found in his commentary on *Dig.* 1.1.6. Odofredus,
+*Lectura super Digesto veteri*, (2 volumes, Lyon: 1550-1552; repr.
+Bologna 1967-1968). For a short excerpt from the Latin text with
+accompanying English translation, see [@radding_origins_1988,
+159-160] **See also Pennington "Big Bang".**
+
 [^6]: Kenneth Pennington,
 [Paucapalea](http://amesfoundation.law.harvard.edu/BioBibCanonists/Report_Biobib2.php?record_id=a366),
 *Bio-Bibliographical Guide to Medieval and Early Modern Jurists.*
@@ -943,6 +939,10 @@ ed. Richard Howlett (1884).
 *Chronica Roberti de Torigneio*, ed. Richard Howlett, RS 82 4.118.
 
   -->
+
+[^tmp1]: It is worth noting that by characterizing Gratian's activity
+as one of "bringing together" the decrees, Robert is making a fairly
+weak claim on behalf Gratian's authorship of the *Decretum*.
 
 [^12]: Kenneth Pennington, [Simon of
 Bisignano](http://amesfoundation.law.harvard.edu/BioBibCanonists/Report_Biobib2.php?record_id=a497),
