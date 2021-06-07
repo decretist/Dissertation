@@ -6,8 +6,8 @@
 
 ### Chapters
 
-- [Chapter 0: Introduction](Chapter0/chapter0.markdown) (13 April 2021) 25 pages
-- [Chapter 1: Background](Chapter1/chapter1.markdown) (13 April 2021) 30 pages
+- [Chapter 0: Introduction](Chapter0/chapter0.markdown) (13 April 2021) 25 pages [(PDF)](Chapter0/chapter0.pdf)
+- [Chapter 1: Background](Chapter1/chapter1.markdown) (13 April 2021) 30 pages [(PDF)](Chapter1/chapter1.pdf)
 - [Chapter 2: The *Decretum*](Chapter2/chapter2.markdown) (1 June 2021) 49 pages\
 Chapter 2 is now out for review! [(PDF)](Chapter2/chapter2.pdf)
 - [Chapter 3: Authority, Author, Authorship](Chapter3/chapter3.markdown) (6 June 2021) 45 pages
