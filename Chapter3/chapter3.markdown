@@ -252,17 +252,26 @@ story was."[15]
 Simon of Bisignano (fl. 1174--1179) was the author of a *Summa
 decretorum* dated c.1177-79, and a number of glosses on the *Decretum*
 are attributed to him.[16] The evidence that Simon of Bisignano was a
-student of Gratian's comes from references within his writings.[17]
-Simon refers to himself as *discipulus* and to Gratian as *magister* in
-at least two places in his *Summa* (**Landau says "frequently"**). There
-is, however a hiatus of almost four decades between the latest plausible
-date for the end of Gratian's teaching career, and the documentary
-evidence we have for Simon's professional career as a canonist. Although
-it is not chronologically impossible for Simon to have been Gratian's
-student, it seems more likely that he described himself as *discipulus*
-in something like the same sense that we might describe contemporary
-scholars like Chodorow, Pennington, and Winroth as "students of
-Gratian".
+student of Gratian comes from at least two internal references in his
+*Summa*:[17] Simon refers to Gratian as *magister* and to himself as
+*discipulus* in his comments on C.27 q.2,[18] and again refers to
+Gratian as *magister* in his comments on D.4 c.31 of *de Consecratione*:
+"*Quod quamuis Magister noster docuerit, nos tamen in hoc nolumus eum
+imitari.* Although our master taught that, we nevertheless do not wish
+to imitate him in this."[19] (trans. PLE)
+
+There is however a hiatus of almost four decades between the latest
+plausible date for the end of Gratian's teaching career and the
+documentary evidence we have for Simon's professional career as a
+canonist. Although it is not quite chronologically impossible for Simon
+to have been Gratian's student, it seems far more likely that he
+described himself as *discipulus* in something like the same sense that
+we might describe contemporary scholars like Chodorow, Pennington, and
+Winroth as "students of Gratian". Yet again, we appear to dealing with
+statements that on the surface appear to be about the biography of
+Gratian---a claim by Simon that he had been Gratian's student---but that
+should more plausibly be read as an acknowledgement of Gratian's
+authority as the founder of an intellectual tradition.
 
 <!--
 
@@ -303,15 +312,15 @@ adopted in the 1130s or 1140s for no particular reason other than that
 the conventions for the various genres of the literature of canon law
 had not yet been firmly established, readers in the 1150s and 1160s seem
 to have understood it, at least implicitly, as a claim to authority, a
-claim that they were more than willing to accept.[18] This was almost
+claim that they were more than willing to accept.[20] This was almost
 certainly an over-reading of the authority claim actually being made in
-the *Decretum*.[19]
+the *Decretum*.[21]
 
 ## Author
 
 Very little is known about the historical Gratian, and almost everything
 that previous generations thought was known about Gratian has proved, on
-closer examination, to be myth.[20] On the evidence found in the
+closer examination, to be myth.[22] On the evidence found in the
 *Decretum*, Gratian seems to have been less interested in contemporary
 ecclesiastical or secular politics in general, and in the Investiture
 Controversy (1076-1122) in particular, than some modern scholars think
@@ -322,7 +331,7 @@ well-informed about, the revival of the study of Roman law in the early
 twelfth century than we think he ought to have been. On the other hand,
 he seems to have been more well-informed about, and more interested in,
 the emergence of scholastic theology in northern France than we can
-easily explain.[21]
+easily explain.[23]
 
 ### Noonan
 
@@ -332,7 +341,7 @@ changing identity of the father of the systematic study of canon law".
 Noonan's approach is apophatic, demonstrating that there is no sound
 historical basis for most of the affirmative statements that many
 mid-twentieth century handbooks and reference works presented as
-commonplace.[22] It is unnecessary to exhaustively catalog all of the
+commonplace.[24] It is unnecessary to exhaustively catalog all of the
 many Gratian myths that Noonan debunked. A single example, his
 examination of the history of the claim that Gratian was a Camaldolese
 monk at the monastery of Saints Felix and Nabor in Bologna---one of the
@@ -341,7 +350,7 @@ sufficient to illustrate the nature of Noonan's method and conclusions.
 
 Odofredus (†1265), a professor of law at Bologna, claimed that Gratian
 "was staying" (*stabat*) at the monastery of Saints Felix and Nabor
-while working as a rubricator.[23] Odofredus did not indicate the basis
+while working as a rubricator.[25] Odofredus did not indicate the basis
 for his statement that Gratian had been resident at Saints Felix and
 Nabor, nor did he say that Gratian had been a monk. In 1758, Camaldolese
 scholars Mittarelli and Costadono discovered papal privileges conferred
@@ -351,7 +360,7 @@ himself---had been Camaldolese during the intervening years. The claim
 that Gratian had a connection to the Camaldolese order attracted
 criticism in the eighteenth century, and fell out of favor in the
 nineteenth century, before being put back into circulation in the
-mid-twentieth century by Van Hove.[24]
+mid-twentieth century by Van Hove.[26]
 
 Noonan (†2017) was a distinguished professor of law and an appellate
 judge who applied the standards of evidence of the law school and the
@@ -363,7 +372,7 @@ attributed to a source, a century after the fact---is nothing more than
 legend.
 
 Winroth has questioned whether this is an appropriate standard for
-evaluating historical evidence.[25] Noonan's insistence on adhering to
+evaluating historical evidence.[27] Noonan's insistence on adhering to
 the courtroom rules of evidence can seem like overkill. If, after all,
 the monastery of Saints Felix and Nabor in Bologna was in the hands of
 Camaldolese communities in 1113 and 1153, it does not seem unreasonable
@@ -375,7 +384,7 @@ the one thinly-sourced datum of the Camaldolese connection as the
 foundation for his entire reconstruction of Gratian's intentions and
 motivations in undertaking the *Decretum* project, including a
 peremptory dismissal of any possibility that Gratian had a teaching
-career.[26]
+career.[28]
 
 <!--
 
@@ -402,18 +411,18 @@ author:
 > commentator, rubricator, reviser. Was Gratian one or all? The
 > difficulties relate to each other, because evidence that Gratian was,
 > say, the commentator of Part II does not establish what role he had in
-> Part I.[27]
+> Part I.[29]
 
 Noonan did leave open one affirmative possibility, that a Gratian who
 was recorded as having participated in an 1143 case in Venice as one of
 three legal consultants ("magister Walfredus", "Gratianus", and
-"Moysis", in that order)[28] advising a three-judge panel presided over
+"Moysis", in that order)[30] advising a three-judge panel presided over
 by a papal legate, Cardinal Goizo, might be the same Gratian responsible
 for the *Decretum*.
 
 > But we can say that it is possible, even plausible, that the unbiased
 > notary who recorded the scene at S. Marco is the only person to have
-> left an eyewitness account of Gratian.[29]
+> left an eyewitness account of Gratian.[31]
 
 Noonan concludes that
 
@@ -423,7 +432,7 @@ Noonan concludes that
 > knowledge and interests and a lawyer's point of view. He worked in
 > Bologna in the 1130s and 1140s. Beyond these conclusions, we have
 > unverified hearsay, palpable legend, and the silent figure in the
-> shadows of S. Marco.[30]
+> shadows of S. Marco.[32]
 
 This, then, is our starting point. Noonan wrote, however, before
 Winroth's discovery of the first recension. Scholarship on the identity
@@ -435,10 +444,10 @@ second recensions.
 
 One of the earliest attempts to do so was Gundula Grebner's "Lay
 patronate in Bologna in the first half of the 12th century: Regular
-canons, notaries, and the *Decretum*."[31] Grebner's article is usually
+canons, notaries, and the *Decretum*."[33] Grebner's article is usually
 cited in connection with the 1143 court case: "Recently, Gundula Grebner
 uncovered more evidence that would confirm Gratian's presence in a
-Venetian courtroom and change Noonan's plausible to certain."[32]
+Venetian courtroom and change Noonan's plausible to certain."[34]
 
 <!--
 
@@ -458,7 +467,7 @@ Gratian 2.
 > to call the author of the first recension Gratian 1 and the author of
 > the second recension Gratian 2. These labels are not intended to
 > suggest that Gratian 1 and Gratian 2 could not have been the same
-> person."[33]
+> person."[35]
 
 The question of authorial identity is not relevant to the primary
 argument that Winroth advances in those chapters, which is that the
@@ -469,14 +478,14 @@ recension reflects a considerably more sophisticated legal culture than
 that reflected in the first recension, notably in the reception of
 concepts and terminology from the study of Roman law, and argues that it
 is unlikely that one author underwent such an intellectual evolution in
-a single generation.[34]
+a single generation.[36]
 
 Winroth is strongly committed to a late date (1139) for the first
 recension on the grounds that he thinks D.63 d.p.c.34 *must* refer to
 canon 28 from the Second Lateran Council of 1139. That first-recension
 *dictum* makes a reference to a canon, D.63 c.35, that was later
 incorporated into the text of the *Decretum* as D.63 c.35 in the second
-recension.[35]
+recension.[37]
 
 Winroth rejects claims that the Sg manuscript of the *Decretum* is
 descended from a version earlier than the first recension, and argues
@@ -490,7 +499,7 @@ Finally, Winroth accepts an entry in a Siena necrology (Siena,
 Biblioteca Comunale degli Intronati F.I.2, f.5r) brought to scholarly
 attention by Francesco Reali as evidence that Gratian the author of the
 first recension died as bishop of Chiusi on the feast day of St Lawrence
-(August 10) in either 1144 or 1145.[36] The datum provided by the
+(August 10) in either 1144 or 1145.[38] The datum provided by the
 necrology, recording the death of a "Gratian of Chiusi, bishop",
 considered along with an axiomatic assumption of an 1139 date for the
 first recension, strengthens the case from Winroth's perspective that
@@ -518,13 +527,13 @@ argued that it represented, at some unknown number of removes, an
 earlier version of the *Decretum* than Winroth's first recension.
 Winroth and Wei have argued that Sg was a relatively uninteresting
 abbreviation of a first recension manuscript with some second recension
-interpolations.[37]
+interpolations.[39]
 
 The version of the *Decretum* preserved in the Sankt Gallen
 Stiftsbibliothek 673 (Sg) manuscript contains somewhat fewer than 1,050
-canons,[38] and is therefore considerably shorter than either the first
+canons,[40] and is therefore considerably shorter than either the first
 recension (1,860 canons) or the vulgate (3,945) versions of the
-text.[39] Formally, Sg is not divided into parts; all of its content is
+text.[41] Formally, Sg is not divided into parts; all of its content is
 presented in the form of cases. The first case, however, is unique to
 Sg, and is referred to as *Causa Prima* to distinguish it from the
 *Causa* I found in all other pre-vulgate and vulgate versions of the
@@ -534,7 +543,7 @@ exactly the same order in which they appear in other versions of the
 *Decretum*. (There is one relatively minor exception with respect to the
 ordering of the texts, the four canons corresponding to D.32 c.3, c.4,
 c.6, and c.7 are inserted between the canons corresponding to D.31 c.6
-and D.31 c.7.)[40] Notably, *Causa Prima* contains no texts (canons or
+and D.31 c.7.)[42] Notably, *Causa Prima* contains no texts (canons or
 *dicta*) from the *tractatus de legibus* (distinctions 1-20) and none
 from Gratian's "epilogue" (distinctions 81-101).
 
@@ -545,11 +554,11 @@ D.63 d.p.c.34 in the first recension and later incorporated as D.63 c.35
 in the second recension is not canon 28 from the Second Lateran Council
 (1139), but rather a canon from an earlier council or synod convened by
 Innocent II at Rome in 1133 that was reissued, a common practice in the
-early twelfth century, at Lateran II.[41] Pennington supports Larson's
+early twelfth century, at Lateran II.[43] Pennington supports Larson's
 conjecture by noting that the text of the canon as it appears in the
 *Decretum* includes variants (*facta fuerit* vs *fuerit celebrata*, and
 *consensus* vs *assensus*) found in none of the twenty manuscript
-witnesses to the Lateran II canons edited by Martin Brett.[42]
+witnesses to the Lateran II canons edited by Martin Brett.[44]
 Pennington argues that there is enough doubt as to whether D.63 d.p.c.34
 refers to canon 28 from Lateran II---as opposed to a canon from an
 earlier council or synod later reissued with minor textual variations as
@@ -563,12 +572,12 @@ margins and appendices of Fd and Aa, fall well short of the number that
 would be expected if they had been copied from a Vulgate *Decretum* (87
 are missing from Aa, and 62 are missing from Fd), these manuscripts
 represent an intermediate "next-to-last" stage in the development of the
-*Decretum* text intermediate the pre-Vulgate and Vulgate versions.[43]
+*Decretum* text intermediate the pre-Vulgate and Vulgate versions.[45]
 Furthermore, the fact that the Lateran II canons *are* present in this
 "next-to-last" stage undermines the argument going back to Fransen and
 supported by Lenherr that the Lateran II canons are a last-minute
 addition, and poorly if at all integrated into the argument of the
-*Decretum*.[44] **Pennington also cites early manuscripts of the
+*Decretum*.[46] **Pennington also cites early manuscripts of the
 *Decretum* with 99 and 100 distinctions in Part I as evidence for the
 continuous evolution of the text between the first and second
 recensions.**
@@ -644,29 +653,29 @@ Roman Law).
 
 Authorship on any significant scale in the pre-modern world required
 wrapping a specialized and expensive scribal infrastructure around the
-figure of the author.[45] Three examples from classical and late
+figure of the author.[47] Three examples from classical and late
 antiquity illustrate the possible ways in which this requirement could
 be met. Cicero (†43 BCE) pursued his literary ambitions with the support
 of highly skilled but unfree labor purchased out of his personal wealth,
 most famously his slave and later freedman Tiro. A wealthy lay patron
 named Ambrose paid for the secretarial staff that supported the
-authorial activities of Origen of Alexandria (†253).[46] Quasi-monastic
+authorial activities of Origen of Alexandria (†253).[48] Quasi-monastic
 members of the episcopal household of Augustine of Hippo (†430) provided
 the scribal support that made his prodigious authorial output possible.
 The mode of production pioneered by Augustine and his household in which
 monastic labor enabled the creation of original texts by their authors
 as well as the subsequent copying and circulation of finished texts
 proved a durable one, and predominated in the Latin West until the
-thirteenth century.[47]
+thirteenth century.[49]
 
 Given the material and social technologies for authorship available in
 the twelfth century, creation of a text the size of Gratian's *Decretum*
 would necessarily have been a collaborative effort. Pennington has noted
-that "Gratian may have had an atelier of assistants,"[48] but that
+that "Gratian may have had an atelier of assistants,"[50] but that
 observation suggests that the nature of the collaboration between
 Gratian and those Pennington conceives of as his assistant needs to be
 examined more closely. What substantive intellectual contributions, if
-any, did Gratian's collaborators make to the project?[49] There are a
+any, did Gratian's collaborators make to the project?[51] There are a
 number of indications, discussed in the previous chapter, that the
 *Decretum* outgrew the ability of a single author to effectively manage
 the development of the text. The question is whether Gratian's partial
@@ -675,7 +684,7 @@ collaborative authorship. The starting point for this inquiry is a
 theoretically informed understanding of what authorship is.
 
 The recent work on the life of Gratian by Grebner, Winroth, and
-Pennington[50] reviewed in the preceding section tacitly assumes that if
+Pennington[52] reviewed in the preceding section tacitly assumes that if
 we can identify the historical Gratian, we will have identified the
 author of the *Decretum* (or at least the author of the first
 recension), with authorship of the text understood in a way not unlike
@@ -691,7 +700,7 @@ largely discarded by literary scholarship over the last half-century.
 
 Roland Barthes's 1967 essay "The Death of the Author" and Michel
 Foucault's 1969 response "What Is an Author?" are foundational readings
-in the theory of authorship.[51]
+in the theory of authorship.[53]
 
 ### Barthes
 
@@ -713,10 +722,10 @@ authorship he is arguing against and the term "author" where he intends
 to use the word in its more general and non-technical sense. An Author
 is the creative intellect uniquely responsible for a literary text, and
 "is in the same relation of antecedence to his work as a father to his
-child."[52] Barthes argues that authors cannot be Authors---no person or
+child."[54] Barthes argues that authors cannot be Authors---no person or
 persons can have a parent-child relationship to a text since all
 literary texts are socially constructed: "The text is a tissue of
-quotations drawn from the innumerable centres of culture."[53]
+quotations drawn from the innumerable centres of culture."[55]
 
 **Gratian may be the author of the *dicta* but he is not their Author.
 The *dicta* are socially constructed "tissue\[s\] of quotations drawn
@@ -730,7 +739,7 @@ that is prevalent in scholarship on Gratian and the *Decretum*:
 > suits criticism very well, the latter then allotting itself the
 > important task of discovering the Author (or its hypostases: society,
 > history, psyche, liberty) beneath the work: when the Author has been
-> found, the text is 'explained' - victory to the critic.[54]
+> found, the text is 'explained' - victory to the critic.[56]
 
 Barthes uses the term "scriptor" to indicate an alternative
 conceptualization of authorship in which the performative aspect of the
@@ -742,7 +751,7 @@ author of the *dicta* is therefore, using Barthes's definitions, both
 scriptor and critic. The *dicta* were originally delivered in a
 classroom setting, and thus have both a performative and a
 contemporaneous aspect ("there is no other time than that of the
-enunciation and every text is eternally written *here* and *now*")[55]
+enunciation and every text is eternally written *here* and *now*")[57]
 The *dicta* are also the record of a particular close-reading of a
 selection of authoritative texts.
 
@@ -756,14 +765,14 @@ historians (including those who have written about Gratian's authorship
 of the *Decretum*) take for granted. In place of the conceptualization
 of authorship rendered suspect by Barthes, Foucault proposes the idea of
 the "author function." He starts by asking "\[w\]hat is an author’s
-name? How does it function?"[56] and then goes on to observe:
+name? How does it function?"[58] and then goes on to observe:
 
 > ... if we proved that Shakespeare did not write those sonnets which
 > pass for his, that would constitute a significant change and affect
 > the manner in which the author's name functions. If we proved that
 > Shakespeare wrote Bacon's *Organon* by showing that the same author
 > wrote both the works of Bacon and those of Shakespeare, that would ...
-> entirely modify the functioning of the author's name.[57]
+> entirely modify the functioning of the author's name.[59]
 
 Foucault has a reputation for using esoteric vocabulary in his
 writing---his critics would say jargon---in a way that many historians
@@ -780,7 +789,7 @@ from Jerome (†420).
 > In *De Viris illustribus*, Saint Jerome explains that homonymy is not
 > sufficient to identify legitimately authors of more than one work ...
 > The name as an individual trademark is not enough when one works
-> within a textual tradition.[58]
+> within a textual tradition.[60]
 
 This is significant. We face in the *Decretum* a problem concerning
 authorship that medieval textual scholars like Abelard and Gratian
@@ -789,12 +798,12 @@ the name of Gratian became attached quite early on "as an individual
 trademark." Furthermore, modern theories of literary authorship are
 substantially derived from the work of the figure that Gratian's
 twelfth-century contemporaries, most notably Abelard, considered
-supremely authoritative on precisely this kind of problem.[59]
+supremely authoritative on precisely this kind of problem.[61]
 
 > How, then can one attribute several discourses to one and the same
 > author? How can one use the author function to determine if one is
 > dealing with one or several individuals? Saint Jerome proposes four
-> criteria:[60]
+> criteria:[62]
 
 Only two of Jerome's four criteria (the second and fourth) have figured
 significantly in recent scholarship on the authorship of Gratian's
@@ -820,7 +829,7 @@ author.
 > \(4\) finally, passages quoting statements made or mentioning events
 > that occurred after the author's death must be regarded as
 > interpolated texts (the author is seen as a historical figure at the
-> crossroads of a certain number of events).[61]
+> crossroads of a certain number of events).[63]
 
 Foucault's essay is a response to Barthes's.
 
@@ -1187,34 +1196,30 @@ Bisignano](http://amesfoundation.law.harvard.edu/BioBibCanonists/Report_Biobib2.
 *Bio-Bibliographical Guide to Medieval and Early Modern Jurists.*
 Pennington does not indicate that Simon of Bisignano was a student of
 Gratian. Glosses attributed to Simon of Bisignano are indicated by the
-*sigla* s., si., and sy. (Rudolf Weigand, “The Development of the Glossa
+*sigla* s., si., and sy. Rudolf Weigand, “The Development of the Glossa
 Ordinaria to Gratian’s Decretum,” in *The History of Medieval Canon Law
 in the Classical Period, 1140-1234: From Gratian to the Decretals of
 Pope Gregory IX*, ed. Wilfried Hartmann and Kenneth Pennington, History
 of Medieval Canon Law (Washington, D.C: Catholic University of America
-Press, 2008), 97) **Simon's glosses are dated earlier than his *Summa*
-(cite Hartmann and Pennington).**
+Press, 2008), 55–97, 97. Simon's glosses are dated earlier than his
+*Summa*. Weigand, , 75.
 
 [17] Stephan Kuttner, “Research on Gratian: Acta and Agenda,” in
 *Studies in the History of Medieval Canon Law*, Collected Studies CS325
 (Aldershot, Hampshire, Great Britain : Brookfield, Vt., USA: Variorum ;
 Gower, 1990), 7. Noonan, “Gratian Slept Here”, 157, rejects this, but
-Kuttner disagrees. Simon of Bisignano refers to Gratian as *magister*
-and to himself as *discipulus* in his comments on C.27 q.2, Simon of
-Bisignano, *Summa in Decretum Simonis Bisinianensis*, ed. Pier Virginio
-Aimone-Braida, Monumenta Iuris Canonici. Series A, Corpus Glossatorum ;
-Vol. 8 (Città del Vaticano: Biblioteca Apostolica Vaticana, 2014), 412.
-Simon again refers to Gratian as *magister* in his comments on D.4 c.31
-of *de Consecratione*: "*Quod quamuis Magister noster docuerit, nos
-tamen in hoc nolumus eum imitari.* Although our master taught that, we
-nevertheless do not wish to imitate him in this (PLE)." Simon of
-Bisignano, *Summa in Decretum Simonis Bisinianensis*, 542. **Page
-numbers may not coincide with print edition cited: the version of the
-Aimone edition I have access to is a PDF dated Fribourg 2007. BibTex
-records in merged.bib are inconsistent as to whether to use the author's
-or editor's name as the basis for the tag.**
+Kuttner disagrees. **Landau says "frequently"**.
 
-[18] "In the first recension, Gratian I both collected authoritative
+[18] Simon of Bisignano, *Summa in Decretum Simonis Bisinianensis*, ed.
+Pier Virginio Aimone-Braida, Monumenta Iuris Canonici. Series A, Corpus
+Glossatorum ; Vol. 8 (Città del Vaticano: Biblioteca Apostolica
+Vaticana, 2014), 412. Page numbers may not coincide with the print
+edition cited: the version of the Aimone edition I have access to is a
+PDF dated Fribourg 2007.
+
+[19] Simon of Bisignano, 542.
+
+[20] "In the first recension, Gratian I both collected authoritative
 texts and commented upon them, as did Peter Lombard in his roughly
 contemporary *Sentences*. Both texts were written to meet the need for a
 basic text-book in the teaching of their respective disciplines. Other
@@ -1237,14 +1242,14 @@ Bernard of Pavia that their compilations might become standard
 school-texts (and, hence, that comments were best relegated to the
 margins)." Winroth, *The Making of Gratian’s Decretum*, 2000, 191.
 
-[19] At most, there seems to have been a limited claim of authority
+[21] At most, there seems to have been a limited claim of authority
 being made by the authors of the first-recension *dicta* (Gratian 1) on
 behalf of their *magister*, the author of the case statements (Gratian
 0), whose harmonization of the canons was authoritative for them.
 
-[20] Noonan, “Gratian Slept Here.”
+[22] Noonan, “Gratian Slept Here.”
 
-[21] See Stephan Kuttner, “The Father of the Science of Canon Law,”
+[23] See Stephan Kuttner, “The Father of the Science of Canon Law,”
 *Jurist* 1 (1941): 2–19. Kuttner argues that Gratian applied Ivo's
 program as it had been developed in the intervening forty years by
 scholastic theology, most notably by Abelard, and not in its original
@@ -1258,9 +1263,9 @@ the Father of Canon Law,” *Zeitschrift der Savigny-Stiftung für
 Rechtsgeschichte: Kanonistische Abteilung* 99, no. 1 (August 2013):
 105–28, 111.
 
-[22] Noonan, “Gratian Slept Here.”
+[24] Noonan, “Gratian Slept Here.”
 
-[23] Noonan identifies Odofredus as the source for associating Gratian
+[25] Noonan identifies Odofredus as the source for associating Gratian
 with Saints Felix and Nabor. Noonan, , 148; but cf. Southern,
 *Scholastic Humanism and the Unification of Europe*, 286n5. Southern
 draws attention to an inscription found in a Geneva manuscript of the
@@ -1276,7 +1281,7 @@ independent evidence attesting to a connection between Gratian and
 Saints Felix and Nabor is therefore unknown, but it is possible that it
 predates Odofredus.
 
-[24] See Noonan, “Gratian Slept Here”, 150-151. Alphonse van Hove,
+[26] See Noonan, “Gratian Slept Here”, 150-151. Alphonse van Hove,
 *Prolegomena ad Codicem iuris canonici*, Editio artera auctior et
 emendatior, Commentarium Lovaniense in Codicem iuris canonici, v. 1, t.
 1 (Mechlinae: H. Dessain, 1945) had an outsized impact on the trajectory
@@ -1288,7 +1293,7 @@ Somerville went on to have unusually influential academic careers in the
 field (Donahue at Harvard, and Somerville at Columbia where he was
 Winroth's dissertation advisor).
 
-[25] "Noonan used sound historical methods, but he chose, as a
+[27] "Noonan used sound historical methods, but he chose, as a
 distinguished professor of law and later a prominent judge, to couch his
 method in lawyerly terms, talking about hearsay and wanting to
 cross-examine witnesses. To make any headway with as complex and
@@ -1298,7 +1303,7 @@ methodology and terminology, as they have been codified from the late
 nineteenth century on." Winroth, “Where Gratian Slept,” August 2013,
 106.
 
-[26] R.W. Southern takes an extreme position with respect to Gratian's
+[28] R.W. Southern takes an extreme position with respect to Gratian's
 teaching career, citing as late as 1995 Gratian's supposed association
 with the Camaldolese order to advance an argument that he had never been
 a teacher: "Reliable writers after his death affirmed that Gratian was a
@@ -1313,9 +1318,9 @@ was the offering Gratian's monastic life brought to the Church".
 Southern, *Scholastic Humanism and the Unification of Europe*, 286-287,
 304.
 
-[27] Noonan, “Gratian Slept Here,” 162–63.
+[29] Noonan, “Gratian Slept Here,” 162–63.
 
-[28] Pennington reads a great deal into the order (why wasn't Gratian
+[30] Pennington reads a great deal into the order (why wasn't Gratian
 referred to first?) and the honorifics (why wasn't Gratian referred to
 as "Magister"?). Pennington, “The Biography of Gratian, the Father of
 Canon Law”, 387-388. There is, however, no reason to assume that the
@@ -1323,21 +1328,21 @@ notary who reported on the proceedings would necessarily have been
 well-informed about Gratian, who was, after all, not a local figure in
 Venice.
 
-[29] Noonan, “Gratian Slept Here,” 171.
+[31] Noonan, “Gratian Slept Here,” 171.
 
-[30] Noonan, 172.
+[32] Noonan, 172.
 
-[31] Gundula Grebner, “Lay Patronate in Bologna in the first half of the
+[33] Gundula Grebner, “Lay Patronate in Bologna in the first half of the
 12th Century: Regular Canons, Notaries, and the Decretum,” in *Europa
 und seine Regionen: 2000 Jahre Rechtsgeschichte*, ed. Andreas Bauer and
 Karl H. L. Welker (Vienna, 2007), 107–22.
 
-[32] Pennington, “The Biography of Gratian, the Father of Canon Law,”
+[34] Pennington, “The Biography of Gratian, the Father of Canon Law,”
 387.
 
-[33] Winroth, *The Making of Gratian’s Decretum*, 2000, 122.
+[35] Winroth, *The Making of Gratian’s Decretum*, 2000, 122.
 
-[34] Winroth has since come to contextualize the differences between the
+[36] Winroth has since come to contextualize the differences between the
 first and second recension with respect to the use of Roman law within a
 broader context: "The argument about two authors is based on textual
 (you could almost say literary) analysis: formulations, practices of
@@ -1348,22 +1353,22 @@ in the second recension, but this turned out to be an accident of the
 specific sections I used as case studies (C. 24 and C.11 q.3)." (Anders
 Winroth, email to Paul Evans, 18 May 2021).
 
-[35] Cite Winroth's dissertation, 345, where he appears open to the
+[37] Cite Winroth's dissertation, 345, where he appears open to the
 possibility that D.63 d.p.c.34 is an interpolation, without committing
 to it. Winroth ultimately accepted the argument of Rudolf Weigand
 (†1998) that the interpolation hypothesis is a slippery slope---once you
 start rejecting problematic passages because they are inconvenient
 (chronologically or otherwise), there is no obvious place to stop.
 
-[36] See Winroth, “Where Gratian Slept,” August 2013. The article
+[38] See Winroth, “Where Gratian Slept,” August 2013. The article
 expands on a presentation given by Winroth at the Fourteenth
 International Congress of Medieval Canon Law, Toronto, 2012.
 
-[37] See Melodie H. Eichbauer, “Gratian’s Decretum and the Changing
+[39] See Melodie H. Eichbauer, “Gratian’s Decretum and the Changing
 Historiographical Landscape,” *History Compass* 11, no. 12 (December
 2013): 1111–25 for a good recent overview of these debates.
 
-[38] Carlos Larrainzar describes Sg as having "poco menos de 1,050
+[40] Carlos Larrainzar describes Sg as having "poco menos de 1,050
 *auctoritates* y en torno a los 650 *dicta*." Carlos Larrainzar, “El
 Borrador de la ’Concordia’ de Graciano: Sankt Gallen, Stiftsbibliothek
 MS 673 (=Sg),” *Ius Ecclesiae: Rivista Internazionale di Diritto
@@ -1372,14 +1377,14 @@ Canonico* 11, no. 3 (1999): 593–666, 601. "The second recension contains
 contains only 1,860 canons (47 percent)." Winroth, *The Making of
 Gratian’s Decretum*, 2000, 122.
 
-[39] See Larrainzar, “El Borrador de la ’Concordia’ de Graciano”, 601,
+[41] See Larrainzar, “El Borrador de la ’Concordia’ de Graciano”, 601,
 for the number of canons in Sg, emphasizing that it is approximate. See
 Winroth, *The Making of Gratian’s Decretum*, 2000, 122, for the number
 of canons in the first recension. 3,945 is a conventional number.
 
-[40] Larrainzar, “El Borrador de la ’Concordia’ de Graciano,” 653.
+[42] Larrainzar, “El Borrador de la ’Concordia’ de Graciano,” 653.
 
-[41] **Placeholder for Pennington, Larson footnote** Pennington asserts
+[43] **Placeholder for Pennington, Larson footnote** Pennington asserts
 that "\[t\]he main reason that Winroth created a second 'Gratian' is
 because of a text \[D.63 d.p.c.34\] that is found in all pre-Vulgate
 manuscripts." Pennington, “The Biography of Gratian, the Father of Canon
@@ -1395,64 +1400,64 @@ for Winroth's two-author hypothesis was that the second recension makes
 much more sophisticated use of Roman law concepts and terminology than
 the first recension.
 
-[42] Pennington, 365.
+[44] Pennington, 365.
 
-[43] **Placeholder for Pennington, Eichbauer footnote**
+[45] **Placeholder for Pennington, Eichbauer footnote**
 
-[44] Pennington, “The Biography of Gratian, the Father of Canon Law,”
+[46] Pennington, “The Biography of Gratian, the Father of Canon Law,”
 367–68.
 
-[45] James Joseph O’Donnell, *Augustine: A New Biography*, 1st ed. (New
+[47] James Joseph O’Donnell, *Augustine: A New Biography*, 1st ed. (New
 York: HarperCollins Publishers, 2005), 136, 139. The need for scribal or
 secretarial support presupposes that authors create texts by dictating
 them.
 
-[46] John Anthony McGuckin, "The Life of Origen (ca. 186–255)" in *The
+[48] John Anthony McGuckin, "The Life of Origen (ca. 186–255)" in *The
 Westminster Handbook to Origen*, 12. McGuckin got this story from
 Eusebius, *Ecclesiastical History* 6.23.2.
 
-[47] Monastic modes of text production were gradually replaced by
+[49] Monastic modes of text production were gradually replaced by
 commercial modes of production, e.g., around the University of Paris.
 See Richard H. and Mary A. Rouse, *Manuscripts and their Makers:
 Commercial Book Producers in Medieval Paris 1200-1500.*
 
-[48] Pennington, “The Biography of Gratian, the Father of Canon Law,”
+[50] Pennington, “The Biography of Gratian, the Father of Canon Law,”
 362.
 
-[49] The quasi-monastic model of text production leaves open a range of
+[51] The quasi-monastic model of text production leaves open a range of
 possibilities. Those who have read the *Vita Augustini* written by
 Possidius of Calama († c.437) are likely to be unimpressed by the
 intellectual caliber of Augustine's episcopal household, and to assess
 its contribution to his work accordingly.
 
-[50] Grebner, “Lay Patronate in Bologna in the first half of the 12th
+[52] Grebner, “Lay Patronate in Bologna in the first half of the 12th
 Century”; Winroth, “Where Gratian Slept,” August 2013; Kenneth
 Pennington, “The Biography of Gratian, the Father of Canon Law,”
 *Villanova Law Review* 59 (2014): 679–706; and Pennington, “The
 Biography of Gratian, the Father of Canon Law”.
 
-[51] Roland Barthes, “The Death of the Author,” in *Image, Music, Text*,
+[53] Roland Barthes, “The Death of the Author,” in *Image, Music, Text*,
 trans. Stephen Heath (New York: Hill; Wang, 1977), 142–48; and Michel
 Foucault, “What Is an Author?” in *Aesthetics, Method, and
 Epistemology*, ed. James D. Faubion and Paul Rabinow, trans. Robert
 Hurley, Essential Works of Foucault, 1954-1984, v. 2 (New York: New
 Press, 1998), 205–22.
 
-[52] Barthes, “The Death of the Author,” 145.
+[54] Barthes, “The Death of the Author,” 145.
 
-[53] Barthes, 146.
+[55] Barthes, 146.
 
-[54] Barthes, 147.
+[56] Barthes, 147.
 
-[55] Barthes, 145.
+[57] Barthes, 145.
 
-[56] Foucault, “What Is an Author?” 209.
+[58] Foucault, “What Is an Author?” 209.
 
-[57] Foucault, 210.
+[59] Foucault, 210.
 
-[58] Foucault, 214.
+[60] Foucault, 214.
 
-[59] "We must also be very careful not to be deceived by a false
+[61] "We must also be very careful not to be deceived by a false
 attribution of authorship or by a corrupt text ... Jerome, that most
 reliable writer and most faithful translator, has given us forewarning
 of this." Peter Abelard, “Prologue to the Yes and No,” in *Medieval
@@ -1463,7 +1468,7 @@ Press, 1988), 87–100, 89. **"Illud quoque diligenter attendi convenit ne
 ... Unde fidelissimus scriptor et veracissimus interpres Hieronymus ...
 nos praemonuit." Boyer and McKeon, 91.**
 
-[60] Foucault, “What Is an Author?”, 214. Foucault claims to have
+[62] Foucault, “What Is an Author?”, 214. Foucault claims to have
 derived the four criteria for determining whether a given "discursive
 set" has one or several authors from Jerome's *De Viris illustribus*. He
 provides, however, no citations. Walzer and Inabinit indicate that
@@ -1478,7 +1483,7 @@ Foucault's four criteria, and provides citations to many works by Jerome
 (not just *De Viris illustribus*) relevant to the question of
 determining the authorship of a text or texts.
 
-[61] Foucault, “What Is an Author?” 214.
+[63] Foucault, “What Is an Author?” 214.
 
 <div align="center">
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.

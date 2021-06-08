@@ -269,17 +269,28 @@ to speculate as to how sound his story was."[@noonan_gratian_1979,
 Simon of Bisignano (fl. 1174--1179) was the author of a *Summa
 decretorum* dated c.1177-79, and a number of glosses on the *Decretum*
 are attributed to him.[^16] The evidence that Simon of Bisignano
-was a student of Gratian's comes from references within his
-writings.[^17] Simon refers to himself as *discipulus* and to
-Gratian as *magister* in at least two places in his *Summa* (**Landau
-says "frequently"**). There is, however a hiatus of almost four
-decades between the latest plausible date for the end of Gratian's
-teaching career, and the documentary evidence we have for Simon's
-professional career as a canonist. Although it is not chronologically
-impossible for Simon to have been Gratian's student, it seems more
-likely that he described himself as *discipulus* in something like
-the same sense that we might describe contemporary scholars like
-Chodorow, Pennington, and Winroth as "students of Gratian".
+was a student of Gratian comes from at least two internal references
+in his *Summa*:[^17] Simon refers to Gratian as *magister* and to
+himself as *discipulus* in his comments on C.27 q.2,[^tmp1] and
+again refers to Gratian as *magister* in his comments on D.4 c.31
+of *de Consecratione*: "*Quod quamuis Magister noster docuerit, nos
+tamen in hoc nolumus eum imitari.* Although our master taught that,
+we nevertheless do not wish to imitate him in
+this."[@simon_of_bisignano_summa_2014, 542] (trans. PLE)
+
+There is however a hiatus of almost four decades between the latest
+plausible date for the end of Gratian's teaching career and the
+documentary evidence we have for Simon's professional career as a
+canonist. Although it is not quite chronologically impossible for
+Simon to have been Gratian's student, it seems far more likely that
+he described himself as *discipulus* in something like the same
+sense that we might describe contemporary scholars like Chodorow,
+Pennington, and Winroth as "students of Gratian". Yet again, we
+appear to dealing with statements that on the surface appear to be
+about the biography of Gratian---a claim by Simon that he had been
+Gratian's student---but that should more plausibly be read as an
+acknowledgement of Gratian's authority as the founder of an
+intellectual tradition.
 
 <!--
 
@@ -964,23 +975,16 @@ Bisignano](http://amesfoundation.law.harvard.edu/BioBibCanonists/Report_Biobib2.
 *Bio-Bibliographical Guide to Medieval and Early Modern Jurists.*
 Pennington does not indicate that Simon of Bisignano was a student
 of Gratian. Glosses attributed to Simon of Bisignano are indicated
-by the *sigla* s., si., and sy. [@weigand_development_2008, 97]
-**Simon's glosses are dated earlier than his *Summa* (cite Hartmann
-and Pennington).**
+by the *sigla* s., si., and sy. @weigand_development_2008, 97.
+Simon's glosses are dated earlier than his *Summa*.
+@weigand_development_2008, 75.
 
 [^17]: @kuttner_research_1990, 7. @noonan_gratian_1979, 157, rejects
-this, but Kuttner disagrees. Simon of Bisignano refers to Gratian
-as *magister* and to himself as *discipulus* in his comments on
-C.27 q.2, @simon_of_bisignano_summa_2014, 412. Simon again refers
-to Gratian as *magister* in his comments on D.4 c.31 of *de
-Consecratione*: "*Quod quamuis Magister noster docuerit, nos tamen
-in hoc nolumus eum imitari.* Although our master taught that, we
-nevertheless do not wish to imitate him in this (PLE)."
-@simon_of_bisignano_summa_2014, 542. **Page numbers may not coincide
-with print edition cited: the version of the Aimone edition I have
-access to is a PDF dated Fribourg 2007. BibTex records in merged.bib
-are inconsistent as to whether to use the author's or editor's name
-as the basis for the tag.**
+this, but Kuttner disagrees. **Landau says "frequently"**.
+
+[^tmp1]: @simon_of_bisignano_summa_2014, 412. Page numbers may not
+coincide with the print edition cited: the version of the Aimone
+edition I have access to is a PDF dated Fribourg 2007.
 
 [^18]: "In the first recension, Gratian I both collected authoritative
 texts and commented upon them, as did Peter Lombard in his roughly
