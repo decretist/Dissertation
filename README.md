@@ -26,7 +26,7 @@ Conclusion is a very rough draft.
 
 ### Bibliography
 
-- [Bibliography](bib/biblio.markdown) (8 June 2021) 13 pages
+- [Bibliography](bib/biblio.markdown) (8 June 2021) 13 pages [(PDF)](bib/biblio.pdf)
 
 ### Appendices
 
