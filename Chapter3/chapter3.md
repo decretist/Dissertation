@@ -262,7 +262,10 @@ genus duobus regitur*." In the apparent absence then of any first-hand
 evidence from Omnebene himself, we have only Robert's word that
 Omnebene was Gratian's student, and so, like Noonan, "[w]e are left
 to speculate as to how sound his story was."[@noonan_gratian_1979,
-153-154]
+153-154] In the end, there may be little more informational content
+to be extracted from the statement than that Robert understood
+Omnebene to be working within a specific intellectual tradition of
+which Gratian was, by that time, the acknowledged founder.
 
 ### Simon of Bisignano
 
