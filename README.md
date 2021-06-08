@@ -24,6 +24,10 @@ Chapter 3 is scheduled for completion 11 June 2021.
 - [Conclusion](Conclusion/conclusion.markdown) (5 February 2021) 15 pages\
 Conclusion is a very rough draft.
 
+### Bibliography
+
+- [Bibliography](bib/biblio.markdown) (8 June 2021) 13 pages
+
 ### Appendices
 
 - [Appendix 1](Appendix/appendix1.markdown)
