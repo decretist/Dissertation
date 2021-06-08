@@ -6,12 +6,12 @@
 
 ### Chapters
 
-[Dates indicate the most recent change to the Markdown file, no
+Dates indicate the most recent change to the markdown file, no
 matter how minor. Most of the chapters have been substantially
-complete for several years: the Principal Component Analysis section
-of Chapter 4 for the International Congress of Medieval Canon Law
-in July 2016, Chapters 1 and 2 in November 2017, Chapter 0 in July
-2018, and Chapter 4 in July 2020.]
+complete for several years: the principal component analysis section
+of chapter 4 for the International Congress of Medieval Canon Law
+in July 2016, chapters 1 and 2 in November 2017, chapter 0 in July
+2018, and chapter 4 in July 2020.
 
 - [Chapter 0: Introduction](Chapter0/chapter0.markdown) (13 April 2021) 25 pages [(PDF)](Chapter0/chapter0.pdf)
 - [Chapter 1: Background](Chapter1/chapter1.markdown) (13 April 2021) 30 pages [(PDF)](Chapter1/chapter1.pdf)
