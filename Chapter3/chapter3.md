@@ -294,34 +294,36 @@ Reserve paragraphs below as conclusion to the Authority section
 
   -->
 
+---
+
 The problem of authorship and authority was particularly acute in
 the first half of the twelfth century, because early scholastic
-readers were more alert to the chinks in the armor of traditional
+readers were more alert to the gaps in the armor of traditional
 authorities than their less-sophisticated predecessors had been.
 Peter Abelard was unique in the radicalism of his solution to the
 problem: in *Sic et non*, he subverted and indeed dissolved the
 entire notion of authority by showing that texts written by equally
 authoritative authors were in actual, not just apparent, disagreement.
+Gratian in contrast to Abelard undertook an intellectually conservative
+hermeneutical project of harmonizing the apparently discordant
+canons to the level of sophistication demanded by a twelfth-century
+scholastic audience, and accordingly adopted the strategy of locating
+authority in the texts that he quoted.
 
-Gratian undertook the conservative hermeneutical project of harmonizing
-the apparently discordant canons to the level of sophistication
-demanded by a twelfth-century scholastic audience, and accordingly
-adopted the strategy of locating authority in the texts that he
-quoted. It seems, however, that the widespread reception of the
-*Decretum* as itself authoritative benefited from an accidental
-feature of the text. The page layout of early manuscripts of the
-*Decretum*---the placement of Gratian's *dicta* inline with the
-authorities rather on the margins---had the unintentional effect
-of promoting Gratian himself to the status of an authority (or at
-least to a status of near-equality with his authorities). Even
-though the specific page layout was probably adopted in the 1130s
-or 1140s for no particular reason other than that the conventions
-for the various genres of the literature of canon law had not yet
-been firmly established, readers in the 1150s and 1160s seem to
-have understood it, at least implicitly, as a claim to authority,
-a claim that they were more than willing to accept.[^18] This was
-almost certainly an over-reading of the authority claim actually
-being made in the *Decretum*.[^19]
+It seems however that the widespread reception of the *Decretum*
+as itself authoritative benefited from an entirely accidental feature
+of the text. The page layout of early manuscripts of the *Decretum*---the
+placement of Gratian's *dicta* inline with the authorities rather
+on the margins---had the unintentional effect of promoting Gratian
+himself to the status of an authority (or at least to a status of
+near-equality with his authorities). Even though the specific page
+layout was probably adopted in the 1130s or 1140s for no particular
+reason other than that the conventions for the various genres of
+the literature of canon law had not yet been firmly established,
+readers in the 1150s and 1160s seem to have understood it, at least
+implicitly, as a claim to authority, a claim that they were more
+than willing to accept.[^18] This was almost certainly an over-reading
+of the authority claim actually being made in the *Decretum*.[^19]
 
 ## Author
 
