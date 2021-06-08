@@ -15,13 +15,13 @@ and 2 in 2017, chapter 0 in 2018, and chapter 4 in 2020.
 - [Chapter 0: Introduction](Chapter0/chapter0.markdown) (13 April 2021) 25 pages [(PDF)](Chapter0/chapter0.pdf)
 - [Chapter 1: Background](Chapter1/chapter1.markdown) (13 April 2021) 30 pages [(PDF)](Chapter1/chapter1.pdf)
 - [Chapter 2: The *Decretum*](Chapter2/chapter2.markdown) (1 June 2021) 49 pages [(PDF)](Chapter2/chapter2.pdf)\
-Chapter 2 is under review by Stan Chodorow!
+Chapter 2 is under review by Stan Chodorow.
 - [Chapter 3: Authority, Author, Authorship](Chapter3/chapter3.markdown) (8 June 2021) 48 pages\
-Chapter 3 is close to completion (scheduled 11 June 2021)!
+Chapter 3 is scheduled for completion 11 June 2021.
 - [Chapter 4: Stylometry](Chapter4/chapter4.markdown) (28 July 2020) 80 pages
   - [Principal component analysis](Chapter4/pca.markdown) (25 March 2021) 26 pages
 - [Conclusion](Conclusion/conclusion.markdown) (5 February 2021) 15 pages\
-Conclusion is a very rough draft!
+Conclusion is a very rough draft.
 
 ### Appendices
 
