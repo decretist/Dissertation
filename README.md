@@ -7,17 +7,17 @@
 ### Chapters
 
 Dates indicate most recent changes to markdown files, no matter how
-minor. Most of the chapters were substantially completed several
-years ago: the principal component analysis section of chapter 4
-for the International Congress of Medieval Canon Law in July 2016,
-chapters 1 and 2 in November 2017, chapter 0 in July 2018, and
-chapter 4 in July 2020.
+minor. Most of the chapters were substantially completed some years
+ago: the principal component analysis section of chapter 4 for the
+International Congress of Medieval Canon Law in 2016, chapters 1
+and 2 in 2017, chapter 0 in 2018, and chapter 4 in 2020.
 
 - [Chapter 0: Introduction](Chapter0/chapter0.markdown) (13 April 2021) 25 pages [(PDF)](Chapter0/chapter0.pdf)
 - [Chapter 1: Background](Chapter1/chapter1.markdown) (13 April 2021) 30 pages [(PDF)](Chapter1/chapter1.pdf)
 - [Chapter 2: The *Decretum*](Chapter2/chapter2.markdown) (1 June 2021) 49 pages [(PDF)](Chapter2/chapter2.pdf)\
-Chapter 2 is out for review!
-- [Chapter 3: Authority, Author, Authorship](Chapter3/chapter3.markdown) (8 June 2021) 48 pages
+Chapter 2 is under review by Stan Chodorow!
+- [Chapter 3: Authority, Author, Authorship](Chapter3/chapter3.markdown) (8 June 2021) 48 pages\
+Chapter 3 is close to completion (scheduled 11 June 2021)!
 - [Chapter 4: Stylometry](Chapter4/chapter4.markdown) (28 July 2020) 80 pages
   - [Principal component analysis](Chapter4/pca.markdown) (25 March 2021) 26 pages
 - [Conclusion](Conclusion/conclusion.markdown) (5 February 2021) 15 pages\
@@ -27,7 +27,7 @@ Conclusion is a very rough draft!
 
 - [Appendix 1](Appendix/appendix1.markdown)
 - [Appendix 2](Appendix/appendix2.markdown)
-- [Appendix 3](Appendix/appendix3.markdown) (updated 18 May 2021)
+- [Appendix 3](Appendix/appendix3.markdown) (18 May 2021)
 
 ### *Extravagantes*
 
