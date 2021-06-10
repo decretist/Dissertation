@@ -1448,6 +1448,26 @@ at every step in the process.
 | penance   |   0.9152 |     0.8101 |   1.0992 |   0.7609 |     0.8146 |  nan      |   0.9026 |
 | second    |   1.0674 |     0.7861 |   1.2408 |   0.877  |     0.8796 |    0.8927 | nan      |
 
+<!--
+
+Because of the scale of the experiment, the results can be somewhat
+difficult to read, but are entirely consistent with those obtained
+in the previous simplified experiments. They are divided into two
+tables to allow them to be represented on the printed page, but
+should be imagined as a single table, with the second table extending
+the first table to the right. The first column of each row contains
+the name of the subcorpus hypothesized to be the work of an unknown
+author. Disregard the first row. The previously obtained results
+from the simplified demonstration (or "toy") examples lead us to
+expect that the "cases" sample corresponding to the 36 hypothetical
+case statements or *themata* will have highest value for Burrows's
+Delta in each row. Remember that the "cases" sample having the
+highest delta value in a given row indicates that it is the *least*
+likely to have the same author as the sample indicated in the first
+column and hypothesized to be the work of an unknown author.
+
+  -->
+
 [^4]: @mosteller_inference_1964, 14. See also @adair_authorship_1944a, 104.
 
 [^5]: @adair_authorship_1944a and @adair_authorship_1944b.
