@@ -1,9 +1,0 @@
-  @campbell_milton_2007
-  @campbell_provenance_1997
-  @christensen_introduction_1993
-  @hartmann_history_2008
-  @jansen_laws_2009
-  @nardi_fonti_1998
-  @rufinus_summa_1963
-  @rumrich_stylometry_2002
-  @sommar_correctores_2009
