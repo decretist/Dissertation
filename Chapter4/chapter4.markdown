@@ -1409,6 +1409,20 @@ entry corresponding to the Delta distance between the subcorpus of
 unknown authorship and itself is undefined, and is indicated by "NaN",
 an conventional abbreviation in numerical computing for "Not a Number".)
 
+For each of the thirteen subcorpora excluding cases, the value for the
+Burrows's Delta distance between that subcorpus and the cases subcorpus
+is the highest in the row. In only one row are there Delta values that
+are even close to the value for the cases subcorpus: for the other1
+subcorpus (first-recension *dicta* from *Causae* 7-10), the Delta value
+for the cases subcorpus is 1.3353, while the Delta values for laws
+(first-recension *dicta* from the *Tractatus de legibus*), other3
+(first-recension *dicta* from *Causae* 21-22), and penance (first- and
+second-recension *dicta* from *de Penitentia*) are 1.3, 1.3054, and
+1.3272 respectively. Even in this case, the Delta value for the cases
+subcorpus indicates that it is the *least* likely of any of the
+subcorpora in the row to share an author in common with the other1
+subcorpus.
+
 # Bibliography
 
 <div id="refs" class="references csl-bib-body hanging-indent">
