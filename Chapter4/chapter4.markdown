@@ -1330,8 +1330,6 @@ have the same author as either the first- (Gratian1) or second-recension
 case statements (Gratian0) have the same author as the *dicta* from *de
 Penitentia*.
 
-------------------------------------------------------------------------
-
 The fourth and final experiment will compare the thirty most frequent
 words (MFWs) across fourteen subcorpora: cases (C.1-36 d.init.), laws
 (D.1-20 R1 *dicta*), orders1 (D.21-80 R1 *dicta*), orders2 (D.81-101 R1
@@ -1381,6 +1379,199 @@ intermediate results at every step in the process.
 | marriage  | 0.6126 |   0.6577 | 0.6552 | 0.7672 |      nan |  0.7974 | 0.8676 |
 | penance   | 0.9152 |   0.8101 | 1.0992 | 0.7609 |   0.8146 |     nan | 0.9026 |
 | second    | 1.0674 |   0.7861 | 1.2408 |  0.877 |   0.8796 |  0.8927 |    nan |
+
+Because of the scale of the experiment, the results can be somewhat
+difficult to read, but are entirely consistent with those obtained in
+the previous simplified experiments. They are divided into two tables to
+allow them to be represented on the printed page, but should be imagined
+as a single table, with the second table extending the first table to
+the right. The first column of each row contains the name of the
+subcorpus hypothesized to be the work of an unknown author. The
+previously obtained results from the simplified demonstration examples
+lead us to expect that the cases subcorpus corresponding to the 36
+hypothetical case statements or *themata* will have highest value for
+Burrows's Delta in each row. Remember that the cases subcorpus having
+the highest Delta value in a given row indicates that it is the *least*
+likely to have the same author as the subcorpus indicated in the first
+column and hypothesized to be the work of an unknown author.
+
+Disregard the first row---we are not interested in the Delta distance of
+the cases subcorpus from itself. Read each row starting at the second,
+comparing the value for the Delta distance between the subcorpus of
+unknown authorship and the cases subcorpus with the Delta values for
+each of the other subcorpora. Taking the second row of each table as an
+example, the value for the Delta distance between the laws and cases
+subcorpora is 2.141, which is greater than NaN, 1.249, 1.502, 1.4633,
+1.3147, 1.4223 in the first table, and continuing on to the
+corresponding row in the second table, is also greater than 1.4369,
+1.1931, 1.4345, 1.1875, 1.1924, 1.6218, and 1.2323. (In each row, the
+entry corresponding to the Delta distance between the subcorpus of
+unknown authorship and itself is undefined, and is indicated by "NaN",
+an conventional abbreviation in numerical computing for "Not a Number".)
+
+# Bibliography
+
+<div id="refs" class="references csl-bib-body hanging-indent">
+
+<div id="ref-adair_authorship_1944a" class="csl-entry">
+
+Adair, Douglass. “The Authorship of the Disputed Federalist Papers.”
+*The William and Mary Quarterly* 1, no. 2 (1944): 98–122.
+
+</div>
+
+<div id="ref-adair_authorship_1944b" class="csl-entry">
+
+———. “The Authorship of the Disputed Federalist Papers: Part II.” *The
+William and Mary Quarterly* 1, no. 3 (1944): 235–64.
+
+</div>
+
+<div id="ref-beyer_lokale_1998" class="csl-entry">
+
+Beyer, Alfred. *Lokale Abbreviationen des Decretum Gratiani: Analyse und
+Vergleich der Dekretabbreviationen "Omnes leges aut divine" (Bamberg),
+"Humanum genus duobus regitur" (Pommersfelden) und "De his qui intra
+claustra monasterii consistunt" (Lichtenthal, Baden-Baden)*. Bamberger
+theologische Studien ; Bd. 6. Frankfurt am Main ; PLang, 1998.
+
+</div>
+
+<div id="ref-burrows_delta_2002" class="csl-entry">
+
+Burrows, John. “‘Delta’: A Measure of Stylistic Difference and a Guide
+to Likely Authorship.” *Literary and Linguistic Computing* 17, no. 3
+(September 2002): 267–87.
+
+</div>
+
+<div id="ref-burrows_questions_2003" class="csl-entry">
+
+———. “Questions of Authorship: Attribution and Beyond: A Lecture
+Delivered on the Occasion of the Roberto Busa Award ACH-ALLC 2001, New
+York.” *Computers and the Humanities* 37, no. 1 (February 2003): 5–32.
+
+</div>
+
+<div id="ref-eder_does_2015" class="csl-entry">
+
+Eder, Maciej. “Does Size Matter? Authorship Attribution, Small Samples,
+Big Problem.” *Literary and Linguistic Computing* 30, no. 2 (June 2015):
+167–82.
+
+</div>
+
+<div id="ref-evert_understanding_2017" class="csl-entry">
+
+Evert, Stefan, Thomas Proisl, Fotis Jannidis, Isabella Reger, Steffen
+Pielström, Christof Schöch, and Thorsten Vitt. “Understanding and
+Explaining Delta Measures for Authorship Attribution.” *Digital
+Scholarship in the Humanities* 32, no. suppl\_2 (December 2017): ii4–16.
+
+</div>
+
+<div id="ref-herrmann_revisiting_2015" class="csl-entry">
+
+Herrmann, J. Berenike, Karina van Dalen-Oskam, and Christof Schöch.
+“Revisiting Style, a Key Concept in Literary Studies.” *Journal of
+Literary Theory* 9, no. 1 (2015): 25–52.
+
+</div>
+
+<div id="ref-hockey_history_2004" class="csl-entry">
+
+Hockey, Susan. “The History of Humanities Computing.” In *A Companion to
+Digital Humanities*, edited by Susan Schreibman, Raymond George Siemens,
+and John Unsworth, 3–19. Blackwell Companions to Literature and Culture
+26. Malden, MA: Blackwell Pub, 2004.
+
+</div>
+
+<div id="ref-kestemont_function_2014" class="csl-entry">
+
+Kestemont, Mike. “Function Words in Authorship Attribution From Black
+Magic to Theory?” In *Proceedings of the 3rd Workshop on Computational
+Linguistics for Literature (CLfL)*, 59–66. Gothenburg, Sweden:
+Association for Computational Linguistics, 2014.
+
+</div>
+
+<div id="ref-kuttner_gratiani_1948" class="csl-entry">
+
+Kuttner, Stephan. “De Gratiani opere noviter edendo.” *Apollinaris* 21
+(1948): 118–28.
+
+</div>
+
+<div id="ref-kuttner_research_1990" class="csl-entry">
+
+———. “Research on Gratian: Acta and Agenda.” In *Studies in the History
+of Medieval Canon Law*. Collected Studies CS325. Aldershot, Hampshire,
+Great Britain : Brookfield, Vt., USA: Variorum ; Gower, 1990.
+
+</div>
+
+<div id="ref-mosteller_inference_1964" class="csl-entry">
+
+Mosteller, Frederick, and David L. Wallace. *Inference and Disputed
+Authorship: The Federalist*. Addison-Wesley Series in Behavioral
+Science: Quantitative Methods. Reading, Mass: Addison-Wesley Pub. Co,
+1964.
+
+</div>
+
+<div id="ref-pennington_biography_2014" class="csl-entry">
+
+Pennington, Kenneth. “The Biography of Gratian, the Father of Canon
+Law.” *Villanova Law Review* 59 (2014): 679–706.
+
+</div>
+
+<div id="ref-reuter_wortkonkordanz_1990" class="csl-entry">
+
+Reuter, Timothy, and Gabriel Silagi, eds. *Wortkonkordanz zum Decretum
+Gratiani*. Monumenta Germaniae historica. Hilfsmittel 10. München:
+Monumenta Germaniae Historica, 1990.
+
+</div>
+
+<div id="ref-samuels_deformance_1999" class="csl-entry">
+
+Samuels, Lisa, and Jerome McGann. “Deformance and Interpretation.” *New
+Literary History* 30, no. 1 (1999): 25–56.
+
+</div>
+
+<div id="ref-winroth_making_2000" class="csl-entry">
+
+Winroth, Anders. *The Making of Gratian’s Decretum*. Cambridge:
+Cambridge University Press, 2000.
+
+</div>
+
+<div id="ref-winroth_uncovering_1997" class="csl-entry">
+
+———. “Uncovering Gratian’s Original Decretum with the Help of Electronic
+Resources.” *Columbia Library Columns* 46, no. 1 (1997): 26–31.
+
+</div>
+
+<div id="ref-zipf_human_1949" class="csl-entry">
+
+Zipf, George Kingsley. *Human Behavior and the Principle of Least
+Effort: An Introduction to Human Ecology*. Cambridge, Mass:
+Addison-Wesley Press, 1949.
+
+</div>
+
+<div id="ref-zipf_psycho-biology_1935" class="csl-entry">
+
+———. *The Psycho-Biology of Language: An Introduction to Dynamic
+Philology*. Boston: Houghton Mifflin Company, 1935.
+
+</div>
+
+</div>
 
 [1] Stephan Kuttner, “Research on Gratian: Acta and Agenda,” in *Studies
 in the History of Medieval Canon Law*, Collected Studies CS325

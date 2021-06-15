@@ -21,7 +21,7 @@ most of chapter 2 in 2017, chapter 0 in 2018, and most of chapter
 Under review by Stan Chodorow
 - [Chapter 3: Authority, Author, Authorship](Chapter3/chapter3.markdown) (8 June 2021) 48 pages\
 Scheduled for completion 11 June 2021
-- [Chapter 4: Stylometry](Chapter4/chapter4.markdown) (28 July 2020) 80 pages
+- [Chapter 4: Stylometry](Chapter4/chapter4.markdown) (15 June 2021) 82 pages
   - [Principal component analysis](Chapter4/pca.markdown) (25 March 2021) 26 pages
 - [Conclusion](Conclusion/conclusion.markdown) (5 February 2021) 15 pages\
 Conclusion is a very rough draft.

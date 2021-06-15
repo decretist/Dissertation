@@ -2,7 +2,7 @@
 bibliography: ../bib/merged.bib
 csl: ../csl/chicago-fullnote-bibliography.csl
 reference-section-title: Bibliography
-suppress-bibliography: true
+suppress-bibliography: false
 title: Chapter 4
 subtitle: Stylometry
 ---
@@ -1395,8 +1395,6 @@ either the first- (Gratian1) or second-recension (Gratian2) *dicta*.
 Finally, the least likely attribution is that the case statements
 (Gratian0) have the same author as the *dicta* from *de Penitentia*.
 
----
-
 The fourth and final experiment will compare the thirty most frequent
 words (MFWs) across fourteen subcorpora: cases (C.1-36 d.init.),
 laws (D.1-20 R1 *dicta*), orders1 (D.21-80 R1 *dicta*), orders2
@@ -1448,8 +1446,6 @@ at every step in the process.
 | penance   |   0.9152 |     0.8101 |   1.0992 |   0.7609 |     0.8146 |  nan      |   0.9026 |
 | second    |   1.0674 |     0.7861 |   1.2408 |   0.877  |     0.8796 |    0.8927 | nan      |
 
-<!--
-
 Because of the scale of the experiment, the results can be somewhat
 difficult to read, but are entirely consistent with those obtained
 in the previous simplified experiments. They are divided into two
@@ -1457,16 +1453,29 @@ tables to allow them to be represented on the printed page, but
 should be imagined as a single table, with the second table extending
 the first table to the right. The first column of each row contains
 the name of the subcorpus hypothesized to be the work of an unknown
-author. Disregard the first row. The previously obtained results
-from the simplified demonstration (or "toy") examples lead us to
-expect that the "cases" sample corresponding to the 36 hypothetical
-case statements or *themata* will have highest value for Burrows's
-Delta in each row. Remember that the "cases" sample having the
-highest delta value in a given row indicates that it is the *least*
-likely to have the same author as the sample indicated in the first
-column and hypothesized to be the work of an unknown author.
+author. The previously obtained results from the simplified
+demonstration examples lead us to expect that the cases subcorpus
+corresponding to the 36 hypothetical case statements or *themata*
+will have highest value for Burrows's Delta in each row. Remember
+that the cases subcorpus having the highest Delta value in a given
+row indicates that it is the *least* likely to have the same author
+as the subcorpus indicated in the first column and hypothesized to
+be the work of an unknown author.
 
-  -->
+Disregard the first row---we are not interested in the Delta distance
+of the cases subcorpus from itself. Read each row starting at the
+second, comparing the value for the Delta distance between the
+subcorpus of unknown authorship and the cases subcorpus with the
+Delta values for each of the other subcorpora. Taking the second
+row of each table as an example, the value for the Delta distance
+between the laws and cases subcorpora is 2.141, which is greater
+than NaN, 1.249, 1.502, 1.4633, 1.3147, 1.4223 in the first table,
+and continuing on to the corresponding row in the second table, is
+also greater than 1.4369, 1.1931, 1.4345, 1.1875, 1.1924, 1.6218,
+and 1.2323. (In each row, the entry corresponding to the Delta
+distance between the subcorpus of unknown authorship and itself is
+undefined, and is indicated by "NaN", an conventional abbreviation
+in numerical computing for "Not a Number".)
 
 [^4]: @mosteller_inference_1964, 14. See also @adair_authorship_1944a, 104.
 
