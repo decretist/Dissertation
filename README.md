@@ -21,7 +21,7 @@ Reviewed (SC) 6 November 2017
 Under review (SC)
 - [Chapter 3: Authority, Author, Authorship](Chapter3/chapter3.markdown) (8 June 2021) 48 pages\
 Scheduled for completion 11 June 2021
-- [Chapter 4: Stylometry](Chapter4/chapter4.markdown) (15 June 2021) 83 pages\
+- [Chapter 4: Stylometry](Chapter4/chapter4.markdown) (15 June 2021) 83 pages [(PDF)](Chapter4/chapter4.pdf)\
 Under review (MK)
   - [Principal component analysis](Chapter4/pca.markdown) (25 March 2021) 26 pages
 - [Conclusion](Conclusion/conclusion.markdown) (5 February 2021) 15 pages\
