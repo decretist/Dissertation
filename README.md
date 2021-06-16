@@ -26,9 +26,6 @@ Under review (MK)
   - [Principal component analysis](Chapter4/pca.markdown) (25 March 2021) 26 pages
 - [Conclusion](Conclusion/conclusion.markdown) (5 February 2021) 15 pages\
 Rough draft
-
-### Bibliography
-
 - [Bibliography](bib/biblio.markdown) (8 June 2021) 13 pages [(PDF)](bib/biblio.pdf)
 
 ### Appendices
