@@ -14,11 +14,11 @@ most of chapter 2 in 2017, chapter 0 in 2018, and most of chapter
 4 in 2020.
 
 - [Chapter 0: Introduction](Chapter0/chapter0.markdown) (13 April 2021) 25 pages [(PDF)](Chapter0/chapter0.pdf)\
-Reviewed by Stan Chodorow 17 August 2018
-- [Chapter 1: Background](Chapter1/chapter1.markdown) (13 April 2021) 30 pages [(PDF)](Chapter1/chapter1.pdf)
-Reviewed by Stan Chodorow 6 November 2017
+Reviewed 17 August 2018
+- [Chapter 1: Background](Chapter1/chapter1.markdown) (13 April 2021) 30 pages [(PDF)](Chapter1/chapter1.pdf)\
+Reviewed 6 November 2017
 - [Chapter 2: The *Decretum*](Chapter2/chapter2.markdown) (1 June 2021) 49 pages [(PDF)](Chapter2/chapter2.pdf)\
-Under review by Stan Chodorow
+Under review
 - [Chapter 3: Authority, Author, Authorship](Chapter3/chapter3.markdown) (8 June 2021) 48 pages\
 Scheduled for completion 11 June 2021
 - [Chapter 4: Stylometry](Chapter4/chapter4.markdown) (15 June 2021) 82 pages\
