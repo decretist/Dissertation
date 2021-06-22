@@ -7,19 +7,18 @@ title: Chapter 3
 subtitle: Authority, Author, Authorship
 ---
 The purpose of this chapter is to examine the closely connected
-questions of the authority, author, and authorship of the
-*Decretum*.[^1]
+questions of the authority, author, and authorship of the *Decretum*.[^1]
 
 Scholars such as Noonan, Winroth, and Pennington who have investigated
 the authorship of the *Decretum* in recent decades have primarily
 been interested in the question of who wrote the exact words the
 text contains. That emphasis on the attribution of exact words does
 not accord well with either medieval definitions of authorship or
-those found in current theories of authorship. (Contemporary
-theories of literary authorship are ironically closer to medieval
-theories of authorship than either are to the definition of authorship
-tacitly assumed by most historians, and in some interesting cases
-draw on late antique and medieval sources.)
+those found in current theories of authorship. (Contemporary theories
+of literary authorship are ironically closer to medieval theories
+of authorship than either are to the definition of authorship tacitly
+assumed by most historians, and in some interesting cases draw on
+late antique and medieval sources.)
 
 Medieval sources on whom we rely for most of our evidence about who
 wrote the *Decretum*, the authors of glosses or of prefaces to
@@ -54,8 +53,8 @@ writing.[^2] Gratian made use of both strategies. He circulated the
 *Decretum* anonymously, and made no overt claim for the authority
 of his collection other than that derived from the patristic texts
 he extracted out of his material sources. In any event, the modern
-notion that the ultimate source for the authority of a text is
-the independent judgement passed by a reader on the validity of the
+notion that the ultimate source for the authority of a text is the
+independent judgement passed by a reader on the validity of the
 arguments it contains is simply not applicable to the twelfth
 century.
 
@@ -74,15 +73,15 @@ not know what basis the glossator had for making this statement and
 therefore cannot form a judgement as to its reliability. The default
 stance of modern scholarship would be to understand this as being
 a statement (whether true or false) about the biography of Gratian.
-It is however the kind of evidence that must be evaluated
-with particular care. The teaching authority of the church is vested
-in the bishops. To identify Gratian as a bishop is therefore to
-make a very specific kind of claim about his authority, and by
-extension that of the *Decretum*. Presumably the glossator had some
-reason to believe that Gratian had actually been a bishop. The
-purpose of communicating that information to the reader however
-appears to have been to advance an authority claim on behalf of the
-collection and its compiler.
+It is however the kind of evidence that must be evaluated with
+particular care. The teaching authority of the church is vested in
+the bishops. To identify Gratian as a bishop is therefore to make
+a very specific kind of claim about his authority, and by extension
+that of the *Decretum*. Presumably the glossator had some reason
+to believe that Gratian had actually been a bishop. The purpose of
+communicating that information to the reader however appears to
+have been to advance an authority claim on behalf of the collection
+and its compiler.
 
 The second of the two twelfth-century statements on the authority,
 author, and authorship of the *Decretum* we have already encountered
@@ -158,11 +157,10 @@ Paucapalea was easily the most prominent figure from the early
 period of the Bolognese school of decretists who followed in Gratian's
 immediate footsteps. Pennington flatly states that Paucapalea was
 "[a] pupil of Gratian and the author of the first commentary on
-the *Decretum*".[^7] But in the preface to that commentary,
-Paucapalea does not refer to Gratian by name: "*Magistri autem hoc
-opus condentis ipsa decreta sunt materia.* The decrees themselves,
-however, are the subject matter of the master producing this
-work."[^8]
+the *Decretum*".[^7] But in the preface to that commentary, Paucapalea
+does not refer to Gratian by name: "*Magistri autem hoc opus condentis
+ipsa decreta sunt materia.* The decrees themselves, however, are
+the subject matter of the master producing this work."[^8]
 
 The omission is significant. Prefaces to academic books in the
 twelfth century formed a recognized genre with well-established
@@ -236,18 +234,18 @@ Those scholars who interpret the discovery of the first-recension
 manuscripts as evidence that Gratian's work on the *Decretum*
 extended over a decade or more---Pennington and Larson, but not
 Winroth---have come to see Robert's 1130 date as more plausible
-than it had previously been thought to be.[@larson_early_2007, 54-55]
-Other scholars who accept a twelfth-century reference to a "Gratian
-of Chiusi, bishop" in a Siena necrology as referring to the Gratian
-associated with the *Decretum*---Winroth, but not Pennington---have
-come to see Robert's claim that Gratian was the bishop of Chiusi
-as more plausible than it had previously been thought to be. The
-result is that Robert's overall reputation as a well-informed source
-concerning Gratian has improved in this century without there
-necessarily being much agreement as to whether the claim that Gratian
-was working on the *Decretum* around 1130 or that he was bishop of
-Chiusi ought to be considered more credible in light of the newly
-available evidence.
+than it had previously been thought to be.[@larson_early_2007,
+54-55] Other scholars who accept a twelfth-century reference to a
+"Gratian of Chiusi, bishop" in a Siena necrology as referring to
+the Gratian associated with the *Decretum*---Winroth, but not
+Pennington---have come to see Robert's claim that Gratian was the
+bishop of Chiusi as more plausible than it had previously been
+thought to be. The result is that Robert's overall reputation as a
+well-informed source concerning Gratian has improved in this century
+without there necessarily being much agreement as to whether the
+claim that Gratian was working on the *Decretum* around 1130 or
+that he was bishop of Chiusi ought to be considered more credible
+in light of the newly available evidence.
 
 The best place to look for first-hand evidence from Omnebene about
 Gratian and whether he had been Gratian's student, as well as the
@@ -299,7 +297,7 @@ is not without its limits.
 Before moving on from the quite limited claims made by presumably
 informed contemporaries such as Stephen of Tournai, Paucapalea,
 Robert of Torigni, and Simon of Bisignano on behalf of Gratian's
-authority and authorship of the *Decretum*, two final observastion
+authority and authorship of the *Decretum*, two final observations
 on the question of authority should be added.
 
 The problem of authorship and authority was particularly acute in
@@ -316,8 +314,8 @@ canons to the level of sophistication demanded by a twelfth-century
 scholastic audience, and accordingly adopted a strategy of locating
 authority in the texts that he quoted.
 
-It also seems that the widespread reception of the *Decretum*
-as itself authoritative benefited from an entirely accidental feature
+It also seems that the widespread reception of the *Decretum* as
+itself authoritative benefited from an entirely accidental feature
 of the text. The page layout of early manuscripts of the *Decretum*---the
 placement of Gratian's *dicta* inline with the authorities rather
 on the margins---had the unintentional effect of promoting Gratian

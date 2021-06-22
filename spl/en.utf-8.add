@@ -3,6 +3,7 @@ Aa
 Abbaziale
 Abbotts
 abbreviator
+abbreviavit
 absoluti
 accessus
 Acta
@@ -16,6 +17,7 @@ alia
 aliena
 Alii
 alii
+aliis
 aliorsum
 aliquando
 alium
@@ -44,6 +46,7 @@ Augustinus
 autem
 Authentica
 Authenticum
+baptismo
 barthes_death_1977
 Bartholomeus
 Bayerische
@@ -81,6 +84,7 @@ Camaldolesian
 Cambrensis
 canonem
 canones
+canonibus
 canonica
 Canonici
 canonici
@@ -93,6 +97,7 @@ Carolingians
 castitatis
 causa
 causae
+causas
 celebrata
 cenobio
 Centrale
@@ -114,6 +119,8 @@ clearcut
 clericatum
 clerici
 clerum
+Clusinus
+coadunavit
 Collectio
 comam
 communione
@@ -123,8 +130,10 @@ composuit
 comunale
 Concilio
 conciliorum
+condentis
 condicioni
 conditor
+confirmatione
 coniugium
 Consecratione
 consecratione
@@ -132,6 +141,7 @@ considerata
 constituit
 contulit
 corbino_pandectarum_1988
+corpore
 corporis
 corrigat
 Costadono
@@ -140,14 +150,19 @@ creaturarum
 csl
 CUA
 cui
+curiis
 d'Aragó
 Damasus
 dataframe
 dataframes
+decidendas
 decreta
 Decretales
+decretis
 decretist
 decretists
+decretorum
+dedicatione
 dedicationum
 defensori
 deformance
@@ -177,6 +192,7 @@ Dionysius
 Dionysius's
 Directa
 discipulorum
+discipulus
 discordantium
 distinctiones
 distinguendo
@@ -192,12 +208,16 @@ Diözesan
 Django
 docendi
 doctores
+doctoribus
+docuerit
 Dolezalek
 Dombibliothek
+domini
 donahue_translating_1987
 duas
 ducit
 dufour_attrait_1979
+duobus
 duvernoy_registre_1965
 eadem
 eam
@@ -205,6 +225,7 @@ Ebbo
 Ecce
 ecclesia
 ecclesiarum
+ecclesiasticas
 ecclesiasticis
 Eckes
 Eder
@@ -218,6 +239,7 @@ Eichbauer's
 eichbauer_gratians_2013
 eichbauer_redactions_2007
 eis
+eius
 Eliberitano
 enclitic
 enclitics
@@ -256,6 +278,7 @@ frac
 Fraistat
 Fransen
 Frederici
+frequentantur
 Friedberg
 Friedberg's
 fuerat
@@ -320,6 +343,7 @@ Handschriftenliste
 Hartmann
 Harum
 haskins_renaissance_1927
+Hec
 Helmholz
 hermeneutical
 Hic
@@ -335,6 +359,7 @@ hoeflich_establishment_2008
 homeoteleuton
 huius
 humanaque
+Humanum
 hyde_bologna_1982
 hypostases
 hypotheticals
@@ -345,6 +370,7 @@ II's
 illa
 ille
 illi
+imitari
 Imperatoris
 indicio
 indulgemus
@@ -370,7 +396,9 @@ inualetudine
 inualetudinem
 inuito
 Iohanni
+ipsa
 ipsi
+ipsissima
 Irnerius
 Isidore
 Isidorian
@@ -432,6 +460,7 @@ Larrainzar
 Larrainzar's
 larrainzar_borrador_1999
 larson_abbreviatio_2011
+larson_early_2007
 larson_master_2014
 latin
 latine
@@ -476,12 +505,14 @@ Maciej
 macOS
 Magister
 magister
+Magistri
 magistrorum
 manaresi_placiti_1955
 markus_gregory_1997
 Marseille
 Marturi
 martyn_letters_2004
+materia
 materiam
 Matplotlib
 maxime
@@ -531,12 +562,14 @@ München
 Nabor
 namque
 Nationale
+nationale
 Nazionale
 nec
 Neckham
 negotiis
 neh
 nisi
+nolumus
 Noonan
 Noonan's
 noonan_catholic_1997
@@ -545,6 +578,7 @@ noonan_gratian_1979
 norberg_registrum_1982
 Nordillus
 normam
+noster
 nostra
 nostre
 nouvelles
@@ -565,6 +599,8 @@ Odofredus
 officiis
 Omnebene
 Omnebene's
+Omnebonum
+omnes
 Omnibonus
 omnium
 opere
@@ -602,6 +638,7 @@ Patricio
 patronate
 patroni
 Paucapalea
+paucapalea_summa_1890
 Pavia
 Pavia's
 PC1
@@ -625,6 +662,7 @@ Photo51
 pietatis
 placitum
 PLE
+pleniter
 png
 PNGs
 poco
@@ -637,6 +675,7 @@ Pontus
 populus
 Porro
 possit
+postmodum
 pravumque
 prebeat
 prestentur
@@ -663,11 +702,14 @@ publicquery
 publique
 quae
 quam
+quamuis
 quantam
 quarum
 quas
+que
 quem
 queritur
+questiones
 questionibus
 qui
 quibus
@@ -698,6 +740,7 @@ regat
 Regino
 registro
 Registrum
+regitur
 regnum
 regula
 regulam
@@ -720,6 +763,7 @@ Rijksuniversiteit
 Ripoll
 Ro
 Romana
+Romanis
 Roncaglia
 Rouen
 ruber
@@ -766,6 +810,7 @@ siglum
 Silagi
 Silagi's
 Simari
+simon_of_bisignano_2014
 singer_summa_1963
 sinodo
 Siricius
@@ -796,6 +841,7 @@ sua
 suae
 subcorpora
 subcorpus
+sufficientia
 sui
 suis
 summa
@@ -804,8 +850,10 @@ sunt
 suo
 suum
 talem
+tamen
 Tarragona
 TEI
+terminat
 tertiam
 Teutonicus
 thema
@@ -821,6 +869,8 @@ Torigny
 Tornacensis
 torno
 Tournai
+tractat
+tractatum
 tractatus
 tradit
 Traditio
@@ -850,14 +900,18 @@ uotum
 uouentes
 ut
 Uta
+utilia
 uxorem
+valde
 vel
 velit
 veneratione
 veniant
 vera
+verba
 verger_patterns_1992
 vero
+Veronensis
 Vetulani
 vetus
 Visigothorum

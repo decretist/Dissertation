@@ -280,7 +280,7 @@ authority that Simon makes clear is not without its limits.
 Before moving on from the quite limited claims made by presumably
 informed contemporaries such as Stephen of Tournai, Paucapalea, Robert
 of Torigni, and Simon of Bisignano on behalf of Gratian's authority and
-authorship of the *Decretum*, two final observastion on the question of
+authorship of the *Decretum*, two final observations on the question of
 authority should be added.
 
 The problem of authorship and authority was particularly acute in the
