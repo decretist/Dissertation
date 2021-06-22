@@ -54,8 +54,8 @@ writing.[^2] Gratian made use of both strategies. He circulated the
 *Decretum* anonymously, and made no overt claim for the authority
 of his collection other than that derived from the patristic texts
 he extracted out of his material sources. In any event, the modern
-notion that the ultimate source for the authority of a text is is
-an independent judgement by the reader of the validity of the
+notion that the ultimate source for the authority of a text is
+the independent judgement passed by a reader on the validity of the
 arguments it contains is simply not applicable to the twelfth
 century.
 
@@ -74,7 +74,7 @@ not know what basis the glossator had for making this statement and
 therefore cannot form a judgement as to its reliability. The default
 stance of modern scholarship would be to understand this as being
 a statement (whether true or false) about the biography of Gratian.
-For that reason, it is the kind of evidence that must be evaluated
+It is however the kind of evidence that must be evaluated
 with particular care. The teaching authority of the church is vested
 in the bishops. To identify Gratian as a bishop is therefore to
 make a very specific kind of claim about his authority, and by
@@ -109,7 +109,7 @@ chooses an active-voice verb to characterize Gratian's creative
 relationship with the text of the *Decretum*: Gratian, according
 to Stephen, "arranged (*ordinavit*)" the canons. Gratian's role is
 a distinctly subordinate one, however, confined to "clarifying and
-explicating the opinions of the holy Fathers" whom Stephen centers
+explicating the opinions of the holy Fathers" to whom Stephen looks
 as the ultimate source for the authority of the *Decretum*.
 
 Most medieval and modern readers of the *Decretum* have seen it as
@@ -246,7 +246,7 @@ result is that Robert's overall reputation as a well-informed source
 concerning Gratian has improved in this century without there
 necessarily being much agreement as to whether the claim that Gratian
 was working on the *Decretum* around 1130 or that he was bishop of
-Chiusi ought to be considered more credible in light of newly
+Chiusi ought to be considered more credible in light of the newly
 available evidence.
 
 The best place to look for first-hand evidence from Omnebene about
@@ -293,26 +293,18 @@ appear to dealing with statements that on the surface appear to be
 about the biography of Gratian---a claim by Simon that he had been
 Gratian's student---but that should more plausibly be read as an
 acknowledgement of Gratian's authority as the founder of an
-intellectual tradition.
+intellectual tradition. It is an authority that Simon makes clear
+is not without its limits.
 
-<!--
-
-Modern scholars considering the authorship of a text are primarily
-interested in the question of whose thought is reflected in the
-arguments it makes.
-
-This dissertation is about whether one, two, or many authors wrote
-the exact words in the text of the *dicta* in the *Decretum*.
-
-Reserve paragraphs below as conclusion to the Authority section
-
-  -->
-
----
+Before moving on from the quite limited claims made by presumably
+informed contemporaries such as Stephen of Tournai, Paucapalea,
+Robert of Torigni, and Simon of Bisignano on behalf of Gratian's
+authority and authorship of the *Decretum*, two final observastion
+on the question of authority should be added.
 
 The problem of authorship and authority was particularly acute in
 the first half of the twelfth century, because early scholastic
-readers were more alert to the gaps in the armor of traditional
+readers were much more alert to the gaps in the armor of traditional
 authorities than their less-sophisticated predecessors had been.
 Peter Abelard was unique in the radicalism of his solution to the
 problem: in *Sic et non*, he subverted and indeed dissolved the
@@ -321,10 +313,10 @@ authoritative authors were in actual, not just apparent, disagreement.
 Gratian in contrast to Abelard undertook an intellectually conservative
 hermeneutical project of harmonizing the apparently discordant
 canons to the level of sophistication demanded by a twelfth-century
-scholastic audience, and accordingly adopted the strategy of locating
+scholastic audience, and accordingly adopted a strategy of locating
 authority in the texts that he quoted.
 
-It seems however that the widespread reception of the *Decretum*
+It also seems that the widespread reception of the *Decretum*
 as itself authoritative benefited from an entirely accidental feature
 of the text. The page layout of early manuscripts of the *Decretum*---the
 placement of Gratian's *dicta* inline with the authorities rather
@@ -415,7 +407,7 @@ Gratian had a teaching career.[^26]
 <!--
 
 Noonan briefly discusses an entry in the chronicle of Robert of
-Torigny identifying Gratian as bishop of Chiusi. Noonan considers
+Torigni identifying Gratian as bishop of Chiusi. Noonan considers
 that claim unverifiable.[@noonan_gratian_1979, 153-154] The
 since-discovered Siena necrology makes Robert's identification more
 plausible, though by no means certain.

@@ -19,7 +19,7 @@ Reviewed (SC) 17 August 2018
 Reviewed (SC) 6 November 2017
 - [Chapter 2: The *Decretum*](Chapter2/chapter2.markdown) (1 June 2021) 49 pages [(PDF)](Chapter2/chapter2.pdf)\
 Under review (SC)
-- [Chapter 3: Authority, Author, Authorship](Chapter3/chapter3.markdown) (8 June 2021) 48 pages\
+- [Chapter 3: Authority, Author, Authorship](Chapter3/chapter3.markdown) (22 June 2021) 48 pages\
 Scheduled for completion 11 June 2021
 - [Chapter 4: Stylometry](Chapter4/chapter4.markdown) (15 June 2021) 83 pages [(PDF)](Chapter4/chapter4.pdf)\
 Under review (MK)

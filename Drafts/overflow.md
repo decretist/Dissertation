@@ -39,6 +39,17 @@ conciliar, and papal source texts, and towards a much more narrowly
 circumscribed technical jurisprudence focused exclusively on
 contemporary papal decretals.
 
+---
+
+Modern scholars considering the authorship of a text are primarily
+interested in the question of whose thought is reflected in the
+arguments it makes.
+
+This dissertation is about whether one, two, or many authors wrote
+the exact words in the text of the *dicta* in the *Decretum*.
+
+---
+
 ## Chapter 4
 The two-dimensional visualization above proceeded from the traditional
 assumption that Gratian's *dicta*---defined as the hypothetical

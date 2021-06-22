@@ -44,9 +44,9 @@ in their own writing.[2] Gratian made use of both strategies. He
 circulated the *Decretum* anonymously, and made no overt claim for the
 authority of his collection other than that derived from the patristic
 texts he extracted out of his material sources. In any event, the modern
-notion that the ultimate source for the authority of a text is is an
-independent judgement by the reader of the validity of the arguments it
-contains is simply not applicable to the twelfth century.
+notion that the ultimate source for the authority of a text is the
+independent judgement passed by a reader on the validity of the
+arguments it contains is simply not applicable to the twelfth century.
 
 We have already encountered two twelfth-century statements on the
 authority, author, and authorship of the *Decretum*. The first was the
@@ -62,13 +62,13 @@ Gratian had been a bishop. We do not know what basis the glossator had
 for making this statement and therefore cannot form a judgement as to
 its reliability. The default stance of modern scholarship would be to
 understand this as being a statement (whether true or false) about the
-biography of Gratian. For that reason, it is the kind of evidence that
-must be evaluated with particular care. The teaching authority of the
-church is vested in the bishops. To identify Gratian as a bishop is
-therefore to make a very specific kind of claim about his authority, and
-by extension that of the *Decretum*. Presumably the glossator had some
-reason to believe that Gratian had actually been a bishop. The purpose
-of communicating that information to the reader however appears to have
+biography of Gratian. It is however the kind of evidence that must be
+evaluated with particular care. The teaching authority of the church is
+vested in the bishops. To identify Gratian as a bishop is therefore to
+make a very specific kind of claim about his authority, and by extension
+that of the *Decretum*. Presumably the glossator had some reason to
+believe that Gratian had actually been a bishop. The purpose of
+communicating that information to the reader however appears to have
 been to advance an authority claim on behalf of the collection and its
 compiler.
 
@@ -97,7 +97,7 @@ an active-voice verb to characterize Gratian's creative relationship
 with the text of the *Decretum*: Gratian, according to Stephen,
 "arranged (*ordinavit*)" the canons. Gratian's role is a distinctly
 subordinate one, however, confined to "clarifying and explicating the
-opinions of the holy Fathers" whom Stephen centers as the ultimate
+opinions of the holy Fathers" to whom Stephen looks as the ultimate
 source for the authority of the *Decretum*.
 
 Most medieval and modern readers of the *Decretum* have seen it as a
@@ -230,8 +230,8 @@ to be. The result is that Robert's overall reputation as a well-informed
 source concerning Gratian has improved in this century without there
 necessarily being much agreement as to whether the claim that Gratian
 was working on the *Decretum* around 1130 or that he was bishop of
-Chiusi ought to be considered more credible in light of newly available
-evidence.
+Chiusi ought to be considered more credible in light of the newly
+available evidence.
 
 The best place to look for first-hand evidence from Omnebene about
 Gratian and whether he had been Gratian's student, as well as the
@@ -274,26 +274,18 @@ Winroth as "students of Gratian". Yet again, we appear to dealing with
 statements that on the surface appear to be about the biography of
 Gratian---a claim by Simon that he had been Gratian's student---but that
 should more plausibly be read as an acknowledgement of Gratian's
-authority as the founder of an intellectual tradition.
+authority as the founder of an intellectual tradition. It is an
+authority that Simon makes clear is not without its limits.
 
-<!--
-
-Modern scholars considering the authorship of a text are primarily
-interested in the question of whose thought is reflected in the
-arguments it makes.
-
-This dissertation is about whether one, two, or many authors wrote
-the exact words in the text of the *dicta* in the *Decretum*.
-
-Reserve paragraphs below as conclusion to the Authority section
-
-  -->
-
-------------------------------------------------------------------------
+Before moving on from the quite limited claims made by presumably
+informed contemporaries such as Stephen of Tournai, Paucapalea, Robert
+of Torigni, and Simon of Bisignano on behalf of Gratian's authority and
+authorship of the *Decretum*, two final observastion on the question of
+authority should be added.
 
 The problem of authorship and authority was particularly acute in the
 first half of the twelfth century, because early scholastic readers were
-more alert to the gaps in the armor of traditional authorities than
+much more alert to the gaps in the armor of traditional authorities than
 their less-sophisticated predecessors had been. Peter Abelard was unique
 in the radicalism of his solution to the problem: in *Sic et non*, he
 subverted and indeed dissolved the entire notion of authority by showing
@@ -301,13 +293,13 @@ that texts written by equally authoritative authors were in actual, not
 just apparent, disagreement. Gratian in contrast to Abelard undertook an
 intellectually conservative hermeneutical project of harmonizing the
 apparently discordant canons to the level of sophistication demanded by
-a twelfth-century scholastic audience, and accordingly adopted the
+a twelfth-century scholastic audience, and accordingly adopted a
 strategy of locating authority in the texts that he quoted.
 
-It seems however that the widespread reception of the *Decretum* as
-itself authoritative benefited from an entirely accidental feature of
-the text. The page layout of early manuscripts of the *Decretum*---the
-placement of Gratian's *dicta* inline with the authorities rather on the
+It also seems that the widespread reception of the *Decretum* as itself
+authoritative benefited from an entirely accidental feature of the text.
+The page layout of early manuscripts of the *Decretum*---the placement
+of Gratian's *dicta* inline with the authorities rather on the
 margins---had the unintentional effect of promoting Gratian himself to
 the status of an authority (or at least to a status of near-equality
 with his authorities). Even though the specific page layout was probably
@@ -392,7 +384,7 @@ career.[28]
 <!--
 
 Noonan briefly discusses an entry in the chronicle of Robert of
-Torigny identifying Gratian as bishop of Chiusi. Noonan considers
+Torigni identifying Gratian as bishop of Chiusi. Noonan considers
 that claim unverifiable.[@noonan_gratian_1979, 153-154] The
 since-discovered Siena necrology makes Robert's identification more
 plausible, though by no means certain.
@@ -1243,7 +1235,7 @@ subjects. The development of glosses, *summae*, *questiones*,
 *distinctiones*, etc., came later, as did the awareness of teachers like
 Bernard of Pavia that their compilations might become standard
 school-texts (and, hence, that comments were best relegated to the
-margins)." Winroth, *The Making of Gratian’s Decretum*, 2000, 191.
+margins)." Winroth, *The Making of Gratian’s Decretum*, 191.
 
 [21] At most, there seems to have been a limited claim of authority
 being made by the authors of the first-recension *dicta* (Gratian 1) on
@@ -1303,8 +1295,7 @@ cross-examine witnesses. To make any headway with as complex and
 difficult a problem as Gratian's biography, it will be important to
 cling a bit more closely than Noonan did to classical historical
 methodology and terminology, as they have been codified from the late
-nineteenth century on." Winroth, “Where Gratian Slept,” August 2013,
-106.
+nineteenth century on." Winroth, “Where Gratian Slept”, 106.
 
 [28] R.W. Southern takes an extreme position with respect to Gratian's
 teaching career, citing as late as 1995 Gratian's supposed association
@@ -1343,7 +1334,7 @@ Karl H. L. Welker (Vienna, 2007), 107–22.
 [34] Pennington, “The Biography of Gratian, the Father of Canon Law,”
 387.
 
-[35] Winroth, *The Making of Gratian’s Decretum*, 2000, 122.
+[35] Winroth, *The Making of Gratian’s Decretum*, 122.
 
 [36] Winroth has since come to contextualize the differences between the
 first and second recension with respect to the use of Roman law within a
@@ -1363,9 +1354,9 @@ to it. Winroth ultimately accepted the argument of Rudolf Weigand
 start rejecting problematic passages because they are inconvenient
 (chronologically or otherwise), there is no obvious place to stop.
 
-[38] See Winroth, “Where Gratian Slept,” August 2013. The article
-expands on a presentation given by Winroth at the Fourteenth
-International Congress of Medieval Canon Law, Toronto, 2012.
+[38] See Winroth, “Where Gratian Slept”. The article expands on a
+presentation given by Winroth at the Fourteenth International Congress
+of Medieval Canon Law, Toronto, 2012.
 
 [39] See Melodie H. Eichbauer, “Gratian’s Decretum and the Changing
 Historiographical Landscape,” *History Compass* 11, no. 12 (December
@@ -1378,12 +1369,12 @@ MS 673 (=Sg),” *Ius Ecclesiae: Rivista Internazionale di Diritto
 Canonico* 11, no. 3 (1999): 593–666, 601. "The second recension contains
 3,945 canons (including the paleae) in the editions. The first recension
 contains only 1,860 canons (47 percent)." Winroth, *The Making of
-Gratian’s Decretum*, 2000, 122.
+Gratian’s Decretum*, 122.
 
 [41] See Larrainzar, “El Borrador de la ’Concordia’ de Graciano”, 601,
 for the number of canons in Sg, emphasizing that it is approximate. See
-Winroth, *The Making of Gratian’s Decretum*, 2000, 122, for the number
-of canons in the first recension. 3,945 is a conventional number.
+Winroth, *The Making of Gratian’s Decretum*, 122, for the number of
+canons in the first recension. 3,945 is a conventional number.
 
 [42] Larrainzar, “El Borrador de la ’Concordia’ de Graciano,” 653.
 
@@ -1434,10 +1425,10 @@ intellectual caliber of Augustine's episcopal household, and to assess
 its contribution to his work accordingly.
 
 [52] Grebner, “Lay Patronate in Bologna in the first half of the 12th
-Century”; Winroth, “Where Gratian Slept,” August 2013; Kenneth
-Pennington, “The Biography of Gratian, the Father of Canon Law,”
-*Villanova Law Review* 59 (2014): 679–706; and Pennington, “The
-Biography of Gratian, the Father of Canon Law”.
+Century”; Winroth, “Where Gratian Slept”; Kenneth Pennington, “The
+Biography of Gratian, the Father of Canon Law,” *Villanova Law Review*
+59 (2014): 679–706; and Pennington, “The Biography of Gratian, the
+Father of Canon Law”.
 
 [53] Roland Barthes, “The Death of the Author,” in *Image, Music, Text*,
 trans. Stephen Heath (New York: Hill; Wang, 1977), 142–48; and Michel
