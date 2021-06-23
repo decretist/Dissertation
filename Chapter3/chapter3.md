@@ -394,7 +394,7 @@ all, the monastery of Saints Felix and Nabor in Bologna was in the
 hands of Camaldolese communities in 1113 and 1153, it does not seem
 unreasonable to infer that it was in the hands of one in the 1120s
 and 1130s when Gratian was putatively associated with the foundation,
-whatever we think the nature of that association to have been. But
+whatever we may think the nature of that association to have been. But
 Noonan's caution seems justified when we consider, for example,
 Southern's having seized upon the one thinly-sourced datum of the
 Camaldolese connection as the foundation for his entire reconstruction
@@ -402,15 +402,11 @@ of Gratian's intentions and motivations in undertaking the *Decretum*
 project, including a peremptory dismissal of any possibility that
 Gratian had a teaching career.[^28]
 
-<!--
-
-Noonan briefly discusses an entry in the chronicle of Robert of
-Torigni identifying Gratian as bishop of Chiusi. Noonan considers
-that claim unverifiable.[@noonan_gratian_1979, 153-154] The
-since-discovered Siena necrology makes Robert's identification more
-plausible, though by no means certain.
-
-  -->
+The entry in the chronicle of Robert of Torigni identifying Gratian
+as bishop of Chiusi and teacher of Omnebene is one of the many
+pieces of testimony from the Gratian legendary that Noonan
+cross-examines, although he ultimately dismisses Robert's identification
+as unverifiable.[^noonan]
 
 Noonan's wide-ranging skepticism extended considerably further than
 this or that alleged fact about Gratian's biography; he expressed
@@ -1046,6 +1042,10 @@ most generally used of all the masterpieces of twelfth-century
 learning." "the book, and not the teaching of pupils, was the
 offering Gratian's monastic life brought to the Church".
 @southern_scholastic_1995, 286-287, 304.
+
+[^noonan]: @noonan_gratian_1979, 153-154. The recently rediscovered
+Siena necrology makes Robert's identification more plausible than
+it would have appeared to Noonan, though by no means certain.
 
 [^30]: Pennington reads a great deal into the order (why wasn't
 Gratian referred to first?) and the honorifics (why wasn't Gratian
