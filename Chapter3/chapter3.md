@@ -434,7 +434,7 @@ who was recorded as having participated in an 1143 case in Venice
 as one of three legal consultants ("magister Walfredus", "Gratianus",
 and "Moysis", in that order)[^30] advising a three-judge panel
 presided over by a papal legate, Cardinal Goizo, might be the same
-Gratian responsible for the *Decretum*.
+Gratian responsible for the *Decretum*.[^grebner]
 
 > But we can say that it is possible, even plausible, that the
 unbiased notary who recorded the scene at S. Marco is the only
@@ -456,24 +456,6 @@ Winroth's discovery of the first recension. Scholarship on the
 identity of Gratian in this century has necessarily had to take
 into account both Noonan's pruning of his biography and the existence
 of the first and second recensions.
-
-### Grebner
-
-One of the earliest attempts to do so was Gundula Grebner's "Lay
-patronate in Bologna in the first half of the 12th century: Regular
-canons, notaries, and the *Decretum*."[@grebner_patronate_2007]
-Grebner's article is usually cited in connection with the 1143 court
-case: "Recently, Gundula Grebner uncovered more evidence that would
-confirm Gratian's presence in a Venetian courtroom and change
-Noonan's plausible to certain."[@pennington_biography_2018, 387]
-
-<!--
-
-Grebner's prosopographic analysis appears to put Gratian on the
-"right" side of the Anacletian schism (i.e., on the same side as
-Haimeric with the Innocentians).
-
-  -->
 
 ### Winroth
 
@@ -709,19 +691,19 @@ partial loss of control of the project opened up a space for
 genuinely collaborative authorship. The starting point for this inquiry
 is a theoretically informed understanding of what authorship is.
 
-The recent work on the life of Gratian by Grebner, Winroth, and
-Pennington[^52] reviewed in the preceding section tacitly assumes
-that if we can identify the historical Gratian, we will have
-identified the author of the *Decretum* (or at least the author of
-the first recension), with authorship of the text understood in a
-way not unlike the way in which we might understand the authorship
-of a modern literary text. (Noonan entertains a more nuanced concept
-of authorship, allowing for the possibility that there might have
-been multiple authors.) In conducting this kind of "quest of the
-historical Gratian," historians have uncritically accepted a
-conceptualization of authorship that is somewhat anachronistic when
-applied to a medieval text and has been largely discarded by literary
-scholarship over the last half-century.
+The recent work on the life of Gratian by Pennington and Winroth[^52]
+reviewed in the preceding section tacitly assumes that if we can
+identify the historical Gratian, we will have identified the author
+of the *Decretum* (or at least the author of the first recension),
+with authorship of the text understood in a way not unlike the way
+in which we might understand the authorship of a modern literary
+text. (Noonan entertains a more nuanced concept of authorship,
+allowing for the possibility that there might have been multiple
+authors.) In conducting this kind of "quest of the historical
+Gratian," historians have uncritically accepted a conceptualization
+of authorship that is somewhat anachronistic when applied to a
+medieval text and has been largely discarded by literary scholarship
+over the last half-century.
 
 ---
 
@@ -1072,6 +1054,20 @@ There is, however, no reason to assume that the notary who reported
 on the proceedings would necessarily have been well-informed about
 Gratian, who was, after all, not a local figure in Venice.
 
+[^grebner]: @grebner_patronate_2007 is frequently cited in connection
+with the 1143 court case: "Recently, Gundula Grebner uncovered more
+evidence that would confirm Gratian's presence in a Venetian courtroom
+and change Noonan's plausible to certain." @pennington_biography_2018,
+387.
+
+<!--
+
+Grebner's prosopographic analysis appears to put Gratian on the
+"right" side of the Anacletian schism (i.e., on the same side as
+Haimeric with the Innocentians).
+
+  -->
+
 [^36]: Winroth has since come to contextualize the differences
 between the first and second recension with respect to the use of
 Roman law within a broader context: "The argument about two authors
@@ -1147,8 +1143,8 @@ Possidius of Calama († c.437) are likely to be unimpressed by the
 intellectual caliber of Augustine's episcopal household, and to
 assess its contribution to his work accordingly.
 
-[^52]: @grebner_patronate_2007; @winroth_where_2013;
-@pennington_biography_2014; and @pennington_biography_2018.
+[^52]: @winroth_where_2013; @pennington_biography_2014; and
+@pennington_biography_2018.
 
 [^53]: @barthes_death_1977; and @foucault_what_1998.
 
