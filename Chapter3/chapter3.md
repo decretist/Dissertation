@@ -486,10 +486,50 @@ second recension.[^37]
 Winroth rejects claims that the Sg manuscript of the *Decretum* is
 descended from a version earlier than the first recension, and
 argues that it is instead an abbreviation of the first recension
-with some interpolations from the second. Winroth therefore does
+with some interpolations from the second.[^sg] Winroth therefore does
 not see the existence of Sg as a reason to assume either a long
 teaching career for Gratian or a long period of incremental development
 for the text of the *Decretum*.
+
+[^sg]: Much of the debate over whether the *Decretum* was the result
+of a continuous or discontinuous process of composition focused on
+the Sankt Gallen Stiftsbibliothek 673 (Sg) manuscript. Pennington,
+Eichbauer, and Larson have argued that it represents, at some unknown
+number of removes, an earlier version of the *Decretum* than Winroth's
+first recension. Winroth and Wei have argued that Sg is a relatively
+uninteresting abbreviation of a first recension manuscript with
+some second recension interpolations. See @eichbauer_gratians_2013
+for a good recent overview of these debates.
+
+    The version of the *Decretum* preserved in the Sankt Gallen
+    Stiftsbibliothek 673 (Sg) manuscript contains somewhat fewer
+    than 1,050 canons, and is therefore considerably shorter than
+    either the first recension (1,860 canons) or the vulgate (3,945)
+    versions of the text. Carlos Larrainzar describes Sg as having
+    "poco menos de 1,050 *auctoritates* y en torno a los 650 *dicta*."
+    @larrainzar_borrador_1999, 601. "The second recension contains
+    3,945 canons (including the paleae) in the editions. The first
+    recension contains only 1,860 canons (47 percent)."
+    @winroth_making_2000, 122. See @larrainzar_borrador_1999, 601,
+    for the number of canons in Sg, emphasizing that it is approximate.
+    See @winroth_making_2000, 122, for the number of canons in the
+    first recension. 3,945 is a conventional number.
+
+    Formally, Sg is not divided into parts; all of
+    its content is presented in the form of cases. The first case,
+    however, is unique to Sg, and is referred to as *Causa Prima* to
+    distinguish it from the *Causa* I found in all other pre-vulgate
+    and vulgate versions of the *Decretum*. (*Causa* I appears as *Causa*
+    II in Sg.) It contains a subset of canons and *dicta* found in Part
+    I, presented in almost exactly the same order in which they appear
+    in other versions of the *Decretum*. (There is one relatively minor
+    exception with respect to the ordering of the texts, the four canons
+    corresponding to D.32 c.3, c.4, c.6, and c.7 are inserted between
+    the canons corresponding to D.31 c.6 and D.31
+    c.7.) @larrainzar_borrador_1999, 653. Notably, *Causa Prima* contains
+    no texts (canons or *dicta*) from the *tractatus de legibus*
+    (distinctions 1-20) and none from Gratian's "epilogue" (distinctions
+    81-101).
 
 Finally, Winroth accepts an entry in a Siena necrology (Siena,
 Biblioteca Comunale degli Intronati F.I.2, f.5r) brought to scholarly
@@ -518,12 +558,12 @@ authorship of the second recension.
 
 Much of the debate over whether the *Decretum* was the result of a
 continuous or discontinuous process of composition focused on the
-Sankt Gallen 673 (Sg) manuscript. Pennington and some of his students
-have argued that it represented, at some unknown number of removes,
-an earlier version of the *Decretum* than Winroth's first recension.
-Winroth and Wei have argued that Sg was a relatively uninteresting
-abbreviation of a first recension manuscript with some second
-recension interpolations.[^39]
+Sankt Gallen Stiftsbibliothek 673 (Sg) manuscript. Pennington,
+Eichbauer, and Larson have argued that it represents, at some unknown
+number of removes, an earlier version of the *Decretum* than Winroth's
+first recension. Winroth and Wei have argued that Sg is a relatively
+uninteresting abbreviation of a first recension manuscript with
+some second recension interpolations.[^39]
 
 The version of the *Decretum* preserved in the Sankt Gallen
 Stiftsbibliothek 673 (Sg) manuscript contains somewhat fewer than
