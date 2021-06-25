@@ -110,6 +110,7 @@ a stylometric analysis of the frequencies of 70 function words to
 compare the 12 disputed numbers with numbers securely attributed
 to Hamilton and Madison.[@mosteller_inference_1964]
 
+![](JPGs/1x1.jpg)
 ![Federalist](JPGs/Federalist_CA_72_MFWs.jpg)
 
 ### Definition of first- and second-recension *dicta*
