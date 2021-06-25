@@ -171,7 +171,7 @@ statement in his preface affirming the authority of both the work
 commented on and its author. If Paucapalea had had something to say
 about the authority and authorship of Gratian, his readers would
 have expected him to do so in his preface. That he did not suggests
-that he did not known enough about Gratian to credibly do so.[^9]
+that he did not know enough about Gratian to credibly do so.[^9]
 
 <!--
 
