@@ -98,7 +98,7 @@ Adair's findings by conducting a stylometric analysis of the frequencies
 of 70 function words to compare the 12 disputed numbers with numbers
 securely attributed to Hamilton and Madison.[6]
 
-![Federalist](JPGs/Federalist_CA_72_MFWs.jpg)
+![](JPGs/1x1.jpg) ![Federalist](JPGs/Federalist_CA_72_MFWs.jpg)
 
 ### Definition of first- and second-recension *dicta*
 
@@ -515,11 +515,11 @@ sample and the attributed corpus have to be calculated without taking
 the values from Gratian0 into account.
 
 The demonstration of Burrows's Delta will make a point of the fact that
-the technique can be used at a higher number of dimensions (n &gt; 3)
-than can be visualized in graphical form. Word frequency data for the
-four most frequent words (MFWs) will therefore be collected from the
-start, even though the data for the third- and fourth-most frequent
-words will not be used in this section.
+the technique can be used at a higher number of dimensions (n \> 3) than
+can be visualized in graphical form. Word frequency data for the four
+most frequent words (MFWs) will therefore be collected from the start,
+even though the data for the third- and fourth-most frequent words will
+not be used in this section.
 
 First, identify the four most frequent words in the comparison text
 samples, Gratian1, dePen, and Gratian2:
@@ -734,7 +734,7 @@ said to have a z-score of 1.0 or -1.0 depending on whether the value is
 greater or lesser than the mean. The formula used to calculate the
 sample standard deviation is:
 
-$s=\\sqrt{\\frac{1}{N - 1}\\sum\_{i=1}^N(x\_i-\\bar{x})^2}$
+$s=\\sqrt{\\frac{1}{N - 1}\\sum\_{i=1}^N(x_i-\\bar{x})^2}$
 
 The formula is slightly daunting notationally, but it is not difficult
 to use it to calculate the desired results. The example immediately
@@ -751,16 +751,16 @@ for each of the samples individually (the mean of means).
 First, calculate the squared deviations from the mean of means for the
 frequency of *in* in the first-recension *dicta* (Gratian1):
 
-(*x*<sub>1</sub> − *x̄*)<sup>2</sup> = (25.5673 − 26.4656)<sup>2</sup> = ( − 0.8983)<sup>2</sup> = 0.8069,
+(*x*<sub>1</sub>−*x̄*)<sup>2</sup> = (25.5673−26.4656)<sup>2</sup> = (−0.8983)<sup>2</sup> = 0.8069,
 
 for the frequency of *in* in the *dicta* from *de Penitentia* (dePen):
 
-(*x*<sub>2</sub> − *x̄*)<sup>2</sup> = (24.9975 − 26.4656)<sup>2</sup> = ( − 1.4681)<sup>2</sup> = 2.1553,
+(*x*<sub>2</sub>−*x̄*)<sup>2</sup> = (24.9975−26.4656)<sup>2</sup> = (−1.4681)<sup>2</sup> = 2.1553,
 
 and for the frequency of *in* in the second-recension *dicta*
 (Gratian2):
 
-(*x*<sub>3</sub> − *x̄*)<sup>2</sup> = (28.8320 − 26.4656)<sup>2</sup> = (2.3664)<sup>2</sup> = 5.5998.
+(*x*<sub>3</sub>−*x̄*)<sup>2</sup> = (28.8320−26.4656)<sup>2</sup> = (2.3664)<sup>2</sup> = 5.5998.
 
 Then, as indicated by the summation operator ∑, sum the three squared
 deviations from the mean of means, divide the sum by their number
@@ -1189,10 +1189,10 @@ corpus = z_scores[samples]
 
 The formula used to calculate Burrows's Delta is:
 
-$\\Delta\_B = \\frac{1}{N}\\sum\_{i = 1}^N\|z\_i(t) - z\_i(c)\|$
+$\\Delta_B = \\frac{1}{N}\\sum\_{i = 1}^N\|z_i(t) - z_i(c)\|$
 
 It is easiest to deal with the formula in two steps, first evaluating
-the expression \|*z*<sub>*i*</sub>(*t*) − *z*<sub>*i*</sub>(*c*)\|. Note
+the expression \|*z*<sub>*i*</sub>(*t*)−*z*<sub>*i*</sub>(*c*)\|. Note
 that because we take the absolute value of the result, the order of
 operands on either side of the subtraction operator '-' does not matter.
 For each of the three columns (Gratian1, dePen, and Gratian2) in the
@@ -1480,7 +1480,7 @@ Big Problem.” *Literary and Linguistic Computing* 30, no. 2 (June 2015):
 Evert, Stefan, Thomas Proisl, Fotis Jannidis, Isabella Reger, Steffen
 Pielström, Christof Schöch, and Thorsten Vitt. “Understanding and
 Explaining Delta Measures for Authorship Attribution.” *Digital
-Scholarship in the Humanities* 32, no. suppl\_2 (December 2017): ii4–16.
+Scholarship in the Humanities* 32, no. suppl_2 (December 2017): ii4–16.
 
 </div>
 
@@ -1608,7 +1608,7 @@ Science: Quantitative Methods (Reading, Mass: Addison-Wesley Pub. Co,
 Federalist Papers,” *The William and Mary Quarterly* 1, no. 2 (1944):
 98–122, 104.
 
-[5] Adair, “The Authorship of the Disputed Federalist Papers,” 1944 and
+[5] Adair, “The Authorship of the Disputed Federalist Papers” and
 Douglass Adair, “The Authorship of the Disputed Federalist Papers: Part
 II,” *The William and Mary Quarterly* 1, no. 3 (1944): 235–64.
 
@@ -1633,9 +1633,9 @@ Samples, Big Problem,” *Literary and Linguistic Computing* 30, no. 2
 
 [11] Winroth, *The Making of Gratian’s Decretum*, 9-11. See also Stephan
 Kuttner, “De Gratiani opere noviter edendo,” *Apollinaris* 21 (1948):
-118–28 (Latin), and (“Research on Gratian”), 10, 21-22, which mentions
-the deficiency of Friedberg's edition without offering a detailed
-critique.
+118–28 (Latin), and -Kuttner, “Research on Gratian”, 10, 21-22, which
+mentions the deficiency of Friedberg's edition without offering a
+detailed critique.
 
 [12] "The list is based on a collation of *incipits* and *explicits* of
 every canon and *dictum* in the first recension. Differences within the
@@ -1753,13 +1753,13 @@ the *a**b*<sup>2</sup> = *k* relationship which appears valid for the
 frequency distribution of the less frequent words would demand
 fractional words when applied to the speech-elements of highest
 occurrence, such as *the* in English." Zipf, *The Psycho-Biology of
-Language*, 1935, 42-43.
+Language*, 42-43.
 
 [30] Zipf used the term "integrality" to describe the discrete,
 discontinuous, nature of frequency and rank. Zipf, *Human Behavior and
-the Principle of Least Effort*, 1949, 31, 35.
+the Principle of Least Effort*, 31, 35.
 
-[31] Zipf, *The Psycho-Biology of Language*, 1935, 43.
+[31] Zipf, *The Psycho-Biology of Language*, 43.
 
 [32] "we have found a clearcut correlation between the number of
 different words in the *Ulysses* and the frequency of their usage, in
@@ -1767,11 +1767,10 @@ the sense that they approximate the simple equation of an equilateral
 hyperbola: r × f = C in which *r* refers to the word's rank in the
 *Ulysses* and *f* to its frequency of occurrence (as we ignore for the
 present the size of C)." Zipf, *Human Behavior and the Principle of
-Least Effort*, 1949, 24. See Zipf, , 23-52, for Zipf's extended
-discussion of the rank-frequency distribution of words in Joyce's
-*Ulysses*.
+Least Effort*, 24. See Zipf, , 23-52, for Zipf's extended discussion of
+the rank-frequency distribution of words in Joyce's *Ulysses*.
 
-[33] $m = \\frac{\\sum{x\_iy\_i - n\\bar{xy}}}{\\sum{x\_i^2 - n\\bar{x}^2}}$
+[33] $m = \\frac{\\sum{x_iy_i - n\\bar{xy}}}{\\sum{x_i^2 - n\\bar{x}^2}}$
 or:
 
 ``` python
@@ -1805,13 +1804,13 @@ occurrences (b).
 [35] John Burrows, “Questions of Authorship: Attribution and Beyond: A
 Lecture Delivered on the Occasion of the Roberto Busa Award ACH-ALLC
 2001, New York,” *Computers and the Humanities* 37, no. 1 (February
-2003): 5–32; and (“‘Delta’: A Measure of Stylistic Difference and a
-Guide to Likely Authorship,” *Literary and Linguistic Computing* 17, no.
-3 (September 2002): 267–87).
+2003): 5–32; and -John Burrows, “‘Delta’: A Measure of Stylistic
+Difference and a Guide to Likely Authorship,” *Literary and Linguistic
+Computing* 17, no. 3 (September 2002): 267–87.
 
 [36] Stefan Evert et al., “Understanding and Explaining Delta Measures
 for Authorship Attribution,” *Digital Scholarship in the Humanities* 32,
-no. suppl\_2 (December 2017): ii4–16.
+no. suppl_2 (December 2017): ii4–16.
 
 [37] *de Penitentia* D.1 c.88 (R1), D.3 c.42 (R1), D.3 c.49 (R1), D.5
 c.1 (R1), D.6 c.1 (R1), and D.7 c.6 (R1). These seven extended passages
@@ -1824,11 +1823,12 @@ falsa penitentia : an edition and study*, 1995.**
 
 [38] The division of the first-recension (R1) *dicta* into twelve
 sections follows the division of Gratian's *Decretum* proposed by Alfred
-Beyer in (*Lokale Abbreviationen des Decretum Gratiani: Analyse und
-Vergleich der Dekretabbreviationen "Omnes leges aut divine" (Bamberg),
-"Humanum genus duobus regitur" (Pommersfelden) und "De his qui intra
-claustra monasterii consistunt" (Lichtenthal, Baden-Baden)*, Bamberger
-theologische Studien ; Bd. 6 (Frankfurt am Main ; PLang, 1998)), 17-18.
+Beyer in -Alfred Beyer, *Lokale Abbreviationen des Decretum Gratiani:
+Analyse und Vergleich der Dekretabbreviationen "Omnes leges aut divine"
+(Bamberg), "Humanum genus duobus regitur" (Pommersfelden) und "De his
+qui intra claustra monasterii consistunt" (Lichtenthal, Baden-Baden)*,
+Bamberger theologische Studien ; Bd. 6 (Frankfurt am Main ; PLang,
+1998), 17-18.
 
 <div align="center">
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
