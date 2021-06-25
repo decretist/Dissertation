@@ -158,7 +158,7 @@ was expected to offer an explicit statement in his preface affirming the
 authority of both the work commented on and its author. If Paucapalea
 had had something to say about the authority and authorship of Gratian,
 his readers would have expected him to do so in his preface. That he did
-not suggests that he did not known enough about Gratian to credibly do
+not suggests that he did not know enough about Gratian to credibly do
 so.[9]
 
 <!--
@@ -408,8 +408,8 @@ Noonan did leave open one affirmative possibility, that a Gratian who
 was recorded as having participated in an 1143 case in Venice as one of
 three legal consultants ("magister Walfredus", "Gratianus", and
 "Moysis", in that order)[31] advising a three-judge panel presided over
-by a papal legate, Cardinal Goizo, might be the same Gratian responsible
-for the *Decretum*.[32]
+by a papal legate, Cardinal Goizo, might be the same Gratian as the one
+responsible for the *Decretum*.[32]
 
 > But we can say that it is possible, even plausible, that the unbiased
 > notary who recorded the scene at S. Marco is the only person to have
@@ -1227,18 +1227,20 @@ behalf of their *magister*, the author of the case statements (Gratian
 [22] Noonan, “Gratian Slept Here.”
 
 [23] See Stephan Kuttner, “The Father of the Science of Canon Law,”
-*Jurist* 1 (1941): 2–19. Kuttner argues that Gratian applied Ivo's
-program as it had been developed in the intervening forty years by
+*Jurist* 1 (1941): 2–19. Gratian implemented the hermeneutical program
+for harmonizing apparently discordant canons outlined in Ivo of
+Chartres's *Prologue*. Kuttner argues, though, that Gratian applied
+Ivo's program as it had been developed in the intervening forty years by
 scholastic theology, most notably by Abelard, and not in its original
-form: scholastic theology got the program from Ivo, Gratian got it from
-scholastic theology. See also D. E. Luscombe, “Abelard and the Decretum
-of Gratian.” in *The School of Peter Abelard: The Influence of Abelard’s
-Thought in the Early Scholastic Period*, Cambridge Studies in Medieval
-Life and Thought, new series, v. 14 (London: Cambridge U.P, 1969),
-214–23; and Anders Winroth, “Where Gratian Slept: The Life and Death of
-the Father of Canon Law,” *Zeitschrift der Savigny-Stiftung für
-Rechtsgeschichte: Kanonistische Abteilung* 99, no. 1 (August 2013):
-105–28, 111.
+form: scholastic theology inherited the program from Ivo, Gratian
+inherited it in modified form from scholastic theology. See also D. E.
+Luscombe, “Abelard and the Decretum of Gratian.” in *The School of Peter
+Abelard: The Influence of Abelard’s Thought in the Early Scholastic
+Period*, Cambridge Studies in Medieval Life and Thought, new series, v.
+14 (London: Cambridge U.P, 1969), 214–23; and Anders Winroth, “Where
+Gratian Slept: The Life and Death of the Father of Canon Law,”
+*Zeitschrift der Savigny-Stiftung für Rechtsgeschichte: Kanonistische
+Abteilung* 99, no. 1 (August 2013): 105–28, 111.
 
 [24] Noonan, “Gratian Slept Here.”
 

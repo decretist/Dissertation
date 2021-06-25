@@ -430,7 +430,7 @@ who was recorded as having participated in an 1143 case in Venice
 as one of three legal consultants ("magister Walfredus", "Gratianus",
 and "Moysis", in that order)[^30] advising a three-judge panel
 presided over by a papal legate, Cardinal Goizo, might be the same
-Gratian responsible for the *Decretum*.[^grebner]
+Gratian as the one responsible for the *Decretum*.[^grebner]
 
 > But we can say that it is possible, even plausible, that the
 unbiased notary who recorded the scene at S. Marco is the only
@@ -983,12 +983,15 @@ on behalf of their *magister*, the author of the case statements
 (Gratian 0), whose harmonization of the canons was authoritative
 for them.
 
-[^23]: See @kuttner_father_1941. Kuttner argues that Gratian applied
-Ivo's program as it had been developed in the intervening forty
-years by scholastic theology, most notably by Abelard, and not in
-its original form: scholastic theology got the program from Ivo,
-Gratian got it from scholastic theology. See also @luscombe_abelard_1969;
-and @winroth_where_2013, 111.
+[^23]: See @kuttner_father_1941. Gratian implemented the hermeneutical
+program for harmonizing apparently discordant canons outlined in
+Ivo of Chartres's *Prologue*. Kuttner argues, though, that Gratian
+applied Ivo's program as it had been developed in the intervening
+forty years by scholastic theology, most notably by Abelard, and
+not in its original form: scholastic theology inherited the program
+from Ivo, Gratian inherited it in modified form from scholastic
+theology. See also @luscombe_abelard_1969; and @winroth_where_2013,
+111.
 
 [^25]: Noonan identifies Odofredus as the source for associating
 Gratian with Saints Felix and Nabor. @noonan_gratian_1979, 148; but
