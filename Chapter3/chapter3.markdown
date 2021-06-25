@@ -433,26 +433,22 @@ second recensions.
 
 ### Winroth
 
-Winroth's arguments in chapters 1-5 of *The Making of Gratian's
-Decretum* are agnostic as to whether Gratian 1 is the same person as
-Gratian 2.
-
-> "In the interests of simplicity and clarity, I have therefore chosen
-> to call the author of the first recension Gratian 1 and the author of
-> the second recension Gratian 2. These labels are not intended to
-> suggest that Gratian 1 and Gratian 2 could not have been the same
-> person."[35]
-
-The question of authorial identity is not relevant to the primary
-argument that Winroth advances in those chapters, which is that the
-Admont, Barcelona, and Florence manuscripts represent a coherent first
-recension of the *Decretum* rather than an abbreviation. In chapter 6
-and in his conclusion, however, Winroth observes that the second
-recension reflects a considerably more sophisticated legal culture than
-that reflected in the first recension, notably in the reception of
-concepts and terminology from the study of Roman law, and argues that it
-is unlikely that one author underwent such an intellectual evolution in
-a single generation.[36]
+Winroth adopts a convention in *The Making of Gratians's Decretum* of
+referring to the author of the first recension as Gratian 1 and to the
+author of the second recension as Gratian 2. The arguments he makes in
+the first five chapters of the book are agnostic as to whether Gratian 1
+is the same person as Gratian 2: "These labels are not intended to
+suggest that Gratian 1 and Gratian 2 could not have been the same
+person."[35] The question of authorial identity is not relevant to the
+primary argument that Winroth advances in those chapters, which is that
+the Admont (Aa), Barcelona (Bc), and Florence (F) manuscripts represent
+a coherent first recension of the *Decretum* rather than an
+abbreviation. In his sixth chapter and conclusion, however, Winroth
+observes that the second recension reflects a considerably more
+sophisticated legal culture than that reflected in the first recension,
+notably in the reception of concepts and terminology from the study of
+Roman law, and argues that it is unlikely that one author underwent such
+an intellectual evolution in a single generation.[36]
 
 Winroth is strongly committed to a late date (1139) for the first
 recension on the grounds that he thinks D.63 d.p.c.34 *must* refer to
