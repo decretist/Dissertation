@@ -810,6 +810,28 @@ interpolated texts (the author is seen as a historical figure at
 the crossroads of a certain number of events). [@foucault_what_1998,
 214]
 
+The fourth criterion that Foucault derives from Jerome is, for
+obvious reasons, the most attractive one from the point of view of
+the historian: arguments about the authorship of a text are framed
+in terms of the known facts of its putative author's life. This
+criterion, however, has extremely limited usefulness in the case
+of an author like Gratian about whom almost nothing is reliably
+known. Winroth's argument about D.63 d.p.c.34, for example, can be
+transposed into Foucault's framework for this criterion only by
+shifting the starting point and running the logic in reverse. Winroth
+starts with the axiomatic assumption that the first recension of
+the *Decretum* contains no interpolations, and reasons from that
+axiom to the conclusion that Gratian could not have finished the
+first recension before 1139. There is nothing inherently suspect
+in the framing of arguments about the authorship of a text using
+Foucault's fourth criterion, but it is extremely difficult to reach
+conclusions that will command general assent in the absence of any
+established facts about a putative author's life, and even more so
+when the controverted text in question has an unknown history of
+its own (as is the case with the variant texts we know from the
+Second Lateran Council as canon 28 and from the *Decretum* as D.63
+c.35.)
+
 ---
 
 > \(1\) if among several books attributed to an author one is
