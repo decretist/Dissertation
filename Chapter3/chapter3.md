@@ -511,37 +511,6 @@ authorship of the second recension.
 
   -->
 
-#### Sg
-
-Much of the debate over whether the *Decretum* was the result of a
-continuous or discontinuous process of composition focused on the
-Sankt Gallen Stiftsbibliothek 673 (Sg) manuscript. Pennington,
-Eichbauer, and Larson have argued that it represents, at some unknown
-number of removes, an earlier version of the *Decretum* than Winroth's
-first recension. Winroth and Wei have argued that Sg is a relatively
-uninteresting abbreviation of a first recension manuscript with
-some second recension interpolations.[^40]
-
-The version of the *Decretum* preserved in the Sankt Gallen
-Stiftsbibliothek 673 (Sg) manuscript contains somewhat fewer than
-1,050 canons,[^41] and is therefore considerably shorter than either
-the first recension (1,860 canons) or the vulgate (3,945) versions
-of the text.[^42] Formally, Sg is not divided into parts; all of
-its content is presented in the form of cases. The first case,
-however, is unique to Sg, and is referred to as *Causa Prima* to
-distinguish it from the *Causa* I found in all other pre-vulgate
-and vulgate versions of the *Decretum*. (*Causa* I appears as *Causa*
-II in Sg.) It contains a subset of canons and *dicta* found in Part
-I, presented in almost exactly the same order in which they appear
-in other versions of the *Decretum*. (There is one relatively minor
-exception with respect to the ordering of the texts, the four canons
-corresponding to D.32 c.3, c.4, c.6, and c.7 are inserted between
-the canons corresponding to D.31 c.6 and D.31
-c.7.)[@larrainzar_borrador_1999, 653] Notably, *Causa Prima* contains
-no texts (canons or *dicta*) from the *tractatus de legibus*
-(distinctions 1-20) and none from Gratian's "epilogue" (distinctions
-81-101).
-
 ### Pennington
 
 Pennington builds on Larson's conjecture that the canon referred
@@ -563,17 +532,18 @@ primary basis for imposing a *terminus post quem* of 1139 on the
 first recension of the *Decretum*.
 
 Pennington, building on Eichbauer's findings, argues that because
-the number of additional canons found in the margins of Bc, and in
-both the margins and appendices of Fd and Aa, fall well short of
+the number of additional canons found in the margins of the Barcelona
+(Bc) manuscript, and in both the margins and appendices of the
+Admont (Aa) and and Florence (Fd) manuscripts, fall well short of
 the number that would be expected if they had been copied from a
-Vulgate *Decretum* (87 are missing from Aa, and 62 are missing from
-Fd), these manuscripts represent an intermediate "next-to-last"
-stage in the development of the *Decretum* text intermediate the
-pre-Vulgate and Vulgate versions.[^46] Furthermore, the fact that
-the Lateran II canons *are* present in this "next-to-last" stage
-undermines the argument going back to Fransen and supported by
-Lenherr that the Lateran II canons are a last-minute addition, and
-poorly if at all integrated into the argument of the
+vulgate manuscript of the *Decretum* (87 are missing from Aa, and
+62 are missing from Fd), these manuscripts represent an intermediate
+"next-to-last" stage in the development of the *Decretum* text
+intermediate the pre-vulgate and vulgate versions.[^46] Furthermore,
+the fact that the Lateran II canons *are* present in this "next-to-last"
+stage undermines the argument going back to Fransen and supported
+by Lenherr that the Lateran II canons are a last-minute addition,
+and poorly if at all integrated into the argument of the
 *Decretum*.[@pennington_biography_2018, 367-368] **Pennington also
 cites early manuscripts of the *Decretum* with 99 and 100 distinctions
 in Part I as evidence for the continuous evolution of the text
@@ -613,7 +583,7 @@ whether the person named in the necrology was either the bishop of
 Chiusi, or the author of the *Decretum*. He notes that the necrology
 refers to "Gratian of Chiusi, bishop", not to "Gratian, bishop of
 Chiusi." His second reservation concerning the identification of
-the Gratian mentioned in the Siena necrology as "the Gratian is
+the Gratian mentioned in the Siena necrology as "the" Gratian is
 closely related to his reservation about Grebner's identification
 of the Gratian mentioned in the record of the 1143 Venice court
 case: neither record accords Gratian the kind of prominence that
@@ -815,18 +785,15 @@ same author? How can one use the author function to determine if
 one is dealing with one or several individuals? Saint Jerome proposes
 four criteria:[^63]
 
-Only two of Jerome's four criteria (the second and fourth) have
-figured significantly in recent scholarship on the authorship of
-Gratian's *Decretum*.
+Each of Jerome's four criteria is a criterion for the *exclusion*
+of a given text from the canon of a particular author. Only two of
+the four criteria, the second and fourth, have figured significantly
+in recent scholarship on the authorship of Gratian's *Decretum*.
 
-> \(1\) if among several books attributed to an author one is
-inferior to the others, it must be withdrawn from the list of the
-author's works (the author is therefore defined as a constant level
-of value);
-
-> \(2\) the same should be done if certain texts contradict the
-doctrine expounded in the author’s other works (the author is thus
-defined as a field of conceptual or theoretical coherence);
+> \(2\) the same should be done [i.e., a book must be withdrawn
+from the list of the author's works] if certain texts contradict
+the doctrine expounded in the author's other works (the author is
+thus defined as a field of conceptual or theoretical coherence);
 
 Winroth has argued that the second recension of the *Decretum*
 reflects a level of reception of Roman Law doctrine so much more
@@ -837,17 +804,22 @@ conceptual or theoretical coherence, then concluding that there
 must be two authors because the first and second recensions do not
 fall within a unitary field of coherence.
 
-> \(3\) one must also exclude works that are written in a different
-style, containing words and expressions not ordinarily found in the
-writer’s production;
-
 > \(4\) finally, passages quoting statements made or mentioning
 events that occurred after the author's death must be regarded as
 interpolated texts (the author is seen as a historical figure at
 the crossroads of a certain number of events). [@foucault_what_1998,
 214]
 
-Foucault's essay is a response to Barthes's.
+---
+
+> \(1\) if among several books attributed to an author one is
+inferior to the others, it must be withdrawn from the list of the
+author's works (the author is therefore defined as a constant level
+of value);
+
+> \(3\) one must also exclude works that are written in a different
+style, containing words and expressions not ordinarily found in the
+writer's production;
 
 Foucault's essay is more directly relevant than Barthes's to the
 problems of authorship raised by Gratian's *Decretum*,
@@ -1077,7 +1049,7 @@ Haimeric with the Innocentians).
 between the first and second recension with respect to the use of
 Roman law within a broader context: "The argument about two authors
 is based on textual (you could almost say literary) analysis:
-formulations, practices of organization, source use, etc. Justinian’s
+formulations, practices of organization, source use, etc. Justinian's
 Roman law books is really the only category of source only used in
 one of the two recensions. I used to think that there were other
 sources, such as 3L, that were only used in the second recension,
@@ -1094,7 +1066,7 @@ because they are inconvenient (chronologically or otherwise), there
 is no obvious place at which to stop.
 
 [^38]: Much of the debate over whether the *Decretum* was the result
-of a continuous or discontinuous process of composition focused on
+of a continuous or discontinuous process of composition has focused on
 the Sankt Gallen Stiftsbibliothek 673 (Sg) manuscript. Pennington,
 Eichbauer, and Larson have argued that it represents, at some unknown
 number of removes, an earlier version of the *Decretum* than Winroth's
@@ -1103,53 +1075,36 @@ uninteresting abbreviation of a first recension manuscript with
 some second recension interpolations. See @eichbauer_gratians_2013
 for a good recent overview of these debates.
 
-    The version of the *Decretum* preserved in the Sankt Gallen
-    Stiftsbibliothek 673 (Sg) manuscript contains somewhat fewer
-    than 1,050 canons, and is therefore considerably shorter than
-    either the first recension (1,860 canons) or the vulgate (3,945)
-    versions of the text. Carlos Larrainzar describes Sg as having
-    "poco menos de 1,050 *auctoritates* y en torno a los 650 *dicta*."
-    @larrainzar_borrador_1999, 601. "The second recension contains
-    3,945 canons (including the paleae) in the editions. The first
-    recension contains only 1,860 canons (47 percent)."
-    @winroth_making_2000, 122. See @larrainzar_borrador_1999, 601,
-    for the number of canons in Sg, emphasizing that it is approximate.
-    See @winroth_making_2000, 122, for the number of canons in the
-    first recension. 3,945 is a conventional number.
+    The version of the *Decretum* preserved in the Sg manuscript
+    contains somewhat fewer that 1,050 canons ("poco menos de 1,050
+    *auctoritates* y en torno a los 650 *dicta*.")
+    @larrainzar_borrador_1999, 601. 1,050 is an approximation, not
+    an exact count. Sg is therefore considerably shorter than either
+    the first recension (1,860 canons) or the vulgate (3,945)
+    versions of the text. "The second recension contains 3,945
+    canons (including the paleae) in the editions. The first recension
+    contains only 1,860 canons (47 percent)." @winroth_making_2000, 122.
+    3,945 is a conventional number.
 
-    Formally, Sg is not divided into parts; all of
-    its content is presented in the form of cases. The first case,
-    however, is unique to Sg, and is referred to as *Causa Prima* to
-    distinguish it from the *Causa* I found in all other pre-vulgate
-    and vulgate versions of the *Decretum*. (*Causa* I appears as *Causa*
-    II in Sg.) It contains a subset of canons and *dicta* found in Part
-    I, presented in almost exactly the same order in which they appear
-    in other versions of the *Decretum*. (There is one relatively minor
-    exception with respect to the ordering of the texts, the four canons
-    corresponding to D.32 c.3, c.4, c.6, and c.7 are inserted between
-    the canons corresponding to D.31 c.6 and D.31
-    c.7.) @larrainzar_borrador_1999, 653. Notably, *Causa Prima* contains
-    no texts (canons or *dicta*) from the *tractatus de legibus*
-    (distinctions 1-20) and none from Gratian's "epilogue" (distinctions
-    81-101).
+    Formally, Sg is not divided into parts; all of its content is
+    presented in the form of cases. The first case, however, is
+    unique to Sg, and is referred to as *Causa Prima* to distinguish
+    it from the *Causa* I found in all other pre-vulgate and vulgate
+    versions of the *Decretum*. (*Causa* I appears as *Causa* II
+    in Sg.) It contains a subset of canons and *dicta* found in
+    Part I, presented in almost exactly the same order in which
+    they appear in other versions of the *Decretum*. (There is one
+    relatively minor exception with respect to the ordering of the
+    texts, the four canons corresponding to D.32 c.3, c.4, c.6, and
+    c.7 are inserted between the canons corresponding to D.31 c.6
+    and D.31 c.7.) @larrainzar_borrador_1999, 653. Notably, *Causa
+    Prima* contains no texts (canons or *dicta*) from the *tractatus
+    de legibus* (distinctions 1-20) and none from Gratian's "epilogue"
+    (distinctions 81-101).
 
 [^39]: See @winroth_where_2013. The article expands on a presentation
 given by Winroth at the Fourteenth International Congress of Medieval
 Canon Law, Toronto, 2012.
-
-[^40]: See @eichbauer_gratians_2013 for a good recent overview of
-these debates.
-
-[^41]: Carlos Larrainzar describes Sg as having "poco menos de 1,050
-*auctoritates* y en torno a los 650 *dicta*." @larrainzar_borrador_1999, 601.
-"The second recension contains 3,945 canons (including the
-paleae) in the editions. The first recension contains only 1,860
-canons (47 percent)." @winroth_making_2000, 122.
-
-[^42]: See @larrainzar_borrador_1999, 601, for the number of canons
-in Sg, emphasizing that it is approximate. See @winroth_making_2000,
-122, for the number of canons in the first recension. 3,945 is a
-conventional number.
 
 [^44]: **Placeholder for Pennington, Larson footnote** Pennington
 asserts that "[t]he main reason that Winroth created a second
@@ -1173,20 +1128,20 @@ law concepts and terminology than the first recension.
 secretarial support presupposes that authors create texts by dictating
 them.
 
-[^49]: John Anthony McGuckin, "The Life of Origen (ca. 186–255)" in
-*The Westminster Handbook to Origen*, 12. McGuckin got this story
+[^49]: John Anthony McGuckin, "The Life of Origen (ca. 186–255)"
+in *The Westminster Handbook to Origen*, 12. McGuckin got this story
 from Eusebius, *Ecclesiastical History* 6.23.2.
 
-[^50]: Monastic modes of text production were gradually replaced by
-commercial modes of production, e.g., around the University of
+[^50]: Monastic modes of text production were gradually replaced
+by commercial modes of production, e.g., around the University of
 Paris. See Richard H. and Mary A. Rouse, *Manuscripts and their
 Makers: Commercial Book Producers in Medieval Paris 1200-1500.*
 
-[^52]: The quasi-monastic model of text production leaves open a range of
-possibilities. Those who have read the *Vita Augustini* written by
-Possidius of Calama († c.437) are likely to be unimpressed by the
-intellectual caliber of Augustine's episcopal household, and to
-assess its contribution to his work accordingly.
+[^52]: The quasi-monastic model of text production leaves open a
+range of possibilities. Those who have read the *Vita Augustini*
+written by Possidius of Calama († c.437) are likely to be unimpressed
+by the intellectual caliber of Augustine's episcopal household, and
+to assess its contribution to his work accordingly.
 
 [^53]: @winroth_where_2013; @pennington_biography_2014; and
 @pennington_biography_2018.
@@ -1196,19 +1151,24 @@ assess its contribution to his work accordingly.
 [^62]: "We must also be very careful not to be deceived by a false
 attribution of authorship or by a corrupt text ... Jerome, that
 most reliable writer and most faithful translator, has given us
-forewarning of this." @abelard_prologue_1988, 89. **"Illud quoque
-diligenter attendi convenit ne ... falsa tituli inscriptione vel
-scripturae ipsius corruptione fallamur ... Unde fidelissimus scriptor
-et veracissimus interpres Hieronymus ... nos praemonuit." Boyer and
-McKeon, 91.**
+forewarning of this." @abelard_prologue_1988, 89.
+
+<!--
+
+"Illud quoque diligenter attendi convenit ne ... falsa tituli
+inscriptione vel scripturae ipsius corruptione fallamur ... Unde
+fidelissimus scriptor et veracissimus interpres Hieronymus ... nos
+praemonuit." Boyer and McKeon, 91.
+
+  -->
 
 [^63]: @foucault_what_1998, 214. Foucault claims to have derived
 the four criteria for determining whether a given "discursive set"
 has one or several authors from Jerome's *De Viris illustribus*.
 He provides, however, no citations. Walzer and Inabinit indicate
 that "similar principles" can be found in @hulley_principles_1944,
-105-109. @walzer_who_2011, 188. The section of Hulley's article
-on "various points pertinent to questions of authorship" is in fact
+105-109. @walzer_who_2011, 188. The section of Hulley's article on
+"various points pertinent to questions of authorship" is in fact
 almost certainly the ultimate source for Foucault's four criteria,
 and provides citations to many works by Jerome (not just *De Viris
 illustribus*) relevant to the question of determining the authorship

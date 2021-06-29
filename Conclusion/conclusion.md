@@ -37,7 +37,7 @@ of time.
 
 > What we have is a collection of works and what we need is an idea
 of how that collection was made. The search for the Gratian behind
-the dicta is a fool’s errand.
+the dicta is a fool's errand.
 
 I agree, but as I said above, most of the post-Noonan scholarship
 on the authorship of the Decretum has been engaged in precisely
@@ -305,7 +305,7 @@ Gratians is quite simple. It is difficult to imagine that if a
 Gratian compiled the pre-Vulgate *Decretum*, and another person
 doubled the size from ca. 2000 canons to ca. 4000, the first
 generation of jurists after Gratian would have not noticed or not
-known about the second Gratian’s work and blithely attributed what
+known about the second Gratian's work and blithely attributed what
 was now a massive work to just "Gratian."[@pennington_biography_2018,
 361-362.]
 

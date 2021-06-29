@@ -310,7 +310,7 @@ stages of this project.
 
 [^pca6]: Following the example of @kestemont_collaborative_2015,
 205: "To automatically isolate the clitic, we have stripped the
-suffix (‘x*que*’) from every word that did not occur in a list of
+suffix ('x*que*') from every word that did not occur in a list of
 words proposed by Schinke *et al*. (1996, p. 180-1)."
 
     The list of words appears in @schinke_stemming_1996. Schinke's
