@@ -544,15 +544,18 @@ the fact that the Lateran II canons *are* present in this "next-to-last"
 stage undermines the argument going back to Fransen and supported
 by Lenherr that the Lateran II canons are a last-minute addition,
 and poorly if at all integrated into the argument of the
-*Decretum*.[@pennington_biography_2018, 367-368] **Pennington also
-cites early manuscripts of the *Decretum* with 99 and 100 distinctions
-in Part I as evidence for the continuous evolution of the text
-between the first and second recensions.**
+*Decretum*.[@pennington_biography_2018, 367-368] Pennington also
+cites early manuscripts of the *Decretum* with 99 distinctions in
+Part I as evidence for the continuous evolution of the text between
+the first and second recensions.[@pennington_biography_2018, 366]
 
 <!--
 
-Pennington assumes an Iberian origin for Bc, but wasn't it originally
-Italian?
+Pennington says that the 99-distinction version of the *Decretum*
+"reached the Iberian peninsula" in the form of Bc. Pennington,
+"Biography of Gratian" 2018, 366-367. Pennington does not unambiguously
+say that he considers Bc to be of Iberian origin. Winroth, off the
+record, considers Bc to be of Italian origin.
 
   -->
 
@@ -878,18 +881,23 @@ Gratian's student---"none of the earliest users of his work claims
 to have been taught by him". "although other scholars made some
 very early alterations and additions to the text of the *Decretum*,
 none of them claimed to have been taught by him."
-[@southern_scholastic_1995, 287, 304]. **Does Southern provide
-footnotes to support these statements?**
+[@southern_scholastic_1995, 287, 304].
 
-[^6]: The tradition of Roman law teaching in Bologna preserved
-an elaborate genealogy of masters and their students: Pepo preceded
-Wernerius [Irnerius], who taught the Four Doctors. Odofredus is
-an important source for this tradition, and his remarks about
-Irnerius can be found in his commentary on *Dig.* 1.1.6. Odofredus,
-*Lectura super Digesto veteri*, (2 volumes, Lyon: 1550-1552; repr.
-Bologna 1967-1968). For a short excerpt from the Latin text with
-accompanying English translation, see [@radding_origins_1988,
-159-160] **See also Pennington "Big Bang".**
+<!--
+
+Southern does not provide footnotes to support these statements.
+
+  -->
+
+[^6]: The tradition of Roman law teaching in Bologna preserved an
+elaborate genealogy of masters and their students: Pepo preceded
+Wernerius [Irnerius], who taught the Four Doctors. Odofredus is an
+important source for this tradition, and his remarks about Irnerius
+can be found in his commentary on *Dig.* 1.1.6. Odofredus, *Lectura
+super Digesto veteri*, (2 volumes, Lyon: 1550-1552; repr. Bologna
+1967-1968). For a short excerpt from the Latin text with accompanying
+English translation, see @radding_origins_1988, 159-160. See also
+@pennington_big_2007, 43.
 
 [^7]: Kenneth Pennington,
 [Paucapalea](http://amesfoundation.law.harvard.edu/BioBibCanonists/Report_Biobib2.php?record_id=a366),
@@ -910,13 +918,13 @@ method of the author of the *Concordia*." @noonan_gratian_1979,
 [Omnibonus](http://amesfoundation.law.harvard.edu/BioBibCanonists/Report_Biobib2.php?record_id=a363),
 *Bio-Bibliographical Guide to Medieval and Early Modern Jurists.*
 
-[^11]: **There is no print edition of Omnebene's adaptation
-(confirmed by Ken Pennington, 17 May 2021). The only online form
+[^11]: There is no print edition of Omnebene's adaptation
+(Ken Pennington, email to Paul Evans, 17 May 2021). The only online form
 in which the manuscript is available is a low-quality digitization
 of an old microfilm of Paris, Bibliothèque nationale de France,
 Latin 3886. I was therefore unable to look for any internal evidence
 in Omnebene's adaptation (e.g., a comment in a preface), indicating
-that Gratian had been his teacher.**
+that Gratian had been his teacher.
 
 [^12]: @kuttner_repertorium_1937, 453. [MGH Scriptores SS 6,
 490](https://www.dmgh.de/mgh_ss_6/index.htm#page/490/mode/1up).
@@ -947,7 +955,15 @@ Simon's glosses are dated earlier than his *Summa*.
 @weigand_development_2008, 75.
 
 [^17]: @kuttner_research_1990, 7. @noonan_gratian_1979, 157, rejects
-this, but Kuttner disagrees. **Landau says "frequently"**.
+this, but Kuttner disagrees.
+
+<!--
+
+My notes say that Peter Landau says that Simon of Bisignano refers
+to Gratian as his *magister* "frequently," but I can't find the
+reference.
+
+  -->
 
 [^18]: @simon_of_bisignano_summa_2014, 412. Page numbers may not
 coincide with the print edition cited: the version of the Aimone
