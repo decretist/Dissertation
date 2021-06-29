@@ -1086,7 +1086,7 @@ without committing to it. Winroth ultimately accepted the argument
 of Rudolf Weigand (†1998) that the interpolation hypothesis is a
 slippery slope---once you start rejecting problematic passages
 because they are inconvenient (chronologically or otherwise), there
-is no obvious place to stop.
+is no obvious place at which to stop.
 
 [^38]: Much of the debate over whether the *Decretum* was the result
 of a continuous or discontinuous process of composition focused on

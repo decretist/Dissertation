@@ -24,7 +24,9 @@ Pages 25-49 under review (SC)
 Authority section (pages 1-17) ready for review 22 June 2021
 - [Chapter 4: Stylometry](Chapter4/chapter4.markdown) (24 June 2021) 84 pages [(PDF)](Chapter4/chapter4.pdf)\
 Under review (MK)
-  - [Principal component analysis](Chapter4/pca.markdown) (25 March 2021) 26 pages
+  - [Principal component analysis](Chapter4/pca.markdown) (25 March 2021) 26 pages\
+  Presented at *Rem non novam*, Yale Law School, 21 May 2015
+  Presented at ICMCL XV, Paris, 20 July 2016
 - [Conclusion](Conclusion/conclusion.markdown) (5 February 2021) 15 pages\
 Rough draft
 - [Bibliography](bib/biblio.markdown) (8 June 2021) 13 pages [(PDF)](bib/biblio.pdf)
