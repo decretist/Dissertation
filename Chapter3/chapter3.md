@@ -186,7 +186,7 @@ dedication of churches, the body and blood of the Lord, baptism,
 and also confirmation, and with these things concludes his
 treatise."[^p]
 
-[^p]: @paucapalea_summa_1890, 3; @somerville_prefaces_1998, 184-185.
+[^p]: @paucapalea_summa_1890 [3]; @somerville_prefaces_1998 [184-185].
 
 If Rambaud is correct that *de Consecratione* was not part of the
 original *Decretum*, the fact that Paucapalea attributed it to the
@@ -870,18 +870,18 @@ the *authority* of either Gratian or the *Decretum*.
     Gratian and the *Decretum* that I need to specifically address?
 
 [^2]: "their authority deriving mainly from the fact that they
-consisted mostly of quotations" @winroth_making_2000, 191.
+consisted mostly of quotations" @winroth_making_2000 [191].
 
-[^3]: @noonan_gratian_1979, 154; and @pennington_biography_2018, 382-385.
+[^3]: @noonan_gratian_1979 [154]; and @pennington_biography_2018 [382-385].
 
-[^4]: @schulte_summa_1965, 5; and @somerville_prefaces_1998, 200-201.
+[^4]: @schulte_summa_1965 [5]; and @somerville_prefaces_1998 [200-201].
 
 [^5]: R.W. Southern asserts that no one claims to have been
 Gratian's student---"none of the earliest users of his work claims
 to have been taught by him". "although other scholars made some
 very early alterations and additions to the text of the *Decretum*,
 none of them claimed to have been taught by him."
-[@southern_scholastic_1995, 287, 304].
+@southern_scholastic_1995 [287, 304].
 
 <!--
 
@@ -896,21 +896,20 @@ important source for this tradition, and his remarks about Irnerius
 can be found in his commentary on *Dig.* 1.1.6. Odofredus, *Lectura
 super Digesto veteri*, (2 volumes, Lyon: 1550-1552; repr. Bologna
 1967-1968). For a short excerpt from the Latin text with accompanying
-English translation, see @radding_origins_1988, 159-160. See also
-@pennington_big_2007, 43.
+English translation, see @radding_origins_1988 [159-160]. See also
+@pennington_big_2007 [43].
 
 [^7]: Kenneth Pennington,
 [Paucapalea](http://amesfoundation.law.harvard.edu/BioBibCanonists/Report_Biobib2.php?record_id=a366),
 *Bio-Bibliographical Guide to Medieval and Early Modern Jurists.*
 
-[^8]: @paucapalea_summa_1890, 3; and @somerville_prefaces_1998, 184.
+[^8]: @paucapalea_summa_1890 [3]; and @somerville_prefaces_1998 [184].
 Indeed, based on a search through the OCR text layer of a PDF file
 scanned from the Schulte edition and provided to me by Ken Pennington,
 Paucapalea appears not to refer to Gratian by name anywhere in his
 *summa*. Furthermore, "*Sicut uetus testamentum* makes no reference
 to a named person in its Prologue when it discusses the purpose and
-method of the author of the *Concordia*." @noonan_gratian_1979,
-165.
+method of the author of the *Concordia*." @noonan_gratian_1979 [165].
 
 [^9]: See @minnis_medieval_1988; and @hunt_introductions_1980.
 
@@ -926,7 +925,7 @@ Latin 3886. I was therefore unable to look for any internal evidence
 in Omnebene's adaptation (e.g., a comment in a preface), indicating
 that Gratian had been his teacher.
 
-[^12]: @kuttner_repertorium_1937, 453. [MGH Scriptores SS 6,
+[^12]: @kuttner_repertorium_1937 [453]. [MGH Scriptores SS 6,
 490](https://www.dmgh.de/mgh_ss_6/index.htm#page/490/mode/1up).
 
 <!--
@@ -950,11 +949,11 @@ Bisignano](http://amesfoundation.law.harvard.edu/BioBibCanonists/Report_Biobib2.
 *Bio-Bibliographical Guide to Medieval and Early Modern Jurists.*
 Pennington does not indicate that Simon of Bisignano was a student
 of Gratian. Glosses attributed to Simon of Bisignano are indicated
-by the *sigla* s., si., and sy. @weigand_development_2008, 97.
+by the *sigla* s., si., and sy. @weigand_development_2008 [97].
 Simon's glosses are dated earlier than his *Summa*.
-@weigand_development_2008, 75.
+@weigand_development_2008 [75].
 
-[^17]: @kuttner_research_1990, 7. @noonan_gratian_1979, 157, rejects
+[^17]: @kuttner_research_1990 [7]. @noonan_gratian_1979 [157], rejects
 this, but Kuttner disagrees.
 
 <!--
@@ -965,7 +964,7 @@ reference.
 
   -->
 
-[^18]: @simon_of_bisignano_summa_2014, 412. Page numbers may not
+[^18]: @simon_of_bisignano_summa_2014 [412]. Page numbers may not
 coincide with the print edition cited: the version of the Aimone
 edition I have access to is a PDF dated Fribourg 2007.
 
@@ -990,7 +989,7 @@ academic texts in their subjects. The development of glosses,
 *summae*, *questiones*, *distinctiones*, etc., came later, as did
 the awareness of teachers like Bernard of Pavia that their compilations
 might become standard school-texts (and, hence, that comments were
-best relegated to the margins)." @winroth_making_2000, 191.
+best relegated to the margins)." @winroth_making_2000 [191].
 
 [^21]: At most, there seems to have been a limited claim of authority
 being made by the authors of the first-recension *dicta* (Gratian 1)
@@ -1005,12 +1004,11 @@ applied Ivo's program as it had been developed in the intervening
 forty years by scholastic theology, most notably by Abelard, and
 not in its original form: scholastic theology inherited the program
 from Ivo, Gratian inherited it in modified form from scholastic
-theology. See also @luscombe_abelard_1969; and @winroth_where_2013,
-111.
+theology. See also @luscombe_abelard_1969; and @winroth_where_2013 [111].
 
 [^25]: Noonan identifies Odofredus as the source for associating
-Gratian with Saints Felix and Nabor. @noonan_gratian_1979, 148; but
-cf. @southern_scholastic_1995, 286n5. Southern draws attention to
+Gratian with Saints Felix and Nabor. @noonan_gratian_1979 [148]; but
+cf. @southern_scholastic_1995 [286n5]. Southern draws attention to
 an inscription found in a Geneva manuscript of the *Decretum*,
 Bibliothèque publique et universitaire, MS Lat. 60: *Anno domini
 MCL a Gratiano S. Feliciani Bononiensis monacho editum*. Pennington
@@ -1024,7 +1022,7 @@ as independent evidence attesting to a connection between Gratian
 and Saints Felix and Nabor is therefore unknown, but it is possible
 that it predates Odofredus.
 
-[^26]: See @noonan_gratian_1979, 150-151. @van_hove_prolegomena_1945
+[^26]: See @noonan_gratian_1979 [150-151]. @van_hove_prolegomena_1945
 had an outsized impact on the trajectory of medieval canon law
 studies in twentieth century North America because of its having
 been used by the 1964 Yale seminar led by Peter Landau in the absence
@@ -1041,7 +1039,7 @@ cross-examine witnesses. To make any headway with as complex and
 difficult a problem as Gratian's biography, it will be important
 to cling a bit more closely than Noonan did to classical historical
 methodology and terminology, as they have been codified from the
-late nineteenth century on." @winroth_where_2013, 106.
+late nineteenth century on." @winroth_where_2013 [106].
 
 [^28]: R.W. Southern takes an extreme position with respect to
 Gratian's teaching career, citing as late as 1995 Gratian's supposed
@@ -1056,15 +1054,15 @@ a law book which became the most widely distributed and probably
 most generally used of all the masterpieces of twelfth-century
 learning." "the book, and not the teaching of pupils, was the
 offering Gratian's monastic life brought to the Church".
-@southern_scholastic_1995, 286-287, 304.
+@southern_scholastic_1995 [286-287, 304].
 
-[^29]: @noonan_gratian_1979, 153-154. The recently rediscovered
+[^29]: @noonan_gratian_1979 [153-154]. The recently rediscovered
 Siena necrology makes Robert's identification more plausible than
 it would have appeared to Noonan, though by no means certain.
 
 [^31]: Pennington reads a great deal into the order (why wasn't
 Gratian referred to first?) and the honorifics (why wasn't Gratian
-referred to as "Magister"?). @pennington_biography_2018, 387-388.
+referred to as "Magister"?). @pennington_biography_2018 [387-388].
 There is, however, no reason to assume that the notary who reported
 on the proceedings would necessarily have been well-informed about
 Gratian, who was, after all, not a local figure in Venice.
@@ -1072,8 +1070,7 @@ Gratian, who was, after all, not a local figure in Venice.
 [^32]: @grebner_patronate_2007 is frequently cited in connection
 with the 1143 court case: "Recently, Gundula Grebner uncovered more
 evidence that would confirm Gratian's presence in a Venetian courtroom
-and change Noonan's plausible to certain." @pennington_biography_2018,
-387.
+and change Noonan's plausible to certain." @pennington_biography_2018 [387].
 
 <!--
 
@@ -1116,12 +1113,12 @@ for a good recent overview of these debates.
     The version of the *Decretum* preserved in the Sg manuscript
     contains somewhat fewer that 1,050 canons ("poco menos de 1,050
     *auctoritates* y en torno a los 650 *dicta*.")
-    @larrainzar_borrador_1999, 601. 1,050 is an approximation, not
+    @larrainzar_borrador_1999 [601]. 1,050 is an approximation, not
     an exact count. Sg is therefore considerably shorter than either
     the first recension (1,860 canons) or the vulgate (3,945)
     versions of the text. "The second recension contains 3,945
     canons (including the paleae) in the editions. The first recension
-    contains only 1,860 canons (47 percent)." @winroth_making_2000, 122.
+    contains only 1,860 canons (47 percent)." @winroth_making_2000 [122].
     3,945 is a conventional number.
 
     Formally, Sg is not divided into parts; all of its content is
@@ -1135,7 +1132,7 @@ for a good recent overview of these debates.
     relatively minor exception with respect to the ordering of the
     texts, the four canons corresponding to D.32 c.3, c.4, c.6, and
     c.7 are inserted between the canons corresponding to D.31 c.6
-    and D.31 c.7.) @larrainzar_borrador_1999, 653. Notably, *Causa
+    and D.31 c.7.) @larrainzar_borrador_1999 [653]. Notably, *Causa
     Prima* contains no texts (canons or *dicta*) from the *tractatus
     de legibus* (distinctions 1-20) and none from Gratian's "epilogue"
     (distinctions 81-101).
@@ -1147,7 +1144,7 @@ Canon Law, Toronto, 2012.
 [^44]: **Placeholder for Pennington, Larson footnote** Pennington
 asserts that "[t]he main reason that Winroth created a second
 'Gratian' is because of a text [D.63 d.p.c.34] that is found in all
-pre-Vulgate manuscripts." @pennington_biography_2018, 362. D.63
+pre-Vulgate manuscripts." @pennington_biography_2018 [362]. D.63
 d.p.c.34 *is* central to Winroth's arguments in favor of a late
 date for the first recension (1139), and for a short teaching career
 for Gratian, but is not relevant to his argument in favor of the
@@ -1162,7 +1159,7 @@ law concepts and terminology than the first recension.
 
 [^46]: **Placeholder for Pennington, Eichbauer footnote**
 
-[^48]: @odonnell_augustine_2005, 136, 139. The need for scribal or
+[^48]: @odonnell_augustine_2005 [136, 139]. The need for scribal or
 secretarial support presupposes that authors create texts by dictating
 them.
 
@@ -1189,7 +1186,7 @@ to assess its contribution to his work accordingly.
 [^62]: "We must also be very careful not to be deceived by a false
 attribution of authorship or by a corrupt text ... Jerome, that
 most reliable writer and most faithful translator, has given us
-forewarning of this." @abelard_prologue_1988, 89.
+forewarning of this." @abelard_prologue_1988 [89].
 
 <!--
 
@@ -1200,12 +1197,12 @@ praemonuit." Boyer and McKeon, 91.
 
   -->
 
-[^63]: @foucault_what_1998, 214. Foucault claims to have derived
+[^63]: @foucault_what_1998 [214]. Foucault claims to have derived
 the four criteria for determining whether a given "discursive set"
 has one or several authors from Jerome's *De Viris illustribus*.
 He provides, however, no citations. Walzer and Inabinit indicate
-that "similar principles" can be found in @hulley_principles_1944,
-105-109. @walzer_who_2011, 188. The section of Hulley's article on
+that "similar principles" can be found in @hulley_principles_1944 [105-109].
+@walzer_who_2011 [188]. The section of Hulley's article on
 "various points pertinent to questions of authorship" is in fact
 almost certainly the ultimate source for Foucault's four criteria,
 and provides citations to many works by Jerome (not just *De Viris

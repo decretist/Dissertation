@@ -174,7 +174,7 @@ dedication of churches, the body and blood of the Lord, baptism,
 and also confirmation, and with these things concludes his
 treatise."[^p]
 
-[^p]: @paucapalea_summa_1890, 3; @somerville_prefaces_1998, 184-185.
+[^p]: @paucapalea_summa_1890 [3]; @somerville_prefaces_1998 [184-185].
 
 If Rambaud is correct that *de Consecratione* was not part of the
 original *Decretum*, the fact that Paucapalea attributed it to the
@@ -1117,23 +1117,23 @@ mostly of quotations" Anders Winroth, *The Making of Gratian’s Decretum*
 
 [3] John T. Noonan, “Gratian Slept Here: The Changing Identity of the
 Father of the Systematic Study of Canon Law,” *Traditio* 35 (January
-1979): 145–72, 154; and Kenneth Pennington, “The Biography of Gratian,
-the Father of Canon Law,” in *A Service Beyond All Recompense*, ed. Kurt
-Martens (Catholic University of America Press, 2018), 359–92, 382-385.
+1979): 154; and Kenneth Pennington, “The Biography of Gratian, the
+Father of Canon Law,” in *A Service Beyond All Recompense*, ed. Kurt
+Martens (Catholic University of America Press, 2018), 382–85.
 
 [4] Johann Friedrich Schulte, ed., *Die summa über das Decretum
 Gratiani* (Aalen: Scientia Verlag, 1965), 5; and Robert Somerville and
 Bruce Clark Brasington, eds., *Prefaces to Canon Law Books in Latin
 Christianity: Selected Translations, 500-1245* (New Haven, Conn: Yale
-University Press, 1998), 200-201.
+University Press, 1998), 200–201.
 
 [5] R.W. Southern asserts that no one claims to have been Gratian's
 student---"none of the earliest users of his work claims to have been
 taught by him". "although other scholars made some very early
 alterations and additions to the text of the *Decretum*, none of them
-claimed to have been taught by him." (R. W. Southern, *Scholastic
+claimed to have been taught by him." R. W. Southern, *Scholastic
 Humanism and the Unification of Europe*, vol. 1 (Oxford, UK ; Cambridge,
-Mass., USA: Blackwell, 1995), 287, 304).
+Mass., USA: Blackwell, 1995), 287, 304.
 
 [6] The tradition of Roman law teaching in Bologna preserved an
 elaborate genealogy of masters and their students: Pepo preceded
@@ -1144,9 +1144,9 @@ Digesto veteri*, (2 volumes, Lyon: 1550-1552; repr. Bologna 1967-1968).
 For a short excerpt from the Latin text with accompanying English
 translation, see Charles Radding, *The Origins of Medieval
 Jurisprudence: Pavia and Bologna, 850- 1150* (New Haven: Yale University
-Press, 1988), 159-160. See also Kenneth Pennington, “The "Big Bang":
+Press, 1988), 159–60. See also Kenneth Pennington, “The "Big Bang":
 Roman Law in the Early Twelfth-Century,” *Rivista Internazionale Di
-Diritto Comune* 18 (2007): 43–70, 43.
+Diritto Comune* 18 (2007): 43.
 
 [7] Kenneth Pennington,
 [Paucapalea](http://amesfoundation.law.harvard.edu/BioBibCanonists/Report_Biobib2.php?record_id=a366),
@@ -1160,7 +1160,7 @@ scanned from the Schulte edition and provided to me by Ken Pennington,
 Paucapalea appears not to refer to Gratian by name anywhere in his
 *summa*. Furthermore, "*Sicut uetus testamentum* makes no reference to a
 named person in its Prologue when it discusses the purpose and method of
-the author of the *Concordia*." Noonan, “Gratian Slept Here”, 165.
+the author of the *Concordia*." Noonan, “Gratian Slept Here,” 165.
 
 [9] See A. J. Minnis, *Medieval Theory of Authorship: Scholastic
 Literary Attitudes in the Later Middle Ages*, 2nd ed, Middle Ages Series
@@ -1211,13 +1211,13 @@ Ordinaria to Gratian’s Decretum,” in *The History of Medieval Canon Law
 in the Classical Period, 1140-1234: From Gratian to the Decretals of
 Pope Gregory IX*, ed. Wilfried Hartmann and Kenneth Pennington, History
 of Medieval Canon Law (Washington, D.C: Catholic University of America
-Press, 2008), 55–97, 97. Simon's glosses are dated earlier than his
-*Summa*. Weigand, , 75.
+Press, 2008), 97. Simon's glosses are dated earlier than his *Summa*.
+Weigand, 75.
 
 [17] Stephan Kuttner, “Research on Gratian: Acta and Agenda,” in
 *Studies in the History of Medieval Canon Law*, Collected Studies CS325
 (Aldershot, Hampshire, Great Britain : Brookfield, Vt., USA: Variorum ;
-Gower, 1990), 7. Noonan, “Gratian Slept Here”, 157, rejects this, but
+Gower, 1990), 7. Noonan, “Gratian Slept Here,” 157, rejects this, but
 Kuttner disagrees.
 
 [18] Simon of Bisignano, *Summa in Decretum Simonis Bisinianensis*, ed.
@@ -1273,14 +1273,14 @@ Period*, Cambridge Studies in Medieval Life and Thought, new series, v.
 14 (London: Cambridge U.P, 1969), 214–23; and Anders Winroth, “Where
 Gratian Slept: The Life and Death of the Father of Canon Law,”
 *Zeitschrift der Savigny-Stiftung für Rechtsgeschichte: Kanonistische
-Abteilung* 99, no. 1 (August 2013): 105–28, 111.
+Abteilung* 99, no. 1 (August 2013): 111.
 
 [24] Noonan, “Gratian Slept Here.”
 
 [25] Noonan identifies Odofredus as the source for associating Gratian
-with Saints Felix and Nabor. Noonan, , 148; but cf. Southern,
-*Scholastic Humanism and the Unification of Europe*, 286n5. Southern
-draws attention to an inscription found in a Geneva manuscript of the
+with Saints Felix and Nabor. Noonan, 148; but cf. Southern, *Scholastic
+Humanism and the Unification of Europe*, 1:286n5. Southern draws
+attention to an inscription found in a Geneva manuscript of the
 *Decretum*, Bibliothèque publique et universitaire, MS Lat. 60: *Anno
 domini MCL a Gratiano S. Feliciani Bononiensis monacho editum*.
 Pennington does not identify the manuscript as one known to date from
@@ -1293,7 +1293,7 @@ independent evidence attesting to a connection between Gratian and
 Saints Felix and Nabor is therefore unknown, but it is possible that it
 predates Odofredus.
 
-[26] See Noonan, “Gratian Slept Here”, 150-151. Alphonse van Hove,
+[26] See Noonan, “Gratian Slept Here,” 150–51. Alphonse van Hove,
 *Prolegomena ad Codicem iuris canonici*, Editio artera auctior et
 emendatior, Commentarium Lovaniense in Codicem iuris canonici, v. 1, t.
 1 (Mechlinae: H. Dessain, 1945) had an outsized impact on the trajectory
@@ -1312,7 +1312,7 @@ cross-examine witnesses. To make any headway with as complex and
 difficult a problem as Gratian's biography, it will be important to
 cling a bit more closely than Noonan did to classical historical
 methodology and terminology, as they have been codified from the late
-nineteenth century on." Winroth, “Where Gratian Slept”, 106.
+nineteenth century on." Winroth, “Where Gratian Slept,” 106.
 
 [28] R.W. Southern takes an extreme position with respect to Gratian's
 teaching career, citing as late as 1995 Gratian's supposed association
@@ -1326,10 +1326,10 @@ of study, and produced a law book which became the most widely
 distributed and probably most generally used of all the masterpieces of
 twelfth-century learning." "the book, and not the teaching of pupils,
 was the offering Gratian's monastic life brought to the Church".
-Southern, *Scholastic Humanism and the Unification of Europe*, 286-287,
+Southern, *Scholastic Humanism and the Unification of Europe*, 1:286–87,
 304.
 
-[29] Noonan, “Gratian Slept Here”, 153-154. The recently rediscovered
+[29] Noonan, “Gratian Slept Here,” 153–54. The recently rediscovered
 Siena necrology makes Robert's identification more plausible than it
 would have appeared to Noonan, though by no means certain.
 
@@ -1338,7 +1338,7 @@ would have appeared to Noonan, though by no means certain.
 [31] Pennington reads a great deal into the order (why wasn't Gratian
 referred to first?) and the honorifics (why wasn't Gratian referred to
 as "Magister"?). Pennington, “The Biography of Gratian, the Father of
-Canon Law”, 387-388. There is, however, no reason to assume that the
+Canon Law,” 387–88. There is, however, no reason to assume that the
 notary who reported on the proceedings would necessarily have been
 well-informed about Gratian, who was, after all, not a local figure in
 Venice.
@@ -1350,7 +1350,7 @@ Karl H. L. Welker (Vienna, 2007), 107–22 is frequently cited in
 connection with the 1143 court case: "Recently, Gundula Grebner
 uncovered more evidence that would confirm Gratian's presence in a
 Venetian courtroom and change Noonan's plausible to certain."
-Pennington, “The Biography of Gratian, the Father of Canon Law”, 387.
+Pennington, “The Biography of Gratian, the Father of Canon Law,” 387.
 
 [33] Noonan, “Gratian Slept Here,” 171.
 
@@ -1394,8 +1394,8 @@ somewhat fewer that 1,050 canons ("poco menos de 1,050 *auctoritates* y
 en torno a los 650 *dicta*.") Carlos Larrainzar, “El Borrador de la
 ’Concordia’ de Graciano: Sankt Gallen, Stiftsbibliothek MS 673 (=Sg),”
 *Ius Ecclesiae: Rivista Internazionale di Diritto Canonico* 11, no. 3
-(1999): 593–666, 601. 1,050 is an approximation, not an exact count. Sg
-is therefore considerably shorter than either the first recension (1,860
+(1999): 601. 1,050 is an approximation, not an exact count. Sg is
+therefore considerably shorter than either the first recension (1,860
 canons) or the vulgate (3,945) versions of the text. "The second
 recension contains 3,945 canons (including the paleae) in the editions.
 The first recension contains only 1,860 canons (47 percent)." Winroth,
@@ -1411,7 +1411,7 @@ in which they appear in other versions of the *Decretum*. (There is one
 relatively minor exception with respect to the ordering of the texts,
 the four canons corresponding to D.32 c.3, c.4, c.6, and c.7 are
 inserted between the canons corresponding to D.31 c.6 and D.31 c.7.)
-Larrainzar, “El Borrador de la ’Concordia’ de Graciano”, 653. Notably,
+Larrainzar, “El Borrador de la ’Concordia’ de Graciano,” 653. Notably,
 *Causa Prima* contains no texts (canons or *dicta*) from the *tractatus
 de legibus* (distinctions 1-20) and none from Gratian's "epilogue"
 (distinctions 81-101).
@@ -1424,7 +1424,7 @@ of Medieval Canon Law, Toronto, 2012.
 that "\[t\]he main reason that Winroth created a second 'Gratian' is
 because of a text \[D.63 d.p.c.34\] that is found in all pre-Vulgate
 manuscripts." Pennington, “The Biography of Gratian, the Father of Canon
-Law”, 362. D.63 d.p.c.34 *is* central to Winroth's arguments in favor of
+Law,” 362. D.63 d.p.c.34 *is* central to Winroth's arguments in favor of
 a late date for the first recension (1139), and for a short teaching
 career for Gratian, but is not relevant to his argument in favor of the
 two-author hypothesis. "The reference to Lateran II only proves that the
@@ -1500,18 +1500,18 @@ reliable writer and most faithful translator, has given us forewarning
 of this." Peter Abelard, “Prologue to the Yes and No,” in *Medieval
 Literary Theory and Criticism, c.1100-c.1375: The Commentary Tradition*,
 ed. A. J. Minnis, A. Brian Scott, and David Wallace (Oxford: Clarendon
-Press, 1988), 87–100, 89.
+Press, 1988), 89.
 
-[60] Foucault, “What Is an Author?”, 214. Foucault claims to have
-derived the four criteria for determining whether a given "discursive
-set" has one or several authors from Jerome's *De Viris illustribus*. He
+[60] Foucault, “What Is an Author?” 214. Foucault claims to have derived
+the four criteria for determining whether a given "discursive set" has
+one or several authors from Jerome's *De Viris illustribus*. He
 provides, however, no citations. Walzer and Inabinit indicate that
 "similar principles" can be found in Karl Kelchner Hulley, “Principles
 of Textual Criticism Known to St. Jerome,” *Harvard Studies in Classical
-Philology* 55 (1944): 87–109, 105-109. Arthur E. Walzer and Brandon M.
-Inabinet, “Who Wrote the Rhetoric? A Response to Brad McAdon,” *Advances
-in the History of Rhetoric* 14, no. 2 (July 2011): 166–90, 188. The
-section of Hulley's article on "various points pertinent to questions of
+Philology* 55 (1944): 105–9. Arthur E. Walzer and Brandon M. Inabinet,
+“Who Wrote the Rhetoric? A Response to Brad McAdon,” *Advances in the
+History of Rhetoric* 14, no. 2 (July 2011): 188. The section of
+Hulley's article on "various points pertinent to questions of
 authorship" is in fact almost certainly the ultimate source for
 Foucault's four criteria, and provides citations to many works by Jerome
 (not just *De Viris illustribus*) relevant to the question of
