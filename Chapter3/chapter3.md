@@ -518,7 +518,7 @@ to at D.63 d.p.c.34 in the first recension and later incorporated
 as D.63 c.35 in the second recension is not canon 28 from the Second
 Lateran Council (1139), but rather a canon from an earlier council
 or synod convened by Innocent II at Rome in 1133 that was reissued,
-a common practice in the early twelfth century, at Lateran II.[^44]
+a common practice in the early twelfth century, at Lateran II.[^40]
 Pennington supports Larson's conjecture by noting that the text of
 the canon as it appears in the *Decretum* includes variants (*facta
 fuerit* vs *fuerit celebrata*, and *consensus* vs *assensus*) found
@@ -539,7 +539,7 @@ the number that would be expected if they had been copied from a
 vulgate manuscript of the *Decretum* (87 are missing from Aa, and
 62 are missing from Fd), these manuscripts represent an intermediate
 "next-to-last" stage in the development of the *Decretum* text
-intermediate the pre-vulgate and vulgate versions.[^46] Furthermore,
+intermediate the pre-vulgate and vulgate versions.[^42] Furthermore,
 the fact that the Lateran II canons *are* present in this "next-to-last"
 stage undermines the argument going back to Fransen and supported
 by Lenherr that the Lateran II canons are a last-minute addition,
@@ -625,21 +625,21 @@ Roman Law).
 
 Authorship on any significant scale in the pre-modern world required
 wrapping a specialized and expensive scribal infrastructure around
-the figure of the author.[^48] Three examples from classical and
+the figure of the author.[^45] Three examples from classical and
 late antiquity illustrate the possible ways in which this requirement
 could be met. Cicero (†43 BCE) pursued his literary ambitions with
 the support of highly skilled but unfree labor purchased out of his
 personal wealth, most famously his slave and later freedman Tiro.
 A wealthy lay patron named Ambrose paid for the secretarial staff
 that supported the authorial activities of Origen of Alexandria
-(†253).[^49] Quasi-monastic members of the episcopal household of
+(†253).[^46] Quasi-monastic members of the episcopal household of
 Augustine of Hippo (†430) provided the scribal support that made
 his prodigious authorial output possible. The mode of production
 pioneered by Augustine and his household in which monastic labor
 enabled the creation of original texts by their authors as well as
 the subsequent copying and circulation of finished texts proved a
 durable one, and predominated in the Latin West until the thirteenth
-century.[^50]
+century.[^47]
 
 Given the material and social technologies for authorship available
 in the twelfth century, creation of a text the size of Gratian's
@@ -649,7 +649,7 @@ assistants,"[@pennington_biography_2018, 362] but that observation
 suggests that the nature of the collaboration between Gratian and
 those Pennington conceives of as his assistant needs to be examined
 more closely. What substantive intellectual contributions, if any,
-did Gratian's collaborators make to the project?[^52] There are a
+did Gratian's collaborators make to the project?[^49] There are a
 number of indications, discussed in the previous chapter, that the
 *Decretum* outgrew the ability of a single author to effectively
 manage the development of the text. The question is whether Gratian's
@@ -657,7 +657,7 @@ partial loss of control of the project opened up a space for genuinely
 collaborative authorship. The starting point for this inquiry is a
 theoretically informed understanding of what authorship is.
 
-The recent work on the life of Gratian by Pennington and Winroth[^53]
+The recent work on the life of Gratian by Pennington and Winroth[^50]
 reviewed in the preceding section tacitly assumes that if we can
 identify the historical Gratian, we will have identified the author
 of the *Decretum* (or at least the author of the first recension),
@@ -673,7 +673,7 @@ over the last half-century. Roland Barthes's 1967 essay "The Death
 of the Author" and Michel Foucault's 1969 response "What Is an
 Author?" are foundational readings in the theory of authorship, and
 provide an appropriate starting point for a theoretically-informed
-reconsideration of the authorship of Gratian's *Decretum*.[^54]
+reconsideration of the authorship of Gratian's *Decretum*.[^51]
 
 ### Barthes
 
@@ -781,12 +781,12 @@ individual trademark." Furthermore, Foucault's theory of literary
 authorship is substantially derived from the work of the figure
 that Gratian's twelfth-century contemporaries, most notably Abelard,
 considered supremely authoritative on precisely this kind of
-problem.[^62]
+problem.[^59]
 
 > How, then can one attribute several discourses to one and the
 same author? How can one use the author function to determine if
 one is dealing with one or several individuals? Saint Jerome proposes
-four criteria:[^63]
+four criteria:[^60]
 
 Each of Jerome's four criteria is a criterion for the *exclusion*
 of a given text from the canon of a particular author. Only two of
@@ -1141,7 +1141,7 @@ for a good recent overview of these debates.
 given by Winroth at the Fourteenth International Congress of Medieval
 Canon Law, Toronto, 2012.
 
-[^44]: **Placeholder for Pennington, Larson footnote** Pennington
+[^40]: **Placeholder for Pennington, Larson footnote** Pennington
 asserts that "[t]he main reason that Winroth created a second
 'Gratian' is because of a text [D.63 d.p.c.34] that is found in all
 pre-Vulgate manuscripts." @pennington_biography_2018 [362]. D.63
@@ -1157,33 +1157,33 @@ above, the original basis for Winroth's two-author hypothesis was
 that the second recension makes much more sophisticated use of Roman
 law concepts and terminology than the first recension.
 
-[^46]: **Placeholder for Pennington, Eichbauer footnote**
+[^42]: **Placeholder for Pennington, Eichbauer footnote**
 
-[^48]: @odonnell_augustine_2005 [136, 139]. The need for scribal or
+[^45]: @odonnell_augustine_2005 [136, 139]. The need for scribal or
 secretarial support presupposes that authors create texts by dictating
 them.
 
-[^49]: John Anthony McGuckin, "The Life of Origen (ca. 186–255)"
+[^46]: John Anthony McGuckin, "The Life of Origen (ca. 186–255)"
 in *The Westminster Handbook to Origen*, 12. McGuckin got this story
 from Eusebius, *Ecclesiastical History* 6.23.2.
 
-[^50]: Monastic modes of text production were gradually replaced
+[^47]: Monastic modes of text production were gradually replaced
 by commercial modes of production, e.g., around the University of
 Paris. See Richard H. and Mary A. Rouse, *Manuscripts and their
 Makers: Commercial Book Producers in Medieval Paris 1200-1500.*
 
-[^52]: The quasi-monastic model of text production leaves open a
+[^49]: The quasi-monastic model of text production leaves open a
 range of possibilities. Those who have read the *Vita Augustini*
 written by Possidius of Calama († c.437) are likely to be unimpressed
 by the intellectual caliber of Augustine's episcopal household, and
 to assess its contribution to his work accordingly.
 
-[^53]: @winroth_where_2013; @pennington_biography_2014; and
+[^50]: @winroth_where_2013; @pennington_biography_2014; and
 @pennington_biography_2018.
 
-[^54]: @barthes_death_1977; and @foucault_what_1998.
+[^51]: @barthes_death_1977; and @foucault_what_1998.
 
-[^62]: "We must also be very careful not to be deceived by a false
+[^59]: "We must also be very careful not to be deceived by a false
 attribution of authorship or by a corrupt text ... Jerome, that
 most reliable writer and most faithful translator, has given us
 forewarning of this." @abelard_prologue_1988 [89].
@@ -1197,7 +1197,7 @@ praemonuit." Boyer and McKeon, 91.
 
   -->
 
-[^63]: @foucault_what_1998 [214]. Foucault claims to have derived
+[^60]: @foucault_what_1998 [214]. Foucault claims to have derived
 the four criteria for determining whether a given "discursive set"
 has one or several authors from Jerome's *De Viris illustribus*.
 He provides, however, no citations. Walzer and Inabinit indicate
