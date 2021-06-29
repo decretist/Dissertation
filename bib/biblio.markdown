@@ -219,7 +219,7 @@ Redactions of Gratian’s Decretum.” *Bulletin of Medieval Canon Law* 27
 Evert, Stefan, Thomas Proisl, Fotis Jannidis, Isabella Reger, Steffen
 Pielström, Christof Schöch, and Thorsten Vitt. “Understanding and
 Explaining Delta Measures for Authorship Attribution.” *Digital
-Scholarship in the Humanities* 32, no. suppl\_2 (December 2017): ii4–16.
+Scholarship in the Humanities* 32, no. suppl_2 (December 2017): ii4–16.
 
 </div>
 
@@ -516,7 +516,7 @@ D.C: Catholic University of America Press, 2008.
 <div id="ref-landau_arbeitsplan_1994" class="csl-entry">
 
 ———. “Gratians Arbeitsplan.” In *Iuri Canonico Promovendo: Festschrift
-für Heribert Schmitz Zum 65. Geburtstag*, edited by Winfried Aymans and
+Für Heribert Schmitz Zum 65. Geburtstag*, edited by Winfried Aymans and
 Karl-Theodor Geringer, 691–707. Regensburg: F. Pustet, 1994.
 
 </div>
@@ -675,7 +675,8 @@ HarperCollins Publishers, 2005.
 <div id="ref-pennington_short_2002" class="csl-entry">
 
 Pennington, Kenneth. “A Short History of Canon Law from Apostolic Times
-to 1917,” 2002. <http://legalhistorysources.com/Canon>.
+to 1917,” 2002.
+<http://legalhistorysources.com/Canon%20Law/PenningtonShortHistoryCanonLaw.pdf>.
 
 </div>
 
@@ -707,6 +708,13 @@ University Press, 2019.
 
 ———. “The Beginnings of Law Schools in the Twelfth Century.” In *Les
 écoles du XIIe siècle*, edited by Cédric Giraud. Leiden: Brill, 2018.
+
+</div>
+
+<div id="ref-pennington_big_2007" class="csl-entry">
+
+———. “The "Big Bang": Roman Law in the Early Twelfth-Century.” *Rivista
+Internazionale Di Diritto Comune* 18 (2007): 43–70.
 
 </div>
 
