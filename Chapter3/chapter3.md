@@ -680,9 +680,9 @@ did Gratian's collaborators make to the project?[^52] There are a
 number of indications, discussed in the previous chapter, that the
 *Decretum* outgrew the ability of a single author to effectively
 manage the development of the text. The question is whether Gratian's
-partial loss of control of the project opened up a space for
-genuinely collaborative authorship. The starting point for this inquiry
-is a theoretically informed understanding of what authorship is.
+partial loss of control of the project opened up a space for genuinely
+collaborative authorship. The starting point for this inquiry is a
+theoretically informed understanding of what authorship is.
 
 The recent work on the life of Gratian by Pennington and Winroth[^53]
 reviewed in the preceding section tacitly assumes that if we can
@@ -696,13 +696,11 @@ authors.) In conducting this kind of "quest of the historical
 Gratian," historians have uncritically accepted a conceptualization
 of authorship that is somewhat anachronistic when applied to a
 medieval text and has been largely discarded by literary scholarship
-over the last half-century.
-
----
-
-Roland Barthes's 1967 essay "The Death of the Author" and Michel
-Foucault's 1969 response "What Is an Author?" are foundational
-readings in the theory of authorship.[^54]
+over the last half-century. Roland Barthes's 1967 essay "The Death
+of the Author" and Michel Foucault's 1969 response "What Is an
+Author?" are foundational readings in the theory of authorship, and
+provide an appropriate starting point for a theoretically-informed
+reconsideration of the authorship of Gratian's *Decretum*.[^54]
 
 ### Barthes
 
@@ -728,13 +726,11 @@ literary text, and "is in the same relation of antecedence to his
 work as a father to his child." [@barthes_death_1977, 145] Barthes
 argues that authors cannot be Authors---no person or persons can
 have a parent-child relationship to a text since all literary texts
-are socially constructed: "The text is a tissue of quotations drawn
-from the innumerable centres of culture." [@barthes_death_1977,
-146]
-
-**Gratian may be the author of the *dicta* but he is not their
-Author. The *dicta* are socially constructed "tissue[s] of quotations
-drawn from the innumerable centres of culture."**
+are socially constructed. Barthes's observation is directly relevant
+to the problem of the authorship of the *dicta*. They are "a tissue
+of quotations drawn from the innumerable centres of
+culture."[@barthes_death_1977, 146] Gratian may therefore be the
+author of the *dicta* but he is not their Author.
 
 The Barthes's central argument is against precisely the kind of
 reading that is prevalent in scholarship on Gratian and the *Decretum*:
@@ -758,9 +754,13 @@ Barthes's definitions, both scriptor and critic. The *dicta* were
 originally delivered in a classroom setting, and thus have both a
 performative and a contemporaneous aspect ("there is no other time
 than that of the enunciation and every text is eternally written
-*here* and *now*" [@barthes_death_1977, 145]) The *dicta* are also
+*here* and *now*"[@barthes_death_1977, 145]). The *dicta* are also
 the record of a particular close-reading of a selection of authoritative
-texts.
+texts. Barthes's critique of the concept of the Author, then,
+suggests some interesting ways in which the conceptualization of
+authorship usually invoked in scholarship on the *Decretum* fails
+to capture, or at least insufficiently emphasizes, important aspects
+of Gratian's creative activity.
 
 ### Foucault
 
@@ -772,7 +772,7 @@ historians (including those who have written about Gratian's
 authorship of the *Decretum*) take for granted. In place of the
 conceptualization of authorship rendered suspect by Barthes, Foucault
 proposes the idea of the "author function." He starts by asking
-"[w]hat is an author’s name? How does it function?"[@foucault_what_1998,
+"[w]hat is an author's name? How does it function?"[@foucault_what_1998,
 209] and then goes on to observe:
 
 > ... if we proved that Shakespeare did not write those sonnets
@@ -804,15 +804,16 @@ This is significant. We face in the *Decretum* a problem concerning
 authorship that medieval textual scholars like Abelard and Gratian
 himself would have found quite familiar: a textual tradition to
 which the name of Gratian became attached quite early on "as an
-individual trademark." Furthermore, modern theories of literary
-authorship are substantially derived from the work of the figure
+individual trademark." Furthermore, Foucault's theory of literary
+authorship is substantially derived from the work of the figure
 that Gratian's twelfth-century contemporaries, most notably Abelard,
-considered supremely authoritative on precisely this kind of problem.[^62]
+considered supremely authoritative on precisely this kind of
+problem.[^62]
 
-> How, then can one attribute several discourses to one and the same
-author? How can one use the author function to determine if one is
-dealing with one or several individuals? Saint Jerome proposes four
-criteria:[^63]
+> How, then can one attribute several discourses to one and the
+same author? How can one use the author function to determine if
+one is dealing with one or several individuals? Saint Jerome proposes
+four criteria:[^63]
 
 Only two of Jerome's four criteria (the second and fourth) have
 figured significantly in recent scholarship on the authorship of
@@ -827,10 +828,14 @@ of value);
 doctrine expounded in the author’s other works (the author is thus
 defined as a field of conceptual or theoretical coherence);
 
-Winroth argues that the second recension of the *Decretum* reflects
-a level of reception of Roman Law doctrine so much more advanced
-than the first recension that the two recensions cannot be attributed
-to a single author.
+Winroth has argued that the second recension of the *Decretum*
+reflects a level of reception of Roman Law doctrine so much more
+advanced than the first recension that the two recensions cannot
+be attributed to a single author. Winroth's argument can be transposed
+into Foucault's framework by defining the author as a field of
+conceptual or theoretical coherence, then concluding that there
+must be two authors because the first and second recensions do not
+fall within a unitary field of coherence.
 
 > \(3\) one must also exclude works that are written in a different
 style, containing words and expressions not ordinarily found in the

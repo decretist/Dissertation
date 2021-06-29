@@ -664,13 +664,12 @@ possibility that there might have been multiple authors.) In conducting
 this kind of "quest of the historical Gratian," historians have
 uncritically accepted a conceptualization of authorship that is somewhat
 anachronistic when applied to a medieval text and has been largely
-discarded by literary scholarship over the last half-century.
-
-------------------------------------------------------------------------
-
-Roland Barthes's 1967 essay "The Death of the Author" and Michel
-Foucault's 1969 response "What Is an Author?" are foundational readings
-in the theory of authorship.[54]
+discarded by literary scholarship over the last half-century. Roland
+Barthes's 1967 essay "The Death of the Author" and Michel Foucault's
+1969 response "What Is an Author?" are foundational readings in the
+theory of authorship, and provide an appropriate starting point for a
+theoretically-informed reconsideration of the authorship of Gratian's
+*Decretum*.[54]
 
 ### Barthes
 
@@ -694,12 +693,11 @@ is the creative intellect uniquely responsible for a literary text, and
 "is in the same relation of antecedence to his work as a father to his
 child."[55] Barthes argues that authors cannot be Authors---no person or
 persons can have a parent-child relationship to a text since all
-literary texts are socially constructed: "The text is a tissue of
-quotations drawn from the innumerable centres of culture."[56]
-
-**Gratian may be the author of the *dicta* but he is not their Author.
-The *dicta* are socially constructed "tissue\[s\] of quotations drawn
-from the innumerable centres of culture."**
+literary texts are socially constructed. Barthes's observation is
+directly relevant to the problem of the authorship of the *dicta*. They
+are "a tissue of quotations drawn from the innumerable centres of
+culture."[56] Gratian may therefore be the author of the *dicta* but he
+is not their Author.
 
 The Barthes's central argument is against precisely the kind of reading
 that is prevalent in scholarship on Gratian and the *Decretum*:
@@ -721,9 +719,13 @@ author of the *dicta* is therefore, using Barthes's definitions, both
 scriptor and critic. The *dicta* were originally delivered in a
 classroom setting, and thus have both a performative and a
 contemporaneous aspect ("there is no other time than that of the
-enunciation and every text is eternally written *here* and *now*")[58]
+enunciation and every text is eternally written *here* and *now*"[58]).
 The *dicta* are also the record of a particular close-reading of a
-selection of authoritative texts.
+selection of authoritative texts. Barthes's critique of the concept of
+the Author, then, suggests some interesting ways in which the
+conceptualization of authorship usually invoked in scholarship on the
+*Decretum* fails to capture, or at least insufficiently emphasizes,
+important aspects of Gratian's creative activity.
 
 ### Foucault
 
@@ -734,7 +736,7 @@ biographical-historical context of the individual author, that most
 historians (including those who have written about Gratian's authorship
 of the *Decretum*) take for granted. In place of the conceptualization
 of authorship rendered suspect by Barthes, Foucault proposes the idea of
-the "author function." He starts by asking "\[w\]hat is an author’s
+the "author function." He starts by asking "\[w\]hat is an author's
 name? How does it function?"[59] and then goes on to observe:
 
 > ... if we proved that Shakespeare did not write those sonnets which
@@ -765,7 +767,7 @@ This is significant. We face in the *Decretum* a problem concerning
 authorship that medieval textual scholars like Abelard and Gratian
 himself would have found quite familiar: a textual tradition to which
 the name of Gratian became attached quite early on "as an individual
-trademark." Furthermore, modern theories of literary authorship are
+trademark." Furthermore, Foucault's theory of literary authorship is
 substantially derived from the work of the figure that Gratian's
 twelfth-century contemporaries, most notably Abelard, considered
 supremely authoritative on precisely this kind of problem.[62]
@@ -787,10 +789,14 @@ significantly in recent scholarship on the authorship of Gratian's
 > expounded in the author’s other works (the author is thus defined as a
 > field of conceptual or theoretical coherence);
 
-Winroth argues that the second recension of the *Decretum* reflects a
-level of reception of Roman Law doctrine so much more advanced than the
-first recension that the two recensions cannot be attributed to a single
-author.
+Winroth has argued that the second recension of the *Decretum* reflects
+a level of reception of Roman Law doctrine so much more advanced than
+the first recension that the two recensions cannot be attributed to a
+single author. Winroth's argument can be transposed into Foucault's
+framework by defining the author as a field of conceptual or theoretical
+coherence, then concluding that there must be two authors because the
+first and second recensions do not fall within a unitary field of
+coherence.
 
 > \(3\) one must also exclude works that are written in a different
 > style, containing words and expressions not ordinarily found in the
@@ -1341,7 +1347,8 @@ possibility that D.63 d.p.c.34 is an interpolation, without committing
 to it. Winroth ultimately accepted the argument of Rudolf Weigand
 (†1998) that the interpolation hypothesis is a slippery slope---once you
 start rejecting problematic passages because they are inconvenient
-(chronologically or otherwise), there is no obvious place to stop.
+(chronologically or otherwise), there is no obvious place at which to
+stop.
 
 [38] Much of the debate over whether the *Decretum* was the result of a
 continuous or discontinuous process of composition focused on the Sankt
