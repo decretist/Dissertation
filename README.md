@@ -24,7 +24,7 @@ Pages 25-49 under review (SC)
 Authority section (pages 1-17) ready for review 22 June 2021
 - [Chapter 4: Stylometry](Chapter4/chapter4.markdown) (24 June 2021) 84 pages [(PDF)](Chapter4/chapter4.pdf)\
 Under review (MK)
-  - [Successes and Failures](Chapter4/successes.markdown) (14 April 2021) 6 pages\
+  - [Successes and Failures](Chapter4/successes.markdown) (14 April 2021) 6 pages
   - [Principal component analysis](Chapter4/pca.markdown) (25 March 2021) 26 pages\
   Presented at [*Rem non novam*](https://sites.google.com/site/remnonnovam/), Yale Law School, 21 May 2015\
   Presented at the 15th International Congress of Medieval Canon Law, Paris, 20 July 2016
