@@ -13,7 +13,7 @@ International Congress of Medieval Canon Law in 2016, chapter 1 and
 most of chapter 2 in 2017, chapter 0 in 2018, and most of chapter
 4 in 2020.
 
-- [Chapter 0: Introduction](Chapter0/chapter0.markdown) (13 April 2021) 25 pages [(PDF)](Chapter0/chapter0.pdf)\
+- [Chapter 0: Introduction](Chapter0/chapter0.markdown) (29 June 2021) 25 pages [(PDF)](Chapter0/chapter0.pdf)\
 Reviewed (SC) 17 August 2018
 - [Chapter 1: Background](Chapter1/chapter1.markdown) (13 April 2021) 30 pages [(PDF)](Chapter1/chapter1.pdf)\
 Reviewed (SC) 6 November 2017
