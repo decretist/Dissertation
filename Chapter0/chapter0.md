@@ -371,11 +371,11 @@ MLA and the Digital Humanities" in the December 28, 2009 issue of
 the attention of a widespread audience, notably including university
 administrators, for the first time. @kirschenbaum_what_2012.
 
-[^5]: @larrainzar_borrador_1999 [601],
-describes Sg as having "poco menos de 1,050 *auctoritates* y en
-torno a los 650 *dicta*." "The second recension contains 3,945
-canons (including the paleae) in the editions. The first recension
-contains only 1,860 canons (47 percent)." @winroth_making_2000 [122].
+[^5]: @larrainzar_borrador_1999 [601], describes Sg as having "poco
+menos de 1,050 *auctoritates* y en torno a los 650 *dicta*." "The
+second recension contains 3,945 canons (including the paleae) in
+the editions. The first recension contains only 1,860 canons (47
+percent)." @winroth_making_2000 [122].
 
 [^6]: @eichbauer_gratians_2013, provides a good recent overview of
 these debates.
@@ -391,8 +391,8 @@ web application ported to the Django platform.
 [^8]: NEH ODH Grant number:
 [HD-51568-12](https://securegrants.neh.gov/publicquery/main.aspx?f=1&gn=HD-51568-12)
 
-[^9]: See @reuter_wortkonkordanz_1990. See @hockey_history_2004 [4, 8],
-for Busa and OCP.
+[^9]: See @reuter_wortkonkordanz_1990. See @hockey_history_2004 [4,
+8], for Busa and OCP.
 
 [^10]: See Appendix 1 and Appendix 2 for Python source code of OCP
 parsers written for this project.
@@ -488,7 +488,8 @@ Principal components analysis and its application to the problem
 of authorship attribution will be covered in depth in Chapter 4,
 Stylometry.
 
-[^20]: @noonan_catholic_1997 [1201]; and @pennington_biography_2014 [689].
+[^20]: @noonan_catholic_1997 [1201]; and @pennington_biography_2014
+[689].
 
 [^21]: @winroth_making_2000, 15. Roughly one-fifth of the text of
 the *Decretum* has traditionally been attributed to Gratian himself;
