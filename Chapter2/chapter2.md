@@ -783,8 +783,8 @@ were written by someone other than the author(s) of the first-recension
 *dicta*.**
 
 [^2]: "Given this lack of reliable extrinsic evidence, our best
-source of evidence about Gratian is his book(s)." [@wei_gratian_2016,
-33].
+source of evidence about Gratian is his book(s)." @wei_gratian_2016
+[33].
 
 [^3]: Manuscripts of Gratian's *Decretum* are frequently referred
 to in recent scholarly literature by two-letter abbreviations or
@@ -793,28 +793,28 @@ particularly controversial example) is much more compact and memorable
 than one to Sankt Gallen, Stiftsbibliothek 673. Rudolf Weigand
 (†1998) generated the original list of *sigla* in the course of his
 groundbreaking study of early glossed manuscripts of the *Decretum*,
-[-@weigand_glossen_1991]. In the context of Weigand's study early
-means before 1216, when Johannes Teutonicus (†1245) finalized the
-ordinary gloss, or standardized commentary, on the *Decretum*.
-Manuscripts falling outside the original scope of Weigand's
-investigation are now assigned *sigla* following the pattern he
-set. For example, Paris, Bibliothèque Nationale de France, nouvelles
-acquisitions latines 1761, although an extremely important and early
-(possible the earliest) manuscript of the *Decretum*, was not
-glossed, and was therefore not assigned a *siglum* by Weigand. On
-the advice of Weigand, Winroth supplied the *siglum* P by which the
-manuscript is now commonly identified: "it was Rudolf Weigand who
-came up with it. I had asked him what siglum this ms should have,
-since I thought all of the two-letter ones that started with a P
-had been taken. He said to use only P, 'because it is such an
-important manuscript'." (Anders Winroth email to Paul Evans, October
-1, 2018) (Although the *sigla* in Weigand's *Handschriftenliste*
-adhere consistently to the two-letter convention, some of the *sigla*
-supplied by other scholars deviate from it, e.g., P, Pfr.)
+@weigand_glossen_1991. In the context of Weigand's study early means
+before 1216, when Johannes Teutonicus (†1245) finalized the ordinary
+gloss, or standardized commentary, on the *Decretum*. Manuscripts
+falling outside the original scope of Weigand's investigation are
+now assigned *sigla* following the pattern he set. For example,
+Paris, Bibliothèque Nationale de France, nouvelles acquisitions
+latines 1761, although an extremely important and early (possible
+the earliest) manuscript of the *Decretum*, was not glossed, and
+was therefore not assigned a *siglum* by Weigand. On the advice of
+Weigand, Winroth supplied the *siglum* P by which the manuscript
+is now commonly identified: "it was Rudolf Weigand who came up with
+it. I had asked him what siglum this ms should have, since I thought
+all of the two-letter ones that started with a P had been taken.
+He said to use only P, 'because it is such an important manuscript'."
+(Anders Winroth email to Paul Evans, October 1, 2018) (Although the
+*sigla* in Weigand's *Handschriftenliste* adhere consistently to
+the two-letter convention, some of the *sigla* supplied by other
+scholars deviate from it, e.g., P, Pfr.)
 
 [^6]: "The second recension contains 3,945 canons (including the
 paleae) in the editions. The first recension contains only 1,860
-canons (47 percent)." [@winroth_making_2000, 122] The division of
+canons (47 percent)." @winroth_making_2000 [122]. The division of
 distinctions and questions into canons is a matter of editorial
 opinion and therefore unavoidably conventional. The generally-cited
 number of 3,945 comes from Friedberg's introduction (edF 1.xii).
@@ -841,27 +841,27 @@ ingenuity. In other words, the manuscripts do not represent different
 stages in the development of the text, in the manner of 'classically'
 living texts, such as the *Song of Roland*, where each different
 manuscript version has an equally valid claim to authenticity."
-[@winroth_making_2000, 130].
+@winroth_making_2000 [130].
 
 [^8]: "In the interests of simplicity and clarity, I have therefore
 chosen to call the author of the first recension Gratian 1 and the
 author of the second recension Gratian 2. These labels are not
 intended to suggest that Gratian 1 and Gratian 2 could not have
-been the same person." [@winroth_making_2000, 122] "It is impossible
+been the same person." @winroth_making_2000 [122]. "It is impossible
 to draw any certain conclusions, but the evidence presented in the
 last two chapters supports the view that that two recensions had
-difference authors." [@winroth_making_2000, 194-195].
+difference authors." @winroth_making_2000 [194-195].
 
 [^9]: Excepting only that there is no first-recension version of
 Part III.
 
-[^10]: @somerville_prefaces_1998, 200-201. Somerville is translating
-from @kalb_studien_1983, 113-120. "Compositorem huius operis recte
+[^10]: @somerville_prefaces_1998 [200-201]. Somerville is translating
+from @kalb_studien_1983 [113-120]. "Compositorem huius operis recte
 dixerim Gratianum, non auctorem. Capitula namque a sanctis patribus
 edita in hoc volumine composuit, i.e. ordinavit. Non eorum auctor
 vel conditor fuit, nisi forte quis eum auctorem idcirco dicere
 velit, quoniam multa ex parte sua sanctorum sententias distinguendo
-et exponendo in paragraphis suis ponit." @schulte_summa_1965, 5.
+et exponendo in paragraphis suis ponit." @schulte_summa_1965 [5].
 
 <!--
 
@@ -887,19 +887,19 @@ aliena tamquam annexa ad confirmationem; et talis debet dici *auctor*.
     also of his own, but with his own forming the principle part
     and those of others being annexed merely by way of confirmation,
     and such a person should be called an author [*auctor*].
-    @kraebel_modes_2019, 98.
+    @kraebel_modes_2019 [98].
 
   -->
 
-[^11]: @kraebel_modes_2019, 98. Aliquis scribit et sua et aliena,
+[^11]: @kraebel_modes_2019 [98]. Aliquis scribit et sua et aliena,
 sed sua tanquam principalia, aliena tamquam annexa ad confirmationem;
-et talis debet dici *auctor*. @bonaventure_commentaria_1882, 14-15.
+et talis debet dici *auctor*. @bonaventure_commentaria_1882 [14-15].
 
 [^12]: (trans. PLE) Talis fuit Magister, qui sententias suas ponit
 et Patrum sententiis confirmat. Unde vere debet dici auctor huius
-libri. @bonaventure_commentaria_1882, 14-15.
+libri. @bonaventure_commentaria_1882 [14-15].
 
-[^13]: Cf. [@larson_master_2014, 12-13, n30] "My refusal to apply
+[^13]: Cf. @larson_master_2014 [12-13, n30]. "My refusal to apply
 the standard label of 'canonical collection' to the *Decretum* is
 meant to make clear that I do not classify the rest of the *Decretum
 Gratiani* as a canonical collection in the exact way that the work
@@ -919,15 +919,15 @@ church's law."
 
 [^16]: The prologue was prepended (in slightly different forms) to
 both the *Decretum* and *Panormia* of Ivo of Chartres. For the
-edited Latin text, see [@brasington_ways_2004] For an English
-translation, see [@somerville_prefaces_1998, 132-158].
+edited Latin text, see @brasington_ways_2004. For an English
+translation, see @somerville_prefaces_1998 [132-158].
 
 [^17]: "Master Gratian, antonomastically called in this work 'the
 Master,' **in place of an introduction** prefaced his book with the
 following title, *Concord of discordant canons*, by which he precisely
-sets forth subject matter and intention. @somerville_prefaces_1998, 201.
-**Add quote in Latin. As noted above (Chapter 1), the title comes
-from a gloss, not from Gratian.**
+sets forth subject matter and intention. @somerville_prefaces_1998
+[201]. **Add quote in Latin. As noted above (Chapter 1), the title
+comes from a gloss, not from Gratian.**
 
 [^18]: 81,008 words or 19.1%.
 
@@ -941,7 +941,7 @@ difficulty is the range of roles the one 'responsible' person might
 have had---compiler, commentator, rubricator, reviser. Was Gratian
 one or all? The difficulties relate to one another, because evidence
 that Gratian was, say, the commentator of Part II does not establish
-what role he had in Part I." [@noonan_gratian_1979, 162-163].
+what role he had in Part I." @noonan_gratian_1979 [162-163].
 
 [^20]: D.3 c.1-2. *Decretum Gratiani*, First Recension, edition in
 progress. Anders Winroth, 3/21/2017, p.5, l.13-18.
@@ -955,12 +955,12 @@ number of excerpts from the register containing the letters of
 Gregory I, Gratian used a number of pseudo-papal sources, which
 will be discussed below in the context of Gratian's formal sources.
 
-[^23]: JK 255. [@jaffe_regesta_1956, 40] ["Register of papal letters
+[^23]: JK 255. @jaffe_regesta_1956 [40]. "Register of papal letters
 to 1198. Reflecting the editors who contributed to various time
 periods, the work is conventionally given an abbreviated citation
 as JK to the year 590, JE for 590-882 and JL for 883-1198." [Papal
 Documents: A Finding Aid | Columbia University
-Libraries](http://library.columbia.edu/locations/butler/medieval-studies/guides/papaldoc.html)]
+Libraries](http://library.columbia.edu/locations/butler/medieval-studies/guides/papaldoc.html)
 
 [^24]: D.3 d.p.c.2. *Decretum Gratiani*, First Recension, edition
 in progress. Anders Winroth, 3/21/2017.
@@ -981,24 +981,24 @@ Thompson and Gordley.
 Job to his 'brethren' who accompanied him to Constantinople while
 he held the office of papal *apocrisiarius* (see above). The work
 as we have it is the result of Gregory's revision and completion
-of it soon after his accession to the papal office." @markus_gregory_1997,
-15. "In the case of Gratian's chapters from Gregory I's *Moralia
+of it soon after his accession to the papal office." @markus_gregory_1997
+[15]. "In the case of Gratian's chapters from Gregory I's *Moralia
 in Job*, the unusually precise citations in Gratian's inscriptions
 lead to the conclusion that he used this work directly (as Munier
-already argued)." @landau_gratian_2008, 35. "There are six chapters
+already argued)." @landau_gratian_2008 [35]. "There are six chapters
 taken from the *Moralia*, and Gratian noted the book and chapter
 of the text in his inscription: D.13 c.2; D.45 c.9 and c.14; D.46
 c.1 and c.2; D.47 c.3. Each text is also in the first recension."
-@landau_gratian_2008, 35n22.
+@landau_gratian_2008 [35n22].
 
-[^29]: [@landau_arbeitsplan_1994]. See also [@winroth_making_2000,
-15-17].
+[^29]: See @landau_arbeitsplan_1994; and @winroth_making_2000
+[15-17].
 
 [^30]: For the *Collectio IX librorum* of the Ms Vat. lat. 1349
-(*9L*), see [@fowler-magerl_clavis_2005, 79-82]
+(*9L*), see @fowler-magerl_clavis_2005 [79-82].
 
 [^32]: For the much-criticized 1863 edition, see
-[@hinschius_decretales_1963]. Recent efforts to replace the Hinschius
+@hinschius_decretales_1963. Recent efforts to replace the Hinschius
 edition include [Zum Inhalt von "Projekt
 Pseudoisidor"](http://www.pseudoisidor.mgh.de/) by Karl-Georg Schon;
 and [Pseudo-Isidore | An edition-in-progress of the False
@@ -1006,16 +1006,16 @@ Decretals](https://pseudo-isidore.com/) by Eric Knibbs. The work
 of Klaus Zechiel-Eckes (†2010) forms the basis for much of our
 current understanding of the place and date at which the pseudo-Isidorian
 collection was compiled (Corbie in the mid-830s), and therefore of
-the political motivations of the compilers; see
-[-@zechiel-eckes_blick_2001]. @fuhrmann_pseudo-isidorian_2001
-provides a good general introduction to the forged decretals; see
-also [Introduction to Pseudo-Isidore - Decretum
+the political motivations of the compilers; see @zechiel-eckes_blick_2001.
+@fuhrmann_pseudo-isidorian_2001 provides a good general introduction
+to the forged decretals; see also [Introduction to Pseudo-Isidore
+- Decretum
 Gratiani](https://sites.google.com/a/yale.edu/decretumgratiani/introduction-to-pseudo-isidore)
 by Eric Knibbs. See @fuhrmann_einfluss_1972 on the influence of the
 forged decretals.
 
 [^33]: "Altogether I have estimated that 252 out of the 315 *capitula*
-were taken from Pseudo-Isidore." [@gilchrist_collection_1980, 15]
+were taken from Pseudo-Isidore." @gilchrist_collection_1980 [15]
 
 [^34]: See Appendix 2 for the Python 3 code listing for my
 implementation of the recursive-descent parser. Thanks to Patricio
@@ -1053,13 +1053,13 @@ majority of cases sound, and I made very few changes to them.
 
 [^36]: The distinction between rubrics and *dicta* is blurry:
 "Gratian ... often melded the rubrics with the dicta."
-[@eichbauer_redactions_2007, 107]. "Both J. Rambaud-Buhot and John
+@eichbauer_redactions_2007 [107]. "Both J. Rambaud-Buhot and John
 Noonan, Jr. have highlighted the similarity between dicta and
 rubrics, that is, a rubric very often echoes the dictum that
 immediately preceded it." and "These isolated instances in the first
 cluster show that Gratian felt that the dictum was sufficient for
-summarizing the following *auctoritas*." [@eichbauer_redactions_2007,
-115]
+summarizing the following *auctoritas*." @eichbauer_redactions_2007
+[115].
 
 <!--
 
@@ -1072,19 +1072,19 @@ Do *dicta* and inscriptions overlap?
 
   -->
 
-[^37]: "Since Gratian frequently took fragments of letters from
-the Register of Gregory I---266 in all---using the inscription 'in
+[^37]: "Since Gratian frequently took fragments of letters from the
+Register of Gregory I---266 in all---using the inscription 'in
 registro', older research assumed that he must have used this
 important source in the form of the *Registrum Hadrianum*. According
 to more recent research (Landau), even these texts from the Register
 of Gregory I found in Gratian derive almost without exception from
 canonical collections predating Gratian; the direct use of the
 Register is probable in only a single case." [C.27 q.1 c.19 (JE
-1496)] @landau_gratian_2008, 34.
+1496)] @landau_gratian_2008 [34].
 
 [^38]: Winroth observed that there are 398 *de eodem* rubrics in
-the vulgate *Decretum*, see [@winroth_uncovering_1997, 28]; and
-[@winroth_making_2000, 127]. The precision of this frequently-cited
+the vulgate *Decretum*, see @winroth_uncovering_1997 [28]; and
+@winroth_making_2000 [127]. The precision of this frequently-cited
 number can be refined in ways that demonstrate the true power of
 the careful use of electronic resources for the study of this, or
 any, text. (In the following examples, ```edF.txt``` is the filename
@@ -1120,38 +1120,38 @@ Cons.* D.1 c.17 (*De eodem, et quod octo diebus dedicationum*).
 Winroth's larger point, however, had to do with the place of the
 *de eodem* rubrics in the "untidy seams" problem. For that purpose,
 only the 137 *de eodem* rubrics in the first recension of the
-Decretum are potentially relevant evidence.
-(This result [137] is potentially off by one, i.e., the
-total number of *de eodem* rubrics in the first and second recension
-rubric data sets is 388 instead of 389, with no way to tell whether
-the missing rubric is from the first or second recension.)
+Decretum are potentially relevant evidence. (This result [137] is
+potentially off by one, i.e., the total number of *de eodem* rubrics
+in the first and second recension rubric data sets is 388 instead
+of 389, with no way to tell whether the missing rubric is from the
+first or second recension.)
 
 [^41]: "Gratian rarely took his rubrics from earlier collections.
-Rather he created his own ..." @eichbauer_redactions_2007, 107.
+Rather he created his own ..." @eichbauer_redactions_2007 [107].
 
 [^42]: Gratian is known to have used Alger as both a source,
 especially in C.1, and, to some extent, as a methodological model.
-[@winroth_making_2000, 17, 39, 144]. Somewhat confusingly for
-Gratian scholars, Robert Kretzschmar's edition of *De misericordia
-et iustitia* uses regular typeface for Alger's *dicta* and italics
-for the canons, the opposite of the convention adopted by Friedberg
-and maintained by Winroth. See @kretzschmar_alger_1985.
+@winroth_making_2000 [17, 39, 144]. Somewhat confusingly for Gratian
+scholars, Robert Kretzschmar's edition of *De misericordia et
+iustitia* uses regular typeface for Alger's *dicta* and italics for
+the canons, the opposite of the convention adopted by Friedberg and
+maintained by Winroth. See @kretzschmar_alger_1985.
 
 [^44]: Rufinus and Stephen of Tournai describe the tripartite
 division in exactly the same words. **Rufinus:** "*librum suum in
 tribus partibus distinguit, quarum primam ministeriis, secundam
-negotiis, tertiam ecclesiasticis deputat sacramentis.*" @singer_summa_1963, 5
-("[H]e divides his book into three parts, the first of which he
-devotes to ecclesiastical ministries, the second to [ecclesiastical]
+negotiis, tertiam ecclesiasticis deputat sacramentis.*" @singer_summa_1963 [5]
+("[H]e divides his book into three parts, the first of which
+he devotes to ecclesiastical ministries, the second to [ecclesiastical]
 business, and the third to ecclesiastical sacraments.")
-@somerville_prefaces_1998, 192-193. **Stephen of Tournai:** "*Harum
+@somerville_prefaces_1998 [192-193]. **Stephen of Tournai:** "*Harum
 primam ministeriis, secundam negotiis, tertiam ecclesiasticis deputat
-sacramentis.*" @schulte_summa_1965, 6. ("The first of these parts
+sacramentis.*" @schulte_summa_1965 [6]. ("The first of these parts
 is devoted to ecclesiastical ministries, the second to ecclesiastical
 problems, the third to ecclesiastical sacraments.")
-@somerville_prefaces_1998, 201. (Brasington translated the preface
+@somerville_prefaces_1998 [201]. (Brasington translated the preface
 of Rufinus, Somerville that of Stephen of Tournai.
-@somerville_prefaces_1998, vii. There is no indication as to why
+@somerville_prefaces_1998 [vii]. There is no indication as to why
 Somerville chose to translate *negotiis* as "problems" rather than
 "business".)
 
@@ -1173,23 +1173,37 @@ division of the Distinctiones into the first part of the Decretum.
 They attributed the division to the members of the schools, suggesting
 that Paucapalea, the first decretist, may have made it."
 @chodorow_ecclesiology_1972, 15. @vetulani_gratien_1990. "Distinctiones
-apposuit in prima parte et ultima Paucapalea ..." @mclaughlin_summa_1952, 1.
-(Paucapalea arranged the distinctions in the first part and the
-last, trans. PLE)
+apposuit in prima parte et ultima Paucapalea ..." @mclaughlin_summa_1952
+[1]. (Paucapalea arranged the distinctions in the first part and
+the last, trans. PLE)
 
-[^47]: @singer_summa_1963, 5. @somerville_prefaces_1998, 193.
+[^47]: @singer_summa_1963 [5]. @somerville_prefaces_1998 [193].
 
 [^48]: Distinctions 1-20 are conventionally referred to by modern
 scholars as the treatise on laws (*tractatus de legibus*). I cannot
 find an internal reference to it in the *Decretum* under that title.
 
-[^49]: There are three internal references to the *tractatus ordinandorum* in the vulgate *Decretum*:  
-C.1 q.7 d.p.c.6 "Item: 'Priscis igitur, etc.' Require supra in tractatu ordinandorum." (first recension, Friedberg 1.430): reference to D.55 c.1 (first recension, Friedberg 1.215).  
-C.3 q.1 d.p.c.7 "Unde supra in tractatu ordinandorum: 'Si quis pecunia uel gratia humana, seu populari uel militari tumultu, etc.'" (second recension, Friedberg 1.507): reference to D.79 c.9 (first recension, Friedberg 1.278).  
-*de Cons*. D.1 d.p.c.50 "Item Pelagius: 'Dilectionis tuae rescripta.' Require in tractatu ordinandorum." (Friedberg 1.1303): reference to D.76 c.12 (first recension, Friedberg 1.271). Note that this reference occurs in one of only two substantive *dicta post* in *de Cons*.
+[^49]: There are three internal references to the *tractatus
+ordinandorum* in the vulgate *Decretum*: C.1 q.7 d.p.c.6 "Item:
+'Priscis igitur, etc.' Require supra in tractatu ordinandorum."
+(first recension, Friedberg 1.430): reference to D.55 c.1 (first
+recension, Friedberg 1.215). C.3 q.1 d.p.c.7 "Unde supra in tractatu
+ordinandorum: 'Si quis pecunia uel gratia humana, seu populari uel
+militari tumultu, etc.'" (second recension, Friedberg 1.507):
+reference to D.79 c.9 (first recension, Friedberg 1.278). *de
+Cons*. D.1 d.p.c.50 "Item Pelagius: 'Dilectionis tuae rescripta.'
+Require in tractatu ordinandorum." (Friedberg 1.1303): reference
+to D.76 c.12 (first recension, Friedberg 1.271). Note that this
+reference occurs in one of only two substantive *dicta post* in *de
+Cons*.
 
-    There is one additional internal reference to this treatise under the title *tractatus de promotionibus clericorum*.  
-    C.16 q.1 d.p.c.20 "Gelasius tamen (sicut in tractatu de promotionibus clericorum inuenitur) in capitulo illo: 'Monachus nouicius, etc.' permittit illos ex dispensatione defensores fieri." (first recension, Friedberg 1.766): reference to D.77 c.9 (first recension, Friedberg 1.274)
+    There is one additional internal reference to this treatise
+    under the title *tractatus de promotionibus clericorum*. C.16
+    q.1 d.p.c.20 "Gelasius tamen (sicut in tractatu de promotionibus
+    clericorum inuenitur) in capitulo illo: 'Monachus nouicius,
+    etc.' permittit illos ex dispensatione defensores fieri." (first
+    recension, Friedberg 1.766): reference to D.77 c.9 (first
+    recension, Friedberg 1.274)
 
 [^50]: Gratian refers at D.81 d.a.c.1 to the section starting at
 D.81 as an "epilogue": "*Verum quia aliquantulum diffusius in his
@@ -1198,9 +1212,21 @@ memoriam subiciamus.*" (Friedberg 1.281) The distinction between
 the *tractatus ordinandorum* and the epilogue however is not a
 strong one. There are two internal references to the epilogue that
 refer to it as if it were simply an undifferentiated part of the
-*tractatus ordinandorum*:  
-C.9 q.3 c.15 (inscription) "ut supra in tractatu ordinandorum, ubi agitur de obedientia minorum erga maiores." (second recension, Friedberg 1.647): no canon incipit is provided, but this appears to be a reference to D.93 c.9 (rubric): "Maioribus minores obedientiam exhibeant." (second recension, Friedberg 1.321).  
-C.16 q.1 d.p.c.40 "Hoc idem datur intelligi ex uerbis B. Siluestri, qui obedientiam minorum erga maiores assignans ait: 'Abbas hostiario, monachus abbati sit subditus,' supra in tractatu ordinandorum." (second recension, Friedberg 1.773): this also appears to be a reference to D.93 c.5. (second recension, Friedberg 1.321). C.16 q.1 d.p.c.40 is a first-recension *dictum post* that was expanded in the second recension. The reference to the second-recension chapter D.93 c.5 is in the text added to the *dictum* in the second recension.  
+*tractatus ordinandorum*: C.9 q.3 c.15 (inscription) "ut supra in
+tractatu ordinandorum, ubi agitur de obedientia minorum erga maiores."
+(second recension, Friedberg 1.647): no canon incipit is provided,
+but this appears to be a reference to D.93 c.9 (rubric): "Maioribus
+minores obedientiam exhibeant." (second recension, Friedberg 1.321).
+C.16 q.1 d.p.c.40 "Hoc idem datur intelligi ex uerbis B. Siluestri,
+qui obedientiam minorum erga maiores assignans ait: 'Abbas hostiario,
+monachus abbati sit subditus,' supra in tractatu ordinandorum."
+(second recension, Friedberg 1.773): this also appears to be a
+reference to D.93 c.5. (second recension, Friedberg 1.321). C.16
+q.1 d.p.c.40 is a first-recension *dictum post* that was expanded
+in the second recension. The reference to the second-recension
+chapter D.93 c.5 is in the text added to the *dictum* in the second
+recension.
+
 [^51]: C.1 q.1 d.p.c.96 "Unde etiam ab ecclesia Romana repudiatur,
 et a Deo fuisse percussus legitur in gestis Romanorum Pontificum
 hoc modo: 'Anastasius secundus natione Romanus, etc.' Require retro
@@ -1211,17 +1237,17 @@ this is to be read as a specific reference to a self-contained text
 corresponding to distinctions 19-20 rather than to the treatise on
 laws generally.
 
-[^52]: All of the empty questions contain a *dictum ante* (see below)
-in the vulgate *Decretum*, but in three of the four cases it was
-added only in the second recension: C.11 q.2 d.a.c.1, C.17 q.3
-d.a.c.1, and C.22 q.3 d.a.c.1.
+[^52]: All of the empty questions contain a *dictum ante* (see
+below) in the vulgate *Decretum*, but in three of the four cases
+it was added only in the second recension: C.11 q.2 d.a.c.1, C.17
+q.3 d.a.c.1, and C.22 q.3 d.a.c.1.
 
 [^53]: The cases can be grouped thematically: simony (C.1), procedure
 (CC.2-6), other (CC.7-10), other (CC.11-15), monastic (CC.16-20),
 other (CC.21-22), heresy (CC.23-26), and marriage (CC.27-36). The
 thematic groupings are to some extent a matter of opinion. Anders
 Winroth referred me to Alfred Beyer's groupings which I have found
-useful. @beyer_lokale_1998, 17.
+useful. @beyer_lokale_1998 [17].
 
 [^55]: Three early manuscripts (Gt, Pf, and Tr) contain the gloss:
 "*Concordia discordantium canonum iuxta determinationem Gratiani
@@ -1230,7 +1256,7 @@ of disagreeing canons according to the determination of Bishop
 Gratian, which is principally divided into two parts.)" Gt = Ghent,
 Bibl. der Rijksuniversiteit 55; Pf = Paris, Bibl. Nationale lat.
 3884 I and II; and Tr = Trier, Stadtbibl. 906 (1141). See
-@noonan_gratian_1979, 154; and @pennington_biography_2018, 382.
+@noonan_gratian_1979 [154]; and @pennington_biography_2018 [382].
 
 [^56]: Add footnote restating distinction between canon and chapter.
 
@@ -1242,9 +1268,9 @@ name Gratian can be taken to stand for someone performing the
 author-function (Foucault) with respect to a discrete selection of
 text under consideration (e.g., a particular *dictum*).
 
-[^58]: In Parts I and II, the part contains distinctions which contain
-chapters (depth = 3). In Part II, the part contains cases which
-contain questions which contain chapters (depth = 4).
+[^58]: In Parts I and II, the part contains distinctions which
+contain chapters (depth = 3). In Part II, the part contains cases
+which contain questions which contain chapters (depth = 4).
 
 [^59]: Edited by Paul Evans based on transcriptions by University
 of San Diego students Emily Bolender (P) and Paige Ferguson (Aa and
