@@ -383,7 +383,7 @@ early stages of this project.
 
 [6] Following the example of Kestemont, Moens, and Deploige,
 “Collaborative Authorship in the Twelfth Century”, 205: "To
-automatically isolate the clitic, we have stripped the suffix (‘x*que*’)
+automatically isolate the clitic, we have stripped the suffix ('x*que*')
 from every word that did not occur in a list of words proposed by
 Schinke *et al*. (1996, p. 180-1)."
 

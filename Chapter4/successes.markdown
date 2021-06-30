@@ -98,10 +98,6 @@ considerably less than Ken's "Bartolomeo de las Casas and the Tradition
 of Medieval Law", but better than the Cooper and Pearsall paper on
 Gawain that started this conversation.
 
-### Authorship (Barthes and Foucault)
-
-### Implications and Conclusions
-
 # Bibliography
 
 <div id="refs" class="references csl-bib-body hanging-indent">
