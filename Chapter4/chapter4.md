@@ -1492,11 +1492,11 @@ Delta value for the cases subcorpus indicates that it is the *least*
 likely of any of the subcorpora in the row to share an author in
 common with the other1 subcorpus.
 
-[^4]: @mosteller_inference_1964, 14. See also @adair_authorship_1944a, 104.
+[^4]: @mosteller_inference_1964 [14]. See also @adair_authorship_1944a [104].
 
 [^5]: @adair_authorship_1944a and @adair_authorship_1944b.
 
-[^8]: @winroth_making_2000, 201. The numbers 1 and 2 refer to line
+[^8]: @winroth_making_2000 [201]. The numbers 1 and 2 refer to line
 numbers relative to the first line of the *dictum*, as opposed to
 the first line of the column, in the print version of the Friedberg
 edition.
@@ -1506,15 +1506,15 @@ explaining the rationale for the various roll-ups of the *dicta*
 used in the following analyses, e.g., Gratian0, Gratian1, dePen,
 Gratian2, etc.**
 
-[^11]: @winroth_making_2000, 9-11. See also @kuttner_gratiani_1948
-(Latin), and -@kuttner_research_1990, 10, 21-22, which mentions the
+[^11]: @winroth_making_2000 [9-11]. See also @kuttner_gratiani_1948
+(Latin), and @kuttner_research_1990 [10, 21-22], which mentions the
 deficiency of Friedberg's edition without offering a detailed
 critique.
 
 [^12]: "The list is based on a collation of *incipits* and
 *explicits* of every canon and *dictum* in the first recension. Differences
 within the texts may very well have been overlooked, and minor differences
-have not normally been registered." @winroth_making_2000, 197.
+have not normally been registered." @winroth_making_2000 [197].
 
 [^14]: **Anders, my understanding is that you took a similar approach
 when you created the baseline text for the edition in progress of
@@ -1534,7 +1534,7 @@ from Aa. The remaining 21 case statements (for cases 8, 12-14,
     The case statement are used as the example here because they
     are the focus of my dissertation.**
 
-[^18]: [@hockey_history_2004, 4-6]. The highest honor in the field
+[^18]: @hockey_history_2004 [4-6]. The highest honor in the field
 of Digital Humanities is the Roberto Busa Prize, awarded by the
 Alliance of Digital Humanities Organizations (ADHO). A notable past
 recipient of the Busa Prize is John Burrows, who first introduced
@@ -1584,7 +1584,7 @@ had been calculated below. Framing the dimensions of the plot to
 twice the standard deviation from the mean along both axes improves
 graphical layout and readability.
 
-[^26]: @zipf_psycho-biology_1935, 39-48; and @zipf_human_1949, 73-131.
+[^26]: @zipf_psycho-biology_1935 [39-48]; and @zipf_human_1949 [73-131].
 Zipf referred to the relationship as "the law of diminishing returns
 of words" (1949). He expressed the relationship as $ab^2 = k$ (1935)
 and r × f = C (1949).
@@ -1602,19 +1602,18 @@ of the occurrences." ... "It is perhaps worth pointing out that the
 $ab^2 = k$ relationship which appears valid for the frequency
 distribution of the less frequent words would demand fractional
 words when applied to the speech-elements of highest occurrence,
-such as *the* in English." @zipf_psycho-biology_1935, 42-43.
+such as *the* in English." @zipf_psycho-biology_1935 [42-43].
 
 [^29]: Zipf used the term "integrality" to describe the discrete,
-discontinuous, nature of frequency and rank. @zipf_human_1949, 31,
-35.
+discontinuous, nature of frequency and rank. @zipf_human_1949 [31, 35].
 
 [^31]: "we have found a clearcut correlation between the number of
 different words in the *Ulysses* and the frequency of their usage,
 in the sense that they approximate the simple equation of an
 equilateral hyperbola: r × f = C in which *r* refers to the word's
 rank in the *Ulysses* and *f* to its frequency of occurrence (as
-we ignore for the present the size of C)." @zipf_human_1949, 24.
-See @zipf_human_1949, 23-52, for Zipf's extended discussion of the
+we ignore for the present the size of C)." @zipf_human_1949 [24].
+See @zipf_human_1949 [23-52], for Zipf's extended discussion of the
 rank-frequency distribution of words in Joyce's *Ulysses*.
 
 [^32]: $m = \frac{\sum{x_iy_i - n\bar{xy}}}{\sum{x_i^2 - n\bar{x}^2}}$
@@ -1648,7 +1647,7 @@ number of occurrences (b). Similarly, the next vertical band to the
 right represents all of the words for which only two words (a = 2)
 have particular values for the number of occurrences (b).
 
-[^34]: @burrows_questions_2003; and -@burrows_delta_2002.
+[^34]: @burrows_questions_2003; and @burrows_delta_2002.
 
 [^36]: *de Penitentia* D.1 c.88 (R1), D.3 c.42 (R1), D.3 c.49 (R1),
 D.5 c.1 (R1), D.6 c.1 (R1), and D.7 c.6 (R1). These seven extended
@@ -1661,6 +1660,6 @@ Karen Teresa Wagner, *De vera et falsa penitentia : an edition and
 study*, 1995.**
 
 [^37]: The division of the first-recension (R1) *dicta* into twelve
-sections follows the division of Gratian's *Decretum* proposed by
-Alfred Beyer in -@beyer_lokale_1998, 17-18.
+sections follows the division of Gratian's *Decretum* proposed in
+@beyer_lokale_1998 [17-18].
 

@@ -1606,7 +1606,7 @@ Authorship: The Federalist*, Addison-Wesley Series in Behavioral
 Science: Quantitative Methods (Reading, Mass: Addison-Wesley Pub. Co,
 1964), 14. See also Douglass Adair, “The Authorship of the Disputed
 Federalist Papers,” *The William and Mary Quarterly* 1, no. 2 (1944):
-98–122, 104.
+104.
 
 [5] Adair, “The Authorship of the Disputed Federalist Papers” and
 Douglass Adair, “The Authorship of the Disputed Federalist Papers: Part
@@ -1617,10 +1617,9 @@ II,” *The William and Mary Quarterly* 1, no. 3 (1944): 235–64.
 [7] Anders Winroth, *The Making of Gratian’s Decretum* (Cambridge:
 Cambridge University Press, 2000), 197–227.
 
-[8] Winroth, *The Making of Gratian’s Decretum*, 201. The numbers 1 and
-2 refer to line numbers relative to the first line of the *dictum*, as
-opposed to the first line of the column, in the print version of the
-Friedberg edition.
+[8] Winroth, 201. The numbers 1 and 2 refer to line numbers relative to
+the first line of the *dictum*, as opposed to the first line of the
+column, in the print version of the Friedberg edition.
 
 [9] **This paragraph may have to be moved to a separate section
 explaining the rationale for the various roll-ups of the *dicta* used in
@@ -1631,9 +1630,9 @@ etc.**
 Samples, Big Problem,” *Literary and Linguistic Computing* 30, no. 2
 (June 2015): 171.
 
-[11] Winroth, *The Making of Gratian’s Decretum*, 9-11. See also Stephan
+[11] Winroth, *The Making of Gratian’s Decretum*, 9–11. See also Stephan
 Kuttner, “De Gratiani opere noviter edendo,” *Apollinaris* 21 (1948):
-118–28 (Latin), and -Kuttner, “Research on Gratian”, 10, 21-22, which
+118–28 (Latin), and Kuttner, “Research on Gratian,” 10, 21–22, which
 mentions the deficiency of Friedberg's edition without offering a
 detailed critique.
 
@@ -1671,10 +1670,10 @@ dissertation.**
 Decretum Gratiani*, Monumenta Germaniae historica. Hilfsmittel 10
 (München: Monumenta Germaniae Historica, 1990).
 
-[18]  (Susan Hockey, “The History of Humanities Computing,” in *A
+[18] Susan Hockey, “The History of Humanities Computing,” in *A
 Companion to Digital Humanities*, ed. Susan Schreibman, Raymond George
 Siemens, and John Unsworth, Blackwell Companions to Literature and
-Culture 26 (Malden, MA: Blackwell Pub, 2004), 4–6). The highest honor in
+Culture 26 (Malden, MA: Blackwell Pub, 2004), 4–6. The highest honor in
 the field of Digital Humanities is the Roberto Busa Prize, awarded by
 the Alliance of Digital Humanities Organizations (ADHO). A notable past
 recipient of the Busa Prize is John Burrows, who first introduced the
@@ -1732,9 +1731,9 @@ layout and readability.
 
 [27] George Kingsley Zipf, *The Psycho-Biology of Language: An
 Introduction to Dynamic Philology* (Boston: Houghton Mifflin Company,
-1935), 39-48; and George Kingsley Zipf, *Human Behavior and the
+1935), 39–48; and George Kingsley Zipf, *Human Behavior and the
 Principle of Least Effort: An Introduction to Human Ecology* (Cambridge,
-Mass: Addison-Wesley Press, 1949), 73-131. Zipf referred to the
+Mass: Addison-Wesley Press, 1949), 73–131. Zipf referred to the
 relationship as "the law of diminishing returns of words" (1949). He
 expressed the relationship as *a**b*<sup>2</sup> = *k* (1935) and r × f
 = C (1949).
@@ -1753,7 +1752,7 @@ the *a**b*<sup>2</sup> = *k* relationship which appears valid for the
 frequency distribution of the less frequent words would demand
 fractional words when applied to the speech-elements of highest
 occurrence, such as *the* in English." Zipf, *The Psycho-Biology of
-Language*, 42-43.
+Language*, 42–43.
 
 [30] Zipf used the term "integrality" to describe the discrete,
 discontinuous, nature of frequency and rank. Zipf, *Human Behavior and
@@ -1767,7 +1766,7 @@ the sense that they approximate the simple equation of an equilateral
 hyperbola: r × f = C in which *r* refers to the word's rank in the
 *Ulysses* and *f* to its frequency of occurrence (as we ignore for the
 present the size of C)." Zipf, *Human Behavior and the Principle of
-Least Effort*, 24. See Zipf, , 23-52, for Zipf's extended discussion of
+Least Effort*, 24. See Zipf, 23–52, for Zipf's extended discussion of
 the rank-frequency distribution of words in Joyce's *Ulysses*.
 
 [33] $m = \\frac{\\sum{x_iy_i - n\\bar{xy}}}{\\sum{x_i^2 - n\\bar{x}^2}}$
@@ -1804,7 +1803,7 @@ occurrences (b).
 [35] John Burrows, “Questions of Authorship: Attribution and Beyond: A
 Lecture Delivered on the Occasion of the Roberto Busa Award ACH-ALLC
 2001, New York,” *Computers and the Humanities* 37, no. 1 (February
-2003): 5–32; and -John Burrows, “‘Delta’: A Measure of Stylistic
+2003): 5–32; and John Burrows, “‘Delta’: A Measure of Stylistic
 Difference and a Guide to Likely Authorship,” *Literary and Linguistic
 Computing* 17, no. 3 (September 2002): 267–87.
 
@@ -1822,13 +1821,12 @@ is unclear), D.3 c.45 (R2). Acknowledge Karen Teresa Wagner, *De vera et
 falsa penitentia : an edition and study*, 1995.**
 
 [38] The division of the first-recension (R1) *dicta* into twelve
-sections follows the division of Gratian's *Decretum* proposed by Alfred
-Beyer in -Alfred Beyer, *Lokale Abbreviationen des Decretum Gratiani:
-Analyse und Vergleich der Dekretabbreviationen "Omnes leges aut divine"
-(Bamberg), "Humanum genus duobus regitur" (Pommersfelden) und "De his
-qui intra claustra monasterii consistunt" (Lichtenthal, Baden-Baden)*,
-Bamberger theologische Studien ; Bd. 6 (Frankfurt am Main ; PLang,
-1998), 17-18.
+sections follows the division of Gratian's *Decretum* proposed in Alfred
+Beyer, *Lokale Abbreviationen des Decretum Gratiani: Analyse und
+Vergleich der Dekretabbreviationen "Omnes leges aut divine" (Bamberg),
+"Humanum genus duobus regitur" (Pommersfelden) und "De his qui intra
+claustra monasterii consistunt" (Lichtenthal, Baden-Baden)*, Bamberger
+theologische Studien ; Bd. 6 (Frankfurt am Main ; PLang, 1998), 17–18.
 
 <div align="center">
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.

@@ -308,8 +308,8 @@ and Chapter 6 "Style" in @jockers_macroanalysis_2013.
 Kestemont was very generous in his technical advice during the early
 stages of this project.
 
-[^pca6]: Following the example of @kestemont_collaborative_2015,
-205: "To automatically isolate the clitic, we have stripped the
+[^pca6]: Following the example of @kestemont_collaborative_2015 [205]:
+"To automatically isolate the clitic, we have stripped the
 suffix ('x*que*') from every word that did not occur in a list of
 words proposed by Schinke *et al*. (1996, p. 180-1)."
 

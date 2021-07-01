@@ -27,7 +27,7 @@ of the Decretum in that amount of time.
 
 > What we have is a collection of works and what we need is an idea of
 > how that collection was made. The search for the Gratian behind the
-> dicta is a fool’s errand.
+> dicta is a fool's errand.
 
 I agree, but as I said above, most of the post-Noonan scholarship on the
 authorship of the Decretum has been engaged in precisely that fool's
@@ -283,8 +283,8 @@ reconfiguration of the text:
 > compiled the pre-Vulgate *Decretum*, and another person doubled the
 > size from ca. 2000 canons to ca. 4000, the first generation of jurists
 > after Gratian would have not noticed or not known about the second
-> Gratian’s work and blithely attributed what was now a massive work to
-> just "Gratian."[1]
+> Gratian's work and blithely attributed what was now a massive work to
+> just "Gratian.".[1]
 
 They did not notice or know, however, because the *Decretum* came to the
 attention of a significant audience only among the second, not the
@@ -295,7 +295,7 @@ Paucapalea, though, was far enough removed from the circumstances
 surrounding the composition of the text that he did not even know the
 name of its author. Ironically, Pennington's "someone would have
 noticed" argument is wrong precisely because his argument that the text
-of the *Decretum* underwent a long and slow development process is
+of the *Decretum* underwent a long and slow process of development is
 right.
 
 This, in turn, is an argument in favor of the case statements having
