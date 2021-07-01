@@ -4,6 +4,7 @@
 - [ ] Chapter 0: expand outline of chapters
 - [ ] Chapter 2: add Mm, Sg comments to case statements section
 - [ ] Chapter 4: incorporate successes and failures section
+- [ ] Recreate draft.docx and final.docx reference files
 
 (14 April 2020)
 - [x] Teleconference with William Mattingly re: Latin BERT and fastText embeddings.
