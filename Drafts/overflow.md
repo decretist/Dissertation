@@ -96,6 +96,7 @@ conventional number.
 ---
 
 ## Chapter 4
+
 The two-dimensional visualization above proceeded from the traditional
 assumption that Gratian's *dicta*---defined as the hypothetical
 case statements (*themata*) plus the first- and second-recension
@@ -141,6 +142,56 @@ visualizing quantitative data in more than three dimensions, we
 need to find a way to reduce the number of dimensions. This is where
 the technique of principal component analysis, or PCA, becomes
 useful.
+
+---
+
+### Burrows
+
+Thus far, I've focused on Burrows's Delta. In the spirit of *de
+mortuis nihil nisi bonum*, I have not been critical of the recently
+(18 December 2019) deceased Burrows. Burrows was not a statistician
+as, e.g., Mosteller and Wallace were. It is unclear to me how much
+mathematical learning he had. Burrows was an English professor who
+was interested in Restoration-era poetry. He had a toolkit, Microsoft
+Excel, that he was comfortable using, and he used the tools that
+he found in that toolkit, such as mean and standard deviation. He
+was not overly concerned as to whether his technique was mathematically
+or statistically justified.
+
+---
+
+### De Doctrina Christiana (Milton)
+
+The manuscript of *De Doctrina Christiana* was discovered in November
+1823 by Robert Lemon the elder, Deputy Keeper of His Majesty's State
+Papers in a 'press' (cupboard) in the Old State Paper Office in the
+Middle Treasury Gallery in Whitehall.[^m1] The manuscript was
+attributed by Lemon to Milton.[^m2] The discovery and attribution
+of the manuscript generated enough public interest that Home Secretary
+Robert Peel was asked, and answered, questions about the printing
+arrangements in the House of Commons in March 1824 [@campbell_milton_2007,
+1, 5]. The attribution was challenged by William Hunter in 1991.
+[@campbell_milton_2007, 1]
+
+[^m1]: For attempts to attribute authorship of *De Doctrina Christiana*
+using stylometry, see: @campbell_provenance_1997; @rumrich_stylometry_2002;
+and @campbell_milton_2007.
+
+[^m2]: On what grounds?
+
+---
+
+### Zipf
+
+Zipf's theories of language proceeded from wider assumptions: that
+human language had evolved to take advantage the large but not
+unlimited (considerable but finite) resources the human brain
+dedicated to language processing and that the word distribution
+(which Zipf saw as universal across all languages) was a necessary
+adaptation to use those computational resources as efficiently as
+possible.
+
+---
 
 [^a]: As of 10 February 2020, there is a bug in the `pstdev()` function
 in the standard Python 3 statistics library such that the optional
