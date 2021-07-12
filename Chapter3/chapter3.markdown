@@ -15,9 +15,9 @@ antique and medieval sources.)
 Medieval sources on whom we rely for most of our evidence about who
 wrote the *Decretum*, the authors of glosses or of prefaces to
 twelfth-century *summae* on the *Decretum*, were not uninterested in the
-question of who wrote the exact words in the text. That question however
-overlapped for them in a way that it does not for us with the question
-of who was the ultimate source of the text's authority. Recent
+question of who wrote the exact words in the text. That question,
+however, overlapped for them in a way that it does not for us with the
+question of who was the ultimate source of the text's authority. Recent
 scholarship sometimes misinterprets twelfth-century statements that are
 really about the authority of the author or of the work as instead being
 statements about the biography of Gratian or about the authorship of the
@@ -25,7 +25,7 @@ statements about the biography of Gratian or about the authorship of the
 authorship of the *Decretum* therefore have to be considered carefully,
 and where necessary distinctly.
 
-## Authority
+# Authority
 
 In the middle ages, to presume to take on the role of *auctor* was to
 make a claim (at least implicitly) to *auctoritas*. Medieval writers
@@ -37,7 +37,7 @@ circulated the texts they wrote either anonymously or pseudonymously
 under the name of a canonical author of unquestioned authority.
 Augustine was the overwhelming favorite, and Gratian extensively quoted
 in his *de Penitentia* from a text, *De vera et falsa penitentia*, that
-circulated under such false pretences. Others sought to distance
+circulated under such false pretenses. Others sought to distance
 themselves from the role of author by locating authority in texts they
 quoted rather than in the original use they made of those quoted texts
 in their own writing.[2] Gratian made use of both strategies. He
@@ -45,8 +45,8 @@ circulated the *Decretum* anonymously, and made no overt claim for the
 authority of his collection other than that derived from the patristic
 texts he extracted out of his material sources. In any event, the modern
 notion that the ultimate source for the authority of a text is the
-independent judgement passed by a reader on the validity of the
-arguments it contains is simply not applicable to the twelfth century.
+independent judgment passed by a reader on the validity of the arguments
+it contains is simply not applicable to the twelfth century.
 
 We have already encountered two twelfth-century statements on the
 authority, author, and authorship of the *Decretum*. The first was the
@@ -59,16 +59,16 @@ into two parts.)"[3] The glossator provides Gratian's name, but advances
 at best an ambivalent claim with respect to his authorship of the
 *Decretum*. The glossator includes the possibly helpful information that
 Gratian had been a bishop. We do not know what basis the glossator had
-for making this statement and therefore cannot form a judgement as to
-its reliability. The default stance of modern scholarship would be to
+for making this statement and therefore cannot form a judgment as to its
+reliability. The default stance of modern scholarship would be to
 understand this as being a statement (whether true or false) about the
-biography of Gratian. It is however the kind of evidence that must be
+biography of Gratian. It is, however, the kind of evidence that must be
 evaluated with particular care. The teaching authority of the church is
 vested in the bishops. To identify Gratian as a bishop is therefore to
 make a very specific kind of claim about his authority, and by extension
-that of the *Decretum*. Presumably the glossator had some reason to
+that of the *Decretum*. The glossator presumably had some reason to
 believe that Gratian had actually been a bishop. The purpose of
-communicating that information to the reader however appears to have
+communicating that information to the reader, however, appears to have
 been to advance an authority claim on behalf of the collection and its
 compiler.
 
@@ -112,7 +112,7 @@ relatively long teaching career---perhaps a decade or more. Gratian's
 students would therefore appear to have been the potential witnesses
 with the best visibility into the authorship of the text of the
 *Decretum* over the course of the 1130s and possibly as early as the
-1120s. Unfortunately no near-contemporary makes an unambiguous claim to
+1120s. Unfortunately, no near-contemporary makes an unambiguous claim to
 have been Gratian's student or to have otherwise had first-hand
 knowledge of the circumstances under which the *Decretum* was
 composed.[5] Considering the fact that Gratian was universally credited
@@ -120,9 +120,10 @@ as the author of the foundational textbook for the study of canon law in
 the classical period, his complete absence from the kinds of academic
 genealogies and origin stories that Odofredus (†1265) handed down to his
 own Roman law students is striking indeed.[6] Three twelfth-century
-canonist have, however, with varying degrees of plausibility, been
+canonists have, however, with varying degrees of plausibility, been
 identified as having been students of Gratian: Paucapalea (fl. 1140s),
-Simon of Bisignano (fl. 1174--1179), and Omnebene (d. 1185).
+Simon of Bisignano (fl. 1174--1179), and Omnibonus or Omnebene of Verona
+(d. 1185).
 
 <!--
 
@@ -131,15 +132,15 @@ students about the biography of Gratian and about the authorship
 of the *Decretum*. The *Decretum* was a teaching text, and Gratian's
 students had a front-row seat to its development. Unfortunately,
 "the usual suspects" are all silent, strongly suggesting we have
-the wrong "usual suspects," i.e. they (Paucapalea, Omnebene, and
-Simon, etc.) were not actually Gratian's students. We don't appear
+the wrong "usual suspects," i.e., that Paucapalea, Omnibonus, and
+Simon, etc., were not actually Gratian's students. We don't appear
 to have anything from Gratian's actual students. If we want the
 *ipsissima verba* of Gratian's actual students, we probably have
 to look between the covers of the *Decretum* to find them.
 
   -->
 
-### Paucapalea
+## Paucapalea
 
 Paucapalea was easily the most prominent figure from the early period of
 the Bolognese school of decretists who followed in Gratian's immediate
@@ -184,17 +185,16 @@ of Gratian or his plan of work.
 
   -->
 
-### Omnibonus or Omnebene
+## Omnibonus
 
-Omnibonus or Omnebene (d.1185) composed an adaptation or transformation
-of the *Decretum* in the 1150s.[10] The dates do not preclude Omnebene's
-having been a student of Gratian. Although Omnebene lived into the
-1180s, the adaptation itself seems to date from around 1156, perhaps a
-decade and a half after the end of whatever teaching career Gratian may
-have had, and at precisely the moment that continent-wide interest in
-the text was increasing most rapidly.[11] The basis for the claim that
-Omnebene was a student of Gratian is an entry for the year 1130 in the
-chronicle of Norman monk Robert of Torigni (†1186)
+Omnibonus or Omnebene of Verona (d.1185) composed an adaptation or
+transformation of the *Decretum* in the 1150s.[10] Even though Omnibonus
+lived into the 1180s, the adaptation itself seems to date from around
+1156, perhaps a decade and a half after the end of whatever teaching
+career Gratian may have had, so the dates do not preclude his having
+been a student of Gratian.[11] The basis for the claim that Omnibonus
+was Gratian's student is an entry for the year 1130 in the chronicle of
+Norman monk Robert of Torigni (†1186):
 
 > *Gratianus episcopus Clusinus coadunavit decreta valde utilia ex
 > decretis, canonibus, doctoribus, legibus Romanis, sufficientia ad
@@ -207,15 +207,15 @@ chronicle of Norman monk Robert of Torigni (†1186)
 > other ecclesiastical courts. Master Omnebonum bishop of Verona, who
 > had been his student, afterwards abbreviated them.)[12]
 
-Robert's brief chronicle entry contains six distinct factual assertions:
-i) that Gratian was bishop of Chiusi, ii) that he "brought together the
-decrees" (*coadunavit decreta*) in a form useful to, and widely used by,
-ecclesiastical courts, iii) that he did so around 1130, iv) that
-Omnebene was bishop of Verona, v) that he abbreviated the *Decretum*,
-and vi) that he had been Gratian's student.[13] Three of these factual
-assertions are uncontroversial: that Gratian "brought together" the
-*Decretum*, that Omnebene abbreviated it, and that Omnebene was bishop
-of Verona.
+Robert of Torigni's brief chronicle entry contains six distinct factual
+assertions: i.) that Gratian was bishop of Chiusi, ii.) that he "brought
+together the decrees" (*coadunavit decreta*) in a form useful to, and
+widely used by, ecclesiastical courts, iii.) that he did so around 1130,
+iv.) that "magister Omnebonum" was bishop of Verona, v.) that he
+abbreviated the *Decretum*, and vi.) that he had been Gratian's
+student.[13] Three of these factual assertions are uncontroversial: that
+Gratian "brought together" the *Decretum*, that Omnibonus abbreviated
+it, and that Omnibonus was bishop of Verona.
 
 Those scholars who interpret the discovery of the first-recension
 manuscripts as evidence that Gratian's work on the *Decretum* extended
@@ -233,7 +233,7 @@ was working on the *Decretum* around 1130 or that he was bishop of
 Chiusi ought to be considered more credible in light of the newly
 available evidence.
 
-The best place to look for first-hand evidence from Omnebene about
+The best place to look for first-hand evidence from Omnibonus about
 Gratian and whether he had been Gratian's student, as well as the
 circumstances under which the *Decretum* was composed, would be in a
 preface to his abbreviation. Unfortunately, there is no printed edition
@@ -242,15 +242,15 @@ abbreviation was available was a low-resolution digitization of an old
 microfilm of Paris, Bibliothèque nationale de France, Latin 3886. It
 does not appear to have a preface of any kind, but launches immediately
 into the abbreviation starting with "*Humanum genus duobus regitur*." In
-the apparent absence then of any first-hand evidence from Omnebene
-himself, we have only Robert's word that Omnebene was Gratian's student,
-and so, like Noonan, "\[w\]e are left to speculate as to how sound his
-story was."[15] In the end, there may be little more informational
-content to be extracted from the statement than that Robert understood
-Omnebene to be working within a specific intellectual tradition of which
-Gratian was, by that time, the acknowledged founder.
+the apparent absence then of any first-hand evidence from Omnibonus
+himself, we have only Robert's word that Omnibonus was Gratian's
+student, and so, like Noonan, "\[w\]e are left to speculate as to how
+sound his story was."[15] In the end, there may be little more
+informational content to be extracted from the statement than that
+Robert understood Omnibonus to be working within a specific intellectual
+tradition of which Gratian was, by that time, the acknowledged founder.
 
-### Simon of Bisignano
+## Simon of Bisignano
 
 Simon of Bisignano (fl. 1174--1179) was the author of a *Summa
 decretorum* dated c.1177-79, and a number of glosses on the *Decretum*
@@ -263,7 +263,7 @@ Gratian as *magister* in his comments on D.4 c.31 of *de Consecratione*:
 imitari.* Although our master taught that, we nevertheless do not wish
 to imitate him in this."[19] (trans. PLE)
 
-There is however a hiatus of almost four decades between the latest
+There is, however, a hiatus of almost four decades between the latest
 plausible date for the end of Gratian's teaching career and the
 documentary evidence we have for Simon's professional career as a
 canonist. Although it is not quite chronologically impossible for Simon
@@ -299,7 +299,7 @@ strategy of locating authority in the texts that he quoted.
 It also seems that the widespread reception of the *Decretum* as itself
 authoritative benefited from an entirely accidental feature of the text.
 The page layout of early manuscripts of the *Decretum*---the placement
-of Gratian's *dicta* inline with the authorities rather on the
+of Gratian's *dicta* inline with the authorities rather than on the
 margins---had the unintentional effect of promoting Gratian himself to
 the status of an authority (or at least to a status of near-equality
 with his authorities). Even though the specific page layout was probably
@@ -311,7 +311,7 @@ claim that they were more than willing to accept.[20] This was almost
 certainly an over-reading of the authority claim actually being made in
 the *Decretum*.[21]
 
-## Author
+# Author
 
 Very little is known about the historical Gratian, and almost everything
 that previous generations thought was known about Gratian has proved, on
@@ -328,7 +328,7 @@ he seems to have been more well-informed about, and more interested in,
 the emergence of scholastic theology in northern France than we can
 easily explain.[23]
 
-### Noonan
+## Noonan
 
 The starting point for all modern scholarship on Gratian himself is John
 T. Noonan Jr.'s classic 1979 *Traditio* article "Gratian slept here: The
@@ -374,15 +374,15 @@ Camaldolese communities in 1113 and 1153, it does not seem unreasonable
 to infer that it was in the hands of one in the 1120s and 1130s when
 Gratian was putatively associated with the foundation, whatever we may
 think the nature of that association to have been. But Noonan's caution
-seems justified when we consider, for example, Southern's having seized
-upon the one thinly-sourced datum of the Camaldolese connection as the
-foundation for his entire reconstruction of Gratian's intentions and
-motivations in undertaking the *Decretum* project, including a
+seems justified when we consider, for example, R.W. Southern's having
+seized upon the one thinly-sourced datum of the Camaldolese connection
+as the foundation for his entire reconstruction of Gratian's intentions
+and motivations in undertaking the *Decretum* project, including a
 peremptory dismissal of any possibility that Gratian had a teaching
 career.[28]
 
 The entry in the chronicle of Robert of Torigni identifying Gratian as
-bishop of Chiusi and teacher of Omnebene is one of the many pieces of
+bishop of Chiusi and teacher of Omnibonus is one of the many pieces of
 testimony from the Gratian legendary that Noonan cross-examines,
 although he ultimately dismisses Robert's identification as
 unverifiable.[29]
@@ -431,7 +431,7 @@ of Gratian in this century has necessarily had to take into account both
 Noonan's pruning of his biography and the existence of the first and
 second recensions.
 
-### Winroth
+## Winroth
 
 Winroth adopts a convention in *The Making of Gratians's Decretum* of
 referring to the author of the first recension as Gratian 1 and to the
@@ -467,10 +467,10 @@ Gratian or a long period of incremental development for the text of the
 
 Finally, Winroth accepts an entry in a Siena necrology (Siena,
 Biblioteca Comunale degli Intronati F.I.2, f.5r) brought to scholarly
-attention by Francesco Reali as evidence that Gratian the author of the
-first recension died as bishop of Chiusi on the feast day of St Lawrence
-(August 10) in either 1144 or 1145.[39] The datum provided by the
-necrology, recording the death of a "Gratian of Chiusi, bishop",
+attention by Francesco Reali as evidence that Gratian, the author of the
+first recension, died as bishop of Chiusi on the feast day of St.
+Lawrence (August 10) in either 1144 or 1145.[39] The datum provided by
+the necrology, recording the death of a "Gratian of Chiusi, bishop",
 considered along with an axiomatic assumption of an 1139 date for the
 first recension, strengthens the case from Winroth's perspective that
 Gratian, having been elevated to a bishopric not long after having
@@ -482,13 +482,13 @@ author of the second recension.
 *This* argument that Gratian could not have been the author of the
 second recension is persuasive if and only if you believe *both*
 that the first recension was competed not earlier than 1139 *and*
-that Gratian was a bishop by 1143 and dead by 1145. It is however
+that Gratian was a bishop by 1143 and dead by 1145. It is, however,
 neither the only nor the strongest argument against Gratian's
 authorship of the second recension.
 
   -->
 
-### Pennington
+## Pennington
 
 Pennington builds on Larson's conjecture that the canon referred to at
 D.63 d.p.c.34 in the first recension and later incorporated as D.63 c.35
@@ -534,8 +534,8 @@ record, considers Bc to be of Italian origin.
 
   -->
 
-Pennington's strongest argument in favor of his position on Sg is not an
-abbreviation is that the unique *Causa Prima* (an ordered subset of
+Pennington's strongest argument in favor of his position that Sg is not
+an abbreviation is that the unique *Causa Prima* (an ordered subset of
 canons and *dicta* from Part I of the first recension of the *Decretum*)
 includes neither texts from the *tractatus de legibus* (distinctions
 1-20) nor from the "epilogue" (distinctions 81-101). Moreover, four
@@ -578,7 +578,8 @@ famous, in his own lifetime, Pennington disagrees with Kuttner, who
 sees Gratian as a figure of shrouded in profound personal obscurity:
 "He is one of those deeply admirable men of pious modesty, like the
 builders of the medieval cathedrals, whose person is hidden and
-effaced completely behind their immortal works."[@kuttner_father_1941, 4].
+effaced completely behind their immortal works."[@kuttner_father_1941,
+4].
 
   -->
 <!--
@@ -594,7 +595,7 @@ Roman Law).
 
   -->
 
-## Authorship
+# Authorship
 
 Authorship on any significant scale in the pre-modern world required
 wrapping a specialized and expensive scribal infrastructure around the
@@ -646,7 +647,7 @@ theory of authorship, and provide an appropriate starting point for a
 theoretically-informed reconsideration of the authorship of Gratian's
 *Decretum*.[51]
 
-### Barthes
+## Barthes
 
 "The Death of the Author" holds a place in literary studies somewhat
 similar to the place that Noonan's "Gratian Slept Here" holds in canon
@@ -674,8 +675,8 @@ are "a tissue of quotations drawn from the innumerable centres of
 culture."[53] Gratian may therefore be the author of the *dicta* but he
 is not their Author.
 
-The Barthes's central argument is against precisely the kind of reading
-that is prevalent in scholarship on Gratian and the *Decretum*:
+Barthes's central argument is against precisely the kind of reading that
+is prevalent in scholarship on Gratian and the *Decretum*:
 
 > To give a text an Author is to impose a limit on that text, to furnish
 > it with a final signified, to close the writing. Such a conception
@@ -702,7 +703,7 @@ conceptualization of authorship usually invoked in scholarship on the
 *Decretum* fails to capture, or at least insufficiently emphasizes,
 important aspects of Gratian's creative activity.
 
-### Foucault
+## Foucault
 
 Barthes's criticism of the idea of authorship is apophatic, concerned
 mostly with what, in his view, authorship is not. Barthes warns against
@@ -818,9 +819,9 @@ Southern does not provide footnotes to support these statements.
 <!--
 
 *Chronique de Robert de Torigny*, ed. Léopold Delisle, 183-184.
-*Chronicles of the reigns of Stephen, Henry II, and Richard I*,
-ed. Richard Howlett (1884).
-*Chronica Roberti de Torigneio*, ed. Richard Howlett, RS 82 4.118.
+*Chronicles of the reigns of Stephen, Henry II, and Richard I*, ed.
+Richard Howlett (1884). *Chronica Roberti de Torigneio*, ed. Richard
+Howlett, RS 82 4.118.
 
   -->
 <!--
@@ -1175,11 +1176,11 @@ Linguistic Science. Series 3: Studies in the History of Linguistics v.5
 [Omnibonus](http://amesfoundation.law.harvard.edu/BioBibCanonists/Report_Biobib2.php?record_id=a363),
 *Bio-Bibliographical Guide to Medieval and Early Modern Jurists.*
 
-[11] There is no print edition of Omnebene's adaptation (Ken Pennington,
-email to Paul Evans, 17 May 2021). The only online form in which the
-manuscript is available is a low-quality digitization of an old
-microfilm of Paris, Bibliothèque nationale de France, Latin 3886. I was
-therefore unable to look for any internal evidence in Omnebene's
+[11] There is no print edition of Omnibonus's adaptation (Ken
+Pennington, email to Paul Evans, 17 May 2021). The only online form in
+which the manuscript is available is a low-quality digitization of an
+old microfilm of Paris, Bibliothèque nationale de France, Latin 3886. I
+was therefore unable to look for any internal evidence in Omnibonus's
 adaptation (e.g., a comment in a preface), indicating that Gratian had
 been his teacher.
 
@@ -1314,7 +1315,7 @@ cling a bit more closely than Noonan did to classical historical
 methodology and terminology, as they have been codified from the late
 nineteenth century on." Winroth, “Where Gratian Slept,” 106.
 
-[28] R.W. Southern takes an extreme position with respect to Gratian's
+[28] Southern takes an extreme position with respect to Gratian's
 teaching career, citing as late as 1995 Gratian's supposed association
 with the Camaldolese order to advance an argument that he had never been
 a teacher: "Reliable writers after his death affirmed that Gratian was a
