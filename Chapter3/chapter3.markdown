@@ -313,20 +313,26 @@ the *Decretum*.[21]
 
 # Author
 
-Very little is known about the historical Gratian, and almost everything
-that previous generations thought was known about Gratian has proved, on
-closer examination, to be myth.[22] On the evidence found in the
-*Decretum*, Gratian seems to have been less interested in contemporary
-ecclesiastical or secular politics in general, and in the Investiture
-Controversy (1076-1122) in particular, than some modern scholars think
-he ought to have been. Gratian similarly seems, based on the relatively
-limited use he makes in the *Decretum* of material from the *Codex* and
-*Digest* of Justinian, to have been either less interested in, or less
-well-informed about, the revival of the study of Roman law in the early
-twelfth century than we think he ought to have been. On the other hand,
-he seems to have been more well-informed about, and more interested in,
-the emergence of scholastic theology in northern France than we can
-easily explain.[23]
+In contrast with medieval scholars who were relatively unconcerned about
+the fact that they knew little to nothing about Gratian, and for whom in
+any event the question of the textual authority of the *Decretum* was
+primary, modern scholars have maintained a resolute focus on the
+biography of the historical Gratian, on the implicit assumption that if
+we can identify the historical Gratian, we will have identified the
+author of the *Decretum*. Very little, in fact, is known about the
+historical Gratian, and almost everything that previous generations
+thought was known about Gratian has proved, on closer examination, to be
+myth.[22] On the evidence found in the *Decretum*, Gratian seems to have
+been less interested in contemporary ecclesiastical or secular politics
+in general, and in the Investiture Controversy (1076-1122) in
+particular, than some modern scholars think he ought to have been.
+Gratian similarly seems, based on the relatively limited use he makes in
+the *Decretum* of material from the *Codex* and *Digest* of Justinian,
+to have been either less interested in, or less well-informed about, the
+revival of the study of Roman law in the early twelfth century than we
+think he ought to have been. On the other hand, he seems to have been
+more well-informed about, and more interested in, the emergence of
+scholastic theology in northern France than we can easily explain.[23]
 
 ## Noonan
 
