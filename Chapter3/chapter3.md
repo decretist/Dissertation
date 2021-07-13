@@ -1172,7 +1172,7 @@ above, the original basis for Winroth's two-author hypothesis was
 that the second recension makes much more sophisticated use of Roman
 law concepts and terminology than the first recension.
 
-[^42]: **Placeholder for Pennington, Eichbauer footnote**
+[^42]: @pennington_biography_2018 [367]; and @eichbauer_first_2012 [145].
 
 [^45]: @odonnell_augustine_2005 [136, 139]. The need for scribal
 or secretarial support presupposes that authors create texts by

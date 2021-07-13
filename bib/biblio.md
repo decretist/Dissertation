@@ -25,6 +25,7 @@ nocite: |
   @duvernoy_registre_1965
   @eder_abstract_2013
   @eder_does_2015
+  @eichbauer_first_2012
   @eichbauer_gratians_2013
   @eichbauer_redactions_2007
   @evert_understanding_2017

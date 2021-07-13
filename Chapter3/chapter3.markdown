@@ -881,6 +881,14 @@ Historiographical Landscape.” *History Compass* 11, no. 12 (December
 
 </div>
 
+<div id="ref-eichbauer_first_2012" class="csl-entry">
+
+Eichbauer, Melodie Harris. “From the First to the Second Recension: The
+Progressive Evolution of the Decretum.” *Bulletin of Medieval Canon Law*
+29 (2012): 119–67.
+
+</div>
+
 <div id="ref-foucault_what_1998" class="csl-entry">
 
 Foucault, Michel. “What Is an Author?” In *Aesthetics, Method, and
@@ -1445,7 +1453,9 @@ the first recension.
 
 [41] Pennington, 365.
 
-[42] **Placeholder for Pennington, Eichbauer footnote**
+[42] Pennington, 367; and Melodie Harris Eichbauer, “From the First to
+the Second Recension: The Progressive Evolution of the Decretum,”
+*Bulletin of Medieval Canon Law* 29 (2012): 145.
 
 [43] Pennington, “The Biography of Gratian, the Father of Canon Law,”
 367–68.

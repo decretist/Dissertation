@@ -206,11 +206,18 @@ Historiographical Landscape.” *History Compass* 11, no. 12 (December
 
 </div>
 
+<div id="ref-eichbauer_first_2012" class="csl-entry">
+
+Eichbauer, Melodie Harris. “From the First to the Second Recension: The
+Progressive Evolution of the Decretum.” *Bulletin of Medieval Canon Law*
+29 (2012): 119–67.
+
+</div>
+
 <div id="ref-eichbauer_redactions_2007" class="csl-entry">
 
-Eichbauer, Melodie Harris. “St. Gall Stiftsbibliothek 673 and the Early
-Redactions of Gratian’s Decretum.” *Bulletin of Medieval Canon Law* 27
-(2007): 105–39.
+———. “St. Gall Stiftsbibliothek 673 and the Early Redactions of
+Gratian’s Decretum.” *Bulletin of Medieval Canon Law* 27 (2007): 105–39.
 
 </div>
 
