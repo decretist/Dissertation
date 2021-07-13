@@ -383,7 +383,7 @@ The extraction engine captures every element of text between a *dictum*
 start tag (`<T A>` or `<T P>`) and the start tag for the next element
 that can possibly follow a *dictum*:
 
-``` python
+``` python=
 import re
 
 f = open('edF.txt', 'r')
