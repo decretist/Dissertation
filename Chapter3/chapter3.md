@@ -1156,21 +1156,21 @@ for a good recent overview of these debates.
 given by Winroth at the Fourteenth International Congress of Medieval
 Canon Law, Toronto, 2012.
 
-[^40]: **Placeholder for Pennington, Larson footnote** Pennington
-asserts that "[t]he main reason that Winroth created a second
-'Gratian' is because of a text [D.63 d.p.c.34] that is found in all
-pre-Vulgate manuscripts." @pennington_biography_2018 [362]. D.63
-d.p.c.34 *is* central to Winroth's arguments in favor of a late
-date for the first recension (1139), and for a short teaching career
-for Gratian, but is not relevant to his argument in favor of the
-two-author hypothesis. "The reference to Lateran II only proves
-that the *Decretum*, as transmitted by extant manuscripts (and I
-have checked several dozens, 'vulgate' as well as 'pre-vulgate'),
-cannot have been written before 1139." (Anders Winroth, email to
-Paul Evans, 18 May 2021). As noted in Chapter 2 and the footnote
-above, the original basis for Winroth's two-author hypothesis was
-that the second recension makes much more sophisticated use of Roman
-law concepts and terminology than the first recension.
+[^40]: Pennington asserts that "[t]he main reason that Winroth
+created a second 'Gratian' is because of a text [D.63 d.p.c.34]
+that is found in all pre-Vulgate manuscripts." @pennington_biography_2018
+[362]. **Placeholder for Larson footnote** D.63 d.p.c.34 *is*
+central to Winroth's arguments in favor of a late date for the first
+recension (1139), and for a short teaching career for Gratian, but
+is not relevant to his argument in favor of the two-author hypothesis.
+"The reference to Lateran II only proves that the *Decretum*, as
+transmitted by extant manuscripts (and I have checked several dozens,
+'vulgate' as well as 'pre-vulgate'), cannot have been written before
+1139." (Anders Winroth, email to Paul Evans, 18 May 2021). As noted
+in Chapter 2 and the footnote above, the original basis for Winroth's
+two-author hypothesis was that the second recension makes much more
+sophisticated use of Roman law concepts and terminology than the
+first recension.
 
 [^42]: @pennington_biography_2018 [367]; and @eichbauer_first_2012 [145].
 

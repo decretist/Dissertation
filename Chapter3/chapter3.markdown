@@ -1435,14 +1435,14 @@ de legibus* (distinctions 1-20) and none from Gratian's "epilogue"
 presentation given by Winroth at the Fourteenth International Congress
 of Medieval Canon Law, Toronto, 2012.
 
-[40] **Placeholder for Pennington, Larson footnote** Pennington asserts
-that "\[t\]he main reason that Winroth created a second 'Gratian' is
-because of a text \[D.63 d.p.c.34\] that is found in all pre-Vulgate
-manuscripts." Pennington, “The Biography of Gratian, the Father of Canon
-Law,” 362. D.63 d.p.c.34 *is* central to Winroth's arguments in favor of
-a late date for the first recension (1139), and for a short teaching
-career for Gratian, but is not relevant to his argument in favor of the
-two-author hypothesis. "The reference to Lateran II only proves that the
+[40] Pennington asserts that "\[t\]he main reason that Winroth created a
+second 'Gratian' is because of a text \[D.63 d.p.c.34\] that is found in
+all pre-Vulgate manuscripts." Pennington, “The Biography of Gratian, the
+Father of Canon Law,” 362. **Placeholder for Larson footnote** D.63
+d.p.c.34 *is* central to Winroth's arguments in favor of a late date for
+the first recension (1139), and for a short teaching career for Gratian,
+but is not relevant to his argument in favor of the two-author
+hypothesis. "The reference to Lateran II only proves that the
 *Decretum*, as transmitted by extant manuscripts (and I have checked
 several dozens, 'vulgate' as well as 'pre-vulgate'), cannot have been
 written before 1139." (Anders Winroth, email to Paul Evans, 18 May
