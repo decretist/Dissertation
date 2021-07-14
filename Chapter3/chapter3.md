@@ -464,6 +464,22 @@ of the first and second recensions.
 
 ## Winroth
 
+<!--
+
+Annotated bibliography or historiographical micro-essay:
+
+  -->
+
+Winroth discusses the biography of Gratian directly in the sixth
+chapter of @winroth_making_2000 ("The men behind the 'Decretum'")
+and in @winroth_where_2013. The ZRG KA article expands on material
+Winroth presented at the Fourteenth International Congress of
+Medieval Canon Law, Toronto, 2012. Furthermore, Winroth vigorously
+participated in the debate over the Sankt Gallen Stiftsbibliothek
+673 (Sg) manuscript of Gratian's *Decretum*, most notably in
+@winroth_recent_2004, and his views on Sg influence the arguments
+he makes about the trajectory of Gratian's teaching career.
+
 Winroth adopts a convention in *The Making of Gratians's Decretum*
 of referring to the author of the first recension as Gratian 1 and
 to the author of the second recension as Gratian 2. The arguments
@@ -532,6 +548,12 @@ authorship of the second recension.
   -->
 
 ## Pennington
+
+<!--
+
+Annotated bibliography or historiographical micro-essay:
+
+  -->
 
 Pennington builds on Larson's conjecture that the canon referred
 to at D.63 d.p.c.34 in the first recension and later incorporated
@@ -753,8 +775,8 @@ the record of a particular close-reading of a selection of authoritative
 texts. Barthes's critique of the concept of the Author, then,
 suggests some interesting ways in which the conceptualization of
 authorship usually invoked in scholarship on the *Decretum* fails
-to capture, or at least insufficiently emphasizes, important aspects
-of Gratian's creative activity.
+to capture, or at least insufficiently emphasizes, certain important
+aspects of Gratian's creative activity.
 
 ## Foucault
 
@@ -838,6 +860,12 @@ reflect a more rudimentary understanding of Roman Law.
 
 <!--
 
+My point is not that Pennington, Winroth, *et alii*, *are* framing
+their arguments in the terms Foucault borrows from Jerome, but
+rather that if the bigraphical details of their respective historical
+Gratians are abstracted away, their arguments *could* be reframed
+in those terms.
+
 Vetulani and Chodorow, who consider the omission of Roman law an
 explicit ideological choice on Gratian's part, seem on the other
 hand to lean in the direction of defining the author as a field of
@@ -852,16 +880,11 @@ on the basis of which texts might be included in or excluded from
 the Gratian canon. For example, Gratian in C.29 d.init. uses the
 reflexive pronoun *sibi* to refer to a woman who is the grammatical
 subject of neither the sentence nor the relative clause in which
-the word appears, and where, e.g., *ei* might instead be expected:[^c29]
+the word appears, and where, e.g., *ei* might instead be expected:[^61]
 
 *Ille, qui sibi prius placuerat, tandem uenit, eamque sibi in
 coniugem petit.* Finally he who had previously pleased her (sibi)
 comes, and asks [for] her in marriage to himself. (trans. PLE)
-
-[^c29]: @noonan_catholic_1997 thoroughly discusses C.29 in the context of
-the canon law of marriage and consent. Noonan translates the sentence
-more idiomatically than I have done as "[h]er first choice at last
-arrived to seek her in marriage" @noonan_catholic_1997 [1189]
 
 It is outside the scope of this dissertation to follow up on anecdotal
 evidence of this kind, but the example at least suggests a possible
@@ -1267,4 +1290,9 @@ almost certainly the ultimate source for Foucault's four criteria,
 and provides citations to many works by Jerome (not just *De Viris
 illustribus*) relevant to the question of determining the authorship
 of a text or texts.
+
+[^61]: @noonan_catholic_1997 thoroughly discusses C.29 in the context of
+the canon law of marriage and consent. Noonan translates the sentence
+more idiomatically than I have done as "[h]er first choice at last
+arrived to seek her in marriage" @noonan_catholic_1997 [1189]
 

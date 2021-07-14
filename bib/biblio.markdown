@@ -944,6 +944,13 @@ Paris: Éd. Panthéon-Assas, 2009.
 
 </div>
 
+<div id="ref-winroth_recent_2004" class="csl-entry">
+
+———. “Recent Work on the Making of Gratian’s Decretum.” *Bulletin of
+Medieval Canon Law* 26 (2004): 1–29.
+
+</div>
+
 <div id="ref-winroth_making_2000" class="csl-entry">
 
 ———. *The Making of Gratian’s Decretum*. Cambridge: Cambridge University
