@@ -489,6 +489,17 @@ to canon 28 from the Second Lateran Council of 1139. That first-recension
 incorporated into the text of the *Decretum* as D.63 c.35 in the
 second recension.[^37]
 
+<!--
+
+Chronologically, this comes in the middle (first decade of the 21st
+century). Conceptually, it's not a direct intervention in a debate
+over the biography of Gratian. Rather, Winroth's arguing against
+Sg being an earlier version of the text of the *Decretum* is
+indirectly an argument against Gratian I (as Winroth conceives him)
+having worked on the text over a prolonged period.
+
+  -->
+
 Winroth rejects claims that the Sg manuscript of the *Decretum* is
 descended from a version earlier than the first recension, and
 argues that it is instead an abbreviation of the first recension
@@ -799,9 +810,14 @@ one is dealing with one or several individuals? Saint Jerome proposes
 four criteria:[^60]
 
 Each of Jerome's four criteria is a criterion for the *exclusion*
-of a given text from the canon of a particular author. Only two of
-the four criteria, the second and fourth, have figured significantly
-in recent scholarship on the authorship of Gratian's *Decretum*.
+of a given text from the canon of a particular author. Three of the
+four criteria, the first, second, and fourth, have figured to some
+extent in recent scholarship on the authorship of Gratian's *Decretum*.
+
+> \(1\) if among several books attributed to an author one is
+inferior to the others, it must be withdrawn from the list of the
+author's works (the author is therefore defined as a constant level
+of value);
 
 > \(2\) the same should be done [i.e., a book must be withdrawn
 from the list of the author's works] if certain texts contradict
@@ -811,11 +827,45 @@ thus defined as a field of conceptual or theoretical coherence);
 Winroth has argued that the second recension of the *Decretum*
 reflects a level of reception of Roman Law doctrine so much more
 advanced than the first recension that the two recensions cannot
-be attributed to a single author. Winroth's argument can be transposed
-into Foucault's framework by defining the author as a field of
-conceptual or theoretical coherence, then concluding that there
-must be two authors because the first and second recensions do not
-fall within a unitary field of coherence.
+be attributed to a single author. It is possible to transpose
+Winroth's argument into Foucault's framework either by defining the
+author as a constant level of value, or by defining the author as
+a field of conceptual or theoretical coherence. Winroth himself
+seems to lean in the direction of defining the author as a constant
+level of value: the *dicta* in the first recension of the *Decretum*
+are in some sense "inferior" to those in the second because they
+reflect a more rudimentary understanding of Roman Law.
+
+<!--
+
+Vetulani and Chodorow, who consider the omission of Roman law an
+explicit ideological choice on Gratian's part, seem on the other
+hand to lean in the direction of defining the author as a field of
+conceptual or theoretical coherence.
+
+  -->
+
+A work like the *Decretum* can, of course, be evaluated on more
+than one scale of value, and lapses in the Latin grammar of the case
+statements suggest a standard other than the use of Roman law
+on the basis of which texts might be included in or excluded from
+the Gratian canon. For example, Gratian in C.29 d.init. uses the
+reflexive pronoun *sibi* to refer to a woman who is the grammatical
+subject of neither the sentence nor the relative clause in which
+the word appears, and where, e.g., *ei* might instead be expected:[^c29]
+
+*Ille, qui sibi prius placuerat, tandem uenit, eamque sibi in
+coniugem petit.* Finally he who had previously pleased her (sibi)
+comes, and asks [for] her in marriage to himself. (trans. PLE)
+
+[^c29]: @noonan_catholic_1997 thoroughly discusses C.29 in the context of
+the canon law of marriage and consent. Noonan translates the sentence
+more idiomatically than I have done as "[h]er first choice at last
+arrived to seek her in marriage" @noonan_catholic_1997 [1189]
+
+It is outside the scope of this dissertation to follow up on anecdotal
+evidence of this kind, but the example at least suggests a possible
+direction for future research.
 
 > \(4\) finally, passages quoting statements made or mentioning
 events that occurred after the author's death must be regarded as
@@ -845,19 +895,13 @@ its own (as is the case with the variant texts we know from the
 Second Lateran Council as canon 28 and from the *Decretum* as D.63
 c.35.)
 
----
-
-> \(1\) if among several books attributed to an author one is
-inferior to the others, it must be withdrawn from the list of the
-author's works (the author is therefore defined as a constant level
-of value);
+Jerome's remaining criterion, the third, has **not** figured
+significantly in recent scholarship on the authorship of Gratian's
+*Decretum*.
 
 > \(3\) one must also exclude works that are written in a different
 style, containing words and expressions not ordinarily found in the
 writer's production;
-
-Foucault's essay is more directly relevant than Barthes's to the
-problems of authorship raised by Gratian's *Decretum*,
 
 [^1]: The purpose of the first (Authority) section of this chapter
 is to show, more than tell, that most of the medieval statements

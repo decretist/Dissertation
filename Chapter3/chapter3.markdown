@@ -463,6 +463,17 @@ canon 28 from the Second Lateran Council of 1139. That first-recension
 incorporated into the text of the *Decretum* as D.63 c.35 in the second
 recension.[37]
 
+<!--
+
+Chronologically, this comes in the middle (first decade of the 21st
+century). Conceptually, it's not a direct intervention in a debate
+over the biography of Gratian. Rather, Winroth's arguing against
+Sg being an earlier version of the text of the *Decretum* is
+indirectly an argument against Gratian I (as Winroth conceives him)
+having worked on the text over a prolonged period.
+
+  -->
+
 Winroth rejects claims that the Sg manuscript of the *Decretum* is
 descended from a version earlier than the first recension, and argues
 that it is instead an abbreviation of the first recension with some
@@ -760,9 +771,13 @@ supremely authoritative on precisely this kind of problem.[59]
 > criteria:[60]
 
 Each of Jerome's four criteria is a criterion for the *exclusion* of a
-given text from the canon of a particular author. Only two of the four
-criteria, the second and fourth, have figured significantly in recent
-scholarship on the authorship of Gratian's *Decretum*.
+given text from the canon of a particular author. Three of the four
+criteria, the first, second, and fourth, have figured to some extent in
+recent scholarship on the authorship of Gratian's *Decretum*.
+
+> \(1\) if among several books attributed to an author one is inferior
+> to the others, it must be withdrawn from the list of the author's
+> works (the author is therefore defined as a constant level of value);
 
 > \(2\) the same should be done \[i.e., a book must be withdrawn from
 > the list of the author's works\] if certain texts contradict the
@@ -772,16 +787,45 @@ scholarship on the authorship of Gratian's *Decretum*.
 Winroth has argued that the second recension of the *Decretum* reflects
 a level of reception of Roman Law doctrine so much more advanced than
 the first recension that the two recensions cannot be attributed to a
-single author. Winroth's argument can be transposed into Foucault's
-framework by defining the author as a field of conceptual or theoretical
-coherence, then concluding that there must be two authors because the
-first and second recensions do not fall within a unitary field of
-coherence.
+single author. It is possible to transpose Winroth's argument into
+Foucault's framework either by defining the author as a constant level
+of value, or by defining the author as a field of conceptual or
+theoretical coherence. Winroth himself seems to lean in the direction of
+defining the author as a constant level of value: the *dicta* in the
+first recension of the *Decretum* are in some sense "inferior" to those
+in the second because they reflect a more rudimentary understanding of
+Roman Law.
+
+<!--
+
+Vetulani and Chodorow, who consider the omission of Roman law an
+explicit ideological choice on Gratian's part, seem on the other
+hand to lean in the direction of defining the author as a field of
+conceptual or theoretical coherence.
+
+  -->
+
+A work like the *Decretum* can, of course, be evaluated on more than one
+scale of value, and lapses in the Latin grammar of the case statements
+suggest a standard other than the use of Roman law on the basis of which
+texts might be included in or excluded from the Gratian canon. For
+example, Gratian in C.29 d.init. uses the reflexive pronoun *sibi* to
+refer to a woman who is the grammatical subject of neither the sentence
+nor the relative clause in which the word appears, and where, e.g., *ei*
+might instead be expected:[61]
+
+*Ille, qui sibi prius placuerat, tandem uenit, eamque sibi in coniugem
+petit.* Finally he who had previously pleased her (sibi) comes, and asks
+\[for\] her in marriage to himself. (trans. PLE)
+
+It is outside the scope of this dissertation to follow up on anecdotal
+evidence of this kind, but the example at least suggests a possible
+direction for future research.
 
 > \(4\) finally, passages quoting statements made or mentioning events
 > that occurred after the author's death must be regarded as
 > interpolated texts (the author is seen as a historical figure at the
-> crossroads of a certain number of events).[61]
+> crossroads of a certain number of events).[62]
 
 The fourth criterion that Foucault derives from Jerome is, for obvious
 reasons, the most attractive one from the point of view of the
@@ -804,18 +848,13 @@ unknown history of its own (as is the case with the variant texts we
 know from the Second Lateran Council as canon 28 and from the *Decretum*
 as D.63 c.35.)
 
-------------------------------------------------------------------------
-
-> \(1\) if among several books attributed to an author one is inferior
-> to the others, it must be withdrawn from the list of the author's
-> works (the author is therefore defined as a constant level of value);
+Jerome's remaining criterion, the third, has **not** figured
+significantly in recent scholarship on the authorship of Gratian's
+*Decretum*.
 
 > \(3\) one must also exclude works that are written in a different
 > style, containing words and expressions not ordinarily found in the
 > writer's production;
-
-Foucault's essay is more directly relevant than Barthes's to the
-problems of authorship raised by Gratian's *Decretum*,
 
 <!--
 
@@ -987,11 +1026,17 @@ Philadelphia: University of Pennsylvania Press, 1988.
 
 </div>
 
+<div id="ref-noonan_catholic_1997" class="csl-entry">
+
+Noonan, John T. “Catholic Law School - A.D. 1150.” *Catholic University
+Law Review* 47 (1997): 1189–1205.
+
+</div>
+
 <div id="ref-noonan_gratian_1979" class="csl-entry">
 
-Noonan, John T. “Gratian Slept Here: The Changing Identity of the Father
-of the Systematic Study of Canon Law.” *Traditio* 35 (January 1979):
-145–72.
+———. “Gratian Slept Here: The Changing Identity of the Father of the
+Systematic Study of Canon Law.” *Traditio* 35 (January 1979): 145–72.
 
 </div>
 
@@ -1534,7 +1579,13 @@ Foucault's four criteria, and provides citations to many works by Jerome
 (not just *De Viris illustribus*) relevant to the question of
 determining the authorship of a text or texts.
 
-[61] Foucault, “What Is an Author?” 214.
+[61] John T. Noonan, “Catholic Law School - A.D. 1150,” *Catholic
+University Law Review* 47 (1997): 1189–1205 thoroughly discusses C.29 in
+the context of the canon law of marriage and consent. Noonan translates
+the sentence more idiomatically than I have done as "\[h\]er first
+choice at last arrived to seek her in marriage" Noonan, 1189.
+
+[62] Foucault, “What Is an Author?” 214.
 
 <div align="center">
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
