@@ -446,19 +446,21 @@ Annotated bibliography or historiographical micro-essay:
   -->
 
 Winroth discusses the biography of Gratian directly in the sixth chapter
-of Winroth[35] ("The men behind the 'Decretum'") and in Winroth.[36] The
-ZRG KA article expands on material Winroth presented at the Fourteenth
-International Congress of Medieval Canon Law, Toronto, 2012.
-Furthermore, Winroth vigorously participated in the debate over the
-Sankt Gallen Stiftsbibliothek 673 (Sg) manuscript of Gratian's
-*Decretum*, most notably in Anders Winroth,[37] and his views on Sg
-influence the arguments he makes about the trajectory of Gratian's
-teaching career.
+of *The Making of Gratian's Decretum* ("The men behind the
+'Decretum'"),[35] and in a 2013 ZRG KA article, "Where Gratian Slept:
+The Life and Death of the Father of Canon Law."[36] The article expands
+on material Winroth presented at the Fourteenth International Congress
+of Medieval Canon Law, Toronto, 2012. Furthermore, Winroth vigorously
+participated in the debate over the Sankt Gallen Stiftsbibliothek 673
+(Sg) manuscript of Gratian's *Decretum*, most notably in a 2014 BMCL
+article, "Recent Work on the making of Gratian's Decretum,"[37] and his
+views on Sg influence the arguments he makes about the trajectory of
+Gratian's teaching career.
 
-Winroth adopts a convention in *The Making of Gratians's Decretum* of
+Winroth adopts the convention in *The Making of Gratians's Decretum* of
 referring to the author of the first recension as Gratian 1 and to the
 author of the second recension as Gratian 2. The arguments he makes in
-the first five chapters of the book are agnostic as to whether Gratian 1
+the first five chapters of his book are agnostic as to whether Gratian 1
 is the same person as Gratian 2: "These labels are not intended to
 suggest that Gratian 1 and Gratian 2 could not have been the same
 person."[38] The question of authorial identity is not relevant to the
@@ -498,17 +500,17 @@ existence of Sg as a reason to assume either a long teaching career for
 Gratian or a long period of incremental development for the text of the
 *Decretum*.
 
-Finally, Winroth accepts an entry in a Siena necrology (Siena,
+Furthermore, Winroth accepts an entry in a Siena necrology (Siena,
 Biblioteca Comunale degli Intronati F.I.2, f.5r) brought to scholarly
 attention by Francesco Reali as evidence that Gratian, the author of the
 first recension, died as bishop of Chiusi on the feast day of St.
 Lawrence (August 10) in either 1144 or 1145.[42] The datum provided by
 the necrology, recording the death of a "Gratian of Chiusi, bishop",
-considered along with an axiomatic assumption of an 1139 date for the
-first recension, strengthens the case from Winroth's perspective that
-Gratian, having been elevated to a bishopric not long after having
-finished work on the first recension, was unlikely to have been the
-author of the second recension.
+considered along with Winroth's axiomatic assumption of an 1139
+*terminus post quem* for the first recension, strengthens the case from
+his perspective that Gratian, having been elevated to a bishopric not
+long after having finished work on the first recension, was unlikely to
+have been the author of the second recension.
 
 <!--
 
@@ -816,15 +818,13 @@ theoretical coherence. Winroth himself seems to lean in the direction of
 defining the author as a constant level of value: the *dicta* in the
 first recension of the *Decretum* are in some sense "inferior" to those
 in the second because they reflect a more rudimentary understanding of
-Roman Law.
+Roman Law. To be clear, the point is not that scholars such as
+Pennington and Winroth *are* framing their arguments in the terms
+Foucault borrows from Jerome, but rather that if the bigraphical details
+of their respective historical Gratians were abstracted away, their
+arguments *could* be reframed in those terms.
 
 <!--
-
-My point is not that Pennington, Winroth, *et alii*, *are* framing
-their arguments in the terms Foucault borrows from Jerome, but
-rather that if the bigraphical details of their respective historical
-Gratians are abstracted away, their arguments *could* be reframed
-in those terms.
 
 Vetulani and Chodorow, who consider the omission of Roman law an
 explicit ideological choice on Gratian's part, seem on the other
@@ -884,6 +884,11 @@ significantly in recent scholarship on the authorship of Gratian's
 > style, containing words and expressions not ordinarily found in the
 > writer's production;
 
+<!--
+
+
+
+  -->
 <!--
 
 Southern does not provide footnotes to support these statements.
@@ -1451,12 +1456,12 @@ Pennington, “The Biography of Gratian, the Father of Canon Law,” 387.
 
 [34] Noonan, 172.
 
-[35] *The Making of Gratian’s Decretum*.
+[35] Winroth, *The Making of Gratian’s Decretum*, 175–92.
 
-[36] “Where Gratian Slept.”
+[36] Winroth, “Where Gratian Slept.”
 
-[37] “Recent Work on the Making of Gratian’s Decretum,” *Bulletin of
-Medieval Canon Law* 26 (2004): 1–29.
+[37] Anders Winroth, “Recent Work on the Making of Gratian’s Decretum,”
+*Bulletin of Medieval Canon Law* 26 (2004): 1–29.
 
 [38] Winroth, *The Making of Gratian’s Decretum*, 122.
 
