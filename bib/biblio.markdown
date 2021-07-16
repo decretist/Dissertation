@@ -149,6 +149,14 @@ University Press, 2009.
 
 </div>
 
+<div id="ref-dillon_case_2006" class="csl-entry">
+
+Dillon, John Noël. “Case Statements (Themata) and the Composition of
+Gratian’s Cases.” *Zeitschrift Der Savigny-Stiftung Für
+Rechtsgeschichte. Kanonistische Abteilung* 92, no. 1 (2006): 306–39.
+
+</div>
+
 <div id="ref-donahue_translating_1987" class="csl-entry">
 
 Donahue, Charles. “On Translating the "Digest".” *Stanford Law Review*

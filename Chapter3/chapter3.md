@@ -877,30 +877,26 @@ conceptual or theoretical coherence.
   -->
 
 A work like the *Decretum* can, of course, be evaluated on more
-than one scale of value, and lapses in the Latin grammar of the case
-statements suggest a standard other than the use of Roman law
+than one scale of value, and lapses in the Latin grammar of the
+case statements suggest a standard other than the use of Roman law
 on the basis of which texts might be included in or excluded from
 the Gratian canon. For example, Gratian in C.3 d.init. uses the
 reflexive pronoun *sibi* to refer to enemies of a bishop who is not
 the grammatical subject of the clause in which the word occurs, and
 where, e.g., *eius* might instead be expected: "*accusatores testes
 de domo sua producunt, et alios sibi inimicos extra suam prouinciam*
-the accusers bring forward witnesses from [the bishop's] own
-household, and other enemies of his from outside his province."
-(trans. PLE) Similarly, in C.29 d.init. Gratian uses the reflexive
-pronoun *sibi* is to refer to a noblewoman who is the grammatical
-subject of neither the sentence nor the relative clause in which
-the word appears, and where, e.g., *ei* might instead be expected:[^61]
-"*Ille, qui sibi prius placuerat, tandem uenit, eamque sibi in
-coniugem petit.* Finally he who had previously pleased her (*sibi*)
-comes, and asks [for] her in marriage to himself." (trans. PLE)
-
-<!--
-  -->
-
-It is outside the scope of this dissertation to follow up on anecdotal
-evidence of this kind, but the example at least suggests a possible
-direction for future research.
+(the accusers bring forward witnesses from [the bishop's] own
+household, and other enemies of his (*sibi*) from outside his
+province)." (trans. PLE) Similarly, in C.29 d.init. Gratian uses
+the reflexive pronoun *sibi* is to refer to a noblewoman who is the
+grammatical subject of neither the sentence nor the relative clause
+in which the word appears, and where, e.g., *ei* might instead be
+expected: "*Ille, qui sibi prius placuerat, tandem uenit, eamque
+sibi in coniugem petit* (Finally he who had previously pleased her
+(*sibi*) comes, and asks [for] her in marriage to himself)." (trans.
+PLE) It is outside the scope of this dissertation to follow up on
+anecdotal evidence of this kind, but the example at least suggests
+a possible direction for future research.[^61]
 
 > \(4\) finally, passages quoting statements made or mentioning
 events that occurred after the author's death must be regarded as
@@ -1310,8 +1306,11 @@ and provides citations to many works by Jerome (not just *De Viris
 illustribus*) relevant to the question of determining the authorship
 of a text or texts.
 
-[^61]: @noonan_catholic_1997 thoroughly discusses C.29 in the context of
-the canon law of marriage and consent. Noonan translates the sentence
-more idiomatically than I have done as "[h]er first choice at last
-arrived to seek her in marriage" @noonan_catholic_1997 [1189]
+<!-- Expand 61 -->
+
+[^61]: See @dillon_case_2006. @noonan_catholic_1997 thoroughly
+discusses C.29 in the context of the canon law of marriage and
+consent. Noonan translates the sentence more idiomatically than I
+have done as "[h]er first choice at last arrived to seek her in
+marriage" @noonan_catholic_1997 [1189]
 

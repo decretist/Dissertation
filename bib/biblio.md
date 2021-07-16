@@ -20,6 +20,7 @@ nocite: |
   @corbino_pandectarum_1988
   @craig_stylistic_2004
   @de_jong_penitential_2009
+  @dillon_case_2006
   @donahue_translating_1987
   @dufour_attrait_1979
   @duvernoy_registre_1965
