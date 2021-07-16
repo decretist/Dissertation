@@ -841,23 +841,18 @@ example, Gratian in C.3 d.init. uses the reflexive pronoun *sibi* to
 refer to enemies of a bishop who is not the grammatical subject of the
 clause in which the word occurs, and where, e.g., *eius* might instead
 be expected: "*accusatores testes de domo sua producunt, et alios sibi
-inimicos extra suam prouinciam* the accusers bring forward witnesses
-from \[the bishop's\] own household, and other enemies of his from
-outside his province." (trans. PLE) Similarly, in C.29 d.init. Gratian
-uses the reflexive pronoun *sibi* is to refer to a noblewoman who is the
-grammatical subject of neither the sentence nor the relative clause in
-which the word appears, and where, e.g., *ei* might instead be
-expected:[64] "*Ille, qui sibi prius placuerat, tandem uenit, eamque
-sibi in coniugem petit.* Finally he who had previously pleased her
-(*sibi*) comes, and asks \[for\] her in marriage to himself." (trans.
-PLE)
-
-<!--
-  -->
-
-It is outside the scope of this dissertation to follow up on anecdotal
+inimicos extra suam prouinciam* (the accusers bring forward witnesses
+from \[the bishop's\] own household, and other enemies of his (*sibi*)
+from outside his province)." (trans. PLE) Similarly, in C.29 d.init.
+Gratian uses the reflexive pronoun *sibi* is to refer to a noblewoman
+who is the grammatical subject of neither the sentence nor the relative
+clause in which the word appears, and where, e.g., *ei* might instead be
+expected: "*Ille, qui sibi prius placuerat, tandem uenit, eamque sibi in
+coniugem petit* (Finally he who had previously pleased her (*sibi*)
+comes, and asks \[for\] her in marriage to himself)." (trans. PLE) It is
+outside the scope of this dissertation to follow up on anecdotal
 evidence of this kind, but the example at least suggests a possible
-direction for future research.
+direction for future research.[64]
 
 > \(4\) finally, passages quoting statements made or mentioning events
 > that occurred after the author's death must be regarded as
@@ -934,6 +929,7 @@ fidelissimus scriptor et veracissimus interpres Hieronymus ... nos
 praemonuit." Boyer and McKeon, 91.
 
   -->
+<!-- Expand 61 -->
 
 # Bibliography
 
@@ -952,6 +948,14 @@ Clarendon Press, 1988.
 
 Barthes, Roland. “The Death of the Author.” In *Image, Music, Text*,
 translated by Stephen Heath, 142–48. New York: Hill; Wang, 1977.
+
+</div>
+
+<div id="ref-dillon_case_2006" class="csl-entry">
+
+Dillon, John Noël. “Case Statements (Themata) and the Composition of
+Gratian’s Cases.” *Zeitschrift Der Savigny-Stiftung Für
+Rechtsgeschichte. Kanonistische Abteilung* 92, no. 1 (2006): 306–39.
 
 </div>
 
@@ -1636,11 +1640,15 @@ Foucault's four criteria, and provides citations to many works by Jerome
 (not just *De Viris illustribus*) relevant to the question of
 determining the authorship of a text or texts.
 
-[64] John T. Noonan, “Catholic Law School - A.D. 1150,” *Catholic
-University Law Review* 47 (1997): 1189–1205 thoroughly discusses C.29 in
-the context of the canon law of marriage and consent. Noonan translates
-the sentence more idiomatically than I have done as "\[h\]er first
-choice at last arrived to seek her in marriage" Noonan, 1189.
+[64] See John Noël Dillon, “Case Statements (Themata) and the
+Composition of Gratian’s Cases,” *Zeitschrift Der Savigny-Stiftung Für
+Rechtsgeschichte. Kanonistische Abteilung* 92, no. 1 (2006): 306–39.
+John T. Noonan, “Catholic Law School - A.D. 1150,” *Catholic University
+Law Review* 47 (1997): 1189–1205 thoroughly discusses C.29 in the
+context of the canon law of marriage and consent. Noonan translates the
+sentence more idiomatically than I have done as "\[h\]er first choice at
+last arrived to seek her in marriage" Noonan, “Catholic Law School -
+A.D. 1150,” 1189.
 
 [65] Foucault, “What Is an Author?” 214.
 
