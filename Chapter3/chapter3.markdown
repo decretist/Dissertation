@@ -837,14 +837,23 @@ A work like the *Decretum* can, of course, be evaluated on more than one
 scale of value, and lapses in the Latin grammar of the case statements
 suggest a standard other than the use of Roman law on the basis of which
 texts might be included in or excluded from the Gratian canon. For
-example, Gratian in C.29 d.init. uses the reflexive pronoun *sibi* to
-refer to a woman who is the grammatical subject of neither the sentence
-nor the relative clause in which the word appears, and where, e.g., *ei*
-might instead be expected:[64]
+example, Gratian in C.3 d.init. uses the reflexive pronoun *sibi* to
+refer to enemies of a bishop who is not the grammatical subject of the
+clause in which the word occurs, and where, e.g., *eius* might instead
+be expected: "*accusatores testes de domo sua producunt, et alios sibi
+inimicos extra suam prouinciam* the accusers bring forward witnesses
+from \[the bishop's\] own household, and other enemies of his from
+outside his province." (trans. PLE) Similarly, in C.29 d.init. Gratian
+uses the reflexive pronoun *sibi* is to refer to a noblewoman who is the
+grammatical subject of neither the sentence nor the relative clause in
+which the word appears, and where, e.g., *ei* might instead be
+expected:[64] "*Ille, qui sibi prius placuerat, tandem uenit, eamque
+sibi in coniugem petit.* Finally he who had previously pleased her
+(*sibi*) comes, and asks \[for\] her in marriage to himself." (trans.
+PLE)
 
-*Ille, qui sibi prius placuerat, tandem uenit, eamque sibi in coniugem
-petit.* Finally he who had previously pleased her (sibi) comes, and asks
-\[for\] her in marriage to himself. (trans. PLE)
+<!--
+  -->
 
 It is outside the scope of this dissertation to follow up on anecdotal
 evidence of this kind, but the example at least suggests a possible
@@ -882,7 +891,8 @@ significantly in recent scholarship on the authorship of Gratian's
 
 > \(3\) one must also exclude works that are written in a different
 > style, containing words and expressions not ordinarily found in the
-> writer's production;
+> writer's production (the author is here conceived as a stylistic
+> unity);
 
 <!--
 
