@@ -953,8 +953,8 @@ translated by Stephen Heath, 142–48. New York: Hill; Wang, 1977.
 
 <div id="ref-dillon_case_2006" class="csl-entry">
 
-Dillon, John Noël. “Case Statements (Themata) and the Composition of
-Gratian’s Cases.” *Zeitschrift Der Savigny-Stiftung Für
+Dillon, John Noël. “Case Statements (themata) and the Composition of
+Gratian’s Cases.” *Zeitschrift der Savigny-Stiftung für
 Rechtsgeschichte. Kanonistische Abteilung* 92, no. 1 (2006): 306–39.
 
 </div>
@@ -1640,8 +1640,8 @@ Foucault's four criteria, and provides citations to many works by Jerome
 (not just *De Viris illustribus*) relevant to the question of
 determining the authorship of a text or texts.
 
-[64] See John Noël Dillon, “Case Statements (Themata) and the
-Composition of Gratian’s Cases,” *Zeitschrift Der Savigny-Stiftung Für
+[64] See John Noël Dillon, “Case Statements (themata) and the
+Composition of Gratian’s Cases,” *Zeitschrift der Savigny-Stiftung für
 Rechtsgeschichte. Kanonistische Abteilung* 92, no. 1 (2006): 306–39.
 John T. Noonan, “Catholic Law School - A.D. 1150,” *Catholic University
 Law Review* 47 (1997): 1189–1205 thoroughly discusses C.29 in the

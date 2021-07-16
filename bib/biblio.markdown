@@ -151,8 +151,8 @@ University Press, 2009.
 
 <div id="ref-dillon_case_2006" class="csl-entry">
 
-Dillon, John Noël. “Case Statements (Themata) and the Composition of
-Gratian’s Cases.” *Zeitschrift Der Savigny-Stiftung Für
+Dillon, John Noël. “Case Statements (themata) and the Composition of
+Gratian’s Cases.” *Zeitschrift der Savigny-Stiftung für
 Rechtsgeschichte. Kanonistische Abteilung* 92, no. 1 (2006): 306–39.
 
 </div>
