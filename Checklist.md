@@ -7,9 +7,11 @@
 - [ ] Recreate draft.docx and final.docx reference files
 
 (16 July 2021)
-- [ ] Zoom w/Caroline Sherman 08:30-09:30 PDT re: disseration completion
+- [x] Zoom w/Caroline Sherman 08:30-09:30 PDT re: disseration completion
+
 (13 July 202)
 - [x] Zoom w/Larry Poos 10:00-10:30 PDT re: dissertation completion
+
 (14 April 2020)
 - [x] Teleconference with William Mattingly re: Latin BERT and fastText embeddings.
 
