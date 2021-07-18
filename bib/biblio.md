@@ -88,6 +88,7 @@ nocite: |
   @paucapalea_summa_1890
   @pennington_beginnings_2018
   @pennington_big_2007
+  @pennington_biografia_2014
   @pennington_biography_2014
   @pennington_biography_2018
   @pennington_gratian_2014

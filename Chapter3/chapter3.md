@@ -559,6 +559,15 @@ Annotated bibliography or historiographical micro-essay:
 
   -->
 
+Pennington discusses the biography of Gratian directly in his article
+"The Biography of Gratian, the Father of Canon Law", which has
+appeared in multiple, successively revised versions.[^bio]
+
+[^bio]: @pennington_biography_2014; @pennington_biografia_2014; and 
+@pennington_biography_2018.
+
+<!-- Where does Pennington talk about Sg? -->
+
 Pennington builds on Larson's conjecture that the canon referred
 to at D.63 d.p.c.34 in the first recension and later incorporated
 as D.63 c.35 in the second recension is not canon 28 from the Second

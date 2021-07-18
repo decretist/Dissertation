@@ -702,6 +702,13 @@ to 1917,” 2002.
 
 </div>
 
+<div id="ref-pennington_biografia_2014" class="csl-entry">
+
+———. “La biografia di Graziano, il Padre del diritto canonico.” *Rivista
+Internazionale di Diritto Comune* 25 (2014): 25–60.
+
+</div>
+
 <div id="ref-pennington_procedure_2004" class="csl-entry">
 
 ———. “Law, Criminal Procedure.” In *Dictionary of the Middle Ages.
