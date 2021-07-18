@@ -702,6 +702,14 @@ to 1917,” 2002.
 
 </div>
 
+<div id="ref-pennington_gratian_2004" class="csl-entry">
+
+———. “Gratian, Causa 19, and the Birth of Canonical Jurisprudence.” In
+*Panta Rei: Studi Dedicati a Manlio Bellomo*, edited by Orazio
+Condorelli, 4:339–55. Roma: Il Cigno, 2004.
+
+</div>
+
 <div id="ref-pennington_biografia_2014" class="csl-entry">
 
 ———. “La biografia di Graziano, il Padre del diritto canonico.” *Rivista

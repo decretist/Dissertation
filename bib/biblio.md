@@ -91,6 +91,7 @@ nocite: |
   @pennington_biografia_2014
   @pennington_biography_2014
   @pennington_biography_2018
+  @pennington_gratian_2004
   @pennington_gratian_2014
   @pennington_laws_2013
   @pennington_procedure_2004

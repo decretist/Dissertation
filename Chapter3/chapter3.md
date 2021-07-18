@@ -561,12 +561,16 @@ Annotated bibliography or historiographical micro-essay:
 
 Pennington discusses the biography of Gratian directly in his article
 "The Biography of Gratian, the Father of Canon Law", which has
-appeared in multiple, successively revised versions.[^bio]
+appeared in multiple, successively revised, versions.[^bio] Pennington,
+too, has been a vigorous participant in the debate over the
+significance of the Sg manuscript of the *Decretum*, most notably
+in his 2004 chapter "Gratian, Causa 19, and the Birth of Canonical
+Jurisprudence."[@pennington_gratian_2004]
 
 [^bio]: @pennington_biography_2014; @pennington_biografia_2014; and 
 @pennington_biography_2018.
 
-<!-- Where does Pennington talk about Sg? -->
+<!-- -->
 
 Pennington builds on Larson's conjecture that the canon referred
 to at D.63 d.p.c.34 in the first recension and later incorporated
