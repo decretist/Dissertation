@@ -506,26 +506,12 @@ recension on the grounds that he thinks D.63 d.p.c.34 *must* refer
 to canon 28 from the Second Lateran Council of 1139. That first-recension
 *dictum* makes a reference to a canon, D.63 c.35, that was later
 incorporated into the text of the *Decretum* as D.63 c.35 in the
-second recension.[^40]
-
-<!--
-
-Chronologically, this comes in the middle (first decade of the 21st
-century). Conceptually, it's not a direct intervention in a debate
-over the biography of Gratian. Rather, Winroth's arguing against
-Sg being an earlier version of the text of the *Decretum* is
-indirectly an argument against Gratian I (as Winroth conceives him)
-having worked on the text over a prolonged period.
-
-  -->
-
-Winroth rejects claims that the Sg manuscript of the *Decretum* is
-descended from a version earlier than the first recension, and
-argues that it is instead an abbreviation of the first recension
-with some interpolations from the second.[^41] Winroth therefore
-does not see the existence of Sg as a reason to assume either a
-long teaching career for Gratian or a long period of incremental
-development for the text of the *Decretum*.
+second recension.[^40] Winroth explicitly rejects Atria Larson's
+suggestion that the canon referred to at D.63 d.p.c.34 is *not*
+canon 28 from Lateran II, but rather a canon from an earlier council
+or synod convened by Innocent II at Rome in 1133 that was reissued,
+a common practice in the early twelfth century, at the 1139
+council.[^tmp]
 
 Furthermore, Winroth accepts an entry in a Siena necrology (Siena,
 Biblioteca Comunale degli Intronati F.I.2, f.5r) brought to scholarly
@@ -551,6 +537,17 @@ authorship of the second recension.
 
   -->
 
+Winroth rejects claims that the Sg manuscript of the *Decretum* is
+descended from a version earlier than the first recension, and
+argues that it is instead an abbreviation of the first recension
+with some interpolations from the second.[^41] While not a direct
+intervention in a debate over the biography of Gratian, Winroth's
+argument against Sg being an earlier version of the text of the
+*Decretum* than the first recension is an indirect argument against
+a long teaching career for Gratian I, as Winroth conceives him, and
+against a long period of incremental development for the text of
+the *Decretum*.
+
 ## Pennington
 
 <!--
@@ -565,9 +562,19 @@ appeared in multiple, successively revised, versions.[^43] Pennington,
 too, has been a vigorous participant in the debate over the
 significance of the Sg manuscript of the *Decretum*, most notably
 in his 2004 chapter "Gratian, Causa 19, and the Birth of Canonical
-Jurisprudence."[@pennington_gratian_2004]
+Jurisprudence."[@pennington_gratian_2004] In addition, Pennington
+directed a 2010 dissertation by Melodie Eichbauer, "From Gratian's
+*Concordia discordantium canonum* to Gratian's *Decretum*: The
+Evolution from Teaching Text to Comprehensive Code of Canon Law,
+that contributed to the debate over Sg.
 
-<!-- -->
+<!--
+
+The debate over Sg was more tangential to Larson's and John Wei's
+dissertations than to Eichbauer's, for which it was a central
+concern.
+
+  -->
 
 Pennington builds on Larson's conjecture that the canon referred
 to at D.63 d.p.c.34 in the first recension and later incorporated
@@ -1207,6 +1214,14 @@ slope---once you start rejecting problematic passages because they
 are inconvenient (chronologically or otherwise), there is no obvious
 place at which to stop.
 
+[^tmp]: See @larson_early_2007. **Winroth's rebuttal is in "Innocent
+II, Gratian, and Abbé Migne", *Bulletin of Medieval Canon Law*, 28
+(2008), 145–51.**
+
+[^42]: See @winroth_where_2013. The article expands on a presentation
+given by Winroth at the Fourteenth International Congress of Medieval
+Canon Law, Toronto, 2012.
+
 [^41]: Much of the debate over whether the *Decretum* was the result
 of a continuous or discontinuous process of composition has focused
 on the Sankt Gallen Stiftsbibliothek 673 (Sg) manuscript. Pennington,
@@ -1243,10 +1258,6 @@ for a good recent overview of these debates.
     Prima* contains no texts (canons or *dicta*) from the *tractatus
     de legibus* (distinctions 1-20) and none from Gratian's "epilogue"
     (distinctions 81-101).
-
-[^42]: See @winroth_where_2013. The article expands on a presentation
-given by Winroth at the Fourteenth International Congress of Medieval
-Canon Law, Toronto, 2012.
 
 [^43]: @pennington_biography_2014; @pennington_biografia_2014; and 
 @pennington_biography_2018.
