@@ -942,6 +942,38 @@ of the *dicta*.)
 
 <!--
 
+The chapter, however, outgrew its original outline.
+
+In November 2014, early in the project, I presented my preliminary
+findings at an event hosted by the Maryland Institute for Technology
+in the Humanities (MITH).
+
+"If the answer doesn't make sense, you're asking the wrong question."
+
+Over a long span of time (seven years), I eventually came to
+understand the way in which we have been asking the wrong question(s).
+
+Modern historians and their sources have been talking past each
+other.
+
+Modern historians have tacitly assumed a model of authorship more
+appropriate to the study of twentieth-century literary works than
+to the study of a complex scholastic text like the *Decretum*.
+
+(The image that comes to mind is of Hemingway typing the manuscript
+for a novel.)
+
+They have looked to near-contemporaries for evidence regarding the
+authorship of the *Decretum*, again tacitly assuming that those
+near-contemporaries understood authorship in the same way we do,
+and that therefore whatever those witnesses had to say on the matter
+could be understood in those terms.
+
+That does not appear to be the case.
+
+  -->
+<!--
+
 Southern does not provide footnotes to support these statements.
 
   -->
