@@ -968,11 +968,27 @@ guides the work in the following chapter.
 
 # Conclusion
 
-<!--
-
-
-
-  -->
+The purpose of this chapter in the original outline of my dissertation
+limited and clearly defined: to show that there was no information
+in the known biography of Gratian, either from findings of modern
+scholars such as Noonan, Winroth, and Pennington, or from testimony
+provided by near-contemporaries such as the authors of the prefaces
+to 12th-century *summae* on the *Decretum*, that contradicted or
+precluded the possibility that the case statements and *dicta* had
+different authors. None of the near-contemporaries most plausibly
+linked with Gratian and his project make an unambiguous claim to
+have been his student or to have otherwise had first-hand knowledge
+of the circumstances under which the *Decretum* was compiled.
+Similarly, nothing in modern scholarship precludes or contradicts
+the possibility that the *Decretum* was a product of collective or
+group authorship. (Pennington has advanced an Ockham's razor
+argument against multiplying Gratians in the absence of compelling
+evidence for their existence: *pluralitas non est ponenda sine
+necessitate*. That is not the same as affirmatively arguing that
+the *dicta* in Gratian's *Decretum* were written by a single author.
+The following chapter offers what I hope Pennington will accept as
+sufficiently persuasive evidence for collaborative or group authorship
+of the *dicta*.)
 
 [^1]: The purpose of the first (Authority) section of this chapter
 is to show, more than tell, that most of the medieval statements
