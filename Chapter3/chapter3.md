@@ -505,13 +505,12 @@ Winroth is strongly committed to a late date (1139) for the first
 recension on the grounds that he thinks D.63 d.p.c.34 *must* refer
 to canon 28 from the Second Lateran Council of 1139. That first-recension
 *dictum* makes a reference to a canon, D.63 c.35, that was later
-incorporated into the text of the *Decretum* as D.63 c.35 in the
-second recension.[^40] Winroth explicitly rejects Atria Larson's
-suggestion that the canon referred to at D.63 d.p.c.34 is *not*
-canon 28 from Lateran II, but rather a canon from an earlier council
-or synod convened by Innocent II at Rome in 1133 that was reissued,
-a common practice in the early twelfth century, at the 1139
-council.[^41]
+incorporated into the second recension of the *Decretum* as D.63
+c.35[^40] Winroth explicitly rejects Atria Larson's suggestion that
+the canon referred to at D.63 d.p.c.34 is *not* canon 28 from Lateran
+II, but rather a canon from an earlier council or synod convened
+by Innocent II at Rome in 1133 that was reissued at the 1139 council,
+a common practice in the early twelfth century.[^41]
 
 Furthermore, Winroth accepts an entry in a Siena necrology (Siena,
 Biblioteca Comunale degli Intronati F.I.2, f.5r) brought to scholarly
@@ -544,7 +543,7 @@ with some interpolations from the second.[^43] While not a direct
 intervention in a debate over the biography of Gratian, Winroth's
 argument against Sg being an earlier version of the text of the
 *Decretum* than the first recension is an indirect argument against
-a long teaching career for Gratian I, as Winroth conceives him, and
+a long teaching career for Gratian 1, as Winroth conceives him, and
 against a long period of incremental development for the text of
 the *Decretum*.
 
@@ -1186,14 +1185,6 @@ evidence that would confirm Gratian's presence in a Venetian courtroom
 and change Noonan's plausible to certain." @pennington_biography_2018
 [387].
 
-<!--
-
-Grebner's prosopographic analysis appears to put Gratian on the
-"right" side of the Anacletian schism (i.e., on the same side as
-Haimeric with the Innocentians).
-
-  -->
-
 [^39]: Winroth has since come to contextualize the differences
 between the first and second recension with respect to the use of
 Roman law within a broader context: "The argument about two authors
@@ -1304,19 +1295,19 @@ to assess its contribution to his work accordingly.
 
 [^57]: @barthes_death_1977; and @foucault_what_1998.
 
+<!--
+
+"*Illud quoque diligenter attendi convenit ne ... falsa tituli
+inscriptione vel scripturae ipsius corruptione fallamur ... Unde
+fidelissimus scriptor et veracissimus interpres Hieronymus ... nos
+praemonuit.*" Boyer and McKeon, 91.
+
+  -->
+
 [^65]: "We must also be very careful not to be deceived by a false
 attribution of authorship or by a corrupt text ... Jerome, that
 most reliable writer and most faithful translator, has given us
 forewarning of this." @abelard_prologue_1988 [89].
-
-<!--
-
-"Illud quoque diligenter attendi convenit ne ... falsa tituli
-inscriptione vel scripturae ipsius corruptione fallamur ... Unde
-fidelissimus scriptor et veracissimus interpres Hieronymus ... nos
-praemonuit." Boyer and McKeon, 91.
-
-  -->
 
 [^66]: @foucault_what_1998 [214]. Foucault claims to have derived
 the four criteria for determining whether a given "discursive set"
@@ -1330,11 +1321,19 @@ and provides citations to many works by Jerome (not just *De Viris
 illustribus*) relevant to the question of determining the authorship
 of a text or texts.
 
-<!-- Expand 65 -->
+[^67]: When I first encountered Gratian's unexpected use of *sibi*
+in C.3 d.init., I assumed that I was misconstruing the grammar.
+Soon thereafter, however, I came across @dillon_case_2006 [316n42],
+confirming that Gratian's use *sibi* is in fact incorrect by the
+standards of Classical Latin. This usage is not unique to Gratian;
+Dillon referred me to @sidwell_reading_1995 [365-366] which discusses
+ways in which the use of demonstratives and pronouns in Medieval
+Latin differs from their use in Classical Latin.
 
-[^67]: See @dillon_case_2006. @noonan_catholic_1997 thoroughly
-discusses C.29 in the context of the canon law of marriage and
-consent. Noonan translates the sentence more idiomatically than I
-have done as "[h]er first choice at last arrived to seek her in
-marriage" @noonan_catholic_1997 [1189]
+    Thanks to Anders Winroth, who pointed out that C.29 d.init.
+    contains a similar construction. @noonan_catholic_1997 thoroughly
+    discusses C.29 in the context of the canon law of marriage and
+    consent. Noonan translates the sentence more idiomatically than
+    I have done as "[h]er first choice at last arrived to seek her
+    in marriage" @noonan_catholic_1997 [1189]
 
