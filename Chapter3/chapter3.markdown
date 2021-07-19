@@ -903,6 +903,22 @@ significantly in recent scholarship on the authorship of Gratian's
 > writer's production (the author is here conceived as a stylistic
 > unity);
 
+From this point forward, the dissertation will be taken up with an
+extended application of Jerome's third criterion, the criterion of
+stylistic unity, to the question of the authorship of the *dicta* in
+Gratian's *Decretum*. The introduction offered a preview of the finding
+that when the alleged details of Gratian's biography are abstracted away
+from the idea of the author, and we instead look for the author in the
+stylistic unities predicted by either the one- or two-author hypotheses,
+we will not find them. Style is defined in a rigorous and quantitative
+way, and applied using computational techniques unimaginable certainly
+to Jerome and perhaps even to Foucault, but conceptually it is Jerome's
+insight that guides the work in the following chapter.
+
+------------------------------------------------------------------------
+
+# Conclusion
+
 <!--
 
 
