@@ -511,7 +511,7 @@ suggestion that the canon referred to at D.63 d.p.c.34 is *not*
 canon 28 from Lateran II, but rather a canon from an earlier council
 or synod convened by Innocent II at Rome in 1133 that was reissued,
 a common practice in the early twelfth century, at the 1139
-council.[^tmp]
+council.[^41]
 
 Furthermore, Winroth accepts an entry in a Siena necrology (Siena,
 Biblioteca Comunale degli Intronati F.I.2, f.5r) brought to scholarly
@@ -540,7 +540,7 @@ authorship of the second recension.
 Winroth rejects claims that the Sg manuscript of the *Decretum* is
 descended from a version earlier than the first recension, and
 argues that it is instead an abbreviation of the first recension
-with some interpolations from the second.[^41] While not a direct
+with some interpolations from the second.[^43] While not a direct
 intervention in a debate over the biography of Gratian, Winroth's
 argument against Sg being an earlier version of the text of the
 *Decretum* than the first recension is an indirect argument against
@@ -558,7 +558,7 @@ Annotated bibliography or historiographical micro-essay:
 
 Pennington discusses the biography of Gratian directly in his article
 "The Biography of Gratian, the Father of Canon Law", which has
-appeared in multiple, successively revised, versions.[^43] Pennington,
+appeared in multiple, successively revised, versions.[^44] Pennington,
 too, has been a vigorous participant in the debate over the
 significance of the Sg manuscript of the *Decretum*, most notably
 in his 2004 chapter "Gratian, Causa 19, and the Birth of Canonical
@@ -581,7 +581,7 @@ to at D.63 d.p.c.34 in the first recension and later incorporated
 as D.63 c.35 in the second recension is not canon 28 from the Second
 Lateran Council (1139), but rather a canon from an earlier council
 or synod convened by Innocent II at Rome in 1133 that was reissued,
-a common practice in the early twelfth century, at Lateran II.[^44]
+a common practice in the early twelfth century, at Lateran II.[^46]
 Pennington supports Larson's conjecture by noting that the text of
 the canon as it appears in the *Decretum* includes variants (*facta
 fuerit* vs *fuerit celebrata*, and *consensus* vs *assensus*) found
@@ -602,7 +602,7 @@ the number that would be expected if they had been copied from a
 vulgate manuscript of the *Decretum* (87 are missing from Aa, and
 62 are missing from Fd), these manuscripts represent an intermediate
 "next-to-last" stage in the development of the *Decretum* text
-intermediate the pre-vulgate and vulgate versions.[^46] Furthermore,
+intermediate the pre-vulgate and vulgate versions.[^48] Furthermore,
 the fact that the Lateran II canons *are* present in this "next-to-last"
 stage undermines the argument going back to Fransen and supported
 by Lenherr that the Lateran II canons are a last-minute addition,
@@ -689,21 +689,21 @@ Roman Law).
 
 Authorship on any significant scale in the pre-modern world required
 wrapping a specialized and expensive scribal infrastructure around
-the figure of the author.[^49] Three examples from classical and
+the figure of the author.[^51] Three examples from classical and
 late antiquity illustrate the possible ways in which this requirement
 could be met. Cicero (†43 BCE) pursued his literary ambitions with
 the support of highly skilled but unfree labor purchased out of his
 personal wealth, most famously his slave and later freedman Tiro.
 A wealthy lay patron named Ambrose paid for the secretarial staff
 that supported the authorial activities of Origen of Alexandria
-(†253).[^50] Quasi-monastic members of the episcopal household of
+(†253).[^52] Quasi-monastic members of the episcopal household of
 Augustine of Hippo (†430) provided the scribal support that made
 his prodigious authorial output possible. The mode of production
 pioneered by Augustine and his household in which monastic labor
 enabled the creation of original texts by their authors as well as
 the subsequent copying and circulation of finished texts proved a
 durable one, and predominated in the Latin West until the thirteenth
-century.[^51]
+century.[^53]
 
 Given the material and social technologies for authorship available
 in the twelfth century, creation of a text the size of Gratian's
@@ -713,7 +713,7 @@ assistants,"[@pennington_biography_2018, 362] but that observation
 suggests that the nature of the collaboration between Gratian and
 those Pennington conceives of as his assistant needs to be examined
 more closely. What substantive intellectual contributions, if any,
-did Gratian's collaborators make to the project?[^53] There are a
+did Gratian's collaborators make to the project?[^55] There are a
 number of indications, discussed in the previous chapter, that the
 *Decretum* outgrew the ability of a single author to effectively
 manage the development of the text. The question is whether Gratian's
@@ -721,7 +721,7 @@ partial loss of control of the project opened up a space for genuinely
 collaborative authorship. The starting point for this inquiry is a
 theoretically informed understanding of what authorship is.
 
-The recent work on the life of Gratian by Pennington and Winroth[^54]
+The recent work on the life of Gratian by Pennington and Winroth[^56]
 reviewed in the preceding section tacitly assumes that if we can
 identify the historical Gratian, we will have identified the author
 of the *Decretum* (or at least the author of the first recension),
@@ -737,7 +737,7 @@ over the last half-century. Roland Barthes's 1967 essay "The Death
 of the Author" and Michel Foucault's 1969 response "What Is an
 Author?" are foundational readings in the theory of authorship, and
 provide an appropriate starting point for a theoretically-informed
-reconsideration of the authorship of Gratian's *Decretum*.[^55]
+reconsideration of the authorship of Gratian's *Decretum*.[^57]
 
 ## Barthes
 
@@ -845,12 +845,12 @@ individual trademark." Furthermore, Foucault's theory of literary
 authorship is substantially derived from the work of the figure
 that Gratian's twelfth-century contemporaries, most notably Abelard,
 considered supremely authoritative on precisely this kind of
-problem.[^63]
+problem.[^65]
 
 > How, then can one attribute several discourses to one and the
 same author? How can one use the author function to determine if
 one is dealing with one or several individuals? Saint Jerome proposes
-four criteria:[^64]
+four criteria:[^66]
 
 Each of Jerome's four criteria is a criterion for the *exclusion*
 of a given text from the canon of a particular author. Three of the
@@ -913,7 +913,7 @@ sibi in coniugem petit* (Finally he who had previously pleased her
 (*sibi*) comes, and asks [for] her in marriage to himself)." (trans.
 PLE) It is outside the scope of this dissertation to follow up on
 anecdotal evidence of this kind, but the example at least suggests
-a possible direction for future research.[^65]
+a possible direction for future research.[^67]
 
 > \(4\) finally, passages quoting statements made or mentioning
 events that occurred after the author's death must be regarded as
@@ -1214,7 +1214,7 @@ slope---once you start rejecting problematic passages because they
 are inconvenient (chronologically or otherwise), there is no obvious
 place at which to stop.
 
-[^tmp]: See @larson_early_2007. **Winroth's rebuttal is in "Innocent
+[^41]: See @larson_early_2007. **Winroth's rebuttal is in "Innocent
 II, Gratian, and Abbé Migne", *Bulletin of Medieval Canon Law*, 28
 (2008), 145–51.**
 
@@ -1222,7 +1222,7 @@ II, Gratian, and Abbé Migne", *Bulletin of Medieval Canon Law*, 28
 given by Winroth at the Fourteenth International Congress of Medieval
 Canon Law, Toronto, 2012.
 
-[^41]: Much of the debate over whether the *Decretum* was the result
+[^43]: Much of the debate over whether the *Decretum* was the result
 of a continuous or discontinuous process of composition has focused
 on the Sankt Gallen Stiftsbibliothek 673 (Sg) manuscript. Pennington,
 Eichbauer, and Larson have argued that it represents, at some unknown
@@ -1259,10 +1259,10 @@ for a good recent overview of these debates.
     de legibus* (distinctions 1-20) and none from Gratian's "epilogue"
     (distinctions 81-101).
 
-[^43]: @pennington_biography_2014; @pennington_biografia_2014; and 
+[^44]: @pennington_biography_2014; @pennington_biografia_2014; and 
 @pennington_biography_2018.
 
-[^44]: Pennington asserts that "[t]he main reason that Winroth
+[^46]: Pennington asserts that "[t]he main reason that Winroth
 created a second 'Gratian' is because of a text [D.63 d.p.c.34]
 that is found in all pre-Vulgate manuscripts." @pennington_biography_2018
 [362]. **Placeholder for Larson footnote** D.63 d.p.c.34 *is*
@@ -1278,33 +1278,33 @@ two-author hypothesis was that the second recension makes much more
 sophisticated use of Roman law concepts and terminology than the
 first recension.
 
-[^46]: @pennington_biography_2018 [367]; and @eichbauer_first_2012 [145].
+[^48]: @pennington_biography_2018 [367]; and @eichbauer_first_2012 [145].
 
-[^49]: @odonnell_augustine_2005 [136, 139]. The need for scribal
+[^51]: @odonnell_augustine_2005 [136, 139]. The need for scribal
 or secretarial support presupposes that authors create texts by
 dictating them.
 
-[^50]: John Anthony McGuckin, "The Life of Origen (ca. 186–255)"
+[^52]: John Anthony McGuckin, "The Life of Origen (ca. 186–255)"
 in *The Westminster Handbook to Origen*, 12. McGuckin got this story
 from Eusebius, *Ecclesiastical History* 6.23.2.
 
-[^51]: Monastic modes of text production were gradually replaced
+[^53]: Monastic modes of text production were gradually replaced
 by commercial modes of production, e.g., around the University of
 Paris. See Richard H. and Mary A. Rouse, *Manuscripts and their
 Makers: Commercial Book Producers in Medieval Paris 1200-1500.*
 
-[^53]: The quasi-monastic model of text production leaves open a
+[^55]: The quasi-monastic model of text production leaves open a
 range of possibilities. Those who have read the *Vita Augustini*
 written by Possidius of Calama († c.437) are likely to be unimpressed
 by the intellectual caliber of Augustine's episcopal household, and
 to assess its contribution to his work accordingly.
 
-[^54]: @winroth_where_2013; @pennington_biography_2014; and
+[^56]: @winroth_where_2013; @pennington_biography_2014; and
 @pennington_biography_2018.
 
-[^55]: @barthes_death_1977; and @foucault_what_1998.
+[^57]: @barthes_death_1977; and @foucault_what_1998.
 
-[^63]: "We must also be very careful not to be deceived by a false
+[^65]: "We must also be very careful not to be deceived by a false
 attribution of authorship or by a corrupt text ... Jerome, that
 most reliable writer and most faithful translator, has given us
 forewarning of this." @abelard_prologue_1988 [89].
@@ -1318,7 +1318,7 @@ praemonuit." Boyer and McKeon, 91.
 
   -->
 
-[^64]: @foucault_what_1998 [214]. Foucault claims to have derived
+[^66]: @foucault_what_1998 [214]. Foucault claims to have derived
 the four criteria for determining whether a given "discursive set"
 has one or several authors from Jerome's *De Viris illustribus*.
 He provides, however, no citations. Walzer and Inabinit indicate
@@ -1332,7 +1332,7 @@ of a text or texts.
 
 <!-- Expand 65 -->
 
-[^65]: See @dillon_case_2006. @noonan_catholic_1997 thoroughly
+[^67]: See @dillon_case_2006. @noonan_catholic_1997 thoroughly
 discusses C.29 in the context of the canon law of marriage and
 consent. Noonan translates the sentence more idiomatically than I
 have done as "[h]er first choice at last arrived to seek her in
