@@ -125,21 +125,6 @@ identified as having been students of Gratian: Paucapalea (fl. 1140s),
 Simon of Bisignano (fl. 1174--1179), and Omnibonus or Omnebene of Verona
 (d. 1185).
 
-<!--
-
-What we'd really like to have is evidence from one or more of his
-students about the biography of Gratian and about the authorship
-of the *Decretum*. The *Decretum* was a teaching text, and Gratian's
-students had a front-row seat to its development. Unfortunately,
-"the usual suspects" are all silent, strongly suggesting we have
-the wrong "usual suspects," i.e., that Paucapalea, Omnibonus, and
-Simon, etc., were not actually Gratian's students. We don't appear
-to have anything from Gratian's actual students. If we want the
-*ipsissima verba* of Gratian's actual students, we probably have
-to look between the covers of the *Decretum* to find them.
-
-  -->
-
 ## Paucapalea
 
 Paucapalea was easily the most prominent figure from the early period of
@@ -161,29 +146,6 @@ had had something to say about the authority and authorship of Gratian,
 his readers would have expected him to do so in his preface. That he did
 not suggests that he did not know enough about Gratian to credibly do
 so.[9]
-
-<!--
-
-Furthermore, Paucapalea in the preface to his *summa* clearly shows
-both that he is aware of the third part of the *Decretum*, *de
-Consecratione*, and that he uncritically accepts it as having been
-compiled by the same Master responsible for the rest of the work:
-"*In extremis de ecclesiarum dedicatione et corpore et sanguine
-domini atque baptismo nec non et confirmatione pleniter tractat,
-et in his suum tractatum terminat.* In the end, he treats fully the
-dedication of churches, the body and blood of the Lord, baptism,
-and also confirmation, and with these things concludes his
-treatise."[^p]
-
-[^p]: @paucapalea_summa_1890 [3]; @somerville_prefaces_1998 [184-185].
-
-If Rambaud is correct that *de Consecratione* was not part of the
-original *Decretum*, the fact that Paucapalea attributed it to the
-same unnamed master responsible for rest of the text on which he
-was commenting strongly suggests that he did not have direct knowledge
-of Gratian or his plan of work.
-
-  -->
 
 ## Omnibonus
 
@@ -491,30 +453,6 @@ his perspective that Gratian, having been elevated to a bishopric not
 long after having finished work on the first recension, was unlikely to
 have been the author of the second recension.
 
-<!--
-
-Chapter 3 overflow:
-
-The use Winroth makes of the Siena necrology in his argument that
-Gratian could not have been the author of the second recension is
-persuasive if and only if you believe *both* that the first recension
-was competed not earlier than 1139 *and* that Gratian was a bishop
-by 1143 and dead by 1145. It is, however, neither the only nor the
-strongest argument against Gratian's authorship of the second
-recension.
-
-The debate over Sg was more tangential to Larson's and John Wei's
-dissertations than to Eichbauer's, for which it was a central
-concern.
-
-Pennington says that the 99-distinction version of the *Decretum*
-"reached the Iberian peninsula" in the form of Bc.
-[@pennington_biography_2018, 366-367] Pennington does not unambiguously
-say that he considers Bc to be of Iberian origin. Winroth, off the
-record, considers Bc to be of Italian origin.
-
-  -->
-
 Winroth rejects claims that the Sg manuscript of the *Decretum* is
 descended from a version earlier than the first recension, and argues
 that it is instead an abbreviation of the first recension with some
@@ -579,17 +517,6 @@ includes neither texts from the *tractatus de legibus* (distinctions
 1-20) nor from the "epilogue" (distinctions 81-101). Moreover, four
 cases, 24-26 and 28, are missing from Sg entirely. Why, Pennington asks,
 would an abbreviator do this?
-
-<!--
-
-The subset of canons and *dicta* from Part I of the first recension
-of the *Decretum* from which *Causa Prima* in the Sg manuscript is
-composed is ordered, with the relatively insignificant exception
-that the four canons corresponding to D.32 c.3, c.4, c.6, and c.7
-are inserted between the canons corresponding to D.31 c.6 and D.31
-c.7.[@larrainzar_borrador_1999, 653]
-
-  -->
 
 There are two aspects to Pennington's reservations about identifying the
 Gratian named in the Siena necrology with the author of the *Decretum*.
@@ -971,11 +898,6 @@ scholarship over the last half-century.
   -->
 <!--
 
-Southern does not provide footnotes to support these statements.
-
-  -->
-<!--
-
 *Chronique de Robert de Torigny*, ed. Léopold Delisle, 183-184.
 *Chronicles of the reigns of Stephen, Henry II, and Richard I*, ed.
 Richard Howlett (1884). *Chronica Roberti de Torigneio*, ed. Richard
@@ -1349,7 +1271,8 @@ taught by him". "although other scholars made some very early
 alterations and additions to the text of the *Decretum*, none of them
 claimed to have been taught by him." R. W. Southern, *Scholastic
 Humanism and the Unification of Europe*, vol. 1 (Oxford, UK ; Cambridge,
-Mass., USA: Blackwell, 1995), 287, 304.
+Mass., USA: Blackwell, 1995), 287, 304. Southern does not provide
+footnotes to support these statements.
 
 [6] The tradition of Roman law teaching in Bologna preserved an
 elaborate genealogy of masters and their students: Pepo preceded
@@ -1638,7 +1561,7 @@ in all other pre-vulgate and vulgate versions of the *Decretum*.
 (*Causa* I appears as *Causa* II in Sg.) It contains a subset of canons
 and *dicta* found in Part I, presented in almost exactly the same order
 in which they appear in other versions of the *Decretum*. (There is one
-relatively minor exception with respect to the ordering of the texts,
+relatively minor exception with respect to the ordering of the texts:
 the four canons corresponding to D.32 c.3, c.4, c.6, and c.7 are
 inserted between the canons corresponding to D.31 c.6 and D.31 c.7.)
 Larrainzar, “El Borrador de la ’Concordia’ de Graciano,” 653. Notably,
