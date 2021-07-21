@@ -577,12 +577,6 @@ admirable men of pious modesty, like the builders of the medieval
 cathedrals, whose person is hidden and effaced completely behind
 their immortal works."[@kuttner_father_1941, 4].
 
-[^tmp]: "The final problem with this entry in the Sienese necrology
-is that if this is the Gratian who compiled one of the most famous
-textbooks of the twelfth century and who taught canon law at Bologna
-for a long time, can we believe that he would have been given such
-a modest entry?" @pennington_biography_2018 [387]
-
 <!--
 
 Pennington claims to be arguing that there was one Gratian, but is
@@ -1253,6 +1247,12 @@ sophisticated use of Roman law concepts and terminology than the
 first recension.
 
 [^48]: @pennington_biography_2018 [367]; and @eichbauer_first_2012 [145].
+
+[^tmp]: "The final problem with this entry in the Sienese necrology
+is that if this is the Gratian who compiled one of the most famous
+textbooks of the twelfth century and who taught canon law at Bologna
+for a long time, can we believe that he would have been given such
+a modest entry?" @pennington_biography_2018 [387]
 
 [^51]: @odonnell_augustine_2005 [136, 139]. The need for scribal
 or secretarial support presupposes that authors create texts by
