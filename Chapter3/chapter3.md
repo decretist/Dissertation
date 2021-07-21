@@ -569,7 +569,7 @@ of such importance. Gratian appears second on the list of the three
 legal consultants in the Venice case, and is not referred to with
 the honorific title "*Magister*." And the Siena necrology records
 nothing beyond the bare facts of a name, a day (but not year) of
-death, and that the defunct had been a bishop from or of Chiusi.[^tmp]
+death, and that the defunct had been a bishop from or of Chiusi.[^52]
 In his assumption, however, that Gratian must have been well-known,
 even famous, in his own lifetime, Pennington disagrees with Kuttner,
 who sees Gratian as a figure of shrouded in profound personal
@@ -582,21 +582,21 @@ and effaced completely behind their immortal works."[@kuttner_father_1941,
 
 Authorship on any significant scale in the pre-modern world required
 wrapping a specialized and expensive scribal infrastructure around
-the figure of the author.[^51] Three examples from classical and
+the figure of the author.[^54] Three examples from classical and
 late antiquity illustrate the possible ways in which this requirement
 could be met. Cicero (†43 BCE) pursued his literary ambitions with
 the support of highly skilled but unfree labor purchased out of his
 personal wealth, most famously his slave and later freedman Tiro.
 A wealthy lay patron named Ambrose paid for the secretarial staff
 that supported the authorial activities of Origen of Alexandria
-(†253).[^52] Quasi-monastic members of the episcopal household of
+(†253).[^55] Quasi-monastic members of the episcopal household of
 Augustine of Hippo (†430) provided the scribal support that made
 his prodigious authorial output possible. The mode of production
 pioneered by Augustine and his household in which monastic labor
 enabled the creation of original texts by their authors as well as
 the subsequent copying and circulation of finished texts proved a
 durable one, and predominated in the Latin West until the thirteenth
-century.[^53]
+century.[^56]
 
 Given the material and social technologies for authorship available
 in the twelfth century, creation of a text the size of Gratian's
@@ -606,7 +606,7 @@ assistants,"[@pennington_biography_2018, 362] but that observation
 suggests that the nature of the collaboration between Gratian and
 those Pennington conceives of as his assistant needs to be examined
 more closely. What substantive intellectual contributions, if any,
-did Gratian's collaborators make to the project?[^55] There are a
+did Gratian's collaborators make to the project?[^58] There are a
 number of indications, discussed in the previous chapter, that the
 *Decretum* outgrew the ability of a single author to effectively
 manage the development of the text. The question is whether Gratian's
@@ -614,7 +614,7 @@ partial loss of control of the project opened up a space for genuinely
 collaborative authorship. The starting point for this inquiry is a
 theoretically informed understanding of what authorship is.
 
-The recent work on the life of Gratian by Pennington and Winroth[^56]
+The recent work on the life of Gratian by Pennington and Winroth[^59]
 reviewed in the preceding section tacitly assumes that if we can
 identify the historical Gratian, we will have identified the author
 of the *Decretum* (or at least the author of the first recension),
@@ -630,7 +630,7 @@ over the last half-century. Roland Barthes's 1967 essay "The Death
 of the Author" and Michel Foucault's 1969 response "What Is an
 Author?" are foundational readings in the theory of authorship, and
 provide an appropriate starting point for a theoretically-informed
-reconsideration of the authorship of Gratian's *Decretum*.[^57]
+reconsideration of the authorship of Gratian's *Decretum*.[^60]
 
 ## Barthes
 
@@ -738,12 +738,12 @@ individual trademark." Furthermore, Foucault's theory of literary
 authorship is substantially derived from the work of the figure
 that Gratian's twelfth-century contemporaries, most notably Abelard,
 considered supremely authoritative on precisely this kind of
-problem.[^65]
+problem.[^68]
 
 > How, then can one attribute several discourses to one and the
 same author? How can one use the author function to determine if
 one is dealing with one or several individuals? Saint Jerome proposes
-four criteria:[^66]
+four criteria:[^69]
 
 Each of Jerome's four criteria is a criterion for the *exclusion*
 of a given text from the canon of a particular author. Three of the
@@ -803,7 +803,7 @@ sibi in coniugem petit* (Finally he who had previously pleased her
 (*sibi*) comes, and asks [for] her in marriage to himself)." (trans.
 PLE) It is outside the scope of this dissertation to follow up on
 anecdotal evidence of this kind, but the example at least suggests
-a possible direction for future research.[^67]
+a possible direction for future research.[^71]
 
 > \(4\) finally, passages quoting statements made or mentioning
 events that occurred after the author's death must be regarded as
@@ -1233,35 +1233,35 @@ first recension.
 
 [^48]: @pennington_biography_2018 [367]; and @eichbauer_first_2012 [145].
 
-[^tmp]: "The final problem with this entry in the Sienese necrology
+[^52]: "The final problem with this entry in the Sienese necrology
 is that if this is the Gratian who compiled one of the most famous
 textbooks of the twelfth century and who taught canon law at Bologna
 for a long time, can we believe that he would have been given such
 a modest entry?" @pennington_biography_2018 [387]
 
-[^51]: @odonnell_augustine_2005 [136, 139]. The need for scribal
+[^54]: @odonnell_augustine_2005 [136, 139]. The need for scribal
 or secretarial support presupposes that authors create texts by
 dictating them.
 
-[^52]: John Anthony McGuckin, "The Life of Origen (ca. 186–255)"
+[^55]: John Anthony McGuckin, "The Life of Origen (ca. 186–255)"
 in *The Westminster Handbook to Origen*, 12. McGuckin got this story
 from Eusebius, *Ecclesiastical History* 6.23.2.
 
-[^53]: Monastic modes of text production were gradually replaced
+[^56]: Monastic modes of text production were gradually replaced
 by commercial modes of production, e.g., around the University of
 Paris. See Richard H. and Mary A. Rouse, *Manuscripts and their
 Makers: Commercial Book Producers in Medieval Paris 1200-1500.*
 
-[^55]: The quasi-monastic model of text production leaves open a
+[^58]: The quasi-monastic model of text production leaves open a
 range of possibilities. Those who have read the *Vita Augustini*
 written by Possidius of Calama († c.437) are likely to be unimpressed
 by the intellectual caliber of Augustine's episcopal household, and
 to assess its contribution to his work accordingly.
 
-[^56]: @winroth_where_2013; @pennington_biography_2014; and
+[^59]: @winroth_where_2013; @pennington_biography_2014; and
 @pennington_biography_2018.
 
-[^57]: @barthes_death_1977; and @foucault_what_1998.
+[^60]: @barthes_death_1977; and @foucault_what_1998.
 
 <!--
 
@@ -1272,12 +1272,12 @@ praemonuit.*" Boyer and McKeon, 91.
 
   -->
 
-[^65]: "We must also be very careful not to be deceived by a false
+[^68]: "We must also be very careful not to be deceived by a false
 attribution of authorship or by a corrupt text ... Jerome, that
 most reliable writer and most faithful translator, has given us
 forewarning of this." @abelard_prologue_1988 [89].
 
-[^66]: @foucault_what_1998 [214]. Foucault claims to have derived
+[^69]: @foucault_what_1998 [214]. Foucault claims to have derived
 the four criteria for determining whether a given "discursive set"
 has one or several authors from Jerome's *De Viris illustribus*.
 He provides, however, no citations. Walzer and Inabinit indicate
@@ -1289,7 +1289,7 @@ and provides citations to many works by Jerome (not just *De Viris
 illustribus*) relevant to the question of determining the authorship
 of a text or texts.
 
-[^67]: When I first encountered Gratian's unexpected use of *sibi*
+[^71]: When I first encountered Gratian's unexpected use of *sibi*
 in C.3 d.init., I assumed that I was misconstruing the grammar.
 Soon thereafter, however, I came across @dillon_case_2006 [316n42],
 confirming that Gratian's use *sibi* is in fact incorrect by the
