@@ -532,7 +532,7 @@ the number that would be expected if they had been copied from a
 vulgate manuscript of the *Decretum* (87 are missing from Aa, and
 62 are missing from Fd), these manuscripts represent an intermediate
 "next-to-last" stage in the development of the *Decretum* text
-intermediate the pre-vulgate and vulgate versions.[^48] Furthermore,
+between the pre-vulgate and vulgate versions.[^48] Furthermore,
 the fact that the Lateran II canons *are* present in this "next-to-last"
 stage undermines the argument going back to Fransen and supported
 by Lenherr that the Lateran II canons are a last-minute addition,
@@ -557,7 +557,9 @@ of the *Decretum* eventually became a bishop somewhere, but questions
 whether the person named in the necrology was either the bishop of
 Chiusi, or the author of the *Decretum*. He notes that the necrology
 refers to "Gratian of Chiusi, bishop", not to "Gratian, bishop of
-Chiusi." His second reservation concerning the identification of
+Chiusi."
+
+Pennington's second reservation concerning the identification of
 the Gratian mentioned in the Siena necrology as "the" Gratian is
 closely related to his reservation about Grebner's identification
 of the Gratian mentioned in the record of the 1143 Venice court
@@ -567,19 +569,19 @@ second on the list of the three legal consultants in the Venice
 case, and is not referred to with the honorific title "*Magister*."
 And the Siena necrology records nothing beyond the bare facts of a
 name, a day (but not year) of death, and that the defunct had been
-a bishop from or of Chiusi.
+a bishop from or of Chiusi.[^tmp] In his assumption, however, that
+Gratian must have been well-known, even famous, in his own lifetime,
+Pennington disagrees with Kuttner, who sees Gratian as a figure of
+shrouded in profound personal obscurity: "He is one of those deeply
+admirable men of pious modesty, like the builders of the medieval
+cathedrals, whose person is hidden and effaced completely behind
+their immortal works."[@kuttner_father_1941, 4].
 
-<!--
-
-In his assumption that Gratian must have been well-known, even
-famous, in his own lifetime, Pennington disagrees with Kuttner, who
-sees Gratian as a figure of shrouded in profound personal obscurity:
-"He is one of those deeply admirable men of pious modesty, like the
-builders of the medieval cathedrals, whose person is hidden and
-effaced completely behind their immortal works."[@kuttner_father_1941,
-4].
-
-  -->
+[^tmp]: "The final problem with this entry in the Sienese necrology
+is that if this is the Gratian who compiled one of the most famous
+textbooks of the twelfth century and who taught canon law at Bologna
+for a long time, can we believe that he would have been given such
+a modest entry?" @pennington_biography_2018 [387]
 
 <!--
 
@@ -1158,12 +1160,12 @@ monastic life brought to the Church". @southern_scholastic_1995
 Siena necrology makes Robert's identification more plausible than
 it would have appeared to Noonan, though by no means certain.
 
-[^31]: Pennington reads a great deal into the order (why wasn't
-Gratian referred to first?) and the honorifics (why wasn't Gratian
-referred to as "Magister"?). @pennington_biography_2018 [387-388].
-There is, however, no reason to assume that the notary who reported
-on the proceedings would necessarily have been well-informed about
-Gratian, who was, after all, not a local figure in Venice.
+[^31]: Pennington views the fact that Gratian was referred to second
+and without the honorific "Magister" as significant.
+@pennington_biography_2018 [387-388].  There is, however, no reason
+to assume that the notary who reported on the proceedings would
+necessarily have been well-informed about Gratian, who was, after
+all, not a local figure in Venice.
 
 [^32]: @grebner_patronate_2007 is frequently cited in connection
 with the 1143 court case: "Recently, Gundula Grebner uncovered more
