@@ -464,12 +464,6 @@ of the first and second recensions.
 
 ## Winroth
 
-<!--
-
-Annotated bibliography or historiographical micro-essay:
-
-  -->
-
 Winroth discusses the biography of Gratian directly in the sixth
 chapter of *The Making of Gratian's Decretum* ("The men behind the
 'Decretum'"),[@winroth_making_2000, 175-192] and in a 2013 ZRG KA
@@ -527,12 +521,25 @@ recension.
 
 <!--
 
-*This* argument that Gratian could not have been the author of the
-second recension is persuasive if and only if you believe *both*
-that the first recension was competed not earlier than 1139 *and*
-that Gratian was a bishop by 1143 and dead by 1145. It is, however,
-neither the only nor the strongest argument against Gratian's
-authorship of the second recension.
+Chapter 3 overflow:
+
+The use Winroth makes of the Siena necrology in his argument that
+Gratian could not have been the author of the second recension is
+persuasive if and only if you believe *both* that the first recension
+was competed not earlier than 1139 *and* that Gratian was a bishop
+by 1143 and dead by 1145. It is, however, neither the only nor the
+strongest argument against Gratian's authorship of the second
+recension.
+
+The debate over Sg was more tangential to Larson's and John Wei's
+dissertations than to Eichbauer's, for which it was a central
+concern.
+
+Pennington says that the 99-distinction version of the *Decretum*
+"reached the Iberian peninsula" in the form of Bc.
+[@pennington_biography_2018, 366-367] Pennington does not unambiguously
+say that he considers Bc to be of Iberian origin. Winroth, off the
+record, considers Bc to be of Italian origin.
 
   -->
 
@@ -549,12 +556,6 @@ the *Decretum*.
 
 ## Pennington
 
-<!--
-
-Annotated bibliography or historiographical micro-essay:
-
-  -->
-
 Pennington discusses the biography of Gratian directly in his article
 "The Biography of Gratian, the Father of Canon Law", which has
 appeared in multiple, successively revised, versions.[^44] Pennington,
@@ -566,14 +567,6 @@ directed a 2010 dissertation by Melodie Eichbauer, "From Gratian's
 *Concordia discordantium canonum* to Gratian's *Decretum*: The
 Evolution from Teaching Text to Comprehensive Code of Canon Law,
 that contributed to the debate over Sg.
-
-<!--
-
-The debate over Sg was more tangential to Larson's and John Wei's
-dissertations than to Eichbauer's, for which it was a central
-concern.
-
-  -->
 
 Pennington builds on Larson's conjecture that the canon referred
 to at D.63 d.p.c.34 in the first recension and later incorporated
@@ -610,16 +603,6 @@ and poorly if at all integrated into the argument of the
 cites early manuscripts of the *Decretum* with 99 distinctions in
 Part I as evidence for the continuous evolution of the text between
 the first and second recensions.[@pennington_biography_2018, 366]
-
-<!--
-
-Pennington says that the 99-distinction version of the *Decretum*
-"reached the Iberian peninsula" in the form of Bc. Pennington,
-"Biography of Gratian" 2018, 366-367. Pennington does not unambiguously
-say that he considers Bc to be of Iberian origin. Winroth, off the
-record, considers Bc to be of Italian origin.
-
-  -->
 
 Pennington's strongest argument in favor of his position that Sg
 is not an abbreviation is that the unique *Causa Prima* (an ordered
