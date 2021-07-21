@@ -557,38 +557,24 @@ of the *Decretum* eventually became a bishop somewhere, but questions
 whether the person named in the necrology was either the bishop of
 Chiusi, or the author of the *Decretum*. He notes that the necrology
 refers to "Gratian of Chiusi, bishop", not to "Gratian, bishop of
-Chiusi."
-
-Pennington's second reservation concerning the identification of
-the Gratian mentioned in the Siena necrology as "the" Gratian is
-closely related to his reservation about Grebner's identification
-of the Gratian mentioned in the record of the 1143 Venice court
-case: neither record accords Gratian the kind of prominence that
-might be expected for a figure of such importance. Gratian appears
-second on the list of the three legal consultants in the Venice
-case, and is not referred to with the honorific title "*Magister*."
-And the Siena necrology records nothing beyond the bare facts of a
-name, a day (but not year) of death, and that the defunct had been
-a bishop from or of Chiusi.[^tmp] In his assumption, however, that
-Gratian must have been well-known, even famous, in his own lifetime,
-Pennington disagrees with Kuttner, who sees Gratian as a figure of
-shrouded in profound personal obscurity: "He is one of those deeply
-admirable men of pious modesty, like the builders of the medieval
-cathedrals, whose person is hidden and effaced completely behind
-their immortal works."[@kuttner_father_1941, 4].
-
-<!--
-
-Pennington claims to be arguing that there was one Gratian, but is
-in fact arguing that Gratian composed the *Decretum* incrementally
-over the course of a teaching career spanning several decades, which
-is not quite the same thing. Also, Pennington does not address
-Winroth's content-based arguments in favor of the two-author
-hypothesis (e.g., differences between the first and second recensions
-in terms of the levels of sophistication in the use of Justinianic
-Roman Law).
-
-  -->
+Chiusi."[@pennington_biography_2018, 386-387] Pennington's second
+reservation concerning the identification of the Gratian mentioned
+in the Siena necrology as *the* Gratian is closely related to his
+reservation about Grebner's identification of the Gratian mentioned
+in the record of the 1143 Venice court case: neither record accords
+Gratian the kind of prominence that might be expected for a figure
+of such importance. Gratian appears second on the list of the three
+legal consultants in the Venice case, and is not referred to with
+the honorific title "*Magister*." And the Siena necrology records
+nothing beyond the bare facts of a name, a day (but not year) of
+death, and that the defunct had been a bishop from or of Chiusi.[^tmp]
+In his assumption, however, that Gratian must have been well-known,
+even famous, in his own lifetime, Pennington disagrees with Kuttner,
+who sees Gratian as a figure of shrouded in profound personal
+obscurity: "He is one of those deeply admirable men of pious modesty,
+like the builders of the medieval cathedrals, whose person is hidden
+and effaced completely behind their immortal works."[@kuttner_father_1941,
+4].
 
 # Authorship
 
@@ -782,21 +768,18 @@ a field of conceptual or theoretical coherence. Winroth himself
 seems to lean in the direction of defining the author as a constant
 level of value: the *dicta* in the first recension of the *Decretum*
 are in some sense "inferior" to those in the second because they
-reflect a more rudimentary understanding of Roman Law. To be clear,
-the point is not that scholars such as Pennington and Winroth *are*
+reflect a more rudimentary understanding of Roman Law. While
+arguments that Gratian made an explicit ideological choice to
+de-emphasize Roman law do not presently play a large role in scholarly
+debates over the *Decretum*, they have done so in the past and may
+do so again in the future.[@chodorow_ecclesiology_1972, 60-64] To
+make an argument of this kind would be defining the author as a
+field of conceptual or theoretical coherence. To be clear, the
+point is not that scholars such as Pennington and Winroth *are*
 framing their arguments in the terms Foucault borrows from Jerome,
 but rather that if the bigraphical details of their respective
 historical Gratians were abstracted away, their arguments *could*
 be reframed in those terms.
-
-<!--
-
-Vetulani and Chodorow, who consider the omission of Roman law an
-explicit ideological choice on Gratian's part, seem on the other
-hand to lean in the direction of defining the author as a field of
-conceptual or theoretical coherence.
-
-  -->
 
 A work like the *Decretum* can, of course, be evaluated on more
 than one scale of value, and lapses in the Latin grammar of the
