@@ -958,12 +958,19 @@ Washington, D.C: Catholic University of America Press, 2008.
 
 </div>
 
+<div id="ref-winroth_innocent_2008" class="csl-entry">
+
+Winroth, Anders. “Innocent II, Gratian, and Abbe Migne Note.” *Bulletin
+of Medieval Canon Law* 28 (2008): 145–52.
+
+</div>
+
 <div id="ref-winroth_schools_2009" class="csl-entry">
 
-Winroth, Anders. “Law Schools in the Twelfth Century.” In *Mélanges en
-l’honneur d’Anne Lefebvre-Teillard*, edited by Bernard d’Alteroche,
-Florence Demoulin-Auzary, Olivier Deschamps, and Franck Roumy, 1057–64.
-Paris: Éd. Panthéon-Assas, 2009.
+———. “Law Schools in the Twelfth Century.” In *Mélanges en l’honneur
+d’Anne Lefebvre-Teillard*, edited by Bernard d’Alteroche, Florence
+Demoulin-Auzary, Olivier Deschamps, and Franck Roumy, 1057–64. Paris:
+Éd. Panthéon-Assas, 2009.
 
 </div>
 
@@ -971,6 +978,13 @@ Paris: Éd. Panthéon-Assas, 2009.
 
 ———. “Recent Work on the Making of Gratian’s Decretum.” *Bulletin of
 Medieval Canon Law* 26 (2004): 1–29.
+
+</div>
+
+<div id="ref-winroth_making_1996" class="csl-entry">
+
+———. “The Making of Gratian’s Decretum.” PhD thesis, Columbia
+University, 1996.
 
 </div>
 

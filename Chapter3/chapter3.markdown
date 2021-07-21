@@ -981,8 +981,9 @@ was.
 
 <!--
 
-Neither does the Hemingway model comport with the way in which
-modern literary scholars think about authorship.
+Neither does the Hemingway model comport well with the way in which
+authorship has been thought about in theoretically-informed literary
+scholarship over the last half-century.
 
   -->
 <!--
@@ -1285,10 +1286,24 @@ Press, 2008.
 
 </div>
 
+<div id="ref-winroth_innocent_2008" class="csl-entry">
+
+Winroth, Anders. “Innocent II, Gratian, and Abbe Migne Note.” *Bulletin
+of Medieval Canon Law* 28 (2008): 145–52.
+
+</div>
+
 <div id="ref-winroth_recent_2004" class="csl-entry">
 
-Winroth, Anders. “Recent Work on the Making of Gratian’s Decretum.”
-*Bulletin of Medieval Canon Law* 26 (2004): 1–29.
+———. “Recent Work on the Making of Gratian’s Decretum.” *Bulletin of
+Medieval Canon Law* 26 (2004): 1–29.
+
+</div>
+
+<div id="ref-winroth_making_1996" class="csl-entry">
+
+———. “The Making of Gratian’s Decretum.” PhD thesis, Columbia
+University, 1996.
 
 </div>
 
@@ -1594,21 +1609,20 @@ in the second recension, but this turned out to be an accident of the
 specific sections I used as case studies (C. 24 and C.11 q.3)." (Anders
 Winroth, email to Paul Evans, 18 May 2021).
 
-[40] Cite Winroth's dissertation, 345, where he appears open to the
-possibility that D.63 d.p.c.34 is an interpolation, without committing
-to it. Winroth ultimately accepted the argument of Rudolf Weigand
-(†1998) that the interpolation hypothesis is a slippery slope---once you
-start rejecting problematic passages because they are inconvenient
-(chronologically or otherwise), there is no obvious place at which to
-stop.
+[40] See Anders Winroth, “The Making of Gratian’s Decretum” (Columbia
+University, 1996), 345, where he appears open to the possibility that
+D.63 d.p.c.34 is an interpolation, without committing to it. Winroth
+ultimately accepted the argument of Rudolf Weigand (†1998) that the
+interpolation hypothesis is a slippery slope---once you start rejecting
+problematic passages because they are inconvenient (chronologically or
+otherwise), there is no obvious place at which to stop.
 
 [41] See Larson, “Early Stages of Gratian’s Decretum and the Second
-Lateran Council”. **Winroth's rebuttal is in "Innocent II, Gratian, and
-Abbé Migne", *Bulletin of Medieval Canon Law*, 28 (2008), 145–51.**
+Lateran Council”, along with Winroth's rebuttal Anders Winroth,
+“Innocent II, Gratian, and Abbe Migne Note,” *Bulletin of Medieval Canon
+Law* 28 (2008): 145–52.
 
-[42] See Winroth, “Where Gratian Slept”. The article expands on a
-presentation given by Winroth at the Fourteenth International Congress
-of Medieval Canon Law, Toronto, 2012.
+[42] Winroth, “Where Gratian Slept.”
 
 [43] Much of the debate over whether the *Decretum* was the result of a
 continuous or discontinuous process of composition has focused on the

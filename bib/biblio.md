@@ -120,6 +120,8 @@ nocite: |
   @weigand_development_2008
   @weigand_glossen_1991
   @weigand_kanonisten_1990
+  @winroth_innocent_2008
+  @winroth_making_1996
   @winroth_making_2000
   @winroth_recent_2004
   @winroth_schools_2009

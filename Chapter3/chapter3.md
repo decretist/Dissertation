@@ -516,13 +516,13 @@ Furthermore, Winroth accepts an entry in a Siena necrology (Siena,
 Biblioteca Comunale degli Intronati F.I.2, f.5r) brought to scholarly
 attention by Francesco Reali as evidence that Gratian, the author
 of the first recension, died as bishop of Chiusi on the feast day
-of St. Lawrence (August 10) in either 1144 or 1145.[^42] The datum
-provided by the necrology, recording the death of a "Gratian of
-Chiusi, bishop", considered along with Winroth's axiomatic assumption
-of an 1139 *terminus post quem* for the first recension, strengthens
-the case from his perspective that Gratian, having been elevated
-to a bishopric not long after having finished work on the first
-recension, was unlikely to have been the author of the second
+of St. Lawrence (August 10) in either 1144 or 1145.[@winroth_where_2013]
+The datum provided by the necrology, recording the death of a
+"Gratian of Chiusi, bishop", considered along with Winroth's axiomatic
+assumption of an 1139 *terminus post quem* for the first recension,
+strengthens the case from his perspective that Gratian, having been
+elevated to a bishopric not long after having finished work on the
+first recension, was unlikely to have been the author of the second
 recension.
 
 <!--
@@ -1032,8 +1032,9 @@ circumstances, the *Decretum* was.
 
 <!--
 
-Neither does the Hemingway model comport with the way in which
-modern literary scholars think about authorship.
+Neither does the Hemingway model comport well with the way in which
+authorship has been thought about in theoretically-informed literary
+scholarship over the last half-century.
 
   -->
 
@@ -1277,7 +1278,7 @@ but this turned out to be an accident of the specific sections I
 used as case studies (C. 24 and C.11 q.3)." (Anders Winroth, email
 to Paul Evans, 18 May 2021).
 
-[^40]: Cite Winroth's dissertation, 345, where he appears open to
+[^40]: See @winroth_making_1996 [345], where he appears open to
 the possibility that D.63 d.p.c.34 is an interpolation, without
 committing to it. Winroth ultimately accepted the argument of Rudolf
 Weigand (†1998) that the interpolation hypothesis is a slippery
@@ -1285,13 +1286,8 @@ slope---once you start rejecting problematic passages because they
 are inconvenient (chronologically or otherwise), there is no obvious
 place at which to stop.
 
-[^41]: See @larson_early_2007. **Winroth's rebuttal is in "Innocent
-II, Gratian, and Abbé Migne", *Bulletin of Medieval Canon Law*, 28
-(2008), 145–51.**
-
-[^42]: See @winroth_where_2013. The article expands on a presentation
-given by Winroth at the Fourteenth International Congress of Medieval
-Canon Law, Toronto, 2012.
+[^41]: See @larson_early_2007, along with Winroth's rebuttal in
+@winroth_innocent_2008.
 
 [^43]: Much of the debate over whether the *Decretum* was the result
 of a continuous or discontinuous process of composition has focused
