@@ -542,6 +542,8 @@ cites early manuscripts of the *Decretum* with 99 distinctions in
 Part I as evidence for the continuous evolution of the text between
 the first and second recensions.[@pennington_biography_2018, 366]
 
+<!-- This paragraph needs more work. -->
+
 Pennington's strongest argument in favor of his position that Sg
 is not an abbreviation is that the unique *Causa Prima* (an ordered
 subset of canons and *dicta* from Part I of the first recension of
@@ -1213,13 +1215,13 @@ for a good recent overview of these debates.
 [^44]: @pennington_biography_2014; @pennington_biografia_2014; and 
 @pennington_biography_2018.
 
-[^46]: Pennington asserts that "[t]he main reason that Winroth
-created a second 'Gratian' is because of a text [D.63 d.p.c.34]
-that is found in all pre-Vulgate manuscripts." @pennington_biography_2018
-[362]. **Placeholder for Larson footnote** D.63 d.p.c.34 *is*
-central to Winroth's arguments in favor of a late date for the first
-recension (1139), and for a short teaching career for Gratian, but
-is not relevant to his argument in favor of the two-author hypothesis.
+[^46]: See @larson_early_2007. Pennington asserts that "[t]he main
+reason that Winroth created a second 'Gratian' is because of a text
+[D.63 d.p.c.34] that is found in all pre-Vulgate manuscripts."
+@pennington_biography_2018 [362]. D.63 d.p.c.34 *is* central to
+Winroth's arguments in favor of a late date for the first recension
+(1139), and for a short teaching career for Gratian, but is not
+relevant to his argument in favor of the two-author hypothesis.
 "The reference to Lateran II only proves that the *Decretum*, as
 transmitted by extant manuscripts (and I have checked several dozens,
 'vulgate' as well as 'pre-vulgate'), cannot have been written before

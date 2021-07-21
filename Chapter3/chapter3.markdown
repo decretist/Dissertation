@@ -509,6 +509,8 @@ of the *Decretum*.[49] Pennington also cites early manuscripts of the
 *Decretum* with 99 distinctions in Part I as evidence for the continuous
 evolution of the text between the first and second recensions.[50]
 
+<!-- This paragraph needs more work. -->
+
 Pennington's strongest argument in favor of his position that Sg is not
 an abbreviation is that the unique *Causa Prima* (an ordered subset of
 canons and *dicta* from Part I of the first recension of the *Decretum*)
@@ -1564,23 +1566,25 @@ Biography of Gratian, the Father of Canon Law”.
 Jurisprudence,” in *Panta Rei: Studi Dedicati a Manlio Bellomo*, ed.
 Orazio Condorelli, vol. 4 (Roma: Il Cigno, 2004), 339–55.
 
-[46] Pennington asserts that "\[t\]he main reason that Winroth created a
-second 'Gratian' is because of a text \[D.63 d.p.c.34\] that is found in
-all pre-Vulgate manuscripts." Pennington, “The Biography of Gratian, the
-Father of Canon Law,” 362. **Placeholder for Larson footnote** D.63
-d.p.c.34 *is* central to Winroth's arguments in favor of a late date for
-the first recension (1139), and for a short teaching career for Gratian,
-but is not relevant to his argument in favor of the two-author
-hypothesis. "The reference to Lateran II only proves that the
-*Decretum*, as transmitted by extant manuscripts (and I have checked
-several dozens, 'vulgate' as well as 'pre-vulgate'), cannot have been
-written before 1139." (Anders Winroth, email to Paul Evans, 18 May
-2021). As noted in Chapter 2 and the footnote above, the original basis
-for Winroth's two-author hypothesis was that the second recension makes
-much more sophisticated use of Roman law concepts and terminology than
-the first recension.
+[46] See Larson, “Early Stages of Gratian’s Decretum and the Second
+Lateran Council”. Pennington asserts that "\[t\]he main reason that
+Winroth created a second 'Gratian' is because of a text \[D.63
+d.p.c.34\] that is found in all pre-Vulgate manuscripts." Pennington,
+“The Biography of Gratian, the Father of Canon Law,” 362. D.63 d.p.c.34
+*is* central to Winroth's arguments in favor of a late date for the
+first recension (1139), and for a short teaching career for Gratian, but
+is not relevant to his argument in favor of the two-author hypothesis.
+"The reference to Lateran II only proves that the *Decretum*, as
+transmitted by extant manuscripts (and I have checked several dozens,
+'vulgate' as well as 'pre-vulgate'), cannot have been written before
+1139." (Anders Winroth, email to Paul Evans, 18 May 2021). As noted in
+Chapter 2 and the footnote above, the original basis for Winroth's
+two-author hypothesis was that the second recension makes much more
+sophisticated use of Roman law concepts and terminology than the first
+recension.
 
-[47] Pennington, 365.
+[47] Pennington, “The Biography of Gratian, the Father of Canon Law,”
+365.
 
 [48] Pennington, 367; and Melodie Harris Eichbauer, “From the First to
 the Second Recension: The Progressive Evolution of the Decretum,”
