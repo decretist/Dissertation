@@ -1618,7 +1618,7 @@ problematic passages because they are inconvenient (chronologically or
 otherwise), there is no obvious place at which to stop.
 
 [41] See Larson, “Early Stages of Gratian’s Decretum and the Second
-Lateran Council”, along with Winroth's rebuttal Anders Winroth,
+Lateran Council”, along with Winroth's rebuttal in Anders Winroth,
 “Innocent II, Gratian, and Abbe Migne Note,” *Bulletin of Medieval Canon
 Law* 28 (2008): 145–52.
 
