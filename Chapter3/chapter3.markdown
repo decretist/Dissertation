@@ -890,14 +890,6 @@ to Gratian as his *magister* "frequently," but I can't find the
 reference.
 
   -->
-<!--
-
-"*Illud quoque diligenter attendi convenit ne ... falsa tituli
-inscriptione vel scripturae ipsius corruptione fallamur ... Unde
-fidelissimus scriptor et veracissimus interpres Hieronymus ... nos
-praemonuit.*" Boyer and McKeon, 91.
-
-  -->
 
 # Bibliography
 
@@ -909,6 +901,13 @@ Abelard, Peter. “Prologue to the Yes and No.” In *Medieval Literary
 Theory and Criticism, c.1100-c.1375: The Commentary Tradition*, edited
 by A. J. Minnis, A. Brian Scott, and David Wallace, 87–100. Oxford:
 Clarendon Press, 1988.
+
+</div>
+
+<div id="ref-abelard_sic_1977" class="csl-entry">
+
+———. *Sic Et Non: A Critical Edition*. Edited by Blanche Beatrice Boyer
+and Richard McKeon. Chicago: University of Chicago Press, 1977.
 
 </div>
 
@@ -1653,13 +1652,18 @@ Press, 1998), 205–22.
 
 [67] Foucault, 214.
 
-[68] "We must also be very careful not to be deceived by a false
-attribution of authorship or by a corrupt text ... Jerome, that most
-reliable writer and most faithful translator, has given us forewarning
-of this." Peter Abelard, “Prologue to the Yes and No,” in *Medieval
-Literary Theory and Criticism, c.1100-c.1375: The Commentary Tradition*,
-ed. A. J. Minnis, A. Brian Scott, and David Wallace (Oxford: Clarendon
-Press, 1988), 89.
+[68] "*Illud quoque diligenter attendi convenit ne ... falsa tituli
+inscriptione vel scripturae ipsius corruptione fallamur ... Unde
+fidelissimus scriptor et veracissimus interpres Hieronymus ... nos
+praemonuit.*" Peter Abelard, *Sic Et Non: A Critical Edition*, ed.
+Blanche Beatrice Boyer and Richard McKeon (Chicago: University of
+Chicago Press, 1977), 91. "We must also be very careful not to be
+deceived by a false attribution of authorship or by a corrupt text ...
+Jerome, that most reliable writer and most faithful translator, has
+given us forewarning of this." Peter Abelard, “Prologue to the Yes and
+No,” in *Medieval Literary Theory and Criticism, c.1100-c.1375: The
+Commentary Tradition*, ed. A. J. Minnis, A. Brian Scott, and David
+Wallace (Oxford: Clarendon Press, 1988), 89.
 
 [69] Foucault, “What Is an Author?” 214. Foucault claims to have derived
 the four criteria for determining whether a given "discursive set" has
