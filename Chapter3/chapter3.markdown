@@ -130,7 +130,7 @@ Simon of Bisignano (fl. 1174--1179), and Omnibonus or Omnebene of Verona
 Paucapalea was easily the most prominent figure from the early period of
 the Bolognese school of decretists who followed in Gratian's immediate
 footsteps. Pennington flatly states that Paucapalea was "\[a\] pupil of
-Gratian and the author of the first commentary on the *Decretum*".[7]
+Gratian and the author of the first commentary on the *Decretum*."[7]
 But in the preface to that commentary, Paucapalea does not refer to
 Gratian by name: "*Magistri autem hoc opus condentis ipsa decreta sunt
 materia.* The decrees themselves, however, are the subject matter of the
@@ -232,7 +232,7 @@ canonist. Although it is not quite chronologically impossible for Simon
 to have been Gratian's student, it seems far more likely that he
 described himself as *discipulus* in something like the same sense that
 we might describe contemporary scholars like Chodorow, Pennington, and
-Winroth as "students of Gratian". Yet again, we appear to dealing with
+Winroth as "students of Gratian." Yet again, we appear to dealing with
 statements that on the surface appear to be about the biography of
 Gratian---a claim by Simon that he had been Gratian's student---but that
 should more plausibly be read as an acknowledgement of Gratian's
@@ -300,7 +300,7 @@ scholastic theology in northern France than we can easily explain.[23]
 
 The starting point for all modern scholarship on Gratian himself is John
 T. Noonan Jr.'s classic 1979 *Traditio* article "Gratian slept here: The
-changing identity of the father of the systematic study of canon law".
+changing identity of the father of the systematic study of canon law."
 Noonan's approach is apophatic, demonstrating that there is no sound
 historical basis for most of the affirmative statements that many
 mid-twentieth century handbooks and reference works presented as
@@ -906,7 +906,7 @@ Clarendon Press, 1988.
 
 <div id="ref-abelard_sic_1977" class="csl-entry">
 
-———. *Sic Et Non: A Critical Edition*. Edited by Blanche Beatrice Boyer
+———. *Sic et non: a critical edition*. Edited by Blanche Beatrice Boyer
 and Richard McKeon. Chicago: University of Chicago Press, 1977.
 
 </div>
@@ -1254,7 +1254,7 @@ University Press, 1998), 200–201.
 
 [5] R.W. Southern asserts that no one claims to have been Gratian's
 student---"none of the earliest users of his work claims to have been
-taught by him". "although other scholars made some very early
+taught by him." "although other scholars made some very early
 alterations and additions to the text of the *Decretum*, none of them
 claimed to have been taught by him." R. W. Southern, *Scholastic
 Humanism and the Unification of Europe*, vol. 1 (Oxford, UK ; Cambridge,
@@ -1451,7 +1451,7 @@ ways. This is what Gratian did. He engaged in a very un-monastic branch
 of study, and produced a law book which became the most widely
 distributed and probably most generally used of all the masterpieces of
 twelfth-century learning." "the book, and not the teaching of pupils,
-was the offering Gratian's monastic life brought to the Church".
+was the offering Gratian's monastic life brought to the Church."
 Southern, *Scholastic Humanism and the Unification of Europe*, 1:286–87,
 304.
 
@@ -1655,7 +1655,7 @@ Press, 1998), 205–22.
 [68] "*Illud quoque diligenter attendi convenit ne ... falsa tituli
 inscriptione vel scripturae ipsius corruptione fallamur ... Unde
 fidelissimus scriptor et veracissimus interpres Hieronymus ... nos
-praemonuit.*" Peter Abelard, *Sic Et Non: A Critical Edition*, ed.
+praemonuit.*" Peter Abelard, *Sic et non: a critical edition*, ed.
 Blanche Beatrice Boyer and Richard McKeon (Chicago: University of
 Chicago Press, 1977), 91. "We must also be very careful not to be
 deceived by a false attribution of authorship or by a corrupt text ...
