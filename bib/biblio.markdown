@@ -11,6 +11,13 @@ Clarendon Press, 1988.
 
 </div>
 
+<div id="ref-abelard_sic_1977" class="csl-entry">
+
+———. *Sic Et Non: A Critical Edition*. Edited by Blanche Beatrice Boyer
+and Richard McKeon. Chicago: University of Chicago Press, 1977.
+
+</div>
+
 <div id="ref-adair_authorship_1944a" class="csl-entry">
 
 Adair, Douglass. “The Authorship of the Disputed Federalist Papers.”

@@ -2,6 +2,7 @@
 bibliography: merged.bib
 csl: ../csl/chicago-fullnote-bibliography.csl
 nocite: |
+  @abelard_sic_1977
   @abelard_prologue_1988
   @adair_authorship_1944a
   @adair_authorship_1944b
