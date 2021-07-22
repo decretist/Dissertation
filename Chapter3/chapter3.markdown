@@ -413,7 +413,7 @@ article, "Recent Work on the making of Gratian's Decretum,"[37] and his
 views on Sg influence the arguments he makes about the trajectory of
 Gratian's teaching career.
 
-Winroth adopts the convention in *The Making of Gratians's Decretum* of
+Winroth adopts the convention in *The Making of Gratian's Decretum* of
 referring to the author of the first recension as Gratian 1 and to the
 author of the second recension as Gratian 2. The arguments he makes in
 the first five chapters of his book are agnostic as to whether Gratian 1
@@ -496,10 +496,10 @@ of the *Decretum*.
 Pennington, building on Eichbauer's findings, argues that because the
 number of additional canons found in the margins of the Barcelona (Bc)
 manuscript, and in both the margins and appendices of the Admont (Aa)
-and and Florence (Fd) manuscripts, fall well short of the number that
-would be expected if they had been copied from a vulgate manuscript of
-the *Decretum* (87 are missing from Aa, and 62 are missing from Fd),
-these manuscripts represent an intermediate "next-to-last" stage in the
+and Florence (Fd) manuscripts, fall well short of the number that would
+be expected if they had been copied from a vulgate manuscript of the
+*Decretum* (87 are missing from Aa, and 62 are missing from Fd), these
+manuscripts represent an intermediate "next-to-last" stage in the
 development of the *Decretum* text between the pre-vulgate and vulgate
 versions.[48] Furthermore, the fact that the Lateran II canons *are*
 present in this "next-to-last" stage undermines the argument going back
@@ -732,9 +732,9 @@ may do so again in the future.[70] To make an argument of this kind
 would be defining the author as a field of conceptual or theoretical
 coherence. To be clear, the point is not that scholars such as
 Pennington and Winroth *are* framing their arguments in the terms
-Foucault borrows from Jerome, but rather that if the bigraphical details
-of their respective historical Gratians were abstracted away, their
-arguments *could* be reframed in those terms.
+Foucault borrows from Jerome, but rather that if the biographical
+details of their respective historical Gratians were abstracted away,
+their arguments *could* be reframed in those terms.
 
 A work like the *Decretum* can, of course, be evaluated on more than one
 scale of value, and lapses in the Latin grammar of the case statements
@@ -1668,7 +1668,7 @@ Wallace (Oxford: Clarendon Press, 1988), 89.
 [69] Foucault, “What Is an Author?” 214. Foucault claims to have derived
 the four criteria for determining whether a given "discursive set" has
 one or several authors from Jerome's *De Viris illustribus*. He
-provides, however, no citations. Walzer and Inabinit indicate that
+provides, however, no citations. Walzer and Inabinet indicate that
 "similar principles" can be found in Karl Kelchner Hulley, “Principles
 of Textual Criticism Known to St. Jerome,” *Harvard Studies in Classical
 Philology* 55 (1944): 105–9. Arthur E. Walzer and Brandon M. Inabinet,

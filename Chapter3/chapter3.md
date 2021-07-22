@@ -439,7 +439,7 @@ BMCL article, "Recent Work on the making of Gratian's
 Decretum,"[@winroth_recent_2004] and his views on Sg influence the
 arguments he makes about the trajectory of Gratian's teaching career.
 
-Winroth adopts the convention in *The Making of Gratians's Decretum*
+Winroth adopts the convention in *The Making of Gratian's Decretum*
 of referring to the author of the first recension as Gratian 1 and
 to the author of the second recension as Gratian 2. The arguments
 he makes in the first five chapters of his book are agnostic as to
@@ -527,7 +527,7 @@ first recension of the *Decretum*.
 Pennington, building on Eichbauer's findings, argues that because
 the number of additional canons found in the margins of the Barcelona
 (Bc) manuscript, and in both the margins and appendices of the
-Admont (Aa) and and Florence (Fd) manuscripts, fall well short of
+Admont (Aa) and Florence (Fd) manuscripts, fall well short of
 the number that would be expected if they had been copied from a
 vulgate manuscript of the *Decretum* (87 are missing from Aa, and
 62 are missing from Fd), these manuscripts represent an intermediate
@@ -779,7 +779,7 @@ make an argument of this kind would be defining the author as a
 field of conceptual or theoretical coherence. To be clear, the
 point is not that scholars such as Pennington and Winroth *are*
 framing their arguments in the terms Foucault borrows from Jerome,
-but rather that if the bigraphical details of their respective
+but rather that if the biographical details of their respective
 historical Gratians were abstracted away, their arguments *could*
 be reframed in those terms.
 
@@ -1275,7 +1275,7 @@ faithful translator, has given us forewarning of this."
 [^69]: @foucault_what_1998 [214]. Foucault claims to have derived
 the four criteria for determining whether a given "discursive set"
 has one or several authors from Jerome's *De Viris illustribus*.
-He provides, however, no citations. Walzer and Inabinit indicate
+He provides, however, no citations. Walzer and Inabinet indicate
 that "similar principles" can be found in @hulley_principles_1944
 [105-109].  @walzer_who_2011 [188]. The section of Hulley's article
 on "various points pertinent to questions of authorship" is in fact
