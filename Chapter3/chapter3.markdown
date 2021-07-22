@@ -509,15 +509,14 @@ of the *Decretum*.[49] Pennington also cites early manuscripts of the
 *Decretum* with 99 distinctions in Part I as evidence for the continuous
 evolution of the text between the first and second recensions.[50]
 
-<!-- This paragraph needs more work. -->
-
 Pennington's strongest argument in favor of his position that Sg is not
 an abbreviation is that the unique *Causa Prima* (an ordered subset of
 canons and *dicta* from Part I of the first recension of the *Decretum*)
 includes neither texts from the *tractatus de legibus* (distinctions
 1-20) nor from the "epilogue" (distinctions 81-101). Moreover, four
-cases, 24-26 and 28, are missing from Sg entirely. Why, Pennington asks,
-would an abbreviator do this?
+cases, 24-26 and 28, are missing from Sg entirely. There would have been
+no compelling reason for an abbreviator starting from a pre-vulgate
+version of the *Decretum* to make such changes.[51]
 
 There are two aspects to Pennington's reservations about identifying the
 Gratian named in the Siena necrology with the author of the *Decretum*.
@@ -525,7 +524,7 @@ Pennington is open to the possibility that the author of the *Decretum*
 eventually became a bishop somewhere, but questions whether the person
 named in the necrology was either the bishop of Chiusi, or the author of
 the *Decretum*. He notes that the necrology refers to "Gratian of
-Chiusi, bishop", not to "Gratian, bishop of Chiusi."[51] Pennington's
+Chiusi, bishop", not to "Gratian, bishop of Chiusi."[52] Pennington's
 second reservation concerning the identification of the Gratian
 mentioned in the Siena necrology as *the* Gratian is closely related to
 his reservation about Grebner's identification of the Gratian mentioned
@@ -535,41 +534,41 @@ such importance. Gratian appears second on the list of the three legal
 consultants in the Venice case, and is not referred to with the
 honorific title "*Magister*." And the Siena necrology records nothing
 beyond the bare facts of a name, a day (but not year) of death, and that
-the defunct had been a bishop from or of Chiusi.[52] In his assumption,
+the defunct had been a bishop from or of Chiusi.[53] In his assumption,
 however, that Gratian must have been well-known, even famous, in his own
 lifetime, Pennington disagrees with Kuttner, who sees Gratian as a
 figure of shrouded in profound personal obscurity: "He is one of those
 deeply admirable men of pious modesty, like the builders of the medieval
 cathedrals, whose person is hidden and effaced completely behind their
-immortal works.".[53]
+immortal works.".[54]
 
 # Authorship
 
 Authorship on any significant scale in the pre-modern world required
 wrapping a specialized and expensive scribal infrastructure around the
-figure of the author.[54] Three examples from classical and late
+figure of the author.[55] Three examples from classical and late
 antiquity illustrate the possible ways in which this requirement could
 be met. Cicero (†43 BCE) pursued his literary ambitions with the support
 of highly skilled but unfree labor purchased out of his personal wealth,
 most famously his slave and later freedman Tiro. A wealthy lay patron
 named Ambrose paid for the secretarial staff that supported the
-authorial activities of Origen of Alexandria (†253).[55] Quasi-monastic
+authorial activities of Origen of Alexandria (†253).[56] Quasi-monastic
 members of the episcopal household of Augustine of Hippo (†430) provided
 the scribal support that made his prodigious authorial output possible.
 The mode of production pioneered by Augustine and his household in which
 monastic labor enabled the creation of original texts by their authors
 as well as the subsequent copying and circulation of finished texts
 proved a durable one, and predominated in the Latin West until the
-thirteenth century.[56]
+thirteenth century.[57]
 
 Given the material and social technologies for authorship available in
 the twelfth century, creation of a text the size of Gratian's *Decretum*
 would necessarily have been a collaborative effort. Pennington has noted
-that "Gratian may have had an atelier of assistants,"[57] but that
+that "Gratian may have had an atelier of assistants,"[58] but that
 observation suggests that the nature of the collaboration between
 Gratian and those Pennington conceives of as his assistant needs to be
 examined more closely. What substantive intellectual contributions, if
-any, did Gratian's collaborators make to the project?[58] There are a
+any, did Gratian's collaborators make to the project?[59] There are a
 number of indications, discussed in the previous chapter, that the
 *Decretum* outgrew the ability of a single author to effectively manage
 the development of the text. The question is whether Gratian's partial
@@ -577,7 +576,7 @@ loss of control of the project opened up a space for genuinely
 collaborative authorship. The starting point for this inquiry is a
 theoretically informed understanding of what authorship is.
 
-The recent work on the life of Gratian by Pennington and Winroth[59]
+The recent work on the life of Gratian by Pennington and Winroth[60]
 reviewed in the preceding section tacitly assumes that if we can
 identify the historical Gratian, we will have identified the author of
 the *Decretum* (or at least the author of the first recension), with
@@ -593,7 +592,7 @@ Barthes's 1967 essay "The Death of the Author" and Michel Foucault's
 1969 response "What Is an Author?" are foundational readings in the
 theory of authorship, and provide an appropriate starting point for a
 theoretically-informed reconsideration of the authorship of Gratian's
-*Decretum*.[60]
+*Decretum*.[61]
 
 ## Barthes
 
@@ -615,12 +614,12 @@ authorship he is arguing against and the term "author" where he intends
 to use the word in its more general and non-technical sense. An Author
 is the creative intellect uniquely responsible for a literary text, and
 "is in the same relation of antecedence to his work as a father to his
-child."[61] Barthes argues that authors cannot be Authors---no person or
+child."[62] Barthes argues that authors cannot be Authors---no person or
 persons can have a parent-child relationship to a text since all
 literary texts are socially constructed. Barthes's observation is
 directly relevant to the problem of the authorship of the *dicta*. They
 are "a tissue of quotations drawn from the innumerable centres of
-culture."[62] Gratian may therefore be the author of the *dicta* but he
+culture."[63] Gratian may therefore be the author of the *dicta* but he
 is not their Author.
 
 Barthes's central argument is against precisely the kind of reading that
@@ -631,7 +630,7 @@ is prevalent in scholarship on Gratian and the *Decretum*:
 > suits criticism very well, the latter then allotting itself the
 > important task of discovering the Author (or its hypostases: society,
 > history, psyche, liberty) beneath the work: when the Author has been
-> found, the text is 'explained' - victory to the critic.[63]
+> found, the text is 'explained' - victory to the critic.[64]
 
 Barthes uses the term "scriptor" to indicate an alternative
 conceptualization of authorship in which the performative aspect of the
@@ -643,7 +642,7 @@ author of the *dicta* is therefore, using Barthes's definitions, both
 scriptor and critic. The *dicta* were originally delivered in a
 classroom setting, and thus have both a performative and a
 contemporaneous aspect ("there is no other time than that of the
-enunciation and every text is eternally written *here* and *now*"[64]).
+enunciation and every text is eternally written *here* and *now*"[65]).
 The *dicta* are also the record of a particular close-reading of a
 selection of authoritative texts. Barthes's critique of the concept of
 the Author, then, suggests some interesting ways in which the
@@ -661,14 +660,14 @@ historians (including those who have written about Gratian's authorship
 of the *Decretum*) take for granted. In place of the conceptualization
 of authorship rendered suspect by Barthes, Foucault proposes the idea of
 the "author function." He starts by asking "\[w\]hat is an author's
-name? How does it function?"[65] and then goes on to observe:
+name? How does it function?"[66] and then goes on to observe:
 
 > ... if we proved that Shakespeare did not write those sonnets which
 > pass for his, that would constitute a significant change and affect
 > the manner in which the author's name functions. If we proved that
 > Shakespeare wrote Bacon's *Organon* by showing that the same author
 > wrote both the works of Bacon and those of Shakespeare, that would ...
-> entirely modify the functioning of the author's name.[66]
+> entirely modify the functioning of the author's name.[67]
 
 Foucault has a reputation for using esoteric vocabulary in his
 writing---his critics would say jargon---in a way that many historians
@@ -685,7 +684,7 @@ from Jerome (†420).
 > In *De Viris illustribus*, Saint Jerome explains that homonymy is not
 > sufficient to identify legitimately authors of more than one work ...
 > The name as an individual trademark is not enough when one works
-> within a textual tradition.[67]
+> within a textual tradition.[68]
 
 This is significant. We face in the *Decretum* a problem concerning
 authorship that medieval textual scholars like Abelard and Gratian
@@ -694,12 +693,12 @@ the name of Gratian became attached quite early on "as an individual
 trademark." Furthermore, Foucault's theory of literary authorship is
 substantially derived from the work of the figure that Gratian's
 twelfth-century contemporaries, most notably Abelard, considered
-supremely authoritative on precisely this kind of problem.[68]
+supremely authoritative on precisely this kind of problem.[69]
 
 > How, then can one attribute several discourses to one and the same
 > author? How can one use the author function to determine if one is
 > dealing with one or several individuals? Saint Jerome proposes four
-> criteria:[69]
+> criteria:[70]
 
 Each of Jerome's four criteria is a criterion for the *exclusion* of a
 given text from the canon of a particular author. Three of the four
@@ -728,7 +727,7 @@ in the second because they reflect a more rudimentary understanding of
 Roman Law. While arguments that Gratian made an explicit ideological
 choice to de-emphasize Roman law do not presently play a large role in
 scholarly debates over the *Decretum*, they have done so in the past and
-may do so again in the future.[70] To make an argument of this kind
+may do so again in the future.[71] To make an argument of this kind
 would be defining the author as a field of conceptual or theoretical
 coherence. To be clear, the point is not that scholars such as
 Pennington and Winroth *are* framing their arguments in the terms
@@ -755,12 +754,12 @@ coniugem petit* (Finally he who had previously pleased her (*sibi*)
 comes, and asks \[for\] her in marriage to himself)." (trans. PLE) It is
 outside the scope of this dissertation to follow up on anecdotal
 evidence of this kind, but the example at least suggests a possible
-direction for future research.[71]
+direction for future research.[72]
 
 > \(4\) finally, passages quoting statements made or mentioning events
 > that occurred after the author's death must be regarded as
 > interpolated texts (the author is seen as a historical figure at the
-> crossroads of a certain number of events).[72]
+> crossroads of a certain number of events).[73]
 
 The fourth criterion that Foucault derives from Jerome is, for obvious
 reasons, the most attractive one from the point of view of the
@@ -804,77 +803,6 @@ way, and applied using computational techniques unimaginable certainly
 to Jerome and perhaps even to Foucault, but conceptually it is Jerome's
 insight that guides the work in the following chapter.
 
-------------------------------------------------------------------------
-
-# Conclusion
-
-The purpose of this chapter in the original outline of my dissertation
-limited and clearly defined: to show that there was no information in
-the known biography of Gratian, either from findings of modern scholars
-such as Noonan, Winroth, and Pennington, or from testimony provided by
-near-contemporaries such as the authors of the prefaces to 12th-century
-*summae* on the *Decretum*, that contradicted or precluded the
-possibility that the case statements and *dicta* had different authors.
-None of the near-contemporaries most plausibly linked with Gratian and
-his project make an unambiguous claim to have been his student or to
-have otherwise had first-hand knowledge of the circumstances under which
-the *Decretum* was compiled. Similarly, nothing in modern scholarship
-precludes or contradicts the possibility that the *Decretum* was a
-product of collective or group authorship. (Pennington has advanced an
-Occam's razor argument against multiplying Gratians in the absence of
-compelling evidence for their existence: *pluralitas non est ponenda
-sine necessitate*. That is not the same as affirmatively arguing that
-the *dicta* in Gratian's *Decretum* were written by a single author. The
-following chapter offers what I hope Pennington will accept as
-sufficiently persuasive evidence for collaborative or group authorship
-of the *dicta*.)
-
-In November 2014, early in the project, I reported on work in progress
-at an event hosted by the Maryland Institute for Technology in the
-Humanities (MITH). I explained the project in simplified terms for a
-non-medievalist audience as an attempt to use computational methods to
-resolve a long-standing debate between two leading figures in the field
-over whether Gratian's *Decretum* was written by one author or two. I
-then shared the preliminary finding that the results of principal
-component analysis of the *dicta* were not compatible with either the
-one-author or the two-author hypothesis. Neil Fraistat, the director of
-MITH, observed: "if the answer doesn't make sense, you're asking the
-wrong question." After thinking about Fraistat's challenge over a span
-of many years, I eventually arrived at an understanding of why it is
-asking the wrong question to ask whether Gratian's *Decretum* was
-written by one author or two. As a result, this chapter outgrew its
-original outline.
-
-Modern historians tacitly assume a model of authorship more appropriate
-to the study of twentieth-century literary works than to the study of a
-complex scholastic text like the *Decretum*. (The image of Hemingway
-typing the manuscript for a novel comes to mind.) They have looked to
-near-contemporaries for evidence regarding the authorship of the
-*Decretum*, again tacitly assuming that those near-contemporaries
-understood authorship in the same way they do, and that therefore
-whatever those witnesses had to say on the matter could be understood in
-those terms. That does not appear to be the case.
-
-<!--
-
-Modern historians and their sources have in some sense been talking
-past each other.
-
-  -->
-
-Asking whether the Decretum has one or two authors will not result in a
-meaningful answer, because it uncritically presupposes a definition of
-"author" that is not meaningful when applied to a text composed when,
-and under the intellectual and material circumstances, the *Decretum*
-was.
-
-<!--
-
-Neither does the Hemingway model comport well with the way in which
-authorship has been thought about in theoretically-informed literary
-scholarship over the last half-century.
-
-  -->
 <!--
 
 *Chronique de Robert de Torigny*, ed. Léopold Delisle, 183-184.
@@ -1594,65 +1522,67 @@ the Second Recension: The Progressive Evolution of the Decretum,”
 
 [50] Pennington, 366.
 
-[51] Pennington, 386–87.
+[51] Pennington, 379–80.
 
-[52] "The final problem with this entry in the Sienese necrology is that
+[52] Pennington, 386–87.
+
+[53] "The final problem with this entry in the Sienese necrology is that
 if this is the Gratian who compiled one of the most famous textbooks of
 the twelfth century and who taught canon law at Bologna for a long time,
 can we believe that he would have been given such a modest entry?"
 Pennington, 387.
 
-[53] Kuttner, “The Father of the Science of Canon Law,” 4.
+[54] Kuttner, “The Father of the Science of Canon Law,” 4.
 
-[54] James Joseph O’Donnell, *Augustine: A New Biography*, 1st ed. (New
+[55] James Joseph O’Donnell, *Augustine: A New Biography*, 1st ed. (New
 York: HarperCollins Publishers, 2005), 136, 139. The need for scribal or
 secretarial support presupposes that authors create texts by dictating
 them.
 
-[55] John Anthony McGuckin, "The Life of Origen (ca. 186–255)" in *The
+[56] John Anthony McGuckin, "The Life of Origen (ca. 186–255)" in *The
 Westminster Handbook to Origen*, 12. McGuckin got this story from
 Eusebius, *Ecclesiastical History* 6.23.2.
 
-[56] Monastic modes of text production were gradually replaced by
+[57] Monastic modes of text production were gradually replaced by
 commercial modes of production, e.g., around the University of Paris.
 See Richard H. and Mary A. Rouse, *Manuscripts and their Makers:
 Commercial Book Producers in Medieval Paris 1200-1500.*
 
-[57] Pennington, “The Biography of Gratian, the Father of Canon Law,”
+[58] Pennington, “The Biography of Gratian, the Father of Canon Law,”
 362.
 
-[58] The quasi-monastic model of text production leaves open a range of
+[59] The quasi-monastic model of text production leaves open a range of
 possibilities. Those who have read the *Vita Augustini* written by
 Possidius of Calama († c.437) are likely to be unimpressed by the
 intellectual caliber of Augustine's episcopal household, and to assess
 its contribution to his work accordingly.
 
-[59] Winroth, “Where Gratian Slept”; Pennington, “The Biography of
+[60] Winroth, “Where Gratian Slept”; Pennington, “The Biography of
 Gratian, the Father of Canon Law”; and Pennington, “The Biography of
 Gratian, the Father of Canon Law”.
 
-[60] Roland Barthes, “The Death of the Author,” in *Image, Music, Text*,
+[61] Roland Barthes, “The Death of the Author,” in *Image, Music, Text*,
 trans. Stephen Heath (New York: Hill; Wang, 1977), 142–48; and Michel
 Foucault, “What Is an Author?” in *Aesthetics, Method, and
 Epistemology*, ed. James D. Faubion and Paul Rabinow, trans. Robert
 Hurley, Essential Works of Foucault, 1954-1984, v. 2 (New York: New
 Press, 1998), 205–22.
 
-[61] Barthes, “The Death of the Author,” 145.
+[62] Barthes, “The Death of the Author,” 145.
 
-[62] Barthes, 146.
+[63] Barthes, 146.
 
-[63] Barthes, 147.
+[64] Barthes, 147.
 
-[64] Barthes, 145.
+[65] Barthes, 145.
 
-[65] Foucault, “What Is an Author?” 209.
+[66] Foucault, “What Is an Author?” 209.
 
-[66] Foucault, 210.
+[67] Foucault, 210.
 
-[67] Foucault, 214.
+[68] Foucault, 214.
 
-[68] "*Illud quoque diligenter attendi convenit ne ... falsa tituli
+[69] "*Illud quoque diligenter attendi convenit ne ... falsa tituli
 inscriptione vel scripturae ipsius corruptione fallamur ... Unde
 fidelissimus scriptor et veracissimus interpres Hieronymus ... nos
 praemonuit.*" Peter Abelard, *Sic et non: a critical edition*, ed.
@@ -1665,7 +1595,7 @@ No,” in *Medieval Literary Theory and Criticism, c.1100-c.1375: The
 Commentary Tradition*, ed. A. J. Minnis, A. Brian Scott, and David
 Wallace (Oxford: Clarendon Press, 1988), 89.
 
-[69] Foucault, “What Is an Author?” 214. Foucault claims to have derived
+[70] Foucault, “What Is an Author?” 214. Foucault claims to have derived
 the four criteria for determining whether a given "discursive set" has
 one or several authors from Jerome's *De Viris illustribus*. He
 provides, however, no citations. Walzer and Inabinet indicate that
@@ -1680,12 +1610,12 @@ Foucault's four criteria, and provides citations to many works by Jerome
 (not just *De Viris illustribus*) relevant to the question of
 determining the authorship of a text or texts.
 
-[70] Stanley Chodorow, *Christian Political Theory and Church Politics
+[71] Stanley Chodorow, *Christian Political Theory and Church Politics
 in the Mid-Twelfth Century; the Ecclesiology of Gratian’s Decretum*,
 Publications of the Center for Medieval and Renaissance Studies,
 U.C.L.A., 5 (Berkeley: University of California Press, 1972), 60–64.
 
-[71] When I first encountered Gratian's unexpected use of *sibi* in C.3
+[72] When I first encountered Gratian's unexpected use of *sibi* in C.3
 d.init., I assumed that I was misconstruing the grammar. Soon
 thereafter, however, I came across John Noël Dillon, “Case Statements
 (themata) and the Composition of Gratian’s Cases,” *Zeitschrift der
@@ -1705,7 +1635,7 @@ Noonan translates the sentence more idiomatically than I have done as
 "\[h\]er first choice at last arrived to seek her in marriage" Noonan,
 “Catholic Law School - A.D. 1150,” 1189.
 
-[72] Foucault, “What Is an Author?” 214.
+[73] Foucault, “What Is an Author?” 214.
 
 <div align="center">
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
