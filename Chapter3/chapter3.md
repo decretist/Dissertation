@@ -144,7 +144,7 @@ Paucapalea was easily the most prominent figure from the early
 period of the Bolognese school of decretists who followed in Gratian's
 immediate footsteps. Pennington flatly states that Paucapalea was
 "[a] pupil of Gratian and the author of the first commentary on
-the *Decretum*".[^7] But in the preface to that commentary, Paucapalea
+the *Decretum*."[^7] But in the preface to that commentary, Paucapalea
 does not refer to Gratian by name: "*Magistri autem hoc opus condentis
 ipsa decreta sunt materia.* The decrees themselves, however, are
 the subject matter of the master producing this work."[^8]
@@ -249,7 +249,7 @@ as a canonist. Although it is not quite chronologically impossible
 for Simon to have been Gratian's student, it seems far more likely
 that he described himself as *discipulus* in something like the
 same sense that we might describe contemporary scholars like Chodorow,
-Pennington, and Winroth as "students of Gratian". Yet again, we
+Pennington, and Winroth as "students of Gratian." Yet again, we
 appear to dealing with statements that on the surface appear to be
 about the biography of Gratian---a claim by Simon that he had been
 Gratian's student---but that should more plausibly be read as an
@@ -323,7 +323,7 @@ easily explain.[^23]
 The starting point for all modern scholarship on Gratian himself
 is John T. Noonan Jr.'s classic 1979 *Traditio* article "Gratian
 slept here: The changing identity of the father of the systematic
-study of canon law". Noonan's approach is apophatic, demonstrating
+study of canon law." Noonan's approach is apophatic, demonstrating
 that there is no sound historical basis for most of the affirmative
 statements that many mid-twentieth century handbooks and reference
 works presented as commonplace.[@noonan_gratian_1979] It is unnecessary
@@ -960,7 +960,7 @@ consisted mostly of quotations" @winroth_making_2000 [191].
 
 [^5]: R.W. Southern asserts that no one claims to have been Gratian's
 student---"none of the earliest users of his work claims to have
-been taught by him". "although other scholars made some very early
+been taught by him." "although other scholars made some very early
 alterations and additions to the text of the *Decretum*, none of
 them claimed to have been taught by him." @southern_scholastic_1995
 [287, 304]. Southern does not provide footnotes to support these
@@ -1132,7 +1132,7 @@ engaged in a very un-monastic branch of study, and produced a law
 book which became the most widely distributed and probably most
 generally used of all the masterpieces of twelfth-century learning."
 "the book, and not the teaching of pupils, was the offering Gratian's
-monastic life brought to the Church". @southern_scholastic_1995
+monastic life brought to the Church." @southern_scholastic_1995
 [286-287, 304].
 
 [^29]: @noonan_gratian_1979 [153-154]. The recently rediscovered
