@@ -22,7 +22,7 @@ Reviewed by Stan Chodorow, 6 November 2017\
 Ready for review (pages 25-49)
 - [Chapter 3: Authority, Author, Authorship](Chapter3/chapter3.markdown) (22 July 2021) 49 pages [(PDF)](Chapter3/chapter3.pdf)\
 Under review by Stan Chodorow, 23 July 2021
-- [Chapter 4: Stylometry](Chapter4/chapter4.markdown) (24 June 2021) 84 pages [(PDF)](Chapter4/chapter4.pdf)\
+- [Chapter 4: Stylometry](Chapter4/chapter4.markdown) (23 July 2021) 84 pages [(PDF)](Chapter4/chapter4.pdf)\
 Reviewed by Mike Kestemont, 13 July 2021
   - [Successes and Failures](Chapter4/successes.markdown) (14 April 2021) 6 pages
   - [Principal component analysis](Chapter4/pca.markdown) (25 March 2021) 26 pages\
