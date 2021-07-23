@@ -6,22 +6,22 @@
 
 ### Chapters
 
-Dates indicate most recent changes to markdown files, no matter how
-minor. Most of the chapters were substantially completed some years
-ago: the principal component analysis section of chapter 4 for the
-International Congress of Medieval Canon Law in 2016, chapter 1 and
-most of chapter 2 in 2017, chapter 0 in 2018, and most of chapter
-4 in 2020.
+Dates indicate most recent changes to markdown files, even minor
+ones. Most of the chapters have been substantially complete for
+many years: the principal component analysis section of chapter 4
+for the International Congress of Medieval Canon Law in 2016, chapter
+1 and most of what is now chapter 2 in 2017, chapter 0 in 2018, and
+most of chapter 4 in 2020.
 
 - [Chapter 0: Introduction](Chapter0/chapter0.markdown) (29 June 2021) 25 pages [(PDF)](Chapter0/chapter0.pdf)\
 Reviewed by Stan Chodorow, 17 August 2018
 - [Chapter 1: Background](Chapter1/chapter1.markdown) (30 June 2021) 30 pages [(PDF)](Chapter1/chapter1.pdf)\
-Reviewed by Stan Chodorow, 6 November 2017
+Reviewed by Stan Chodorow, 6 November 2017\
+(including pages 1-25 of what is now chapter 2)
 - [Chapter 2: The *Decretum*](Chapter2/chapter2.markdown) (30 June 2021) 49 pages [(PDF)](Chapter2/chapter2.pdf)\
-Pages 1-25 reviewed by Stan Chodorow, 6 November 2017\
-Pages 25-49 under review by Stan Chodorow
+Ready for review (pages 25-49)
 - [Chapter 3: Authority, Author, Authorship](Chapter3/chapter3.markdown) (22 July 2021) 49 pages [(PDF)](Chapter3/chapter3.pdf)\
-Ready for review 22 July 2021
+Under review by Stan Chodorow, 23 July 2021
 - [Chapter 4: Stylometry](Chapter4/chapter4.markdown) (24 June 2021) 84 pages [(PDF)](Chapter4/chapter4.pdf)\
 Reviewed by Mike Kestemont, 13 July 2021
   - [Successes and Failures](Chapter4/successes.markdown) (14 April 2021) 6 pages
