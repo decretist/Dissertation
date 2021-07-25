@@ -15,7 +15,7 @@ and chapter 0 since 2018. Chapter 4 was completed in 2020.
 
 - [Chapter 0: Introduction](Chapter0/chapter0.markdown) (29 June 2021) 20 pages [(PDF)](Chapter0/chapter0.pdf)\
 Reviewed by Stan Chodorow, 17 August 2018
-- [Chapter 1: Background](Chapter1/chapter1.markdown) (30 June 2021) 30 pages [(PDF)](Chapter1/chapter1.pdf)\
+- [Chapter 1: Background](Chapter1/chapter1.markdown) (30 June 2021) 24 pages [(PDF)](Chapter1/chapter1.pdf)\
 Reviewed by Stan Chodorow, 6 November 2017\
 (including pages 1-25 of what is now chapter 2)
 - [Chapter 2: The *Decretum*](Chapter2/chapter2.markdown) (30 June 2021) 49 pages [(PDF)](Chapter2/chapter2.pdf)\
