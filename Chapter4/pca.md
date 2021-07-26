@@ -4,7 +4,7 @@ bibliography: ../bib/merged.bib
 csl: ../csl/chicago-fullnote-bibliography.csl
 date: 25 March 2021
 reference-section-title: Bibliography
-suppress-bibliography: false
+suppress-bibliography: true
 title: Chapter 4
 subtitle: Principal component analysis
 ---

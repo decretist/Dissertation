@@ -4,7 +4,7 @@ bibliography: ../bib/merged.bib
 csl: ../csl/chicago-fullnote-bibliography.csl
 date: 12 May 2021
 reference-section-title: Bibliography
-suppress-bibliography: false
+suppress-bibliography: true
 title: Conclusion
 ---
 > As to the dicta, I think you adjust your treatment to distinguish

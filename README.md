@@ -24,11 +24,11 @@ Ready for review (pages 25-49)
 Under review by Stan Chodorow, 23 July 2021
 - [Chapter 4: Stylometry](Chapter4/chapter4.markdown) (25 July 2021) 67 pages\
 Reviewed by Mike Kestemont, 13 July 2021
-  - [Successes and Failures](Chapter4/successes.markdown) (14 April 2021) 6 pages
-  - [Principal component analysis](Chapter4/pca.markdown) (25 March 2021) 26 pages\
+  - [Successes and Failures](Chapter4/successes.markdown) (25 July 2021) 5 pages
+  - [Principal component analysis](Chapter4/pca.markdown) (25 July 2021) 20 pages\
   Presented at [*Rem non novam*](https://sites.google.com/site/remnonnovam/), Yale Law School, 21 May 2015\
   Presented at the 15th International Congress of Medieval Canon Law, Paris, 20 July 2016
-- [Conclusion](Conclusion/conclusion.markdown) (5 February 2021) 15 pages\
+- [Conclusion](Conclusion/conclusion.markdown) (25 July 2021) 12 pages\
 Rough draft
 - [Bibliography](bib/biblio.markdown) (25 July 2021) 12 pages [(PDF)](bib/biblio.pdf)
 

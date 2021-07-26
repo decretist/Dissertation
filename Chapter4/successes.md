@@ -4,7 +4,7 @@ bibliography: ../bib/merged.bib
 csl: ../csl/chicago-fullnote-bibliography.csl
 date: 7 March 2021
 reference-section-title: Bibliography
-suppress-bibliography: false
+suppress-bibliography: true
 title: Restart
 abstract: |
   My point is that at your defense a central point will be: "OK, Paul,

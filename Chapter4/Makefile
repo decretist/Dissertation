@@ -18,8 +18,8 @@ chapter4.docx: chapter4.md ../bib/merged.bib ../ref/final.docx
 successes.docx: successes.md ../bib/merged.bib ../ref/final.docx
 	pandoc -o successes.docx --citeproc --reference-doc=../ref/final.docx successes.md
 
-pca.docx: pca.md ../bib/merged.bib ../ref/draft.docx
-	pandoc -o pca.docx --citeproc --reference-doc=../ref/draft.docx pca.md
+pca.docx: pca.md ../bib/merged.bib ../ref/final.docx
+	pandoc -o pca.docx --citeproc --reference-doc=../ref/final.docx pca.md
 
 ICMCL.docx: ICMCL.md project.bib ../ref/reference.docx
 	pandoc -o ICMCL.docx --citeproc --reference-doc=../ref/reference.docx ICMCL.md
