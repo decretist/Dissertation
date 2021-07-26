@@ -18,7 +18,7 @@ Reviewed by Stan Chodorow, 17 August 2018
 - [Chapter 1: Background](Chapter1/chapter1.markdown) (30 June 2021) 24 pages [(PDF)](Chapter1/chapter1.pdf)\
 Reviewed by Stan Chodorow, 6 November 2017\
 (including pages 1-25 of what is now chapter 2)
-- [Chapter 2: The *Decretum*](Chapter2/chapter2.markdown) (30 June 2021) 49 pages [(PDF)](Chapter2/chapter2.pdf)\
+- [Chapter 2: The *Decretum*](Chapter2/chapter2.markdown) (30 June 2021) 40 pages [(PDF)](Chapter2/chapter2.pdf)\
 Ready for review (pages 25-49)
 - [Chapter 3: Authority, Author, Authorship](Chapter3/chapter3.markdown) (22 July 2021) 49 pages [(PDF)](Chapter3/chapter3.pdf)\
 Under review by Stan Chodorow, 23 July 2021
