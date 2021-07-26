@@ -46,9 +46,9 @@ constituted by an ensemble of formal features which can be observed
 quantitatively or qualitatively."[2] While style has both qualitative
 and quantitative aspects, stylometry is concerned only with quantitative
 aspects of style. One well-established use of stylometry is to attribute
-authorship. And for the purpose of authorship attribution, the formal
-linguistic features that stylometry measures are the frequencies of
-occurrence of common words.
+authorship and for the purpose of authorship attribution, the formal
+linguistic features that stylometry measures are (typically) the
+frequencies of occurrence of common words.
 
 Linguists draw a distinction between function words and content words.
 The more frequently a word occurs in a language, the more likely it is
@@ -70,16 +70,11 @@ Their usage changes very slowly over time, if it changes at all, and
 function words are therefore, for all practical purposes, a closed,
 finite, class.
 
-Evidence from experimental psychology suggests that both authors and
-readers process function words at a subconscious level.[3] The frequency
-with which a given author uses particular function words is therefore
-considered to be more or less invariant, making it a reliable authorial
-signature.
-
-**Some stylometric techniques use only function words, while others use
-common words generally, without regard to whether they are function or
-content words, but in either case function words are disproportionately
-important to stylometric analysis because of their observed frequency.**
+Evidence from experimental psychology suggests that readers, and perhaps
+also writers, process function words at a subconscious level.[3] The
+frequency with which a given author uses particular function words is
+therefore considered to be more or less invariant, making it a reliable
+authorial signature.
 
 ### The Federalist (Hamilton and Madison)
 
@@ -458,8 +453,11 @@ works in practice. For the purpose of the following discussion, the
 
 -   the hypothetical case statements (*dicta initialia* or *themata*)
     that introduce the thirty-six cases in Part II of the *Decretum*,
+
 -   the first-recension *dicta* from Parts I and II of the *Decretum*,
+
 -   the first- and second-recension *dicta* from *de Penitentia*, and
+
 -   the second-recension *dicta* from Parts I and II of the *Decretum*.
 
 In the following code, tables, and plots, these four samples will be
@@ -500,6 +498,8 @@ known authorship. Therefore, the values for means and standard
 deviations that provide the basis of comparison between the unattributed
 sample and the attributed corpus have to be calculated without taking
 the values from Gratian0 into account.
+
+<!-- Mike Kestemont: "Ok, this is solid" -->
 
 The demonstration of Burrows's Delta will make a point of the fact that
 the technique can be used at a higher number of dimensions (n \> 3) than
@@ -649,18 +649,18 @@ samples is the mean of 23.9804, 26.7831, and 21.4662, or 24.0765
 occurrences per 1,000.
 
 Comparing the frequencies of occurrence of *in* and *non* in the two
-outlying samples, dePen and Gratian2, reveals unexpectedly large
-variations for such common words. (Large variations would be less
-surprising with uncommon words for which small differences in number
-could result in a large difference in percentage.) *In* occurs 15.3%
-more frequently in Gratian2 than in dePen, and 13.3% less frequently in
-dePen than in Gratian2. *Non* occurs 24.8% more frequently in dePen than
-in Gratian2, and 19.9% less frequently in Gratian2 than in dePen. Even
-compared to the mean, *non*, for example, occurs 11.2% more frequently
-in dePen and 10.8% less frequently in Gratian2 than the mean of means.
-It is clear then that against an overall background of "orderliness"
-(Zipf) in the word-frequency distribution, individual samples can
-display striking and potentially significant levels of variation.
+outlying samples, dePen and Gratian2, reveals large variations for such
+common words. (Large variations would be less surprising with uncommon
+words for which small differences in number could result in a large
+difference in percentage.) *In* occurs 15.3% more frequently in Gratian2
+than in dePen, and 13.3% less frequently in dePen than in Gratian2.
+*Non* occurs 24.8% more frequently in dePen than in Gratian2, and 19.9%
+less frequently in Gratian2 than in dePen. Even compared to the mean,
+*non*, for example, occurs 11.2% more frequently in dePen and 10.8% less
+frequently in Gratian2 than the mean of means. It is clear then that
+against an overall background of "orderliness" in the word-frequency
+distribution, individual samples can display striking and potentially
+significant levels of variation.
 
 Word count and sample length data were collected and used to calculate
 frequencies for Gratian0 above, but those values will not be used in
@@ -1410,170 +1410,6 @@ subcorpus indicates that it is the *least* likely of any of the
 subcorpora in the row to share an author in common with the other1
 subcorpus.
 
-# Bibliography
-
-<div id="refs" class="references csl-bib-body hanging-indent">
-
-<div id="ref-adair_authorship_1944a" class="csl-entry">
-
-Adair, Douglass. “The Authorship of the Disputed Federalist Papers.”
-*The William and Mary Quarterly* 1, no. 2 (1944): 98–122.
-
-</div>
-
-<div id="ref-adair_authorship_1944b" class="csl-entry">
-
-———. “The Authorship of the Disputed Federalist Papers: Part II.” *The
-William and Mary Quarterly* 1, no. 3 (1944): 235–64.
-
-</div>
-
-<div id="ref-beyer_lokale_1998" class="csl-entry">
-
-Beyer, Alfred. *Lokale Abbreviationen des Decretum Gratiani: Analyse und
-Vergleich der Dekretabbreviationen "Omnes leges aut divine" (Bamberg),
-"Humanum genus duobus regitur" (Pommersfelden) und "De his qui intra
-claustra monasterii consistunt" (Lichtenthal, Baden-Baden)*. Bamberger
-theologische Studien ; Bd. 6. Frankfurt am Main ; PLang, 1998.
-
-</div>
-
-<div id="ref-burrows_delta_2002" class="csl-entry">
-
-Burrows, John. “‘Delta’: A Measure of Stylistic Difference and a Guide
-to Likely Authorship.” *Literary and Linguistic Computing* 17, no. 3
-(September 2002): 267–87.
-
-</div>
-
-<div id="ref-burrows_questions_2003" class="csl-entry">
-
-———. “Questions of Authorship: Attribution and Beyond: A Lecture
-Delivered on the Occasion of the Roberto Busa Award ACH-ALLC 2001, New
-York.” *Computers and the Humanities* 37, no. 1 (February 2003): 5–32.
-
-</div>
-
-<div id="ref-eder_does_2015" class="csl-entry">
-
-Eder, Maciej. “Does Size Matter? Authorship Attribution, Small Samples,
-Big Problem.” *Literary and Linguistic Computing* 30, no. 2 (June 2015):
-167–82.
-
-</div>
-
-<div id="ref-evert_understanding_2017" class="csl-entry">
-
-Evert, Stefan, Thomas Proisl, Fotis Jannidis, Isabella Reger, Steffen
-Pielström, Christof Schöch, and Thorsten Vitt. “Understanding and
-Explaining Delta Measures for Authorship Attribution.” *Digital
-Scholarship in the Humanities* 32, no. suppl_2 (December 2017): ii4–16.
-
-</div>
-
-<div id="ref-herrmann_revisiting_2015" class="csl-entry">
-
-Herrmann, J. Berenike, Karina van Dalen-Oskam, and Christof Schöch.
-“Revisiting Style, a Key Concept in Literary Studies.” *Journal of
-Literary Theory* 9, no. 1 (2015): 25–52.
-
-</div>
-
-<div id="ref-hockey_history_2004" class="csl-entry">
-
-Hockey, Susan. “The History of Humanities Computing.” In *A Companion to
-Digital Humanities*, edited by Susan Schreibman, Raymond George Siemens,
-and John Unsworth, 3–19. Blackwell Companions to Literature and Culture
-26. Malden, MA: Blackwell Pub, 2004.
-
-</div>
-
-<div id="ref-kestemont_function_2014" class="csl-entry">
-
-Kestemont, Mike. “Function Words in Authorship Attribution From Black
-Magic to Theory?” In *Proceedings of the 3rd Workshop on Computational
-Linguistics for Literature (CLfL)*, 59–66. Gothenburg, Sweden:
-Association for Computational Linguistics, 2014.
-
-</div>
-
-<div id="ref-kuttner_gratiani_1948" class="csl-entry">
-
-Kuttner, Stephan. “De Gratiani opere noviter edendo.” *Apollinaris* 21
-(1948): 118–28.
-
-</div>
-
-<div id="ref-kuttner_research_1990" class="csl-entry">
-
-———. “Research on Gratian: Acta and Agenda.” In *Studies in the History
-of Medieval Canon Law*. Collected Studies CS325. Aldershot, Hampshire,
-Great Britain : Brookfield, Vt., USA: Variorum ; Gower, 1990.
-
-</div>
-
-<div id="ref-mosteller_inference_1964" class="csl-entry">
-
-Mosteller, Frederick, and David L. Wallace. *Inference and Disputed
-Authorship: The Federalist*. Addison-Wesley Series in Behavioral
-Science: Quantitative Methods. Reading, Mass: Addison-Wesley Pub. Co,
-1964.
-
-</div>
-
-<div id="ref-pennington_biography_2014" class="csl-entry">
-
-Pennington, Kenneth. “The Biography of Gratian, the Father of Canon
-Law.” *Villanova Law Review* 59 (2014): 679–706.
-
-</div>
-
-<div id="ref-reuter_wortkonkordanz_1990" class="csl-entry">
-
-Reuter, Timothy, and Gabriel Silagi, eds. *Wortkonkordanz zum Decretum
-Gratiani*. Monumenta Germaniae historica. Hilfsmittel 10. München:
-Monumenta Germaniae Historica, 1990.
-
-</div>
-
-<div id="ref-samuels_deformance_1999" class="csl-entry">
-
-Samuels, Lisa, and Jerome McGann. “Deformance and Interpretation.” *New
-Literary History* 30, no. 1 (1999): 25–56.
-
-</div>
-
-<div id="ref-winroth_making_2000" class="csl-entry">
-
-Winroth, Anders. *The Making of Gratian’s Decretum*. Cambridge:
-Cambridge University Press, 2000.
-
-</div>
-
-<div id="ref-winroth_uncovering_1997" class="csl-entry">
-
-———. “Uncovering Gratian’s Original Decretum with the Help of Electronic
-Resources.” *Columbia Library Columns* 46, no. 1 (1997): 26–31.
-
-</div>
-
-<div id="ref-zipf_human_1949" class="csl-entry">
-
-Zipf, George Kingsley. *Human Behavior and the Principle of Least
-Effort: An Introduction to Human Ecology*. Cambridge, Mass:
-Addison-Wesley Press, 1949.
-
-</div>
-
-<div id="ref-zipf_psycho-biology_1935" class="csl-entry">
-
-———. *The Psycho-Biology of Language: An Introduction to Dynamic
-Philology*. Boston: Houghton Mifflin Company, 1935.
-
-</div>
-
-</div>
-
 [1] Stephan Kuttner, “Research on Gratian: Acta and Agenda,” in *Studies
 in the History of Medieval Canon Law*, Collected Studies CS325
 (Aldershot, Hampshire, Great Britain : Brookfield, Vt., USA: Variorum ;
@@ -1794,9 +1630,13 @@ Lecture Delivered on the Occasion of the Roberto Busa Award ACH-ALLC
 Difference and a Guide to Likely Authorship,” *Literary and Linguistic
 Computing* 17, no. 3 (September 2002): 267–87.
 
-[36] Stefan Evert et al., “Understanding and Explaining Delta Measures
-for Authorship Attribution,” *Digital Scholarship in the Humanities* 32,
-no. suppl_2 (December 2017): ii4–16.
+[36] Most notably Argamon's Delta, see Shlomo Argamon, “Interpreting
+Burrows’s Delta: Geometric and Probabilistic Foundations,” *Literary and
+Linguistic Computing* 23, no. 2 (June 2008): 131–47. For an overview of
+recent developments in the use of distance methods for the purpose of
+authorship attribution, see Stefan Evert et al., “Understanding and
+Explaining Delta Measures for Authorship Attribution,” *Digital
+Scholarship in the Humanities* 32, no. suppl_2 (December 2017): ii4–16.
 
 [37] *de Penitentia* D.1 c.88 (R1), D.3 c.42 (R1), D.3 c.49 (R1), D.5
 c.1 (R1), D.6 c.1 (R1), and D.7 c.6 (R1). These seven extended passages

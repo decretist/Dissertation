@@ -2,7 +2,7 @@
 bibliography: ../bib/merged.bib
 csl: ../csl/chicago-fullnote-bibliography.csl
 reference-section-title: Bibliography
-suppress-bibliography: false
+suppress-bibliography: true
 title: Chapter 4
 subtitle: Stylometry
 ---
@@ -55,10 +55,10 @@ texts constituted by an ensemble of formal features which can be
 observed quantitatively or qualitatively."[@herrmann_revisiting_2015,
 44] While style has both qualitative and quantitative aspects,
 stylometry is concerned only with quantitative aspects of style.
-One well-established use of stylometry is to attribute authorship.
-And for the purpose of authorship attribution, the formal linguistic
-features that stylometry measures are the frequencies of occurrence
-of common words.
+One well-established use of stylometry is to attribute authorship
+and for the purpose of authorship attribution, the formal linguistic
+features that stylometry measures are (typically) the frequencies
+of occurrence of common words.
 
 Linguists draw a distinction between function words and content
 words. The more frequently a word occurs in a language, the more
@@ -80,17 +80,11 @@ language. Their usage changes very slowly over time, if it
 changes at all, and function words are therefore, for all practical
 purposes, a closed, finite, class.
 
-Evidence from experimental psychology suggests that both authors
-and readers process function words at a subconscious
+Evidence from experimental psychology suggests that readers,
+and perhaps also writers, process function words at a subconscious
 level.[@kestemont_function_2014] The frequency with which a given
 author uses particular function words is therefore considered to
 be more or less invariant, making it a reliable authorial signature.
-
-**Some stylometric techniques use only function words, while others
-use common words generally, without regard to whether they are
-function or content words, but in either case function words are
-disproportionately important to stylometric analysis because of
-their observed frequency.**
 
 ### The Federalist (Hamilton and Madison)
 
@@ -349,7 +343,7 @@ the MGH e-text remains a useful tool for the study of Gratian's
 The deformance algorithm used to generate the paratexts described
 in the previous section on the definition of the first- and
 second-recension *dicta* was implemented in the form of a 201-line
-Python program.[^python] The program reads the MGH e-text of the
+Python program.[^22] The program reads the MGH e-text of the
 Friedberg edition and parses it to extract the *dicta*.
 
 Most readers will have at least a passing familiarity with the
@@ -487,8 +481,11 @@ analysis works in practice. For the purpose of the following
 discussion, the *dicta* will be divided into four samples:
 
 + the hypothetical case statements (*dicta initialia* or *themata*) that introduce the thirty-six cases in Part II of the *Decretum*,
+
 + the first-recension *dicta* from Parts I and II of the *Decretum*,
+
 + the first- and second-recension *dicta* from *de Penitentia*, and
+
 + the second-recension *dicta* from Parts I and II of the *Decretum*.
 
 In the following code, tables, and plots, these four samples will
@@ -532,6 +529,8 @@ samples of known authorship. Therefore, the values for means and
 standard deviations that provide the basis of comparison between
 the unattributed sample and the attributed corpus have to be
 calculated without taking the values from Gratian0 into account.
+
+<!-- Mike Kestemont: "Ok, this is solid" -->
 
 The demonstration of Burrows's Delta will make a point of the fact
 that the technique can be used at a higher number of dimensions
@@ -585,7 +584,7 @@ rank reversal between the second- and third-most frequent words is
 a result of the fact that *non* occurs quite infrequently in Gratian0;
 see the table below.) After identifying the four most frequent words
 in the three comparison samples, next, count the number of occurrences
-of those words in each of the samples:[^24]
+of those words in each of the samples:[^25]
 
 ```python
 import pandas as pd
@@ -682,19 +681,19 @@ of *non* for each of the samples is the mean of 23.9804, 26.7831,
 and 21.4662, or 24.0765 occurrences per 1,000.
 
 Comparing the frequencies of occurrence of *in* and *non* in the
-two outlying samples, dePen and Gratian2, reveals unexpectedly large
-variations for such common words. (Large variations would be less
-surprising with uncommon words for which small differences in number
-could result in a large difference in percentage.) *In* occurs 15.3%
-more frequently in Gratian2 than in dePen, and 13.3% less frequently
-in dePen than in Gratian2. *Non* occurs 24.8% more frequently in
-dePen than in Gratian2, and 19.9% less frequently in Gratian2 than
-in dePen. Even compared to the mean, *non*, for example, occurs
-11.2% more frequently in dePen and 10.8% less frequently in Gratian2
-than the mean of means. It is clear then that against an overall
-background of "orderliness" (Zipf) in the word-frequency distribution,
-individual samples can display striking and potentially significant
-levels of variation.
+two outlying samples, dePen and Gratian2, reveals large variations
+for such common words. (Large variations would be less surprising with
+uncommon words for which small differences in number could result
+in a large difference in percentage.) *In* occurs 15.3% more
+frequently in Gratian2 than in dePen, and 13.3% less frequently in
+dePen than in Gratian2. *Non* occurs 24.8% more frequently in dePen
+than in Gratian2, and 19.9% less frequently in Gratian2 than in
+dePen. Even compared to the mean, *non*, for example, occurs 11.2%
+more frequently in dePen and 10.8% less frequently in Gratian2 than
+the mean of means. It is clear then that against an overall background
+of "orderliness" in the word-frequency distribution, individual
+samples can display striking and potentially significant levels of
+variation.
 
 Word count and sample length data were collected and used to calculate
 frequencies for Gratian0 above, but those values will not be used
@@ -724,7 +723,7 @@ the vertical dashed line represents the mean of means for the
 horizontal (*in*) axis, and the horizontal dashed line represents
 the mean of means for the vertical (*non*) axis.
 
-![Figure 0a updated 14 May 2020[^25]](PNGs/Figure_0a.png)
+![Figure 0a updated 14 May 2020[^26]](PNGs/Figure_0a.png)
 
 Figure 0a introduces several conventions common to two-dimensional
 graphical representations of word frequency data that readers will
@@ -926,7 +925,7 @@ The observed empirical relationship that word frequencies in a
 corpus of text tail off inversely as the rank is known as Zipf's
 law, after American quantitative linguist George Kingsley Zipf
 (d.1950). Though he does not seem to have claimed discovery, Zipf
-published the first extended discussions of the phenomenon.[^26]
+published the first extended discussions of the phenomenon.[^27]
 **The rank-frequency distribution of words in a corpus of any
 language is not merely a curiosity, but rather provides a general
 background of what Zipf characterized as "orderliness" against which
@@ -939,7 +938,7 @@ expected orderliness of word distribution.**
 If the words in a corpus of text are rank-ordered from most to least
 frequent, Zipf's laws posits that, as a first-order approximation,
 the frequency of the Nth word will be 1/N times that of the most
-frequent word.[^27] In other words, the theoretical Zipf distribution
+frequent word.[^28] In other words, the theoretical Zipf distribution
 predicts that the frequency of the second most frequent word in a
 corpus of text should be one half that of the most frequent word,
 the frequency of the third most frequent word should be one third
@@ -978,11 +977,11 @@ As this example suggests, the explanatory power of the formula $ab^2
 have a low number of occurrences. Zipf ultimately judged the formula
 $ab^2 = k$ to be a less than satisfactory model for the full spectrum
 of word distribution in a corpus, in part because it implied
-fractional values of *a* for the most frequent words.[^28] Zipf had
+fractional values of *a* for the most frequent words.[^29] Zipf had
 a vivid awareness, ahead of its time for the pre-digital age in
 which he lived, of the fact that the variables in the formulas by
 which he sought to express these relationships represent discrete
-rather than continuous quantities.[^29] **Zipf also noted that value
+rather than continuous quantities.[^30] **Zipf also noted that value
 of the exponent of b is likely to differ from 2 depending on the
 size of the corpus[@zipf_psycho-biology_1935, 43]**
 
@@ -1041,7 +1040,7 @@ thirty most frequent words (MFWs) in Gratian's *dicta*: *in* (2187),
 Zipf used word frequencies hand-tabulated from James Joyce's *Ulysses*
 as the data set for his exploration of the rank-frequency relationship,
 and it turns out that for English, the r × f = C formulation holds
-up reasonably well.[^31] The rank-frequency relationship does not
+up reasonably well.[^32] The rank-frequency relationship does not
 on first inspection appear to hold up as well for Gratian's Latin
 as it does for Joyce's English, since the frequencies for the thirty
 most frequent words of the *dicta* do not drop off quite as sharply
@@ -1054,7 +1053,7 @@ third most frequent word, is 0.8962 rather than 0.3333.
 Plotting the data from Figure Zc on logarithmic axes and performing
 least-squares linear regression analysis lets us calculate the
 slope, -0.6518, for the rank-frequency tail-off of the thirty most
-frequent words from Gratian's *dicta*.[^32] (See Figure Zd below.)
+frequent words from Gratian's *dicta*.[^33] (See Figure Zd below.)
 Transposing that result back into the linear (as opposed to
 logarithmic) frame of reference used in Figure Zc, the expression
 1/r ^0.6518^ yields a better (though not perfect) fit to the actual
@@ -1068,7 +1067,7 @@ rank-frequency data.
 
 ![Figure Zy updated 27 May 2020](PNGs/Figure_Zy.png)
 
-![Figure Zz updated 27 May 2020[^33]](PNGs/Figure_Zz.png)
+![Figure Zz updated 27 May 2020[^34]](PNGs/Figure_Zz.png)
 
 ### Burrows's Delta
 
@@ -1086,7 +1085,7 @@ by averaging z-score distance measurements of word frequency data
 for any number of features. This has the effect of collapsing
 distance measurements in an arbitrary number of dimensions into a
 single metric. Burrows called this metric the Delta, and it is now
-generally referred to as Burrows's Delta ($\Delta_B$).[^34] Expositions
+generally referred to as Burrows's Delta ($\Delta_B$).[^35] Expositions
 of Burrows's Delta sometime fail to make a clear enough distinction
 between the metric $\Delta_B$ and the authorship attribution
 method in which Burrows applied it. The metric is not the
@@ -1171,10 +1170,10 @@ attributed to Gratian with which we can compare, for example, the
 hypothetical case statements (*themata*) or second-recension *dicta*.
 
 Although other distance methods of authorship attribution have been
-proposed since,[@evert_understanding_2017] Burrows's Delta is widely
-accepted in the scholarly literature of the field of computational
-linguistics, and it will therefore be used as the basis for the
-demonstrations in this section.
+proposed since,[^36] Burrows's Delta is widely accepted in the
+scholarly literature of the field of computational linguistics, and
+it will therefore be used as the basis for the demonstrations in
+this section.
 
 The first experiment will be a comparison of four subcorpora,
 Gratian0 (the hypothetical case statements or *themata*), Gratian1
@@ -1314,7 +1313,7 @@ The second experiment is a variation on the first, in which a
 3881-word sample made up of seven extended passages from the
 pseudo-Augustinian *De vera et falsa penitentia* quoted by Gratian
 in *de Penitentia* are substituted for the 3605-word sample containing
-the hypothetical case statements.[^36] As noted in Chapter 0 above,
+the hypothetical case statements.[^37] As noted in Chapter 0 above,
 Gratian can be said with a high degree of confidence **not** to be
 the author of *De vera et falsa penitentia*. The authors are strongly
 distinguished by their choice of post-positive conjunctions: Gratian
@@ -1390,7 +1389,7 @@ R1 *dicta*), other1 (C.7-10 R1 *dicta*), other2 (C.11-15 R1 *dicta*),
 monastic (C.16-20 R1 *dicta*), other3 (C.21-22 R1 *dicta*), heresy
 (C.23-26 R1 *dicta*), marriage (C.27-36 R1 *dicta*), penance (R1
 and R2 *dicta* from *de Penitentia*), and second (all R2 *dicta*,
-excluding those from *de Penitentia*).[^37] For each of the fourteen
+excluding those from *de Penitentia*).[^38] For each of the fourteen
 subcorpora, we will hypothesize each subcorpus in turn to be the
 work of an unknown author, and will treat the other thirteen
 subcorpora as composing a corpus of works by a known author. The
@@ -1540,7 +1539,7 @@ homeoteleuton at D.23 c.2 in the MGH e-text to my attention (August
 23, 2019). Clemens Radl of the MGH confirmed to Winroth that the
 e-text was typed.
 
-[^python]: Python is a widely-used general-purpose programming
+[^22]: Python is a widely-used general-purpose programming
 language. According to one frequently-cited industry metric, the
 [TIOBE Index](https://www.tiobe.com/tiobe-index/), Python was the
 third-most popular programming language worldwide as of July 2020,
@@ -1552,7 +1551,7 @@ units of text matching the pattern. (The use of the word *regular*
 in the term *regular expression* is analogous to its use in the
 term *canons regular*. In both cases a rule is being followed.)
 
-[^24]: Much of the analysis from this point forward will take advantage
+[^25]: Much of the analysis from this point forward will take advantage
 of the specialized capabilities of a Python software library called
 pandas. The name pandas is not a reference to the charismatic animal,
 but an acronym derived from the term "panel data." The package is
@@ -1564,24 +1563,24 @@ can be thought of as a close analog to the Excel spreadsheets that
 were such a ubiquitous feature of John Burrows's and David Hoover's
 early experiments in stylometry.
 
-[^25]: The actual generation of Figure 0a was deferred until after
+[^26]: The actual generation of Figure 0a was deferred until after
 the sample standard deviations for *in* and *non* per 1,000 words
 had been calculated below. Framing the dimensions of the plot to
 twice the standard deviation from the mean along both axes improves
 graphical layout and readability.
 
-[^26]: @zipf_psycho-biology_1935 [39-48]; and @zipf_human_1949 [73-131].
+[^27]: @zipf_psycho-biology_1935 [39-48]; and @zipf_human_1949 [73-131].
 Zipf referred to the relationship as "the law of diminishing returns
 of words" (1949). He expressed the relationship as $ab^2 = k$ (1935)
 and r × f = C (1949).
 
-[^27]: **In Digital Humanities courses, 1/N is typically presented
+[^28]: **In Digital Humanities courses, 1/N is typically presented
 *as* Zipf's law. The reductionist 1/N representation of the
 rank-frequency relationship is misleading insofar as it ignores
 scaling considerations, and elides the discrete rather than continuous
 nature of the variables representing rank and frequency.**
 
-[^28]: "Hence the $ab^2 = k$ relationship is valid only for the
+[^29]: "Hence the $ab^2 = k$ relationship is valid only for the
 less frequently occurring words which, however, represent the greater
 part of the vocabulary in use, though not always a great majority
 of the occurrences." ... "It is perhaps worth pointing out that the
@@ -1590,10 +1589,10 @@ distribution of the less frequent words would demand fractional
 words when applied to the speech-elements of highest occurrence,
 such as *the* in English." @zipf_psycho-biology_1935 [42-43].
 
-[^29]: Zipf used the term "integrality" to describe the discrete,
+[^30]: Zipf used the term "integrality" to describe the discrete,
 discontinuous, nature of frequency and rank. @zipf_human_1949 [31, 35].
 
-[^31]: "we have found a clearcut correlation between the number of
+[^32]: "we have found a clearcut correlation between the number of
 different words in the *Ulysses* and the frequency of their usage,
 in the sense that they approximate the simple equation of an
 equilateral hyperbola: r × f = C in which *r* refers to the word's
@@ -1602,7 +1601,7 @@ we ignore for the present the size of C)." @zipf_human_1949 [24].
 See @zipf_human_1949 [23-52], for Zipf's extended discussion of the
 rank-frequency distribution of words in Joyce's *Ulysses*.
 
-[^32]: $m = \frac{\sum{x_iy_i - n\bar{xy}}}{\sum{x_i^2 - n\bar{x}^2}}$
+[^33]: $m = \frac{\sum{x_iy_i - n\bar{xy}}}{\sum{x_i^2 - n\bar{x}^2}}$
 or:
 
     ~~~ {.python}
@@ -1619,7 +1618,7 @@ or:
         return (xy_sum - n * x_bar * y_bar) / (x_squared_sum - n * x_bar ** 2)
     ~~~
 
-[^33]: The vertical bands toward the upper-left hand corner of the
+[^34]: The vertical bands toward the upper-left hand corner of the
 plot---which also appear in Zipf's 1935 figures---require some
 interpretation. There can be a range of values for numbers of
 occurrence (b) for which only one value for number of words (a) has
@@ -1633,9 +1632,13 @@ number of occurrences (b). Similarly, the next vertical band to the
 right represents all of the words for which only two words (a = 2)
 have particular values for the number of occurrences (b).
 
-[^34]: @burrows_questions_2003; and @burrows_delta_2002.
+[^35]: @burrows_questions_2003; and @burrows_delta_2002.
 
-[^36]: *de Penitentia* D.1 c.88 (R1), D.3 c.42 (R1), D.3 c.49 (R1),
+[^36]: Most notably Argamon's Delta, see @argamon_interpreting_2008.
+For an overview of recent developments in the use of distance methods
+for the purpose of authorship attribution, see @evert_understanding_2017.
+
+[^37]: *de Penitentia* D.1 c.88 (R1), D.3 c.42 (R1), D.3 c.49 (R1),
 D.5 c.1 (R1), D.6 c.1 (R1), and D.7 c.6 (R1). These seven extended
 passages average 554.4 words in length. **See edF 1.XXXV, for a
 complete list of passages from *De vera et falsa penitentia* quoted
@@ -1645,7 +1648,7 @@ means by 4.5 in this context is unclear), D.3 c.45 (R2). Acknowledge
 Karen Teresa Wagner, *De vera et falsa penitentia : an edition and
 study*, 1995.**
 
-[^37]: The division of the first-recension (R1) *dicta* into twelve
+[^38]: The division of the first-recension (R1) *dicta* into twelve
 sections follows the division of Gratian's *Decretum* proposed in
 @beyer_lokale_1998 [17-18].
 
