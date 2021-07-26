@@ -625,15 +625,16 @@ with are greater than 1.0. The overall mean frequency of occurrence of
 *in* for the combined *dicta* from the first recension, *de Penitentia*,
 and the second recension is therefore 2,113 occurrences out of 81,049
 words or 26.0706 per 1,000. It is common, however, for authorship
-attribution algorithms to use the mean of the mean frequencies of
-occurrence for each of the samples rather than the overall mean
-frequency of occurrence in the corpus made up of all of the samples. The
-motivation for using the mean of means for the individual samples rather
-than the overall mean frequency of occurrence is to ensure that largest
-sample does not dominate the result. The value for the mean frequency of
-occurrence of *in* that will be required at subsequent stages of this
-demonstration, then, is the mean of 25.5673, 24.9975, and 28.8320, or
-26.4656 occurrences per 1,000.
+attribution algorithms to use the mean of the normalized frequencies of
+occurrence of a word for each of the samples rather than the overall
+mean frequency of occurrence of the word in the corpus made up of all of
+the samples. The motivation for using the mean of normalized frequencies
+of occurrence for the individual samples rather than the overall mean
+frequency of occurrence is to ensure that largest sample does not
+dominate the result. The value for the mean frequency of occurrence of
+*in* that will be required at subsequent stages of this demonstration,
+then, is the mean of the normalized frequencies 25.5673, 24.9975, and
+28.8320, or 26.4656 occurrences per 1,000.
 
 *Non* is the second most frequently occurring word in the *dicta*. There
 are 1,360 occurrences of *non* out of 56,713 words in the
@@ -644,8 +645,8 @@ Penitentia* (26.7831 per 1,000), and 306 occurrences of *non* out of
 overall mean frequency of occurrence of *non* for the combined *dicta*
 from the first recension, *de Penitentia*, and the second recension is
 therefore 1,936 occurrences out of 81,049 words or 23.8868 per 1,000.
-The mean of the mean frequencies of occurrence of *non* for each of the
-samples is the mean of 23.9804, 26.7831, and 21.4662, or 24.0765
+The mean of the normalized frequencies of occurrence of *non* for each
+of the samples is the mean of 23.9804, 26.7831, and 21.4662, or 24.0765
 occurrences per 1,000.
 
 Comparing the frequencies of occurrence of *in* and *non* in the two
@@ -657,10 +658,10 @@ than in dePen, and 13.3% less frequently in dePen than in Gratian2.
 *Non* occurs 24.8% more frequently in dePen than in Gratian2, and 19.9%
 less frequently in Gratian2 than in dePen. Even compared to the mean,
 *non*, for example, occurs 11.2% more frequently in dePen and 10.8% less
-frequently in Gratian2 than the mean of means. It is clear then that
-against an overall background of "orderliness" in the word-frequency
-distribution, individual samples can display striking and potentially
-significant levels of variation.
+frequently in Gratian2 than the mean of normalized frequencies. It is
+clear then that against an overall background of "orderliness" in the
+word-frequency distribution, individual samples can display striking and
+potentially significant levels of variation.
 
 Word count and sample length data were collected and used to calculate
 frequencies for Gratian0 above, but those values will not be used in
@@ -685,9 +686,9 @@ in the *dicta*, with the frequency of *in* plotted along the horizontal
 x-axis, and the frequency of *non* plotted along the vertical y-axis, to
 produce a simplified visualization of the total variation among the
 three samples. Means are provided for context: the vertical dashed line
-represents the mean of means for the horizontal (*in*) axis, and the
-horizontal dashed line represents the mean of means for the vertical
-(*non*) axis.
+represents the mean of normalized frequencies for the horizontal (*in*)
+axis, and the horizontal dashed line represents the mean of normalized
+frequencies for the vertical (*non*) axis.
 
 ![Figure 0a updated 14 May 2020[26]](PNGs/Figure_0a.png)
 
@@ -731,12 +732,14 @@ occurrence of the word *in* in the Gratian1, dePen, and Gratian2
 samples. (The motivated reader can use a calculator to repeat the
 process for the frequency of occurrence of the word *non*.) Remember
 that for the purpose of calculating sample standard deviation, the value
-of the mean (*x̄*) is **not** the overall mean frequency of occurrence of
-the word *in* across all of the samples, but the mean of the frequencies
-for each of the samples individually (the mean of means).
+of the mean (*x̄*) is not the overall mean frequency of occurrence of the
+word *in* across all of the samples, but rather the mean of the
+normalized frequencies of occurrence of the word *in* for each of the
+samples individually.
 
-First, calculate the squared deviations from the mean of means for the
-frequency of *in* in the first-recension *dicta* (Gratian1):
+First, calculate the squared deviations from the mean of normalized
+frequencies for the frequency of *in* in the first-recension *dicta*
+(Gratian1):
 
 (*x*<sub>1</sub>−*x̄*)<sup>2</sup> = (25.5673−26.4656)<sup>2</sup> = (−0.8983)<sup>2</sup> = 0.8069,
 
@@ -750,8 +753,9 @@ and for the frequency of *in* in the second-recension *dicta*
 (*x*<sub>3</sub>−*x̄*)<sup>2</sup> = (28.8320−26.4656)<sup>2</sup> = (2.3664)<sup>2</sup> = 5.5998.
 
 Then, as indicated by the summation operator ∑, sum the three squared
-deviations from the mean of means, divide the sum by their number
-(*N* = 3) minus one, and take the square root of the quotient:
+deviations from the mean of normalized frequencies, divide the sum by
+their number (*N* = 3) minus one, and take the square root of the
+quotient:
 
 $s = \\sqrt{\\frac{1}{2}(0.8069 + 2.1553 + 5.5998)} = \\sqrt{\\frac{1}{2}(8.5620)} = \\sqrt{4.2810} = 2.0691$
 
@@ -829,7 +833,8 @@ z_scores = (frequencies - means.values) / standard_deviations.values
 ![Figure 0b updated 15 May 2020](PNGs/Figure_0b.png)
 
 Labels on the axes of Figure 0b refer to standard deviations (values of
-z) away from the mean of means (represented by the dashed lines).
+z) away from the mean of normalized frequencies (represented by the
+dashed lines).
 
 Figures 0a and 0b represents the axes as orthogonal (perpendicular) to
 one another. Although doing so is acceptable as a first-order
@@ -1067,27 +1072,26 @@ frequency for each feature across all of the text samples in the
 attributed comparison corpus, without concern for differences in size
 (word count) between the samples. To refer back to the example presented
 in the previous section as part of the two-dimensional visualization
-demonstration, we did **not** use the **overall** mean frequency of *in*
-across the three samples Gratian1, dePen, and Gratian2, (2,113
-occurrences out of 81,049 words or 26.0706 per 1,000), but rather the
-mean of the normalized frequencies of *in* for each of the samples (the
-mean of 25.5673, 24.9975, and 28.8320, or 26.4656 occurrences per
-1,000). **(mean of means)**
+demonstration, we did not use the overall mean frequency of *in* across
+the three samples Gratian1, dePen, and Gratian2, (2,113 occurrences out
+of 81,049 words or 26.0706 per 1,000), but rather the mean of the
+normalized frequencies of *in* for each of the samples (the mean of
+25.5673, 24.9975, and 28.8320, or 26.4656 occurrences per 1,000).
 
-After calculating the mean of means and sample standard deviation for
-each of the features (MFWs), Burrows then converted the normalized
-(percentage) frequencies of occurrence for each feature in each sample
-in the comparison corpus to z-scores by subtracting the mean of means
-from the frequency and dividing the positive or negative difference by
-the standard deviation for the feature. At this point, Burrows turned
-his attention to the unattributed text, tabulating all occurrences of
-the 30 MFWs for which data had been collected from the comparison texts,
-then normalizing the word counts by converting them to percentage
-frequencies of occurrence. Burrows then converted the normalized
-frequencies for each feature in the unattributed test sample to z-scores
-based on the values for the mean of means and sample standard deviation
-derived from the feature frequencies in the attributed comparison corpus
-samples.
+After calculating the mean of normalized frequencies and sample standard
+deviation for each of the features (MFWs), Burrows then converted the
+normalized (percentage) frequencies of occurrence for each feature in
+each sample in the comparison corpus to z-scores by subtracting the mean
+of the normalized frequencies from the frequency and dividing the
+positive or negative difference by the standard deviation for the
+feature. At this point, Burrows turned his attention to the unattributed
+text, tabulating all occurrences of the 30 MFWs for which data had been
+collected from the comparison texts, then normalizing the word counts by
+converting them to percentage frequencies of occurrence. Burrows then
+converted the normalized frequencies for each feature in the
+unattributed test sample to z-scores based on the values for the mean of
+normalized frequencies and sample standard deviation derived from the
+feature frequencies in the attributed comparison corpus samples.
 
 With these preliminaries out of the way, Burrows then calculated the
 value of the Delta by taking the average (arithmetic mean) of the
