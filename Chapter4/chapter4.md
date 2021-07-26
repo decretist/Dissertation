@@ -109,17 +109,19 @@ to Hamilton and Madison.[@mosteller_inference_1964]
 
 ### Definition of first- and second-recension *dicta*
 
-**Abstract: In the absence of good modern critical editions for the
-first and second recensions of the *Decretum*, a proxy for the first
-recension is created by applying the variants recorded in Winroth's
-appendix as transformations to Friedberg's text. The proxy for the
-first recension is then subtracted from Friedberg's text, leaving text
-from the second recension as the difference. The text samples from
-the first and second recensions of the *Decretum* that provide the
-basis for authorship attribution are built up by iteratively appending
-short units of text (the individual first- and second-recension
-*dicta*) that are non-contiguous in the original context of the
-*Decretum*.**
+In the absence of good modern critical editions for the first and
+second recensions of the *Decretum*, a proxy for the first recension
+must be created using the first-recensions variants from Friedberg's
+text reported in the appendix to Winroth's *The Making of Gratian's
+"Decretum"*, "The contents of the first recension of Gratian's
+*Decretum*.[@winroth_making_2000, 197-227] The proxy for the first
+recension can then be subtracted from Friedberg's text, leaving the
+text added in the second recension as the difference. The text
+samples from the first and second recensions of the *Decretum* that
+provide the basis for authorship attribution are built up by
+iteratively appending short units of text (the individual first-
+and second-recension *dicta*) that are non-contiguous in their
+original context in the *Decretum*.
 
 Many of the examples in this chapter will distinguish between first-
 and second-recension *dicta*, so this is an appropriate point at
@@ -206,12 +208,12 @@ Both the text of Friedberg's 1879 edition of Gratian's *Decretum*
 and Winroth's appendix are open to criticism. Although
 modern scholars admire Friedberg's learning and energy---the 1879
 edition of the *Decretum* was only one of many such projects that
-he undertook---his editorial standards were those of 140 years
-ago. In particular, Friedberg's selection of eight unrepresentative
-German manuscripts as the basis for his edition, and his particular
-reliance on two of them---Köln Erzbischöfliche Diözesan- und
-Dombibliothek 127 (Ka) and 128 (Kb)---are seen today as serious
-deficiencies.[^11]
+he undertook---his editorial standards were those of 140 years ago.
+In particular, Friedberg's selection of eight German manuscripts
+considered unrepresentative by modern scholarship as the basis for
+his edition, and his particular reliance on two of them---Köln
+Erzbischöfliche Diözesan- und Dombibliothek 127 (Ka) and 128
+(Kb)---are seen today as serious deficiencies.[^11]
 
 Winroth himself acknowledged the provisional nature of his
 appendix.[^12] Furthermore, Pennington has pointed out that although
@@ -231,9 +233,9 @@ Interpretation" (1999), conflates the words "deformation" and
 "performance", and describes a process through which a text is
 transformed by the application of a series of deformances to generate
 a "paratext".[@samuels_deformance_1999] The paratext is different
-from the original text, but is defined by the deformances through
-which it is generated from the original. The classic example of
-deformance in a literary context is reversing the order of lines
+from the original text, but is defined by the deformances to the
+original text through which it is generated. The classic example
+of deformance in a literary context is reversing the order of lines
 in a poem. The paratext can be analyzed for otherwise unavailable
 insights into the original text.
 
@@ -1559,9 +1561,9 @@ term *canons regular*. In both cases a rule is being followed.)
 
 [^25]: Much of the analysis from this point forward will take advantage
 of the specialized capabilities of a Python software library called
-pandas. The name pandas is not a reference to the charismatic animal,
+pandas. The name pandas is not a reference to the charismatic animal
 but an acronym derived from the term "panel data." The package is
-widely used in the field of data science, and provides a dataframe
+widely used in the field of data science and provides a dataframe
 abstraction that represents two-dimensional numerical word-frequency
 data in a much more natural way than native Python data structure
 like lists and dictionaries do. The pandas dataframe abstraction
