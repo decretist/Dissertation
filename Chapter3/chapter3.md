@@ -2,7 +2,7 @@
 bibliography: ../bib/merged.bib
 csl: ../csl/chicago-fullnote-bibliography.csl
 reference-section-title: Bibliography
-suppress-bibliography: false
+suppress-bibliography: true
 title: Chapter 3
 subtitle: Authority, Author, Authorship
 ---
