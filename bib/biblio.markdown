@@ -40,6 +40,14 @@ Germaniae. Berlin: Weidmannsche Verlagsbuchhandlung, 1979.
 
 </div>
 
+<div id="ref-argamon_interpreting_2008" class="csl-entry">
+
+Argamon, Shlomo. “Interpreting Burrows’s Delta: Geometric and
+Probabilistic Foundations.” *Literary and Linguistic Computing* 23, no.
+2 (June 2008): 131–47.
+
+</div>
+
 <div id="ref-barthes_death_1977" class="csl-entry">
 
 Barthes, Roland. “The Death of the Author.” In *Image, Music, Text*,

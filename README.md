@@ -30,7 +30,7 @@ Reviewed by Mike Kestemont, 13 July 2021
   Presented at the 15th International Congress of Medieval Canon Law, Paris, 20 July 2016
 - [Conclusion](Conclusion/conclusion.markdown) (25 July 2021) 12 pages\
 Rough draft
-- [Bibliography](bib/biblio.markdown) (25 July 2021) 12 pages [(PDF)](bib/biblio.pdf)
+- [Bibliography](bib/biblio.markdown) (26 July 2021) 13 pages [(PDF)](bib/biblio.pdf)
 
 ### Appendices
 
