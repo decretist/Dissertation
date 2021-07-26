@@ -2,8 +2,8 @@
 bibliography: merged.bib
 csl: ../csl/chicago-fullnote-bibliography.csl
 nocite: |
-  @abelard_sic_1977
   @abelard_prologue_1988
+  @abelard_sic_1977
   @adair_authorship_1944a
   @adair_authorship_1944b
   @appelt_urkunden_1979
@@ -107,6 +107,7 @@ nocite: |
   @samuels_deformance_1999
   @schinke_stemming_1996
   @schulte_summa_1965
+  @sidwell_reading_1995
   @simon_of_bisignano_summa_2014
   @singer_summa_1963
   @somerville_prefaces_1998

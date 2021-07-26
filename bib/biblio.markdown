@@ -861,6 +861,13 @@ Decretum Gratiani*. Giessen: E. Roth, 1890.
 
 </div>
 
+<div id="ref-sidwell_reading_1995" class="csl-entry">
+
+Sidwell, Keith C. *Reading Medieval Latin*. Cambridge ; Cambridge
+University Press, 1995.
+
+</div>
+
 <div id="ref-simon_of_bisignano_summa_2014" class="csl-entry">
 
 Simon of Bisignano. *Summa in Decretum Simonis Bisinianensis*. Edited by
