@@ -23,6 +23,7 @@ Ready for review (pages 25-49)
 - [Chapter 3: Authority, Author, Authorship](Chapter3/chapter3.markdown) (25 July 2021) 45 pages [(PDF)](Chapter3/chapter3.pdf)\
 Under review by Stan Chodorow, 23 July 2021
 - [Chapter 4: Stylometry](Chapter4/chapter4.markdown) (25 July 2021) 67 pages\
+Reviewed by Stan Chodorow, 12 July 2020\
 Reviewed by Mike Kestemont, 13 July 2021
   - [Successes and Failures](Chapter4/successes.markdown) (25 July 2021) 5 pages
   - [Principal component analysis](Chapter4/pca.markdown) (25 July 2021) 20 pages\
@@ -50,4 +51,4 @@ Rough draft
 - [2-dimensional visualization](Notebooks/Burrows/Visualization.ipynb) (24 May 2020)
 - [Zipf's law (1935)](Notebooks/Zipf/Zipf35.ipynb) (27 May 2020)
 - [Zipf's law (1949)](Notebooks/Zipf/Zipf49.ipynb) (27 May 2020)
-- [Burrows's delta](Notebooks/Burrows/Burrows.ipynb) (15 June 2021)
+- [Burrows's delta](Notebooks/Burrows/Burrows.ipynb) (26 July 2021)
