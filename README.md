@@ -22,10 +22,9 @@ Reviewed by Stan Chodorow, 6 November 2017\
 Ready for review (pages 25-49)
 - [Chapter 3: Authority, Author, Authorship](Chapter3/chapter3.markdown) (25 July 2021) 45 pages [(PDF)](Chapter3/chapter3.pdf)\
 Under review by Stan Chodorow, 23 July 2021
-- [Chapter 4: Stylometry](Chapter4/chapter4.markdown) (25 July 2021) 67 pages\
+- [Chapter 4: Stylometry](Chapter4/chapter4.markdown) (28 July 2021) 70 pages\
 Reviewed by Stan Chodorow, 12 July 2020\
 Reviewed by Mike Kestemont, 13 July 2021
-  - [Successes and Failures](Chapter4/successes.markdown) (25 July 2021) 5 pages
   - [Principal component analysis](Chapter4/pca.markdown) (25 July 2021) 20 pages\
   Presented at [*Rem non novam*](https://sites.google.com/site/remnonnovam/), Yale Law School, 21 May 2015\
   Presented at the 15th International Congress of Medieval Canon Law, Paris, 20 July 2016
