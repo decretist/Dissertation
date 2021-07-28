@@ -104,8 +104,7 @@ a stylometric analysis of the frequencies of 70 function words to
 compare the 12 disputed numbers with numbers securely attributed
 to Hamilton and Madison.[@mosteller_inference_1964]
 
-![](JPGs/1x1.jpg)
-![Federalist](JPGs/Federalist_CA_72_MFWs.jpg)
+<!-- ![Federalist](JPGs/Federalist_CA_72_MFWs.jpg) -->
 
 ### Definition of first- and second-recension *dicta*
 
@@ -916,15 +915,16 @@ equation r × f = C. (The rank of the most frequent word is defined
 as 1, that of the second most frequent word as 2, and so on.) As a
 consequence, assuming words are weighted in proportion to their
 frequency of occurrence in the corpus, every marginal word has less
-value as evidence than the word before it. Some stylometric techniques,
-such as Burrows's Delta, weight each word from a corpus of texts
-equally, but such choices need to be made with an informed awareness
-of the trade-offs involved. The second reason is that every marginal
-word is less likely to be a function word, and more likely to be a
-content word. Twenty-four out of the thirty most frequent words
-from Gratian's *dicta* are function words potentially suitable for
-use in stylometric analysis, but only 64 out of the 250 most frequent
-words.
+value as evidence than the word before it. Stylometric techniques
+such as Burrows's Delta, which takes the mean of word frequency
+z-scores for an arbitrary number of words, have the effect of
+weighting each selected word from a corpus of texts equally. Such
+choices, however, need to be made with an informed awareness of the
+trade-offs involved. The second reason is that every marginal word
+is less likely to be a function word, and more likely to be a content
+word. Twenty-four out of the thirty most frequent words from Gratian's
+*dicta* are function words potentially suitable for use in stylometric
+analysis, but only 64 out of the 250 most frequent words.
 
 ### Zipf's law
 

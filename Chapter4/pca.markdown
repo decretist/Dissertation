@@ -37,7 +37,7 @@ project.[5]
 Stylometric analysis for the purpose of authorship attribution rests on
 the frequencies of occurrence of function words including conjunctions.
 It is therefore essential to properly account for the frequencies of
-enclitics endings representing conjunctions. Each word in the samples
+enclitic endings representing conjunctions. Each word in the samples
 ending with -*que* where the ending represents an enclitic being used as
 a conjunction and is not simply part of the word has been mapped to a
 two-word sequence consisting of the word plus the pseudo-conjunction
@@ -262,79 +262,6 @@ plots in this section!!!\]**
 ![Figure 4 updated 25 Jun 2019](JPGs/NoQ_PCA_3_001.jpg)
 
 ![Figure 5 updated 25 Jun 2019](JPGs/NoQ_PCA_4_001.jpg)
-
-# Bibliography
-
-<div id="refs" class="references csl-bib-body hanging-indent">
-
-<div id="ref-craig_stylistic_2004" class="csl-entry">
-
-Craig, Hugh. “Stylistic Analysis and Authorship Studies.” In *A
-Companion to Digital Humanities*, edited by Susan Schreibman, Raymond
-George Siemens, and John Unsworth, 273–88. Blackwell Companions to
-Literature and Culture 26. Malden, MA: Blackwell Pub, 2004.
-
-</div>
-
-<div id="ref-stylo" class="csl-entry">
-
-Eder, Maciej, Jan Rybicki, and Mike Kestemont. “Stylometry with r: A
-Package for Computational Text Analysis.” *R Journal* 8, no. 1 (2016):
-107–21.
-<https://journal.r-project.org/archive/2016/RJ-2016-007/index.html>.
-
-</div>
-
-<div id="ref-jockers_macroanalysis_2013" class="csl-entry">
-
-Jockers, Matthew Lee. *Macroanalysis: Digital Methods and Literary
-History*. Topics in the Digital Humanities. Urbana: University of
-Illinois Press, 2013.
-
-</div>
-
-<div id="ref-kestemont_collaborative_2015" class="csl-entry">
-
-Kestemont, Mike, Sara Moens, and Jeroen Deploige. “Collaborative
-Authorship in the Twelfth Century: A Stylometric Study of Hildegard of
-Bingen and Guibert of Gembloux.” *Literary and Linguistic Computing* 30,
-no. 2 (June 2015): 199–224.
-
-</div>
-
-<div id="ref-kestemont_abstract_2013" class="csl-entry">
-
-———. “Stylometry and the Complex Authorship in Hildegard of Bingen’s
-Oeuvre.” In *Digital Humanities 2013: Conference Abstracts*, 255–58.
-Lincoln, NE: University of Nebraska–Lincoln, 2013.
-<http://dh2013.unl.edu/abstracts/ab-126.html>.
-
-</div>
-
-<div id="ref-porter_schinke_nodate" class="csl-entry">
-
-Porter, Martin. “The Schinke Latin Stemming Algorithm.” Accessed March
-18, 2021. <https://snowballstem.org/otherapps/schinke/>.
-
-</div>
-
-<div id="ref-R" class="csl-entry">
-
-R Core Team. *R: A Language and Environment for Statistical Computing*.
-Vienna, Austria: R Foundation for Statistical Computing, 2020.
-<https://www.R-project.org/>.
-
-</div>
-
-<div id="ref-schinke_stemming_1996" class="csl-entry">
-
-Schinke, Robyn, Mark Greengrass, Alexander M. Robertson, and Peter
-Willett. “A Stemming Algorithm for Latin Text Databases.” *Journal of
-Documentation* 52, no. 2 (1996): 172–87.
-
-</div>
-
-</div>
 
 [1] Earlier versions of this section were presented as conference
 papers. "Can Stylometry Provide New Evidence about the Identity of

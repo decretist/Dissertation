@@ -93,7 +93,7 @@ Adair's findings by conducting a stylometric analysis of the frequencies
 of 70 function words to compare the 12 disputed numbers with numbers
 securely attributed to Hamilton and Madison.[6]
 
-![](JPGs/1x1.jpg) ![Federalist](JPGs/Federalist_CA_72_MFWs.jpg)
+<!-- ![Federalist](JPGs/Federalist_CA_72_MFWs.jpg) -->
 
 ### Definition of first- and second-recension *dicta*
 
@@ -301,9 +301,9 @@ instance of homeoteleuton. The following fours lines from the text of
 D.23 c.2 in the Friedberg edition (column 79):
 
 > *Patre et Spiritu sancto omnium creaturarum; qui passus sit pro salute
-> nostra uera carnis **passione, mortuus uera corporis sui morte,
-> resurrexit uera carnis** suae receptione et uera animae resumptione,
-> in qua ueniat iudicare*
+> nostra uera carnis passione, mortuus uera corporis sui morte,
+> resurrexit uera carnis suae receptione et uera animae resumptione, in
+> qua ueniat iudicare*
 
 were transcribed as the following three lines in the e-text:
 
@@ -862,14 +862,15 @@ rank of the most frequent word is defined as 1, that of the second most
 frequent word as 2, and so on.) As a consequence, assuming words are
 weighted in proportion to their frequency of occurrence in the corpus,
 every marginal word has less value as evidence than the word before it.
-Some stylometric techniques, such as Burrows's Delta, weight each word
-from a corpus of texts equally, but such choices need to be made with an
-informed awareness of the trade-offs involved. The second reason is that
-every marginal word is less likely to be a function word, and more
-likely to be a content word. Twenty-four out of the thirty most frequent
-words from Gratian's *dicta* are function words potentially suitable for
-use in stylometric analysis, but only 64 out of the 250 most frequent
-words.
+Stylometric techniques such as Burrows's Delta, which takes the mean of
+word frequency z-scores for an arbitrary number of words, have the
+effect of weighting each selected word from a corpus of texts equally.
+Such choices, however, need to be made with an informed awareness of the
+trade-offs involved. The second reason is that every marginal word is
+less likely to be a function word, and more likely to be a content word.
+Twenty-four out of the thirty most frequent words from Gratian's *dicta*
+are function words potentially suitable for use in stylometric analysis,
+but only 64 out of the 250 most frequent words.
 
 ### Zipf's law
 
@@ -877,7 +878,7 @@ The observed empirical relationship that word frequencies in a corpus of
 text tail off inversely as the rank is known as Zipf's law, after
 American quantitative linguist George Kingsley Zipf (d.1950). Though he
 does not seem to have claimed discovery, Zipf published the first
-extended discussions of the phenomenon.[28] **The rank-frequency
+extended discussions of the phenomenon.[28] The rank-frequency
 distribution of words in a corpus of any language is not merely a
 curiosity, but rather provides a general background of what Zipf
 characterized as "orderliness" against which variations in frequency of
@@ -885,7 +886,7 @@ occurrence of individual words are both detectable and meaningful. Thus
 it is worthwhile to discuss theoretical predictions about the
 rank-frequency distribution of words in a corpus, and to demonstrate
 that Gratian's *dicta* display the expected orderliness of word
-distribution.**
+distribution.
 
 If the words in a corpus of text are rank-ordered from most to least
 frequent, Zipf's laws posits that, as a first-order approximation, the
@@ -933,9 +934,9 @@ because it implied fractional values of *a* for the most frequent
 words.[30] Zipf had a vivid awareness, ahead of its time for the
 pre-digital age in which he lived, of the fact that the variables in the
 formulas by which he sought to express these relationships represent
-discrete rather than continuous quantities.[31] **Zipf also noted that
+discrete rather than continuous quantities.[31] Zipf also noted that
 value of the exponent of b is likely to differ from 2 depending on the
-size of the corpus[32]**
+size of the corpus[32]
 
 Zipf's final attempt, in 1949, to give a quantitative account of the
 distribution of words in a corpus characterized the distribution in
@@ -1068,7 +1069,7 @@ features.
 It is important to emphasize that the mean frequency of feature
 occurrence calculated at this stage of Burrows's algorithm and
 subsequently used to calculate the sample standard deviation for each
-feature is **not** the overall mean frequency across the corpus of
+feature is *not* the overall mean frequency across the corpus of
 attributed comparison text samples. Instead, the comparison corpus
 feature mean is calculated by averaging the normalized (percentage)
 frequency for each feature across all of the text samples in the
@@ -1257,7 +1258,7 @@ sample made up of seven extended passages from the pseudo-Augustinian
 *De vera et falsa penitentia* quoted by Gratian in *de Penitentia* are
 substituted for the 3605-word sample containing the hypothetical case
 statements.[38] As noted in Chapter 0 above, Gratian can be said with a
-high degree of confidence **not** to be the author of *De vera et falsa
+high degree of confidence *not* to be the author of *De vera et falsa
 penitentia*. The authors are strongly distinguished by their choice of
 post-positive conjunctions: Gratian has a preference for *autem*, while
 pseudo-Augustine has an even stronger preference for *enim*.
@@ -1453,10 +1454,9 @@ Cambridge University Press, 2000), 197–227.
 the first line of the *dictum*, as opposed to the first line of the
 column, in the print version of the Friedberg edition.
 
-[10] **This paragraph may have to be moved to a separate section
+[10] This paragraph may have to be moved to a separate section
 explaining the rationale for the various roll-ups of the *dicta* used in
-the following analyses, e.g., Gratian0, Gratian1, dePen, Gratian2,
-etc.**
+the following analyses, e.g., Gratian0, Gratian1, dePen, Gratian2, etc.
 
 [11] Maciej Eder, “Does Size Matter? Authorship Attribution, Small
 Samples, Big Problem,” *Literary and Linguistic Computing* 30, no. 2
@@ -1477,26 +1477,23 @@ normally been registered." Winroth, *The Making of Gratian’s Decretum*,
 [14] Kenneth Pennington, “The Biography of Gratian, the Father of Canon
 Law,” *Villanova Law Review* 59 (2014): 685.
 
-[15] **Anders, my understanding is that you took a similar approach when
+[15] Anders, my understanding is that you took a similar approach when
 you created the baseline text for the edition in progress of the first
 recension (although you adopted a set of orthographic conventions
-different from Friedberg's in the resulting text).**
+different from Friedberg's in the resulting text).
 
 [16] Lisa Samuels and Jerome McGann, “Deformance and Interpretation,”
 *New Literary History* 30, no. 1 (1999): 25–56.
 
-[17] As of the most recent, 22 April 2019, version, eight case
-statements (for cases 1-3, 9, 15, 24, 30, and 34) appear to have a
-complete critical apparatus. An addition six case statements (for cases
-4-7, 10, and 11) have an incomplete critical apparatus that records
-variant readings from Fd only. The critical apparatus for the case
-statement for case 35 records a single variant reading from Aa. The
-remaining 21 case statements (for cases 8, 12-14, 16-23, 25-29, 31-33,
-and 36) have no critical apparatus at all.
-
-**Update for 5 October 2019 version of the edition in progress. The case
-statement are used as the example here because they are the focus of my
-dissertation.**
+[17] As of 22 April 2019 version, eight case statements (for cases 1-3,
+9, 15, 24, 30, and 34) appear to have a complete critical apparatus. An
+addition six case statements (for cases 4-7, 10, and 11) have an
+incomplete critical apparatus that records variant readings from Fd
+only. The critical apparatus for the case statement for case 35 records
+a single variant reading from Aa. The remaining 21 case statements (for
+cases 8, 12-14, 16-23, 25-29, 31-33, and 36) have no critical apparatus
+at all. The case statement are used as the example here because they are
+the focus of my dissertation.
 
 [18] Timothy Reuter and Gabriel Silagi, eds., *Wortkonkordanz zum
 Decretum Gratiani*, Monumenta Germaniae historica. Hilfsmittel 10
@@ -1570,11 +1567,11 @@ relationship as "the law of diminishing returns of words" (1949). He
 expressed the relationship as *a**b*<sup>2</sup> = *k* (1935) and r × f
 = C (1949).
 
-[29] **In Digital Humanities courses, 1/N is typically presented *as*
+[29] In Digital Humanities courses, 1/N is typically presented *as*
 Zipf's law. The reductionist 1/N representation of the rank-frequency
 relationship is misleading insofar as it ignores scaling considerations,
 and elides the discrete rather than continuous nature of the variables
-representing rank and frequency.**
+representing rank and frequency.
 
 [30] "Hence the *a**b*<sup>2</sup> = *k* relationship is valid only for
 the less frequently occurring words which, however, represent the
