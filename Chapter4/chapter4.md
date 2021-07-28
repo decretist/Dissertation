@@ -324,8 +324,8 @@ following fours lines from the text of D.23 c.2 in the Friedberg
 edition (column 79):
 
 > *Patre et Spiritu sancto omnium creaturarum; qui passus sit pro
-salute nostra uera carnis **passione, mortuus uera corporis sui
-morte, resurrexit uera carnis** suae receptione et uera animae
+salute nostra uera carnis passione, mortuus uera corporis sui
+morte, resurrexit uera carnis suae receptione et uera animae
 resumptione, in qua ueniat iudicare*
 
 were transcribed as the following three lines in the e-text:
@@ -933,14 +933,14 @@ corpus of text tail off inversely as the rank is known as Zipf's
 law, after American quantitative linguist George Kingsley Zipf
 (d.1950). Though he does not seem to have claimed discovery, Zipf
 published the first extended discussions of the phenomenon.[^27]
-**The rank-frequency distribution of words in a corpus of any
+The rank-frequency distribution of words in a corpus of any
 language is not merely a curiosity, but rather provides a general
 background of what Zipf characterized as "orderliness" against which
 variations in frequency of occurrence of individual words are both
 detectable and meaningful. Thus it is worthwhile to discuss theoretical
 predictions about the rank-frequency distribution of words in a
 corpus, and to demonstrate that Gratian's *dicta* display the
-expected orderliness of word distribution.**
+expected orderliness of word distribution.
 
 If the words in a corpus of text are rank-ordered from most to least
 frequent, Zipf's laws posits that, as a first-order approximation,
@@ -988,9 +988,9 @@ fractional values of *a* for the most frequent words.[^29] Zipf had
 a vivid awareness, ahead of its time for the pre-digital age in
 which he lived, of the fact that the variables in the formulas by
 which he sought to express these relationships represent discrete
-rather than continuous quantities.[^30] **Zipf also noted that value
+rather than continuous quantities.[^30] Zipf also noted that value
 of the exponent of b is likely to differ from 2 depending on the
-size of the corpus[@zipf_psycho-biology_1935, 43]**
+size of the corpus[@zipf_psycho-biology_1935, 43]
 
 Zipf's final attempt, in 1949, to give a quantitative account of
 the distribution of words in a corpus characterized the distribution
@@ -1126,7 +1126,7 @@ each of the MFWs or features.
 It is important to emphasize that the mean frequency of feature
 occurrence calculated at this stage of Burrows's algorithm and
 subsequently used to calculate the sample standard deviation for
-each feature is **not** the overall mean frequency across the corpus
+each feature is *not* the overall mean frequency across the corpus
 of attributed comparison text samples. Instead, the comparison
 corpus feature mean is calculated by averaging the normalized
 (percentage) frequency for each feature across all of the text
@@ -1322,7 +1322,7 @@ The second experiment is a variation on the first, in which a
 pseudo-Augustinian *De vera et falsa penitentia* quoted by Gratian
 in *de Penitentia* are substituted for the 3605-word sample containing
 the hypothetical case statements.[^37] As noted in Chapter 0 above,
-Gratian can be said with a high degree of confidence **not** to be
+Gratian can be said with a high degree of confidence *not* to be
 the author of *De vera et falsa penitentia*. The authors are strongly
 distinguished by their choice of post-positive conjunctions: Gratian
 has a preference for *autem*, while pseudo-Augustine has an even
@@ -1494,10 +1494,10 @@ numbers relative to the first line of the *dictum*, as opposed to
 the first line of the column, in the print version of the Friedberg
 edition.
 
-[^9]: **This paragraph may have to be moved to a separate section
+[^9]: This paragraph may have to be moved to a separate section
 explaining the rationale for the various roll-ups of the *dicta*
 used in the following analyses, e.g., Gratian0, Gratian1, dePen,
-Gratian2, etc.**
+Gratian2, etc.
 
 [^11]: @winroth_making_2000 [9-11]. See also @kuttner_gratiani_1948
 (Latin), and @kuttner_research_1990 [10, 21-22], which mentions the
@@ -1509,23 +1509,20 @@ critique.
 within the texts may very well have been overlooked, and minor differences
 have not normally been registered." @winroth_making_2000 [197].
 
-[^14]: **Anders, my understanding is that you took a similar approach
+[^14]: Anders, my understanding is that you took a similar approach
 when you created the baseline text for the edition in progress of
 the first recension (although you adopted a set of orthographic
-conventions different from Friedberg's in the resulting text).**
+conventions different from Friedberg's in the resulting text).
 
-[^16]: As of the most recent, 22 April 2019, version, eight case
-statements (for cases 1-3, 9, 15, 24, 30, and 34) appear to have a
-complete critical apparatus. An addition six case statements (for
-cases 4-7, 10, and 11) have an incomplete critical apparatus that
-records variant readings from Fd only. The critical apparatus for
-the case statement for case 35 records a single variant reading
-from Aa. The remaining 21 case statements (for cases 8, 12-14,
-16-23, 25-29, 31-33, and 36) have no critical apparatus at all.
-
-    **Update for 5 October 2019 version of the edition in progress.
-    The case statement are used as the example here because they
-    are the focus of my dissertation.**
+[^16]: As of 22 April 2019 version, eight case statements (for cases
+1-3, 9, 15, 24, 30, and 34) appear to have a complete critical
+apparatus. An addition six case statements (for cases 4-7, 10, and
+11) have an incomplete critical apparatus that records variant
+readings from Fd only. The critical apparatus for the case statement
+for case 35 records a single variant reading from Aa. The remaining
+21 case statements (for cases 8, 12-14, 16-23, 25-29, 31-33, and
+36) have no critical apparatus at all. The case statement are used
+as the example here because they are the focus of my dissertation.
 
 [^18]: @hockey_history_2004 [4-6]. The highest honor in the field
 of Digital Humanities is the Roberto Busa Prize, awarded by the
@@ -1582,11 +1579,11 @@ Zipf referred to the relationship as "the law of diminishing returns
 of words" (1949). He expressed the relationship as $ab^2 = k$ (1935)
 and r × f = C (1949).
 
-[^28]: **In Digital Humanities courses, 1/N is typically presented
+[^28]: In Digital Humanities courses, 1/N is typically presented
 *as* Zipf's law. The reductionist 1/N representation of the
 rank-frequency relationship is misleading insofar as it ignores
 scaling considerations, and elides the discrete rather than continuous
-nature of the variables representing rank and frequency.**
+nature of the variables representing rank and frequency.
 
 [^29]: "Hence the $ab^2 = k$ relationship is valid only for the
 less frequently occurring words which, however, represent the greater

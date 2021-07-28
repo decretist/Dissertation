@@ -48,7 +48,7 @@ was a useful example for this project.[^pca5]
 Stylometric analysis for the purpose of authorship attribution rests
 on the frequencies of occurrence of function words including
 conjunctions. It is therefore essential to properly account for the
-frequencies of enclitics endings representing conjunctions. Each
+frequencies of enclitic endings representing conjunctions. Each
 word in the samples ending with -*que* where the ending represents
 an enclitic being used as a conjunction and is not simply part of
 the word has been mapped to a two-word sequence consisting of the
