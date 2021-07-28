@@ -476,28 +476,9 @@ elements such as canons and *dicta*, cases and distinctions, but not
 
 The extraction engine captures every element of text between a *dictum*
 start tag (`<T A>` or `<T P>`) and the start tag for the next element
-that can possibly follow a *dictum*:
-
-``` python
-import re
-
-f = open('edF.txt', 'r')
-file = f.read()
-# (?<=...) positive lookbehind assertion.
-dicta = re.findall('(?:\<T [AP]\>|(?<=\<T [AP]\>))(.*?)'    # dictum starts with dictum ante or dictum post tag.
-    '(?:'                   # non-capturing group.
-        '\<1 [CD][CP]?\>|'  # dictum ends with major division,
-        '\<2 \d{1,3}\>|'    # or number of major division,
-        '\<3 \d{1,2}\>|'    # or number of question,
-        '\<4 \d{1,3}\>|'    # or number of canon,
-        '\<P 1\>|'          # or Palea,
-        '\<T [AIPRT]\>'      # or inscription or text tag.
-    ')', file, re.S)        # re.S (re.DOTALL) makes '.' special character match any character including newline.
-```
-
-The extracted *dicta* require considerable scrubbing before they can be
-used. Here, for example, is what D.54 d.p.c.23 looks like in its raw
-state:
+that can possibly follow a *dictum*. The extracted *dicta* require
+considerable scrubbing before they can be used. Here, for example, is
+what D.54 d.p.c.23 looks like in its raw state:
 
 ``` python
 [' -Gratian.+ Ecce, quomodo serui ad clericatum ualeant assumi,\n
@@ -528,23 +509,7 @@ corresponding the first- and second-recension *dicta*. For each
 *dictum*, the text matching the pattern is inserted into a dictionary
 representing the first recension paratext; then the text resulting when
 the text matching the pattern is replaced by the null string `''` is
-inserted into a dictionary representing the second recension paratext:
-
-``` python
-import re
-
-dictionary_1r = {} # first recension paratext
-dictionary_2r = {} # second recension paratext
-dictionary_Fr = {'D.54 d.p.c.23': 'Ecce, quomodo serui ad clericatum ualeant assumi, uel quomodo non admittantur. Liberti quoque non sunt promouendi ad clerum, nisi ab obsequiis sui patroni fuerint absoluti. Unde in Concilio Eliberitano:'}
-keysandpatterns = [{'key': 'D.54 d.p.c.23', 'pattern': '(Ecce, quomodo serui.*?quomodo non admittantur\.)'}]
-for i in range (len(keysandpatterns)):
-    key = keysandpatterns[i]['key']
-    pattern = keysandpatterns[i]['pattern']
-    result = re.search(pattern, dictionary_Fr[key])
-    dictionary_1r[key] = result.group(1)
-    dictionary_2r[key] = re.sub(pattern, '', dictionary_Fr[key])
-```
-
+inserted into a dictionary representing the second recension paratext.
 Here is the resulting first recension paratext:
 
 ``` python
@@ -619,42 +584,9 @@ the technique can be used at a higher number of dimensions (n \> 3) than
 can be visualized in graphical form. Word frequency data for the four
 most frequent words (MFWs) will therefore be collected from the start,
 even though the data for the third- and fourth-most frequent words will
-not be used in this section.
-
-First, identify the four most frequent words in the comparison text
-samples, Gratian1, dePen, and Gratian2:
-
-``` python
-import re
-
-def get_tokens(filename):
-    '''open text file and return list of tokens'''
-    # text = open(filename, 'r').read().lower()
-    f = open(filename, 'r') # open file
-    text = f.read() # read file
-    text = text.lower() # lower-case text
-    tokens = [word for word in re.split('\W', text) if word != ''] # remove punctuation
-    return tokens
-
-def get_features(samples):
-    tokens = []
-    for sample in samples:
-        tokens += get_tokens('../corpus/' + sample + '.txt')
-    types = list(set(tokens)) # create unordered list of unique words
-    tmp = dict.fromkeys(types, 0) # create temporary dictionary, initialize counts to 0
-    for token in tokens: tmp[token] += 1 # count words
-    # re-order words in temporary dictionary numerically by descending frequency
-    # re-order words with same frequency alphabetically
-    features = { 
-        key: value for key, value in sorted(tmp.items(),
-        key = lambda item: (-item[1], item[0]))
-    }
-    return features
-
-samples = ['Gratian1', 'dePen', 'Gratian2']
-features = get_features(samples)
-list(features.keys())[:4] # 4 most frequent words (MFWs)
-```
+not be used in this section The first step is to identify the four most
+frequent words in the comparison text samples, Gratian1, dePen, and
+Gratian2.
 
 The four most frequent words in the three comparison samples Gratian1,
 dePen, and Gratian2---the samples treated as being of known
@@ -668,23 +600,6 @@ identifying the four most frequent words in the three comparison
 samples, next, count the number of occurrences of those words in each of
 the samples:[30]
 
-``` python
-import pandas as pd
-
-def get_counts(features, samples):
-    columns = {}
-    for sample in samples:
-        columns[sample] = []
-        tmp = get_features([sample])
-        for feature in features:
-            columns[sample].append(tmp.get(feature, 0))
-    return pd.DataFrame(columns, index = features)
-
-mfws = list(features.keys())[:4] # 4 most frequent words (MFWs)
-unknown = 'Gratian0'
-counts = get_counts(mfws, [unknown] + samples)
-```
-
 |     | Gratian0 | Gratian1 | dePen | Gratian2 |
 |:----|---------:|---------:|------:|---------:|
 | in  |       74 |     1450 |   252 |      411 |
@@ -695,17 +610,6 @@ counts = get_counts(mfws, [unknown] + samples)
 After determining the number of occurrences of the MFWs, next, determine
 the length (total word count) for each of the samples:
 
-``` python
-def get_lengths(samples):
-    filenames = ['../corpus/' + sample + '.txt' for sample in samples]
-    lengths = {}
-    for i in range(len(samples)):
-       lengths[samples[i]] = len(get_tokens(filenames[i]))
-    return pd.DataFrame(lengths, index = ['words'])
-
-lengths = get_lengths([unknown] + samples)
-```
-
 |       | Gratian0 | Gratian1 | dePen | Gratian2 |
 |:------|---------:|---------:|------:|---------:|
 | words |     3605 |    56713 | 10081 |    14255 |
@@ -714,10 +618,6 @@ Finally, divide the number of occurrences of the MFWs in the samples by
 the sample length and multiply the quotient by 1,000 to determine the
 normalized frequency of occurrence per 1,000 words for each of the MFWs
 in each of the samples:
-
-``` python
-frequencies = (counts / lengths.values) * 1000
-```
 
 |     | Gratian0 | Gratian1 |   dePen | Gratian2 |
 |:----|---------:|---------:|--------:|---------:|
@@ -782,10 +682,6 @@ this section. Disregard the Gratian0 column, and use only the columns
 corresponding to the three comparison samples, Gratian1, dePen, and
 Gratian2, to calculate the means for the values in each of the rows in
 the frequency table representing the four most frequent words:
-
-``` python
-means = frequencies[samples].mean(axis = 1).to_frame('mean')
-```
 
 |     | Gratian1 |   dePen | Gratian2 |    mean |
 |:----|---------:|--------:|---------:|--------:|
@@ -881,10 +777,6 @@ the four most frequent words, using only the values in the columns
 corresponding to the three comparison samples, and the means computed
 from them:
 
-``` python
-standard_deviations = frequencies[samples].std(axis = 1).to_frame('std')
-```
-
 |     | Gratian1 |   dePen | Gratian2 |    mean |    std |
 |:----|---------:|--------:|---------:|--------:|-------:|
 | in  |  25.5673 | 24.9975 |  28.8320 | 26.4656 | 2.0691 |
@@ -931,10 +823,6 @@ words, z is a dimensionless number.)
 Calculate the z-scores for the remaining most frequent words, and then
 plot the coordinates of the attributed samples Gratian1, dePen, and
 Gratian2:
-
-``` python
-z_scores = (frequencies - means.values) / standard_deviations.values
-```
 
 |     | Gratian0 | Gratian1 |   dePen | Gratian2 |
 |:----|---------:|---------:|--------:|---------:|
@@ -1266,10 +1154,6 @@ First, split the z-scores into two new dataframes, one for the test
 sample Gratian0, assumed for the purpose of this experiment to be the
 work of an unknown author:
 
-``` python
-test = z_scores[[unknown]]
-```
-
 |     | Gratian0 |
 |:----|---------:|
 | in  |  -2.8702 |
@@ -1280,10 +1164,6 @@ test = z_scores[[unknown]]
 the other for the comparison samples Gratian1, dePen, and Gratian2,
 assumed for the purpose of this experiment to represent the work of
 known authors:
-
-``` python
-corpus = z_scores[samples]
-```
 
 |     | Gratian1 |   dePen | Gratian2 |
 |:----|---------:|--------:|---------:|
@@ -1308,10 +1188,6 @@ value, and record the result in the corresponding column and row of the
 (Gratian0) is -6.5491, the z-score for *non* in the Gratian1 column of
 *corpus* is -0.0361, so the absolute value of the difference recorded in
 the *non* row of the Gratian1 column of *differences* would be 6.5130.
-
-``` python
-differences = (test.values - corpus).abs()
-```
 
 |     | Gratian1 |  dePen | Gratian2 |
 |:----|---------:|-------:|---------:|
@@ -1340,10 +1216,6 @@ such as Burrows's Delta as measuring 'Manhattan Distance'. The analogy
 is to walking or driving from a starting to an ending point through a
 space in which the streets have been laid out at right angles to one
 another, like Manhattan.
-
-``` python
-row = (differences.mean(axis = 0)).to_frame(unknown).transpose()
-```
 
 |          | Gratian1 |  dePen | Gratian2 |
 |:---------|---------:|-------:|---------:|
@@ -1389,30 +1261,6 @@ demonstrate the adaptation of Burrows's technique in a circumstance in
 which there are no securely attributed comparison texts outside of the
 corpus, and in which there is some reason to suspect that there are
 multiple authors at work within the corpus.
-
-``` python
-# author candidates, e.g. Gratian 1, the Master of Penance, Gratian 2, etc.
-candidates = ['Gratian0', 'Gratian1', 'dePen', 'Gratian2']
-deltas = pd.DataFrame(columns = candidates)
-limit = 4 # 4 most frequent words (MFWs)
-for candidate in candidates:
-    unknown = candidate
-    samples = candidates[:]
-    samples.remove(unknown)
-    features = get_features(samples)
-    mfws = list(features.keys())[:limit]
-    counts = get_counts(mfws, [unknown] + samples)
-    lengths = get_lengths([unknown] + samples)
-    frequencies = (counts / lengths.values) * 1000
-    means = frequencies[samples].mean(axis = 1).to_frame('mean')
-    standard_deviations = frequencies[samples].std(axis = 1).to_frame('std')
-    z_scores = (frequencies - means.values) / standard_deviations.values
-    test = z_scores[[unknown]]
-    corpus = z_scores[samples]
-    differences = (test.values - corpus).abs()
-    row = (differences.mean(axis = 0)).to_frame(unknown).transpose()
-    deltas = deltas.append(row)
-```
 
 |          | Gratian0 | Gratian1 |  dePen | Gratian2 |
 |:---------|---------:|---------:|-------:|---------:|

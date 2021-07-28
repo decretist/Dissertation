@@ -22,7 +22,7 @@ Reviewed by Stan Chodorow, 6 November 2017\
 Ready for review (pages 25-49)
 - [Chapter 3: Authority, Author, Authorship](Chapter3/chapter3.markdown) (25 July 2021) 45 pages [(PDF)](Chapter3/chapter3.pdf)\
 Under review by Stan Chodorow, 23 July 2021
-- [Chapter 4: Stylometry](Chapter4/chapter4.markdown) (28 July 2021) 89 pages\
+- [Chapter 4: Stylometry](Chapter4/chapter4.markdown) (28 July 2021) 86 pages\
 Reviewed by Stan Chodorow, 12 July 2020\
 Reviewed by Mike Kestemont, 13 July 2021\
   Presented at [*Rem non novam*](https://sites.google.com/site/remnonnovam/), Yale Law School, 21 May 2015\
