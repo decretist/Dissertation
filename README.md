@@ -25,8 +25,8 @@ Under review by Stan Chodorow, 23 July 2021
 - [Chapter 4: Stylometry](Chapter4/chapter4.markdown) (28 July 2021) 86 pages\
 Reviewed by Stan Chodorow, 12 July 2020\
 Reviewed by Mike Kestemont, 13 July 2021\
-  Presented at [*Rem non novam*](https://sites.google.com/site/remnonnovam/), Yale Law School, 21 May 2015\
-  Presented at the 15th International Congress of Medieval Canon Law, Paris, 20 July 2016
+Presented at [*Rem non novam*](https://sites.google.com/site/remnonnovam/), Yale Law School, 21 May 2015\
+Presented at the 15th International Congress of Medieval Canon Law, Paris, 20 July 2016 [(PDF)](Talk/ICMCL.pdf)
 - [Conclusion](Conclusion/conclusion.markdown) (25 July 2021) 12 pages\
 Rough draft
 - [Bibliography](bib/biblio.markdown) (26 July 2021) 13 pages [(PDF)](bib/biblio.pdf)

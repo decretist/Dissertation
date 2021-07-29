@@ -351,7 +351,7 @@ _dicta_ and canons are poorly separated in _de Pen._ I believe that
 the unusual dispersion of the samples that you see in this plot is
 a result of that feature.
 
-##Conclusion
+## Conclusion
 
 Principal component analysis (PCA) of the frequencies of function
 words (prepositions and conjunctions) in the texts strongly suggests
@@ -373,5 +373,5 @@ satisfactorily answer the question "was there one Gratian or were
 there two?" it is probably because that is not the right question
 to ask.
 
-#Bibliography
+# Bibliography
 
