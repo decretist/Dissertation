@@ -483,8 +483,16 @@ ad clerum, nisi ab obsequiis sui patroni fuerint absoluti.\n
 Unde in Concilio Eliberitano: -[c. 80.]+\n']
 ```
 
-Each *dictum* is then processed into an item (key-value pair) in a
-Python dictionary:
+Each *dictum* is then processed into a key-value pair in a Python
+dictionary. Dictionaries or associative arrays are a built-in Python
+data structure that can be thought of as a set of key-value pairs.
+Dictionaries are unlike lists or arrays in that the content of the data
+structure is accessed by a key rather than by a numerical index. Keys
+are usually alphanumeric text strings, although numbers can be used. The
+only requirement is that each key in a dictionary must be unique. In the
+present example, the key is the string `'D.54 d.p.c.23'`, and the value
+is a string representing the text of D.54 d.p.c.23 extracted from the
+MGH e-text of the Friedberg edition:
 
 ``` python
 {'D.54 d.p.c.23': 'Ecce, quomodo serui ad clericatum ualeant assumi, uel quomodo non admittantur. Liberti quoque non sunt promouendi ad clerum, nisi ab obsequiis sui patroni fuerint absoluti. Unde in Concilio Eliberitano:'}
