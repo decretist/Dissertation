@@ -243,28 +243,24 @@ Contents of the First Recension of Gratian's *Decretum*."[12] An
 alternative restatement would be to define the second-recension *dicta*
 as the difference left by subtracting all of the words of the
 first-recension *dicta* as defined by Winroth's appendix from the text
-in the Friedberg edition. This definition is implemented by passing
-sequentially through the *dicta* and applying the following three rules:
+in the Friedberg edition.
 
--   If a *dictum* is listed in Winroth's appendix as being in the first
-    recension of the *Decretum*, and as not having been added to or
-    changed in the second recension, the text for that *dictum* is
-    included in the first recension sample. This rule is applied on a
-    per-*dictum* basis.
-
--   If a *dictum* is in the text of the Friedberg edition, and is not
-    listed in Winroth's appendix as being in the first recension, in
-    either unmodified or modified form, the text for that *dictum* is
-    included in the second recension sample. This rule is applied on a
-    per-*dictum* basis.
-
--   If a *dictum* is listed Winroth's appendix as being in the first
-    recension, but as having been added to or changed in the second
-    recension, those words indicated by the appendix are included in the
-    first recension sample, while those words in the text of Friedberg
-    not corresponding to the words indicated by the appendix are
-    included in the second recension sample. This rule is applied on a
-    word-by-word basis.
+This definition is implemented by passing sequentially through the
+*dicta* and applying three rules. First, if a *dictum* is listed in
+Winroth's appendix as being in the first recension of the *Decretum*,
+and as not having been added to or changed in the second recension, the
+text for that *dictum* is included in the first recension sample. This
+rule is applied on a per-*dictum* basis. Second, if a *dictum* is in the
+text of the Friedberg edition, and is not listed in Winroth's appendix
+as being in the first recension, in either unmodified or modified form,
+the text for that *dictum* is included in the second recension sample.
+This rule is applied on a per-*dictum* basis. Third, if a *dictum* is
+listed Winroth's appendix as being in the first recension, but as having
+been added to or changed in the second recension, those words indicated
+by the appendix are included in the first recension sample, while those
+words in the text of Friedberg not corresponding to the words indicated
+by the appendix are included in the second recension sample. This rule
+is applied on a word-by-word basis.
 
 Take D.54 d.p.c.23 as an example. The complete text of the *dictum* as
 it appears in the Friedberg edition (column 214) is:
@@ -527,16 +523,12 @@ and the corresponding second recension paratext:
 Visualizing data from the *dicta* in a simplified two-dimensional form
 is a useful first step toward understanding how stylometric analysis
 works in practice. For the purpose of the following discussion, the
-*dicta* will be divided into four samples:
-
--   the hypothetical case statements (*dicta initialia* or *themata*)
-    that introduce the thirty-six cases in Part II of the *Decretum*,
-
--   the first-recension *dicta* from Parts I and II of the *Decretum*,
-
--   the first- and second-recension *dicta* from *de Penitentia*, and
-
--   the second-recension *dicta* from Parts I and II of the *Decretum*.
+*dicta* will be divided into four samples: i). the hypothetical case
+statements (*dicta initialia* or *themata*) that introduce the
+thirty-six cases in Part II of the *Decretum*, ii). the first-recension
+*dicta* from Parts I and II of the *Decretum*, iii). the first- and
+second-recension *dicta* from *de Penitentia*, and iv). the
+second-recension *dicta* from Parts I and II of the *Decretum*.
 
 In the following code, tables, and plots, these four samples will be
 labelled Gratian0, Gratian1, dePen, and Gratian2. The Gratian1 and
@@ -584,7 +576,7 @@ the technique can be used at a higher number of dimensions (n \> 3) than
 can be visualized in graphical form. Word frequency data for the four
 most frequent words (MFWs) will therefore be collected from the start,
 even though the data for the third- and fourth-most frequent words will
-not be used in this section The first step is to identify the four most
+not be used in this section. The first step is to identify the four most
 frequent words in the comparison text samples, Gratian1, dePen, and
 Gratian2.
 
