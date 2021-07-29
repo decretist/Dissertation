@@ -6,12 +6,11 @@
 
 ### Chapters
 
-Dates indicate most recent changes to markdown files, even minor
-ones. Most of the chapters have been substantially complete for
-many years: the principal component analysis section of what is now
-chapter 4 since the International Congress of Medieval Canon Law
-in 2016, chapter 1 and most of what is now chapter 2 since 2017,
-and chapter 0 since 2018. Chapter 4 was completed in 2020.
+Dates indicate most recent (even minor) changes to markdown files.
+Most of the chapters have been substantially complete for many
+years: the principal component analysis section of chapter 4 since
+2016, chapter 1 and most of chapter 2 since 2017, and chapter 0
+since 2018. Chapter 4 was completed in 2020.
 
 - [Chapter 0: Introduction](Chapter0/chapter0.markdown) (25 July 2021) 20 pages [(PDF)](Chapter0/chapter0.pdf)\
 Reviewed by Stan Chodorow, 17 August 2018
@@ -25,8 +24,15 @@ Under review by Stan Chodorow, 23 July 2021
 - [Chapter 4: Stylometry](Chapter4/chapter4.markdown) (28 July 2021) 86 pages\
 Reviewed by Stan Chodorow, 12 July 2020\
 Reviewed by Mike Kestemont, 13 July 2021\
-Presented at [*Rem non novam*](https://sites.google.com/site/remnonnovam/), Yale Law School, 21 May 2015\
-Presented at the 15th International Congress of Medieval Canon Law, Paris, 20 July 2016 [(PDF)](Talks/ICMCL.pdf)
+The principal component analysis (PCA) section of chapter 4 was presented as:
+  - "Can Computational Linguistics Provide New Evidence about the
+  Identity of Gratian 1 and Gratian 2?" at
+  [*Rem non novam*](https://sites.google.com/site/remnonnovam/),
+  Yale Law School, 21 May 2015, and as:
+  - "New evidence for the authorship of case statements and *dicta*
+  in Gratian's *Decretum*" at the
+  15th International Congress of Medieval Canon Law, Paris, 20 July 2016
+  [(PDF)](Talks/ICMCL.pdf).
 - [Conclusion](Conclusion/conclusion.markdown) (25 July 2021) 12 pages\
 Rough draft
 - [Bibliography](bib/biblio.markdown) (26 July 2021) 13 pages [(PDF)](bib/biblio.pdf)
