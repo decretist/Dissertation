@@ -16,9 +16,9 @@ since 2018. Chapter 4 was completed in 2020.
 Reviewed by Stan Chodorow, 17 August 2018
 - [Chapter 1: Background](Chapter1/chapter1.markdown) (25 July 2021) 24 pages [(PDF)](Chapter1/chapter1.pdf)\
 Reviewed by Stan Chodorow, 6 November 2017\
-(including pages 1-25 of what is now chapter 2)
+(including pages 1-22 of chapter 2)
 - [Chapter 2: The *Decretum*](Chapter2/chapter2.markdown) (25 July 2021) 40 pages [(PDF)](Chapter2/chapter2.pdf)\
-Ready for review (pages 25-49)
+Presentation and Organization sections (pages 22-40) ready for review
 - [Chapter 3: Authority, Author, Authorship](Chapter3/chapter3.markdown) (30 July 2021) 45 pages [(PDF)](Chapter3/chapter3.pdf)\
 Reviewed by Stan Chodorow, 29 July 2021
 - [Chapter 4: Stylometry](Chapter4/chapter4.markdown) (30 July 2021) 82 pages\
