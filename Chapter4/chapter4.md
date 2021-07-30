@@ -570,12 +570,12 @@ and the corresponding second recension paratext:
 Visualizing data from the *dicta* in a simplified two-dimensional
 form is a useful first step toward understanding how stylometric
 analysis works in practice. For the purpose of the following
-discussion, the *dicta* will be divided into four samples: i). the
+discussion, the *dicta* will be divided into four samples: i.) the
 hypothetical case statements (*dicta initialia* or *themata*) that
-introduce the thirty-six cases in Part II of the *Decretum*, ii).
+introduce the thirty-six cases in Part II of the *Decretum*, ii.)
 the first-recension *dicta* from Parts I and II of the *Decretum*,
-iii). the first- and second-recension *dicta* from *de Penitentia*,
-and iv). the second-recension *dicta* from Parts I and II of the
+iii.) the first- and second-recension *dicta* from *de Penitentia*,
+and iv.) the second-recension *dicta* from Parts I and II of the
 *Decretum*.
 
 In the following code, tables, and plots, these four samples will
