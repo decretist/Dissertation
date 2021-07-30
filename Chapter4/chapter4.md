@@ -1631,13 +1631,12 @@ of questions is clearly signalled in each of the case statements
 by the use of one of a small number of formulaic markers, of which
 *Hic primum queritur* is the most common.[^pca9]
 
-The results, however, of running principal component analysis (PCA)
-after removing the enumerated questions from the cases statements
-(all other samples remaining unchanged) are inconclusive, with PC1
-under 10% for both the three- and four-way comparisons. (See Figures
-4 and 5 below.) This probably because at 1,618 words, the Gratian0
-*sine questionibus* sample is too far under the approximately
-2,500-word minimum recommended for analysis of Latin prose.
+Running principal component analysis (PCA) after removing the
+enumerated questions from the cases statements (leaving all other
+samples unchanged) is not, however, a viable approach, because at
+1,618 words, a Gratian0 *sine questionibus* sample would be too far
+under the approximately 2,500-word minimum recommended for analysis
+of Latin prose.
 
 The remaining alternative is to edit the list of function words used
 by stylo to conduct its analysis so that it excludes individual words
@@ -1742,15 +1741,6 @@ the authors of either the first- or second-recension *dicta*. PCA
 also suggests (less strongly) that the first- and second-recension
 *dicta* were not the work of either one or two authors, but are
 more likely to have been the product of collaborative authorship.
-
-### Temporary appendix
-
-**[Update Figures 4 and 5 to use the same samples as the other PCA
-plots in this section!!!]**
-
-![Figure 4 updated 25 Jun 2019](JPGs/NoQ_PCA_3_001.jpg)
-
-![Figure 5 updated 25 Jun 2019](JPGs/NoQ_PCA_4_001.jpg)
 
 [^4]: @mosteller_inference_1964 [14]. See also @adair_authorship_1944a [104].
 
