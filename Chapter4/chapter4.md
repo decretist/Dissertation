@@ -1743,18 +1743,6 @@ also suggests (less strongly) that the first- and second-recension
 *dicta* were not the work of either one or two authors, but are
 more likely to have been the product of collaborative authorship.
 
-On Monday, Anders presented a sketch of what a stemma for the first
-recension might look like. It suggested that the textual transmission
-was far more complicated than we may have imagined (or at least may
-have hoped for). The results I've presented here today suggest that
-the question of authorship is potentially as complicated as the
-question of transmission. I believe that there is enough evidence
-at least to question assumptions of monolithic authorships (of
-either the one Gratian or two Gratians variety). If we cannot
-satisfactorily answer the question "was there one Gratian or were
-there two?" it is probably because that is not the right question
-to ask.
-
 ### Temporary appendix
 
 **[Update Figures 4 and 5 to use the same samples as the other PCA
