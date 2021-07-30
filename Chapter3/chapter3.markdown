@@ -30,7 +30,7 @@ and, where necessary, distinctly.
 In the middle ages, to presume to take on the role of *auctor* was to
 make a claim (at least implicitly) to *auctoritas*. Medieval writers
 were in general quite reticent about making claims to authority on their
-own behalf, and employed a variety of techniques to maintain plausible
+own behalf and employed a variety of techniques to maintain plausible
 deniability that they were in fact claiming authorship and the authority
 that went with it. Some repudiated the role of author altogether and
 circulated the texts they wrote either anonymously or pseudonymously
@@ -41,7 +41,7 @@ circulated under such false pretenses. Others sought to distance
 themselves from the role of author by locating authority in texts they
 quoted rather than in the original use they made of those quoted texts
 in their own writing.[2] Gratian made use of both strategies. He
-circulated the *Decretum* anonymously, and made no overt claim for the
+circulated the *Decretum* anonymously and made no overt claim for the
 authority of his collection other than that derived from the patristic
 texts he extracted out of his material sources. In any event, the modern
 notion that the ultimate source for the authority of a text is the
@@ -73,9 +73,9 @@ been to advance an authority claim on behalf of the collection and its
 compiler.
 
 The second of the two twelfth-century statements on the authority,
-author, and authorship of the *Decretum* we have already encountered is
-found in the preface of Stephen of Tournai to his *Summa* on the
-*Decretum*:
+author, and authorship of the *Decretum*, which we have also already
+encountered, is found in the preface of Stephen of Tournai to his
+*Summa* on the *Decretum*:
 
 > *Compositorem huius operis recte dixerim Gratianum, non auctorem.
 > Capitula namque a sanctis patribus edita in hoc volumine composuit,
@@ -102,11 +102,11 @@ source for the authority of the *Decretum*.
 
 Most medieval and modern readers of the *Decretum* have seen it as a
 teaching text, both in the sense that its intended use (or at least one
-of its intended uses) was as an introductory textbook, and also in the
+of its intended uses) was as an introductory textbook and also in the
 sense that it reflected the author's experiences as a classroom teacher.
 The early manuscript tradition for the *Decretum* displays enough
-variation, even among the first-recension Admont (Aa), Barcelona (Bc),
-Florence (Fd), and Paris (P) manuscripts, to suggest that the text
+variation, even among the first-recension manuscripts---Admont (Aa),
+Barcelona (Bc), Florence (Fd), and Paris (P)---to suggest that the text
 developed continuously over the span of, and in parallel with, a
 relatively long teaching career---perhaps a decade or more. Gratian's
 students would therefore appear to have been the potential witnesses
@@ -857,8 +857,7 @@ taught by him." "although other scholars made some very early
 alterations and additions to the text of the *Decretum*, none of them
 claimed to have been taught by him." R. W. Southern, *Scholastic
 Humanism and the Unification of Europe*, vol. 1 (Oxford, UK ; Cambridge,
-Mass., USA: Blackwell, 1995), 287, 304. Southern does not provide
-footnotes to support these statements.
+Mass., USA: Blackwell, 1995), 287, 304.
 
 [6] The tradition of Roman law teaching in Bologna preserved an
 elaborate genealogy of masters and their students: Pepo preceded
