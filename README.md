@@ -20,7 +20,7 @@ Reviewed by Stan Chodorow, 6 November 2017\
 - [Chapter 2: The *Decretum*](Chapter2/chapter2.markdown) (25 July 2021) 40 pages [(PDF)](Chapter2/chapter2.pdf)\
 Ready for review (pages 25-49)
 - [Chapter 3: Authority, Author, Authorship](Chapter3/chapter3.markdown) (25 July 2021) 45 pages [(PDF)](Chapter3/chapter3.pdf)\
-Under review by Stan Chodorow, 23 July 2021
+Reviewed by Stan Chodorow, 29 July 2021
 - [Chapter 4: Stylometry](Chapter4/chapter4.markdown) (29 July 2021) 82 pages\
 Reviewed by Stan Chodorow, 12 July 2020\
 Reviewed by Mike Kestemont, 13 July 2021\
