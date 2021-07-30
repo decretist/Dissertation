@@ -967,10 +967,9 @@ as the square root of the number of words *a* (as $\\frac{1}{\\sqrt{a}}$
 , or equivalently as *a* <sup>-1/2</sup>). The relationship of the
 logarithm of the number of occurrences to the number of words is linear,
 with a slope of -1/2 corresponding to the exponent (-1/2) of the number
-of words. (See Figure Zy in the appendix at the end of this section for
-actual data from Gratian's *dicta* for values of *b* \[Number of
-Occurrences\] from 1 to 30. The actual slope is -0.5097, quite close to
-the predicted theoretical value of -0.5.)
+of words. The actual slope for data from Gratian's *dicta* for values of
+*b* (Number of Occurrences) from 1 to 30 is -0.5097, quite close to the
+predicted theoretical value of -0.5.
 
 Similarly, in the equation r × f = C, the frequency *f* varies inversely
 as the rank *r* (as 1/r, or equivalently as *r* <sup>-1</sup>). The
@@ -1020,13 +1019,31 @@ a better (though not perfect) fit to the actual rank-frequency data.
 
 ![Figure Zd updated 27 May 2020](PNGs/Figure_Zd.png)
 
+<!--
+
 ### Zipf's law (appendix)
 
 ![Figure Ze updated 27 May 2020](PNGs/Figure_Ze.png)
 
 ![Figure Zy updated 27 May 2020](PNGs/Figure_Zy.png)
 
-![Figure Zz updated 27 May 2020[39]](PNGs/Figure_Zz.png)
+![Figure Zz updated 27 May 2020[^z]](PNGs/Figure_Zz.png)
+
+[^z]: The vertical bands toward the upper-left hand corner of the
+plot - which also appear in Zipf's 1935 figures - require some
+interpretation. There can be a range of values for numbers of
+occurrence (b) for which only one value for number of words (a) has
+that number of occurrence. There are 62 cases in the *dicta* from
+Gratian's *Decretum* in which only a single word (a = 1) has a given
+number of occurrences (b). For example, only one word, *potest*,
+has 143 occurrences, and only one word, *in*, has 2,187 occurrences.
+The upper-left-most vertical band represents all 62 of the words
+for which only a single word (a = 1) has a particular value for the
+number of occurrences (b). Similarly, the next vertical band to the
+right represents all of the words for which only two words (a = 2)
+have particular values for the number of occurrences (b).
+
+  -->
 
 ### Burrows's Delta
 
@@ -1044,7 +1061,7 @@ measurements of word frequency data for any number of features. This has
 the effect of collapsing distance measurements in an arbitrary number of
 dimensions into a single metric. Burrows called this metric the Delta,
 and it is now generally referred to as Burrows's Delta
-(*Δ*<sub>*B*</sub>).[40] Expositions of Burrows's Delta sometime fail to
+(*Δ*<sub>*B*</sub>).[39] Expositions of Burrows's Delta sometime fail to
 make a clear enough distinction between the metric *Δ*<sub>*B*</sub> and
 the authorship attribution method in which Burrows applied it. The
 metric is not the method.
@@ -1126,7 +1143,7 @@ compare, for example, the hypothetical case statements (*themata*) or
 second-recension *dicta*.
 
 Although other delta methods of authorship attribution have been
-proposed since,[41] Burrows's Delta is widely accepted in the scholarly
+proposed since,[40] Burrows's Delta is widely accepted in the scholarly
 literature of the field of computational linguistics, and it will
 therefore be used as the basis for the demonstrations in this section.
 
@@ -1248,7 +1265,7 @@ The second experiment is a variation on the first, in which a 3881-word
 sample made up of seven extended passages from the pseudo-Augustinian
 *De vera et falsa penitentia* quoted by Gratian in *de Penitentia* are
 substituted for the 3605-word sample containing the hypothetical case
-statements.[42] As noted in Chapter 0 above, Gratian can be said with a
+statements.[41] As noted in Chapter 0 above, Gratian can be said with a
 high degree of confidence *not* to be the author of *De vera et falsa
 penitentia*. The authors are strongly distinguished by their choice of
 post-positive conjunctions: Gratian has a preference for *autem*, while
@@ -1300,7 +1317,7 @@ words (MFWs) across fourteen subcorpora: cases (C.1-36 d.init.), laws
 *dicta*), other3 (C.21-22 R1 *dicta*), heresy (C.23-26 R1 *dicta*),
 marriage (C.27-36 R1 *dicta*), penance (R1 and R2 *dicta* from *de
 Penitentia*), and second (all R2 *dicta*, excluding those from *de
-Penitentia*).[43] For each of the fourteen subcorpora, we will
+Penitentia*).[42] For each of the fourteen subcorpora, we will
 hypothesize each subcorpus in turn to be the work of an unknown author,
 and will treat the other thirteen subcorpora as composing a corpus of
 works by a known author. The scale of the fourth experiment is similar
@@ -1397,7 +1414,7 @@ projects vector distance information for numbers of features greater
 than three into a two- or three- dimensional space for convenient
 visualization. PCA therefore has the advantage that it entails less loss
 of information than the Delta class of techniques that reduce data for
-all dimensions to a single metric.[44]
+all dimensions to a single metric.[43]
 
 PCA first combines as many of the raw dimensions as possible into
 synthetic components on the basis of strong correlations, either
@@ -1412,16 +1429,16 @@ reconfigure the plots in such a way that the samples representing the
 from left to right along a single horizontal axis. PCA then displays the
 two components that contribute the most to the total variation between
 the samples, and graphically arranges the samples according to their
-probability relative to those two components.[45]
+probability relative to those two components.[44]
 
 I used the Stylometry with R (stylo) package for computational text
 analysis developed by Maciej Eder, Jan Rybicki, and Mike Kestemont of
 the Computational Stylistics Group to generate all of the PCA plots in
-this section.[46] R is a statistically-oriented programming
-language.[47] In addition to his being one of the lead developers of the
+this section.[45] R is a statistically-oriented programming
+language.[46] In addition to his being one of the lead developers of the
 stylo R package, Kestemont is a researcher whose stylometric analysis of
 two visionary texts of Hildegard of Bingen was a useful example for this
-project.[48]
+project.[47]
 
 Stylometric analysis for the purpose of authorship attribution rests on
 the frequencies of occurrence of function words including conjunctions.
@@ -1430,14 +1447,14 @@ enclitic endings representing conjunctions. Each word in the samples
 ending with -*que* where the ending represents an enclitic being used as
 a conjunction and is not simply part of the word has been mapped to a
 two-word sequence consisting of the word plus the pseudo-conjunction
-*xque*.[49] Other Latin enclitic endings such as -*ne* and -*ve* occur
+*xque*.[48] Other Latin enclitic endings such as -*ne* and -*ve* occur
 infrequently enough in the samples that they can be disregarded for the
 purpose of pseudo-conjunction mapping.
 
 Figure 1 below shows the PCA plot generated by a four-way comparison of
 the same samples used in the demonstration of Burrows's Delta in the
 previous section: the hypothetical case statements or *themata*
-(Gratian0)[50], the first-recension *dicta* excluding the *dicta* from
+(Gratian0)[49], the first-recension *dicta* excluding the *dicta* from
 *de Penitentia* (Gratian1), first- and second-recension *dicta* from *de
 Penitentia* (dePen), and the second-recension *dicta* excluding the
 *dicta* from *de Penitentia* (Gratian2). The case statements are magenta
@@ -1484,7 +1501,7 @@ associated with the hypothetical case statements (*themata*), while
 
 In the initial function word counting experiment, *non*, the second most
 common word in the samples, was strongly associated with the
-first-recension *dicta*.[51] In Figure 2, *non* appears far to the
+first-recension *dicta*.[50] In Figure 2, *non* appears far to the
 right, and in fact the samples from the first-recension *dicta*, but not
 those from the second-recension *dicta*, tend to spread out to the
 right. Note however that *in*, the most common word in the samples, is
@@ -1516,12 +1533,12 @@ statement) demonstrates the pattern:
 > condicioni renuncians, transtulit se ad alium, et nupsit illi; ille,
 > cui prius desponsata fuerat, repetit eam. Hic primum queritur, an
 > coniugium possit esse inter uouentes? Secundo, an liceat, sponsae a
-> sponso recedere, et alii nubere?*[52]
+> sponso recedere, et alii nubere?*[51]
 
 The transition between the narrative section and the enumeration of
 questions is clearly signalled in each of the case statements by the use
 of one of a small number of formulaic markers, of which *Hic primum
-queritur* is the most common.[53]
+queritur* is the most common.[52]
 
 The results, however, of running principal component analysis (PCA)
 after removing the enumerated questions from the cases statements (all
@@ -1862,28 +1879,14 @@ def regression_slope(data_points):
     return (xy_sum - n * x_bar * y_bar) / (x_squared_sum - n * x_bar ** 2)
 ```
 
-[39] The vertical bands toward the upper-left hand corner of the
-plot---which also appear in Zipf's 1935 figures---require some
-interpretation. There can be a range of values for numbers of occurrence
-(b) for which only one value for number of words (a) has that number of
-occurrence. There are 62 cases in the *dicta* from Gratian's *Decretum*
-in which only a single word (a = 1) has a given number of occurrences
-(b). For example, only one word, *potest*, has 143 occurrences, and only
-one word, *in*, has 2,187 occurrences. The upper-left-most vertical band
-represents all 62 of the words for which only a single word (a = 1) has
-a particular value for the number of occurrences (b). Similarly, the
-next vertical band to the right represents all of the words for which
-only two words (a = 2) have particular values for the number of
-occurrences (b).
-
-[40] John Burrows, “Questions of Authorship: Attribution and Beyond: A
+[39] John Burrows, “Questions of Authorship: Attribution and Beyond: A
 Lecture Delivered on the Occasion of the Roberto Busa Award ACH-ALLC
 2001, New York,” *Computers and the Humanities* 37, no. 1 (February
 2003): 5–32; and John Burrows, “‘Delta’: A Measure of Stylistic
 Difference and a Guide to Likely Authorship,” *Literary and Linguistic
 Computing* 17, no. 3 (September 2002): 267–87.
 
-[41] Most notably Argamon's Delta, see Shlomo Argamon, “Interpreting
+[40] Most notably Argamon's Delta, see Shlomo Argamon, “Interpreting
 Burrows’s Delta: Geometric and Probabilistic Foundations,” *Literary and
 Linguistic Computing* 23, no. 2 (June 2008): 131–47. For an overview of
 recent developments in the use of distance methods for the purpose of
@@ -1891,7 +1894,7 @@ authorship attribution, see Stefan Evert et al., “Understanding and
 Explaining Delta Measures for Authorship Attribution,” *Digital
 Scholarship in the Humanities* 32, no. suppl_2 (December 2017): ii4–16.
 
-[42] *de Penitentia* D.1 c.88 (R1), D.3 c.42 (R1), D.3 c.49 (R1), D.5
+[41] *de Penitentia* D.1 c.88 (R1), D.3 c.42 (R1), D.3 c.49 (R1), D.5
 c.1 (R1), D.6 c.1 (R1), and D.7 c.6 (R1). These seven extended passages
 average 554.4 words in length. **See edF 1.XXXV, for a complete list of
 passages from *De vera et falsa penitentia* quoted in the *Decretum*.
@@ -1900,7 +1903,7 @@ Explain rationale for omitting certain passages: D.25 c.5 (R2 or Palea),
 is unclear), D.3 c.45 (R2). Acknowledge Karen Teresa Wagner, *De vera et
 falsa penitentia : an edition and study*, 1995.**
 
-[43] The division of the first-recension (R1) *dicta* into twelve
+[42] The division of the first-recension (R1) *dicta* into twelve
 sections follows the division of Gratian's *Decretum* proposed in Alfred
 Beyer, *Lokale Abbreviationen des Decretum Gratiani: Analyse und
 Vergleich der Dekretabbreviationen "Omnes leges aut divine" (Bamberg),
@@ -1908,7 +1911,7 @@ Vergleich der Dekretabbreviationen "Omnes leges aut divine" (Bamberg),
 claustra monasterii consistunt" (Lichtenthal, Baden-Baden)*, Bamberger
 theologische Studien ; Bd. 6 (Frankfurt am Main ; PLang, 1998), 17–18.
 
-[44] Earlier versions of this section were presented as conference
+[43] Earlier versions of this section were presented as conference
 papers. "Can Stylometry Provide New Evidence about the Identity of
 Gratian 1 and Gratian 2?", was presented to the session on Canon Law in
 the Twelfth and Thirteenth Centuries at the *Rem non novam nec insolitam
@@ -1924,7 +1927,7 @@ Congress of Medieval Canon Law (ICMCL) at Université Paris II
 Panthéon-Assas, July 17-23, 2016. \[Gero Dolezalek, Anders Winroth
 (session chair).\]
 
-[45] For a general introduction to the use of principal component
+[44] For a general introduction to the use of principal component
 analysis (PCA) in literary stylometric analysis, see Hugh Craig,
 “Stylistic Analysis and Authorship Studies,” in *A Companion to Digital
 Humanities*, ed. Susan Schreibman, Raymond George Siemens, and John
@@ -1933,16 +1936,16 @@ Blackwell Pub, 2004), 273–88 and Chapter 6 "Style" in Matthew Lee
 Jockers, *Macroanalysis: Digital Methods and Literary History*, Topics
 in the Digital Humanities (Urbana: University of Illinois Press, 2013).
 
-[46] Maciej Eder, Jan Rybicki, and Mike Kestemont, “Stylometry with r: A
+[45] Maciej Eder, Jan Rybicki, and Mike Kestemont, “Stylometry with r: A
 Package for Computational Text Analysis,” *R Journal* 8, no. 1 (2016):
 107–21,
 <https://journal.r-project.org/archive/2016/RJ-2016-007/index.html>.
 
-[47] R Core Team, *R: A Language and Environment for Statistical
+[46] R Core Team, *R: A Language and Environment for Statistical
 Computing* (Vienna, Austria: R Foundation for Statistical Computing,
 2020), <https://www.R-project.org/>.
 
-[48] See Mike Kestemont, Sara Moens, and Jeroen Deploige, “Stylometry
+[47] See Mike Kestemont, Sara Moens, and Jeroen Deploige, “Stylometry
 and the Complex Authorship in Hildegard of Bingen’s Oeuvre,” in *Digital
 Humanities 2013: Conference Abstracts* (Lincoln, NE: University of
 Nebraska–Lincoln, 2013), 255–58,
@@ -1953,7 +1956,7 @@ Gembloux,” *Literary and Linguistic Computing* 30, no. 2 (June 2015):
 199–224. Kestemont was very generous in his technical advice during the
 early stages of this project.
 
-[49] Following the example of Kestemont, Moens, and Deploige,
+[48] Following the example of Kestemont, Moens, and Deploige,
 “Collaborative Authorship in the Twelfth Century,” 205: "To
 automatically isolate the clitic, we have stripped the suffix ('x*que*')
 from every word that did not occur in a list of words proposed by
@@ -2000,7 +2003,7 @@ appear to be the 130th, while making *namque*, which is actually the
 176th most frequent word in the samples when false positives are
 excluded, disappear from the list altogether.
 
-[50] As noted in the previous two-dimensional visualization section, the
+[49] As noted in the previous two-dimensional visualization section, the
 Gratian0 sample containing the hypothetical case statements or *themata*
 includes a thirteen-word clause added to C.19 d.init. between the first
 and second recensions of the *Decretum*. None of the wordlists used to
@@ -2009,20 +2012,20 @@ words, so using the text of C.19 d.init. found in the Friedberg edition
 rather than a proxy first-recension version of the text has no effect on
 the outcome of any of the tests performed in this section.
 
-[51] **PLE**: This is true if only the first- and second-recension
+[50] **PLE**: This is true if only the first- and second-recension
 *dicta* are counted. If the case statements, the first- and
 second-recension *dicta*, and the *dicta* from *de Penitentia* are
 counted, *in* is the most frequent word, *et* is the second most
 frequent word, and *non* is the third most frequent word.
 
-[52] A man having \[made\] a vow of chastity betrothed a wife to
+[51] A man having \[made\] a vow of chastity betrothed a wife to
 himself; she, renouncing her previous agreement, gave herself to another
 and married him; he to whom she had been first betrothed tried to get
 her back. Here it is first asked whether there is able to be a marriage
 between those vowing? Second, whether someone betrothed is allowed to
 abandon the person to whom they are betrothed and to marry another?
 
-[53] The formulaic transition markers used in the hypothetical case
+[52] The formulaic transition markers used in the hypothetical case
 statements are: *Hic primum queritur* (15), *Queritur* (8), *Modo primum
 queritur* (3), *Nunc primum queritur* (3), *Primo queritur* (2), *Primum
 queritur* (2), *Hic primo queritur* (1), *Modo queritur* (1), *Queritur

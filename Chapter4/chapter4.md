@@ -1037,10 +1037,9 @@ varies inversely as the square root of the number of words *a* (as
 $\frac{1}{\sqrt{a}}$ , or equivalently as *a* ^-1/2^). The relationship
 of the logarithm of the number of occurrences to the number of words
 is linear, with a slope of -1/2 corresponding to the exponent (-1/2)
-of the number of words. (See Figure Zy in the appendix at the end
-of this section for actual data from Gratian's *dicta* for values
-of *b* [Number of Occurrences] from 1 to 30. The actual slope is
--0.5097, quite close to the predicted theoretical value of -0.5.)
+of the number of words. The actual slope for data from Gratian's
+*dicta* for values of *b* (Number of Occurrences) from 1 to 30 is
+-0.5097, quite close to the predicted theoretical value of -0.5.
 
 Similarly, in the equation r × f = C, the frequency *f* varies
 inversely as the rank *r* (as 1/r, or equivalently as *r* ^-1^).
@@ -1092,13 +1091,31 @@ rank-frequency data.
 
 ![Figure Zd updated 27 May 2020](PNGs/Figure_Zd.png)
 
+<!--
+
 ### Zipf's law (appendix)
 
 ![Figure Ze updated 27 May 2020](PNGs/Figure_Ze.png)
 
 ![Figure Zy updated 27 May 2020](PNGs/Figure_Zy.png)
 
-![Figure Zz updated 27 May 2020[^34]](PNGs/Figure_Zz.png)
+![Figure Zz updated 27 May 2020[^z]](PNGs/Figure_Zz.png)
+
+[^z]: The vertical bands toward the upper-left hand corner of the
+plot - which also appear in Zipf's 1935 figures - require some
+interpretation. There can be a range of values for numbers of
+occurrence (b) for which only one value for number of words (a) has
+that number of occurrence. There are 62 cases in the *dicta* from
+Gratian's *Decretum* in which only a single word (a = 1) has a given
+number of occurrences (b). For example, only one word, *potest*,
+has 143 occurrences, and only one word, *in*, has 2,187 occurrences.
+The upper-left-most vertical band represents all 62 of the words
+for which only a single word (a = 1) has a particular value for the
+number of occurrences (b). Similarly, the next vertical band to the
+right represents all of the words for which only two words (a = 2)
+have particular values for the number of occurrences (b).
+
+  -->
 
 ### Burrows's Delta
 
@@ -1879,20 +1896,6 @@ or:
             x_squared_sum += x_values[i] ** 2
         return (xy_sum - n * x_bar * y_bar) / (x_squared_sum - n * x_bar ** 2)
     ~~~
-
-[^34]: The vertical bands toward the upper-left hand corner of the
-plot---which also appear in Zipf's 1935 figures---require some
-interpretation. There can be a range of values for numbers of
-occurrence (b) for which only one value for number of words (a) has
-that number of occurrence. There are 62 cases in the *dicta* from
-Gratian's *Decretum* in which only a single word (a = 1) has a given
-number of occurrences (b). For example, only one word, *potest*,
-has 143 occurrences, and only one word, *in*, has 2,187 occurrences.
-The upper-left-most vertical band represents all 62 of the words
-for which only a single word (a = 1) has a particular value for the
-number of occurrences (b). Similarly, the next vertical band to the
-right represents all of the words for which only two words (a = 2)
-have particular values for the number of occurrences (b).
 
 [^35]: @burrows_questions_2003; and @burrows_delta_2002.
 
