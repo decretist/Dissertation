@@ -527,16 +527,15 @@ Unde in Concilio Eliberitano: -[c. 80.]+\n']
 ```
 
 Each *dictum* is then processed into a key-value pair in a Python
-dictionary. Dictionaries or associative arrays are a built-in
-Python data structure that can be thought of as a set of key-value
-pairs. Dictionaries are unlike lists or arrays in that the content
-of the data structure is accessed by a key rather than by a numerical
+dictionary. A dictionary or associative array is a built-in Python
+data type that can be thought of as a set of key-value pairs.
+Dictionaries are unlike lists or arrays in that the values stored
+in a dictionary are accessed using a key rather than a numerical
 index. Keys are usually alphanumeric text strings, although numbers
 can be used. The only requirement is that each key in a dictionary
-must be unique. In the present example, the key is the string
-`'D.54 d.p.c.23'`, and the value is a string representing the text
-of D.54 d.p.c.23 extracted from the MGH e-text of the Friedberg
-edition:
+must be unique. The key in the example below is the string `'D.54
+d.p.c.23'`, and the value is a string representing the text of D.54
+d.p.c.23 extracted from the MGH e-text of the Friedberg edition:
 
 ```python
 {'D.54 d.p.c.23': 'Ecce, quomodo serui ad clericatum ualeant assumi, uel quomodo non admittantur. Liberti quoque non sunt promouendi ad clerum, nisi ab obsequiis sui patroni fuerint absoluti. Unde in Concilio Eliberitano:'}
@@ -545,7 +544,15 @@ edition:
 The first recension variants from the Friedberg edition recorded
 in Winroth's appendix are then encoded as a list of dictionaries
 in which the `'pattern'` item is the variant represented as a Python
-regular expression:
+regular expression. Regular expressions are a language for specifying
+arbitrarily complicated patterns of characters according to a rule.
+Once a regular expression for a pattern has been specified, it can
+be used to search for and replace units of text matching the pattern.
+(The use of the word *regular* in the term *regular expression* is
+analogous to its use in the term *canons regular*. In both cases a
+rule is being followed.) The regular expression in the example below
+matches a text string starting with "Ecce, quomodo serui" and ending
+with "quomodo non admittantur."
 
 ```python
 [{'key': 'D.54 d.p.c.23', 'pattern': '(Ecce, quomodo serui.*?quomodo non admittantur\.)'}]
@@ -1193,7 +1200,7 @@ situation in which we find ourselves, where there are no other texts
 attributed to Gratian with which we can compare, for example, the
 hypothetical case statements (*themata*) or second-recension *dicta*.
 
-Although other distance methods of authorship attribution have been
+Although other delta methods of authorship attribution have been
 proposed since,[^36] Burrows's Delta is widely accepted in the
 scholarly literature of the field of computational linguistics, and
 it will therefore be used as the basis for the demonstrations in
@@ -1803,12 +1810,7 @@ language. According to one frequently-cited industry metric, the
 [TIOBE Index](https://www.tiobe.com/tiobe-index/), Python was the
 third-most popular programming language worldwide as of July 2020,
 behind legacy languages C and Java. Python provides powerful features
-for performing operations on textual data, notably regular expressions,
-which allow programmers to specify arbitrarily complicated patterns
-of characters according to a rule, and then to search for and replace
-units of text matching the pattern. (The use of the word *regular*
-in the term *regular expression* is analogous to its use in the
-term *canons regular*. In both cases a rule is being followed.)
+for performing operations on textual data.
 
 [^25]: Much of the analysis from this point forward will take advantage
 of the specialized capabilities of a Python software library called
