@@ -507,9 +507,10 @@ a regular expression for a pattern has been specified, it can be used to
 search for and replace units of text matching the pattern. (The use of
 the word *regular* in the term *regular expression* is analogous to its
 use in the term *canons regular*. In both cases a rule is being
-followed.) The regular expression in the example below matches a text
-string starting with "Ecce, quomodo serui" and ending with "quomodo non
-admittantur."
+followed.) The regular expression
+`(Ecce, quomodo serui.*?quomodo non admittantur\.)` in the example below
+matches a text string starting with "*Ecce, quomodo serui*" and ending
+with "*quomodo non admittantur.*"
 
 ``` python
 [{'key': 'D.54 d.p.c.23', 'pattern': '(Ecce, quomodo serui.*?quomodo non admittantur\.)'}]
