@@ -156,7 +156,7 @@ lived into the 1180s, the adaptation itself seems to date from around
 career Gratian may have had, so the dates do not preclude his having
 been a student of Gratian.[11] The basis for the claim that Omnibonus
 was Gratian's student is an entry for the year 1130 in the chronicle of
-Norman monk Robert of Torigni (†1186):
+the Norman monk Robert of Torigni (†1186):
 
 > *Gratianus episcopus Clusinus coadunavit decreta valde utilia ex
 > decretis, canonibus, doctoribus, legibus Romanis, sufficientia ad
@@ -200,7 +200,7 @@ Gratian and whether he had been Gratian's student, as well as the
 circumstances under which the *Decretum* was composed, would be in a
 preface to his abbreviation. Unfortunately, there is no printed edition
 of the abbreviation, and the only form in which a manuscript of the
-abbreviation was available was a low-resolution digitization of an old
+abbreviation is available is a low-resolution digitization of an old
 microfilm of Paris, Bibliothèque nationale de France, Latin 3886. It
 does not appear to have a preface of any kind, but launches immediately
 into the abbreviation starting with "*Humanum genus duobus regitur*." In
@@ -232,8 +232,8 @@ canonist. Although it is not quite chronologically impossible for Simon
 to have been Gratian's student, it seems far more likely that he
 described himself as *discipulus* in something like the same sense that
 we might describe contemporary scholars like Chodorow, Pennington, and
-Winroth as "students of Gratian." Yet again, we appear to dealing with
-statements that on the surface appear to be about the biography of
+Winroth as "students of Gratian." Yet again, we appear to be dealing
+with statements that on the surface appear to be about the biography of
 Gratian---a claim by Simon that he had been Gratian's student---but that
 should more plausibly be read as an acknowledgement of Gratian's
 authority as the founder of an intellectual tradition. It is an
@@ -303,7 +303,7 @@ T. Noonan Jr.'s classic 1979 *Traditio* article "Gratian slept here: The
 changing identity of the father of the systematic study of canon law."
 Noonan's approach is apophatic, demonstrating that there is no sound
 historical basis for most of the affirmative statements that many
-mid-twentieth century handbooks and reference works presented as
+mid-twentieth-century handbooks and reference works presented as
 commonplace.[24] It is unnecessary to exhaustively catalog all of the
 many Gratian myths that Noonan debunked. A single example, his
 examination of the history of the claim that Gratian was a Camaldolese
@@ -321,37 +321,37 @@ in 1113 and 1153 identifying Saints Felix and Nabor as Camaldolese, and
 inferred from them that the monastery---and by extension Gratian
 himself---had been Camaldolese during the intervening years. The claim
 that Gratian had a connection to the Camaldolese order attracted
-criticism in the eighteenth century, and fell out of favor in the
+criticism in the eighteenth century and fell out of favor in the
 nineteenth century, before being put back into circulation in the
 mid-twentieth century by Van Hove.[26]
 
-Noonan (†2017) was a distinguished professor of law and an appellate
-judge who applied the standards of evidence of the law school and the
-courtroom to the historical record. Noonan relied heavily on the legal
-hearsay standard as understood and applied by twentieth-century American
-courts of law as the basis for his debunking of much Gratian mythology.
-By Noonan's standards, the statement of Odofredus---hearsay, not
-attributed to a source, a century after the fact---is nothing more than
-legend.
+Noonan (†2017) was a distinguished professor of law and a judge on the
+Ninth Circuit Court of Appeals who applied the standards of evidence of
+the law school and the courtroom to the historical record. Noonan relied
+heavily on the legal hearsay standard as understood and applied by
+twentieth-century American courts of law as the basis for his debunking
+of much Gratian mythology. By Noonan's standards, the statement of
+Odofredus---hearsay, not attributed to a source, a century after the
+fact---is nothing more than legend.
 
 Winroth has questioned whether this is an appropriate standard for
 evaluating historical evidence.[27] Noonan's insistence on adhering to
 the courtroom rules of evidence can seem like overkill. If, after all,
 the monastery of Saints Felix and Nabor in Bologna was in the hands of
 Camaldolese communities in 1113 and 1153, it does not seem unreasonable
-to infer that it was in the hands of one in the 1120s and 1130s when
-Gratian was putatively associated with the foundation, whatever we may
-think the nature of that association to have been. But Noonan's caution
-seems justified when we consider, for example, R.W. Southern's having
-seized upon the one thinly-sourced datum of the Camaldolese connection
-as the foundation for his entire reconstruction of Gratian's intentions
-and motivations in undertaking the *Decretum* project, including a
+to infer that it was Camaldolese in the 1120s and 1130s when Gratian was
+putatively associated with the foundation, whatever we may think the
+nature of that association to have been. But Noonan's caution seems
+justified when we consider, for example, that R.W. Southern seized upon
+the one thinly-sourced datum of the Camaldolese connection as the
+foundation for his entire reconstruction of Gratian's intentions and
+motivations in undertaking the *Decretum* project, including a
 peremptory dismissal of any possibility that Gratian had a teaching
 career.[28]
 
 The entry in the chronicle of Robert of Torigni identifying Gratian as
-bishop of Chiusi and teacher of Omnibonus is one of the many pieces of
-testimony from the Gratian legendary that Noonan cross-examines,
+bishop of Chiusi and teacher of Omnibonus is another of the many pieces
+of testimony from the Gratian legendary that Noonan cross-examines,
 although he ultimately dismisses Robert's identification as
 unverifiable.[29]
 
@@ -393,7 +393,7 @@ Noonan concludes that
 > unverified hearsay, palpable legend, and the silent figure in the
 > shadows of S. Marco.[34]
 
-This, then, is our starting point. Noonan wrote, however, before
+This conclusion is our starting point. Noonan wrote, however, before
 Winroth's discovery of the first recension. Scholarship on the identity
 of Gratian in this century has necessarily had to take into account both
 Noonan's pruning of his biography and the existence of the first and
@@ -413,7 +413,7 @@ article, "Recent Work on the making of Gratian's Decretum,"[37] and his
 views on Sg influence the arguments he makes about the trajectory of
 Gratian's teaching career.
 
-Winroth adopts the convention in *The Making of Gratian's Decretum* of
+In *The Making of Gratian's Decretum*, Winroth adopts the convention of
 referring to the author of the first recension as Gratian 1 and to the
 author of the second recension as Gratian 2. The arguments he makes in
 the first five chapters of his book are agnostic as to whether Gratian 1
@@ -427,8 +427,9 @@ abbreviation. In his sixth chapter and conclusion, however, Winroth
 observes that the second recension reflects a considerably more
 sophisticated legal culture than that reflected in the first recension,
 notably in the reception of concepts and terminology from the study of
-Roman law, and argues that it is unlikely that one author underwent such
-an intellectual evolution in a single generation.[39]
+Roman law, and argues that it is unlikely that an author would have
+acquired a deep knowledge of Roman law and then incorporated it into a
+second recension of his work in the course of a normal career.[39]
 
 Winroth is strongly committed to a late date (1139) for the first
 recension on the grounds that he thinks D.63 d.p.c.34 *must* refer to
@@ -436,10 +437,10 @@ canon 28 from the Second Lateran Council of 1139. That first-recension
 *dictum* makes a reference to a canon, D.63 c.35, that was later
 incorporated into the second recension of the *Decretum* as D.63
 c.35[40] Winroth explicitly rejects Atria Larson's suggestion that the
-canon referred to at D.63 d.p.c.34 is *not* canon 28 from Lateran II,
-but rather a canon from an earlier council or synod convened by Innocent
-II at Rome in 1133 that was reissued at the 1139 council, a common
-practice in the early twelfth century.[41]
+canon referred to at D.63 d.p.c.34 is *not* canon 28 from Lateran II but
+rather a canon from an earlier council or synod convened by Innocent II
+at Rome in 1133 that was reissued at the 1139 council, a common practice
+in the early twelfth century.[41]
 
 Furthermore, Winroth accepts an entry in a Siena necrology (Siena,
 Biblioteca Comunale degli Intronati F.I.2, f.5r) brought to scholarly
@@ -454,11 +455,11 @@ long after having finished work on the first recension, was unlikely to
 have been the author of the second recension.
 
 Winroth rejects claims that the Sg manuscript of the *Decretum* is
-descended from a version earlier than the first recension, and argues
-that it is instead an abbreviation of the first recension with some
+descended from a version earlier than the first recension and argues
+instead that it is an abbreviation of the first recension with some
 interpolations from the second.[43] While not a direct intervention in a
 debate over the biography of Gratian, Winroth's argument against Sg
-being an earlier version of the text of the *Decretum* than the first
+being a version of the text of the *Decretum* earlier than the first
 recension is an indirect argument against a long teaching career for
 Gratian 1, as Winroth conceives him, and against a long period of
 incremental development for the text of the *Decretum*.
@@ -479,19 +480,17 @@ Canon Law, that contributed to the debate over Sg.
 Pennington builds on Larson's conjecture that the canon referred to at
 D.63 d.p.c.34 in the first recension and later incorporated as D.63 c.35
 in the second recension is not canon 28 from the Second Lateran Council
-(1139), but rather a canon from an earlier council or synod convened by
-Innocent II at Rome in 1133 that was reissued, a common practice in the
-early twelfth century, at Lateran II.[46] Pennington supports Larson's
+(1139) but rather a canon from an earlier council or synod convened by
+Innocent II at Rome in 1133 that was reissued at Lateran II, a common
+practice in the early twelfth century.[46] Pennington supports Larson's
 conjecture by noting that the text of the canon as it appears in the
 *Decretum* includes variants (*facta fuerit* vs *fuerit celebrata*, and
 *consensus* vs *assensus*) found in none of the twenty manuscript
 witnesses to the Lateran II canons edited by Martin Brett.[47]
 Pennington argues that there is enough doubt as to whether D.63 d.p.c.34
-refers to canon 28 from Lateran II---as opposed to a canon from an
-earlier council or synod later reissued with minor textual variations as
-canon 28 at Lateran II---that it cannot be used as the sole or primary
-basis for imposing a *terminus post quem* of 1139 on the first recension
-of the *Decretum*.
+refers to canon 28 from Lateran II that it cannot be used as the sole or
+primary basis for imposing a *terminus post quem* of 1139 on the first
+recension of the *Decretum*.
 
 Pennington, building on Eichbauer's findings, argues that because the
 number of additional canons found in the margins of the Barcelona (Bc)
@@ -531,16 +530,18 @@ his reservation about Grebner's identification of the Gratian mentioned
 in the record of the 1143 Venice court case: neither record accords
 Gratian the kind of prominence that might be expected for a figure of
 such importance. Gratian appears second on the list of the three legal
-consultants in the Venice case, and is not referred to with the
-honorific title "*Magister*." And the Siena necrology records nothing
-beyond the bare facts of a name, a day (but not year) of death, and that
-the defunct had been a bishop from or of Chiusi.[53] In his assumption,
+consultants in the Venice case and is not referred to with the honorific
+title "*Magister*." And the Siena necrology records nothing beyond the
+bare facts of a name, a day (but not year) of death, and that the
+defunct had been a bishop from or of Chiusi.[53] In his assumption,
 however, that Gratian must have been well-known, even famous, in his own
 lifetime, Pennington disagrees with Kuttner, who sees Gratian as a
 figure of shrouded in profound personal obscurity: "He is one of those
 deeply admirable men of pious modesty, like the builders of the medieval
 cathedrals, whose person is hidden and effaced completely behind their
 immortal works."[54].
+
+<!-- Stan Chodorow edits incorporated to here -->
 
 # Authorship
 
@@ -1021,10 +1022,10 @@ predates Odofredus.
 *Prolegomena ad Codicem iuris canonici*, Editio artera auctior et
 emendatior, Commentarium Lovaniense in Codicem iuris canonici, v. 1, t.
 1 (Mechlinae: H. Dessain, 1945) had an outsized impact on the trajectory
-of medieval canon law studies in twentieth century North America because
+of medieval canon law studies in twentieth-century North America because
 of its having been used by the 1964 Yale seminar led by Peter Landau in
-the absence of Stephan Kuttner, who was undergoing treatment for cancer
-at the time. Seminar participants including Charles Donahue and Robert
+the absence of Stephan Kuttner, who was undergoing medical treatment at
+the time. Seminar participants including Charles Donahue and Robert
 Somerville went on to have unusually influential academic careers in the
 field (Donahue at Harvard, and Somerville at Columbia where he was
 Winroth's dissertation advisor).
@@ -1039,7 +1040,7 @@ methodology and terminology, as they have been codified from the late
 nineteenth century on." Winroth, “Where Gratian Slept,” 106.
 
 [28] Southern takes an extreme position with respect to Gratian's
-teaching career, citing as late as 1995 Gratian's supposed association
+teaching career, citing, as late as 1995, Gratian's supposed association
 with the Camaldolese order to advance an argument that he had never been
 a teacher: "Reliable writers after his death affirmed that Gratian was a
 Benedictine monk of the Camaldolesian Order, a small Italian branch of
@@ -1054,8 +1055,8 @@ Southern, *Scholastic Humanism and the Unification of Europe*, 1:286–87,
 304.
 
 [29] Noonan, “Gratian Slept Here,” 153–54. The recently rediscovered
-Siena necrology makes Robert's identification more plausible than it
-would have appeared to Noonan, though by no means certain.
+Siena necrology makes Robert's identification more plausible, though by
+no means certain, than it would have appeared to Noonan.
 
 [30] Noonan, 162–63.
 
@@ -1092,12 +1093,12 @@ Pennington, “The Biography of Gratian, the Father of Canon Law,” 387.
 first and second recension with respect to the use of Roman law within a
 broader context: "The argument about two authors is based on textual
 (you could almost say literary) analysis: formulations, practices of
-organization, source use, etc. Justinian's Roman law books is really the
-only category of source only used in one of the two recensions. I used
-to think that there were other sources, such as 3L, that were only used
-in the second recension, but this turned out to be an accident of the
-specific sections I used as case studies (C. 24 and C.11 q.3)." (Anders
-Winroth, email to Paul Evans, 18 May 2021).
+organization, source use, etc. Justinian's Roman law books \[are\]
+really the only category of source only used in one of the two
+recensions. I used to think that there were other sources, such as 3L,
+that were only used in the second recension, but this turned out to be
+an accident of the specific sections I used as case studies (C. 24 and
+C.11 q.3)." (Anders Winroth, email to Paul Evans, 18 May 2021).
 
 [40] See Anders Winroth, “The Making of Gratian’s Decretum” (Columbia
 University, 1996), 345, where he appears open to the possibility that
@@ -1109,8 +1110,8 @@ otherwise), there is no obvious place at which to stop.
 
 [41] See Larson, “Early Stages of Gratian’s Decretum and the Second
 Lateran Council”, along with Winroth's rebuttal in Anders Winroth,
-“Innocent II, Gratian, and Abbe Migne Note,” *Bulletin of Medieval Canon
-Law* 28 (2008): 145–52.
+“Innocent II, Gratian, and Abbe Migne,” *Bulletin of Medieval Canon Law*
+28 (2008): 145–52.
 
 [42] Winroth, “Where Gratian Slept.”
 
@@ -1139,19 +1140,19 @@ The first recension contains only 1,860 canons (47 percent)." Winroth,
 *The Making of Gratian’s Decretum*, 122. 3,945 is a conventional number.
 
 Formally, Sg is not divided into parts; all of its content is presented
-in the form of cases. The first case, however, is unique to Sg, and is
+in the form of cases. The first case, however, is unique to Sg and is
 referred to as *Causa Prima* to distinguish it from the *Causa* I found
 in all other pre-vulgate and vulgate versions of the *Decretum*.
 (*Causa* I appears as *Causa* II in Sg.) It contains a subset of canons
-and *dicta* found in Part I, presented in almost exactly the same order
-in which they appear in other versions of the *Decretum*. (There is one
-relatively minor exception with respect to the ordering of the texts:
-the four canons corresponding to D.32 c.3, c.4, c.6, and c.7 are
-inserted between the canons corresponding to D.31 c.6 and D.31 c.7.)
-Larrainzar, “El Borrador de la ’Concordia’ de Graciano,” 653. Notably,
-*Causa Prima* contains no texts (canons or *dicta*) from the *tractatus
-de legibus* (distinctions 1-20) and none from Gratian's "epilogue"
-(distinctions 81-101).
+and *dicta* found in Part I of the first recension and the vulgate,
+presented in almost exactly the same order in which they appear in those
+versions of the *Decretum*. (There is one relatively minor exception
+with respect to the ordering of the texts: the four canons corresponding
+to D.32 c.3, c.4, c.6, and c.7 are inserted between the canons
+corresponding to D.31 c.6 and D.31 c.7.) Larrainzar, “El Borrador de la
+’Concordia’ de Graciano,” 653. Notably, *Causa Prima* contains no texts
+(canons or *dicta*) from the *tractatus de legibus* (distinctions 1-20)
+and none from Gratian's "epilogue" (distinctions 81-101).
 
 [44] Kenneth Pennington, “The Biography of Gratian, the Father of Canon
 Law,” *Villanova Law Review* 59 (2014): 679–706; Kenneth Pennington, “La
