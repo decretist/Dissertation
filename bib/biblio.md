@@ -14,6 +14,7 @@ nocite: |
   @bonaventure_commentaria_1882
   @brasington_order_2016
   @brasington_ways_2004
+  @brown_augustine_1967
   @brundage_teaching_2008
   @burrows_delta_2002
   @burrows_questions_2003
@@ -105,6 +106,7 @@ nocite: |
   @rashdall_universities_1936
   @reuter_wortkonkordanz_1990
   @ridder-symoens_universities_1992
+  @rouse_manuscripts_2000
   @samuels_deformance_1999
   @schinke_stemming_1996
   @schulte_summa_1965

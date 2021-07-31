@@ -35,7 +35,7 @@ The principal component analysis (PCA) section of chapter 4 was presented as:
   [(PDF)](Talks/ICMCL.pdf).
 - [Conclusion](Conclusion/conclusion.markdown) (25 July 2021) 12 pages\
 Rough draft
-- [Bibliography](bib/biblio.markdown) (26 July 2021) 13 pages [(PDF)](bib/biblio.pdf)
+- [Bibliography](bib/biblio.markdown) (31 July 2021) 13 pages [(PDF)](bib/biblio.pdf)
 
 ### Appendices
 

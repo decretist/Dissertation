@@ -98,6 +98,13 @@ Distributed in North America by Transaction Publishers, 2004.
 
 </div>
 
+<div id="ref-brown_augustine_1967" class="csl-entry">
+
+Brown, Peter. *Augustine of Hippo: A Biography*. Berkeley: University of
+California Press, 1967.
+
+</div>
+
 <div id="ref-brundage_teaching_2008" class="csl-entry">
 
 Brundage, James A. “The Teaching and Study of Canon Law in the Law
@@ -840,6 +847,14 @@ Cambridge University Press, 1992.
 
 </div>
 
+<div id="ref-rouse_manuscripts_2000" class="csl-entry">
+
+Rouse, Richard H., and Mary A. Rouse. *Manuscripts and Their Makers:
+Commercial Book Producers in Medieval Paris, 1200-1500*. Turnhout:
+Harvey Miller, 2000.
+
+</div>
+
 <div id="ref-samuels_deformance_1999" class="csl-entry">
 
 Samuels, Lisa, and Jerome McGann. “Deformance and Interpretation.” *New
@@ -982,8 +997,8 @@ Washington, D.C: Catholic University of America Press, 2008.
 
 <div id="ref-winroth_innocent_2008" class="csl-entry">
 
-Winroth, Anders. “Innocent II, Gratian, and Abbe Migne Note.” *Bulletin
-of Medieval Canon Law* 28 (2008): 145–52.
+Winroth, Anders. “Innocent II, Gratian, and Abbe Migne.” *Bulletin of
+Medieval Canon Law* 28 (2008): 145–52.
 
 </div>
 

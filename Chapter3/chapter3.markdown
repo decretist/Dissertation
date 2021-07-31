@@ -541,8 +541,6 @@ deeply admirable men of pious modesty, like the builders of the medieval
 cathedrals, whose person is hidden and effaced completely behind their
 immortal works."[54].
 
-<!-- Stan Chodorow edits incorporated to here -->
-
 # Authorship
 
 Authorship on any significant scale in the pre-modern world required
@@ -1185,7 +1183,7 @@ sophisticated use of Roman law concepts and terminology than the first
 recension.
 
 [47] Pennington, “The Biography of Gratian, the Father of Canon Law,”
-365.
+365; Brett's edition is unpublished.
 
 [48] Pennington, 367; and Melodie Harris Eichbauer, “From the First to
 the Second Recension: The Progressive Evolution of the Decretum,”
@@ -1219,8 +1217,8 @@ Eusebius, *Ecclesiastical History* 6.23.2.
 
 [57] Monastic modes of text production were gradually replaced by
 commercial ones, e.g., around the University of Paris. See Richard H.
-and Mary A. Rouse, *Manuscripts and their Makers: Commercial Book
-Producers in Medieval Paris 1200-1500.*
+Rouse and Mary A. Rouse, *Manuscripts and Their Makers: Commercial Book
+Producers in Medieval Paris, 1200-1500* (Turnhout: Harvey Miller, 2000).
 
 [58] Pennington, “The Biography of Gratian, the Father of Canon Law,”
 362.
@@ -1229,7 +1227,12 @@ Producers in Medieval Paris 1200-1500.*
 possibilities. Those who have read the *Vita Augustini* written by
 Possidius of Calama († c.437) are likely to be unimpressed by the
 intellectual caliber of Augustine's episcopal household and to assess
-its contribution to his work accordingly.
+its contribution to his work accordingly. Peter Brown indirectly refers
+to the absence of classical education among members of Augustine's
+"monastery" when he characterizes them as "younger men, whose tastes,
+culture, and past history did not resemble that of Augustine and his
+friends." Peter Brown, *Augustine of Hippo: A Biography* (Berkeley:
+University of California Press, 1967), 143.
 
 [60] Winroth, “Where Gratian Slept”; Pennington, “The Biography of
 Gratian, the Father of Canon Law”; and Pennington, “The Biography of

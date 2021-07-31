@@ -518,7 +518,7 @@ Pennington supports Larson's conjecture by noting that the text of
 the canon as it appears in the *Decretum* includes variants (*facta
 fuerit* vs *fuerit celebrata*, and *consensus* vs *assensus*) found
 in none of the twenty manuscript witnesses to the Lateran II canons
-edited by Martin Brett.[@pennington_biography_2018, 365] Pennington
+edited by Martin Brett.[^47] Pennington
 argues that there is enough doubt as to whether D.63 d.p.c.34 refers
 to canon 28 from Lateran II that it cannot be used as the sole or
 primary basis for imposing a *terminus post quem* of 1139 on the
@@ -1159,6 +1159,8 @@ two-author hypothesis was that the second recension makes much more
 sophisticated use of Roman law concepts and terminology than the
 first recension.
 
+[^47]: @pennington_biography_2018 [365]; Brett's edition is unpublished.
+
 [^48]: @pennington_biography_2018 [367]; and @eichbauer_first_2012
 [145].
 
@@ -1178,14 +1180,17 @@ from Eusebius, *Ecclesiastical History* 6.23.2.
 
 [^57]: Monastic modes of text production were gradually replaced
 by commercial ones, e.g., around the University of
-Paris. See Richard H. and Mary A. Rouse, *Manuscripts and their
-Makers: Commercial Book Producers in Medieval Paris 1200-1500.*
+Paris. See @rouse_manuscripts_2000.
 
 [^59]: The quasi-monastic model of text production leaves open a
 range of possibilities. Those who have read the *Vita Augustini*
 written by Possidius of Calama († c.437) are likely to be unimpressed
 by the intellectual caliber of Augustine's episcopal household and
-to assess its contribution to his work accordingly.
+to assess its contribution to his work accordingly. Peter Brown
+indirectly refers to the absence of classical education among members
+of Augustine's "monastery" when he characterizes them as "younger
+men, whose tastes, culture, and past history did not resemble that
+of Augustine and his friends." @brown_augustine_1967 [143].
 
 [^60]: @winroth_where_2013; @pennington_biography_2014; and
 @pennington_biography_2018.
