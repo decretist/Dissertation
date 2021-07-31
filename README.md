@@ -10,7 +10,7 @@ Dates indicate most recent (even minor) changes to markdown files.
 Most of the chapters have been substantially complete for many
 years: the principal component analysis section of chapter 4 since
 2016, chapter 1 and most of chapter 2 since 2017, and chapter 0
-since 2018. Chapter 4 was completed in 2020.
+since 2018. Chapter 4 was completed in 2020 and chapter 3 in 2021.
 
 - [Chapter 0: Introduction](Chapter0/chapter0.markdown) (25 July 2021) 20 pages [(PDF)](Chapter0/chapter0.pdf)\
 Reviewed by Stan Chodorow, 17 August 2018
@@ -18,7 +18,7 @@ Reviewed by Stan Chodorow, 17 August 2018
 Reviewed by Stan Chodorow, 6 November 2017\
 (including pages 1-22 of chapter 2)
 - [Chapter 2: The *Decretum*](Chapter2/chapter2.markdown) (25 July 2021) 40 pages [(PDF)](Chapter2/chapter2.pdf)\
-Presentation and Organization sections (pages 22-40) under review by Stan Chodorow
+Presentation and organization sections (pages 22-40) under review by Stan Chodorow
 - [Chapter 3: Authority, Author, Authorship](Chapter3/chapter3.markdown) (30 July 2021) 45 pages [(PDF)](Chapter3/chapter3.pdf)\
 Reviewed by Stan Chodorow, 29 July 2021
 - [Chapter 4: Stylometry](Chapter4/chapter4.markdown) (30 July 2021) 82 pages\
