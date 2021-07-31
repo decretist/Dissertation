@@ -829,6 +829,7 @@ to Gratian as his *magister* "frequently," but I can't find the
 reference.
 
   -->
+<!-- Hard code third reference. -->
 
 [1] The purpose of the first (Authority) section of this chapter is to
 show, more than tell, that most of the medieval statements that modern
@@ -1157,8 +1158,10 @@ and none from Gratian's "epilogue" (distinctions 81-101).
 [44] Kenneth Pennington, “The Biography of Gratian, the Father of Canon
 Law,” *Villanova Law Review* 59 (2014): 679–706; Kenneth Pennington, “La
 biografia di Graziano, il Padre del diritto canonico,” *Rivista
-Internazionale di Diritto Comune* 25 (2014): 25–60; and Pennington, “The
-Biography of Gratian, the Father of Canon Law”.
+Internazionale di Diritto Comune* 25 (2014): 25–60; and Kenneth
+Pennington, "The Biography of Gratian, the Father of Canon Law," in *A
+Service Beyond All Recompense*, ed. Kurt Martens (Catholic University of
+America Press, 2018), 359-391.
 
 [45] Kenneth Pennington, “Gratian, Causa 19, and the Birth of Canonical
 Jurisprudence,” in *Panta Rei: Studi Dedicati a Manlio Bellomo*, ed.

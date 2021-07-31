@@ -1138,7 +1138,11 @@ for a good recent overview of these debates.
     81-101).
 
 [^44]: @pennington_biography_2014; @pennington_biografia_2014; and
-@pennington_biography_2018.
+Kenneth Pennington, "The Biography of Gratian, the Father of Canon
+Law," in *A Service Beyond All Recompense*, ed. Kurt Martens (Catholic
+University of America Press, 2018), 359-391.
+
+<!-- Hard code third reference. -->
 
 [^46]: See @larson_early_2007. Pennington asserts that "[t]he main
 reason that Winroth created a second 'Gratian' is because of a text
