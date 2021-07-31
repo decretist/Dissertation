@@ -578,13 +578,11 @@ like the builders of the medieval cathedrals, whose person is hidden
 and effaced completely behind their immortal works."[@kuttner_father_1941,
 4].
 
-<!-- Stan Chodorow edits incorporated to here -->
-
 # Authorship
 
 Authorship on any significant scale in the pre-modern world required
 wrapping a specialized and expensive scribal infrastructure around
-the figure of the author.[^55] Three examples from classical and
+the figure of the author.[^55] Three examples from the classical period and
 late antiquity illustrate the possible ways in which this requirement
 could be met. Cicero (†43 BCE) pursued his literary ambitions with
 the support of highly skilled but unfree labor purchased out of his
@@ -597,7 +595,7 @@ his prodigious authorial output possible. The mode of production
 pioneered by Augustine and his household in which monastic labor
 enabled the creation of original texts by their authors as well as
 the subsequent copying and circulation of finished texts proved a
-durable one, and predominated in the Latin West until the thirteenth
+durable one and predominated in the Latin West until the thirteenth
 century.[^57]
 
 Given the material and social technologies for authorship available
@@ -606,8 +604,8 @@ in the twelfth century, creation of a text the size of Gratian's
 Pennington has noted that "Gratian may have had an atelier of
 assistants,"[@pennington_biography_2018, 362] but that observation
 suggests that the nature of the collaboration between Gratian and
-those Pennington conceives of as his assistant needs to be examined
-more closely. What substantive intellectual contributions, if any,
+those Pennington conceives of as his assistants needs to be examined
+closely. What substantive intellectual contributions, if any,
 did Gratian's collaborators make to the project?[^59] There are a
 number of indications, discussed in the previous chapter, that the
 *Decretum* outgrew the ability of a single author to effectively
@@ -630,7 +628,7 @@ of authorship that is somewhat anachronistic when applied to a
 medieval text and has been largely discarded by literary scholarship
 over the last half-century. Roland Barthes's 1967 essay "The Death
 of the Author" and Michel Foucault's 1969 response "What Is an
-Author?" are foundational readings in the theory of authorship, and
+Author?" are foundational readings in the theory of authorship and
 provide an appropriate starting point for a theoretically-informed
 reconsideration of the authorship of Gratian's *Decretum*.[^61]
 
@@ -641,7 +639,7 @@ similar to the place that Noonan's "Gratian Slept Here" holds in
 canon law studies---it is a clearing of the ground of older ways
 of thinking in the field. Although the title of the essay was a
 lightning-rod in 1980s theory war polemics, taken as if Barthes
-were arguing that texts somehow wrote themselves, Medievalists will
+were arguing that texts somehow wrote themselves, medievalists will
 recognize the French title of the essay, "La mort de l'auteur," as
 a pun on *Le Morte d'Arthur*. Barthes's essay is short and relatively
 free of arcane technical terms. Barthes was a literary critic and
@@ -654,7 +652,7 @@ Barthes uses the term "Author" to indicate the conceptualization
 of authorship he is arguing against and the term "author" where he
 intends to use the word in its more general and non-technical sense.
 An Author is the creative intellect uniquely responsible for a
-literary text, and "is in the same relation of antecedence to his
+literary text and "is in the same relation of antecedence to his
 work as a father to his child." [@barthes_death_1977, 145] Barthes
 argues that authors cannot be Authors---no person or persons can
 have a parent-child relationship to a text since all literary texts
@@ -679,11 +677,12 @@ Barthes uses the term "scriptor" to indicate an alternative
 conceptualization of authorship in which the performative aspect
 of the author's act is the central focus. Barthes uses the terms
 "criticism" and "critic" to refer respectively to the activity of
-close-reading a literary text and one engaging in that activity.
+subjecting a literary text to close-reading
+and to one engaging in that activity.
 Translating the terms as "reading" and "reader" would not be seriously
 misleading. Gratian as author of the *dicta* is therefore, using
 Barthes's definitions, both scriptor and critic. The *dicta* were
-originally delivered in a classroom setting, and thus have both a
+originally delivered in a classroom setting and thus have both a
 performative and a contemporaneous aspect ("there is no other time
 than that of the enunciation and every text is eternally written
 *here* and *now*"[@barthes_death_1977, 145]). The *dicta* are also
@@ -718,12 +717,12 @@ name.[@foucault_what_1998, 210]
 Foucault has a reputation for using esoteric vocabulary in his
 writing---his critics would say jargon---in a way that many historians
 find objectionable. The technical use of the term "author function"
-is a case in point. The idea that he is attempting to convey,
-however, is relatively straightforward. Abstract away the biographical
+is a case in point. However, the idea that he is attempting to convey
+is relatively straightforward. Abstract away the biographical
 details about the author from the work that the *idea* of the author
 does for us when we read a text, and what remains is the author
 function. Ironically, given the rather avant-garde reputation that
-is still attached to his name at least in the English-speaking
+is still attached to his name, at least in the English-speaking
 world, Foucault derives the substantive content of the idea of the
 author function almost entirely from Jerome (†420).
 
@@ -732,7 +731,7 @@ is not sufficient to identify legitimately authors of more than one
 work ... The name as an individual trademark is not enough when one
 works within a textual tradition. [@foucault_what_1998, 214]
 
-This is significant. We face in the *Decretum* a problem concerning
+This point is significant. We face in the *Decretum* a problem concerning
 authorship that medieval textual scholars like Abelard and Gratian
 himself would have found quite familiar: a textual tradition to
 which the name of Gratian became attached quite early on "as an
@@ -767,7 +766,7 @@ reflects a level of reception of Roman Law doctrine so much more
 advanced than the first recension that the two recensions cannot
 be attributed to a single author. It is possible to transpose
 Winroth's argument into Foucault's framework either by defining the
-author as a constant level of value, or by defining the author as
+author as a constant level of value or as
 a field of conceptual or theoretical coherence. Winroth himself
 seems to lean in the direction of defining the author as a constant
 level of value: the *dicta* in the first recension of the *Decretum*
@@ -780,7 +779,7 @@ again in the future.[@chodorow_ecclesiology_1972, 60-64] To make
 an argument of this kind would be defining the author as a field
 of conceptual or theoretical coherence. To be clear, the point is
 not that scholars such as Pennington and Winroth *are* framing their
-arguments in the terms Foucault borrows from Jerome, but rather
+arguments in the terms Foucault borrows from Jerome but rather
 that if the biographical details of their respective historical
 Gratians were abstracted away, their arguments *could* be reframed
 in those terms.
@@ -791,20 +790,20 @@ case statements suggest a standard other than the use of Roman law
 on the basis of which texts might be included in or excluded from
 the Gratian canon. For example, Gratian in C.3 d.init. uses the
 reflexive pronoun *sibi* to refer to enemies of a bishop who is not
-the grammatical subject of the clause in which the word occurs, and
-where, e.g., *eius* might instead be expected: "*accusatores testes
+the grammatical subject of the clause in which the word occurs,
+where *eius* might instead be expected: "*accusatores testes
 de domo sua producunt, et alios sibi inimicos extra suam prouinciam*
 (the accusers bring forward witnesses from [the bishop's] own
 household, and other enemies of his (*sibi*) from outside his
 province)." (trans. PLE) Similarly, in C.29 d.init. Gratian uses
-the reflexive pronoun *sibi* is to refer to a noblewoman who is the
+the reflexive pronoun *sibi* to refer to a noblewoman who is the
 grammatical subject of neither the sentence nor the relative clause
-in which the word appears, and where, e.g., *ei* might instead be
+in which the word appears, and where *ei* might instead be
 expected: "*Ille, qui sibi prius placuerat, tandem uenit, eamque
 sibi in coniugem petit* (Finally he who had previously pleased her
 (*sibi*) comes, and asks [for] her in marriage to himself)." (trans.
 PLE) It is outside the scope of this dissertation to follow up on
-anecdotal evidence of this kind, but the example at least suggests
+anecdotal evidence of this kind, but the examples at least suggest
 a possible direction for future research.[^72]
 
 > \(4\) finally, passages quoting statements made or mentioning
@@ -823,13 +822,13 @@ known. Winroth's argument about D.63 d.p.c.34, for example, can be
 transposed into Foucault's framework for this criterion only by
 shifting the starting point and running the logic in reverse. Winroth
 starts with the axiomatic assumption that the first recension of
-the *Decretum* contains no interpolations, and reasons from that
+the *Decretum* contains no interpolations and reasons from that
 axiom to the conclusion that Gratian could not have finished the
 first recension before 1139. There is nothing inherently suspect
 in the framing of arguments about the authorship of a text using
 Foucault's fourth criterion, but it is extremely difficult to reach
 conclusions that will command general assent in the absence of any
-established facts about a putative author's life, and even more so
+established facts about a putative author's life, especially
 when the controverted text in question has an unknown history of
 its own (as is the case with the variant texts we know from the
 Second Lateran Council as canon 28 and from the *Decretum* as D.63
@@ -852,7 +851,7 @@ finding that when the alleged details of Gratian's biography are
 abstracted away from the idea of the author, and we instead look
 for the author in the stylistic unities predicted by either the
 one- or two-author hypotheses, we will not find them. Style is
-defined in a rigorous and quantitative way, and applied using
+defined in a rigorous and quantitative way and applied using
 computational techniques unimaginable certainly to Jerome and perhaps
 even to Foucault, but conceptually it is Jerome's insight that
 guides the work in the following chapter.
@@ -1178,14 +1177,14 @@ in *The Westminster Handbook to Origen*, 12. McGuckin got this story
 from Eusebius, *Ecclesiastical History* 6.23.2.
 
 [^57]: Monastic modes of text production were gradually replaced
-by commercial modes of production, e.g., around the University of
+by commercial ones, e.g., around the University of
 Paris. See Richard H. and Mary A. Rouse, *Manuscripts and their
 Makers: Commercial Book Producers in Medieval Paris 1200-1500.*
 
 [^59]: The quasi-monastic model of text production leaves open a
 range of possibilities. Those who have read the *Vita Augustini*
 written by Possidius of Calama († c.437) are likely to be unimpressed
-by the intellectual caliber of Augustine's episcopal household, and
+by the intellectual caliber of Augustine's episcopal household and
 to assess its contribution to his work accordingly.
 
 [^60]: @winroth_where_2013; @pennington_biography_2014; and
@@ -1217,9 +1216,9 @@ of a text or texts.
 [^72]: When I first encountered Gratian's unexpected use of *sibi*
 in C.3 d.init., I assumed that I was misconstruing the grammar.
 Soon thereafter, however, I came across @dillon_case_2006 [316n42],
-confirming that Gratian's use *sibi* is in fact incorrect by the
+confirming that Gratian's use of *sibi* is in fact incorrect by the
 standards of Classical Latin. This usage is not unique to Gratian;
-Dillon referred me to @sidwell_reading_1995 [365-366] which discusses
+Dillon referred me to @sidwell_reading_1995 [365-366], which discusses
 ways in which the use of demonstratives and pronouns in Medieval
 Latin differs from their use in Classical Latin.
 
