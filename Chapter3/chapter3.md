@@ -9,16 +9,16 @@ subtitle: Authority, Author, Authorship
 The purpose of this chapter is to examine the closely connected
 questions of the authority, author, and authorship of the *Decretum*.[^1]
 
-Scholars, such as Noonan, Winroth, and Pennington, who have investigated
-the authorship of the *Decretum* in recent decades have primarily
-been interested in the question of who wrote the exact words the
-text contains. That emphasis on the attribution of exact words does
-not accord well with either medieval definitions of authorship or
-those found in current theories of authorship. (Contemporary theories
-of literary authorship are, ironically, closer to medieval theories
-of authorship than either are to the definition of authorship tacitly
-assumed by most historians and in some interesting cases draw on
-late antique and medieval sources.)
+Scholars, such as Noonan, Winroth, and Pennington, who have
+investigated the authorship of the *Decretum* in recent decades
+have primarily been interested in the question of who wrote the
+exact words the text contains. That emphasis on the attribution of
+exact words does not accord well with either medieval definitions
+of authorship or those found in current theories of authorship.
+(Contemporary theories of literary authorship are, ironically,
+closer to medieval theories of authorship than either are to the
+definition of authorship tacitly assumed by most historians and in
+some interesting cases draw on late antique and medieval sources.)
 
 Medieval sources on whom we rely for most of our evidence about who
 wrote the *Decretum*, the authors of glosses or of prefaces to
@@ -114,13 +114,13 @@ as the ultimate source for the authority of the *Decretum*.
 
 Most medieval and modern readers of the *Decretum* have seen it as
 a teaching text, both in the sense that its intended use (or at
-least one of its intended uses) was as an introductory textbook
-and also in the sense that it reflected the author's experiences
-as a classroom teacher. The early manuscript tradition for the
-*Decretum* displays enough variation, even among the first-recension
-manuscripts---Admont (Aa), Barcelona (Bc), Florence (Fd), and Paris (P)---to
-suggest that the text developed continuously over the span of,
-and in parallel with, a relatively long teaching career---perhaps
+least one of its intended uses) was as an introductory textbook and
+also in the sense that it reflected the author's experiences as a
+classroom teacher. The early manuscript tradition for the *Decretum*
+displays enough variation, even among the first-recension
+manuscripts---Admont (Aa), Barcelona (Bc), Florence (Fd), and Paris
+(P)---to suggest that the text developed continuously over the span
+of, and in parallel with, a relatively long teaching career---perhaps
 a decade or more. Gratian's students would therefore appear to have
 been the potential witnesses with the best visibility into the
 authorship of the text of the *Decretum* over the course of the
@@ -169,7 +169,8 @@ from around 1156, perhaps a decade and a half after the end of
 whatever teaching career Gratian may have had, so the dates do not
 preclude his having been a student of Gratian.[^11] The basis for
 the claim that Omnibonus was Gratian's student is an entry for the
-year 1130 in the chronicle of the Norman monk Robert of Torigni (†1186):
+year 1130 in the chronicle of the Norman monk Robert of Torigni
+(†1186):
 
 > *Gratianus episcopus Clusinus coadunavit decreta valde utilia ex
 decretis, canonibus, doctoribus, legibus Romanis, sufficientia ad
@@ -250,10 +251,10 @@ for Simon to have been Gratian's student, it seems far more likely
 that he described himself as *discipulus* in something like the
 same sense that we might describe contemporary scholars like Chodorow,
 Pennington, and Winroth as "students of Gratian." Yet again, we
-appear to be dealing with statements that on the surface appear to be
-about the biography of Gratian---a claim by Simon that he had been
-Gratian's student---but that should more plausibly be read as an
-acknowledgement of Gratian's authority as the founder of an
+appear to be dealing with statements that on the surface appear to
+be about the biography of Gratian---a claim by Simon that he had
+been Gratian's student---but that should more plausibly be read as
+an acknowledgement of Gratian's authority as the founder of an
 intellectual tradition. It is an authority that Simon makes clear
 is not without its limits.
 
@@ -363,15 +364,15 @@ evaluating historical evidence.[^27] Noonan's insistence on adhering
 to the courtroom rules of evidence can seem like overkill. If, after
 all, the monastery of Saints Felix and Nabor in Bologna was in the
 hands of Camaldolese communities in 1113 and 1153, it does not seem
-unreasonable to infer that it was Camaldolese in the 1120s
-and 1130s when Gratian was putatively associated with the foundation,
-whatever we may think the nature of that association to have been.
-But Noonan's caution seems justified when we consider, for example,
-that R.W. Southern seized upon the one thinly-sourced datum of
-the Camaldolese connection as the foundation for his entire
-reconstruction of Gratian's intentions and motivations in undertaking
-the *Decretum* project, including a peremptory dismissal of any
-possibility that Gratian had a teaching career.[^28]
+unreasonable to infer that it was Camaldolese in the 1120s and 1130s
+when Gratian was putatively associated with the foundation, whatever
+we may think the nature of that association to have been. But
+Noonan's caution seems justified when we consider, for example,
+that R.W. Southern seized upon the one thinly-sourced datum of the
+Camaldolese connection as the foundation for his entire reconstruction
+of Gratian's intentions and motivations in undertaking the *Decretum*
+project, including a peremptory dismissal of any possibility that
+Gratian had a teaching career.[^28]
 
 The entry in the chronicle of Robert of Torigni identifying Gratian
 as bishop of Chiusi and teacher of Omnibonus is another of the many
@@ -466,8 +467,8 @@ to canon 28 from the Second Lateran Council of 1139. That first-recension
 incorporated into the second recension of the *Decretum* as D.63
 c.35[^40] Winroth explicitly rejects Atria Larson's suggestion that
 the canon referred to at D.63 d.p.c.34 is *not* canon 28 from Lateran
-II but rather a canon from an earlier council or synod convened
-by Innocent II at Rome in 1133 that was reissued at the 1139 council,
+II but rather a canon from an earlier council or synod convened by
+Innocent II at Rome in 1133 that was reissued at the 1139 council,
 a common practice in the early twelfth century.[^41]
 
 Furthermore, Winroth accepts an entry in a Siena necrology (Siena,
@@ -484,15 +485,14 @@ first recension, was unlikely to have been the author of the second
 recension.
 
 Winroth rejects claims that the Sg manuscript of the *Decretum* is
-descended from a version earlier than the first recension and
-argues instead that it is an abbreviation of the first recension
-with some interpolations from the second.[^43] While not a direct
-intervention in a debate over the biography of Gratian, Winroth's
-argument against Sg being a version of the text of the
-*Decretum* earlier than the first recension is an indirect argument against
-a long teaching career for Gratian 1, as Winroth conceives him, and
-against a long period of incremental development for the text of
-the *Decretum*.
+descended from a version earlier than the first recension and argues
+instead that it is an abbreviation of the first recension with some
+interpolations from the second.[^43] While not a direct intervention
+in a debate over the biography of Gratian, Winroth's argument against
+Sg being a version of the text of the *Decretum* earlier than the
+first recension is an indirect argument against a long teaching
+career for Gratian 1, as Winroth conceives him, and against a long
+period of incremental development for the text of the *Decretum*.
 
 ## Pennington
 
@@ -518,11 +518,11 @@ Pennington supports Larson's conjecture by noting that the text of
 the canon as it appears in the *Decretum* includes variants (*facta
 fuerit* vs *fuerit celebrata*, and *consensus* vs *assensus*) found
 in none of the twenty manuscript witnesses to the Lateran II canons
-edited by Martin Brett.[^47] Pennington
-argues that there is enough doubt as to whether D.63 d.p.c.34 refers
-to canon 28 from Lateran II that it cannot be used as the sole or
-primary basis for imposing a *terminus post quem* of 1139 on the
-first recension of the *Decretum*.
+edited by Martin Brett.[^47] Pennington argues that there is enough
+doubt as to whether D.63 d.p.c.34 refers to canon 28 from Lateran
+II that it cannot be used as the sole or primary basis for imposing
+a *terminus post quem* of 1139 on the first recension of the
+*Decretum*.
 
 Pennington, building on Eichbauer's findings, argues that because
 the number of additional canons found in the margins of the Barcelona
@@ -582,21 +582,21 @@ and effaced completely behind their immortal works."[@kuttner_father_1941,
 
 Authorship on any significant scale in the pre-modern world required
 wrapping a specialized and expensive scribal infrastructure around
-the figure of the author.[^55] Three examples from the classical period and
-late antiquity illustrate the possible ways in which this requirement
-could be met. Cicero (†43 BCE) pursued his literary ambitions with
-the support of highly skilled but unfree labor purchased out of his
-personal wealth, most famously his slave and later freedman Tiro.
-A wealthy lay patron named Ambrose paid for the secretarial staff
-that supported the authorial activities of Origen of Alexandria
-(†253).[^56] Quasi-monastic members of the episcopal household of
-Augustine of Hippo (†430) provided the scribal support that made
-his prodigious authorial output possible. The mode of production
-pioneered by Augustine and his household in which monastic labor
-enabled the creation of original texts by their authors as well as
-the subsequent copying and circulation of finished texts proved a
-durable one and predominated in the Latin West until the thirteenth
-century.[^57]
+the figure of the author.[^55] Three examples from the classical
+period and late antiquity illustrate the possible ways in which
+this requirement could be met. Cicero (†43 BCE) pursued his literary
+ambitions with the support of highly skilled but unfree labor
+purchased out of his personal wealth, most famously his slave and
+later freedman Tiro. A wealthy lay patron named Ambrose paid for
+the secretarial staff that supported the authorial activities of
+Origen of Alexandria (†253).[^56] Quasi-monastic members of the
+episcopal household of Augustine of Hippo (†430) provided the scribal
+support that made his prodigious authorial output possible. The
+mode of production pioneered by Augustine and his household in which
+monastic labor enabled the creation of original texts by their
+authors as well as the subsequent copying and circulation of finished
+texts proved a durable one and predominated in the Latin West until
+the thirteenth century.[^57]
 
 Given the material and social technologies for authorship available
 in the twelfth century, creation of a text the size of Gratian's
@@ -605,12 +605,12 @@ Pennington has noted that "Gratian may have had an atelier of
 assistants,"[@pennington_biography_2018, 362] but that observation
 suggests that the nature of the collaboration between Gratian and
 those Pennington conceives of as his assistants needs to be examined
-closely. What substantive intellectual contributions, if any,
-did Gratian's collaborators make to the project?[^59] There are a
-number of indications, discussed in the previous chapter, that the
-*Decretum* outgrew the ability of a single author to effectively
-manage the development of the text. The question is whether Gratian's
-partial loss of control of the project opened up a space for genuinely
+closely. What substantive intellectual contributions, if any, did
+Gratian's collaborators make to the project?[^59] There are a number
+of indications, discussed in the previous chapter, that the *Decretum*
+outgrew the ability of a single author to effectively manage the
+development of the text. The question is whether Gratian's partial
+loss of control of the project opened up a space for genuinely
 collaborative authorship. The starting point for this inquiry is a
 theoretically informed understanding of what authorship is.
 
@@ -677,21 +677,20 @@ Barthes uses the term "scriptor" to indicate an alternative
 conceptualization of authorship in which the performative aspect
 of the author's act is the central focus. Barthes uses the terms
 "criticism" and "critic" to refer respectively to the activity of
-subjecting a literary text to close-reading
-and to one engaging in that activity.
-Translating the terms as "reading" and "reader" would not be seriously
-misleading. Gratian as author of the *dicta* is therefore, using
-Barthes's definitions, both scriptor and critic. The *dicta* were
-originally delivered in a classroom setting and thus have both a
-performative and a contemporaneous aspect ("there is no other time
-than that of the enunciation and every text is eternally written
-*here* and *now*"[@barthes_death_1977, 145]). The *dicta* are also
-the record of a particular close-reading of a selection of authoritative
-texts. Barthes's critique of the concept of the Author, then,
-suggests some interesting ways in which the conceptualization of
-authorship usually invoked in scholarship on the *Decretum* fails
-to capture, or at least insufficiently emphasizes, certain important
-aspects of Gratian's creative activity.
+subjecting a literary text to close-reading and to one engaging in
+that activity. Translating the terms as "reading" and "reader"
+would not be seriously misleading. Gratian as author of the *dicta*
+is therefore, using Barthes's definitions, both scriptor and critic.
+The *dicta* were originally delivered in a classroom setting and
+thus have both a performative and a contemporaneous aspect ("there
+is no other time than that of the enunciation and every text is
+eternally written *here* and *now*"[@barthes_death_1977, 145]). The
+*dicta* are also the record of a particular close-reading of a
+selection of authoritative texts. Barthes's critique of the concept
+of the Author, then, suggests some interesting ways in which the
+conceptualization of authorship usually invoked in scholarship on
+the *Decretum* fails to capture, or at least insufficiently emphasizes,
+certain important aspects of Gratian's creative activity.
 
 ## Foucault
 
@@ -717,8 +716,8 @@ name.[@foucault_what_1998, 210]
 Foucault has a reputation for using esoteric vocabulary in his
 writing---his critics would say jargon---in a way that many historians
 find objectionable. The technical use of the term "author function"
-is a case in point. However, the idea that he is attempting to convey
-is relatively straightforward. Abstract away the biographical
+is a case in point. However, the idea that he is attempting to
+convey is relatively straightforward. Abstract away the biographical
 details about the author from the work that the *idea* of the author
 does for us when we read a text, and what remains is the author
 function. Ironically, given the rather avant-garde reputation that
@@ -731,15 +730,15 @@ is not sufficient to identify legitimately authors of more than one
 work ... The name as an individual trademark is not enough when one
 works within a textual tradition. [@foucault_what_1998, 214]
 
-This point is significant. We face in the *Decretum* a problem concerning
-authorship that medieval textual scholars like Abelard and Gratian
-himself would have found quite familiar: a textual tradition to
-which the name of Gratian became attached quite early on "as an
-individual trademark." Furthermore, Foucault's theory of literary
-authorship is substantially derived from the work of the figure
-that Gratian's twelfth-century contemporaries, most notably Abelard,
-considered supremely authoritative on precisely this kind of
-problem.[^69]
+This point is significant. We face in the *Decretum* a problem
+concerning authorship that medieval textual scholars like Abelard
+and Gratian himself would have found quite familiar: a textual
+tradition to which the name of Gratian became attached quite early
+on "as an individual trademark." Furthermore, Foucault's theory of
+literary authorship is substantially derived from the work of the
+figure that Gratian's twelfth-century contemporaries, most notably
+Abelard, considered supremely authoritative on precisely this kind
+of problem.[^69]
 
 > How, then can one attribute several discourses to one and the
 same author? How can one use the author function to determine if
@@ -766,23 +765,22 @@ reflects a level of reception of Roman Law doctrine so much more
 advanced than the first recension that the two recensions cannot
 be attributed to a single author. It is possible to transpose
 Winroth's argument into Foucault's framework either by defining the
-author as a constant level of value or as
-a field of conceptual or theoretical coherence. Winroth himself
-seems to lean in the direction of defining the author as a constant
-level of value: the *dicta* in the first recension of the *Decretum*
-are in some sense "inferior" to those in the second because they
-reflect a more rudimentary understanding of Roman Law. While arguments
-that Gratian made an explicit ideological choice to de-emphasize
-Roman law do not presently play a large role in scholarly debates
-over the *Decretum*, they have done so in the past and may do so
-again in the future.[@chodorow_ecclesiology_1972, 60-64] To make
-an argument of this kind would be defining the author as a field
-of conceptual or theoretical coherence. To be clear, the point is
-not that scholars such as Pennington and Winroth *are* framing their
-arguments in the terms Foucault borrows from Jerome but rather
-that if the biographical details of their respective historical
-Gratians were abstracted away, their arguments *could* be reframed
-in those terms.
+author as a constant level of value or as a field of conceptual or
+theoretical coherence. Winroth himself seems to lean in the direction
+of defining the author as a constant level of value: the *dicta*
+in the first recension of the *Decretum* are in some sense "inferior"
+to those in the second because they reflect a more rudimentary
+understanding of Roman Law. While arguments that Gratian made an
+explicit ideological choice to de-emphasize Roman law do not presently
+play a large role in scholarly debates over the *Decretum*, they
+have done so in the past and may do so again in the
+future.[@chodorow_ecclesiology_1972, 60-64] To make an argument of
+this kind would be defining the author as a field of conceptual or
+theoretical coherence. To be clear, the point is not that scholars
+such as Pennington and Winroth *are* framing their arguments in the
+terms Foucault borrows from Jerome but rather that if the biographical
+details of their respective historical Gratians were abstracted
+away, their arguments *could* be reframed in those terms.
 
 A work like the *Decretum* can, of course, be evaluated on more
 than one scale of value, and lapses in the Latin grammar of the
@@ -791,20 +789,20 @@ on the basis of which texts might be included in or excluded from
 the Gratian canon. For example, Gratian in C.3 d.init. uses the
 reflexive pronoun *sibi* to refer to enemies of a bishop who is not
 the grammatical subject of the clause in which the word occurs,
-where *eius* might instead be expected: "*accusatores testes
-de domo sua producunt, et alios sibi inimicos extra suam prouinciam*
+where *eius* might instead be expected: "*accusatores testes de
+domo sua producunt, et alios sibi inimicos extra suam prouinciam*
 (the accusers bring forward witnesses from [the bishop's] own
 household, and other enemies of his (*sibi*) from outside his
 province)." (trans. PLE) Similarly, in C.29 d.init. Gratian uses
 the reflexive pronoun *sibi* to refer to a noblewoman who is the
 grammatical subject of neither the sentence nor the relative clause
-in which the word appears, and where *ei* might instead be
-expected: "*Ille, qui sibi prius placuerat, tandem uenit, eamque
-sibi in coniugem petit* (Finally he who had previously pleased her
-(*sibi*) comes, and asks [for] her in marriage to himself)." (trans.
-PLE) It is outside the scope of this dissertation to follow up on
-anecdotal evidence of this kind, but the examples at least suggest
-a possible direction for future research.[^72]
+in which the word appears, and where *ei* might instead be expected:
+"*Ille, qui sibi prius placuerat, tandem uenit, eamque sibi in
+coniugem petit* (Finally he who had previously pleased her (*sibi*)
+comes, and asks [for] her in marriage to himself)." (trans. PLE)
+It is outside the scope of this dissertation to follow up on anecdotal
+evidence of this kind, but the examples at least suggest a possible
+direction for future research.[^72]
 
 > \(4\) finally, passages quoting statements made or mentioning
 events that occurred after the author's death must be regarded as
@@ -828,11 +826,10 @@ first recension before 1139. There is nothing inherently suspect
 in the framing of arguments about the authorship of a text using
 Foucault's fourth criterion, but it is extremely difficult to reach
 conclusions that will command general assent in the absence of any
-established facts about a putative author's life, especially
-when the controverted text in question has an unknown history of
-its own (as is the case with the variant texts we know from the
-Second Lateran Council as canon 28 and from the *Decretum* as D.63
-c.35.)
+established facts about a putative author's life, especially when
+the controverted text in question has an unknown history of its own
+(as is the case with the variant texts we know from the Second
+Lateran Council as canon 28 and from the *Decretum* as D.63 c.35.)
 
 Jerome's remaining criterion, the third, has **not** figured
 significantly in recent scholarship on the authorship of Gratian's
@@ -1044,19 +1041,19 @@ methodology and terminology, as they have been codified from the
 late nineteenth century on." @winroth_where_2013 [106].
 
 [^28]: Southern takes an extreme position with respect to Gratian's
-teaching career, citing, as late as 1995, Gratian's supposed association
-with the Camaldolese order to advance an argument that he had never
-been a teacher: "Reliable writers after his death affirmed that
-Gratian was a Benedictine monk of the Camaldolesian Order, a small
-Italian branch of the Benedictines, which combined austerity of
-life with considerable freedom to contribute to the work of the
-Church in a wide variety of ways. This is what Gratian did. He
-engaged in a very un-monastic branch of study, and produced a law
-book which became the most widely distributed and probably most
-generally used of all the masterpieces of twelfth-century learning."
-"the book, and not the teaching of pupils, was the offering Gratian's
-monastic life brought to the Church." @southern_scholastic_1995
-[286-287, 304].
+teaching career, citing, as late as 1995, Gratian's supposed
+association with the Camaldolese order to advance an argument that
+he had never been a teacher: "Reliable writers after his death
+affirmed that Gratian was a Benedictine monk of the Camaldolesian
+Order, a small Italian branch of the Benedictines, which combined
+austerity of life with considerable freedom to contribute to the
+work of the Church in a wide variety of ways. This is what Gratian
+did. He engaged in a very un-monastic branch of study, and produced
+a law book which became the most widely distributed and probably
+most generally used of all the masterpieces of twelfth-century
+learning." "the book, and not the teaching of pupils, was the
+offering Gratian's monastic life brought to the Church."
+@southern_scholastic_1995 [286-287, 304].
 
 [^29]: @noonan_gratian_1979 [153-154]. The recently rediscovered
 Siena necrology makes Robert's identification more plausible, though
@@ -1080,8 +1077,8 @@ between the first and second recension with respect to the use of
 Roman law within a broader context: "The argument about two authors
 is based on textual (you could almost say literary) analysis:
 formulations, practices of organization, source use, etc. Justinian's
-Roman law books [are] really the only category of source only used in
-one of the two recensions. I used to think that there were other
+Roman law books [are] really the only category of source only used
+in one of the two recensions. I used to think that there were other
 sources, such as 3L, that were only used in the second recension,
 but this turned out to be an accident of the specific sections I
 used as case studies (C. 24 and C.11 q.3)." (Anders Winroth, email
@@ -1159,7 +1156,8 @@ two-author hypothesis was that the second recension makes much more
 sophisticated use of Roman law concepts and terminology than the
 first recension.
 
-[^47]: @pennington_biography_2018 [365]; Brett's edition is unpublished.
+[^47]: @pennington_biography_2018 [365]; Brett's edition is
+unpublished.
 
 [^48]: @pennington_biography_2018 [367]; and @eichbauer_first_2012
 [145].
@@ -1179,8 +1177,8 @@ in *The Westminster Handbook to Origen*, 12. McGuckin got this story
 from Eusebius, *Ecclesiastical History* 6.23.2.
 
 [^57]: Monastic modes of text production were gradually replaced
-by commercial ones, e.g., around the University of
-Paris. See @rouse_manuscripts_2000.
+by commercial ones, e.g., around the University of Paris. See
+@rouse_manuscripts_2000.
 
 [^59]: The quasi-monastic model of text production leaves open a
 range of possibilities. Those who have read the *Vita Augustini*
