@@ -735,20 +735,24 @@ concerning authorship that medieval textual scholars like Abelard
 and Gratian himself would have found quite familiar: a textual
 tradition to which the name of Gratian became attached quite early
 on "as an individual trademark." Furthermore, Foucault's theory of
-literary authorship is substantially derived from the work of the
-figure that Gratian's twelfth-century contemporaries, most notably
-Abelard, considered supremely authoritative on precisely this kind
-of problem.[^69]
+literary authorship is substantially derived from the work of Jerome,
+the figure that Gratian's twelfth-century contemporaries, most
+notably Abelard, considered supremely authoritative on precisely
+this kind of problem.[^69]
 
 > How, then can one attribute several discourses to one and the
 same author? How can one use the author function to determine if
 one is dealing with one or several individuals? Saint Jerome proposes
 four criteria:[^70]
 
-Each of Jerome's four criteria is a criterion for the *exclusion*
-of a given text from the canon of a particular author. Three of the
-four criteria, the first, second, and fourth, have figured to some
-extent in recent scholarship on the authorship of Gratian's *Decretum*.
+The four criteria that Foucault synthesizes from Jerome consider
+the author separately as "a constant level of value", "a field of
+conceptual or theoretical coherence", "a stylistic unity", and an
+"historical figure at the crossroads of a certain number of events."
+Each is a criterion for the *exclusion* of a given text from the
+canon of a particular author. Three of the four criteria, the first,
+second, and fourth, have figured to some extent in recent scholarship
+on the authorship of Gratian's *Decretum*; the third has not.
 
 > \(1\) if among several books attributed to an author one is
 inferior to the others, it must be withdrawn from the list of the
