@@ -615,11 +615,11 @@ is the creative intellect uniquely responsible for a literary text and
 "is in the same relation of antecedence to his work as a father to his
 child."[62] Barthes argues that authors cannot be Authors---no person or
 persons can have a parent-child relationship to a text since all
-literary texts are socially constructed. Barthes's observation is
-directly relevant to the problem of the authorship of the *dicta*. They
-are "a tissue of quotations drawn from the innumerable centres of
-culture."[63] Gratian may therefore be the author of the *dicta* but he
-is not their Author.
+literary texts, which he describes as "a tissue of quotations drawn from
+the innumerable centres of culture,"[63] are socially constructed. This
+description is certainly more applicable to the *dicta* than to the
+modern texts that Barthes had in mind. Gratian may be the author of the
+*dicta* but he is not their Author.
 
 Barthes's central argument is against precisely the kind of reading that
 is prevalent in scholarship on Gratian and the *Decretum*:
