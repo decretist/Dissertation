@@ -346,38 +346,39 @@ of women and men in the real world.
 
 [1] Eight early manuscripts contain the gloss: "*Concordia discordantium
 canonum iuxta determinationem Gratiani episcopi quae in duas partes
-principaliter est divisa* (The agreement of disagreeing canons according
-to the determination of Bishop Gratian, which is principally divided
-into two parts.)" See below concerning whether, where, and when Gratian
-served as a bishop. Bl = Baltimore, Walters Art Gallery 777; Gt = Ghent,
-Bibl. der Rijksuniversiteit 55; Mt = Montecassino, Bibl. Abbaziale 66;
-Pf = Paris, Bibl. Nationale lat. 3884 I and II; Po = Pommersfelden,
-Bibl. des Grafen Schönborn 142 (2744); Ro = Rouen, Bibl. municipale E 21
-(707); Sl = St. Paul im Lavant, Stiftsbibl. 25/1 (XXV.2.6); Tr = Trier,
-Stadtbibl. 906 (1141). Gt, Pf, and Tr indicate that the *Decretum* has
-two parts; Bl, Mt, Po, Ro, and Sl indicate that it has three. The
-earliest version of the *Decretum* to survive in more than one
-manuscript (the first recension) has two parts, while the most widely
-circulated version (the second recension) has three. Part III of the
-*Decretum* (*de Consecratione*) is outside the scope of this project,
-the intent of which is to compare the earliest (first-recension) version
-with the most widely circulated (second-recension) version for the
-purpose of determining authorship of those parts of the text
-traditionally attributed to Gratian himself. Part III is not found in
-the first recension, therefore direct comparison is not possible. In any
-event the class of text traditionally attributed to Gratian personally
-(the sayings or *dicta*) are absent from Part III. Therefore, it is not
-subject to comparative analysis using the techniques available for
-examining Parts I and II. John T. Noonan, “Gratian Slept Here: The
-Changing Identity of the Father of the Systematic Study of Canon Law,”
-*Traditio* 35 (January 1979): 154. Noonan lists Mazarine 1289 (possibly
-a typo for Pm = Paris, Bibl. Mazarine 1287?) in place of Sl. Rudolf
-Weigand, “Frühe Kanonisten und ihre Karriere in der Kirche,”
-*Zeitschrift der Savigny-Stiftung für Rechtsgeschichte. Kanonistische
-Abteilung* 76 (1990): 135–55. Kenneth Pennington, “The Biography of
-Gratian, the Father of Canon Law,” in *A Service Beyond All Recompense*,
-ed. Kurt Martens (Catholic University of America Press, 2018), 382–85,
-supplements Noonan's discussion of these eight glosses.
+principaliter est divisa* (The reconciliation of contradictory canons
+according to the determination of Bishop Gratian, which is principally
+divided into two parts.)" See below concerning whether, where, and when
+Gratian served as a bishop. Bl = Baltimore, Walters Art Gallery 777; Gt
+= Ghent, Bibl. der Rijksuniversiteit 55; Mt = Montecassino, Bibl.
+Abbaziale 66; Pf = Paris, Bibl. Nationale lat. 3884 I and II; Po =
+Pommersfelden, Bibl. des Grafen Schönborn 142 (2744); Ro = Rouen, Bibl.
+municipale E 21 (707); Sl = St. Paul im Lavant, Stiftsbibl. 25/1
+(XXV.2.6); Tr = Trier, Stadtbibl. 906 (1141). Gt, Pf, and Tr indicate
+that the *Decretum* has two parts; Bl, Mt, Po, Ro, and Sl indicate that
+it has three. The earliest version of the *Decretum* to survive in more
+than one manuscript (the first recension) has two parts, while the most
+widely circulated version (the second recension) has three. Part III of
+the *Decretum* (*de Consecratione*) is outside the scope of this
+project, the intent of which is to compare the earliest
+(first-recension) version with the most widely circulated
+(second-recension) version for the purpose of determining authorship of
+those parts of the text traditionally attributed to Gratian himself.
+Part III is not found in the first recension, therefore direct
+comparison is not possible. In any event the class of text traditionally
+attributed to Gratian personally (the sayings or *dicta*) are absent
+from Part III. Therefore, it is not subject to comparative analysis
+using the techniques available for examining Parts I and II. John T.
+Noonan, “Gratian Slept Here: The Changing Identity of the Father of the
+Systematic Study of Canon Law,” *Traditio* 35 (January 1979): 154.
+Noonan lists Mazarine 1289 (possibly a typo for Pm = Paris, Bibl.
+Mazarine 1287?) in place of Sl. Rudolf Weigand, “Frühe Kanonisten und
+ihre Karriere in der Kirche,” *Zeitschrift der Savigny-Stiftung für
+Rechtsgeschichte. Kanonistische Abteilung* 76 (1990): 135–55. Kenneth
+Pennington, “The Biography of Gratian, the Father of Canon Law,” in *A
+Service Beyond All Recompense*, ed. Kurt Martens (Catholic University of
+America Press, 2018), 382–85, supplements Noonan's discussion of these
+eight glosses.
 
 The author of the preface to the *Summa Parisiensis* incorrectly thought
 that Gratian himself had given the collection the title *Concordia

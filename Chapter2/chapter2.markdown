@@ -1290,13 +1290,13 @@ theologische Studien ; Bd. 6 (Frankfurt am Main ; PLang, 1998), 17.
 
 [55] Three early manuscripts (Gt, Pf, and Tr) contain the gloss:
 "*Concordia discordantium canonum iuxta determinationem Gratiani
-episcopi quae in duas partes principaliter est divisa* (The agreement of
-disagreeing canons according to the determination of Bishop Gratian,
-which is principally divided into two parts.)" Gt = Ghent, Bibl. der
-Rijksuniversiteit 55; Pf = Paris, Bibl. Nationale lat. 3884 I and II;
-and Tr = Trier, Stadtbibl. 906 (1141). See Noonan, “Gratian Slept Here,”
-154; and Pennington, “The Biography of Gratian, the Father of Canon
-Law,” 382.
+episcopi quae in duas partes principaliter est divisa* (The
+reconciliation of contradictory canons according to the determination of
+Bishop Gratian, which is principally divided into two parts.)" Gt =
+Ghent, Bibl. der Rijksuniversiteit 55; Pf = Paris, Bibl. Nationale lat.
+3884 I and II; and Tr = Trier, Stadtbibl. 906 (1141). See Noonan,
+“Gratian Slept Here,” 154; and Pennington, “The Biography of Gratian,
+the Father of Canon Law,” 382.
 
 [56] Add footnote restating distinction between canon and chapter.
 

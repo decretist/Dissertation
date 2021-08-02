@@ -53,14 +53,14 @@ authority, author, and authorship of the *Decretum*. The first was the
 gloss inserted in lieu of a title at the beginning of the early Ghent
 (Gt), Paris (Pf), and Trier (Tr) manuscripts: "*Concordia discordantium
 canonum iuxta determinationem Gratiani episcopi quae in duas partes
-principaliter est divisa* (The agreement of disagreeing canons according
-to the determination of Bishop Gratian, which is principally divided
-into two parts.)"[3] The glossator provides Gratian's name, but advances
-at best an ambivalent claim with respect to his authorship of the
-*Decretum*. The glossator includes the possibly helpful information that
-Gratian had been a bishop. We do not know what basis the glossator had
-for making this statement and therefore cannot form a judgment as to its
-reliability. The default stance of modern scholarship would be to
+principaliter est divisa* (The reconciliation of contradictory canons
+according to the determination of Bishop Gratian, which is principally
+divided into two parts.)"[3] The glossator provides Gratian's name, but
+advances at best an ambivalent claim with respect to his authorship of
+the *Decretum*. The glossator includes the possibly helpful information
+that Gratian had been a bishop. We do not know what basis the glossator
+had for making this statement and therefore cannot form a judgment as to
+its reliability. The default stance of modern scholarship would be to
 understand this as being a statement (whether true or false) about the
 biography of Gratian. It is, however, the kind of evidence that must be
 evaluated with particular care. The teaching authority of the church is

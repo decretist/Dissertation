@@ -64,7 +64,7 @@ authority, author, and authorship of the *Decretum*. The first was
 the gloss inserted in lieu of a title at the beginning of the early
 Ghent (Gt), Paris (Pf), and Trier (Tr) manuscripts: "*Concordia
 discordantium canonum iuxta determinationem Gratiani episcopi quae
-in duas partes principaliter est divisa* (The agreement of disagreeing
+in duas partes principaliter est divisa* (The reconciliation of contradictory
 canons according to the determination of Bishop Gratian, which is
 principally divided into two parts.)"[^3] The glossator provides
 Gratian's name, but advances at best an ambivalent claim with respect

@@ -374,7 +374,7 @@ bodies and lives, of women and men in the real world.
 
 [^1]: Eight early manuscripts contain the gloss: "*Concordia
 discordantium canonum iuxta determinationem Gratiani episcopi quae
-in duas partes principaliter est divisa* (The agreement of disagreeing
+in duas partes principaliter est divisa* (The reconciliation of contradictory
 canons according to the determination of Bishop Gratian, which is
 principally divided into two parts.)" See below concerning whether,
 where, and when Gratian served as a bishop. Bl = Baltimore, Walters
