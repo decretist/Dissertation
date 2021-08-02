@@ -712,12 +712,12 @@ for such common words. (Large variations would be less surprising with
 uncommon words for which small differences in number could result
 in a large difference in percentage.) *In* occurs 15.3% more
 frequently in Gratian2 than in dePen, and 13.3% less frequently in
-dePen than in Gratian2. *Non* occurs 24.8% more frequently in dePen
-than in Gratian2, and 19.9% less frequently in Gratian2 than in
-dePen. Even compared to the mean, *non*, for example, occurs 11.2%
-more frequently in dePen and 10.8% less frequently in Gratian2 than
-the mean of normalized frequencies. It is clear then that against
-an overall background of "orderliness" in the word-frequency
+dePen than in Gratian2. *Non* occurs 19.9% less frequently in
+Gratian2 than in dePen, and 24.8% more frequently in dePen than in
+Gratian2. Even compared to the mean, *non*, for example, occurs
+11.2% more frequently in dePen and 10.8% less frequently in Gratian2
+than the mean of normalized frequencies. It is clear then that
+against an overall background of "orderliness" in the word-frequency
 distribution, individual samples can display striking and potentially
 significant levels of variation.
 
