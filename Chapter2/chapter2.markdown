@@ -435,7 +435,7 @@ material outgrew the original plan so that many untidy seams of the
 texture remain visible."[39] Canons that are introduced by *de eodem*
 rubrics but that are clearly not "about the same thing" as the preceding
 canon in the vulgate *Decretum* are notable instances of visibly "untidy
-seams". One of Winroth's strongest arguments that the Aa, Bc, Fd, and P
+seams." One of Winroth's strongest arguments that the Aa, Bc, Fd, and P
 manuscripts represent a first recension rather than an abbreviation of
 the *Decretum* is that otherwise problematic *de eodem* rubrics make
 sense in the sequential order in which canons appear in those
@@ -446,8 +446,8 @@ recension).[40]
 Eichbauer and Pennington believe that Gratian wrote the rubrics in the
 *Decretum* rather than reusing those he found in formal source
 collections.[41] The rubrics are far too short to be of value for the
-purpose of authorship attribution. On the other hand, the fact that they
-are believed to have been written by Gratian, and therefore reflect his
+purpose of authorship attribution. However, the fact that they are
+believed to have been written by Gratian, and therefore reflect his
 choice of wording, means that they could potentially be useful evidence
 in the search for new topics introduced between the first and second
 recensions.
@@ -460,12 +460,12 @@ a *dictum post canonem* containing his own commentary on the preceding
 canon or series of canons, a feature he borrowed from Alger of Liège's
 theological treatise *De misericordia et iustitia* but without immediate
 precedent in the canonical literature.[42] The *dicta post canones* are
-statements that Gratian made on his own authority as a jurist, carry the
-thread of his argument, and do his interpretive work. The *dicta* are
-texts that Gratian (whether we think of him as one person or many)
-actually wrote, and are therefore subject to analysis for authorship
-attribution. "The *dicta* in Gratian's *Decretum* bring the reader
-closer to its author than any other part of the text."[43]
+statements that Gratian made on his own authority as a jurist. They
+carry the thread of his argument and do his interpretive work. The
+*dicta* are texts that Gratian (whether we think of him as one person or
+many) actually wrote and that are therefore subject to analysis for
+authorship attribution. "The *dicta* in Gratian's *Decretum* bring the
+reader closer to its author than any other part of the text."[43]
 
 ## Organization
 
@@ -491,7 +491,7 @@ thought to have been made by Paucapalea (fl. 1140s) rather than by
 Gratian.[45] The division seems to have taken some time to reach its
 final form: Pennington has pointed out that there were 99-distinction
 versions of the first recension,[46] and Rufinus writing in the
-mid-1160s presumably about the second recension describes Part I as
+mid-1160s, presumably about the second recension, describes Part I as
 "*toto tractatu in centum distinctionibus exacto* (having been completed
 in one hundred distinctions.)"[47]
 
@@ -511,7 +511,7 @@ The second part consists of 36 cases, which are further subdivided into
 168 questions. Four of the questions, C.11 q.2, C.17 q.3, C.22 q.3, and
 C.29 q.1 are empty, meaning that they contain no chapters.[52] C.33 q.3,
 encapsulates a treatise on penance (*de Penitentia*, abbreviated *de
-Pen.*) *De Penitentia* is structurally similar to Part I, and is divided
+Pen.*) *De Penitentia* is structurally similar to Part I; it is divided
 into seven distinctions. Certain sequences of cases in Part II comprise
 thematic groups, notably simony (case 1), procedure (cases 2-6),
 monastic life (cases 16-20), heresy (cases 23-26), and marriage (cases
@@ -521,10 +521,10 @@ The third part of the *Decretum* is a treatise on sacraments (*de
 Consecratione*, abbreviated *de Cons.*) divided into five
 distinctions.[54] That *de Consecratione* is a very late addition to the
 *Decretum* is not in doubt---it is absent from all first-recension
-manuscripts, nor was it included in the earliest manuscripts of the more
-widely-circulated second recension, as indicated by glosses found in
-Ghent (Gt), Paris (Pf), and Trier (Tr) manuscripts describing Gratian's
-work as "principally divided into two parts."[55]
+manuscripts, and it was not included in the earliest manuscripts of the
+more widely-circulated second recension, as indicated by glosses found
+in Ghent (Gt), Paris (Pf), and Trier (Tr) manuscripts describing
+Gratian's work as "principally divided into two parts."[55]
 
 ### Distinctions
 
@@ -548,8 +548,8 @@ Cases (*causae*) are the highest-order containers in the second part of
 the *Decretum*. Each of the 36 cases in Part II is introduced by a
 hypothetical case statement (*thema* or *dictum initiale*,
 conventionally abbreviated d.init.). The case statements are a subset of
-the *dicta* that are found only in, and that are closely connected with
-the organization of, Part II. Medieval and modern scholarship agree in
+the *dicta* that are found only in, and that are closely connected with,
+the organization of Part II. Medieval and modern scholarship agree in
 accepting the *dicta initialia*, like the *dicta ante* and *dicta post*,
 as having been written by Gratian.[57] Cases contain a single terminal
 or leaf node (the *dictum initiale*) followed by an ordered sequence of
@@ -641,7 +641,7 @@ questions is clearly signalled in each of the case statements by the use
 of one of a small number of formulaic markers, of which *Hic primum
 queritur* is the most common.[60]
 
-The cases statements appear to have been in some sense lesson plans,
+The case statements appear to have been in some sense lesson plans,
 providing the outline for Gratian's classroom presentation of canonical
 sources. As such, they were intended to be memorable rather than
 realistic.
@@ -649,7 +649,7 @@ realistic.
 In D.28, d.init., for example, a married infidel, by which Gratian means
 a Muslim, converts to Christianity. As a result, his wife separates from
 him out of hatred for his new faith. The convert then takes a new
-Christian wife, and after she dies, he is made a priest. Finally, "on
+Christian wife, and, after she dies, he is made a priest. Finally, "on
 account of the merit of his life and learning," he is elected bishop.
 Gratian extracts from this fantastical fact-pattern a series of
 questions significant from a legal point of view: whether there can be
@@ -665,7 +665,7 @@ present day might not find difficult to identify with. At a time when
 considerable attention is being paid in the realm of popular discourse
 (if not yet public policy) to the issue of "opportunity hoarding" on
 behalf of upper- and upper-middle class children by their
-university-educated, urban professional parents, the intense concern of
+university-educated, urban, professional parents, the intense concern of
 "a certain man" in the first case statement to secure a good
 ecclesiastical career for his son (and his willingness to resort more
 than once to bribery in order to realize that objective) has a
@@ -674,12 +674,12 @@ distinctly contemporary feel to it.[61]
 ### Questions
 
 Questions (*quaestiones*) are second-order internal nodes subordinate to
-cases, and are found only in Part II of the *Decretum*. They are
+cases and are found only in Part II of the *Decretum*. They are
 contained by a case and in turn contain chapters. They are formally
-identical with distinctions in Part I, *de Pen*., and Part III, that is,
-they contain a single terminal node (the *dictum ante*), followed by an
-ordered sequence of one or more internal nodes (the chapters) containing
-inscription, rubric, canon and *dictum post* terminal nodes.
+identical with distinctions in Part I, *de Pen*., and Part III---that
+is, they contain a single terminal node (the *dictum ante*) followed by
+an ordered sequence of one or more internal nodes (the chapters)
+containing inscription, rubric, canon and *dictum post* terminal nodes.
 
 Because questions are contained by and subordinate to cases, the *dicta
 ante* that introduce them perform a somewhat different role in
@@ -687,8 +687,8 @@ marshalling Gratian's arguments than do those in the distinctions of
 Part I, *de Pen*. and Part III. There is no higher level to the
 organization of Gratian's arguments in Part I, *de Pen*. and Part III to
 which the *dicta ante* in those parts can refer. For each *dictum ante*
-in Part II, on the other hand, there is a corresponding item from the
-list of enumerated question in the *thema* for the case in which it is
+in Part II, however, there is a corresponding item from the list of
+enumerated question in the *thema* for the case in which it is
 contained.[62] The *dicta ante* restate and expand upon the questions in
 the *themata* that present the outline for the case.
 
@@ -1165,7 +1165,7 @@ Edition*, Quellen und Forschungen zum Recht im Mittalter, Bd. 2
 [43] Winroth, *The Making of Gratian’s Decretum*, 187.
 
 [44] Rufinus and Stephen of Tournai describe the tripartite division in
-exactly the same words. **Rufinus:** "*librum suum in tribus partibus
+exactly the same words. Rufinus: "*librum suum in tribus partibus
 distinguit, quarum primam ministeriis, secundam negotiis, tertiam
 ecclesiasticis deputat sacramentis.*" Heinrich Singer, *Summa
 Decretorum* (Aalen : Paderborn: Scientia Verlag ; F. Schöningh, 1963), 5
@@ -1173,7 +1173,7 @@ Decretorum* (Aalen : Paderborn: Scientia Verlag ; F. Schöningh, 1963), 5
 devotes to ecclesiastical ministries, the second to \[ecclesiastical\]
 business, and the third to ecclesiastical sacraments.") Somerville and
 Brasington, *Prefaces to Canon Law Books in Latin Christianity*, 192–93.
-**Stephen of Tournai:** "*Harum primam ministeriis, secundam negotiis,
+Stephen of Tournai: "*Harum primam ministeriis, secundam negotiis,
 tertiam ecclesiasticis deputat sacramentis.*" Schulte, *Die summa über
 das Decretum Gratiani*, 6. ("The first of these parts is devoted to
 ecclesiastical ministries, the second to ecclesiastical problems, the
@@ -1181,8 +1181,7 @@ third to ecclesiastical sacraments.") Somerville and Brasington,
 *Prefaces to Canon Law Books in Latin Christianity*, 201. (Brasington
 translated the preface of Rufinus, Somerville that of Stephen of
 Tournai. Somerville and Brasington, *Prefaces to Canon Law Books in
-Latin Christianity*, vii. There is no indication as to why Somerville
-chose to translate *negotiis* as "problems" rather than "business".)
+Latin Christianity*, vii.
 
 Given the probable dates of the *summae* of Rufinus (1164) and Stephen
 of Tournai (1165/66), it is just possible that Stephen got the wording
