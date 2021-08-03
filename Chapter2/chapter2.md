@@ -90,7 +90,7 @@ things for clarifying and explicating the opinions of the holy
 
 Bonaventure (†1274) indirectly advocates for the opposite opinion in the
 preface to his commentary on the *Sentences* of Peter Lombard. He
-asks "what is the efficient cause or author of this book?", and
+asks "what is the efficient cause or author of this book?" and
 answers that "Peter Lombard, bishop of Paris, is the author of this
 book." Bonaventure then notes that "the mode of authorship is
 four-fold", and distinguishes the roles of *scriptor*, *compilator*,
@@ -105,7 +105,7 @@ should be called an author [*auctor*].[^11]
 He therefore concludes that:
 
 > Such was the Master [Peter Lombard], who put forward [*ponit*]
-his own opinions, and confirmed [them] from the opinions of the
+his own opinions and confirmed [them] from the opinions of the
 Fathers. Whence he truly ought to be called the author of this
 book.[^12]
 
@@ -203,7 +203,7 @@ twisted and bent.)"[^20] The late first- or early second-century
 such rules or norms. After the official recognition of Christianity
 by Constantine in 313, the Church had a greater need for an agreed-upon
 set of rules. Such rules were provided by the canons of provincial
-and ecumenical councils, and somewhat later by papal decretals.
+and ecumenical councils, and, somewhat later, by papal decretals.
 
 Gratian defines canons as either *decreta Pontificum* ("decrees of
 pontiffs") or *statuta conciliorum* ("statutes of councils").[^21]
@@ -368,7 +368,7 @@ movement, such as Anselm, bishop of Lucca (†1086), compiler of the
 compiler of the *Polycarpus*; and Ivo, bishop of Chartres (†1115),
 compiler of the *Panormia*. Burchard of Worms (†1025) was a forerunner
 of this group. Although he died before the reform papacy or the
-investiture controversy, his *Decretum* has more in common with
+investiture controversy, his *Decretum* has much in common with
 collections compiled during that period, insofar as it is systematic
 and reflects concerns similar to those of his successors.
 
@@ -380,7 +380,7 @@ interest in the forged decretals of the ninth century. For example,
 (ca. 1050) are drawn from the Pseudo-Isidorian *Decretals*.[^33]
 
 The program of the Gregorian reformers collided with two practical
-realities of eleventh-century life. Abbotts and bishops were large
+realities of eleventh-century life. Abbots and bishops were large
 landowners and therefore important vassals of secular rulers.
 Furthermore, secular rulers were almost completely dependent on the
 Church for administrative personnel until the rise of university
@@ -855,7 +855,7 @@ difference authors." @winroth_making_2000 [194-195].
 [^9]: Excepting only that there is no first-recension version of
 Part III.
 
-[^10]: @somerville_prefaces_1998 [200-201]. Somerville is translating
+[^10]: @somerville_prefaces_1998 [199-200]. Somerville is translating
 from @kalb_studien_1983 [113-120]. "Compositorem huius operis recte
 dixerim Gratianum, non auctorem. Capitula namque a sanctis patribus
 edita in hoc volumine composuit, i.e. ordinavit. Non eorum auctor
@@ -922,12 +922,15 @@ both the *Decretum* and *Panormia* of Ivo of Chartres. For the
 edited Latin text, see @brasington_ways_2004. For an English
 translation, see @somerville_prefaces_1998 [132-158].
 
-[^17]: "Master Gratian, antonomastically called in this work 'the
-Master,' **in place of an introduction** prefaced his book with the
-following title, *Concord of discordant canons*, by which he precisely
-sets forth subject matter and intention. @somerville_prefaces_1998
-[201]. **Add quote in Latin. As noted above (Chapter 1), the title
-comes from a gloss, not from Gratian.**
+[^17]: "*Magister Gratianus, in hoc opere antonomasice dictus
+Magister, loco proœmii talem suo præmisit libro titulum: Concordia
+discordantium canonum, in quo materiam et intentionem breviter
+exponit.*" @mclaughlin_summa_1952 [1]. "Master Gratian, antonomastically
+called in this work 'the Master,' in place of an introduction
+prefaced his book with the following title, *Concord of discordant
+canons*, by which he precisely sets forth subject matter and
+intention." @somerville_prefaces_1998 [201]. As noted above (Chapter
+1), the title comes from a gloss, not from Gratian.
 
 [^18]: 81,008 words or 19.1%.
 
@@ -968,7 +971,7 @@ in progress. Anders Winroth, 3/21/2017.
 [^25]: D.16 c.11. *Decretum Gratiani*, First Recension, edition in
 progress. Anders Winroth, 3/21/2017. p.32, l.7-9.
 
-[^26]: Ambrose, Augustine, Gregory the Great, and Jerome were
+[^26]: Ambrose, Jerome, Augustine, and Gregory the Great were
 formally recognized as doctors by Boniface VIII in 1298 in the
 *Liber* *Sextus*, VI 3.22, *Gloriosus Deus in sanctis suis* in *De
 reliquiis et veneratione sanctorum* (edF 2.1059-1060). Leo the Great

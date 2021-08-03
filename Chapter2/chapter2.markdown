@@ -77,7 +77,7 @@ authors at all. Stephen of Tournai in the preface to his *Summa* on the
 
 Bonaventure (†1274) indirectly advocates for the opposite opinion in the
 preface to his commentary on the *Sentences* of Peter Lombard. He asks
-"what is the efficient cause or author of this book?", and answers that
+"what is the efficient cause or author of this book?" and answers that
 "Peter Lombard, bishop of Paris, is the author of this book."
 Bonaventure then notes that "the mode of authorship is four-fold", and
 distinguishes the roles of *scriptor*, *compilator*, *commentator*, and
@@ -92,7 +92,7 @@ distinguishes the roles of *scriptor*, *compilator*, *commentator*, and
 He therefore concludes that:
 
 > Such was the Master \[Peter Lombard\], who put forward \[*ponit*\] his
-> own opinions, and confirmed \[them\] from the opinions of the Fathers.
+> own opinions and confirmed \[them\] from the opinions of the Fathers.
 > Whence he truly ought to be called the author of this book.[12]
 
 Although Bonaventure's question is stated in the fashionable terms of
@@ -185,7 +185,7 @@ second-century *Didache* is an example of a very early Christian text
 that contains such rules or norms. After the official recognition of
 Christianity by Constantine in 313, the Church had a greater need for an
 agreed-upon set of rules. Such rules were provided by the canons of
-provincial and ecumenical councils, and somewhat later by papal
+provincial and ecumenical councils, and, somewhat later, by papal
 decretals.
 
 Gratian defines canons as either *decreta Pontificum* ("decrees of
@@ -344,7 +344,7 @@ canonum*; Gregory, cardinal of San Grisogono (†1113), compiler of the
 *Polycarpus*; and Ivo, bishop of Chartres (†1115), compiler of the
 *Panormia*. Burchard of Worms (†1025) was a forerunner of this group.
 Although he died before the reform papacy or the investiture
-controversy, his *Decretum* has more in common with collections compiled
+controversy, his *Decretum* has much in common with collections compiled
 during that period, insofar as it is systematic and reflects concerns
 similar to those of his successors.
 
@@ -356,7 +356,7 @@ of the 315 chapters of the anonymous *Collection in 74 Titles* (ca.
 1050) are drawn from the Pseudo-Isidorian *Decretals*.[33]
 
 The program of the Gregorian reformers collided with two practical
-realities of eleventh-century life. Abbotts and bishops were large
+realities of eleventh-century life. Abbots and bishops were large
 landowners and therefore important vassals of secular rulers.
 Furthermore, secular rulers were almost completely dependent on the
 Church for administrative personnel until the rise of university
@@ -858,7 +858,7 @@ two recensions had difference authors." Winroth, 194–95.
 
 [10] Robert Somerville and Bruce Clark Brasington, eds., *Prefaces to
 Canon Law Books in Latin Christianity: Selected Translations, 500-1245*
-(New Haven, Conn: Yale University Press, 1998), 200–201. Somerville is
+(New Haven, Conn: Yale University Press, 1998), 199–200. Somerville is
 translating from Herbert Kalb, *Studien zur Summa Stephans von Tournai:
 ein Beitrag zur kanonistischen Wissenschaftsgeschichte des späten 12.
 Jahrhunderts*, Forschungen zur Rechts- und Kulturgeschichte, Bd. 12
@@ -915,13 +915,17 @@ Ivo of Chartres ; Edition and Analysis*, Vita Regularis, Bd. 2 (Münster
 Publishers, 2004). For an English translation, see Somerville and
 Brasington, *Prefaces to Canon Law Books in Latin Christianity*, 132–58.
 
-[17] "Master Gratian, antonomastically called in this work 'the Master,'
-**in place of an introduction** prefaced his book with the following
-title, *Concord of discordant canons*, by which he precisely sets forth
-subject matter and intention. Somerville and Brasington, *Prefaces to
-Canon Law Books in Latin Christianity*, 201. **Add quote in Latin. As
-noted above (Chapter 1), the title comes from a gloss, not from
-Gratian.**
+[17] "*Magister Gratianus, in hoc opere antonomasice dictus Magister,
+loco proœmii talem suo præmisit libro titulum: Concordia discordantium
+canonum, in quo materiam et intentionem breviter exponit.*" Terence P.
+McLaughlin, ed., *The Summa Parisiensis on the Decretum Gratiani*
+(Toronto: Pontifical Institute of Mediaeval Studies, 1952), 1. "Master
+Gratian, antonomastically called in this work 'the Master,' in place of
+an introduction prefaced his book with the following title, *Concord of
+discordant canons*, by which he precisely sets forth subject matter and
+intention." Somerville and Brasington, *Prefaces to Canon Law Books in
+Latin Christianity*, 201. As noted above (Chapter 1), the title comes
+from a gloss, not from Gratian.
 
 [18] 81,008 words or 19.1%.
 
@@ -963,7 +967,7 @@ progress. Anders Winroth, 3/21/2017.
 [25] D.16 c.11. *Decretum Gratiani*, First Recension, edition in
 progress. Anders Winroth, 3/21/2017. p.32, l.7-9.
 
-[26] Ambrose, Augustine, Gregory the Great, and Jerome were formally
+[26] Ambrose, Jerome, Augustine, and Gregory the Great were formally
 recognized as doctors by Boniface VIII in 1298 in the *Liber* *Sextus*,
 VI 3.22, *Gloriosus Deus in sanctis suis* in *De reliquiis et
 veneratione sanctorum* (edF 2.1059-1060). Leo the Great was only added
@@ -1205,8 +1209,7 @@ Medieval and Renaissance Studies, U.C.L.A., 5 (Berkeley: University of
 California Press, 1972), 15. Adam Vetulani, *Sur Gratien et les
 Décrétales*, Collected studies ; CS308. (Aldershot, Hampshire: Variorum,
 1990). "Distinctiones apposuit in prima parte et ultima Paucapalea ..."
-Terence P. McLaughlin, ed., *The Summa Parisiensis on the Decretum
-Gratiani* (Toronto: Pontifical Institute of Mediaeval Studies, 1952), 1.
+McLaughlin, *The Summa Parisiensis on the Decretum Gratiani*, 1.
 (Paucapalea arranged the distinctions in the first part and the last,
 trans. PLE)
 
