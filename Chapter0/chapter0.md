@@ -330,7 +330,7 @@ declining health, or ecclesiastical promotion, before the first-recension
 
 ## Outline of Chapters
 
-Background; the *Decretum*; Authority, Author, Authorship; Stylometry:
+Background; the *Decretum*; Authority, Author, Authorship; Stylometry;
 Conclusion.
 
 Background: The *Decretum* has both a long- and short-term background.
