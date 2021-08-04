@@ -194,7 +194,7 @@ and relatively small samples of medieval Latin.
 In keeping with the previous emails in this series, I'll note that
 Google Scholar shows that Ziolkowski's article has been cited 23
 times, considerably less than Ken's "Bartolomeo de las Casas and
-the Tradition of Medieval Law", but better than the Cooper and
+the Tradition of Medieval Law," but better than the Cooper and
 Pearsall paper on Gawain that started this conversation.
 
 ---
@@ -339,9 +339,9 @@ is a workable approach.[^19] This method is well-theorized in a
 Digital Humanities context as an example of "deformance." The term,
 proposed by Lisa Samuels and Jerome McGann in "Deformance and
 Interpretation" (1999), conflates the words "deformation" and
-"performance", and describes a process through which a text is
+"performance," and describes a process through which a text is
 transformed by the application of a series of deformances to generate
-a "paratext".[@samuels_deformance_1999] The paratext is different
+a "paratext."[@samuels_deformance_1999] The paratext is different
 from the original text, but is defined by the deformances to the
 original text through which it is generated. The classic example
 of deformance in a literary context is reversing the order of lines
@@ -1457,8 +1457,8 @@ and continuing on to the corresponding row in the second table, is
 also greater than 1.4369, 1.1931, 1.4345, 1.1875, 1.1924, 1.6218,
 and 1.2323. (In each row, the entry corresponding to the Delta
 distance between the subcorpus of unknown authorship and itself is
-undefined, and is indicated by "NaN", an conventional abbreviation
-in numerical computing for "Not a Number".)
+undefined, and is indicated by "NaN," an conventional abbreviation
+in numerical computing for "Not a Number.")
 
 For each of the thirteen subcorpora excluding cases, the value for
 the Burrows's Delta distance between that subcorpus and the cases
@@ -1897,7 +1897,7 @@ sections follows the division of Gratian's *Decretum* proposed in
 
 [^43]: Earlier versions of this section were presented as conference
 papers. "Can Stylometry Provide New Evidence about the Identity of
-Gratian 1 and Gratian 2?", was presented to the session on Canon
+Gratian 1 and Gratian 2?" was presented to the session on Canon
 Law in the Twelfth and Thirteenth Centuries at the *Rem non novam
 nec insolitam aggredimur* conference and grand opening of the Stephan
 Kuttner Institute of Medieval Canon Law at Yale Law School, May

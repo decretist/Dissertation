@@ -399,8 +399,8 @@ what role he had in Part I.[@noonan_gratian_1979, 162-163]
 
 Noonan did leave open one affirmative possibility, that a Gratian
 who was recorded as having participated in an 1143 case in Venice
-as one of three legal consultants ("magister Walfredus", "Gratianus",
-and "Moysis", in that order)[^31] advising a three-judge panel
+as one of three legal consultants ("magister Walfredus," "Gratianus,"
+and "Moysis," in that order)[^31] advising a three-judge panel
 presided over by a papal legate, Cardinal Goizo, might be the same
 Gratian as the one responsible for the *Decretum*.[^32]
 
@@ -477,7 +477,7 @@ attention by Francesco Reali as evidence that Gratian, the author
 of the first recension, died as bishop of Chiusi on the feast day
 of St. Lawrence (August 10) in either 1144 or 1145.[@winroth_where_2013]
 The datum provided by the necrology, recording the death of a
-"Gratian of Chiusi, bishop", considered along with Winroth's axiomatic
+"Gratian of Chiusi, bishop," considered along with Winroth's axiomatic
 assumption of an 1139 *terminus post quem* for the first recension,
 strengthens the case from his perspective that Gratian, having been
 elevated to a bishopric not long after having finished work on the
@@ -497,7 +497,7 @@ period of incremental development for the text of the *Decretum*.
 ## Pennington
 
 Pennington discusses the biography of Gratian directly in his article
-"The Biography of Gratian, the Father of Canon Law", which has
+"The Biography of Gratian, the Father of Canon Law," which has
 appeared in multiple, successively revised, versions.[^44] Pennington,
 too, has been a vigorous participant in the debate over the
 significance of the Sg manuscript of the *Decretum*, most notably
@@ -558,7 +558,7 @@ the Gratian named in the Siena necrology with the author of the
 of the *Decretum* eventually became a bishop somewhere, but questions
 whether the person named in the necrology was either the bishop of
 Chiusi, or the author of the *Decretum*. He notes that the necrology
-refers to "Gratian of Chiusi, bishop", not to "Gratian, bishop of
+refers to "Gratian of Chiusi, bishop," not to "Gratian, bishop of
 Chiusi."[@pennington_biography_2018, 386-387] Pennington's second
 reservation concerning the identification of the Gratian mentioned
 in the Siena necrology as *the* Gratian is closely related to his
@@ -720,7 +720,7 @@ is a case in point. However, the idea that he is attempting to
 convey is relatively straightforward. Remove the biographical details
 about the author from the function that the *idea* of the author
 performs for us when we read a text, and what remains is a
-non-biographical author that Foucault terms the "author function".
+non-biographical author that Foucault terms the "author function."
 Ironically, given the rather avant-garde reputation that is still
 attached to his name, at least in the English-speaking world,
 Foucault derives the substantive content of the idea of the author
@@ -729,7 +729,7 @@ function almost entirely from Jerome (†420).
 <!--
 
 Highlight contrast between "the historical Gratian" and "the
-non-biographical author".
+non-biographical author."
 
   -->
 
@@ -754,8 +754,8 @@ one is dealing with one or several individuals? Saint Jerome proposes
 four criteria:[^70]
 
 The four criteria that Foucault synthesizes from Jerome consider
-the author separately as "a constant level of value", "a field of
-conceptual or theoretical coherence", "a stylistic unity", and an
+the author separately as "a constant level of value," "a field of
+conceptual or theoretical coherence," "a stylistic unity," and an
 "historical figure at the crossroads of a certain number of events."
 Each is a criterion for the *exclusion* of a given text from the
 canon of a particular author. Three of the four criteria, the first,

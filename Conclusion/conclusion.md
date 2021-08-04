@@ -50,7 +50,7 @@ the comments that are now part of the collection of dicta ...
 True, but I think we have to be very careful about precisely what
 we mean when we say that Gratian "created a collection of canons"
 and that the collection was "used in the earliest course on canon
-law".
+law."
 
 I think it's safe to say that the historical Gratian was, when he
 started the project, someone who had carefully read around a
@@ -58,7 +58,7 @@ half-dozen important reform-era formal source collections. He was
 aware in a general way of how the new schools in Northern France
 approached textual problems, and in particular of the hermeneutical
 approach to reading the canons outlined in Ivo's Prologue but "left
-as an exercise to the reader". I think it's also important to note
+as an exercise to the reader." I think it's also important to note
 that one of the things Gratian brings to the project from the outset
 is a fundamentally conservative and optimistic disposition: his is
 the antithesis of Peter Abelard's bad-boy project of subverting and

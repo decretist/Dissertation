@@ -71,7 +71,7 @@ I, and so on.[^9]
 The *Decretum* says nothing about its own authorship. Twelfth-century
 readers, however, implicitly endorsed the single-author theory by
 subsuming the entire text of the vulgate *Decretum* under the eponym
-"Gratian". The *Decretum*, however, like many other scholastic
+"Gratian." The *Decretum*, however, like many other scholastic
 texts, contains far more quoted than original material. Medieval
 opinion was therefore divided not on the question of whether the
 *Decretum* had a single author, but rather on the question of whether
@@ -93,7 +93,7 @@ preface to his commentary on the *Sentences* of Peter Lombard. He
 asks "what is the efficient cause or author of this book?" and
 answers that "Peter Lombard, bishop of Paris, is the author of this
 book." Bonaventure then notes that "the mode of authorship is
-four-fold", and distinguishes the roles of *scriptor*, *compilator*,
+four-fold," and distinguishes the roles of *scriptor*, *compilator*,
 *commentator*, and *auctor*, on the basis of the use they make of
 "the words of other men" (*aliena*) and their own (*sua*):
 
@@ -452,7 +452,7 @@ Canons are often, though not always, introduced by a rubric. The
 name refers to the fact that rubrics were conventionally written
 in red (*ruber*) ink in manuscripts. A rubric is a very short summary
 of what the following canon is about. In many cases the rubric
-simply reads "*de eodem*", which means "about the same thing" as
+simply reads "*de eodem*," which means "about the same thing" as
 the preceding canon. The 137 *de eodem* rubrics introducing
 first-recension canons turn out to be important clues into the
 development of the text of the *Decretum*.[^38] Stephan Kuttner
