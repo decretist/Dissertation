@@ -560,20 +560,19 @@ divided into two parts."[^55]
 
 ### Distinctions
 
-Parts are internal nodes that contain only other internal nodes
-(distinctions and cases). Chapters are internal nodes that contain
-only terminal or leaf nodes (inscriptions, rubrics, canons, and
-*dicta post canones*). The remaining types of containers, distinctions,
-cases, and questions, contain both terminal or leaf nodes (*dicta
-ante canones* and *dicta initialia* or *themata*) and internal nodes
-(cases contain questions, distinctions and questions contain
-chapters).
+Parts are containers that contain only other containers (distinctions
+and cases). Chapters are containers that contain only items of
+information (inscriptions, rubrics, canons, and *dicta post canones*).
+The remaining types of containers, distinctions, cases, and questions,
+contain both items of information (*dicta ante canones* and *dicta
+initialia* or *themata*) and containers (cases contain questions,
+distinctions and questions contain chapters).[^56]
 
 Distinctions (*distinctiones*) are the highest-order containers in
 Part I, *de Pen*., and Part III. They contain a single terminal
 node (the *dictum ante*), followed by an ordered sequence of one
 or more internal nodes (the chapters) containing inscription, rubric,
-canon and *dictum post* terminal nodes.[^56]
+canon and *dictum post* terminal nodes.
 
 ### Cases
 
@@ -700,7 +699,7 @@ of view: whether there can be marriage between infidels, whether
 there is ever a situation in which a man can take another wife if
 his previous wife is still alive, and whether someone who had one
 wife before he was baptized and another wife after he was baptized
-should be considered a bigamist.
+should be considered a bigamist.[@kuttner_pope_1992]
 
 Some case statements, however, reflect an outlook and a set of
 concerns that Gratian's benefice-seeking students probably understood
@@ -713,7 +712,7 @@ children by their university-educated, urban, professional parents,
 the intense concern of "a certain man" in the first case statement
 to secure a good ecclesiastical career for his son (and his willingness
 to resort more than once to bribery in order to realize that
-objective) has a distinctly contemporary feel to it.[^61]
+objective) has a distinctly contemporary feel to it.[^62]
 
 ### Questions
 
@@ -1260,7 +1259,71 @@ Bibl. der Rijksuniversiteit 55; Pf = Paris, Bibl. Nationale lat.
 3884 I and II; and Tr = Trier, Stadtbibl. 906 (1141). See
 @noonan_gratian_1979 [154]; and @pennington_biography_2018 [382].
 
-[^56]: Add footnote restating distinction between canon and chapter.
+[^56]: Describing the *Decretum* as a collection of nested
+containers is the simplest way to convey to a non-technical audience
+the concept, borrowed from the field of informatics, that it is a
+document best represented in a hierarchical tree structure. The
+tree analogy tends to be a confusing one for non-specialists because
+the language computer scientists use to talk about tree-structured
+data mixes its metaphors, drawing indiscriminately on analogies to
+botanical trees and genealogical trees. In the following discussion,
+however, some use of technical vocabulary is unavoidable, so this
+is the appropriate point at which to introduce it.
+
+    Trees are data structures made up of nodes that can contain
+    information and point to other nodes.
+
+    One distinguished node, the root, points to other nodes, but
+    is not pointed to by any other node. The root node is the
+    ancestor from which all other nodes in the tree descend, with
+    its descendants extending below it in an arrangement that encodes
+    their relationship with the other nodes in the tree. Very unlike
+    botanical trees, the root is always represented as being at the
+    top of an upside-down tree. To revert to the nested containers
+    analogy, the root node is the outermost container (in the present
+    case, the whole *Decretum*).
+
+    Any node other than the root is a child node of some parent. A
+    node can be both a parent and a child. The parent-child
+    relationship gives rise to a property of depth. The root node
+    has a depth of 0, and a child node has a depth one greater than
+    that of its parent node. The depth of a child of the root is
+    1, the depth of a child of *that* child is 2, and so on. The
+    parent-child analogy is sometimes extended to include siblings:
+    nodes that have the same parent and depth are siblings.
+
+    Parents are also referred to as internal nodes. A node that has
+    no child of its own can be referred to as a terminal or leaf
+    node. Parts are internal nodes that contain only other internal
+    nodes (distinctions and cases). Chapters are internal nodes
+    that contain only terminal or leaf nodes (inscriptions, rubrics,
+    canons, and *dicta post canones*). Distinctions, cases, and
+    questions are internal nodes that contain both terminal or leaf
+    nodes (*dicta ante canones* and *dicta initialia* or *themata*) and
+    internal nodes (cases contain questions, distinctions and
+    questions contain chapters).
+
+    Internal nodes encode information about the structural relationships
+    between nodes; terminal or leaf nodes encode textual information.
+    The conceptual difference between internal and terminal nodes
+    is the reason why I insist so strongly on maintaining the
+    distinction between chapters (internal nodes) and canons (terminal
+    nodes), even though the term "chapter" has, for the most part,
+    drifted out of use in English-language scholarship on the
+    *Decretum*.
+
+    Parsing the *Decretum* as a tree-structured document is not a
+    gimmick: to show that the *Decretum* can be represented using a
+    tree structure (which it can) is the same thing as showing that
+    it can be encoded as an XML document. To a significant extent,
+    this project depended on it being possible to partially convert
+    (if only in run-time computer memory) the MGH e-text of the
+    Friedberg edition to a tree-structured representation.
+
+    That trees offer a compact and efficient model for representing
+    complex information is not a recent insight: Gratian would
+    immediately recognize the tree of consanguinity as an example
+    of this data structure.
 
 [^57]: I continue here, as I have throughout Chapter 2, to use the
 name Gratian as a conventional label for the author or authors of
@@ -1284,7 +1347,7 @@ case statements are: *Hic primum queritur* (15), *Queritur* (8),
 queritur* (2), *Primum queritur* (2), *Hic primo queritur* (1),
 *Modo queritur* (1), *Queritur autem* (1).
 
-[^61]: C.1 d.init., Friedberg 1.357. Although Gratian does not say
+[^62]: C.1 d.init., Friedberg 1.357. Although Gratian does not say
 so explicitly, I think that we can reasonably infer that the father
 is an urban merchant or professional, rather than a member of the
 landed aristocracy, since his wealth is in a form sufficiently
