@@ -672,13 +672,20 @@ Foucault has a reputation for using esoteric vocabulary in his
 writing---his critics would say jargon---in a way that many historians
 find objectionable. The technical use of the term "author function" is a
 case in point. However, the idea that he is attempting to convey is
-relatively straightforward. Abstract away the biographical details about
-the author from the work that the *idea* of the author does for us when
-we read a text, and what remains is the author function. Ironically,
-given the rather avant-garde reputation that is still attached to his
-name, at least in the English-speaking world, Foucault derives the
-substantive content of the idea of the author function almost entirely
-from Jerome (†420).
+relatively straightforward. Remove the biographical details about the
+author from the function that the *idea* of the author performs for us
+when we read a text, and what remains is a non-biographical author that
+Foucault terms the "author function". Ironically, given the rather
+avant-garde reputation that is still attached to his name, at least in
+the English-speaking world, Foucault derives the substantive content of
+the idea of the author function almost entirely from Jerome (†420).
+
+<!--
+
+Highlight contrast between "the historical Gratian" and "the
+non-biographical author".
+
+  -->
 
 > In *De Viris illustribus*, Saint Jerome explains that homonymy is not
 > sufficient to identify legitimately authors of more than one work ...
