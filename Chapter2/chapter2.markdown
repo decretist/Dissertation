@@ -688,9 +688,9 @@ Part I, *de Pen*. and Part III. There is no higher level to the
 organization of Gratian's arguments in Part I, *de Pen*. and Part III to
 which the *dicta ante* in those parts can refer. For each *dictum ante*
 in Part II, however, there is a corresponding item from the list of
-enumerated question in the *thema* for the case in which it is
-contained.[62] The *dicta ante* restate and expand upon the questions in
-the *themata* that present the outline for the case.
+enumerated questions in the *thema* for the case in which it is
+contained. The *dicta ante* restate and expand upon the questions in the
+*themata* that present the outline for the case.
 
 There are 8,547 words in the first-recension *dicta ante* in Part II.
 Two first-recension *dicta ante* were modified in the second recension:
@@ -1328,11 +1328,6 @@ explicitly, I think that we can reasonably infer that the father is an
 urban merchant or professional, rather than a member of the landed
 aristocracy, since his wealth is in a form sufficiently liquid to be
 readily convertible into cash bribes.
-
-[62] In terms borrowed from informatics, the distinction is between
-tree-structured data in which internal nodes have only sibling pointers,
-and tree-structured data in which internal nodes have both sibling and
-parent pointers.
 
 <div align="center">
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.

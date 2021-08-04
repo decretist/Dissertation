@@ -733,8 +733,8 @@ of Part I, *de Pen*. and Part III. There is no higher level to the
 organization of Gratian's arguments in Part I, *de Pen*. and Part
 III to which the *dicta ante* in those parts can refer. For each
 *dictum ante* in Part II, however, there is a corresponding
-item from the list of enumerated question in the *thema* for the
-case in which it is contained.[^62] The *dicta ante* restate and
+item from the list of enumerated questions in the *thema* for the
+case in which it is contained. The *dicta ante* restate and
 expand upon the questions in the *themata* that present the outline
 for the case.
 
@@ -1289,9 +1289,4 @@ so explicitly, I think that we can reasonably infer that the father
 is an urban merchant or professional, rather than a member of the
 landed aristocracy, since his wealth is in a form sufficiently
 liquid to be readily convertible into cash bribes.
-
-[^62]: In terms borrowed from informatics, the distinction is between
-tree-structured data in which internal nodes have only sibling
-pointers, and tree-structured data in which internal nodes have
-both sibling and parent pointers.
 
