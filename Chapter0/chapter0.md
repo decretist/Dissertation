@@ -330,7 +330,35 @@ declining health, or ecclesiastical promotion, before the first-recension
 
 ## Outline of Chapters
 
-Background, the *Decretum*, Gratian, Stylometry, Next steps.
+Background; the *Decretum*; Authority, Author, Authorship; Stylometry:
+Conclusion.
+
+Background: The *Decretum* has both a long- and short-term background.
+In the long term, the *Decretum* emerged from a large corpus of
+Latin-language canonical texts developed over the course of seven
+centuries to provide a formal organizational basis for Christian
+communities in widely varying times, places, and conditions, and
+in a more general sense, from the lived experience of Christian
+communities over the course of eleven centuries. In the short term,
+the *Decretum* emerged within the context of the legal revolution
+of the twelfth century. The legal revolution was a social movement,
+and as such, exhibited a pattern of exponential growth in terms of
+the numbers of people touched by the movement and the transmission
+of texts. An underappreciated aspect of such an exponential pattern
+of growth is that it suggests that the earliest stages of the
+movement extended, beneath the surface of visibility, for a longer
+period of time than surviving evidence would otherwise suggest.
+
+A statement like "Gratian was the author of the *Decretum*" is an
+unavoidable shorthand. The terms, "Gratian" and "the *Decretum*",
+however, mask formidably complex underlying realities. The following
+two chapters attempt to analyze what is known about the *Decretum*
+and its author to an extent that would actually allow meaningful
+statements about the authorship of the text to be made.
+
+<!--
+
+  -->
 
 ## Note on the Title of the Dissertation
 
