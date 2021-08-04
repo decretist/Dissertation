@@ -345,10 +345,10 @@ of the twelfth century. The legal revolution was a social movement,
 and as such, exhibited a pattern of exponential growth in terms of
 both the number of people it touched and the transmission of its
 texts. An underappreciated aspect of such an exponential pattern
-of growth is that it suggests that the earliest stages of the
-movement extended, beneath the surface of visibility, for a
+of growth is that it strongly suggests that the earliest stages of
+the movement extended, beneath the surface of visibility, for a
 significantly longer period of time than surviving evidence would
-otherwise suggest.
+otherwise indicate.
 
 A statement like "Gratian was the author of the *Decretum*" is an
 unavoidable shorthand. The terms, "Gratian" and "the *Decretum*",
