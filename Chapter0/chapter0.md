@@ -360,7 +360,8 @@ In cases where no such translation was available, or I considered
 the available translation seriously misleading, I have supplied my
 own translation, indicated with the notation (trans. PLE). Special
 thanks to Atria A. Larson for her suggestions regarding the translation
-of the *Marturi placitum*.
+of the *Marturi placitum* and to Stanley Chodorow for his suggestions
+regarding the translation of the first-recension text of C.4 d.init.
 
 [^1]: The term Digital Humanities came into general use in 2004
 with the publication of *A Companion to Digital Humanities*, the
