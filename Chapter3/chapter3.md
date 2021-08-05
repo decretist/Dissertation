@@ -7,7 +7,13 @@ title: Chapter 3
 subtitle: Authority, Author, Authorship
 ---
 The purpose of this chapter is to examine the closely connected
-questions of the authority, author, and authorship of the *Decretum*.[^1]
+questions of the authority of the *Decretum*, the biography of its
+historical author author, and the authorship of the *Decretum*.
+Recent scholarship on the *Decretum* has tended to confuse the
+question of the biography of its historical author with that of the
+authorship of the text. I will attempt to demonstrate that the
+failure to uphold a rigorous distinction between the two has been
+a factor in the scholarly controversy over authorship.[^1]
 
 Scholars, such as Noonan, Winroth, and Pennington, who have
 investigated the authorship of the *Decretum* in recent decades
@@ -865,11 +871,30 @@ computational techniques unimaginable certainly to Jerome and perhaps
 even to Foucault, but conceptually it is Jerome's insight that
 guides the work in the following chapter.
 
-[^1]: The purpose of the first (Authority) section of this chapter
-is to show, more than tell, that most of the medieval statements
-that modern historians take to be evidence about the biography of
-the author or the authorship of the text are really statements about
-the *authority* of either Gratian or the *Decretum*.
+[^1]: In contrast with contemporary scholars, the twelfth-century
+decretists tended to subsume the question of the biography of the
+author under the question of authority. The purpose of the authority
+section of this chapter is to propose that most of the medieval
+statements that modern historians take as evidence about the biography
+of the author or the authorship of the text are really statements
+about the *authority* of either Gratian or the *Decretum*.
+
+    In November 2014, I reported on work in progress at an event
+    hosted by the Maryland Institute for Technology in the Humanities
+    (MITH). I explained the project in simplified terms for a
+    non-medievalist audience as an attempt to use computational
+    methods to resolve a long-standing debate between two leading
+    figures in the field, Pennington and Winroth, over whether
+    Gratian's *Decretum* was written by one author or two. I then
+    shared the finding that the results of principal component
+    analysis of the *dicta* were not compatible with either the
+    one-author or the two-author hypothesis. Neil Fraistat, the
+    director of MITH, observed: "if the answer doesn't make sense,
+    you're asking the wrong question." The authorship section of
+    this chapter is my attempt to respond to Fraistat's observation
+    by identifying as specifically as possible the way in which the
+    "wrong question" has been asked about the authorship of the
+    *Decretum*.
 
 <!--
 

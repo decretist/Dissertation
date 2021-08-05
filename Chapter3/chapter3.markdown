@@ -1,5 +1,11 @@
 The purpose of this chapter is to examine the closely connected
-questions of the authority, author, and authorship of the *Decretum*.[1]
+questions of the authority of the *Decretum*, the biography of its
+historical author author, and the authorship of the *Decretum*. Recent
+scholarship on the *Decretum* has tended to confuse the question of the
+biography of its historical author with that of the authorship of the
+text. I will attempt to demonstrate that the failure to uphold a
+rigorous distinction between the two has been a factor in the scholarly
+controversy over authorship.[1]
 
 Scholars, such as Noonan, Winroth, and Pennington, who have investigated
 the authorship of the *Decretum* in recent decades have primarily been
@@ -374,8 +380,8 @@ author:
 
 Noonan did leave open one affirmative possibility, that a Gratian who
 was recorded as having participated in an 1143 case in Venice as one of
-three legal consultants ("magister Walfredus", "Gratianus", and
-"Moysis", in that order)[31] advising a three-judge panel presided over
+three legal consultants ("magister Walfredus," "Gratianus," and
+"Moysis," in that order)[31] advising a three-judge panel presided over
 by a papal legate, Cardinal Goizo, might be the same Gratian as the one
 responsible for the *Decretum*.[32]
 
@@ -447,7 +453,7 @@ Biblioteca Comunale degli Intronati F.I.2, f.5r) brought to scholarly
 attention by Francesco Reali as evidence that Gratian, the author of the
 first recension, died as bishop of Chiusi on the feast day of St.
 Lawrence (August 10) in either 1144 or 1145.[42] The datum provided by
-the necrology, recording the death of a "Gratian of Chiusi, bishop",
+the necrology, recording the death of a "Gratian of Chiusi, bishop,"
 considered along with Winroth's axiomatic assumption of an 1139
 *terminus post quem* for the first recension, strengthens the case from
 his perspective that Gratian, having been elevated to a bishopric not
@@ -467,7 +473,7 @@ incremental development for the text of the *Decretum*.
 ## Pennington
 
 Pennington discusses the biography of Gratian directly in his article
-"The Biography of Gratian, the Father of Canon Law", which has appeared
+"The Biography of Gratian, the Father of Canon Law," which has appeared
 in multiple, successively revised, versions.[44] Pennington, too, has
 been a vigorous participant in the debate over the significance of the
 Sg manuscript of the *Decretum*, most notably in his 2004 chapter
@@ -523,7 +529,7 @@ Pennington is open to the possibility that the author of the *Decretum*
 eventually became a bishop somewhere, but questions whether the person
 named in the necrology was either the bishop of Chiusi, or the author of
 the *Decretum*. He notes that the necrology refers to "Gratian of
-Chiusi, bishop", not to "Gratian, bishop of Chiusi."[52] Pennington's
+Chiusi, bishop," not to "Gratian, bishop of Chiusi."[52] Pennington's
 second reservation concerning the identification of the Gratian
 mentioned in the Siena necrology as *the* Gratian is closely related to
 his reservation about Grebner's identification of the Gratian mentioned
@@ -675,7 +681,7 @@ case in point. However, the idea that he is attempting to convey is
 relatively straightforward. Remove the biographical details about the
 author from the function that the *idea* of the author performs for us
 when we read a text, and what remains is a non-biographical author that
-Foucault terms the "author function". Ironically, given the rather
+Foucault terms the "author function." Ironically, given the rather
 avant-garde reputation that is still attached to his name, at least in
 the English-speaking world, Foucault derives the substantive content of
 the idea of the author function almost entirely from Jerome (†420).
@@ -683,7 +689,7 @@ the idea of the author function almost entirely from Jerome (†420).
 <!--
 
 Highlight contrast between "the historical Gratian" and "the
-non-biographical author".
+non-biographical author."
 
   -->
 
@@ -708,8 +714,8 @@ problem.[69]
 > criteria:[70]
 
 The four criteria that Foucault synthesizes from Jerome consider the
-author separately as "a constant level of value", "a field of conceptual
-or theoretical coherence", "a stylistic unity", and an "historical
+author separately as "a constant level of value," "a field of conceptual
+or theoretical coherence," "a stylistic unity," and an "historical
 figure at the crossroads of a certain number of events." Each is a
 criterion for the *exclusion* of a given text from the canon of a
 particular author. Three of the four criteria, the first, second, and
@@ -840,11 +846,28 @@ reference.
   -->
 <!-- Hard code third reference. -->
 
-[1] The purpose of the first (Authority) section of this chapter is to
-show, more than tell, that most of the medieval statements that modern
-historians take to be evidence about the biography of the author or the
-authorship of the text are really statements about the *authority* of
-either Gratian or the *Decretum*.
+[1] In contrast with contemporary scholars, the twelfth-century
+decretists tended to subsume the question of the biography of the author
+under the question of authority. The purpose of the authority section of
+this chapter is to propose that most of the medieval statements that
+modern historians take as evidence about the biography of the author or
+the authorship of the text are really statements about the *authority*
+of either Gratian or the *Decretum*.
+
+In November 2014, I reported on work in progress at an event hosted by
+the Maryland Institute for Technology in the Humanities (MITH). I
+explained the project in simplified terms for a non-medievalist audience
+as an attempt to use computational methods to resolve a long-standing
+debate between two leading figures in the field, Pennington and Winroth,
+over whether Gratian's *Decretum* was written by one author or two. I
+then shared the finding that the results of principal component analysis
+of the *dicta* were not compatible with either the one-author or the
+two-author hypothesis. Neil Fraistat, the director of MITH, observed:
+"if the answer doesn't make sense, you're asking the wrong question."
+The authorship section of this chapter is my attempt to respond to
+Fraistat's observation by identifying as specifically as possible the
+way in which the "wrong question" has been asked about the authorship of
+the *Decretum*.
 
 [2] "their authority deriving mainly from the fact that they consisted
 mostly of quotations" Anders Winroth, *The Making of Gratian’s Decretum*
