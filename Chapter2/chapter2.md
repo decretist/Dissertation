@@ -76,9 +76,9 @@ texts, contains far more quoted than original material. Medieval
 opinion was therefore divided not on the question of whether the
 *Decretum* had a single author, but rather on the question of whether
 the creator of the *Decretum* and creators of similar texts ought
-properly to be considered authors at all. Stephen of Tournai in
-the preface to his *Summa* on the *Decretum* insists that Gratian
-is its compiler, not its author:
+properly to be considered authors at all. Stephen of Tournai in the
+preface to his *Summa* on the *Decretum* insists that Gratian is
+its compiler, not its author:
 
 > I should properly say that Gratian is the compiler of this work,
 not the author, for he brought together in this volume---that is,
@@ -88,9 +88,9 @@ is thus the author since he offered on his own in his dicta many
 things for clarifying and explicating the opinions of the holy
 [Fathers].[^10]
 
-Bonaventure (†1274) indirectly advocates for the opposite opinion in the
-preface to his commentary on the *Sentences* of Peter Lombard. He
-asks "what is the efficient cause or author of this book?" and
+Bonaventure (†1274) indirectly advocates for the opposite opinion
+in the preface to his commentary on the *Sentences* of Peter Lombard.
+He asks "what is the efficient cause or author of this book?" and
 answers that "Peter Lombard, bishop of Paris, is the author of this
 book." Bonaventure then notes that "the mode of authorship is
 four-fold," and distinguishes the roles of *scriptor*, *compilator*,
@@ -162,10 +162,10 @@ addition to the *dicta*, Gratian also wrote the rubrics, so-called
 because they were written in red ink in manuscripts of the *Decretum*.
 The rubrics are one-line summaries of canons that they introduce.
 
-As a first-order approximation, then, Gratian can be considered
-the author, in the modern sense of the word, of the *dicta* and
-rubrics, and the compiler and arranger of the canons and inscriptions.
-(In practice, *dicta*, inscriptions, and rubrics cannot be distinguished
+As a first-order approximation, then, Gratian can be considered the
+author, in the modern sense of the word, of the *dicta* and rubrics,
+and the compiler and arranger of the canons and inscriptions. (In
+practice, *dicta*, inscriptions, and rubrics cannot be distinguished
 quite so cleanly as we would like: dicta sometimes trail off into
 inscriptions, and rubrics and inscriptions are sometimes poorly
 separated, especially in *de Penitentia*.) But, as Noonan further
@@ -473,11 +473,11 @@ which it consecutively follows in the first recension).
 Eichbauer and Pennington believe that Gratian wrote the rubrics in
 the *Decretum* rather than reusing those he found in formal source
 collections.[^41] The rubrics are far too short to be of value for
-the purpose of authorship attribution. However, the fact
-that they are believed to have been written by Gratian, and therefore
-reflect his choice of wording, means that they could potentially
-be useful evidence in the search for new topics introduced between
-the first and second recensions.
+the purpose of authorship attribution. However, the fact that they
+are believed to have been written by Gratian, and therefore reflect
+his choice of wording, means that they could potentially be useful
+evidence in the search for new topics introduced between the first
+and second recensions.
 
 ### *Dicta post canones*
 
@@ -581,14 +581,15 @@ part of the *Decretum*. Each of the 36 cases in Part II is introduced
 by a hypothetical case statement (*thema* or *dictum initiale*,
 conventionally abbreviated d.init.). The case statements are a
 subset of the *dicta* that are found only in, and that are closely
-connected with, the organization of Part II. Medieval and modern scholarship
-agree in accepting the *dicta initialia*, like the *dicta ante* and
-*dicta post*, as having been written by Gratian.[^57] Cases contain
-a single terminal or leaf node (the *dictum initiale*) followed by
-an ordered sequence of one or more internal nodes, the questions,
-which in turn contain chapters. The depth of Part II, considered
-as a tree-structured document composed of hierarchically nested
-containers, is one greater than the depth of Parts I and III.[^58]
+connected with, the organization of Part II. Medieval and modern
+scholarship agree in accepting the *dicta initialia*, like the
+*dicta ante* and *dicta post*, as having been written by Gratian.[^57]
+Cases contain a single terminal or leaf node (the *dictum initiale*)
+followed by an ordered sequence of one or more internal nodes, the
+questions, which in turn contain chapters. The depth of Part II,
+considered as a tree-structured document composed of hierarchically
+nested containers, is one greater than the depth of Parts I and
+III.[^58]
 
 The case statements all follow a very regular formal pattern. They
 are introduced by a hypothetical narrative that is followed by an
@@ -615,23 +616,14 @@ de cetero sit admittenda?
 
 ---
 
-> **Quidam]** AaBc *om.* P
-**excommunicatione]** AaBc excomunicatione P
-**adolescentem]** AaP adulescentem Bc
-**etatis...annum]** BcP annum etatis sue Aa
-**die]** AaBc di P
-**iudicium]** AaP iuditium Bc
-**iudicum]** AaBc iudicium P
-**concurrit]** AaBcP occurrit Fr.
-**suspenditur]** AaBc suspendere P
-**iudicio]** AaP iuditio Bc
-**an]** AaBc autem P
-AaBc infra P
-**criminali]** AaBc criminari P
-**ab]** AaBc *om.* P
-**an...Quinto,]** AaBc *om.* P
-**an]** AaBc aut P
-**iudicio]** AaP iuditio Bc
+> **Quidam]** AaBc *om.* P **excommunicatione]** AaBc excomunicatione
+P **adolescentem]** AaP adulescentem Bc **etatis...annum]** BcP
+annum etatis sue Aa **die]** AaBc di P **iudicium]** AaP iuditium
+Bc **iudicum]** AaBc iudicium P **concurrit]** AaBcP occurrit Fr.
+**suspenditur]** AaBc suspendere P **iudicio]** AaP iuditio Bc
+**an]** AaBc autem P AaBc infra P **criminali]** AaBc criminari P
+**ab]** AaBc *om.* P **an...Quinto,]** AaBc *om.* P **an]** AaBc
+aut P **iudicio]** AaP iuditio Bc
 
 > Someone permanently excommunicated (*in excommunicatione constitutus*)
 proposes to accuse a bishop; he brings in (*adducit*) an adolescent
@@ -699,7 +691,7 @@ of view: whether there can be marriage between infidels, whether
 there is ever a situation in which a man can take another wife if
 his previous wife is still alive, and whether someone who had one
 wife before he was baptized and another wife after he was baptized
-should be considered a bigamist.[@kuttner_pope_1992]
+should be considered a bigamist.[^61]
 
 Some case statements, however, reflect an outlook and a set of
 concerns that Gratian's benefice-seeking students probably understood
@@ -720,10 +712,10 @@ Questions (*quaestiones*) are second-order internal nodes subordinate
 to cases and are found only in Part II of the *Decretum*. They are
 contained by a case and in turn contain chapters. They are formally
 identical with distinctions in Part I, *de Pen*., and Part III---that
-is, they contain a single terminal node (the *dictum ante*)
-followed by an ordered sequence of one or more internal nodes (the
-chapters) containing inscription, rubric, canon and *dictum post*
-terminal nodes.
+is, they contain a single terminal node (the *dictum ante*) followed
+by an ordered sequence of one or more internal nodes (the chapters)
+containing inscription, rubric, canon and *dictum post* terminal
+nodes.
 
 Because questions are contained by and subordinate to cases, the
 *dicta ante* that introduce them perform a somewhat different role
@@ -731,11 +723,11 @@ in marshalling Gratian's arguments than do those in the distinctions
 of Part I, *de Pen*. and Part III. There is no higher level to the
 organization of Gratian's arguments in Part I, *de Pen*. and Part
 III to which the *dicta ante* in those parts can refer. For each
-*dictum ante* in Part II, however, there is a corresponding
-item from the list of enumerated questions in the *thema* for the
-case in which it is contained. The *dicta ante* restate and
-expand upon the questions in the *themata* that present the outline
-for the case.
+*dictum ante* in Part II, however, there is a corresponding item
+from the list of enumerated questions in the *thema* for the case
+in which it is contained. The *dicta ante* restate and expand upon
+the questions in the *themata* that present the outline for the
+case.
 
 There are 8,547 words in the first-recension *dicta ante* in Part
 II. Two first-recension *dicta ante* were modified in the second
@@ -749,9 +741,8 @@ very little change between the first and second recension.
 
 Winroth's appendix *includes*:
 
-C.11 q.2 d.init. (p.212)
-C.17 q.3 d.init. (p.216)
-C.22 q.3 d.init. (p.218)
+C.11 q.2 d.init. (p.212) C.17 q.3 d.init. (p.216) C.22 q.3 d.init.
+(p.218)
 
 Check Admont 43 f.33v to verify that C.17 q.2 d.init. is really
 missing. (Bc "breaks off after C.12" [p.26]; P "ends suddenly in
@@ -769,18 +760,49 @@ I incorrectly rolled up the following samples with the second-recension
 *dicta*. (I was probably confused by Winroth listing them as "d.init."
 rather than "d.a.c.1" in his appendix.)
 
-C.11 q.2 d.a.c.1 (42 words)
-C.17 q.2 d.a.c.1 (3 words)
-C.17 q.3 d.a.c.1 (73 words)
-C.22 q.3 d.a.c.1 (58 words)
+C.11 q.2 d.a.c.1 (42 words) C.17 q.2 d.a.c.1 (3 words) C.17 q.3
+d.a.c.1 (73 words) C.22 q.3 d.a.c.1 (58 words)
 
   -->
 
 ## Conclusion
 
-**The key finding of the dissertation is that the case statements
+The *Decretum* is a composite text, and the point of this chapter
+has been to show that the unity imposed on it by making a statement
+like "Gratian is the author of the *Decretum*" vanishes on any close
+examination. Over four thousand frequently contradictory authorities
+in the vulgate *Decretum* are reconciled by almost two thousand
+*dicta* historically attributed to Gratian. The next chapter will
+go on to show that the biographical unity imposed on the author by
+the using the name "Gratian" is just as unstable as the textual
+unity imposed on the work by using "the *Decretum*" as its title.
+The chapter after that will undertake an intensive quantitative
+analysis of the authorship of the elements of the work attributed
+to "Gratian". Such an analysis cannot answer the question of who,
+in a biographical or historical sense, wrote the case statements
+and *dicta* but it can be used to reliably determine whether those
+texts were written by the same person.
+
+<!--
+
+The key finding of the dissertation is that the case statements
 were written by someone other than the author(s) of the first-recension
-*dicta*.**
+*dicta*.
+
+  -->
+
+<!--
+
+In referring to his texts as "authorities," Gratian is implicitly
+transferring the attribute of authority from, e.g., the historical
+Augustine of Hippo to an abstract non-biographical author embodied
+in the text itself. In doing so, he unconsciously anticipates the
+way in which modern theories of literary authorship, borrowing
+heavily from Jerome, look for authorship not in the biographical
+details of an historical author but in a non-biographical author
+embodied in the text.
+
+  -->
 
 [^2]: "Given this lack of reliable extrinsic evidence, our best
 source of evidence about Gratian is his book(s)." @wei_gratian_2016
@@ -1141,10 +1163,10 @@ the canons, the opposite of the convention adopted by Friedberg and
 maintained by Winroth. See @kretzschmar_alger_1985.
 
 [^44]: Rufinus and Stephen of Tournai describe the tripartite
-division in exactly the same words. Rufinus: "*librum suum in
-tribus partibus distinguit, quarum primam ministeriis, secundam
-negotiis, tertiam ecclesiasticis deputat sacramentis.*" @singer_summa_1963 [5]
-("[H]e divides his book into three parts, the first of which
+division in exactly the same words. Rufinus: "*librum suum in tribus
+partibus distinguit, quarum primam ministeriis, secundam negotiis,
+tertiam ecclesiasticis deputat sacramentis.*" @singer_summa_1963
+[5] ("[H]e divides his book into three parts, the first of which
 he devotes to ecclesiastical ministries, the second to [ecclesiastical]
 business, and the third to ecclesiastical sacraments.")
 @somerville_prefaces_1998 [192-193]. Stephen of Tournai: "*Harum
@@ -1154,7 +1176,7 @@ is devoted to ecclesiastical ministries, the second to ecclesiastical
 problems, the third to ecclesiastical sacraments.")
 @somerville_prefaces_1998 [201]. (Brasington translated the preface
 of Rufinus, Somerville that of Stephen of Tournai.
-@somerville_prefaces_1998 [vii]. 
+@somerville_prefaces_1998 [vii].
 
     Given the probable dates of the *summae* of Rufinus (1164) and
     Stephen of Tournai (1165/66), it is just possible that Stephen
@@ -1191,12 +1213,11 @@ ordinandorum* in the vulgate *Decretum*: C.1 q.7 d.p.c.6 "Item:
 recension, Friedberg 1.215). C.3 q.1 d.p.c.7 "Unde supra in tractatu
 ordinandorum: 'Si quis pecunia uel gratia humana, seu populari uel
 militari tumultu, etc.'" (second recension, Friedberg 1.507):
-reference to D.79 c.9 (first recension, Friedberg 1.278). *de
-Cons*. D.1 d.p.c.50 "Item Pelagius: 'Dilectionis tuae rescripta.'
-Require in tractatu ordinandorum." (Friedberg 1.1303): reference
-to D.76 c.12 (first recension, Friedberg 1.271). Note that this
-reference occurs in one of only two substantive *dicta post* in *de
-Cons*.
+reference to D.79 c.9 (first recension, Friedberg 1.278). *de Cons*.
+D.1 d.p.c.50 "Item Pelagius: 'Dilectionis tuae rescripta.' Require
+in tractatu ordinandorum." (Friedberg 1.1303): reference to D.76
+c.12 (first recension, Friedberg 1.271). Note that this reference
+occurs in one of only two substantive *dicta post* in *de Cons*.
 
     There is one additional internal reference to this treatise
     under the title *tractatus de promotionibus clericorum*. C.16
@@ -1252,16 +1273,17 @@ useful. @beyer_lokale_1998 [17].
 
 [^55]: Three early manuscripts (Gt, Pf, and Tr) contain the gloss:
 "*Concordia discordantium canonum iuxta determinationem Gratiani
-episcopi quae in duas partes principaliter est divisa* (The reconciliation
-of contradictory canons according to the determination of Bishop
-Gratian, which is principally divided into two parts.)" Gt = Ghent,
-Bibl. der Rijksuniversiteit 55; Pf = Paris, Bibl. Nationale lat.
-3884 I and II; and Tr = Trier, Stadtbibl. 906 (1141). See
-@noonan_gratian_1979 [154]; and @pennington_biography_2018 [382].
+episcopi quae in duas partes principaliter est divisa* (The
+reconciliation of contradictory canons according to the determination
+of Bishop Gratian, which is principally divided into two parts.)"
+Gt = Ghent, Bibl. der Rijksuniversiteit 55; Pf = Paris, Bibl.
+Nationale lat. 3884 I and II; and Tr = Trier, Stadtbibl. 906 (1141).
+See @noonan_gratian_1979 [154]; and @pennington_biography_2018
+[382].
 
-[^56]: Describing the *Decretum* as a collection of nested
-containers is the simplest way to convey to a non-technical audience
-the concept, borrowed from the field of informatics, that it is a
+[^56]: Describing the *Decretum* as a collection of nested containers
+is the simplest way to convey to a non-technical audience the
+concept, borrowed from the field of informatics, that it is a
 document best represented in a hierarchical tree structure. The
 tree analogy tends to be a confusing one for non-specialists because
 the language computer scientists use to talk about tree-structured
@@ -1299,8 +1321,8 @@ is the appropriate point at which to introduce it.
     that contain only terminal or leaf nodes (inscriptions, rubrics,
     canons, and *dicta post canones*). Distinctions, cases, and
     questions are internal nodes that contain both terminal or leaf
-    nodes (*dicta ante canones* and *dicta initialia* or *themata*) and
-    internal nodes (cases contain questions, distinctions and
+    nodes (*dicta ante canones* and *dicta initialia* or *themata*)
+    and internal nodes (cases contain questions, distinctions and
     questions contain chapters).
 
     Internal nodes encode information about the structural relationships
@@ -1313,12 +1335,12 @@ is the appropriate point at which to introduce it.
     *Decretum*.
 
     Parsing the *Decretum* as a tree-structured document is not a
-    gimmick: to show that the *Decretum* can be represented using a
-    tree structure (which it can) is the same thing as showing that
-    it can be encoded as an XML document. To a significant extent,
-    this project depended on it being possible to partially convert
-    (if only in run-time computer memory) the MGH e-text of the
-    Friedberg edition to a tree-structured representation.
+    gimmick: to show that the *Decretum* can be represented using
+    a tree structure (which it can) is the same thing as showing
+    that it can be encoded as an XML document. To a significant
+    extent, this project depended on it being possible to partially
+    convert (if only in run-time computer memory) the MGH e-text
+    of the Friedberg edition to a tree-structured representation.
 
     That trees offer a compact and efficient model for representing
     complex information is not a recent insight: Gratian would
@@ -1346,6 +1368,13 @@ case statements are: *Hic primum queritur* (15), *Queritur* (8),
 *Modo primum queritur* (3), *Nunc primum queritur* (3), *Primo
 queritur* (2), *Primum queritur* (2), *Hic primo queritur* (1),
 *Modo queritur* (1), *Queritur autem* (1).
+
+[^61]: The part of the fact pattern that I consider fantastical is
+the Muslim convert to Christianity successively marrying, being
+ordained to the priesthood, and being elected to the episcopate.
+Bigamy as an impediment to holy orders was actually an issue of
+active interest for canonists in the twelfth century, see
+@kuttner_pope_1992.
 
 [^62]: C.1 d.init., Friedberg 1.357. Although Gratian does not say
 so explicitly, I think that we can reasonably infer that the father

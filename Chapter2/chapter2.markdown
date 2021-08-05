@@ -59,7 +59,7 @@ and so on.[9]
 The *Decretum* says nothing about its own authorship. Twelfth-century
 readers, however, implicitly endorsed the single-author theory by
 subsuming the entire text of the vulgate *Decretum* under the eponym
-"Gratian". The *Decretum*, however, like many other scholastic texts,
+"Gratian." The *Decretum*, however, like many other scholastic texts,
 contains far more quoted than original material. Medieval opinion was
 therefore divided not on the question of whether the *Decretum* had a
 single author, but rather on the question of whether the creator of the
@@ -79,7 +79,7 @@ Bonaventure (†1274) indirectly advocates for the opposite opinion in the
 preface to his commentary on the *Sentences* of Peter Lombard. He asks
 "what is the efficient cause or author of this book?" and answers that
 "Peter Lombard, bishop of Paris, is the author of this book."
-Bonaventure then notes that "the mode of authorship is four-fold", and
+Bonaventure then notes that "the mode of authorship is four-fold," and
 distinguishes the roles of *scriptor*, *compilator*, *commentator*, and
 *auctor*, on the basis of the use they make of "the words of other men"
 (*aliena*) and their own (*sua*):
@@ -427,7 +427,7 @@ Canons are often, though not always, introduced by a rubric. The name
 refers to the fact that rubrics were conventionally written in red
 (*ruber*) ink in manuscripts. A rubric is a very short summary of what
 the following canon is about. In many cases the rubric simply reads "*de
-eodem*", which means "about the same thing" as the preceding canon. The
+eodem*," which means "about the same thing" as the preceding canon. The
 137 *de eodem* rubrics introducing first-recension canons turn out to be
 important clues into the development of the text of the *Decretum*.[38]
 Stephan Kuttner observed in 1984 that "in the course its composition the
@@ -704,9 +704,8 @@ first and second recension.
 
 Winroth's appendix *includes*:
 
-C.11 q.2 d.init. (p.212)
-C.17 q.3 d.init. (p.216)
-C.22 q.3 d.init. (p.218)
+C.11 q.2 d.init. (p.212) C.17 q.3 d.init. (p.216) C.22 q.3 d.init.
+(p.218)
 
 Check Admont 43 f.33v to verify that C.17 q.2 d.init. is really
 missing. (Bc "breaks off after C.12" [p.26]; P "ends suddenly in
@@ -724,19 +723,47 @@ I incorrectly rolled up the following samples with the second-recension
 *dicta*. (I was probably confused by Winroth listing them as "d.init."
 rather than "d.a.c.1" in his appendix.)
 
-C.11 q.2 d.a.c.1 (42 words)
-C.17 q.2 d.a.c.1 (3 words)
-C.17 q.3 d.a.c.1 (73 words)
-C.22 q.3 d.a.c.1 (58 words)
+C.11 q.2 d.a.c.1 (42 words) C.17 q.2 d.a.c.1 (3 words) C.17 q.3
+d.a.c.1 (73 words) C.22 q.3 d.a.c.1 (58 words)
 
   -->
 
 ## Conclusion
 
-**The key finding of the dissertation is that the case statements were
-written by someone other than the author(s) of the first-recension
-*dicta*.**
+The *Decretum* is a composite text, and the point of this chapter has
+been to show that the unity imposed on it by making a statement like
+"Gratian is the author of the *Decretum*" vanishes on any close
+examination. Over four thousand frequently contradictory authorities in
+the vulgate *Decretum* are reconciled by almost two thousand *dicta*
+historically attributed to Gratian. The next chapter will go on to show
+that the biographical unity imposed on the author by the using the name
+"Gratian" is just as unstable as the textual unity imposed on the work
+by using "the *Decretum*" as its title. The chapter after that will
+undertake an intensive quantitative analysis of the authorship of the
+elements of the work attributed to "Gratian". Such an analysis cannot
+answer the question of who, in a biographical or historical sense, wrote
+the case statements and *dicta* but it can be used to reliably determine
+whether those texts were written by the same person.
 
+<!--
+
+The key finding of the dissertation is that the case statements
+were written by someone other than the author(s) of the first-recension
+*dicta*.
+
+  -->
+<!--
+
+In referring to his texts as "authorities," Gratian is implicitly
+transferring the attribute of authority from, e.g., the historical
+Augustine of Hippo to an abstract non-biographical author embodied
+in the text itself. In doing so, he unconsciously anticipates the
+way in which modern theories of literary authorship, borrowing
+heavily from Jerome, look for authorship not in the biographical
+details of an historical author but in a non-biographical author
+embodied in the text.
+
+  -->
 <!--
 
 Ad intelligentiam dictorum notandum, quod quadruplex est modus
@@ -1381,10 +1408,15 @@ queritur* (3), *Nunc primum queritur* (3), *Primo queritur* (2), *Primum
 queritur* (2), *Hic primo queritur* (1), *Modo queritur* (1), *Queritur
 autem* (1).
 
-[61] Stephan Kuttner, “Pope Lucius III and the Bigamous Archbishop of
-Palermo,” in *The History of Ideas and Doctrines of Canon Law in the
-Middle Ages*, 2nd ed., Collected Studies Series ; CS 113. (London:
-Variorum Reprints ; Brookfield, Vt: Ashgate Pub, 1992), 409–54.
+[61] The part of the fact pattern that I consider fantastical is the
+Muslim convert to Christianity successively marrying, being ordained to
+the priesthood, and being elected to the episcopate. Bigamy as an
+impediment to holy orders was actually an issue of active interest for
+canonists in the twelfth century, see Stephan Kuttner, “Pope Lucius III
+and the Bigamous Archbishop of Palermo,” in *The History of Ideas and
+Doctrines of Canon Law in the Middle Ages*, 2nd ed., Collected Studies
+Series ; CS 113. (London: Variorum Reprints ; Brookfield, Vt: Ashgate
+Pub, 1992), 409–54.
 
 [62] C.1 d.init., Friedberg 1.357. Although Gratian does not say so
 explicitly, I think that we can reasonably infer that the father is an
