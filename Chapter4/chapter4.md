@@ -24,11 +24,10 @@ been reasonably satisfied that a single author was responsible for
 the collection as they knew it, even if they knew so little about
 the historical Gratian that they felt the need to retroactively
 provide a largely fictional backstory for the eponymous author.
-Modern students of Gratian, on the other hand, have been willing
-to entertain the possibility that the *Decretum*, at least in its
-final most widely-circulated form, was the product of collective
-authorship. Stephan Kuttner, as the first item on his 1984 agenda
-for Gratian studies, asked:
+Modern students of Gratian have been willing to entertain the possibility
+that the *Decretum*, at least in its final most widely-circulated
+form, was the product of collective authorship. Stephan Kuttner,
+as the first item on his 1984 agenda for Gratian studies, asked:
 
 > was [the *Concordia discordantium canonum*] drafted and completed
 in one grandiose thrust, or did the original version go through
@@ -45,12 +44,12 @@ Winroth used the name Gratian 1 to refer to the compiler or compilers
 of the first recension, and Gratian 2 to refer to the compiler or
 compilers of the second recension. He then reformulated the second
 part of Kuttner's question by asking whether Gratian 1 was the same
-person as Gratian 2. Winroth's answer to the question posed in this
-form, that Gratian 2 was *not* the same person as Gratian 1, has
-been the focus of vigorous but so far inconclusive scholarly debate
-over the last twenty years. Much of the debate has focused on
+person as Gratian 2. Over the last twenty years, Winroth's answer
+to the question posed in this form, that Gratian 2 was *not* the
+same person as Gratian 1, has been the focus of vigorous but so far
+inconclusive scholarly debate. Much of the debate has focused on
 competing evaluations of the Sankt Gallen Stiftsbibliothek 673 (Sg)
-manuscript of the *Decretum*, and more recently on secondary evidence
+manuscript of the *Decretum*, and more recently on secondary evidence,
 such as a twelfth-century Siena necrology in which the name Gratian
 appears.
 
@@ -76,23 +75,23 @@ of occurrence of common words.
 
 Linguists draw a distinction between function words and content
 words. The more frequently a word occurs in a language, the more
-likely it is to be a function word, and the less likely it is to
-be a content word. Function words are words like prepositions and
-conjunctions. Content words are words like adjectives, nouns, and
-verbs. Function words convey meaning by their use in grammatical
-structure. The Latin conjunction "*sed*" does not mean anything by
-itself, but rather it places two words or grammatical constructs
-into an adversative relationship with each other.
+likely it is to be a function word than a content word. Function
+words are words like prepositions and conjunctions. Content words
+are words like adjectives, nouns, and verbs. Function words convey
+meaning by their use in grammatical structure. The Latin conjunction
+"*sed*" does not mean anything by itself. Rather it places two words
+or grammatical constructs into an adversative relationship with
+each other.
 
-Another way of thinking about the distinction is to note that in a
-given language, function words constitute a closed class, while
-content words constitute an open class. Language-speaking communities
-can and do make up new adjectives, nouns, verbs all the time; content
-words are therefore an open class that can be added to at will. But
-new prepositions and conjunctions are almost never added to a
-language. Their usage changes very slowly over time, if it changes
-at all, and function words are therefore, for all practical purposes,
-a closed, finite, class.
+Another way of thinking about the distinction between function and content
+words is to note that in a given language, function words constitute
+a closed class, while content words constitute an open class.
+Language-speaking communities can and do make up new adjectives,
+nouns, verbs all the time; content words are therefore an open class
+that can be added to at will. But new prepositions and conjunctions
+are almost never added to a language. Their usage changes very
+slowly over time, if it changes at all, and function words are
+therefore, for all practical purposes, a closed, finite, class.
 
 Evidence from experimental psychology suggests that readers, and
 perhaps also writers, process function words at a subconscious
@@ -105,7 +104,7 @@ be more or less invariant, making it a reliable authorial signature.
 Historians and literary scholars have long (if imprecise) memories
 about poorly-conceived attempts at authorship attribution (e.g.,
 Tony Honoré's attempt to attribute Roman law texts to Ulpian, and
-R.A.  Cooper and D.A. Pearsall's attempt to attribute authorship
+R.A. Cooper and D.A. Pearsall's attempt to attribute authorship
 of the Gawain Poems).[^4] Conversely, successful, methodologically
 rigorous, attributions of authorship are quickly forgotten when the
 author or the text in question is uninteresting to literary academia
@@ -204,8 +203,8 @@ Pearsall paper on Gawain that started this conversation.
 Stylometric analysis of the frequencies of common words for the
 purpose of attributing authorship has had a number of notable
 successes. The validity of this approach for textual scholarship
-was firmly established by the work of Frederick Mosteller and David
-L. Wallace on the *Federalist Papers*. The authorship of 12 of the
+was firmly established by the work on the *Federalist Papers*
+by Frederick Mosteller and David L. Wallace. The authorship of 12 of the
 *Federalist Papers*, 49-57 and 62-63, had been disputed since the
 early 19th century, with competing claims advanced on behalf of
 Alexander Hamilton and James Madison.[^8] In 1944, Douglass Adair,
@@ -245,7 +244,7 @@ second-recension *dicta*, we could consider the first-recension
 we could consider the second-recension *dicta* to be a superset of
 the first-recension *dicta*. While true enough from a commonsensical
 point of view, this is not a useful definition for the kinds of
-questions we would like to be able to answer, such as whether
+questions we would like to answer, such as whether
 Gratian 1, the author of the first-recension *dicta*, is the same
 person as Gratian 2, the author of the second-recension *dicta*.
 
@@ -259,7 +258,21 @@ first-recension *dicta* as defined by Anders Winroth's appendix
 would be to define the second-recension *dicta* as the difference
 left by subtracting all of the words of the first-recension *dicta*
 as defined by Winroth's appendix from the text in the Friedberg
-edition.
+edition.[^sc1]
+
+<!-- suggested SC alternative restatement -->
+
+[^sc1]: Hence, for the purposes of this study, the text
+of the *dicta* of the second recension is the remainder of the
+*dicta* of the Friedberg text after the text of the *dicta* of the
+first recension has been subtracted. To compare the *dicta* of the
+two recensions using stylometry, we need samples of sufficient
+length. Subtracting the *dicta* of the first recension from the
+*dicta* of the Friedberg text produces two adequate samples. It is
+significant to note that the two sample texts do not have be
+continuous pieces of writing, such as the *Federalist Papers* are.
+The method only requires samples of sentences and phrases of
+sufficient length. (See below.)
 
 This definition is implemented by passing sequentially through the
 *dicta* and applying three rules. First, if a *dictum* is listed
@@ -267,7 +280,7 @@ in Winroth's appendix as being in the first recension of the
 *Decretum*, and as not having been added to or changed in the second
 recension, the text for that *dictum* is included in the first
 recension sample. This rule is applied on a per-*dictum* basis.
-Second, if a *dictum* is in the text of the Friedberg edition, and
+Second, if a *dictum* is in the text of the Friedberg edition and
 is not listed in Winroth's appendix as being in the first recension,
 in either unmodified or modified form, the text for that *dictum*
 is included in the second recension sample. This rule is applied
@@ -335,18 +348,18 @@ Nevertheless, in the absence of a critical edition for the first
 recension, applying the variants recorded in Winroth's appendix as
 a set of transformations to the text of Friedberg's edition to
 generate a stand-in or proxy for the text of the first recension
-is a workable approach.[^19] This method is well-theorized in a
-Digital Humanities context as an example of "deformance." The term,
-proposed by Lisa Samuels and Jerome McGann in "Deformance and
-Interpretation" (1999), conflates the words "deformation" and
-"performance," and describes a process through which a text is
-transformed by the application of a series of deformances to generate
-a "paratext."[@samuels_deformance_1999] The paratext is different
-from the original text, but is defined by the deformances to the
-original text through which it is generated. The classic example
-of deformance in a literary context is reversing the order of lines
-in a poem. The paratext can be analyzed for otherwise unavailable
-insights into the original text.
+is a workable approach.[^19] This method is well-theorized in Digital
+Humanities as "deformance." The term, proposed by Lisa Samuels and
+Jerome McGann in "Deformance and Interpretation" (1999), conflates
+the words "deformation" and "performance" and describes a process
+through which a text is transformed by the application of a series
+of deformances to generate a "paratext."[@samuels_deformance_1999]
+The paratext is different from the original text but is defined by
+the deformances to the original text through which it is generated.
+The classic example of deformance in a literary context is reversing
+the order of lines in a poem. The paratext produced in this way can
+then be analyzed for insights into features of the original text
+that are otherwise undetectable.
 
 The method for producing the text samples used in this project
 involves multiple stages of deformance. Starting with Friedberg's
@@ -391,37 +404,39 @@ adhere to a widely-accepted encoding standard such as the XML
 Text Encoding Initiative (TEI P5) format. The Mellon Foundation-supported
 effort directed by Anders Winroth to edit the first recension is
 ongoing, but work on Winroth's edition in progress had not reached
-a sufficiently advanced state of completion for it to be used within
-the time frame available for my project.[^21]
+a sufficiently advanced state of completion for it to be used
+for my project.[^21]
 
 As a result, this investigation depends for both the first and the
 second recension on the electronic text of the Friedberg edition
 that Timothy Reuter and Gabriel Silagi used to produce the
 *Wortkonkordanz zum Decretum Gratiani* for the
 MGH.[@reuter_wortkonkordanz_1990] Anders Winroth and Lou Burnard
-of the Oxford Text Archive (OTA) provided copies of the MGH e-text
-separately. The copies differed significantly, and the e-text had
+of the Oxford Text Archive (OTA) each provided copies of the MGH e-text.
+The copies differed significantly, and the e-text had
 to be reconstructed through an editorial process quite similar to
 preparing a critical edition to restore it to a state as close as
 possible to what Reuter and Silagi presumably intended.
 
-In 1946, Father Roberto Busa, SJ (d.2011), began work on what
+The establishment of good, usefully formatted, texts has been crucial
+to Digital Humanities research from the beginning.
+In 1946, Father Roberto Busa, SJ (d.2011) began work on what
 ultimately became the *Index Thomisticus*, a concordance of the
 works of St Thomas Aquinas. In 1949, Father Busa secured crucial
-support from Thomas J. Watson of IBM, allowing concordance generation
+support from Thomas J. Watson of IBM, allowing the generation of the concordance
 to be carried out by means of electro-mechanical and later electronic
 computers operating on punch-card data. The *Index Thomisticus* is
 recognized today as the first important humanities computing project
-and figures prominently in origin stories for digital humanities
+and figures prominently in origin stories for Digital Humanities
 as a discipline.[^23] The success of Father Busa's project inspired
 a number of imitators, as well as the development of specialized
 software and data formats to support such efforts. Reuter and
 Silagi's *Wortkonkordanz* was probably the last major Busa-style
-concordance. For this reason, the MGH e-text of the Friedberg edition
-was encoded in the obsolete Oxford Concordance Program (OCP) format.
+concordance. The MGH e-text of the Friedberg edition they used
+was encoded in the now-obsolete Oxford Concordance Program (OCP) format.
 
-The MGH e-text introduced a small number of textual errors in
-addition to those it inherited from printed version of Friedberg's
+The MGH e-text also introduced a small number of textual errors in
+addition to those it inherited from the printed version of Friedberg's
 edition. Appendix 3 lists all currently known errors in the MGH
 e-text.[^24] An error in D.23 c.2 is particularly noteworthy.
 Contrary to the widespread belief that the MGH e-text was created
@@ -429,7 +444,7 @@ by scanning a physical copy of the Friedberg edition using optical
 character recognition (OCR) technology and then correcting the
 results, it is the product of keyboard transcription. Conclusively,
 the e-text contains at least one instance of homeoteleuton. The
-following fours lines from the text of D.23 c.2 in the Friedberg
+following four lines from the text of D.23 c.2 in the Friedberg
 edition (column 79):
 
 > *Patre et Spiritu sancto omnium creaturarum; qui passus sit pro
@@ -478,7 +493,7 @@ section heading:
 
 The first example is syntactically valid HTML because the start
 tag, content, and end tag for the top-level section heading element
-comes before the start tag, content, and end tag for the paragraph
+come before the start tag, content, and end tag for the paragraph
 element. The second example is syntactically invalid HTML because
 the start tag for the paragraph element comes before the end tag
 for the top-level section heading element, with the result that
@@ -498,8 +513,8 @@ Generalized Markup Language (SGML), an ancestor of XML, the e-text
 is in fact encoded in the Oxford Concordance Program (OCP) format.
 OCP markup is extremely difficult to parse because it is not
 tree-structured---it has start tags for textual elements such as
-canons and *dicta*, cases and distinctions, but not (unlike XML)
-end tags.[@hockey_history_2004]
+canons and *dicta*, cases and distinctions, but (unlike XML)
+not end tags.[@hockey_history_2004]
 
 The extraction engine captures every element of text between a
 *dictum* start tag (`<T A>` or `<T P>`) and the start tag for the
@@ -592,15 +607,15 @@ following the same procedure used to produce the Gratian1 and
 Gratian2 samples, as a practical matter it is not useful to do so.
 The only case statement (*thema*) for which Winroth's appendix notes
 a textual difference is C.19 d.init.[@winroth_making_2000, 216] The
-first-recension version of the text of C.19 d.init. omits a 13-word
-clause added to the second recension version, seemingly for the
+second-recension version of the text of C.19 d.init. adds a 13-word
+clause absent from the first-recension version, seemingly for the
 purpose of piling up descriptive detail. (*unus relicta propria
 ecclesia eo inuito, alter dimissa regulari canonica cenobio se
 contulit*). Gratian0, the sample containing the case statements,
 is therefore made up of 99.6% first-recension text. Similarly, the
 number of words added to the *dicta* in *de Penitentia* between the
 first and second recensions is relatively small, 556 words out
-of a total of 10,081 words; dePen, the sample containing the *dicta*
+of a total of 10,081; dePen, the sample containing the *dicta*
 from *de Penitentia*, is therefore made up of 94.5% first-recension
 text.
 
@@ -687,7 +702,7 @@ of the samples rather than the overall mean frequency of occurrence
 of the word in the corpus made up of all of the samples. The
 motivation for using the mean of normalized frequencies of occurrence
 for the individual samples rather than the overall mean frequency
-of occurrence is to ensure that largest sample does not dominate
+of occurrence is to ensure that the largest sample does not dominate
 the result. The value for the mean frequency of occurrence of *in*
 that will be required at subsequent stages of this demonstration,
 then, is the mean of the normalized frequencies 25.5673, 24.9975,
@@ -723,7 +738,7 @@ significant levels of variation.
 
 Word count and sample length data were collected and used to calculate
 frequencies for Gratian0 above, but those values will not be used
-in this section. Disregard the Gratian0 column, and use only the
+in this section. Disregard the Gratian0 column and use only the
 columns corresponding to the three comparison samples, Gratian1,
 dePen, and Gratian2, to calculate the means for the values in each
 of the rows in the frequency table representing the four most
@@ -903,7 +918,7 @@ Labels on the axes of Figure 0b refer to standard deviations (values
 of z) away from the mean of normalized frequencies (represented by
 the dashed lines).
 
-Figures 0a and 0b represents the axes as orthogonal (perpendicular)
+Figures 0a and 0b represent the axes as orthogonal (perpendicular)
 to one another. Although doing so is acceptable as a first-order
 approximation in a simplified representation of this kind, plotting
 the values along orthogonal axes invokes an implicit assumption
@@ -911,7 +926,7 @@ that the word frequencies (in this case, of *in* and *non*) are
 completely independent of one another, i.e., that there is no
 correlation or covariance relationship between the words' frequency
 of occurrence in the samples. This is not necessarily the case, and
-an advanced technique introduced below, principal component analysis
+an advanced technique, introduced below, called principal component analysis
 (PCA), handles this problem in a more mathematically sophisticated
 way.
 
@@ -933,29 +948,31 @@ z-scores for an arbitrary number of words, have the effect of
 weighting each selected word from a corpus of texts equally. Such
 choices, however, need to be made with an informed awareness of the
 trade-offs involved. The second reason is that every marginal word
-is less likely to be a function word, and more likely to be a content
-word. Twenty-four out of the thirty most frequent words from Gratian's
-*dicta* are function words potentially suitable for use in stylometric
-analysis, but only 64 out of the 250 most frequent words.
+in a list, sorted from most to least frequent, of frequently used
+words is more likely than the previous word to be a content word
+instead of a function word. Twenty-four out of the thirty most
+frequently used words in Gratian's *dicta* are function words
+potentially suitable for use in stylometric analysis, but only 64
+out of the 250 most frequent words.
 
 ### Zipf's law
 
 The observed empirical relationship that word frequencies in a
 corpus of text tail off inversely as the rank is known as Zipf's
-law, after American quantitative linguist George Kingsley Zipf
+law, after the American quantitative linguist George Kingsley Zipf
 (d.1950). Though he does not seem to have claimed discovery, Zipf
 published the first extended discussions of the phenomenon.[^32]
 The rank-frequency distribution of words in a corpus of any
-language is not merely a curiosity, but rather provides a general
+language is not merely a curiosity but rather provides a general
 background of what Zipf characterized as "orderliness" against which
 variations in frequency of occurrence of individual words are both
-detectable and meaningful. Thus it is worthwhile to discuss theoretical
+detectable and meaningful. Thus, it is worthwhile to discuss theoretical
 predictions about the rank-frequency distribution of words in a
-corpus, and to demonstrate that Gratian's *dicta* display the
+corpus and to demonstrate that Gratian's *dicta* display the
 expected orderliness of word distribution.
 
 If the words in a corpus of text are rank-ordered from most to least
-frequent, Zipf's laws posits that, as a first-order approximation,
+frequent, Zipf's law posits that, as a first-order approximation,
 the frequency of the Nth word will be 1/N times that of the most
 frequent word.[^33] In other words, the theoretical Zipf distribution
 predicts that the frequency of the second most frequent word in a
@@ -994,7 +1011,7 @@ remain fairly stable, mostly falling between 10,000 and 11,000.
 As this example suggests, the explanatory power of the formula $ab^2
 = k$ to characterize a word distribution is greatest for words that
 have a low number of occurrences. Zipf ultimately judged the formula
-$ab^2 = k$ to be a less than satisfactory model for the full spectrum
+$ab^2 = k$ to be an unsatisfactory model for the full spectrum
 of word distribution in a corpus, in part because it implied
 fractional values of *a* for the most frequent words.[^34] Zipf had
 a vivid awareness, ahead of its time for the pre-digital age in
@@ -1057,7 +1074,7 @@ thirty most frequent words (MFWs) in Gratian's *dicta*: *in* (2187),
 
 Zipf used word frequencies hand-tabulated from James Joyce's *Ulysses*
 as the data set for his exploration of the rank-frequency relationship,
-and it turns out that for English, the r × f = C formulation holds
+and it turns out that for English the r × f = C formulation holds
 up reasonably well.[^37] The rank-frequency relationship does not
 on first inspection appear to hold up as well for Gratian's Latin
 as it does for Joyce's English, since the frequencies for the thirty
@@ -1294,7 +1311,7 @@ Given the layout of the *differences* dataframe in which we have
 stored the intermediate results, the part of the formula we deferred
 dealing with ($\frac{1}{N}\sum_{i = 1}^N$) is simply a notationally
 exact way of indicating that we are to take the average (arithmetic
-mean) of the values in each of the columns, and record the resulting
+mean) of the values in each of the columns and record the resulting
 value of $\Delta_B$ in the corresponding column of the *deltas*
 dataframe.
 
@@ -1305,7 +1322,7 @@ passing in the previous section on visualization that plotting the
 z-score coordinates of word frequencies invokes the tacit assumption
 that the axes are in fact perpendicular to one another, an assumption
 that is at least potentially open to challenge. Burrows's Delta
-generalizes this assumption into an arbitrary number of dimension.
+generalizes this assumption into an arbitrary number of dimensions.
 The scholarly literature on authorship attribution methods describes
 distance metrics such as Burrows's Delta as measuring 'Manhattan
 Distance'. The analogy is to walking or driving from a starting
@@ -1371,7 +1388,7 @@ attribution is that the first-recension *dicta* (Gratian1) and the
 *dicta* from *de Penitentia* (dePen) have the same author. It is
 less likely that the first-recension *dicta* (Gratian1) and the
 second-recension *dicta* (Gratian2) have the same author. It is
-less likely still that the *dicta* from *de Penitentia* and the
+still less likely that the *dicta* from *de Penitentia* and the
 second-recension *dicta* have the same author. It is much less
 likely that the case statements (Gratian0) have the same author as
 either the first- (Gratian1) or second-recension (Gratian2) *dicta*.
@@ -1388,7 +1405,7 @@ monastic (C.16-20 R1 *dicta*), other3 (C.21-22 R1 *dicta*), heresy
 and R2 *dicta* from *de Penitentia*), and second (all R2 *dicta*,
 excluding those from *de Penitentia*).[^42] For each of the fourteen
 subcorpora, we will hypothesize each subcorpus in turn to be the
-work of an unknown author, and will treat the other thirteen
+work of an unknown author and will treat the other thirteen
 subcorpora as composing a corpus of works by a known author. The
 scale of the fourth experiment is similar to that of the experiments
 carried out by John Burrows and David Hoover, the pioneers of the
@@ -1430,9 +1447,9 @@ at every step in the process.
 | second    |   1.0674 |     0.7861 |   1.2408 |   0.877  |     0.8796 |    0.8927 | nan      |
 
 Because of the scale of the experiment, the results can be somewhat
-difficult to read, but are entirely consistent with those obtained
+difficult to read, but they are entirely consistent with those obtained
 in the previous simplified experiments. They are divided into two
-tables to allow them to be represented on the printed page, but
+tables to allow them to be represented on the printed page but
 should be imagined as a single table, with the second table extending
 the first table to the right. The first column of each row contains
 the name of the subcorpus hypothesized to be the work of an unknown
@@ -1452,15 +1469,15 @@ subcorpus of unknown authorship and the cases subcorpus with the
 Delta values for each of the other subcorpora. Taking the second
 row of each table as an example, the value for the Delta distance
 between the laws and cases subcorpora is 2.141, which is greater
-than NaN, 1.249, 1.502, 1.4633, 1.3147, 1.4223 in the first table,
-and continuing on to the corresponding row in the second table, is
+than NaN, 1.249, 1.502, 1.4633, 1.3147, 1.4223 in the first table
+and, continuing on to the corresponding row in the second table, is
 also greater than 1.4369, 1.1931, 1.4345, 1.1875, 1.1924, 1.6218,
 and 1.2323. (In each row, the entry corresponding to the Delta
 distance between the subcorpus of unknown authorship and itself is
-undefined, and is indicated by "NaN," an conventional abbreviation
+undefined and is indicated by "NaN," a conventional abbreviation
 in numerical computing for "Not a Number.")
 
-For each of the thirteen subcorpora excluding cases, the value for
+For each of the thirteen subcorpora, excluding cases, the value for
 the Burrows's Delta distance between that subcorpus and the cases
 subcorpus is the highest in the row. In only one row are there Delta
 values that are even close to the value for the cases subcorpus:
@@ -1771,14 +1788,14 @@ when you created the baseline text for the edition in progress of
 the first recension (although you adopted a set of orthographic
 conventions different from Friedberg's in the resulting text).
 
-[^21]: As of 22 April 2019 version, eight case statements (for cases
+[^21]: As of the 22 April 2019 version, eight case statements (for cases
 1-3, 9, 15, 24, 30, and 34) appear to have a complete critical
-apparatus. An addition six case statements (for cases 4-7, 10, and
+apparatus. An additional six case statements (for cases 4-7, 10, and
 11) have an incomplete critical apparatus that records variant
 readings from Fd only. The critical apparatus for the case statement
 for case 35 records a single variant reading from Aa. The remaining
 21 case statements (for cases 8, 12-14, 16-23, 25-29, 31-33, and
-36) have no critical apparatus at all. The case statement are used
+36) have no critical apparatus at all. The case statements are used
 as the example here because they are the focus of my dissertation.
 
 [^23]: @hockey_history_2004 [4-6]. The highest honor in the field
@@ -1832,9 +1849,9 @@ of words" (1949). He expressed the relationship as $ab^2 = k$ (1935)
 and r × f = C (1949).
 
 [^33]: In Digital Humanities courses, 1/N is typically presented
-*as* Zipf's law. The reductionist 1/N representation of the
+*as* Zipf's law. However, the reductionist 1/N representation of the
 rank-frequency relationship is misleading insofar as it ignores
-scaling considerations, and elides the discrete rather than continuous
+scaling considerations and elides the discrete rather than continuous
 nature of the variables representing rank and frequency.
 
 [^34]: "Hence the $ab^2 = k$ relationship is valid only for the
