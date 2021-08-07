@@ -778,10 +778,10 @@ the using the name "Gratian" is just as unstable as the textual
 unity imposed on the work by using "the *Decretum*" as its title.
 The chapter after that will undertake an intensive quantitative
 analysis of the authorship of the elements of the work attributed
-to "Gratian". Such an analysis cannot answer the question of who,
+to "Gratian." Such an analysis cannot answer the question of who,
 in a biographical or historical sense, wrote the case statements
 and *dicta* but it can be used to reliably determine whether those
-texts were written by the same person.
+texts were written by one, two, or many persons.
 
 <!--
 
@@ -1295,18 +1295,20 @@ is the appropriate point at which to introduce it.
     Trees are data structures made up of nodes that can contain
     information and point to other nodes.
 
-    One distinguished node, the root, points to other nodes, but
-    is not pointed to by any other node. The root node is the
-    ancestor from which all other nodes in the tree descend, with
-    its descendants extending below it in an arrangement that encodes
-    their relationship with the other nodes in the tree. Very unlike
-    botanical trees, the root is always represented as being at the
-    top of an upside-down tree. To revert to the nested containers
-    analogy, the root node is the outermost container (in the present
-    case, the whole *Decretum*).
+    One node, the root, points to other nodes, but no other node
+    points to it. The root node is the ancestor from which all other
+    nodes in the tree descend, with its descendants extending below
+    it in an arrangement that encodes their relationship with the
+    other nodes in the tree. Very unlike botanical trees, the root
+    is always represented as being at the top of an upside-down
+    tree. To revert to the nested containers analogy, the root node
+    is the outermost container (in the present case, the whole
+    *Decretum*).
 
-    Any node other than the root is a child node of some parent. A
-    node can be both a parent and a child. The parent-child
+    Any node other than the root is a child node of some parent.
+    The root node can be thought of as the original parent, like
+    the figure of Jesse in representations of the Tree of Jesse.
+    A node can be both a parent and a child. The parent-child
     relationship gives rise to a property of depth. The root node
     has a depth of 0, and a child node has a depth one greater than
     that of its parent node. The depth of a child of the root is
@@ -1316,14 +1318,15 @@ is the appropriate point at which to introduce it.
 
     Parents are also referred to as internal nodes. A node that has
     no child of its own can be referred to as a terminal or leaf
-    node. Parts are internal nodes that contain only other internal
-    nodes (distinctions and cases). Chapters are internal nodes
-    that contain only terminal or leaf nodes (inscriptions, rubrics,
-    canons, and *dicta post canones*). Distinctions, cases, and
-    questions are internal nodes that contain both terminal or leaf
-    nodes (*dicta ante canones* and *dicta initialia* or *themata*)
-    and internal nodes (cases contain questions, distinctions and
-    questions contain chapters).
+    node (because a leaf is at the end of a series of parent-child
+    relationships on an actual tree). Parts are internal nodes that
+    contain only other internal nodes (distinctions and cases).
+    Chapters are internal nodes that contain only terminal or leaf
+    nodes (inscriptions, rubrics, canons, and *dicta post canones*).
+    Distinctions, cases, and questions are internal nodes that
+    contain both terminal or leaf nodes (*dicta ante canones* and
+    *dicta initialia* or *themata*) and internal nodes (cases contain
+    questions, distinctions and questions contain chapters).
 
     Internal nodes encode information about the structural relationships
     between nodes; terminal or leaf nodes encode textual information.
