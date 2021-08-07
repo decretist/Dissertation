@@ -8,7 +8,7 @@ subtitle: Authority, Author, Authorship
 ---
 The purpose of this chapter is to examine the closely connected
 questions of the authority of the *Decretum*, the biography of its
-historical author author, and the authorship of the *Decretum*.
+historical author, and the authorship of the *Decretum*.
 Recent scholarship on the *Decretum* has tended to confuse the
 question of the biography of its historical author with that of the
 authorship of the text. I will attempt to demonstrate that the
@@ -24,10 +24,11 @@ of authorship or those found in current theories of authorship.
 (Contemporary theories of literary authorship are, ironically,
 closer to medieval theories of authorship than either are to the
 definition of authorship tacitly assumed by most historians and in
-some interesting cases draw on late antique and medieval sources.)
+some interesting cases modern literary scholars draw on late antique
+and medieval sources.)
 
 Medieval sources on whom we rely for most of our evidence about who
-wrote the *Decretum*, the authors of glosses or of prefaces to
+wrote the *Decretum*, the authors of glosses or prefaces to
 twelfth-century *summae* on the *Decretum*, were not uninterested
 in the question of who wrote the exact words in the text. That
 question, however, overlapped for them, in a way that it does not
