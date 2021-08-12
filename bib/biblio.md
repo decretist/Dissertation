@@ -35,6 +35,7 @@ nocite: |
   @evert_understanding_2017
   @foucault_what_1998
   @fowler-magerl_clavis_2005
+  @frier_law_1984
   @fuhrmann_einfluss_1972
   @fuhrmann_pseudo-isidorian_2001
   @gabriel_paris_1982
@@ -45,6 +46,7 @@ nocite: |
   @hinschius_decretales_1963
   @hockey_history_2004
   @hoeflich_establishment_2008
+  @honore_ulpian_1982
   @hulley_principles_1944
   @hunt_introductions_1980
   @hyde_bologna_1982

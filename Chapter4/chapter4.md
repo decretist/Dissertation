@@ -101,32 +101,39 @@ be more or less invariant, making it a reliable authorial signature.
 
 ### Successes and Failures
 
+<!--
+
+"My point is that at your defense a central point will be: 'OK,
+Paul, you did an enormous amount of work inputting all the data,
+how can you and we trust what a computer program is telling us?'
+It would be very good if you can tell us about other medieval authors
+about which there is some consensus that the computer has given us
+firm conclusions."
+
+- Ken Pennington, email to Paul Evans, 13 July 2020
+
+  -->
+
 Historians and literary scholars have long (if imprecise) memories
-about poorly-conceived attempts at authorship attribution (e.g.,
-Tony Honoré's attempt to attribute Roman law texts to Ulpian, and
-R.A. Cooper and D.A. Pearsall's attempt to attribute authorship
-of the Gawain Poems).[^4] Conversely, successful, methodologically
-rigorous, attributions of authorship are quickly forgotten when the
-author or the text in question is uninteresting to literary academia
-(e.g., Patrick Juola's successful attribution of *The Cuckoo's
-Calling*, a 2013 crime fiction novel, to J.K. Rowling of Harry
-Potter fame.)[^5]
+about poorly-conceived attempts at authorship attribution. Tony
+Honoré's *Ulpian* (1982) was reviewed harshly for its misuse of
+stylometric analysis for authorship attribution.[^4] Honoré
+generated lists of what would now be called Most Distinctive Words
+(MDWs) and Statistically Improbable Phrases (SIPs) from a concordance
+of the works of Ulpian and used them to attempt to periodize and
+to determine authorship of texts attributed to Ulpian. Frier
+correctly criticizes Honoré's method as fundamentally misguided
+because it "is built entirely on the occurrence of unusual
+words."[@frier_law_1984, 862] As the previous section made clear,
+stylometric analysis for the purpose of authorship attribution
+relies on extremely common rather than unusual words.
 
----
+Sometimes, failure is mostly in the eye of the beholder. A recent
+essay by A.S.G. Edwards in *The Times Literary Supplement
+(TLS)*[@edwards_go_2020] appears to refer to an attempt by R.A.
+Cooper and D.A. Pearsall to attribute authorship of the Gawain
+Poems.[@cooper_gawain_1988]
 
-Bruce W. Frier of the University of Michigan Law School negatively
-reviewed Tony Honoré's *Ulpian*(1982) for its misuse of stylometric
-analysis for authorship attribution. Honoré generated lists of what
-would now be called Most Distinctive Words (MDWs) and Statistically
-Improbable Phrases (SIPs) from a concordance of the works of Ulpian,
-and used them to attempt to periodize and to determine authorship
-of texts attributed to Ulpian.
-
----
-
-The A.S.G. Edwards essay in the July 3, 2020 issue of *The Times
-Literary Supplement (TLS)* [@edwards_go_2020] appears to refer to
-"The Gawain Poems" by R.A. Cooper and D.A. Pearsall. [@cooper_gawain_1988]
 
 Cooper and Pearsall conclude that the stylometric evidence they
 evaluate is consistent with common authorship for the four poems
@@ -136,25 +143,44 @@ the stylometric measures they employ are only relevant to poetry,
 focusing specifically on the alliterative features of the texts.
 Cooper and Pearsall also analyze the frequencies of 11 function
 words, distinguishing between words occurring at the beginning of
-a line and words occurring in the middle of a line. (John Burrows
-and David Hoover in a series of papers starting in 2000 established
-30 words as a best-practice minimum for this kind of word frequency
-analysis.) It is not, for the most part, very methodologically
-sophisticated work, even by the standards of 1988. The one exception
-is their analysis of the co-occurrence of parts of speech (POSs)
-within lines, which anticipates the kind of part of speech bigram
-and trigram analysis that is sometimes performed today when
-appropriately tagged electronic texts are available. (An example
-of part of speech bigram analysis would be to analyze the frequencies
-of occurrence of noun-adjective pairs versus adjective-noun pairs
-in Latin texts.)
+a line and words occurring in the middle of a line. An innovative
+feature of Cooper and Pearsall's work is their analysis of the
+co-occurrence of parts of speech (POSs) within lines, anticipating
+the technique of part of speech bigram and trigram analysis that
+is sometimes performed today when appropriately tagged electronic
+texts are available. (An example of part of speech bigram analysis
+would be to analyze the frequencies of occurrence of noun-adjective
+pairs versus adjective-noun pairs in Latin texts.) Cooper and
+Pearsall's 1988 article would be criticized today for using the
+frequencies of only 11 function words as the basis for a stylometric
+analysis for authorship attribution. (John Burrows and David Hoover
+in a series of papers starting in 2000 established 30 words as a
+best-practice minimum for this kind of word frequency analysis.)
+
+<!--
+
+Nothing, however, to justify Edwards's sweeping dismissal other
+than an intense hostility to computational methods and a wish to
+restore connoisseurship as the basis for textual studies.
+
+  -->
+
+<!--
 
 Google Scholar indicates that the Cooper and Pearsall article has
 12 citations as of August 2020, so it does not appear to have had
 much influence on the subsequent development of scholarship within
-its subfield. (To put that number in context, Google Scholar indicates
+its subfield. To put that number in context, Google Scholar indicates
 that Pennington's "Bartolome de las Casas and the Tradition of
-Medieval Law" has 86 citations.)
+Medieval Law" has 86 citations.
+
+  -->
+
+Finally, some successes might as well be failures. Patrick Juola's
+successful, methodologically rigorous, attribution of *The Cuckoo's
+Calling*, a 2013 crime fiction novel, to J.K. Rowling of *Harry
+Potter* fame, was quickly forgotten because the author and text in
+question were uninteresting to literary academia.[^5]
 
 ---
 
@@ -1747,13 +1773,8 @@ also suggests (less strongly) that the first- and second-recension
 *dicta* were not the work of either one or two authors, but are
 more likely to have been the product of collaborative authorship.
 
-[^4]: My point is that at your defense a central point
-will be: "OK, Paul, you did an enormous amount of work inputting
-all the data, how can you and we trust what a computer program is
-telling us?" It would be very good if you can tell us about other
-medieval authors about which there is some consensus that the
-computer has given us firm conclusions. - Ken Pennington, 13 July
-2020
+[^4]: @honore_ulpian_1982; @frier_law_1984. Thanks to John Noël
+Dillon for bringing Frier's review to my attention.
 
 [^5]: Patrick Juola, "The Rowling Case: A Proposed Standard
 Analytic Protocol for Authorship Questions", *Digital Scholarship

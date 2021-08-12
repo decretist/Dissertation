@@ -277,6 +277,13 @@ Historica. Hilfsmittel 21. Hannover: Hahnsche, 2005.
 
 </div>
 
+<div id="ref-frier_law_1984" class="csl-entry">
+
+Frier, Bruce W. “Law on the Installment Plan.” *Michigan Law Review* 82,
+no. 4 (February 1984): 856–68.
+
+</div>
+
 <div id="ref-fuhrmann_einfluss_1972" class="csl-entry">
 
 Fuhrmann, Horst. *Einfluß und Verbreitung der pseudoisidorischen
@@ -360,6 +367,13 @@ History of Medieval Canon Law in the Classical Period, 1140-1234: From
 Gratian to the Decretals of Pope Gregory IX*, edited by Wilfried
 Hartmann and Kenneth Pennington. History of Medieval Canon Law.
 Washington, D.C: Catholic University of America Press, 2008.
+
+</div>
+
+<div id="ref-honore_ulpian_1982" class="csl-entry">
+
+Honoré, Tony. *Ulpian*. Oxford : New York: Clarendon Press ; Oxford
+University Press, 1982.
 
 </div>
 
