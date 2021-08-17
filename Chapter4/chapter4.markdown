@@ -225,8 +225,6 @@ by conducting a stylometric analysis of the frequencies of 70 function
 words to compare the 12 disputed numbers with numbers securely
 attributed to Hamilton and Madison.[11]
 
-<!-- ![Federalist](JPGs/Federalist_CA_72_MFWs.jpg) -->
-
 ### Definition of first- and second-recension *dicta*
 
 In the absence of good modern critical editions for the first and second
@@ -733,9 +731,9 @@ represents the mean of normalized frequencies for the horizontal (*in*)
 axis, and the horizontal dashed line represents the mean of normalized
 frequencies for the vertical (*non*) axis.
 
-![Figure 0a updated 14 May 2020[33]](PNGs/Figure_0a.png)
+![Figure 1 updated 14 May 2020[33]](PNGs/Figure_0a.png)
 
-Figure 0a introduces several conventions common to two-dimensional
+Figure 1 introduces several conventions common to two-dimensional
 graphical representations of word frequency data that readers will
 encounter repeatedly throughout this chapter. The feature (in this case
 the frequency of occurrence of the word *in*) that explains more of the
@@ -751,7 +749,7 @@ bear in mind that the area plotted is always wider than it is tall, that
 is, that it displays greater variation between samples horizontally
 along the x-axis than it does vertically along the y-axis.
 
-Figure 0a plots the values for the first-recension *dicta*, the
+Figure 1 plots the values for the first-recension *dicta*, the
 second-recension *dicta*, the *dicta* from *de Penitentia*, the
 second-recension *dicta*, and (labelled Gratian1, dePen, and Gratian2
 respectively), as well as the means (indicated by the dashed lines), for
@@ -865,22 +863,22 @@ Gratian2:
 | et  |  -3.2375 |  -0.9786 |  1.0201 |  -0.0414 |
 | est |  -3.5264 |   0.4179 |  0.7233 |  -1.1412 |
 
-![Figure 0b updated 15 May 2020](PNGs/Figure_0b.png)
+![Figure 2 updated 15 May 2020](PNGs/Figure_0b.png)
 
-Labels on the axes of Figure 0b refer to standard deviations (values of
+Labels on the axes of Figure 2 refer to standard deviations (values of
 z) away from the mean of normalized frequencies (represented by the
 dashed lines).
 
-Figures 0a and 0b represent the axes as orthogonal (perpendicular) to
-one another. Although doing so is acceptable as a first-order
-approximation in a simplified representation of this kind, plotting the
-values along orthogonal axes invokes an implicit assumption that the
-word frequencies (in this case, of *in* and *non*) are completely
-independent of one another, i.e., that there is no correlation or
-covariance relationship between the words' frequency of occurrence in
-the samples. This is not necessarily the case, and an advanced
-technique, introduced below, called principal component analysis (PCA),
-handles this problem in a more mathematically sophisticated way.
+Figures 1 and 2 represent the axes as orthogonal (perpendicular) to one
+another. Although doing so is acceptable as a first-order approximation
+in a simplified representation of this kind, plotting the values along
+orthogonal axes invokes an implicit assumption that the word frequencies
+(in this case, of *in* and *non*) are completely independent of one
+another, i.e., that there is no correlation or covariance relationship
+between the words' frequency of occurrence in the samples. This is not
+necessarily the case, and an advanced technique, introduced below,
+called principal component analysis (PCA), handles this problem in a
+more mathematically sophisticated way.
 
 Now, we are obviously not going to make an attribution of authorship
 based on the frequencies of only two function words. Increasing the
@@ -927,9 +925,9 @@ word.[35] In other words, the theoretical Zipf distribution predicts
 that the frequency of the second most frequent word in a corpus of text
 should be one half that of the most frequent word, the frequency of the
 third most frequent word should be one third that of the most frequent
-word, and so on. (See Figure Za below.)
+word, and so on. (See Figure 3 below.)
 
-![Figure Za updated 27 May 2020](PNGs/Figure_Za.png)
+![Figure 3 updated 27 May 2020](PNGs/Figure_Za.png)
 
 Zipf tried several different approaches to the quantitative analysis of
 the distribution of words in corpora. His initial attempt, in 1935,
@@ -973,9 +971,9 @@ Zipf's final attempt, in 1949, to give a quantitative account of the
 distribution of words in a corpus characterized the distribution in
 terms of rank and frequency as r × f = C. Values for the constant C
 differ between corpora, depending, among other things, on corpus size.
-As an example, the theoretical Zipf distribution plotted in Figures Za
-and Zb has been scaled to facilitate direct comparison with actual data
-from Gratian's *dicta* plotted in Figures Zc and Zd. In all four plots,
+As an example, the theoretical Zipf distribution plotted in Figures 3
+and 4 has been scaled to facilitate direct comparison with actual data
+from Gratian's *dicta* plotted in Figures 5 and 6. In all four plots,
 the first data point has a rank of 1 and a frequency of 2187,
 corresponding to the 2,187 occurrences of the most frequent word *in* in
 the *dicta*. This scaling is equivalent to setting the value of C to
@@ -999,17 +997,17 @@ Similarly, in the equation r × f = C, the frequency *f* varies inversely
 as the rank *r* (as 1/r, or equivalently as *r* <sup>-1</sup>). The
 relationship of the logarithm of frequency to the logarithm of rank is
 linear, with a slope of -1 corresponding to the exponent (-1) of the
-rank. (See Figure Zb below.) Note that the base of the logarithms does
+rank. (See Figure 4 below.) Note that the base of the logarithms does
 not matter, as long as the bases are the same for both axes. Regardless
 of whether we take base *e* (natural) or base 10 logarithms of rank and
 frequency, for example, the slopes will be the same: -1.0 for the
-theoretical Zipf distribution of word frequencies in Figure Zb, and
+theoretical Zipf distribution of word frequencies in Figure 4, and
 -0.6518 for the actual frequencies of the thirty most frequent words in
-Gratian's *dicta* in Figure Zd.
+Gratian's *dicta* in Figure 6.
 
-![Figure Zb updated 27 May 2020](PNGs/Figure_Zb.png)
+![Figure 4 updated 27 May 2020](PNGs/Figure_Zb.png)
 
-Figure Zc below plots the actual rank-frequency distribution of the
+Figure 5 below plots the actual rank-frequency distribution of the
 thirty most frequent words (MFWs) in Gratian's *dicta*: *in* (2187),
 *et* (1968), *non* (1960), *est* (1327), *de* (925), *quod* (888), *ad*
 (832), *qui* (812), *sed* (736), *unde* (732), *uel* (705), *si* (669),
@@ -1018,7 +1016,7 @@ thirty most frequent words (MFWs) in Gratian's *dicta*: *in* (2187),
 (391), *ait* (349), *esse* (339), *ergo* (338), *quia* (336), *item*
 (327), *per* (304), *nec* (293).
 
-![Figure Zc updated 27 May 2020](PNGs/Figure_Zc.png)
+![Figure 5 updated 27 May 2020](PNGs/Figure_Zc.png)
 
 Zipf used word frequencies hand-tabulated from James Joyce's *Ulysses*
 as the data set for his exploration of the rank-frequency relationship,
@@ -1033,41 +1031,15 @@ second most frequent word in Gratian's *dicta* is 0.8999 times that of
 predict; and the frequency of *non*, the third most frequent word, is
 0.8962 rather than 0.3333.
 
-Plotting the data from Figure Zc on logarithmic axes and performing
+Plotting the data from Figure 5 on logarithmic axes and performing
 least-squares linear regression analysis lets us calculate the slope,
 -0.6518, for the rank-frequency tail-off of the thirty most frequent
-words from Gratian's *dicta*.[40] (See Figure Zd below.) Transposing
-that result back into the linear (as opposed to logarithmic) frame of
-reference used in Figure Zc, the expression 1/r <sup>0.6518</sup> yields
+words from Gratian's *dicta*.[40] (See Figure 6 below.) Transposing that
+result back into the linear (as opposed to logarithmic) frame of
+reference used in Figure 5, the expression 1/r <sup>0.6518</sup> yields
 a better (though not perfect) fit to the actual rank-frequency data.
 
-![Figure Zd updated 27 May 2020](PNGs/Figure_Zd.png)
-
-<!--
-
-### Zipf's law (appendix)
-
-![Figure Ze updated 27 May 2020](PNGs/Figure_Ze.png)
-
-![Figure Zy updated 27 May 2020](PNGs/Figure_Zy.png)
-
-![Figure Zz updated 27 May 2020[^z]](PNGs/Figure_Zz.png)
-
-[^z]: The vertical bands toward the upper-left hand corner of the
-plot - which also appear in Zipf's 1935 figures - require some
-interpretation. There can be a range of values for numbers of
-occurrence (b) for which only one value for number of words (a) has
-that number of occurrence. There are 62 cases in the *dicta* from
-Gratian's *Decretum* in which only a single word (a = 1) has a given
-number of occurrences (b). For example, only one word, *potest*,
-has 143 occurrences, and only one word, *in*, has 2,187 occurrences.
-The upper-left-most vertical band represents all 62 of the words
-for which only a single word (a = 1) has a particular value for the
-number of occurrences (b). Similarly, the next vertical band to the
-right represents all of the words for which only two words (a = 2)
-have particular values for the number of occurrences (b).
-
-  -->
+![Figure 6 updated 27 May 2020](PNGs/Figure_Zd.png)
 
 ### Burrows's Delta
 
@@ -1442,18 +1414,18 @@ all dimensions to a single metric.[45]
 
 PCA first combines as many of the raw dimensions as possible into
 synthetic components on the basis of strong correlations, either
-positive or negative. For example, referring back to Figures 0a and 0b
-in the two-dimensional visualization section above, the two dimensions
-of the plot could be collapsed into a single axis or component that can
-be thought of as representing the frequency with which *in* does, and
-*non* does *not*, occur in a given sample. The effect would be to
-reconfigure the plots in such a way that the samples representing the
-*dicta* from *de Penitentia* (dePen), the first-recension *dicta*
-(Gratian1), and the second-recension *dicta* (Gratian2) would be placed
-from left to right along a single horizontal axis. PCA then displays the
-two components that contribute the most to the total variation between
-the samples, and graphically arranges the samples according to their
-probability relative to those two components.[46]
+positive or negative. For example, referring back to Figures 1 and 2 in
+the two-dimensional visualization section above, the two dimensions of
+the plot could be collapsed into a single axis or component that can be
+thought of as representing the frequency with which *in* does, and *non*
+does *not*, occur in a given sample. The effect would be to reconfigure
+the plots in such a way that the samples representing the *dicta* from
+*de Penitentia* (dePen), the first-recension *dicta* (Gratian1), and the
+second-recension *dicta* (Gratian2) would be placed from left to right
+along a single horizontal axis. PCA then displays the two components
+that contribute the most to the total variation between the samples, and
+graphically arranges the samples according to their probability relative
+to those two components.[46]
 
 I used the Stylometry with R (stylo) package for computational text
 analysis developed by Maciej Eder, Jan Rybicki, and Mike Kestemont of
@@ -1475,7 +1447,7 @@ two-word sequence consisting of the word plus the pseudo-conjunction
 infrequently enough in the samples that they can be disregarded for the
 purpose of pseudo-conjunction mapping.
 
-Figure 1 below shows the PCA plot generated by a four-way comparison of
+Figure 7 below shows the PCA plot generated by a four-way comparison of
 the same samples used in the demonstration of Burrows's Delta in the
 previous section: the hypothetical case statements or *themata*
 (Gratian0)[51], the first-recension *dicta* excluding the *dicta* from
@@ -1506,12 +1478,12 @@ the next step is to take a look at which features produce that effect.
      [41]  ante     ne       inter    super    atque    dum      apud     postea
      [49]  ideo     propter  ecce     quomodo
 
-![Figure 1 updated 28 May 2020](JPGs/4-way_PCA_52_MFWs_001.jpg)
+![Figure 7 updated 28 May 2020](JPGs/4-way_PCA_52_MFWs_001.jpg)
 
 Turning on the stylo feature loadings option lets us see how strongly
 particular words influence the placement of text samples along the PC1
 and PC2 axes; this is called the feature's discriminative strength. (See
-Figure 2 below.) For example, *sed* and *non* are located toward the
+Figure 8 below.) For example, *sed* and *non* are located toward the
 right (positive) end of the PC1 axis, while *an* and *si* are located
 toward the left (negative) end of the PC1 axis. Similarly, *uel* and
 *uero* are located toward the upper (positive) end of the PC2 axis,
@@ -1521,11 +1493,11 @@ associated with the hypothetical case statements (*themata*), while
 *quomodo* is closely associated with the first- and second-recesion
 *dicta* from *de Penitentia*.
 
-![Figure 2 updated 22 Mar 2020](JPGs/4-way_PCA_52_MFWs_Loadings_001.jpg)
+![Figure 8 updated 22 Mar 2020](JPGs/4-way_PCA_52_MFWs_Loadings_001.jpg)
 
 In the initial function word counting experiment, *non*, the second most
 common word in the samples, was strongly associated with the
-first-recension *dicta*.[52] In Figure 2, *non* appears far to the
+first-recension *dicta*.[52] In Figure 8, *non* appears far to the
 right, and in fact the samples from the first-recension *dicta*, but not
 those from the second-recension *dicta*, tend to spread out to the
 right. Note however that *in*, the most common word in the samples, is
@@ -1536,7 +1508,7 @@ in the first-recension *dicta* rather than that it occurs more
 frequently in the second-recension *dicta*.
 
 The most visually striking feature of the function loadings plot in
-Figure 2 is the degree to which *an* and *si* cluster with the case
+Figure 8 is the degree to which *an* and *si* cluster with the case
 statements, *an* very strongly so, *si* somewhat less strongly. This
 makes intuitive sense because indirect questions dominate the language
 of the case statements. It is a question of genre. There are two
@@ -1602,7 +1574,7 @@ the hypothetical case statements or *themata* (Gratian0), the
 first-recension *dicta* excluding the *dicta* from *de Penitentia*
 (Gratian1), first- and second-recension *dicta* from *de Penitentia*
 (dePen), and the second-recension *dicta* excluding the *dicta* from *de
-Penitentia* (Gratian2). Figure 3 below shows the PCA plot generated by
+Penitentia* (Gratian2). Figure 9 below shows the PCA plot generated by
 comparing the four samples using the 51 most frequent words on our
 function word list instead of the 52 most frequent words, having
 commented out *an*. Even without *an*, PC1 still explains 9.7% of the
@@ -1624,7 +1596,7 @@ quite striking.
      [41]  ne       inter    super    atque    dum      apud     postea   ideo
      [49]  propter  ecce     quomodo
 
-![Figure 3 updated 2 Jul 2020](JPGs/4-way_PCA_51_MFWs_001.jpg)
+![Figure 9 updated 2 Jul 2020](JPGs/4-way_PCA_51_MFWs_001.jpg)
 
 <!-- /Users/ple/Work/PCA/JPGs/4-way_PCA_51_MFWs_001.jpg -->
 <!-- Revised and updated down to here!!! -->
@@ -1639,8 +1611,6 @@ about Gratian's *Decretum*, but is very experienced in the use of
 stylometry with the plays of Shakespeare, was somewhat optimistic on the
 basis of this evidence that the first- and second-recension *dicta*
 might be statistically distinguishable.
-
-![Figure 7 updated 19 Mar 2020](JPGs/2-way_PCA_53_MFWs_001.jpg)
 
 So, in an attempt to take a closer look at the *dicta* by themselves, I
 removed the case statements and ran a two-way comparison of 1000-word
@@ -1845,7 +1815,7 @@ close analog to the Excel spreadsheets that were such a ubiquitous
 feature of John Burrows's and David Hoover's early experiments in
 stylometry.
 
-[33] The actual generation of Figure 0a was deferred until after the
+[33] The actual generation of Figure 1 was deferred until after the
 sample standard deviations for *in* and *non* per 1,000 words had been
 calculated below. Framing the dimensions of the plot to twice the
 standard deviation from the mean along both axes improves graphical
