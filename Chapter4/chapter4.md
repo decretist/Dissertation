@@ -1756,19 +1756,26 @@ the right of the PC1 axis, the two sets of samples are not separated
 as cleanly as we'd like to see, and certainly nowhere near as cleanly
 as the case statements were from the *dicta*.
 
-![Figure 8 updated 19 Mar 2020](JPGs/4-way_PCA_49_MFWs_001.jpg)
+<!--
 
-<!-- /Users/ple/Work/Gratian/stylometry/n-way/4-way_PCA_49_MFWs_001.jpg -->
+In both the 2015 and 2016 versions of the original presentation,
+all of the stylo plots up to this point excluded the first-recension
+*dicta* from *de Pen*. A stylo plot including the *de Pen*. sample,
+with somewhat lower values of PC1 and PC2, was therefore introduced
+here for completeness.
 
-All of the slides we've seen so far exclude the *dicta* from *de
-Penitentia*, so before moving on to my conclusion, I do want to
-quickly show you what the results look like when we include the
-first-recension *dicta* from *de Pen.* (there are not enough words
-in the second-recension *dicta* in *de Pen.* to be statistically
-significant---9,525 vs. 556). Many scholars have observed that
-*dicta* and canons are poorly separated in *de Pen.* I believe that
-the unusual dispersion of the samples that you see in this plot is
-a result of that feature.
+Since in order to be consistent with the 2-dimensional visualization,
+Zipf's law, and Burrows's Delta presentations, all of the stylo
+plots in Chapter 4 thus far have included the first-recension *dicta
+from *de Pen*., it is not necessary to make a special point of doing
+so here.
+
+If time permits, it might be useful to generate a stylo plot
+*excluding* the first-recension *dicta from *de Pen*. and insert
+it here, to show that the values of PC1 and PC2 are greater without
+than with the *de Pen*. sample.
+
+  -->
 
 ## Conclusion
 
