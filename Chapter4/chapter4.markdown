@@ -103,23 +103,38 @@ firm conclusions."
 
   -->
 
+Stylometric analysis of the frequencies of common words for the purpose
+of attributing authorship has had a number of notable successes. The
+validity of this approach for textual scholarship was firmly established
+by the work on the *Federalist Papers* by Frederick Mosteller and David
+L. Wallace. The authorship of 12 of the *Federalist Papers*, 49-57 and
+62-63, had been disputed since the early 19th century, with competing
+claims advanced on behalf of Alexander Hamilton and James Madison.[4] In
+1944, Douglass Adair, using traditional scholarly methods, settled the
+dispute largely to the satisfaction of early American historians,
+determining that Madison was the author of all 12 of the disputed
+numbers.[5] In 1964, Mosteller and Wallace confirmed Adair's findings by
+conducting a stylometric analysis of the frequencies of 70 function
+words to compare the 12 disputed numbers with numbers securely
+attributed to Hamilton and Madison.[6]
+
 Historians and literary scholars have long (if imprecise) memories about
 poorly-conceived attempts at authorship attribution. Tony Honoré's
 *Ulpian* (1982) was reviewed harshly for its misuse of stylometric
-analysis for authorship attribution.[4] Honoré generated lists of what
+analysis for authorship attribution.[7] Honoré generated lists of what
 would now be called Most Distinctive Words (MDWs) and Statistically
 Improbable Phrases (SIPs) from a concordance of the works of Ulpian and
 used them to attempt to periodize and to determine authorship of texts
 attributed to Ulpian. Frier correctly criticizes Honoré's method as
 fundamentally misguided because it "is built entirely on the occurrence
-of unusual words."[5] As the previous section made clear, stylometric
+of unusual words."[8] As the previous section made clear, stylometric
 analysis for the purpose of authorship attribution relies on extremely
 common rather than unusual words.
 
 Sometimes, failure is mostly in the eye of the beholder. A recent essay
-by A.S.G. Edwards in *The Times Literary Supplement (TLS)*[6] appears to
+by A.S.G. Edwards in *The Times Literary Supplement (TLS)*[9] appears to
 refer to an attempt by R.A. Cooper and D.A. Pearsall to attribute
-authorship of the Gawain Poems.[7]
+authorship of the Gawain Poems.[10]
 
 Cooper and Pearsall conclude that the stylometric evidence they evaluate
 is consistent with common authorship for the four poems preserved in
@@ -140,15 +155,12 @@ would be criticized today for using the frequencies of only 11 function
 words as the basis for a stylometric analysis for authorship
 attribution. (John Burrows and David Hoover in a series of papers
 starting in 2000 established 30 words as a best-practice minimum for
-this kind of word frequency analysis.)
+this kind of word frequency analysis.) There appears, however, to be no
+deficiency in Cooper and Persall's work that would justify Edwards's
+sweeping dismissal other than an intense hostility to computational
+methods and a wish to restore "connoisseurship" as the principal
+foundation of textual studies.
 
-<!--
-
-Nothing, however, to justify Edwards's sweeping dismissal other
-than an intense hostility to computational methods and a wish to
-restore connoisseurship as the basis for textual studies.
-
-  -->
 <!--
 
 Google Scholar indicates that the Cooper and Pearsall article has
@@ -164,7 +176,7 @@ Finally, some successes might as well be failures. Patrick Juola's
 successful, methodologically rigorous, attribution of *The Cuckoo's
 Calling*, a 2013 crime fiction novel, to J.K. Rowling of *Harry Potter*
 fame, was quickly forgotten because the author and text in question were
-uninteresting to literary academia.[8]
+uninteresting to literary academia.[11]
 
 ------------------------------------------------------------------------
 
@@ -200,30 +212,16 @@ putative author. Furthermore, Ziolkowski's negative attribution was made
 on the basis of function words drawn from discontinuous and relatively
 small samples of medieval Latin.
 
-In keeping with the previous emails in this series, I'll note that
-Google Scholar shows that Ziolkowski's article has been cited 23 times,
-considerably less than Ken's "Bartolomeo de las Casas and the Tradition
-of Medieval Law," but better than the Cooper and Pearsall paper on
-Gawain that started this conversation.
+<!--
+
+Google Scholar shows that Ziolkowski's article has been cited 23
+times, considerably fewer than Pennington's "Bartolomeo de las Casas
+and the Tradition of Medieval Law," but more than Cooper and Pearsall
+Gawain article.
+
+  -->
 
 ------------------------------------------------------------------------
-
-### The Federalist (Hamilton and Madison)
-
-Stylometric analysis of the frequencies of common words for the purpose
-of attributing authorship has had a number of notable successes. The
-validity of this approach for textual scholarship was firmly established
-by the work on the *Federalist Papers* by Frederick Mosteller and David
-L. Wallace. The authorship of 12 of the *Federalist Papers*, 49-57 and
-62-63, had been disputed since the early 19th century, with competing
-claims advanced on behalf of Alexander Hamilton and James Madison.[9] In
-1944, Douglass Adair, using traditional scholarly methods, settled the
-dispute largely to the satisfaction of early American historians,
-determining that Madison was the author of all 12 of the disputed
-numbers.[10] In 1964, Mosteller and Wallace confirmed Adair's findings
-by conducting a stylometric analysis of the frequencies of 70 function
-words to compare the 12 disputed numbers with numbers securely
-attributed to Hamilton and Madison.[11]
 
 ### Definition of first- and second-recension *dicta*
 
@@ -1670,36 +1668,36 @@ Magic to Theory?” in *Proceedings of the 3rd Workshop on Computational
 Linguistics for Literature (CLfL)* (Gothenburg, Sweden: Association for
 Computational Linguistics, 2014), 59–66.
 
-[4] Tony Honoré, *Ulpian* (Oxford : New York: Clarendon Press ; Oxford
-University Press, 1982); Bruce W. Frier, “Law on the Installment Plan,”
-*Michigan Law Review* 82, no. 4 (February 1984): 856–68. Thanks to John
-Noël Dillon for bringing Frier's review to my attention.
-
-[5] Frier, “Law on the Installment Plan,” 862.
-
-[6] A. S. G. Edwards, “Go Little Books: More Problems of Early Modern
-Attribution,” *TLS. Times Literary Supplement*, no. 6118 (2020): 9.
-
-[7] R. A. Cooper and D. A. Pearsall, “The Gawain Poems: A Statistical
-Approach to the Question of Common Authorship,” *The Review of English
-Studies* 39, no. 155 (1988): 365–85.
-
-[8] Patrick Juola, "The Rowling Case: A Proposed Standard Analytic
-Protocol for Authorship Questions", *Digital Scholarship in the
-Humanities*, Vol. 30, Supplement 1, 2015.
-
-[9] Frederick Mosteller and David L. Wallace, *Inference and Disputed
+[4] Frederick Mosteller and David L. Wallace, *Inference and Disputed
 Authorship: The Federalist*, Addison-Wesley Series in Behavioral
 Science: Quantitative Methods (Reading, Mass: Addison-Wesley Pub. Co,
 1964), 14. See also Douglass Adair, “The Authorship of the Disputed
 Federalist Papers,” *The William and Mary Quarterly* 1, no. 2 (1944):
 104.
 
-[10] Adair, “The Authorship of the Disputed Federalist Papers” and
+[5] Adair, “The Authorship of the Disputed Federalist Papers” and
 Douglass Adair, “The Authorship of the Disputed Federalist Papers: Part
 II,” *The William and Mary Quarterly* 1, no. 3 (1944): 235–64.
 
-[11] Mosteller and Wallace, *Inference and Disputed Authorship*.
+[6] Mosteller and Wallace, *Inference and Disputed Authorship*.
+
+[7] Tony Honoré, *Ulpian* (Oxford : New York: Clarendon Press ; Oxford
+University Press, 1982); Bruce W. Frier, “Law on the Installment Plan,”
+*Michigan Law Review* 82, no. 4 (February 1984): 856–68. Thanks to John
+Noël Dillon for bringing Frier's review to my attention.
+
+[8] Frier, “Law on the Installment Plan,” 862.
+
+[9] A. S. G. Edwards, “Go Little Books: More Problems of Early Modern
+Attribution,” *TLS. Times Literary Supplement*, no. 6118 (2020): 9.
+
+[10] R. A. Cooper and D. A. Pearsall, “The Gawain Poems: A Statistical
+Approach to the Question of Common Authorship,” *The Review of English
+Studies* 39, no. 155 (1988): 365–85.
+
+[11] Patrick Juola, "The Rowling Case: A Proposed Standard Analytic
+Protocol for Authorship Questions", *Digital Scholarship in the
+Humanities*, Vol. 30, Supplement 1, 2015.
 
 [12] Anders Winroth, *The Making of Gratian’s Decretum* (Cambridge:
 Cambridge University Press, 2000), 197–227.

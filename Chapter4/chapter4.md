@@ -114,10 +114,26 @@ firm conclusions."
 
   -->
 
+Stylometric analysis of the frequencies of common words for the
+purpose of attributing authorship has had a number of notable
+successes. The validity of this approach for textual scholarship
+was firmly established by the work on the *Federalist Papers*
+by Frederick Mosteller and David L. Wallace. The authorship of 12 of the
+*Federalist Papers*, 49-57 and 62-63, had been disputed since the
+early 19th century, with competing claims advanced on behalf of
+Alexander Hamilton and James Madison.[^4] In 1944, Douglass Adair,
+using traditional scholarly methods, settled the dispute largely
+to the satisfaction of early American historians, determining that
+Madison was the author of all 12 of the disputed numbers.[^5] In
+1964, Mosteller and Wallace confirmed Adair's findings by conducting
+a stylometric analysis of the frequencies of 70 function words to
+compare the 12 disputed numbers with numbers securely attributed
+to Hamilton and Madison.[@mosteller_inference_1964]
+
 Historians and literary scholars have long (if imprecise) memories
 about poorly-conceived attempts at authorship attribution. Tony
 Honoré's *Ulpian* (1982) was reviewed harshly for its misuse of
-stylometric analysis for authorship attribution.[^4] Honoré
+stylometric analysis for authorship attribution.[^7] Honoré
 generated lists of what would now be called Most Distinctive Words
 (MDWs) and Statistically Improbable Phrases (SIPs) from a concordance
 of the works of Ulpian and used them to attempt to periodize and
@@ -155,14 +171,10 @@ frequencies of only 11 function words as the basis for a stylometric
 analysis for authorship attribution. (John Burrows and David Hoover
 in a series of papers starting in 2000 established 30 words as a
 best-practice minimum for this kind of word frequency analysis.)
-
-<!--
-
-Nothing, however, to justify Edwards's sweeping dismissal other
-than an intense hostility to computational methods and a wish to
-restore connoisseurship as the basis for textual studies.
-
-  -->
+There appears, however, to be no deficiency in Cooper and Persall's
+work that would justify Edwards's sweeping dismissal other than an
+intense hostility to computational methods and a wish to restore
+"connoisseurship" as the principal foundation of textual studies.
 
 <!--
 
@@ -179,7 +191,7 @@ Finally, some successes might as well be failures. Patrick Juola's
 successful, methodologically rigorous, attribution of *The Cuckoo's
 Calling*, a 2013 crime fiction novel, to J.K. Rowling of *Harry
 Potter* fame, was quickly forgotten because the author and text in
-question were uninteresting to literary academia.[^5]
+question were uninteresting to literary academia.[^11]
 
 ---
 
@@ -215,31 +227,16 @@ by the putative author. Furthermore, Ziolkowski's negative attribution
 was made on the basis of function words drawn from discontinuous
 and relatively small samples of medieval Latin.
 
-In keeping with the previous emails in this series, I'll note that
+<!--
+
 Google Scholar shows that Ziolkowski's article has been cited 23
-times, considerably less than Ken's "Bartolomeo de las Casas and
-the Tradition of Medieval Law," but better than the Cooper and
-Pearsall paper on Gawain that started this conversation.
+times, considerably fewer than Pennington's "Bartolomeo de las Casas
+and the Tradition of Medieval Law," but more than Cooper and Pearsall
+Gawain article.
+
+  -->
 
 ---
-
-### The Federalist (Hamilton and Madison)
-
-Stylometric analysis of the frequencies of common words for the
-purpose of attributing authorship has had a number of notable
-successes. The validity of this approach for textual scholarship
-was firmly established by the work on the *Federalist Papers*
-by Frederick Mosteller and David L. Wallace. The authorship of 12 of the
-*Federalist Papers*, 49-57 and 62-63, had been disputed since the
-early 19th century, with competing claims advanced on behalf of
-Alexander Hamilton and James Madison.[^8] In 1944, Douglass Adair,
-using traditional scholarly methods, settled the dispute largely
-to the satisfaction of early American historians, determining that
-Madison was the author of all 12 of the disputed numbers.[^9] In
-1964, Mosteller and Wallace confirmed Adair's findings by conducting
-a stylometric analysis of the frequencies of 70 function words to
-compare the 12 disputed numbers with numbers securely attributed
-to Hamilton and Madison.[@mosteller_inference_1964]
 
 ### Definition of first- and second-recension *dicta*
 
@@ -1755,16 +1752,16 @@ also suggests (less strongly) that the first- and second-recension
 *dicta* were not the work of either one or two authors, but are
 more likely to have been the product of collaborative authorship.
 
-[^4]: @honore_ulpian_1982; @frier_law_1984. Thanks to John Noël
+[^4]: @mosteller_inference_1964 [14]. See also @adair_authorship_1944a [104].
+
+[^5]: @adair_authorship_1944a and @adair_authorship_1944b.
+
+[^7]: @honore_ulpian_1982; @frier_law_1984. Thanks to John Noël
 Dillon for bringing Frier's review to my attention.
 
-[^5]: Patrick Juola, "The Rowling Case: A Proposed Standard
+[^11]: Patrick Juola, "The Rowling Case: A Proposed Standard
 Analytic Protocol for Authorship Questions", *Digital Scholarship
 in the Humanities*, Vol. 30, Supplement 1, 2015.
-
-[^8]: @mosteller_inference_1964 [14]. See also @adair_authorship_1944a [104].
-
-[^9]: @adair_authorship_1944a and @adair_authorship_1944b.
 
 [^13]: @winroth_making_2000 [201]. The numbers 1 and 2 refer to line
 numbers relative to the first line of the *dictum*, as opposed to
