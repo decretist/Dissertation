@@ -114,74 +114,109 @@ firm conclusions."
 
   -->
 
-Stylometric analysis of the frequencies of common words for the
-purpose of attributing authorship has had a number of notable
+Stylometric analysis of the frequencies of common function words
+for the purpose of attributing authorship has had a number of notable
 successes. The validity of this approach for textual scholarship
-was firmly established by the work on the *Federalist Papers*
-by Frederick Mosteller and David L. Wallace. The authorship of 12 of the
-*Federalist Papers*, 49-57 and 62-63, had been disputed since the
-early 19th century, with competing claims advanced on behalf of
-Alexander Hamilton and James Madison.[^4] In 1944, Douglass Adair,
-using traditional scholarly methods, settled the dispute largely
-to the satisfaction of early American historians, determining that
-Madison was the author of all 12 of the disputed numbers.[^5] In
-1964, Mosteller and Wallace confirmed Adair's findings by conducting
-a stylometric analysis of the frequencies of 70 function words to
-compare the 12 disputed numbers with numbers securely attributed
-to Hamilton and Madison.[@mosteller_inference_1964]
+was firmly established by the work on the *Federalist Papers* by
+Frederick Mosteller and David L. Wallace. The authorship of 12 of
+the *Federalist Papers*, 49-57 and 62-63, had been disputed since
+the early 19th century, with competing claims advanced on behalf
+of Alexander Hamilton and James Madison.[^4] In 1944, Douglass
+Adair, using traditional scholarly methods, settled the dispute
+largely to the satisfaction of early American historians, determining
+that Madison was the author of all 12 of the disputed numbers.[^5]
+In 1964, Mosteller and Wallace confirmed Adair's findings by
+conducting a stylometric analysis of the frequencies of 70 function
+words to compare the 12 disputed numbers with numbers securely
+attributed to Hamilton and Madison.[@mosteller_inference_1964]
+
+Stylometric analysis for the purpose of authorship attribution is
+applicable regardless of language and has been applied successfully
+to medieval Latin texts. Constant Mews attributed a set of Latin
+love letters between an anonymous man and woman (*Vir* and *Mulier*
+or just V. and M.), extant in a single manuscript that was copied
+c.1470 under the title *Ex epistolis duorum amantium* (EDA), to
+Abelard and Heloise.[@mews_lost_1999] Jan Ziolkowski, however,
+contested Mews's attribution, partially on stylometric
+grounds.[@ziolkowski_lost_2004] The stylometric component of
+Ziolkowski's argument consists of a comparison of the relative
+frequencies of the function words *autem*, *igitur*, *ergo*,
+*ita(que)*, *quia*, and *quippe* as they appear in *Historia
+Calamitatum*, Letters 3 and 5, and the letters attributed to *Vir*
+in the EDA collection. There are two aspects of Ziolkowski's rebuttal
+to Mews's attribution that make it a useful precedent for the work
+presented in this dissertation. First, it is a negative attribution:
+like my finding that the case statements in the *Decretum* were not
+written by author(s) of the *dicta*, Ziolkowski argued that the
+letters in the EDA collection were not written by their putative
+authors. Second, Ziolkowski's negative attribution was made on the
+basis of function words drawn from discontinuous and relatively
+small samples of medieval Latin. Ziolkowski's argument would have
+been stronger had he used a larger number of function words as the
+basis for stylometric analysis. (John Burrows and David Hoover in
+a series of papers starting in 2000 established 30 words as a
+best-practice minimum for this kind of word frequency analysis.)
+Nevertheless, Ziolkowski's argument that Abelard and Heloise did
+not write the letters in the EDA collection has largely carried the
+day.
+
+<!--
+
+Google Scholar reports that Ziolkowski's article has been cited 23
+times, considerably fewer than Pennington's "Bartolomeo de las Casas
+and the Tradition of Medieval Law," but more than Cooper and Pearsall
+Gawain article.
+
+  -->
 
 Historians and literary scholars have long (if imprecise) memories
-about poorly-conceived attempts at authorship attribution. Tony
-Honoré's *Ulpian* (1982) was reviewed harshly for its misuse of
-stylometric analysis for authorship attribution.[^7] Honoré
-generated lists of what would now be called Most Distinctive Words
-(MDWs) and Statistically Improbable Phrases (SIPs) from a concordance
-of the works of Ulpian and used them to attempt to periodize and
-to determine authorship of texts attributed to Ulpian. Frier
-correctly criticizes Honoré's method as fundamentally misguided
-because it "is built entirely on the occurrence of unusual
-words."[@frier_law_1984, 862] As the previous section made clear,
-stylometric analysis for the purpose of authorship attribution
-relies on extremely common rather than unusual words.
+about poorly-conceived attempts at authorship attribution. Bruce
+Frier reviewed Tony Honoré's *Ulpian* harshly for its misuse of
+stylometric analysis for authorship attribution.[^7] Honoré generated
+lists of what would now be called Most Distinctive Words (MDWs) and
+Statistically Improbable Phrases (SIPs) from a concordance of the
+works of Ulpian and used them to attempt to periodize and to determine
+authorship of texts attributed to Ulpian. Frier correctly criticizes
+Honoré's method as fundamentally misguided because it "is built
+entirely on the occurrence of unusual words."[@frier_law_1984, 862]
+As the previous section made clear, stylometric analysis for the
+purpose of authorship attribution relies on extremely common rather
+than unusual words.
 
 Sometimes, failure is mostly in the eye of the beholder. A recent
 essay by A.S.G. Edwards in *The Times Literary Supplement
 (TLS)*[@edwards_go_2020] appears to refer to an attempt by R.A.
 Cooper and D.A. Pearsall to attribute authorship of the Gawain
-Poems.[@cooper_gawain_1988]
-
-Cooper and Pearsall conclude that the stylometric evidence they
-evaluate is consistent with common authorship for the four poems
-preserved in British Library MS Cotton Nero A.x (*Sir Gawain and
-the Green Knight*, *Pearl*, *Patience*, and *Cleanness*). Some of
-the stylometric measures they employ are only relevant to poetry,
-focusing specifically on the alliterative features of the texts.
-Cooper and Pearsall also analyze the frequencies of 11 function
-words, distinguishing between words occurring at the beginning of
-a line and words occurring in the middle of a line. An innovative
-feature of Cooper and Pearsall's work is their analysis of the
-co-occurrence of parts of speech (POSs) within lines, anticipating
-the technique of part of speech bigram and trigram analysis that
-is sometimes performed today when appropriately tagged electronic
-texts are available. (An example of part of speech bigram analysis
-would be to analyze the frequencies of occurrence of noun-adjective
-pairs versus adjective-noun pairs in Latin texts.) Cooper and
-Pearsall's 1988 article would be criticized today for using the
-frequencies of only 11 function words as the basis for a stylometric
-analysis for authorship attribution. (John Burrows and David Hoover
-in a series of papers starting in 2000 established 30 words as a
-best-practice minimum for this kind of word frequency analysis.)
-There appears, however, to be no deficiency in Cooper and Persall's
-work that would justify Edwards's sweeping dismissal other than an
-intense hostility to computational methods and a wish to restore
-"connoisseurship" as the principal foundation of textual studies.
+Poems.[@cooper_gawain_1988] Cooper and Pearsall conclude that the
+stylometric evidence they evaluate is consistent with common
+authorship for the four poems preserved in British Library MS Cotton
+Nero A.x (*Sir Gawain and the Green Knight*, *Pearl*, *Patience*,
+and *Cleanness*). Some of the stylometric measures they employ are
+only relevant to poetry, focusing specifically on the alliterative
+features of the texts. Cooper and Pearsall also analyze the frequencies
+of 11 function words, distinguishing between words occurring at the
+beginning of a line and words occurring in the middle of a line.
+An innovative feature of Cooper and Pearsall's work is their analysis
+of the co-occurrence of parts of speech (POSs) within lines,
+anticipating the technique of part of speech bigram and trigram
+analysis that is sometimes performed today when appropriately tagged
+electronic texts are available. (An example of part of speech bigram
+analysis would be to analyze the frequencies of occurrence of
+noun-adjective pairs versus adjective-noun pairs in Latin texts.)
+Cooper and Pearsall's 1988 article would be criticized today for
+using the frequencies of only 11 function words as the basis for a
+stylometric analysis for authorship attribution. There appears,
+however, to be no deficiency in Cooper and Persall's work that would
+justify Edwards's sweeping dismissal other than an intense hostility
+to computational methods and a wish to restore "connoisseurship"
+as the principal foundation of textual studies.
 
 <!--
 
-Google Scholar indicates that the Cooper and Pearsall article has
-12 citations as of August 2020, so it does not appear to have had
-much influence on the subsequent development of scholarship within
-its subfield. To put that number in context, Google Scholar indicates
+Google Scholar reports that the Cooper and Pearsall article has 12
+citations as of August 2020, so it does not appear to have had much
+influence on the subsequent development of scholarship within its
+subfield. To put that number in context, Google Scholar indicates
 that Pennington's "Bartolome de las Casas and the Tradition of
 Medieval Law" has 86 citations.
 
@@ -192,51 +227,6 @@ successful, methodologically rigorous, attribution of *The Cuckoo's
 Calling*, a 2013 crime fiction novel, to J.K. Rowling of *Harry
 Potter* fame, was quickly forgotten because the author and text in
 question were uninteresting to literary academia.[^11]
-
----
-
-This email is resumptive of our conversation of August 3 about
-recent attempts to apply stylometric methods to attribute medieval
-texts. Ken suggested citing attributions that have achieved some
-threshold of scholarly acceptance. Here's another one that I got
-from a conversation this week with Mike Kestemont, the University
-of Antwerp researcher whose work is a model for what I'm doing.
-
-The text is a set of Latin love letters between an anonymous man
-and woman (Vir and Mulier or just V. and M.), extant in a single
-manuscript that was copied c.1470 under the title Ex epistolis
-duorum amantium. Constant Mews in The Lost Love Letters of Heloise
-and Abelard (2001) attributed the letters to Abelard and Heloise.
-Jan Ziolkowski of Dumbarton Oaks contested Mews's attribution,
-partly on stylometric grounds, in:
-
-Ziolkowski, Jan M. "Lost and Not Yet Found: Heloise, Abelard, and
-the "Epistolae Duorum Amantium"." The Journal of Medieval Latin 14
-(2004): 171-202. (http://www.jstor.org/stable/45019598).
-
-The stylometric component of Ziolkowski's argument consists of a
-comparison of the relative frequencies of the function words autem,
-igitur, ergo, ita(que), quia, and quippe as they appear in Historia
-Calamitatum, Letters 3 and 5, and the letters attributed to Vir in
-the EDA collection. Ziolkowski's rebuttal to Mews's attribution is
-perhaps more relevant to my work than some of the other attributions
-we've discussed, in that it is a negative attribution. Like my claim
-that the case statements in the Decretum were not written by author(s)
-of the dicta, Ziolkowski is arguing that the texts were not written
-by the putative author. Furthermore, Ziolkowski's negative attribution
-was made on the basis of function words drawn from discontinuous
-and relatively small samples of medieval Latin.
-
-<!--
-
-Google Scholar shows that Ziolkowski's article has been cited 23
-times, considerably fewer than Pennington's "Bartolomeo de las Casas
-and the Tradition of Medieval Law," but more than Cooper and Pearsall
-Gawain article.
-
-  -->
-
----
 
 ### Definition of first- and second-recension *dicta*
 
@@ -1756,7 +1746,7 @@ more likely to have been the product of collaborative authorship.
 
 [^5]: @adair_authorship_1944a and @adair_authorship_1944b.
 
-[^7]: @honore_ulpian_1982; @frier_law_1984. Thanks to John Noël
+[^7]: @frier_law_1984; @honore_ulpian_1982. Thanks to John Noël
 Dillon for bringing Frier's review to my attention.
 
 [^11]: Patrick Juola, "The Rowling Case: A Proposed Standard

@@ -21,7 +21,7 @@ Reviewed by Stan Chodorow, 6 November 2017\
 Presentation and organization sections (pages 22-41) reviewed by Stan Chodorow, 31 July 2021
 - [Chapter 3: Authority, Author, Authorship](Chapter3/chapter3.markdown) (6 August 2021) 45 pages [(PDF)](Chapter3/chapter3.pdf)\
 Reviewed by Stan Chodorow, 29 July 2021
-- [Chapter 4: Stylometry](Chapter4/chapter4.markdown) (17 August 2021) 80 pages [(PDF)](Chapter4/chapter4.pdf)\
+- [Chapter 4: Stylometry](Chapter4/chapter4.markdown) (18 August 2021) 80 pages [(PDF)](Chapter4/chapter4.pdf)\
 Reviewed by Stan Chodorow, 12 July 2020\
 Reviewed by Mike Kestemont, 13 July 2021\
 The principal component analysis (PCA) section of chapter 4 was presented as:
@@ -35,7 +35,7 @@ The principal component analysis (PCA) section of chapter 4 was presented as:
   [(PDF)](Talks/ICMCL.pdf).
 - [Conclusion](Conclusion/conclusion.markdown) (25 July 2021) 12 pages\
 Rough draft
-- [Bibliography](bib/biblio.markdown) (31 July 2021) 13 pages [(PDF)](bib/biblio.pdf)
+- [Bibliography](bib/biblio.markdown) (19 August 2021) 13 pages [(PDF)](bib/biblio.pdf)
 
 ### Appendices
 

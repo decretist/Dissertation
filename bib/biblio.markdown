@@ -656,6 +656,14 @@ Gratiani*. Toronto: Pontifical Institute of Mediaeval Studies, 1952.
 
 </div>
 
+<div id="ref-mews_lost_1999" class="csl-entry">
+
+Mews, C. J. *The Lost Love Letters of Heloise and Abelard: Perceptions
+of Dialogue in Twelfth-Century France*. 1st ed. New Middle Ages. New
+York: St. Martin’s Press, 1999.
+
+</div>
+
 <div id="ref-minnis_medieval_1988" class="csl-entry">
 
 Minnis, A. J. *Medieval Theory of Authorship: Scholastic Literary
@@ -1075,6 +1083,14 @@ Zechiel-Eckes, Klaus. “Ein Blick in Pseudoisidors Werkstatt. Studien zum
 Entstehungsprozeß der falschen Dekretalen. Mit einem exemplarischen
 editorischen Anhang (Pseudo-Julius an die orientalischen Bischöfe, JK
 +196).” *Francia* 28, no. 1 (2001): 37–90.
+
+</div>
+
+<div id="ref-ziolkowski_lost_2004" class="csl-entry">
+
+Ziolkowski, Jan M. “Lost and Not Yet Found: Heloise, Abelard, and the
+Epistolae Duorum Amantium.” *The Journal of Medieval Latin* 14 (2004):
+171–202.
 
 </div>
 
