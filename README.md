@@ -21,14 +21,14 @@ Reviewed by Stan Chodorow, 6 November 2017\
 Presentation and organization sections (pages 22-41) reviewed by Stan Chodorow, 31 July 2021
 - [Chapter 3: Authority, Author, Authorship](Chapter3/chapter3.markdown) (6 August 2021) 45 pages [(PDF)](Chapter3/chapter3.pdf)\
 Reviewed by Stan Chodorow, 29 July 2021
-- [Chapter 4: Stylometry](Chapter4/chapter4.markdown) (18 August 2021) 80 pages [(PDF)](Chapter4/chapter4.pdf)\
+- [Chapter 4: Stylometry](Chapter4/chapter4.markdown) (19 August 2021) 80 pages [(PDF)](Chapter4/chapter4.pdf)\
 Reviewed by Stan Chodorow, 12 July 2020\
 Reviewed by Mike Kestemont, 13 July 2021\
 The principal component analysis (PCA) section of chapter 4 was presented as:
   - "Can Computational Linguistics Provide New Evidence about the
   Identity of Gratian 1 and Gratian 2?" at
   [*Rem non novam*](https://sites.google.com/site/remnonnovam/),
-  Yale Law School, 21 May 2015, and as:
+  Yale Law School, 21 May 2015 [(PDF)](Talks/Rem_Non_Novam.pdf), and as:
   - "New evidence for the authorship of case statements and *dicta*
   in Gratian's *Decretum*" at the
   15th International Congress of Medieval Canon Law, Paris, 20 July 2016
