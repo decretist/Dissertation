@@ -1585,6 +1585,31 @@ quite striking.
 ![Figure 9 updated 2 Jul 2020](JPGs/4-way_PCA_51_MFWs_001.jpg)
 
 <!-- /Users/ple/Work/PCA/JPGs/4-way_PCA_51_MFWs_001.jpg -->
+
+**The hypothetical case statements or *themata*, then, display both a
+very tight clustering and a clean separation from the other *dicta*. The
+results of principal component analysis are entirely consistent with the
+results of every other test, from the most naive to the most
+sophisticated, to which these samples have been subjected in this
+chapter and makes it highly likely that the case statements were written
+by a single author whose words appear nowhere else in the *Decretum*.**
+
+What further conclusions, if any, can be drawn from the results
+displayed in Figure 9? Besides the tight clustering and clean separation
+of the samples corresponding to the case statements, the most obvious
+feature of the plot is that all of the samples corresponding to the
+first-recension *dicta* from *de Penitentia* appear on the positive side
+of the PC2 axis, and almost all on negative side of the PC1 axis,
+corresponding to the upper-left quadrant. There is obviously a
+significant degree of clustering and separation of the samples
+corresponding to *de Penitentia* focused on the upper-left quadrant, but
+it is looser than that observed for the case statements and does not
+admit of as clearcut an interpretation. At minimum, however, it can be
+said that the results of principal component analysis of are not
+consistent with there having been a single author who wrote the
+first-recension *dicta* for both *de Penitentia* and the rest of the
+*Decretum*.
+
 <!-- Revised and updated down to here!!! -->
 
 ------------------------------------------------------------------------
