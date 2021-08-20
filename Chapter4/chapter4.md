@@ -1710,52 +1710,45 @@ component analysis of are not consistent with there having been a
 single author who wrote the first-recension *dicta* for both *de
 Penitentia* and the rest of the *Decretum*.
 
-<!-- Revised and updated down to here!!! -->
+In the 2015 and 2016 conference presentations on which this chapter
+is based, all except the last of the stylo plots excluded the
+first-recension *dicta* from *de Penitentia*. A stylo plot including
+the *de Penitentia* sample, with somewhat lower values of PC1 and
+PC2, was therefore introduced at the end of the presentation for
+completeness. Since in order to be consistent with the 2-dimensional
+visualization, Zipf's law, and Burrows's Delta discussions, all of
+the stylo plots in Chapter 4 thus far have included the first-recension
+*dicta* from *de Penitentia*, inverting the logical flow of the
+original presentations. It is therefore appropriate to close Chapter
+4 with a discussion of a stylo plot *excluding* the first-recension
+*dicta* from *de Penitentia*. (See Figure 10 below.)
 
----
+Quite early on in my research, I observed that including the *dicta*
+from *de Penitentia* had the effect of decreasing the width of the
+horizontal PC1 axis. The *dicta* from *de Penitentia* also displayed
+a marked tendency to spread out away from the other *dicta* along
+the vertical PC2 axis, a tendency strongly correlated to the frequency
+of occurrence of the word *quomodo*, which occurs far more frequently
+in the *dicta* from *de Penitentia* than in either the first- or
+second-recension *dicta*. (See Figure 8 above; *quomodo* is near
+the center of the hozontal PC1 axis, but is the furthest word from
+the origin in the negative [down] direction along the vertical PC2
+axis.)
 
-To turn to the other interesting aspect of the three-way comparison,
-you'll note that the second-recension *dicta* in blue cluster
-strongly to the upper-left quadrant. Now, Mike Witmore, a member
-of my dissertation committee who isn't an insider with respect to
-debates about Gratian's *Decretum*, but is very experienced in the
-use of stylometry with the plays of Shakespeare, was somewhat
-optimistic on the basis of this evidence that the first- and
-second-recension *dicta* might be statistically distinguishable.
+```
+------------------------------------------------
+features (e.g. frequent words) actually analyzed
+------------------------------------------------
 
-So, in an attempt to take a closer look at the *dicta* by themselves,
-I removed the case statements and ran a two-way comparison of
-1000-word samples of just the first- and second-recension *dicta*,
-again, excluding the *dicta* from *de Penitentia*. (Stylo changes
-the color assignments depending on the number of samples, so in
-this plot the first-recension *dicta* are red and the second-recension
-*dicta* are green.) And the results are ambiguous. The PC1 axis is
-9%, somewhat under the 10% threshold we would like to see. Also,
-although we see the second-recension *dicta* clustering mostly to
-the right of the PC1 axis, the two sets of samples are not separated
-as cleanly as we'd like to see, and certainly nowhere near as cleanly
-as the case statements were from the *dicta*.
-
-<!--
-
-In both the 2015 and 2016 versions of the original presentation,
-all of the stylo plots up to this point excluded the first-recension
-*dicta* from *de Pen*. A stylo plot including the *de Pen*. sample,
-with somewhat lower values of PC1 and PC2, was therefore introduced
-here for completeness.
-
-Since in order to be consistent with the 2-dimensional visualization,
-Zipf's law, and Burrows's Delta presentations, all of the stylo
-plots in Chapter 4 thus far have included the first-recension *dicta
-from *de Pen*., it is not necessary to make a special point of doing
-so here.
-
-If time permits, it might be useful to generate a stylo plot
-*excluding* the first-recension *dicta from *de Pen*. and insert
-it here, to show that the values of PC1 and PC2 are greater without
-than with the *de Pen*. sample.
-
-  -->
+  [1]  in       et       non      quod     de       ad       unde     uel
+  [9]  sed      si       ut       cum      autem    a        ex       uero
+ [17]  ab       enim     etiam    quia     item     ergo     nec      per
+ [25]  sicut    ita      nisi     tamen    pro      quam     sic      quo
+ [33]  licet    post     sine     aut      contra   siue     inter    ne
+ [41]  quoque   ante     super    atque    dum      ideo     apud     ecce
+ [49]  propter  supra
+```
+![Figure 10 updated  20 August 2021](JPGs/3-way_PCA_50_MFWs_001.jpg)
 
 ## Conclusion
 

@@ -21,7 +21,7 @@ Reviewed by Stan Chodorow, 6 November 2017\
 Presentation and organization sections (pages 22-41) reviewed by Stan Chodorow, 31 July 2021
 - [Chapter 3: Authority, Author, Authorship](Chapter3/chapter3.markdown) (6 August 2021) 45 pages [(PDF)](Chapter3/chapter3.pdf)\
 Reviewed by Stan Chodorow, 29 July 2021
-- [Chapter 4: Stylometry](Chapter4/chapter4.markdown) (20 August 2021) 80 pages [(PDF)](Chapter4/chapter4.pdf)\
+- [Chapter 4: Stylometry](Chapter4/chapter4.markdown) (20 August 2021) 82 pages [(PDF)](Chapter4/chapter4.pdf)\
 Reviewed by Stan Chodorow, 12 July 2020\
 Reviewed by Mike Kestemont, 13 July 2021\
 The principal component analysis (PCA) section of chapter 4 was presented as:
