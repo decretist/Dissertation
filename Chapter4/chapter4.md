@@ -1927,13 +1927,18 @@ for the purpose of authorship attribution, see @evert_understanding_2017.
 
 [^41]: *de Penitentia* D.1 c.88 (R1), D.3 c.42 (R1), D.3 c.49 (R1),
 D.5 c.1 (R1), D.6 c.1 (R1), and D.7 c.6 (R1). These seven extended
-passages average 554.4 words in length. **See edF 1.XXXV, for a
-complete list of passages from *De vera et falsa penitentia* quoted
-in the *Decretum*. Explain rationale for omitting certain passages:
-D.25 c.5 (R2 or Palea), *de Penitentia* D.3 c.4.5 (what Friedberg
-means by 4.5 in this context is unclear), D.3 c.45 (R2). Acknowledge
-Karen Teresa Wagner, *De vera et falsa penitentia : an edition and
-study*, 1995.**
+passages average 554.4 words in length. See Friedberg 1.xxxv, for
+a complete list of passages from *De vera et falsa penitentia*
+quoted in the *Decretum*.
+
+<!--
+
+Explain rationale for omitting certain passages: D.25 c.5 (R2 or
+Palea), *de Penitentia* D.3 c.4.5 (what Friedberg means by 4.5 in
+this context is unclear), D.3 c.45 (R2). Cite Karen Teresa Wagner,
+*De vera et falsa penitentia: an edition and study*, 1995.
+
+  -->
 
 [^42]: The division of the first-recension (R1) *dicta* into twelve
 sections follows the division of Gratian's *Decretum* proposed in
@@ -2021,11 +2026,11 @@ d.init. found in the Friedberg edition rather than a proxy
 first-recension version of the text has no effect on the outcome
 of any of the tests performed in this section.
 
-[^50]: **PLE**: This is true if only the first- and second-recension
-*dicta* are counted. If the case statements, the first- and
-second-recension *dicta*, and the *dicta* from *de Penitentia* are
-counted, *in* is the most frequent word, *et* is the second most
-frequent word, and *non* is the third most frequent word.
+[^50]: This is true if only the first- and second-recension *dicta*
+are counted. If the case statements, the first- and second-recension
+*dicta*, and the *dicta* from *de Penitentia* are counted, *in* is
+the most frequent word, *et* is the second most frequent word, and
+*non* is the third most frequent word.
 
 [^51]: A man having [made] a vow of chastity betrothed a wife to
 himself; she, renouncing her previous agreement, gave herself to
