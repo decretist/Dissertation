@@ -1689,6 +1689,16 @@ this context is unclear), D.3 c.45 (R2). Cite Karen Teresa Wagner,
 *De vera et falsa penitentia: an edition and study*, 1995.
 
   -->
+<!--
+
+Rem Non Novam attendees: Greta Austin, Thomas Bisson, Uta-Renate
+Blumenthal, Bruce Brasington, Melodie Eichbauer, Richard Helmholz,
+Eric Knibbs, Peter Landau, Kenneth Pennington, Edward Peters
+(University of Pennsylvania), Robert Somerville, and Anders Winroth.
+
+ICMCL attendees: Gero Dolezalek, Anders Winroth (session chair).
+
+  -->
 
 [1] Stephan Kuttner, “Research on Gratian: Acta and Agenda,” in *Studies
 in the History of Medieval Canon Law*, Collected Studies CS325
@@ -1938,15 +1948,10 @@ Gratian 1 and Gratian 2?" was presented to the session on Canon Law in
 the Twelfth and Thirteenth Centuries at the *Rem non novam nec insolitam
 aggredimur* conference and grand opening of the Stephan Kuttner
 Institute of Medieval Canon Law at Yale Law School, May 21-22, 2015.
-\[Greta Austin, Thomas Bisson, Uta-Renate Blumenthal, Bruce Brasington,
-Melodie Eichbauer, Richard Helmholz, Eric Knibbs, Peter Landau, Kenneth
-Pennington, Edward Peters (University of Pennsylvania), Robert
-Somerville, and Anders Winroth.\] "New evidence for the authorship of
-case statements and *dicta* in Gratian's *Decretum*" was presented to
-the Classical Sources III session at the Fifteenth International
-Congress of Medieval Canon Law (ICMCL) at Université Paris II
-Panthéon-Assas, July 17-23, 2016. \[Gero Dolezalek, Anders Winroth
-(session chair).\]
+"New evidence for the authorship of case statements and *dicta* in
+Gratian's *Decretum*" was presented to the Classical Sources III session
+at the Fifteenth International Congress of Medieval Canon Law (ICMCL) at
+Université Paris II Panthéon-Assas, July 17-23, 2016.
 
 [46] For a general introduction to the use of principal component
 analysis (PCA) in literary stylometric analysis, see Hugh Craig,
