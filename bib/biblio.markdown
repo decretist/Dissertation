@@ -441,6 +441,14 @@ Illinois Press, 2013.
 
 </div>
 
+<div id="ref-juola_rowling_2015" class="csl-entry">
+
+Juola, Patrick. “The Rowling Case: A Proposed Standard Analytic Protocol
+for Authorship Questions.” *Digital Scholarship in the Humanities* 30,
+no. Supplement 1 (2015): i100–113.
+
+</div>
+
 <div id="ref-kalb_studien_1983" class="csl-entry">
 
 Kalb, Herbert. *Studien zur Summa Stephans von Tournai: ein Beitrag zur

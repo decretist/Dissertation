@@ -54,6 +54,7 @@ nocite: |
   @jansen_medieval_2009
   @jansen_roman_2009
   @jockers_macroanalysis_2013
+  @juola_rowling_2015
   @kalb_studien_1983
   @kantorowicz_albertus_1907
   @kestemont_abstract_2013

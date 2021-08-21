@@ -226,7 +226,7 @@ Finally, some successes might as well be failures. Patrick Juola's
 successful, methodologically rigorous, attribution of *The Cuckoo's
 Calling*, a 2013 crime fiction novel, to J.K. Rowling of *Harry
 Potter* fame, was quickly forgotten because the author and text in
-question were uninteresting to literary academia.[^13]
+question were uninteresting to literary academia.[@juola_rowling_2015]
 
 Debates over the persuasiveness of stylometric arguments as a basis
 for authorship attribution have focused on the class and number of features
@@ -271,22 +271,14 @@ in the text of Friedberg's 1879 edition of Gratian's *Decretum* for
 which there is not a one-to-one correspondence to a word in the
 first-recension *dicta* as defined by Anders Winroth's appendix
 "The Contents of the First Recension of Gratian's
-*Decretum*."[@winroth_making_2000, 197-227] An alternative restatement
-would be to define the second-recension *dicta* as the difference
-left by subtracting all of the words of the first-recension *dicta*
-as defined by Winroth's appendix from the text in the Friedberg
-edition.[^16]
-
-<!-- suggested SC alternative restatement -->
-
-[^16]: Hence, for the purposes of this study, the text
-of the *dicta* of the second recension is the remainder of the
-*dicta* of the Friedberg text after the text of the *dicta* of the
-first recension has been subtracted. To compare the *dicta* of the
-two recensions using stylometry, we need samples of sufficient
-length. Subtracting the *dicta* of the first recension from the
-*dicta* of the Friedberg text produces two adequate samples. It is
-significant to note that the two sample texts do not have be
+*Decretum*."[@winroth_making_2000, 197-227] Hence, for the purposes
+of this study, the text of the *dicta* of the second recension is
+the remainder of the *dicta* of the Friedberg text after the text
+of the *dicta* of the first recension has been subtracted. To compare
+the *dicta* of the two recensions using stylometry, we need samples
+of sufficient length. Subtracting the *dicta* of the first recension
+from the *dicta* of the Friedberg text produces two adequate samples.
+It is significant to note that the two sample texts do not have be
 continuous pieces of writing, such as the *Federalist Papers* are.
 The method only requires samples of sentences and phrases of
 sufficient length. (See below.)
@@ -330,7 +322,7 @@ ab obsequiis sui patroni fuerint absoluti. Unde in Concilio
 Eliberitano:*" is included in the second recension text sample.
 
 Note that the individual *dicta* are too short for direct analysis
-by the techniques discussed in this chapter.[^18] The smallest unit
+by the techniques discussed in this chapter. The smallest unit
 of Latin prose for which computational stylometry works is about
 2,500 words.[@eder_does_2015, 171] The longest first-recension
 *dictum* (*de Pen*. D.1 d.p.c.87) is 1,591 words, and the longest
@@ -1786,19 +1778,10 @@ more likely to have been the product of collaborative authorship.
 [^9]: @frier_law_1984; @honore_ulpian_1982. Thanks to John Noël
 Dillon for bringing Frier's review to my attention.
 
-[^13]: Patrick Juola, "The Rowling Case: A Proposed Standard
-Analytic Protocol for Authorship Questions", *Digital Scholarship
-in the Humanities*, Vol. 30, Supplement 1, 2015.
-
 [^17]: @winroth_making_2000 [201]. The numbers 1 and 2 refer to line
 numbers relative to the first line of the *dictum*, as opposed to
 the first line of the column, in the print version of the Friedberg
 edition.
-
-[^18]: This paragraph may have to be moved to a separate section
-explaining the rationale for the various roll-ups of the *dicta*
-used in the following analyses, e.g., Gratian0, Gratian1, dePen,
-Gratian2, etc.
 
 [^20]: @winroth_making_2000 [9-11]. See also @kuttner_gratiani_1948
 (Latin), and @kuttner_research_1990 [10, 21-22], which mentions the
