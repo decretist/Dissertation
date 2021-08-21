@@ -172,7 +172,7 @@ Gawain article.
 Historians and literary scholars have long (if imprecise) memories
 about poorly-conceived attempts at authorship attribution. Bruce
 Frier reviewed Tony Honoré's *Ulpian* harshly for its misuse of
-stylometric analysis for authorship attribution.[^7] Honoré generated
+stylometric analysis for authorship attribution.[^9] Honoré generated
 lists of what would now be called Most Distinctive Words (MDWs) and
 Statistically Improbable Phrases (SIPs) from a concordance of the
 works of Ulpian and used them to attempt to date and determine the
@@ -226,7 +226,7 @@ Finally, some successes might as well be failures. Patrick Juola's
 successful, methodologically rigorous, attribution of *The Cuckoo's
 Calling*, a 2013 crime fiction novel, to J.K. Rowling of *Harry
 Potter* fame, was quickly forgotten because the author and text in
-question were uninteresting to literary academia.[^11]
+question were uninteresting to literary academia.[^13]
 
 Debates over the persuasiveness of stylometric arguments as a basis
 for authorship attribution have focused on the class and number of features
@@ -275,11 +275,11 @@ first-recension *dicta* as defined by Anders Winroth's appendix
 would be to define the second-recension *dicta* as the difference
 left by subtracting all of the words of the first-recension *dicta*
 as defined by Winroth's appendix from the text in the Friedberg
-edition.[^sc1]
+edition.[^16]
 
 <!-- suggested SC alternative restatement -->
 
-[^sc1]: Hence, for the purposes of this study, the text
+[^16]: Hence, for the purposes of this study, the text
 of the *dicta* of the second recension is the remainder of the
 *dicta* of the Friedberg text after the text of the *dicta* of the
 first recension has been subtracted. To compare the *dicta* of the
@@ -321,7 +321,7 @@ Winroth's appendix indicates that only the first sentence of the
 *dictum* appears in the first recension:
 
 d.p.c. 23: **1** *Ecce quomodo serui* – **2** *quomodo non
-admittantur.*[^13]
+admittantur.*[^17]
 
 Therefore, "*Ecce, quomodo serui ad clericatum ualeant assumi, uel
 quomodo non admittantur.*" is included in the first recension text
@@ -330,7 +330,7 @@ ab obsequiis sui patroni fuerint absoluti. Unde in Concilio
 Eliberitano:*" is included in the second recension text sample.
 
 Note that the individual *dicta* are too short for direct analysis
-by the techniques discussed in this chapter.[^14] The smallest unit
+by the techniques discussed in this chapter.[^18] The smallest unit
 of Latin prose for which computational stylometry works is about
 2,500 words.[@eder_does_2015, 171] The longest first-recension
 *dictum* (*de Pen*. D.1 d.p.c.87) is 1,591 words, and the longest
@@ -352,10 +352,10 @@ In particular, Friedberg's selection of eight German manuscripts
 considered unrepresentative by modern scholarship as the basis for
 his edition, and his particular reliance on two of them---Köln
 Erzbischöfliche Diözesan- und Dombibliothek 127 (Ka) and 128
-(Kb)---are seen today as serious deficiencies.[^16]
+(Kb)---are seen today as serious deficiencies.[^20]
 
 Winroth himself acknowledged the provisional nature of his
-appendix.[^17] Furthermore, Pennington has pointed out that although
+appendix.[^21] Furthermore, Pennington has pointed out that although
 Winroth's appendix includes D.100 d.a.c.1, D.100 c.1, and D.101
 d.p.c.1, in the Paris (P), Florence (Fd), and Barcelona (Bc)
 manuscripts, the text of the first recension ends with D.99
@@ -365,7 +365,7 @@ Nevertheless, in the absence of a critical edition for the first
 recension, applying the variants recorded in Winroth's appendix as
 a set of transformations to the text of Friedberg's edition to
 generate a stand-in or proxy for the text of the first recension
-is a workable approach.[^19] This method is well-theorized in Digital
+is a workable approach.[^23] This method is well-theorized in Digital
 Humanities as "deformance." The term, proposed by Lisa Samuels and
 Jerome McGann in "Deformance and Interpretation" (1999), conflates
 the words "deformation" and "performance" and describes a process
@@ -422,7 +422,7 @@ Text Encoding Initiative (TEI P5) format. The Mellon Foundation-supported
 effort directed by Anders Winroth to edit the first recension is
 ongoing, but work on Winroth's edition in progress had not reached
 a sufficiently advanced state of completion for it to be used
-for my project.[^21]
+for my project.[^25]
 
 As a result, this investigation depends for both the first and the
 second recension on the electronic text of the Friedberg edition
@@ -445,7 +445,7 @@ to be carried out by means of electro-mechanical and later electronic
 computers operating on punch-card data. The *Index Thomisticus* is
 recognized today as the first important humanities computing project
 and figures prominently in origin stories for Digital Humanities
-as a discipline.[^23] The success of Father Busa's project inspired
+as a discipline.[^27] The success of Father Busa's project inspired
 a number of imitators, as well as the development of specialized
 software and data formats to support such efforts. Reuter and
 Silagi's *Wortkonkordanz* was probably the last major Busa-style
@@ -455,7 +455,7 @@ was encoded in the now-obsolete Oxford Concordance Program (OCP) format.
 The MGH e-text also introduced a small number of textual errors in
 addition to those it inherited from the printed version of Friedberg's
 edition. Appendix 3 lists all currently known errors in the MGH
-e-text.[^24] An error in D.23 c.2 is particularly noteworthy.
+e-text.[^28] An error in D.23 c.2 is particularly noteworthy.
 Contrary to the widespread belief that the MGH e-text was created
 by scanning a physical copy of the Friedberg edition using optical
 character recognition (OCR) technology and then correcting the
@@ -476,7 +476,7 @@ salute nostra uera carnis suae receptione et uera animae resumptione,
 in qua ueniat iudicare*
 
 skipping over the words "*passione, mortuus uera corporis sui morte,
-resurrexit uera carnis*."[^25]
+resurrexit uera carnis*."[^29]
 
 Notwithstanding its textual flaws and the highly specialized and
 outdated requirements that constrained the choice of file format,
@@ -486,7 +486,7 @@ the MGH e-text remains a useful tool for the study of Gratian's
 The deformance algorithm used to generate the paratexts described
 in the previous section on the definition of the first- and
 second-recension *dicta* was implemented in the form of a 201-line
-Python program.[^27] The program reads the MGH e-text of the
+Python program.[^31] The program reads the MGH e-text of the
 Friedberg edition and parses it to extract the *dicta*.
 
 Most readers will have at least a passing familiarity with the
@@ -673,7 +673,7 @@ rank reversal between the second- and third-most frequent words is
 a result of the fact that *non* occurs quite infrequently in Gratian0;
 see the table below.) After identifying the four most frequent words
 in the three comparison samples, next, count the number of occurrences
-of those words in each of the samples:[^30]
+of those words in each of the samples:[^34]
 
 |     |   Gratian0 |   Gratian1 |   dePen |   Gratian2 |
 |:----|-----------:|-----------:|--------:|-----------:|
@@ -778,7 +778,7 @@ for the horizontal (*in*) axis, and the horizontal dashed line
 represents the mean of normalized frequencies for the vertical
 (*non*) axis.
 
-![Figure 1 updated 14 May 2020[^31]](PNGs/Figure_0a.png)
+![Figure 1 updated 14 May 2020[^35]](PNGs/Figure_0a.png)
 
 Figure 1 introduces several conventions common to two-dimensional
 graphical representations of word frequency data that readers will
@@ -978,7 +978,7 @@ The observed empirical relationship that word frequencies in a
 corpus of text tail off inversely as the rank is known as Zipf's
 law, after the American quantitative linguist George Kingsley Zipf
 (d.1950). Though he does not seem to have claimed discovery, Zipf
-published the first extended discussions of the phenomenon.[^32]
+published the first extended discussions of the phenomenon.[^36]
 The rank-frequency distribution of words in a corpus of any
 language is not merely a curiosity but rather provides a general
 background of what Zipf characterized as "orderliness" against which
@@ -991,7 +991,7 @@ expected orderliness of word distribution.
 If the words in a corpus of text are rank-ordered from most to least
 frequent, Zipf's law posits that, as a first-order approximation,
 the frequency of the Nth word will be 1/N times that of the most
-frequent word.[^33] In other words, the theoretical Zipf distribution
+frequent word.[^37] In other words, the theoretical Zipf distribution
 predicts that the frequency of the second most frequent word in a
 corpus of text should be one half that of the most frequent word,
 the frequency of the third most frequent word should be one third
@@ -1030,11 +1030,11 @@ As this example suggests, the explanatory power of the formula $ab^2
 have a low number of occurrences. Zipf ultimately judged the formula
 $ab^2 = k$ to be an unsatisfactory model for the full spectrum
 of word distribution in a corpus, in part because it implied
-fractional values of *a* for the most frequent words.[^34] Zipf had
+fractional values of *a* for the most frequent words.[^38] Zipf had
 a vivid awareness, ahead of its time for the pre-digital age in
 which he lived, of the fact that the variables in the formulas by
 which he sought to express these relationships represent discrete
-rather than continuous quantities.[^35] Zipf also noted that value
+rather than continuous quantities.[^39] Zipf also noted that value
 of the exponent of b is likely to differ from 2 depending on the
 size of the corpus[@zipf_psycho-biology_1935, 43]
 
@@ -1091,7 +1091,7 @@ thirty most frequent words (MFWs) in Gratian's *dicta*: *in* (2187),
 Zipf used word frequencies hand-tabulated from James Joyce's *Ulysses*
 as the data set for his exploration of the rank-frequency relationship,
 and it turns out that for English the r × f = C formulation holds
-up reasonably well.[^37] The rank-frequency relationship does not
+up reasonably well.[^41] The rank-frequency relationship does not
 on first inspection appear to hold up as well for Gratian's Latin
 as it does for Joyce's English, since the frequencies for the thirty
 most frequent words of the *dicta* do not drop off quite as sharply
@@ -1104,7 +1104,7 @@ third most frequent word, is 0.8962 rather than 0.3333.
 Plotting the data from Figure 5 on logarithmic axes and performing
 least-squares linear regression analysis lets us calculate the
 slope, -0.6518, for the rank-frequency tail-off of the thirty most
-frequent words from Gratian's *dicta*.[^38] (See Figure 6 below.)
+frequent words from Gratian's *dicta*.[^42] (See Figure 6 below.)
 Transposing that result back into the linear (as opposed to
 logarithmic) frame of reference used in Figure 5, the expression
 1/r ^0.6518^ yields a better (though not perfect) fit to the actual
@@ -1128,7 +1128,7 @@ by averaging z-score distance measurements of word frequency data
 for any number of features. This has the effect of collapsing
 distance measurements in an arbitrary number of dimensions into a
 single metric. Burrows called this metric the Delta, and it is now
-generally referred to as Burrows's Delta ($\Delta_B$).[^39] Expositions
+generally referred to as Burrows's Delta ($\Delta_B$).[^43] Expositions
 of Burrows's Delta sometime fail to make a clear enough distinction
 between the metric $\Delta_B$ and the authorship attribution
 method in which Burrows applied it. The metric is not the
@@ -1214,7 +1214,7 @@ attributed to Gratian with which we can compare, for example, the
 hypothetical case statements (*themata*) or second-recension *dicta*.
 
 Although other delta methods of authorship attribution have been
-proposed since,[^40] Burrows's Delta is widely accepted in the
+proposed since,[^44] Burrows's Delta is widely accepted in the
 scholarly literature of the field of computational linguistics, and
 it will therefore be used as the basis for the demonstrations in
 this section.
@@ -1341,7 +1341,7 @@ The second experiment is a variation on the first, in which a
 3881-word sample made up of seven extended passages from the
 pseudo-Augustinian *De vera et falsa penitentia* quoted by Gratian
 in *de Penitentia* are substituted for the 3605-word sample containing
-the hypothetical case statements.[^41] As noted in Chapter 0 above,
+the hypothetical case statements.[^45] As noted in Chapter 0 above,
 Gratian can be said with a high degree of confidence *not* to be
 the author of *De vera et falsa penitentia*. The authors are strongly
 distinguished by their choice of post-positive conjunctions: Gratian
@@ -1393,7 +1393,7 @@ R1 *dicta*), other1 (C.7-10 R1 *dicta*), other2 (C.11-15 R1 *dicta*),
 monastic (C.16-20 R1 *dicta*), other3 (C.21-22 R1 *dicta*), heresy
 (C.23-26 R1 *dicta*), marriage (C.27-36 R1 *dicta*), penance (R1
 and R2 *dicta* from *de Penitentia*), and second (all R2 *dicta*,
-excluding those from *de Penitentia*).[^42] For each of the fourteen
+excluding those from *de Penitentia*).[^46] For each of the fourteen
 subcorpora, we will hypothesize each subcorpus in turn to be the
 work of an unknown author and will treat the other thirteen
 subcorpora as composing a corpus of works by a known author. The
@@ -1493,7 +1493,7 @@ that projects vector distance information for numbers of features
 greater than three into a two- or three- dimensional space for
 convenient visualization. PCA therefore has the advantage that it
 entails less loss of information than the Delta class of techniques
-that reduce data for all dimensions to a single metric.[^43]
+that reduce data for all dimensions to a single metric.[^47]
 
 PCA first combines as many of the raw dimensions as possible into
 synthetic components on the basis of strong correlations, either
@@ -1509,7 +1509,7 @@ first-recension *dicta* (Gratian1), and the second-recension *dicta*
 horizontal axis. PCA then displays the two components that contribute
 the most to the total variation between the samples, and graphically
 arranges the samples according to their probability relative to
-those two components.[^44]
+those two components.[^48]
 
 I used the Stylometry with R (stylo) package for computational text
 analysis developed by Maciej Eder, Jan Rybicki, and Mike Kestemont
@@ -1518,7 +1518,7 @@ plots in this section.[@stylo] R is a statistically-oriented
 programming language.[@R] In addition to his being one of the lead
 developers of the stylo R package, Kestemont is a researcher whose
 stylometric analysis of two visionary texts of Hildegard of Bingen
-was a useful example for this project.[^47]
+was a useful example for this project.[^51]
 
 Stylometric analysis for the purpose of authorship attribution rests
 on the frequencies of occurrence of function words including
@@ -1527,7 +1527,7 @@ frequencies of enclitic endings representing conjunctions. Each
 word in the samples ending with -*que* where the ending represents
 an enclitic being used as a conjunction and is not simply part of
 the word has been mapped to a two-word sequence consisting of the
-word plus the pseudo-conjunction *xque*.[^48] Other Latin enclitic
+word plus the pseudo-conjunction *xque*.[^52] Other Latin enclitic
 endings such as -*ne* and -*ve* occur infrequently enough in the
 samples that they can be disregarded for the purpose of pseudo-conjunction
 mapping.
@@ -1535,7 +1535,7 @@ mapping.
 Figure 7 below shows the PCA plot generated by a four-way comparison
 of the same samples used in the demonstration of Burrows's Delta
 in the previous section: the hypothetical case statements or *themata*
-(Gratian0)[^49], the first-recension *dicta* excluding the *dicta*
+(Gratian0)[^53], the first-recension *dicta* excluding the *dicta*
 from *de Penitentia* (Gratian1), first- and second-recension *dicta*
 from *de Penitentia* (dePen), and the second-recension *dicta*
 excluding the *dicta* from *de Penitentia* (Gratian2). The case
@@ -1586,7 +1586,7 @@ the first- and second-recesion *dicta* from *de Penitentia*.
 
 In the initial function word counting experiment, *non*, the second
 most common word in the samples, was strongly associated with the
-first-recension *dicta*.[^50] In Figure 8, *non* appears far to the
+first-recension *dicta*.[^54] In Figure 8, *non* appears far to the
 right, and in fact the samples from the first-recension *dicta*,
 but not those from the second-recension *dicta*, tend to spread out
 to the right. Note however that *in*, the most common word in the
@@ -1619,12 +1619,12 @@ case statement) demonstrates the pattern:
 priori condicioni renuncians, transtulit se ad alium, et nupsit
 illi; ille, cui prius desponsata fuerat, repetit eam. Hic primum
 queritur, an coniugium possit esse inter uouentes? Secundo, an
-liceat, sponsae a sponso recedere, et alii nubere?*[^51]
+liceat, sponsae a sponso recedere, et alii nubere?*[^55]
 
 The transition between the narrative section and the enumeration
 of questions is clearly signalled in each of the case statements
 by the use of one of a small number of formulaic markers, of which
-*Hic primum queritur* is the most common.[^52]
+*Hic primum queritur* is the most common.[^56]
 
 Running principal component analysis (PCA) after removing the
 enumerated questions from the cases statements (leaving all other
@@ -1783,39 +1783,39 @@ more likely to have been the product of collaborative authorship.
 
 [^5]: @adair_authorship_1944a and @adair_authorship_1944b.
 
-[^7]: @frier_law_1984; @honore_ulpian_1982. Thanks to John Noël
+[^9]: @frier_law_1984; @honore_ulpian_1982. Thanks to John Noël
 Dillon for bringing Frier's review to my attention.
 
-[^11]: Patrick Juola, "The Rowling Case: A Proposed Standard
+[^13]: Patrick Juola, "The Rowling Case: A Proposed Standard
 Analytic Protocol for Authorship Questions", *Digital Scholarship
 in the Humanities*, Vol. 30, Supplement 1, 2015.
 
-[^13]: @winroth_making_2000 [201]. The numbers 1 and 2 refer to line
+[^17]: @winroth_making_2000 [201]. The numbers 1 and 2 refer to line
 numbers relative to the first line of the *dictum*, as opposed to
 the first line of the column, in the print version of the Friedberg
 edition.
 
-[^14]: This paragraph may have to be moved to a separate section
+[^18]: This paragraph may have to be moved to a separate section
 explaining the rationale for the various roll-ups of the *dicta*
 used in the following analyses, e.g., Gratian0, Gratian1, dePen,
 Gratian2, etc.
 
-[^16]: @winroth_making_2000 [9-11]. See also @kuttner_gratiani_1948
+[^20]: @winroth_making_2000 [9-11]. See also @kuttner_gratiani_1948
 (Latin), and @kuttner_research_1990 [10, 21-22], which mentions the
 deficiency of Friedberg's edition without offering a detailed
 critique.
 
-[^17]: "The list is based on a collation of *incipits* and
+[^21]: "The list is based on a collation of *incipits* and
 *explicits* of every canon and *dictum* in the first recension. Differences
 within the texts may very well have been overlooked, and minor differences
 have not normally been registered." @winroth_making_2000 [197].
 
-[^19]: Anders, my understanding is that you took a similar approach
-when you created the baseline text for the edition in progress of
-the first recension (although you adopted a set of orthographic
-conventions different from Friedberg's in the resulting text).
+[^23]: Winroth took a similar approach when he created the baseline
+text for the edition in progress of the first recension (although
+he adopted a set of orthographic conventions different from Friedberg's
+in the resulting text).
 
-[^21]: As of the 22 April 2019 version, eight case statements (for cases
+[^25]: As of the 22 April 2019 version, eight case statements (for cases
 1-3, 9, 15, 24, 30, and 34) appear to have a complete critical
 apparatus. An additional six case statements (for cases 4-7, 10, and
 11) have an incomplete critical apparatus that records variant
@@ -1825,7 +1825,7 @@ for case 35 records a single variant reading from Aa. The remaining
 36) have no critical apparatus at all. The case statements are used
 as the example here because they are the focus of my dissertation.
 
-[^23]: @hockey_history_2004 [4-6]. The highest honor in the field
+[^27]: @hockey_history_2004 [4-6]. The highest honor in the field
 of Digital Humanities is the Roberto Busa Prize, awarded by the
 Alliance of Digital Humanities Organizations (ADHO). A notable past
 recipient of the Busa Prize is John Burrows, who first introduced
@@ -1833,26 +1833,26 @@ the fundamental stylometric technique now known as Burrows's Delta
 in a lecture he delivered on the occasion of receiving the award
 in 2001.
 
-[^24]: Data current as of 18 May 2021. For more recent error reports,
+[^28]: Data current as of 18 May 2021. For more recent error reports,
 see the list I maintain for the Stephan Kuttner Institute on
 [GitHub](https://github.com/StephanKuttnerInstitute/FriedbergBugs/blob/master/bug-reports.csv).
 Thanks to Anders Winroth for reporting the errors in D.6 d.p.c.3
 (6 October 2019), D.15 c.2 (4 November 2020), D.16 c.9 (18 May 2021),
 and D.23 c.2 (23 August 2019).
 
-[^25]: Thanks to Anders Winroth for bringing the instance of
+[^29]: Thanks to Anders Winroth for bringing the instance of
 homeoteleuton at D.23 c.2 in the MGH e-text to my attention (August
 23, 2019). Clemens Radl of the MGH confirmed to Winroth that the
 e-text was typed.
 
-[^27]: Python is a widely-used general-purpose programming
+[^31]: Python is a widely-used general-purpose programming
 language. According to one frequently-cited industry metric, the
 [TIOBE Index](https://www.tiobe.com/tiobe-index/), Python was the
 third-most popular programming language worldwide as of July 2020,
 behind legacy languages C and Java. Python provides powerful features
 for performing operations on textual data.
 
-[^30]: Much of the analysis from this point forward will take advantage
+[^34]: Much of the analysis from this point forward will take advantage
 of the specialized capabilities of a Python software library called
 pandas. The name pandas is not a reference to the charismatic animal
 but an acronym derived from the term "panel data." The package is
@@ -1864,24 +1864,24 @@ can be thought of as a close analog to the Excel spreadsheets that
 were such a ubiquitous feature of John Burrows's and David Hoover's
 early experiments in stylometry.
 
-[^31]: The actual generation of Figure 1 was deferred until after
+[^35]: The actual generation of Figure 1 was deferred until after
 the sample standard deviations for *in* and *non* per 1,000 words
 had been calculated below. Framing the dimensions of the plot to
 twice the standard deviation from the mean along both axes improves
 graphical layout and readability.
 
-[^32]: @zipf_psycho-biology_1935 [39-48]; and @zipf_human_1949 [73-131].
+[^36]: @zipf_psycho-biology_1935 [39-48]; and @zipf_human_1949 [73-131].
 Zipf referred to the relationship as "the law of diminishing returns
 of words" (1949). He expressed the relationship as $ab^2 = k$ (1935)
 and r × f = C (1949).
 
-[^33]: In Digital Humanities courses, 1/N is typically presented
+[^37]: In Digital Humanities courses, 1/N is typically presented
 *as* Zipf's law. However, the reductionist 1/N representation of the
 rank-frequency relationship is misleading insofar as it ignores
 scaling considerations and elides the discrete rather than continuous
 nature of the variables representing rank and frequency.
 
-[^34]: "Hence the $ab^2 = k$ relationship is valid only for the
+[^38]: "Hence the $ab^2 = k$ relationship is valid only for the
 less frequently occurring words which, however, represent the greater
 part of the vocabulary in use, though not always a great majority
 of the occurrences." ... "It is perhaps worth pointing out that the
@@ -1890,10 +1890,10 @@ distribution of the less frequent words would demand fractional
 words when applied to the speech-elements of highest occurrence,
 such as *the* in English." @zipf_psycho-biology_1935 [42-43].
 
-[^35]: Zipf used the term "integrality" to describe the discrete,
+[^39]: Zipf used the term "integrality" to describe the discrete,
 discontinuous, nature of frequency and rank. @zipf_human_1949 [31, 35].
 
-[^37]: "we have found a clearcut correlation between the number of
+[^41]: "[W]e have found a clearcut correlation between the number of
 different words in the *Ulysses* and the frequency of their usage,
 in the sense that they approximate the simple equation of an
 equilateral hyperbola: r × f = C in which *r* refers to the word's
@@ -1902,7 +1902,7 @@ we ignore for the present the size of C)." @zipf_human_1949 [24].
 See @zipf_human_1949 [23-52], for Zipf's extended discussion of the
 rank-frequency distribution of words in Joyce's *Ulysses*.
 
-[^38]: $m = \frac{\sum{x_iy_i - n\bar{xy}}}{\sum{x_i^2 - n\bar{x}^2}}$
+[^42]: $m = \frac{\sum{x_iy_i - n\bar{xy}}}{\sum{x_i^2 - n\bar{x}^2}}$
 or:
 
     ~~~ {.python}
@@ -1919,13 +1919,13 @@ or:
         return (xy_sum - n * x_bar * y_bar) / (x_squared_sum - n * x_bar ** 2)
     ~~~
 
-[^39]: @burrows_questions_2003; and @burrows_delta_2002.
+[^43]: @burrows_questions_2003; and @burrows_delta_2002.
 
-[^40]: Most notably Argamon's Delta, see @argamon_interpreting_2008.
+[^44]: Most notably Argamon's Delta, see @argamon_interpreting_2008.
 For an overview of recent developments in the use of distance methods
 for the purpose of authorship attribution, see @evert_understanding_2017.
 
-[^41]: *de Penitentia* D.1 c.88 (R1), D.3 c.42 (R1), D.3 c.49 (R1),
+[^45]: *de Penitentia* D.1 c.88 (R1), D.3 c.42 (R1), D.3 c.49 (R1),
 D.5 c.1 (R1), D.6 c.1 (R1), and D.7 c.6 (R1). These seven extended
 passages average 554.4 words in length. See Friedberg 1.xxxv, for
 a complete list of passages from *De vera et falsa penitentia*
@@ -1940,11 +1940,11 @@ this context is unclear), D.3 c.45 (R2). Cite Karen Teresa Wagner,
 
   -->
 
-[^42]: The division of the first-recension (R1) *dicta* into twelve
+[^46]: The division of the first-recension (R1) *dicta* into twelve
 sections follows the division of Gratian's *Decretum* proposed in
 @beyer_lokale_1998 [17-18].
 
-[^43]: Earlier versions of this section were presented as conference
+[^47]: Earlier versions of this section were presented as conference
 papers. "Can Stylometry Provide New Evidence about the Identity of
 Gratian 1 and Gratian 2?" was presented to the session on Canon
 Law in the Twelfth and Thirteenth Centuries at the *Rem non novam
@@ -1960,15 +1960,15 @@ the Fifteenth International Congress of Medieval Canon Law (ICMCL)
 at Université Paris II Panthéon-Assas, July 17-23, 2016. [Gero
 Dolezalek, Anders Winroth (session chair).]
 
-[^44]: For a general introduction to the use of principal component
+[^48]: For a general introduction to the use of principal component
 analysis (PCA) in literary stylometric analysis, see @craig_stylistic_2004
 and Chapter 6 "Style" in @jockers_macroanalysis_2013.
 
-[^47]: See @kestemont_abstract_2013; and @kestemont_collaborative_2015.
+[^51]: See @kestemont_abstract_2013; and @kestemont_collaborative_2015.
 Kestemont was very generous in his technical advice during the early
 stages of this project.
 
-[^48]: Following the example of @kestemont_collaborative_2015 [205]:
+[^52]: Following the example of @kestemont_collaborative_2015 [205]:
 "To automatically isolate the clitic, we have stripped the
 suffix ('x*que*') from every word that did not occur in a list of
 words proposed by Schinke *et al*. (1996, p. 180-1)."
@@ -2016,7 +2016,7 @@ words proposed by Schinke *et al*. (1996, p. 180-1)."
     when false positives are excluded, disappear from the list
     altogether.
 
-[^49]: As noted in the previous two-dimensional visualization
+[^53]: As noted in the previous two-dimensional visualization
 section, the Gratian0 sample containing the hypothetical case
 statements or *themata* includes a thirteen-word clause added to
 C.19 d.init. between the first and second recensions of the *Decretum*.
@@ -2026,13 +2026,13 @@ d.init. found in the Friedberg edition rather than a proxy
 first-recension version of the text has no effect on the outcome
 of any of the tests performed in this section.
 
-[^50]: This is true if only the first- and second-recension *dicta*
+[^54]: This is true if only the first- and second-recension *dicta*
 are counted. If the case statements, the first- and second-recension
 *dicta*, and the *dicta* from *de Penitentia* are counted, *in* is
 the most frequent word, *et* is the second most frequent word, and
 *non* is the third most frequent word.
 
-[^51]: A man having [made] a vow of chastity betrothed a wife to
+[^55]: A man having [made] a vow of chastity betrothed a wife to
 himself; she, renouncing her previous agreement, gave herself to
 another and married him; he to whom she had been first betrothed
 tried to get her back. Here it is first asked whether there is able
@@ -2040,7 +2040,7 @@ to be a marriage between those vowing? Second, whether someone
 betrothed is allowed to abandon the person to whom they are betrothed
 and to marry another?
 
-[^52]: The formulaic transition markers used in the hypothetical
+[^56]: The formulaic transition markers used in the hypothetical
 case statements are: *Hic primum queritur* (15), *Queritur* (8),
 *Modo primum queritur* (3), *Nunc primum queritur* (3), *Primo
 queritur* (2), *Primum queritur* (2), *Hic primo queritur* (1),

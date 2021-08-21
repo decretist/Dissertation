@@ -1783,10 +1783,10 @@ normally been registered." Winroth, *The Making of Gratian’s Decretum*,
 [22] Kenneth Pennington, “The Biography of Gratian, the Father of Canon
 Law,” *Villanova Law Review* 59 (2014): 685.
 
-[23] Anders, my understanding is that you took a similar approach when
-you created the baseline text for the edition in progress of the first
-recension (although you adopted a set of orthographic conventions
-different from Friedberg's in the resulting text).
+[23] Winroth took a similar approach when he created the baseline text
+for the edition in progress of the first recension (although he adopted
+a set of orthographic conventions different from Friedberg's in the
+resulting text).
 
 [24] Lisa Samuels and Jerome McGann, “Deformance and Interpretation,”
 *New Literary History* 30, no. 1 (1999): 25–56.
@@ -1890,7 +1890,7 @@ the Principle of Least Effort*, 31, 35.
 
 [40] Zipf, *The Psycho-Biology of Language*, 43.
 
-[41] "we have found a clearcut correlation between the number of
+[41] "\[W\]e have found a clearcut correlation between the number of
 different words in the *Ulysses* and the frequency of their usage, in
 the sense that they approximate the simple equation of an equilateral
 hyperbola: r × f = C in which *r* refers to the word's rank in the
