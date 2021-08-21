@@ -124,7 +124,7 @@ medieval Latin texts. Constant Mews attributed a set of Latin love
 letters between an anonymous man and woman (*Vir* and *Mulier* or just
 V. and M.), extant in a single manuscript that was copied c.1470 under
 the title *Ex epistolis duorum amantium* (EDA), to Abelard and
-Heloise.[7] Jan Ziolkowski, however, contested Mews's attribution,
+Heloise.[7] However, Jan Ziolkowski contested Mews's attribution,
 partially on stylometric grounds.[8] The stylometric component of
 Ziolkowski's argument consists of a comparison of the relative
 frequencies of the function words *autem*, *igitur*, *ergo*, *ita(que)*,
@@ -133,18 +133,18 @@ and 5, and the letters attributed to *Vir* in the EDA collection. There
 are two aspects of Ziolkowski's rebuttal to Mews's attribution that make
 it a useful precedent for the work presented in this dissertation.
 First, it is a negative attribution: like my finding that the case
-statements in the *Decretum* were not written by author(s) of the
+statements in the *Decretum* were not written by the author(s) of the
 *dicta*, Ziolkowski argued that the letters in the EDA collection were
 not written by their putative authors. Second, Ziolkowski's negative
 attribution was made on the basis of function words drawn from
 discontinuous and relatively small samples of medieval Latin.
 Ziolkowski's argument would have been stronger had he used a larger
 number of function words as the basis for stylometric analysis. (John
-Burrows and David Hoover in a series of papers starting in 2000
-established 30 words as a best-practice minimum for this kind of word
-frequency analysis.) Nevertheless, Ziolkowski's argument that Abelard
-and Heloise did not write the letters in the EDA collection has largely
-carried the day.
+Burrows and David Hoover, in a series of papers published starting in
+2000, established 30 words as a best-practice minimum for this kind of
+word frequency analysis.) Nevertheless, Ziolkowski's argument that
+Abelard and Heloise did not write the letters in the EDA collection has
+largely carried the day.
 
 <!--
 
@@ -161,7 +161,7 @@ reviewed Tony Honoré's *Ulpian* harshly for its misuse of stylometric
 analysis for authorship attribution.[9] Honoré generated lists of what
 would now be called Most Distinctive Words (MDWs) and Statistically
 Improbable Phrases (SIPs) from a concordance of the works of Ulpian and
-used them to attempt to periodize and to determine authorship of texts
+used them to attempt to date and determine the authorship of texts
 attributed to Ulpian. Frier correctly criticizes Honoré's method as
 fundamentally misguided because it "is built entirely on the occurrence
 of unusual words."[10] As the previous section made clear, stylometric
@@ -210,6 +210,13 @@ successful, methodologically rigorous, attribution of *The Cuckoo's
 Calling*, a 2013 crime fiction novel, to J.K. Rowling of *Harry Potter*
 fame, was quickly forgotten because the author and text in question were
 uninteresting to literary academia.[13]
+
+Debates over the persuasiveness of stylometric arguments as a basis for
+authorship attribution have focused on the class and number of features
+(typically words) counted, as well as on the minimum necessary sample
+size from the target text to which such techniques can be applied.
+Gratian's *Decretum* presents some challenges in these regards, but they
+can be overcome, as I will show in the following sections.
 
 ### Definition of first- and second-recension *dicta*
 
