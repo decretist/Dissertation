@@ -1731,9 +1731,21 @@ the vertical PC2 axis, a tendency strongly correlated to the frequency
 of occurrence of the word *quomodo*, which occurs far more frequently
 in the *dicta* from *de Penitentia* than in either the first- or
 second-recension *dicta*. (See Figure 8 above; *quomodo* is near
-the center of the hozontal PC1 axis, but is the furthest word from
-the origin in the negative [down] direction along the vertical PC2
-axis.)
+the center of the horizontal PC1 axis, but is the furthest word
+from the origin in the negative [down] direction along the vertical
+PC2 axis.)
+
+Removing the *de Penitentia* sample from the comparison allows us
+to compare the first- and second-recension *dicta* excluding the
+*dicta* from *de Penitentia* (the Gratian 1 and Gratian 2 samples)
+directly. The second-recension *dicta* appear to stand in the same
+relationship to the first-recension *dicta* as the *dicta* from *de
+Penitentia* stood in relationship to the first- and second-recension
+*dicta* taken together. The second-recension *dicta*, indicated by
+the + symbol in Figure 10, cluster loosely in the lower-left quadrant,
+corresponding to negative values for both PC1 and PC2. This, again,
+is not a result consistent with there having been a single author
+who wrote both the first- and second-recension *dicta*.
 
 ```
 ------------------------------------------------
