@@ -1,12 +1,69 @@
 ---
-author: Paul Evans
 bibliography: ../bib/merged.bib
 csl: ../csl/chicago-fullnote-bibliography.csl
-date: 12 May 2021
 reference-section-title: Bibliography
 suppress-bibliography: true
 title: Conclusion
 ---
+<!-- Headline -->
+
+The case statements or *themata* were written by a single
+author whose words appear nowhere else in the *Decretum*. In the
+spirit of Winroth, who refers to his hypothesized author of the
+second-recension *dicta* as Gratian 2, I have named this figure
+Gratian 0, and I take him to be *the* historical Gratian.
+
+How to make sense of this result?
+
+<!-- Chapter 1 -->
+
+The most important take-way from Chapter 1 on the legal
+revolution of the twelfth century, the background from which the
+*Decretum* emerges, is that it is as much a social as an
+intellectual movement. My thinking in reconceptualizing the canon
+law strand of the legal revolution of the twelfth century as a
+social movement (as opposed to an intellectual movement, as it is
+usually treated in the scholarly literature) was strongly influenced
+by Rodney Stark's *The Rise of Christianity*. Thinking of the growth
+of the systematic study of canon law as a social movement has two
+significant implications.
+
+First, social movements of this kind display a pattern of long-tail
+exponential growth in which, for a very long time, the number of
+people involved is quite small. As a result, evidence of their
+activities emerges into the historical record only after a considerable
+delay. The Marturi placitum (1076) is evidence that the Roman law
+strand of the legal revolution, at least, had a lengthy prehistory
+(the long tail) before it broke the surface into historical visibility
+thirty years later in the first decade of the twelfth century. The
+results of the collective efforts of the circle we associate with
+the name of Gratian (*Gratian-Kreis*?) emerge into our field of
+view only after 1140, at which point it is not unreasonable to
+believe that they had been at work in some form or another for two
+if not three decades. (Pennington has argued for a long period of
+textual development for the *Decretum*, while Winroth has argued
+that Roman and canon law studies were nowhere near as fully developed
+by the end of the 1130s as previously thought. These arguments have
+been thought of as being at odds, not least by Pennington and Winroth
+themselves, but I prefer to think of them as intuitions, from
+different starting points, of the same process of long-tail exponential
+growth, and therefore in some sense both right.)
+
+Second, participation in the early stages of a successful social
+movement confers substantial real-world benefits. Participation in
+the circle we associate with the name of Gratian undoubtedly involved
+a considerable amount of uncompensated scribal labor, and in order
+to explain the exponential growth pattern, there must have been
+some substantial real-world benefit that made the effort worthwhile
+for the participants. It is not at all hard to guess what that
+benefit was. The participants were not interested in teaching as a
+career. They were looking for competitive advantage in the race for
+ecclesiastical benefices. When preferment came their way, their
+involvement in Gratian's project probably ended. But the fact that
+they had been successful attracted others to take their place.
+
+---
+
 > As to the dicta, I think you adjust your treatment to distinguish
 between individual dicta and the collection as a whole.  What your
 work shows is that the dicta were not a work of literature written
@@ -21,19 +78,6 @@ in shutting down what I saw as a "tastes great!" vs. "less filling!"
 debate that was being conducted on an insufficient evidentiary
 basis. The actual results, once I convinced myself that they weren't
 spurious, took the project in a somewhat different direction.
-
-Jeffrey Witt at Loyola (Maryland) has an XML text of Peter Lombard's
-Sentences. I've asked him to send me a copy, so I can run the same
-tests on Lombard's dicta (if that's the right terminology) as I ran
-on Gratian's. If the results of those tests are obviously consistent
-with a single author in a way that they are not for Gratian, I think
-that's the knockout punch. Even Ken would have to back away from
-the idea that a single author wrote all of the dicta. I also think
-direct comparison with the text in the Sentences attributed to
-Lombard would be persuasive for Anders, since he's always saying
-that if Peter Lombard could write the Sentences in two years, Gratian
-2 could surely have doubled the size of the Decretum in that amount
-of time.
 
 > What we have is a collection of works and what we need is an idea
 of how that collection was made. The search for the Gratian behind

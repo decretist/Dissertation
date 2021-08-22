@@ -33,8 +33,7 @@ The principal component analysis (PCA) section of chapter 4 was presented as:
   in Gratian's *Decretum*" at the
   15th International Congress of Medieval Canon Law, Paris, 20 July 2016
   [(PDF)](Talks/ICMCL.pdf).
-- [Conclusion](Conclusion/conclusion.markdown) (25 July 2021) 12 pages\
-Rough draft
+- [Conclusion](Conclusion/conclusion.markdown) (22 August 2021) 14 pages [(PDF)](Conclusion/conclusion.pdf)
 - [Bibliography](bib/biblio.markdown) (19 August 2021) 13 pages [(PDF)](bib/biblio.pdf)
 
 ### Appendices
