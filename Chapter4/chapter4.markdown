@@ -1597,14 +1597,6 @@ quite striking.
 
 <!-- /Users/ple/Work/PCA/JPGs/4-way_PCA_51_MFWs_001.jpg -->
 
-**The hypothetical case statements or *themata*, then, display both a
-very tight clustering and a clean separation from the other *dicta*. The
-results of principal component analysis are entirely consistent with the
-results of every other test, from the most naive to the most
-sophisticated, to which these samples have been subjected in this
-chapter and makes it highly likely that the case statements were written
-by a single author whose words appear nowhere else in the *Decretum*.**
-
 What further conclusions, if any, can be drawn from the results
 displayed in Figure 9? Besides the tight clustering and clean separation
 of the samples corresponding to the case statements, the most obvious
@@ -1673,13 +1665,25 @@ second-recension *dicta*.
 
 ## Conclusion
 
-Principal component analysis (PCA) of the frequencies of function words
-(prepositions and conjunctions) in the texts strongly suggests that the
-author of the case statements was not the same person as the authors of
-either the first- or second-recension *dicta*. PCA also suggests (less
-strongly) that the first- and second-recension *dicta* were not the work
-of either one or two authors, but are more likely to have been the
-product of collaborative authorship.
+The hypothetical case statements or *themata* display both very tight
+clustering and clean separation from the first-recension *dicta*
+excluding the *dicta* from *de Penitentia*, the first- and
+second-recension *dicta* from *de Penitentia*, and the second-recension
+*dicta* excluding the *dicta* from *de Penitentia* when subjected to
+principal component analysis. The results of principal component
+analysis are in this respect entirely consistent with the results of the
+other tests, from the naive 2-dimensional visualizations to the
+Burrows's Delta experiments to which these samples have been subjected
+in this chapter. These unambiguous and consistent results make it highly
+likely that the case statements were written by a single author whose
+words appear nowhere else in the *Decretum*. To be specific, the
+outcomes of these tests indicate quite strongly that the author of the
+case statements was *not* the same person as the authors of either the
+first- or second-recension *dicta*.
+
+PCA also suggests (less strongly) that the first- and second-recension
+*dicta* were not the work of either one or two authors, but are more
+likely to have been the product of collaborative authorship.
 
 <!--
 
