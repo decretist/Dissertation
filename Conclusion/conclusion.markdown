@@ -29,16 +29,17 @@ legal revolution, at least, had a lengthy prehistory (the long tail)
 before it broke the surface into historical visibility thirty years
 later in the first decade of the twelfth century. The results of the
 collective efforts of the circle we associate with the name of Gratian
-come into our field of view only after 1140, at which point it is not
-unreasonable to believe that they have been at work in some form or
-another for two if not three decades. (Pennington has argued for a long
-period of textual development for the *Decretum*, while Winroth has
-argued that Roman and canon law studies were nowhere near as fully
-developed by the end of the 1130s as previously thought. These arguments
-have been thought of as being at odds, not least by Pennington and
-Winroth themselves, but I prefer to think of them as intuitions, from
-different starting points, of the same process of long-tail exponential
-growth, and therefore in some sense both right.)
+(*Gratian-Kreis*?) emerge into our field of view only after 1140, at
+which point it is not unreasonable to believe that they had been at work
+in some form or another for two if not three decades. (Pennington has
+argued for a long period of textual development for the *Decretum*,
+while Winroth has argued that Roman and canon law studies were nowhere
+near as fully developed by the end of the 1130s as previously
+thought. These arguments have been thought of as being at odds, not
+least by Pennington and Winroth themselves, but I prefer to think of
+them as intuitions, from different starting points, of the same process
+of long-tail exponential growth, and therefore in some sense both
+right.)
 
 Second, participation in the early stages of a successful social
 movement confers substantial real-world benefits. Participation in the
@@ -53,7 +54,7 @@ benefices. When preferment came their way, their involvement in
 Gratian's project probably ended. But the fact that they had been
 successful attracted others to take their place.
 
-<!-- rewritten down to here -->
+------------------------------------------------------------------------
 
 > As to the dicta, I think you adjust your treatment to distinguish
 > between individual dicta and the collection as a whole. What your work
