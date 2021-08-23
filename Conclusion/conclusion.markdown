@@ -56,6 +56,10 @@ successful attracted others to take their place.
 
 ------------------------------------------------------------------------
 
+<!-- Chapters 2 and 3 -->
+
+------------------------------------------------------------------------
+
 > As to the dicta, I think you adjust your treatment to distinguish
 > between individual dicta and the collection as a whole. What your work
 > shows is that the dicta were not a work of literature written by a
@@ -78,6 +82,8 @@ somewhat different direction.
 I agree, but as I said above, most of the post-Noonan scholarship on the
 authorship of the Decretum has been engaged in precisely that fool's
 errand.
+
+------------------------------------------------------------------------
 
 > The historical Gratian may have created a collection of canons used in
 > the earliest course on canon law and may have written a few of the
@@ -114,40 +120,22 @@ of the raw material, but he was not yet in possession of a
 fully-developed method for solving problems presented by the canons that
 he could systematically impart to students. He does not at this stage
 know so much more than the other participants that we can unambiguously
-call him magister and them discipuli.
+call him *magister* and them *discipuli*.
 
-I always emphasize to my students that authorship on any significant
-scale in pre-modern times requires wrapping an elaborate and expensive
-infrastructure around the figure of the author (the examples I give are
-Cicero, Origen, and Augustine). It's a hugely labor-intensive activity,
-and the labor is either unfree (Cicero), paid for by a wealthy patron
-(Origin), or volunteer (Augustine, in the form of the quasi-monastic
-members of his episcopal household). It's not Hemingway with his
-typewriter. One of the most important things the formation of the
-study-group does for Gratian is provide him with a pool of volunteer
-labor that makes it possible to put on parchment the collection of
-canons he thinks raise the really interesting issues and his comments on
-them. Before the formation of the study group, I doubt that the
-collection of canons and comments had an existence outside of Gratian's
-head. I'll get into what I think is in it for the volunteer
-contributors, and why it matters, below (short answer: a competitive
-advantage in the arms-race for ecclesiastical benefices).
+One of the most important things the formation of the study-group does
+for Gratian is provide him with a pool of volunteer labor that makes it
+possible to put on parchment the collection of canons he thinks raise
+the really interesting issues and his comments on them. Before the
+formation of the study group, I doubt that the collection of canons and
+comments had an existence outside of Gratian's head. I'll get into what
+I think is in it for the volunteer contributors, and why it matters,
+below (short answer: a competitive advantage in the arms-race for
+ecclesiastical benefices).
 
 > ... but the collection of dicta as a whole grew to its classical form
 > over several decades.
 
-True. My thinking on this issue is heavily influenced by Rodney Stark's
-The Rise of Christianity, in that I think that the growth of study of
-canon law as a systematic activity was exponential. Like all processes
-of long-tail exponential growth, for a very long time, the number of
-people actively involved is quite small. The results of their collective
-efforts only come into our field of view after 1140, at which point
-they've been at it for 20 years. There's something in this conclusion to
-make both Ken and Anders happy: Ken has consistently argued for a long
-period of textual development for the Decretum, while Anders has argued
-that Roman and canon law studies were nowhere near as fully developed by
-the end of the 1130s as previously thought (the long tail in action).
-Here, I think they're both right.
+True.
 
 > Some of it could have come from teachers other than the original
 > one—presumably Gratian—and some of it from students summarizing or
@@ -189,34 +177,34 @@ recension). I don't think, however, that they predated the formation of
 the study group. Rather, I think that Gratian developed them alongside
 the earliest group readings.
 
-Why didn't Gratian make any further direct contributions to the text? I
-suspect, although I am absolutely not going to say this in the
-dissertation, that it was because his written Latin wasn't as good as
-that of other members of the study group. I ran into this the first time
-I tried to translate C.3 d.init. (while eating a hot dog at the Costco
-in Washington DC), and got confused because Gratian 0 used the reflexive
-se in a context where a reflexive made no sense. I was puzzled, and it
-certainly did not occur to me that Master Gratian had made a mistake!
-But soon thereafter, I came across a confirmation that this was in fact
-a mistake in a ZRG-KA paper by John Noël Dillon. In my most recent
-conversation with Anders, he pointed out another similar instance of
-Gratian 0 mishandling a reflexive, sibi, in C.29 d.init. I think it's
-natural to assume that Gratian was older than the other members of the
-study group: teachers are, after all, usually older than their students.
-Stipulating to Anders's argument that the Siena necrology indicates that
-"our" Gratian died on 10 August 1144 as bishop of Chiusi, and guessing
-that he was probably around age 60 at the time of his death, means that
-Gratian would have received the early Latin grammar-intensive portions
-of his education before 1100. That may not have been enough to keep up
+<!--
+
+Why did Gratian 0 make no direct contribution to the text of the
+*Decretum* other than the case statements or *themata*? I suspect
+that it was because his written Latin was not as good as that of
+other members of the study group. (See discussion in Chapter 3
+*supra* of the use of reflexives in C.3 d.init. and C.29 d.init.)
+I think it is natural to assume that Gratian was older than the
+other members of the study group: teachers are, after all, usually
+older than their students. Stipulating to Winroth's argument that
+the Siena necrology indicates that Gratian died on 10 August 1144
+or 1145 as bishop of Chiusi, and guessing that he was probably
+around age 60 at the time of his death, means that Gratian would
+have received the early Latin grammar-intensive portions of his
+education before 1100. That may not have been enough to keep up
 with his students as the standards of Latin composition rose as the
-twelfth century advanced. \[As an aside, I think the anomalous Latin was
-what most convinced Anders that I was onto something after I told him
-that the case statements were not written by the same author(s) who
-wrote the first-recension dicta. He was non-committal the first time I
-presented my results to him in 2013 or 2014, but at the Stephan Kuttner
+twelfth century advanced.
+
+[As an aside, I think the anomalous Latin was what most convinced
+Anders that I was onto something after I told him that the case
+statements were not written by the same author(s) who wrote the
+first-recension dicta. He was non-committal the first time I presented
+my results to him in 2013 or 2014, but at the Stephan Kuttner
 Institute event at Yale in 2015 he told me he was convinced because
-"ever since you pointed that out to me, I've noticed that his Latin is
-just not that good."\]
+"ever since you pointed that out to me, I've noticed that his Latin
+is just not that good."]
+
+  -->
 
 The person later identified as Gratian does seem, however, to have been
 the thinker whose methods, arguments, and solutions came to be
