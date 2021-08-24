@@ -62,6 +62,8 @@ ecclesiastical benefices. When preferment came their way, their
 involvement in Gratian's project probably ended. But the fact that
 they had been successful attracted others to take their place.
 
+---
+
 <!-- Chapters 2 and 3 -->
 
 The statement that Gratian is the author of the *Decretum* is a
@@ -77,14 +79,15 @@ first recension has taken for granted that either one or two authors
 wrote the *dicta*. When I started work on this project in 2013, I
 implicitly accepted that assumption and fully expected stylometric
 results for the *dicta* consistent with either Pennington's one-author
-hypothesis or Winroth's two-author hypothesis. My intention was to
-expand what I perceived to be an insufficient evidentiary basis for
-the debate over whether the *dicta* had one or two authors. However
-the results, once I convinced myself that they were not spurious,
-convinced me that the individual *dicta* have to be distinguished
-from the collection as a whole and that it is not consistent with
-the stylometric evidence to think of the collection as a work of
-literature written by either a single author or two authors.
+hypothesis or Winroth's two-author hypothesis. My intention was
+simply to expand what I perceived to be an insufficient evidentiary
+basis for the debate over whether the *dicta* had one or two authors.
+However the results, once I convinced myself that they were not
+spurious, convinced me that the individual *dicta* have to be
+distinguished from the collection as a whole and that it is not
+consistent with the stylometric evidence to think of the collection
+as a work of literature with some internal principle of unity written
+by either a single author or two authors.
 
 The *dicta* are more coherent than a gloss collection but less
 coherent than a treatise. What we have is a collection of texts and
