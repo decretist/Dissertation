@@ -54,34 +54,43 @@ benefices. When preferment came their way, their involvement in
 Gratian's project probably ended. But the fact that they had been
 successful attracted others to take their place.
 
-------------------------------------------------------------------------
-
 <!-- Chapters 2 and 3 -->
 
-------------------------------------------------------------------------
+The statement that Gratian is the author of the *Decretum* is a
+convenient shorthand in which the *Decretum* as a whole stands
+synecdochically for the *dicta*. Gratian scholars are in no danger of
+being mislead by this shorthand. But they are in danger of being mislead
+by the implied statement that Gratian is the author of the *dicta*.
 
-> As to the dicta, I think you adjust your treatment to distinguish
-> between individual dicta and the collection as a whole. What your work
-> shows is that the dicta were not a work of literature written by a
-> single author.
+Scholarship on the *Decretum* in the aftermath of Noonan's debunking of
+the traditional Gratian legendary and Winroth's discovery of the first
+recension has taken for granted that either one or two authors wrote the
+*dicta*. When I started work on this project in 2013, I implicitly
+accepted that assumption and fully expected stylometric results for the
+*dicta* consistent with either Pennington's one-author hypothesis or
+Winroth's two-author hypothesis. My intention was to expand what I
+perceived to be an insufficient evidentiary basis for the debate over
+whether the *dicta* had one or two authors. However the results, once I
+convinced myself that they were not spurious, convinced me that the
+individual *dicta* have to be distinguished from the collection as a
+whole and that it is not consistent with the stylometric evidence to
+think of the collection as a work of literature written by either a
+single author or two authors.
 
-Right, although all of the post-Noonan scholarship has taken for granted
-that either one or two authors wrote the dicta. When I started working
-on this project in 2013, I fully expected stylometric results for the
-dicta consistent with either Ken's one-author hypothesis or Anders's
-two-author hypothesis. I was mostly interested in shutting down what I
-saw as a "tastes great!" vs. "less filling!" debate that was being
-conducted on an insufficient evidentiary basis. The actual results, once
-I convinced myself that they weren't spurious, took the project in a
-somewhat different direction.
+The *dicta* are more coherent than a gloss collection but less coherent
+than a treatise. What we have is a collection of texts and what we need
+is some idea of how that collection was composed. Much of the
+post-Noonan scholarship on the authorship of the *Decretum* has engaged
+in what I have referred to as a "quest of the historical Gratian."
+However it appears that to search for one or more historical Gratians
+behind the collection of *dicta* is to ask a question that is incapable
+of producing a meaningful answer.
 
-> What we have is a collection of works and what we need is an idea of
-> how that collection was made. The search for the Gratian behind the
-> dicta is a fool's errand.
+<!--
 
-I agree, but as I said above, most of the post-Noonan scholarship on the
-authorship of the Decretum has been engaged in precisely that fool's
-errand.
+locality of reference
+
+  -->
 
 ------------------------------------------------------------------------
 
@@ -208,15 +217,15 @@ is just not that good."]
 
 The person later identified as Gratian does seem, however, to have been
 the thinker whose methods, arguments, and solutions came to be
-memorialized in the first-recension dicta. This was the second, and
+memorialized in the first-recension *dicta*. This was the second, and
 probably more important, role that Gratian played in the evolution of
 the text of the first recension. That's not to say that his methods,
 arguments, and solutions weren't worked out in the context of the study
-group, but member of the group clearly accepted Gratian's harmonization
-of the canons as authoritative for them, and passed down to later
-students of canon law the understanding that Gratian was the author of
-the Decretum in the sense that it was his authority that lay behind the
-particular reading of the canons the collection embodied.
+group, but members of the group clearly accepted Gratian's
+reconciliation of the canons as authoritative for them, and passed down
+to later students of canon law the understanding that Gratian was the
+author of the *Decretum* in the sense that it was his authority that lay
+behind the particular reading of the canons the collection embodied.
 
 > How long did that person called Gratian continue to contribute to the
 > work?
@@ -233,7 +242,7 @@ first-recension dicta. Although the words are demonstrably not his, the
 fact that his name came to be attached to the text strongly suggests
 that the arguments are his, and that is the basis for the authority
 claim made on Gratian's behalf by the community the exponential growth
-of the original study group ultimately created..
+of the original study group ultimately created.
 
 As long as the first recension was under active development by the study
 group, which by the mid-1130s had evolved into something looking more
