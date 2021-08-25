@@ -115,13 +115,12 @@ an exercise to the reader." I think that it is also important to note
 that one of the things Gratian brought to the project from the outset
 was a fundamentally conservative and optimistic disposition: his was the
 antithesis of Peter Abelard's project of subverting and even dissolving
-the whole notion of authority by showing that the authorities were in
-actual, not just apparent, disagreement. (I think the depiction of
-Gratian smiling in *Paradiso* 10.103
-<!-- and in the 18th century engraving that
-Winroth has popularized on the internet --> does actually capture
-something signficant about the optimistic outlook that he brought to his
-engagement with the authorities.)
+the whole notion of authority by showing that the authorities were
+in actual, not just apparent, disagreement. (I think the depiction
+of Gratian smiling in *Paradiso* 10.103 <!-- and in the 18th century
+engraving that Winroth has popularized on the internet --> does
+actually capture something signficant about the optimistic outlook
+that he brought to his engagement with the authorities.)
 
 ------------------------------------------------------------------------
 
