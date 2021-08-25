@@ -247,34 +247,28 @@ is just not that good."]
 
 <!-- Gratian 0 as authority -->
 
-However, the figure later identified as Gratian does seem to have
-been the thinker whose methods, arguments, and solutions came to
-be memorialized in the first-recension *dicta*. This was the second,
-and probably more important, role that Gratian played in the evolution
-of the text of the first recension. That is not to say that his
-methods, arguments, and solutions were not worked out in the context
-of the study group, but members of the group clearly accepted
-Gratian's reconciliation of the canons as authoritative for them,
-and passed down to later students of canon law the understanding
-that Gratian was the author of the *Decretum* in the sense that it
-was his authority that lay behind the particular reading of the
-canons the collection embodied.
-
----
-
----
+Moving beyond the exact wording of the first-recension case statements,
+the real contribution of the figure later identified as Gratian to
+the *Decretum* was as the leader of the study group, the thinker
+whose method of reconciling the contradictions presented by the
+canons came to be memorialized in the first-recension *dicta*. This
+was the second, and probably more important, role that Gratian
+played in the development of the text of the first recension. That
+is not to say that his methods, arguments, and solutions were not
+worked out in the context of the study group, but members of the
+group clearly accepted Gratian's method of reconciling the canons
+as authoritative for them, and passed down to later students of
+canon law the understanding that Gratian was the author of the
+Decretum in the sense that it was his authority that lay behind the
+particular reading of the canons the collection embodied. Although
+the words of the *dicta* are demonstrably not his, the fact that
+his name came to be attached to the text strongly suggests that the
+method was his, and that is the basis for the authority claim made
+on Gratian's behalf by the community the exponential growth of the
+original study group ultimately created.
 
 > How long did that person called Gratian continue to contribute to
 the work?
-
-Gratian's extended contribution to the development of the text of
-the *Decretum* was as the leader of the study group, the thinker whose
-solutions to problems presented by the canons are reflected in the
-first-recension *dicta*. Although the words are demonstrably not his,
-the fact that his name came to be attached to the text strongly
-suggests that the arguments are his, and that is the basis for the
-authority claim made on Gratian's behalf by the community the
-exponential growth of the original study group ultimately created.
 
 As long as the first recension was under active development by the
 study group, which by the mid-1130s had evolved into something
