@@ -17,9 +17,8 @@ How to make sense of this result?
 
 <!-- Chapter 1 -->
 
-The most important take-way from Chapter 1 on the legal
-revolution of the twelfth century, the background from which the
-*Decretum* emerges, is that it is as much a social as an
+The legal revolution of the twelfth century, the background from
+which the *Decretum* emerged, was as much a social as an
 intellectual movement. My thinking in reconceptualizing the canon
 law strand of the legal revolution of the twelfth century as a
 social movement (as opposed to an intellectual movement, as it is
@@ -33,7 +32,7 @@ exponential growth in which, for a very long time, the number of
 people involved is quite small. As a result, evidence of their
 activities emerges into the historical record only after a considerable
 delay. The *Marturi placitum* (1076) is evidence that the Roman law
-strand of the legal revolution, at least, had a lengthy prehistory
+strand of the legal revolution had a lengthy prehistory
 (the long tail) before it broke the surface into historical visibility
 thirty years later in the first decade of the twelfth century. The
 results of the collective efforts of the circle we associate with
@@ -58,9 +57,7 @@ some substantial real-world benefit that made the effort worthwhile
 for the participants. It is not at all hard to guess what that
 benefit was. The participants were not interested in teaching as a
 career. They were looking for competitive advantage in the race for
-ecclesiastical benefices. When preferment came their way, their
-involvement in Gratian's project probably ended. But the fact that
-they had been successful attracted others to take their place.
+ecclesiastical benefices.
 
 ---
 
@@ -112,8 +109,8 @@ of canons that he used in the earliest course on canon law, <!--
 and may also have written a few of the comments that are now part
 of the collection of *dicta* --> but we must be extremely careful
 about precisely what we mean when we say that Gratian "created a
-collection of canons" and especially that the collection was "used
-in the earliest course on canon law."
+collection of canons" and especially when we say that the collection
+was "used in the earliest course on canon law."
 
 I believe that it is reasonable to assume that the historical Gratian
 was, when he initiated the project, someone who had carefully read
@@ -290,6 +287,10 @@ of the *Decretum* in which Gratian 0 was still personally involved.
 I think Winroth was right that the person called Gratian was not a
 contributor to the second recension.
 
+---
+
+---
+
 <!--
 
 That is something of a non-answer, as it does not put an end-date
@@ -312,29 +313,19 @@ to authority) at earlier stages of the project.
 
   -->
 
-Why were the contributors who followed Gratian all anonymous?
-
-The larger-than-expected number of contributors and the apparent
-absence of overlap between contributors to the first- and
-second-recension *dicta* suggests that the involvement of individual
-contributors was relatively brief, perhaps a year or two.
-Stark
-suggests that the reason Christianity experienced exponential growth
-in its earliest stages was that adherence conferred significant
-real-world benefits. I would suggest that a similar dynamic is at
-work here.
-Involvement in Gratian's project would have to have
-conferred significant real-world benefits for the contributors to
-justify the uncompensated labor they put in, and to explain the
-exponential growth pattern. The contributors were not interested
-in teaching as a career. They were looking for competitive advantage
-in the race for ecclesiastical benefices. When preferment came their
-way, their involvement in the project ended. But the fact that they
-had been successful attracted others to take their place.
-
----
-
----
+Why were the contributors who followed Gratian all anonymous? The
+larger-than-expected number of contributors and the apparent absence
+of overlap between contributors to the first- and second-recension
+*dicta* suggests that the involvement of individual contributors
+was relatively brief, perhaps a year or two. As noted above,
+involvement in Gratian's project would have to have conferred
+significant real-world advantages for the contributors, in the form
+of enhanced competitiveness for benefices, in order to justify the
+uncompensated scribal labor they put into it. When ecclesiastical
+preferment came their way, their involvement in Gratian's project
+probably ended. But the fact that they had been successful attracted
+others to take their place, which goes a long way toward explaining
+the exponential growth pattern.
 
 The rapid turnover of contributors meant that the study group went
 through several "generations" of members between the mid-1120s and
