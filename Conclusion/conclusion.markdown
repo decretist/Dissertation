@@ -8,15 +8,13 @@ Gratian 2, I have named this figure Gratian 0, and I take him to be
 
 How to make sense of this result?
 
-<!-- Chapter 1 -->
-
 The legal revolution of the twelfth century, the background from which
 the *Decretum* emerged, was as much a social as an
 intellectual movement. My thinking in reconceptualizing the canon law
 strand of the legal revolution of the twelfth century as a social
 movement (as opposed to an intellectual movement, as it is usually
 treated in the scholarly literature) was strongly influenced by Rodney
-Stark's *The Rise of Christianity*. Thinking of the growth of the
+Stark's *The Rise of Christianity*.[1] Thinking of the growth of the
 systematic study of canon law as a social movement has two significant
 implications.
 
@@ -51,10 +49,6 @@ participants. It is not at all hard to guess what that benefit was. The
 participants were not interested in teaching as a career. They were
 looking for competitive advantage in the race for ecclesiastical
 benefices.
-
-------------------------------------------------------------------------
-
-<!-- Chapters 2 and 3 -->
 
 The statement that Gratian is the author of the *Decretum* is a
 convenient shorthand in which the *Decretum* as a whole stands
@@ -179,8 +173,6 @@ The person later identified as Gratian performed two distinct roles in
 the evolution of the text of the first recension, as author and as
 authority.
 
-<!-- Gratian 0 as author -->
-
 First, he appears to be the author of the case statements in the literal
 sense of having formulated their exact wording. In his capacity as
 literal author of the case statement, I refer to him as Gratian 0, to
@@ -230,7 +222,6 @@ Institute event at Yale in 2015 he told me he was convinced because
 is just not that good."]
 
   -->
-<!-- Gratian 0 as authority -->
 
 Moving beyond the exact wording of the first-recension case statements,
 the real contribution of the figure later identified as Gratian to the
@@ -331,7 +322,7 @@ Pennington has argued against Winroth's claim that the development from
 the first to the second recension of the *Decretum* was accomplished in
 a single bound by someone other than the original Gratian on the grounds
 that someone would have noticed and remarked on such an extensive
-revision of the text by another author,[1] and he could presumably make
+revision of the text by another author,[2] and he could presumably make
 a similar argument against my claim that there was a change in
 authorship between the case statements and the first-recension *dicta*.
 
@@ -357,7 +348,10 @@ in the development of the text that someone would have noticed.
 
   -->
 
-[1] "My main argument for not accepting the theory that there were two
+[1] Rodney Stark, *The Rise of Christianity: A Sociologist Reconsiders
+History* (Princeton, N.J: Princeton University Press, 1996).
+
+[2] "My main argument for not accepting the theory that there were two
 Gratians is quite simple. It is difficult to imagine that if a Gratian
 compiled the pre-Vulgate *Decretum*, and another person doubled the size
 from ca. 2000 canons to ca. 4000, the first generation of jurists after
