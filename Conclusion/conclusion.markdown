@@ -115,9 +115,9 @@ an exercise to the reader." I think that it is also important to note
 that one of the things Gratian brought to the project from the outset
 was a fundamentally conservative and optimistic disposition: his was the
 antithesis of Peter Abelard's project of subverting and even dissolving
-the whole notion of authority by showing that the authorities were
-in actual, not just apparent, disagreement. (I think the depiction
-of Gratian smiling in *Paradiso* 10.103 <!-- and in the 18th century
+the whole notion of authority by showing that the authorities were in
+actual, not just apparent, disagreement. (I think the depiction of
+Gratian smiling in *Paradiso* 10.103 <!-- and in the 18th century
 engraving that Winroth has popularized on the internet --> does
 actually capture something significant about the optimistic outlook
 that he brought to his engagement with the authorities.)
@@ -140,6 +140,10 @@ it possible to put on parchment the collection of canons he thought
 raised the really salient issues and his comments on them. Before the
 formation of the study group, I doubt that the collection of canons and
 comments had any concrete existence outside of Gratian's head.
+
+------------------------------------------------------------------------
+
+------------------------------------------------------------------------
 
 > ... but the collection of dicta as a whole grew to its classical form
 > over several decades.
@@ -168,6 +172,10 @@ students of their own by that point.
 > The further questions are: When did the process start?
 
 The 1120s.
+
+------------------------------------------------------------------------
+
+------------------------------------------------------------------------
 
 The person later identified as Gratian performed two distinct roles in
 the evolution of the text of the first recension, as author and
@@ -235,6 +243,10 @@ reconciliation of the canons as authoritative for them, and passed down
 to later students of canon law the understanding that Gratian was the
 author of the *Decretum* in the sense that it was his authority that lay
 behind the particular reading of the canons the collection embodied.
+
+------------------------------------------------------------------------
+
+------------------------------------------------------------------------
 
 > How long did that person called Gratian continue to contribute to the
 > work?

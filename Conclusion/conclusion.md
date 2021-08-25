@@ -155,6 +155,7 @@ collection of canons and comments had any concrete existence outside
 of Gratian's head.
 
 ---
+
 ---
 
 > ... but the collection of dicta as a whole grew to its classical form over several decades.
@@ -186,6 +187,7 @@ and topics added to the corpus and by accumulating commentary
 The 1120s.
 
 ---
+
 ---
 
 The person later identified as Gratian performed two distinct roles
@@ -260,6 +262,7 @@ was his authority that lay behind the particular reading of the
 canons the collection embodied.
 
 ---
+
 ---
 
 > How long did that person called Gratian continue to contribute to
