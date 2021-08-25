@@ -90,36 +90,40 @@ of producing a meaningful answer.
 
 <!--
 
-locality of reference
+The *dicta* display some locality of reference, i.e., a given
+*dictum* is likely to discuss the same or a similar issue, and
+presumably to have the same author, as the *dicta* immediately
+before and after it.
 
   -->
 
+The historical Gratian is often said to have created a collection of
+canons that he used in the earliest course on canon law, <!--
+and may also have written a few of the comments that are now part
+of the collection of *dicta* --> but we must be extremely careful about
+precisely what we mean when we say that Gratian "created a collection of
+canons" and especially that the collection was "used in the earliest
+course on canon law."
+
+I believe that it is reasonable to assume that the historical Gratian
+was, when he initiated the project, someone who had carefully read
+around a half-dozen important reform-era formal source collections. He
+was aware in a general way of how the new schools in Northern France
+approached textual problems, and in particular of the hermeneutical
+approach to reading the canons outlined in Ivo's *Prologue* but "left as
+an exercise to the reader." I think that it is also important to note
+that one of the things Gratian brought to the project from the outset
+was a fundamentally conservative and optimistic disposition: his was the
+antithesis of Peter Abelard's project of subverting and even dissolving
+the whole notion of authority by showing that the authorities were in
+actual, not just apparent, disagreement. (I think the depiction of
+Gratian smiling in *Paradiso* 10.103
+<!-- and in the 18th century engraving that
+Winroth has popularized on the internet --> does actually capture
+something signficant about the optimistic outlook that he brought to his
+engagement with the authorities.)
+
 ------------------------------------------------------------------------
-
-> The historical Gratian may have created a collection of canons used in
-> the earliest course on canon law and may have written a few of the
-> comments that are now part of the collection of dicta ...
-
-True, but I think we have to be very careful about precisely what we
-mean when we say that Gratian "created a collection of canons" and that
-the collection was "used in the earliest course on canon law."
-
-I think it's safe to say that the historical Gratian was, when he
-started the project, someone who had carefully read around a half-dozen
-important reform-era formal source collections. He was aware in a
-general way of how the new schools in Northern France approached textual
-problems, and in particular of the hermeneutical approach to reading the
-canons outlined in Ivo's Prologue but "left as an exercise to the
-reader." I think it's also important to note that one of the things
-Gratian brings to the project from the outset is a fundamentally
-conservative and optimistic disposition: his is the antithesis of Peter
-Abelard's bad-boy project of subverting and even dissolving the whole
-notion of authority by showing that the authorities are in actual, not
-just apparent, disagreement. (With respect to the optimistic outlook
-that he brought to his engagement with the authorities, I think
-depictions of Gratian smiling in Paradiso 10.103 and in that 18th
-century engraving Anders has popularized all over the internet do
-actually capture something important about him.)
 
 At some point in the 1120s, Gratian became the convener of a study group
 that read the canons, and started to work out a systematic jurisprudence
