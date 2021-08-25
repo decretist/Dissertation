@@ -130,33 +130,32 @@ authority by showing that the authorities were in actual, not just
 apparent, disagreement. (I think the depiction of Gratian smiling
 in *Paradiso* 10.103 <!-- and in the 18th century engraving that
 Winroth has popularized on the internet --> does actually capture
-something signficant about the optimistic outlook that he brought
+something significant about the optimistic outlook that he brought
 to his engagement with the authorities.)
-
----
 
 At some point in the 1120s, Gratian became the convener of a study
 group that read the canons, and started to work out a systematic
 jurisprudence based on them. The formation of the study group was
 obviously a crucial step in the development of canon law as a
-discipline, but I think it's something of an anachronism to call
+discipline, but I believe it is something of an anachronism to call
 it "the earliest course on canon law." I think we can infer that
-Gratian at this point had a good command of the raw material, but
-he was not yet in possession of a fully-developed method for solving
-problems presented by the canons that he could systematically impart
-to students. He does not at this stage know so much more than the
-other participants that we can unambiguously call him *magister* and
-them *discipuli*.
+Gratian at this point had a good command of the sources, but he was
+not yet in possession of a fully-developed method for reconciling
+the contradictions presented by the canons that he could systematically
+impart to students. He did not at this stage know so much more than
+the other participants in the study group that we can unambiguously
+call him *magister* and them *discipuli*.
 
 One of the most important things the formation of the study-group
-does for Gratian is provide him with a pool of volunteer labor that
-makes it possible to put on parchment the collection of canons he
-thinks raise the really interesting issues and his comments on them.
-Before the formation of the study group, I doubt that the collection
-of canons and comments had an existence outside of Gratian's head.
-I'll get into what I think is in it for the volunteer contributors,
-and why it matters, below (short answer: a competitive advantage
-in the arms-race for ecclesiastical benefices).
+did for Gratian was to provide him with a pool of volunteer labor
+that made it possible to put on parchment the collection of canons
+he thought raised the really salient issues and his comments on
+them. Before the formation of the study group, I doubt that the
+collection of canons and comments had any concrete existence outside
+of Gratian's head.
+
+---
+---
 
 > ... but the collection of dicta as a whole grew to its classical form over several decades.
 
@@ -186,22 +185,35 @@ and topics added to the corpus and by accumulating commentary
 
 The 1120s.
 
-> What role did the person later identified as Gratian play in the
-evolution of the text?
+---
+---
 
 The person later identified as Gratian performed two distinct roles
-in the evolution of the text of the first recension.
+in the evolution of the text of the first recension, as author and
+authority.
+
+<!-- Gratian 0 as author -->
 
 First, he appears to be the author of the case statements in the
 literal sense of having formulated their exact wording. In his
 capacity as literal author of the case statement, I refer to him
-elsewhere in my dissertation as Gratian 0, as opposed to Anders's
-Gratian 1 and Gratian 2. Unlike Gratian 1 and Gratian 2, Gratian 0
-is clearly one person. The case statements were textually quite
-stable from an early stage in the project (only 13 words were added,
-to C.19 d.init., in the second recension). I don't think, however,
-that they predated the formation of the study group. Rather, I think
-that Gratian developed them alongside the earliest group readings.
+as Gratian 0, to distinguish him from Winroth's Gratian 1 and Gratian 2.
+Unlike Gratian 1 and Gratian 2, Gratian 0 is clearly one person.
+The case statements were textually quite stable from an early stage
+in the project (only 13 words were added, to C.19 d.init., in the
+second recension). However, I do not believe that they predated the
+formation of the study group. Indeed, the existence of the case
+statements in written form makes little sense outside the context
+of the study group. Rather, I think that Gratian 0 developed them
+alongside the earliest group readings.
+
+The fact that that the case statements were written by a single
+author whose words appear nowehere else in the *Decretum*, that
+their existence implies use by a reading or study group, and that
+almost no changes were made to their text during the stages of the
+development of the *Decretum* into which we have visibility, all
+suggest to me that the process start quite early, likely in the
+1120s.
 
 <!--
 
@@ -232,18 +244,23 @@ is just not that good."]
 
   -->
 
-The person later identified as Gratian does seem, however, to have
+<!-- Gratian 0 as authority -->
+
+However, the figure later identified as Gratian does seem to have
 been the thinker whose methods, arguments, and solutions came to
 be memorialized in the first-recension *dicta*. This was the second,
 and probably more important, role that Gratian played in the evolution
-of the text of the first recension. That's not to say that his
-methods, arguments, and solutions weren't worked out in the context
-of the study group, but members of the group clearly accepted Gratian's
-reconciliation of the canons as authoritative for them, and passed
-down to later students of canon law the understanding that Gratian
-was the author of the *Decretum* in the sense that it was his authority
-that lay behind the particular reading of the canons the collection
-embodied.
+of the text of the first recension. That is not to say that his
+methods, arguments, and solutions were not worked out in the context
+of the study group, but members of the group clearly accepted
+Gratian's reconciliation of the canons as authoritative for them,
+and passed down to later students of canon law the understanding
+that Gratian was the author of the *Decretum* in the sense that it
+was his authority that lay behind the particular reading of the
+canons the collection embodied.
+
+---
+---
 
 > How long did that person called Gratian continue to contribute to
 the work?
