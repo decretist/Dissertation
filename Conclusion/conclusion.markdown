@@ -275,22 +275,27 @@ as that stage in the textual development of the Decretum in which
 Gratian was personally involved. I think Anders was right that the
 person called Gratian was not a contributor to the second recension.
 
-Now, that's something of a non-answer, since it doesn't put a date to
-the end of Gratian's active involvement in the evolution of the text. He
+<!--
+
+That is something of a non-answer, as it does not put an end-date
+on Gratian's active involvement in the evolution of the text. He
 could have remained involved until he got a benefice (possibly the
-bishopric of Chiusi, c.1143), something he seems to have waited rather
-longer for than many of the other early contributors to the project. But
-the textual evolution of the first recension seems to have been more or
-less complete by the mid-1130s, and (if we believe Noonan and Grebner),
-Gratian was still acting as a legal consultant into the early 1140s.
-That leaves a gap of a half-decade or so (1136-1143?) when Gratian could
-have been, but doesn't seem to actually have been involved with the
-further evolution of the text. I speculate that after the mid-1130s,
-deficiencies in Gratian's knowledge of Roman law (at least relative to
-other younger member of the loose proto-faculty) limited his further
-contributions in the same way that relative deficiencies in his Latin
-skills limited his contributions as unmediated author at earlier stages
-of the project.
+bishopric of Chiusi, c.1143), something he seems to have waited
+rather longer for than many of the other early contributors to the
+project. But the textual evolution of the first recension seems to
+have been more or less complete by the mid-1130s, and, if we believe
+Noonan and Grebner, Gratian was still acting as a legal consultant
+into the early 1140s. That leaves a gap of a half-decade or so
+(1136-1143?) when Gratian could have been, but does not seem to
+actually have been, involved with the further evolution of the text.
+I speculate that after the mid-1130s, deficiencies in Gratian's
+knowledge of Roman law, at least relative to that of other younger
+member of the loose proto-faculty, limited his further contributions
+to the project in the same way that relative deficiencies in his
+Latin skills had limited his contributions as author (as opposed
+to authority) at earlier stages of the project.
+
+  -->
 
 > Why are the contributors who followed Gratian all anonymous?
 
@@ -309,18 +314,18 @@ advantage in the race for ecclesiastical benefices. When preferment came
 their way, their involvement in the project ended. But the fact that
 they had been successful attracted others to take their place.
 
+------------------------------------------------------------------------
+
+------------------------------------------------------------------------
+
 The rapid turnover of contributors meant that the study group went
 through several "generations" of members between the mid-1120s and
 mid-1130s. By the time of Paucapalea in the late 1140s, turnover of
-membership in what's now a quite substantial community is much slower,
-but there have been so many intervening "generations" that any
-information about the history of the project that didn't make it into
-the text of the Decretum was lost, including (for Paucapalea) even the
-name of Gratian.
-
-------------------------------------------------------------------------
-
-------------------------------------------------------------------------
+membership in what had by that point become a quite substantial
+community was much slower, but there had been so many intervening
+"generations" that any information about the history of the project that
+had not been incorporated into the text of the *Decretum* was lost,
+apparently including for Paucapalea even the name of Gratian.
 
 What does all of this say about teachers and the teaching of canon law
 between the early 1120s and the 1150s? In the 1120s and 1130s, the
@@ -334,8 +339,8 @@ there was a great deal that Gratian did not know at that point, such as
 whether and how to incorporate Roman law into his system. In some sense,
 then, they were all figuring it out together. We should not think of the
 Gratian of the 1120s and 1130s as the kind of guild-certified master,
-able to "explain it all for you," that we would expect to meet from the
-1150s or 1160s on.
+able to "explain it all for you," that we would expect to encounter from
+the 1150s or 1160s on.
 
 Pennington has argued against Winroth's claim that the development from
 the first to the second recension of the *Decretum* was accomplished in
