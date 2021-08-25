@@ -339,38 +339,34 @@ any information about the history of the project that didn't make
 it into the text of the Decretum was lost, including (for Paucapalea)
 even the name of Gratian.
 
-> What does that say about the teachers and teaching of canon law
-between the early 1120s and the 1150s?
-
-In the 1120s and 1130s, the distinction between teacher and student
-was a lot less clear than it became a few decades later. Gratian
-is the leader of the study group, and the figure to whom the group
-defers, because he's the one who's done by far, one suspects, the
-most reading in the sources of canon law. But having read widely
-in the canons is not the same thing as having fully worked out a
-jurisprudential system, and there is a lot that Gratian doesn't
-know yet (like whether and how to incorporate Roman law into the
-system). So in some sense, they're all figuring it out together.
-We should not think of the Gratian of the 1120s and 1130s as the
-kind of guild-certified master, able to "explain it all for you,"
-that we would expect to meet from the 1150s or 1160s on.
+---
 
 ---
+
+What does all of this say about teachers and the teaching of canon
+law between the early 1120s and the 1150s? In the 1120s and 1130s,
+the distinction between teacher and student was much less clear
+than it became a few decades later. Gratian was the leader of the
+study group, and the figure to whom the group deferred, because he
+was the one who had done by far, one suspects, the most reading in
+the sources of canon law. But having read widely in the canons was
+not the same thing as having fully worked out a jurisprudential
+system based on them, and there was a great deal that Gratian did
+not know at that point, such as whether and how to incorporate Roman
+law into his system. In some sense, then, they were all figuring
+it out together. We should not think of the Gratian of the 1120s
+and 1130s as the kind of guild-certified master, able to "explain
+it all for you," that we would expect to meet from the 1150s or
+1160s on.
 
 Pennington has argued against Winroth's claim that the development
 from the first to the second recension of the *Decretum* was
 accomplished in a single bound by someone other than the original
 Gratian on the grounds that someone would have noticed and remarked
-on such an extreme reconfiguration of the text:
-
-> My main argument for not accepting the theory that there were two
-Gratians is quite simple. It is difficult to imagine that if a
-Gratian compiled the pre-Vulgate *Decretum*, and another person
-doubled the size from ca. 2000 canons to ca. 4000, the first
-generation of jurists after Gratian would have not noticed or not
-known about the second Gratian's work and blithely attributed what
-was now a massive work to just "Gratian."[@pennington_biography_2018,
-361-362].
+on such an extensive revision of the text by another author,[^1]
+and he could presumably make a similar argument against my claim
+that there was a change in authorship between the case statements
+and the first-recension *dicta*.
 
 They did not notice or know, however, because the *Decretum* came
 to the attention of a significant audience only among the second,
@@ -378,16 +374,27 @@ not the first, generation of jurists after Gratian. The earliest
 significant change to the text to draw widespread notice was the
 division of the first part of the *Decretum* into distinctions by
 Paucapalea. Paucapalea, though, was far enough removed from the
-circumstances surrounding the composition of the text that he did
-not even know the name of its author. Ironically, Pennington's
-"someone would have noticed" argument is wrong precisely because
-his argument that the text of the *Decretum* underwent a long and
-slow process of development is right.
+circumstances surrounding the composition of the text that he does
+not appear even to have known the name of its author. Ironically,
+Pennington's "someone would have noticed" argument is wrong precisely
+because his argument that the text of the *Decretum* underwent a
+long and slow process of development is right.
 
-This, in turn, is an argument in favor of the case statements
-having been one of the first parts of the *Decretum* reduced to a
-stable written form. The logical alternative, that case statements
-were written after the fact, would have to have taken place late
-enough in the development of the text that someone would have
-noticed.
+<!--
 
+This, in turn, is an argument in favor of the case statements having
+been one of the first parts of the *Decretum* reduced to a stable
+written form. The logical alternative, that case statements were
+written after the fact, would have to have taken place late enough
+in the development of the text that someone would have noticed.
+
+  -->
+
+[^1]: "My main argument for not accepting the theory that there
+were two Gratians is quite simple. It is difficult to imagine that
+if a Gratian compiled the pre-Vulgate *Decretum*, and another person
+doubled the size from ca. 2000 canons to ca. 4000, the first
+generation of jurists after Gratian would have not noticed or not
+known about the second Gratian's work and blithely attributed what
+was now a massive work to just 'Gratian.'" @pennington_biography_2018
+[361-362].
