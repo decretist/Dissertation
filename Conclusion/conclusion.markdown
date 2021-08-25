@@ -24,12 +24,12 @@ First, social movements of this kind display a pattern of long-tail
 exponential growth in which, for a very long time, the number of people
 involved is quite small. As a result, evidence of their activities
 emerges into the historical record only after a considerable delay. The
-Marturi placitum (1076) is evidence that the Roman law strand of the
+*Marturi placitum* (1076) is evidence that the Roman law strand of the
 legal revolution, at least, had a lengthy prehistory (the long tail)
 before it broke the surface into historical visibility thirty years
 later in the first decade of the twelfth century. The results of the
 collective efforts of the circle we associate with the name of Gratian
-(*Gratian-Kreis*?) emerge into our field of view only after 1140, at
+(*Gratian-Kreis*) emerge into our field of view only after 1140, at
 which point it is not unreasonable to believe that they had been at work
 in some form or another for two if not three decades. (Pennington has
 argued for a long period of textual development for the *Decretum*,
@@ -145,8 +145,8 @@ comments had any concrete existence outside of Gratian's head.
 
 ------------------------------------------------------------------------
 
-> ... but the collection of dicta as a whole grew to its classical form
-> over several decades.
+> ... but the collection of *dicta* as a whole grew to its classical
+> form over several decades.
 
 True.
 
@@ -159,17 +159,17 @@ uncomfortable with using the language of teacher and student to describe
 the relationship between Gratian and the contributors at the very
 earliest stages (1120s) of the project. I think by the mid-1130s, we can
 think of the ongoing activity around Gratian as having evolved from
-being a reading or study group (Gratian-Kreis?) into something more like
-a course or even a loose proto-faculty. Gratian would not have been the
-only teacher, some of the earliest contributors (those still hanging
-around Bologna awaiting a suitable benefice) would have to have had
-students of their own by that point.
+being a reading or study group into something more like a course or even
+a loose proto-faculty. Gratian would not have been the only teacher,
+some of the earliest contributors (those still hanging around Bologna
+awaiting a suitable benefice) would have to have had students of their
+own by that point.
 
 > I think your work leads us to a new model of how the classical form of
-> the Decretum came to be. It started with a collection of canons
+> the *Decretum* came to be. It started with a collection of canons
 > organized into topical segments. It then grew both by having canons
-> and topics added to the corpus and by accumulating commentary (dicta).
-> The further questions are: When did the process start?
+> and topics added to the corpus and by accumulating commentary
+> (*dicta*). The further questions are: When did the process start?
 
 The 1120s.
 
@@ -178,7 +178,7 @@ The 1120s.
 ------------------------------------------------------------------------
 
 The person later identified as Gratian performed two distinct roles in
-the evolution of the text of the first recension, as author and
+the evolution of the text of the first recension, as author and as
 authority.
 
 <!-- Gratian 0 as author -->
@@ -187,13 +187,15 @@ First, he appears to be the author of the case statements in the literal
 sense of having formulated their exact wording. In his capacity as
 literal author of the case statement, I refer to him as Gratian 0, to
 distinguish him from Winroth's Gratian 1 and Gratian 2. Unlike Gratian 1
-and Gratian 2, Gratian 0 is clearly one person. The case statements were
-textually quite stable from an early stage in the project (only 13 words
-were added, to C.19 d.init., in the second recension). However, I do not
-believe that they predated the formation of the study group. Indeed, the
-existence of the case statements in written form makes little sense
-outside the context of the study group. Rather, I think that Gratian 0
-developed them alongside the earliest group readings.
+and Gratian 2, Gratian 0 is clearly one person. Gratian 0's only direct
+contribution to the text of the *Decretum* was as the writer of the
+3,592 words of the first-recension case statements. The case statements
+were textually quite stable from an early stage in the project (only 13
+words were added, to C.19 d.init., in the second recension). However, I
+do not believe that they predated the formation of the study group.
+Indeed, the existence of the case statements in written form makes
+little sense outside the context of the study group. Rather, I think
+that Gratian 0 developed them alongside the earliest group readings.
 
 The fact that that the case statements were written by a single author
 whose words appear nowehere else in the *Decretum*, that their existence
@@ -221,9 +223,9 @@ with his students as the standards of Latin composition rose as the
 twelfth century advanced.
 
 [As an aside, I think the anomalous Latin was what most convinced
-Anders that I was onto something after I told him that the case
+Winroth that I was onto something after I told him that the case
 statements were not written by the same author(s) who wrote the
-first-recension dicta. He was non-committal the first time I presented
+first-recension *dicta*. He was non-committal the first time I presented
 my results to him in 2013 or 2014, but at the Stephan Kuttner
 Institute event at Yale in 2015 he told me he was convinced because
 "ever since you pointed that out to me, I've noticed that his Latin
@@ -251,16 +253,11 @@ behind the particular reading of the canons the collection embodied.
 > How long did that person called Gratian continue to contribute to the
 > work?
 
-Gratian's only direct contribution to the development of the text of the
-Decretum was as the writer of the 3,592 words of the first-recension
-case statements. (This is the author labelled Gratian 0 in my
-stylometric analysis, whom I take to be the person we know as Gratian.)
-
 Gratian's extended contribution to the development of the text of the
-Decretum was as the leader of the study group, the thinker whose
+*Decretum* was as the leader of the study group, the thinker whose
 solutions to problems presented by the canons are reflected in the
-first-recension dicta. Although the words are demonstrably not his, the
-fact that his name came to be attached to the text strongly suggests
+first-recension *dicta*. Although the words are demonstrably not his,
+the fact that his name came to be attached to the text strongly suggests
 that the arguments are his, and that is the basis for the authority
 claim made on Gratian's behalf by the community the exponential growth
 of the original study group ultimately created.
@@ -268,12 +265,12 @@ of the original study group ultimately created.
 As long as the first recension was under active development by the study
 group, which by the mid-1130s had evolved into something looking more
 like a proper university course, or even an informally connected cluster
-of courses (proto-faculty), the as yet non-beneficed among the earlier
+of courses (a proto-faculty), the as yet non-beneficed among the earlier
 contributors having attracted students of their own by this stage. In
 fact, I think we can safely (if circularly) define the first-recension
-as that stage in the textual development of the Decretum in which
-Gratian was personally involved. I think Anders was right that the
-person called Gratian was not a contributor to the second recension.
+as that stage in the textual development of the *Decretum* in which
+Gratian 0 was still personally involved. I think Winroth was right that
+the person called Gratian was not a contributor to the second recension.
 
 <!--
 
@@ -297,12 +294,12 @@ to authority) at earlier stages of the project.
 
   -->
 
-> Why are the contributors who followed Gratian all anonymous?
+Why were the contributors who followed Gratian all anonymous?
 
 The larger-than-expected number of contributors and the apparent absence
-of overlap between contributors to the first- and second-recension dicta
-suggests that the involvement of individual contributors was relatively
-brief, perhaps a year or two. Stark suggests that the reason
+of overlap between contributors to the first- and second-recension
+*dicta* suggests that the involvement of individual contributors was
+relatively brief, perhaps a year or two. Stark suggests that the reason
 Christianity experienced exponential growth in its earliest stages was
 that adherence conferred significant real-world benefits. I would
 suggest that a similar dynamic is at work here. Involvement in Gratian's
