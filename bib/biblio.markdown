@@ -147,6 +147,14 @@ U.C.L.A., 5. Berkeley: University of California Press, 1972.
 
 </div>
 
+<div id="ref-cooper_gawain_1988" class="csl-entry">
+
+Cooper, R. A., and D. A. Pearsall. “The Gawain Poems: A Statistical
+Approach to the Question of Common Authorship.” *The Review of English
+Studies* 39, no. 155 (1988): 365–85.
+
+</div>
+
 <div id="ref-corbino_pandectarum_1988" class="csl-entry">
 
 Corbino, Alessandro, and Bernardo Santalucia, eds. *Justiniani Augusti
@@ -225,6 +233,13 @@ Eder, Maciej, Jan Rybicki, and Mike Kestemont. “Stylometry with r: A
 Package for Computational Text Analysis.” *R Journal* 8, no. 1 (2016):
 107–21.
 <https://journal.r-project.org/archive/2016/RJ-2016-007/index.html>.
+
+</div>
+
+<div id="ref-edwards_go_2020" class="csl-entry">
+
+Edwards, A. S. G. “Go Little Books: More Problems of Early Modern
+Attribution.” *TLS. Times Literary Supplement*, no. 6118 (2020): 9.
 
 </div>
 
@@ -537,6 +552,15 @@ Berolini: apud Weidmannos, 1928.
 
 Kuttner, Stephan. “De Gratiani opere noviter edendo.” *Apollinaris* 21
 (1948): 118–28.
+
+</div>
+
+<div id="ref-kuttner_pope_1992" class="csl-entry">
+
+———. “Pope Lucius III and the Bigamous Archbishop of Palermo.” In *The
+History of Ideas and Doctrines of Canon Law in the Middle Ages*, 2nd
+ed., 409–54. Collected Studies Series ; CS 113. London: Variorum
+Reprints ; Brookfield, Vt: Ashgate Pub, 1992.
 
 </div>
 
@@ -949,6 +973,13 @@ Haven, Conn: Yale University Press, 1998.
 
 Southern, R. W. *Scholastic Humanism and the Unification of Europe*.
 Vol. 1. Oxford, UK ; Cambridge, Mass., USA: Blackwell, 1995.
+
+</div>
+
+<div id="ref-stark_rise_1996" class="csl-entry">
+
+Stark, Rodney. *The Rise of Christianity: A Sociologist Reconsiders
+History*. Princeton, N.J: Princeton University Press, 1996.
 
 </div>
 

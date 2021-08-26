@@ -7,7 +7,6 @@ def main():
         '../Chapter2/chapter2.md',
         '../Chapter3/chapter3.md',
         '../Chapter4/chapter4.md',
-        '../Chapter4/pca.md',
         '../Conclusion/conclusion.md'
     ]
     for name in names:

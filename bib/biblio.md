@@ -20,6 +20,7 @@ nocite: |
   @burrows_questions_2003
   @chodorow_ecclesiology_1972
   @chodorow_review_2003
+  @cooper_gawain_1988
   @corbino_pandectarum_1988
   @craig_stylistic_2004
   @de_jong_penitential_2009
@@ -29,6 +30,7 @@ nocite: |
   @duvernoy_registre_1965
   @eder_abstract_2013
   @eder_does_2015
+  @edwards_go_2020
   @eichbauer_first_2012
   @eichbauer_gratians_2013
   @eichbauer_redactions_2007
@@ -67,6 +69,7 @@ nocite: |
   @kruger_corpus_1928
   @kuttner_father_1941
   @kuttner_gratiani_1948
+  @kuttner_pope_1992
   @kuttner_repertorium_1937
   @kuttner_research_1990
   @landau_arbeitsplan_1994
@@ -119,6 +122,7 @@ nocite: |
   @singer_summa_1963
   @somerville_prefaces_1998
   @southern_scholastic_1995
+  @stark_rise_1996
   @thompson_treatise_1993
   @van_hove_prolegomena_1945
   @verger_patterns_1992
