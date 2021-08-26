@@ -1,5 +1,3 @@
-<!-- Headline -->
-
 The case statements or *themata* were written by a single author whose
 words appear nowhere else in the *Decretum*. In the spirit of Winroth,
 who refers to his hypothesized author of the second-recension *dicta* as
@@ -126,48 +124,22 @@ he could systematically impart to students. He did not at this stage
 know so much more than the other participants in the study group that we
 can unambiguously call him *magister* and them *discipuli*.
 
-One of the most important things the formation of the study-group did
+One of the most important things the formation of the study group did
 for Gratian was to provide him with a pool of volunteer labor that made
 it possible to put on parchment the collection of canons he thought
 raised the really salient issues and his comments on them. Before the
 formation of the study group, I doubt that the collection of canons and
 comments had any concrete existence outside of Gratian's head.
 
-------------------------------------------------------------------------
+<!--
 
-------------------------------------------------------------------------
+I think your work leads us to a new model of how the classical form
+of the *Decretum* came to be. It started with a collection of canons
+organized into topical segments. It then grew both by having canons
+and topics added to the corpus and by accumulating commentary
+(*dicta*).
 
-> ... but the collection of *dicta* as a whole grew to its classical
-> form over several decades.
-
-True.
-
-> Some of it could have come from teachers other than the original
-> one—presumably Gratian—and some of it from students summarizing or
-> capitulating what their teacher said in class.
-
-Yes, although for the reasons that I mentioned above, I'm a little
-uncomfortable with using the language of teacher and student to describe
-the relationship between Gratian and the contributors at the very
-earliest stages (1120s) of the project. I think by the mid-1130s, we can
-think of the ongoing activity around Gratian as having evolved from
-being a reading or study group into something more like a course or even
-a loose proto-faculty. Gratian would not have been the only teacher,
-some of the earliest contributors (those still hanging around Bologna
-awaiting a suitable benefice) would have to have had students of their
-own by that point.
-
-> I think your work leads us to a new model of how the classical form of
-> the *Decretum* came to be. It started with a collection of canons
-> organized into topical segments. It then grew both by having canons
-> and topics added to the corpus and by accumulating commentary
-> (*dicta*). The further questions are: When did the process start?
-
-The 1120s.
-
-------------------------------------------------------------------------
-
-------------------------------------------------------------------------
+  -->
 
 The person later identified as Gratian performed two distinct roles in
 the evolution of the text of the first recension, as author and as
@@ -188,11 +160,13 @@ little sense outside the context of the study group. Rather, I think
 that Gratian 0 developed them alongside the earliest group readings.
 
 The fact that that the case statements were written by a single author
-whose words appear nowehere else in the *Decretum*, that their existence
+whose words appear nowhere else in the *Decretum*, that their existence
 implies use by a reading or study group, and that almost no changes were
 made to their text during the stages of the development of the
 *Decretum* into which we have visibility, all suggest to me that the
-process start quite early, likely in the 1120s.
+process start quite early, likely in the 1120s and that the collection
+of *dicta* as a whole therefore grew to its classical form over several
+decades.
 
 <!--
 
@@ -215,11 +189,11 @@ twelfth century advanced.
 [As an aside, I think the anomalous Latin was what most convinced
 Winroth that I was onto something after I told him that the case
 statements were not written by the same author(s) who wrote the
-first-recension *dicta*. He was non-committal the first time I presented
-my results to him in 2013 or 2014, but at the Stephan Kuttner
-Institute event at Yale in 2015 he told me he was convinced because
-"ever since you pointed that out to me, I've noticed that his Latin
-is just not that good."]
+first-recension *dicta*. He was non-committal the first time I
+presented my results to him in 2013 or 2014, but at the Stephan
+Kuttner Institute event at Yale in 2015 he told me he was convinced
+because "ever since you pointed that out to me, I've noticed that
+his Latin is just not that good."]
 
   -->
 
@@ -234,7 +208,7 @@ arguments, and solutions were not worked out in the context of the study
 group, but members of the group clearly accepted Gratian's method of
 reconciling the canons as authoritative for them, and passed down to
 later students of canon law the understanding that Gratian was the
-author of the Decretum in the sense that it was his authority that lay
+author of the *Decretum* in the sense that it was his authority that lay
 behind the particular reading of the canons the collection embodied.
 Although the words of the *dicta* are demonstrably not his, the fact
 that his name came to be attached to the text strongly suggests that the
@@ -242,22 +216,14 @@ method was his, and that is the basis for the authority claim made on
 Gratian's behalf by the community the exponential growth of the original
 study group ultimately created.
 
-> How long did that person called Gratian continue to contribute to the
-> work?
-
-As long as the first recension was under active development by the study
-group, which by the mid-1130s had evolved into something looking more
-like a proper university course, or even an informally connected cluster
-of courses (a proto-faculty), the as yet non-beneficed among the earlier
-contributors having attracted students of their own by this stage. In
-fact, I think we can safely (if circularly) define the first-recension
+Gratian 0 continued to contribute to the work as long as the first
+recension was under active development by the study group, which by the
+mid-1130s had evolved into something looking more like a university
+course, or even an informal network of courses: a proto-faculty. In
+fact, the first recension can probably be safely (if circularly) defined
 as that stage in the textual development of the *Decretum* in which
-Gratian 0 was still personally involved. I think Winroth was right that
+Gratian 0 was still personally involved. I think Winroth is right that
 the person called Gratian was not a contributor to the second recension.
-
-------------------------------------------------------------------------
-
-------------------------------------------------------------------------
 
 <!--
 
@@ -314,9 +280,24 @@ having fully worked out a jurisprudential system based on them, and
 there was a great deal that Gratian did not know at that point, such as
 whether and how to incorporate Roman law into his system. In some sense,
 then, they were all figuring it out together. We should not think of the
-Gratian of the 1120s and 1130s as the kind of guild-certified master,
-able to "explain it all for you," that we would expect to encounter from
-the 1150s or 1160s on.
+Gratian of the 1120s as the kind of guild-certified master, able to
+"explain it all for you," that we would expect to encounter in later
+decades.
+
+Although I am uncomfortable with using the terms teacher and student to
+describe the relationship between Gratian and the contributors the early
+stages of the project, I suspect that by the mid-1130s, we can envision
+the ongoing activity around Gratian as having evolved from being a
+reading or study group into something more like a course or even a loose
+proto-faculty. Gratian need not have been the only teacher at this later
+stage, and some of the early contributors, at least those still working
+in Bologna while awaiting a suitable benefice, may well have had
+students of their own by that point. As a result, some of the texts that
+became part of the collection of *dicta* could have come from teachers
+other than Gratian and some from students summarizing or reporting on
+solutions presented by teachers in class room discussion.
+
+------------------------------------------------------------------------
 
 Pennington has argued against Winroth's claim that the development from
 the first to the second recension of the *Decretum* was accomplished in
