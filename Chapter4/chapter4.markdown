@@ -47,9 +47,9 @@ necrology in which the name Gratian appears.
 It does not appear that the debate over the authorship of the *Decretum*
 can be settled on the basis of the currently available evidence. The
 goal of my dissertation project has been to find new evidence relevant
-to the question of the authorship the *Decretum* as it has been posed by
-both Kuttner and Winroth, by using computational stylometric methods to
-analyze the authorship of the *dicta* traditionally attributed
+to the question of the authorship of the *Decretum* as it has been posed
+by both Kuttner and Winroth, by using computational stylometric methods
+to analyze the authorship of the *dicta* traditionally attributed
 personally to Gratian.
 
 ### Preliminary observations
@@ -76,11 +76,11 @@ Another way of thinking about the distinction between function and
 content words is to note that in a given language, function words
 constitute a closed class, while content words constitute an open class.
 Language-speaking communities can and do make up new adjectives, nouns,
-verbs all the time; content words are therefore an open class that can
-be added to at will. But new prepositions and conjunctions are almost
-never added to a language. Their usage changes very slowly over time, if
-it changes at all, and function words are therefore, for all practical
-purposes, a closed, finite, class.
+and verbs all the time; content words are therefore an open class that
+can be added to at will. But new prepositions and conjunctions are
+almost never added to a language. Their usage changes very slowly over
+time, if it changes at all, and function words are therefore, for all
+practical purposes, a closed, finite, class.
 
 Evidence from experimental psychology suggests that readers, and perhaps
 also writers, process function words at a subconscious level.[3] The
@@ -108,15 +108,15 @@ purpose of attributing authorship has had a number of notable successes.
 The validity of this approach for textual scholarship was firmly
 established by the work on the *Federalist Papers* by Frederick
 Mosteller and David L. Wallace. The authorship of 12 of the *Federalist
-Papers*, 49-57 and 62-63, had been disputed since the early 19th
-century, with competing claims advanced on behalf of Alexander Hamilton
-and James Madison.[4] In 1944, Douglass Adair, using traditional
-scholarly methods, settled the dispute largely to the satisfaction of
-early American historians, determining that Madison was the author of
-all 12 of the disputed numbers.[5] In 1964, Mosteller and Wallace
-confirmed Adair's findings by conducting a stylometric analysis of the
-frequencies of 70 function words to compare the 12 disputed numbers with
-numbers securely attributed to Hamilton and Madison.[6]
+Papers*, numbers 49-57 and numbers 62-63, had been disputed since the
+early 19th century, with competing claims advanced on behalf of
+Alexander Hamilton and James Madison.[4] In 1944, Douglass Adair, using
+traditional scholarly methods, settled the dispute largely to the
+satisfaction of early American historians, determining that Madison was
+the author of all 12 of the disputed numbers.[5] In 1964, Mosteller and
+Wallace confirmed Adair's findings by conducting a stylometric analysis
+of the frequencies of 70 function words to compare the 12 disputed
+numbers with numbers securely attributed to Hamilton and Madison.[6]
 
 Stylometric analysis for the purpose of authorship attribution is
 applicable regardless of language and has been applied successfully to
@@ -1607,9 +1607,9 @@ corresponding to the upper-left quadrant. There is obviously a
 significant degree of clustering and separation of the samples
 corresponding to *de Penitentia* focused on the upper-left quadrant, but
 it is looser than that observed for the case statements and does not
-admit of as clearcut an interpretation. At minimum, however, it can be
-said that the results of principal component analysis of are not
-consistent with there having been a single author who wrote the
+permit as clearcut an interpretation as the *themata*. At minimum,
+however, it can be said that the results of principal component analysis
+are not consistent with there having been a single author who wrote the
 first-recension *dicta* for both *de Penitentia* and the rest of the
 *Decretum*.
 
@@ -1618,13 +1618,13 @@ based, all except the last of the stylo plots excluded the
 first-recension *dicta* from *de Penitentia*. A stylo plot including the
 *de Penitentia* sample, with somewhat lower values of PC1 and PC2, was
 therefore introduced at the end of the presentation for completeness.
-Since in order to be consistent with the 2-dimensional visualization,
+Since, in order to be consistent with the 2-dimensional visualization,
 Zipf's law, and Burrows's Delta discussions, all of the stylo plots in
 Chapter 4 thus far have included the first-recension *dicta* from *de
 Penitentia*, inverting the logical flow of the original presentations.
-It is therefore appropriate to close Chapter 4 with a discussion of a
-stylo plot *excluding* the first-recension *dicta* from *de Penitentia*.
-(See Figure 10 below.)
+It is appropriate to close Chapter 4 with a discussion of a stylo plot
+*excluding* the first-recension *dicta* from *de Penitentia*. (See
+Figure 10 below.)
 
 Quite early on in my research, I observed that including the *dicta*
 from *de Penitentia* had the effect of decreasing the width of the
@@ -1682,9 +1682,10 @@ case statements was *not* the same person as the authors of either the
 first- or second-recension *dicta*.
 
 PCA also suggests (less strongly) that the first- and second-recension
-*dicta* were not the work of either one or two authors, but are more
+*dicta* were not the work of either one or two authors but were more
 likely to have been the product of collaborative authorship.
 
+<!-- SC: collaborative or multiple authorship? -->
 <!--
 
 Explain rationale for omitting certain passages: D.25 c.5 (R2 or
