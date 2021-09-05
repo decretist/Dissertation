@@ -58,8 +58,8 @@ ecclesiastical benefices.
 The statement that Gratian is the author of the *Decretum* is a
 convenient shorthand in which the *Decretum* as a whole stands
 synecdochically for the *dicta*. Gratian scholars are in no danger
-of being mislead by this shorthand. But they are in danger of being
-mislead by the implied statement that Gratian is the author of the
+of being misled by this shorthand. But they are in danger of being
+misled by the implied statement that Gratian is the author of the
 *dicta*.
 
 Scholarship on the *Decretum* in the aftermath of Noonan's debunking
@@ -71,7 +71,7 @@ results for the *dicta* consistent with either Pennington's one-author
 hypothesis or Winroth's two-author hypothesis. My intention was
 simply to expand what I perceived to be an insufficient evidentiary
 basis for the debate over whether the *dicta* had one or two authors.
-However the results, once I convinced myself that they were not
+However, the results, once I convinced myself that they were not
 spurious, convinced me that the individual *dicta* have to be
 distinguished from the collection as a whole and that it is not
 consistent with the stylometric evidence to think of the collection
@@ -83,7 +83,7 @@ coherent than a treatise. What we have is a collection of texts and
 what we need is some idea of how that collection was composed. Much
 of the post-Noonan scholarship on the authorship of the *Decretum*
 has engaged in what I have referred to as a "quest of the historical
-Gratian." However it appears that to search for one or more historical
+Gratian." However, it appears that to search for one or more historical
 Gratians behind the collection of *dicta* is to ask a question that
 is incapable of producing a meaningful answer.
 
@@ -97,7 +97,7 @@ before and after it.
   -->
 
 The historical Gratian is often said to have created a collection
-of canons that he used in the earliest course on canon law, <!--
+of canons that he used in the earliest course on canon law <!--
 and may also have written a few of the comments that are now part
 of the collection of *dicta* --> but we must be extremely careful
 about precisely what we mean when we say that Gratian "created a
@@ -123,13 +123,13 @@ something significant about the optimistic outlook that he brought
 to his engagement with the authorities.)
 
 At some point in the 1120s, Gratian became the convener of a study
-group that read the canons, and started to work out a systematic
+group that read the canons and started to work out a systematic
 jurisprudence based on them. The formation of the study group was
 obviously a crucial step in the development of canon law as a
 discipline, but I believe it is something of an anachronism to call
 it "the earliest course on canon law." I think we can infer that
 Gratian at this point had a good command of the sources, but he was
-not yet in possession of a fully-developed method for reconciling
+not yet in possession of a fully developed method for reconciling
 the contradictions presented by the canons that he could systematically
 impart to students. He did not at this stage know so much more than
 the other participants in the study group that we can unambiguously
@@ -312,7 +312,7 @@ a suitable benefice, may well have had students of their own by
 that point. As a result, some of the texts that became part of the
 collection of *dicta* could have come from teachers other than
 Gratian and some from students summarizing or reporting on solutions
-presented by teachers in class room discussion.
+presented by teachers in classroom discussion.
 
 ---
 

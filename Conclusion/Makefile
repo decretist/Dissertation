@@ -1,3 +1,6 @@
+alt-conclusion.docx: alt-conclusion.md ../bib/merged.bib ../ref/final.docx
+	pandoc -o alt-conclusion.docx --citeproc --reference-doc=../ref/final.docx alt-conclusion.md
+
 conclusion.markdown: conclusion.md ../bib/merged.bib
 	pandoc -o conclusion.markdown --citeproc -f markdown-smart -t gfm conclusion.md
 	cat ../lic/license.html >> conclusion.markdown
