@@ -48,7 +48,7 @@ from *de Penitentia* as a third collection separate and distinct
 from the first- and second-recension *dicta* complicates the picture
 further still. The most that we can say is that both the second-recension
 *dicta* and the *dicta* from *de Penitentia* display some degree
-of loose clustering in that most samples from those collections of
+of loose clustering, in that most samples from those collections of
 *dicta* appear in the same quadrant, and that both display some
 degree of partial separation from the first-recension *dicta*. These
 results are not compatible either with there having been a single
@@ -56,5 +56,5 @@ author who wrote both the first- and second-recension *dicta* or
 there having been a single author who wrote the first-recension
 *dicta* for both *de Penitentia* and the rest of the *Decretum*.
 This second negative finding does not warrant the same level of
-confidence as the first positive result, and represents a call for
+confidence as the first positive result and represents a call for
 further investigation.
