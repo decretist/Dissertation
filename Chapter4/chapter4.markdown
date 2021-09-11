@@ -929,8 +929,8 @@ word, and so on. (See Figure 3 below.)
 Zipf tried several different approaches to the quantitative analysis of
 the distribution of words in corpora. His initial attempt, in 1935,
 sought to characterize the orderliness of word distributions by the
-relationship between the number of occurrences of a word, *b*, and the
-number of words *a*, a relationship Zipf expressed as
+relationship between the number of words, *a*, and the number of
+occurrences of a word, *b*, a relationship Zipf expressed as
 *a**b*<sup>2</sup> = *k*. For example, in Gratian's *dicta* there are
 8,028 words (*a*) for which there is 1 (*b*) occurrence, 2,462 words
 (*a*) for which there are 2 (*b*) occurrences, 1,135 words (*a*) for
@@ -1244,7 +1244,7 @@ The Gratian1 subcorpus is just slightly closer than the Gratian2
 subcorpus to the unknown Gratian0 test case, with values of Delta for
 both rounding to 3.79. A candidate is defined as being *closest* to the
 unknown when it has the lowest mean of the absolute values of the
-differences between the z-scores for the unknown and the candidate.But
+differences between the z-scores for the unknown and the candidate. But
 as Burrows pointed out, one candidate will always have the lowest
 *Δ*<sub>*B*</sub>, so that in itself is not enough to make or to rule
 out an attribution of authorship. We will need further information
@@ -1283,10 +1283,10 @@ multiple authors at work within the corpus.
 
 |          | Gratian0 | Gratian1 |  dePen | Gratian2 |
 |:---------|---------:|---------:|-------:|---------:|
-| Gratian0 |      nan |    3.788 | 4.5586 |   3.7907 |
-| Gratian1 |   1.4361 |      nan | 0.3628 |   0.5453 |
-| dePen    |   1.9873 |   0.4515 |    nan |   0.7673 |
-| Gratian2 |   1.7185 |   0.6278 | 0.7905 |      nan |
+| Gratian0 |      NaN |    3.788 | 4.5586 |   3.7907 |
+| Gratian1 |   1.4361 |      NaN | 0.3628 |   0.5453 |
+| dePen    |   1.9873 |   0.4515 |    NaN |   0.7673 |
+| Gratian2 |   1.7185 |   0.6278 | 0.7905 |      NaN |
 
 Considering the results of the first three experiments together, we can
 start to form some very preliminary conclusions. Based on the values for
@@ -1320,13 +1320,13 @@ intermediate results at every step in the process.
 
 |           |  cases |   laws | orders1 | orders2 | simony | procedure | other1 |
 |:----------|-------:|-------:|--------:|--------:|-------:|----------:|-------:|
-| cases     |    nan | 2.2765 |  1.9247 |  2.0252 | 1.9637 |    1.9545 | 1.5714 |
-| laws      |  2.141 |    nan |   1.249 |   1.502 | 1.4633 |    1.3147 | 1.4223 |
-| orders1   | 1.6184 | 1.0949 |     nan |  1.1223 | 0.9685 |    0.8843 | 1.0499 |
-| orders2   | 1.8982 | 1.5244 |  1.2686 |     nan |  1.382 |     1.684 | 1.4149 |
-| simony    | 1.6667 | 1.3491 |  0.9772 |  1.2195 |    nan |    0.8878 | 1.1304 |
-| procedure | 1.6187 | 1.1991 |   0.892 |  1.5095 | 0.8789 |       nan |  1.079 |
-| other1    | 1.3353 |    1.3 |  1.0619 |  1.2722 | 1.1383 |    1.0753 |    nan |
+| cases     |    NaN | 2.2765 |  1.9247 |  2.0252 | 1.9637 |    1.9545 | 1.5714 |
+| laws      |  2.141 |    NaN |   1.249 |   1.502 | 1.4633 |    1.3147 | 1.4223 |
+| orders1   | 1.6184 | 1.0949 |     NaN |  1.1223 | 0.9685 |    0.8843 | 1.0499 |
+| orders2   | 1.8982 | 1.5244 |  1.2686 |     NaN |  1.382 |     1.684 | 1.4149 |
+| simony    | 1.6667 | 1.3491 |  0.9772 |  1.2195 |    NaN |    0.8878 | 1.1304 |
+| procedure | 1.6187 | 1.1991 |   0.892 |  1.5095 | 0.8789 |       NaN |  1.079 |
+| other1    | 1.3353 |    1.3 |  1.0619 |  1.2722 | 1.1383 |    1.0753 |    NaN |
 | other2    | 1.9416 | 1.3233 |  1.0913 |  1.6291 | 1.1386 |     1.109 | 1.2963 |
 | monastic  | 1.4555 | 1.0451 |  0.8554 |  1.2676 | 1.0114 |    0.7986 |   0.93 |
 | other3    | 2.0705 | 1.3388 |   1.289 |  1.5146 | 1.1997 |    1.1057 | 1.3497 |
@@ -1344,13 +1344,13 @@ intermediate results at every step in the process.
 | simony    | 1.1287 |   1.0413 | 1.1711 |   0.59 |   0.9166 |  0.9059 | 1.0863 |
 | procedure | 1.1223 |    0.821 | 1.0726 | 0.6569 |   0.9993 |  0.8818 | 0.9852 |
 | other1    | 1.2792 |   0.9649 | 1.3054 |  0.996 |   1.0853 |  1.3272 | 0.8152 |
-| other2    |    nan |   0.7979 | 1.0346 | 1.0592 |    0.654 |  0.8633 | 1.0961 |
-| monastic  | 0.7429 |      nan | 1.0578 | 0.7602 |   0.6611 |  0.7999 | 0.7799 |
-| other3    | 0.9505 |   1.1229 |    nan | 1.1209 |   0.7121 |  1.1521 | 1.3067 |
-| heresy    | 0.9839 |   0.7672 | 1.1395 |    nan |   0.7783 |  0.6756 | 0.8484 |
-| marriage  | 0.6126 |   0.6577 | 0.6552 | 0.7672 |      nan |  0.7974 | 0.8676 |
-| penance   | 0.9152 |   0.8101 | 1.0992 | 0.7609 |   0.8146 |     nan | 0.9026 |
-| second    | 1.0674 |   0.7861 | 1.2408 |  0.877 |   0.8796 |  0.8927 |    nan |
+| other2    |    NaN |   0.7979 | 1.0346 | 1.0592 |    0.654 |  0.8633 | 1.0961 |
+| monastic  | 0.7429 |      NaN | 1.0578 | 0.7602 |   0.6611 |  0.7999 | 0.7799 |
+| other3    | 0.9505 |   1.1229 |    NaN | 1.1209 |   0.7121 |  1.1521 | 1.3067 |
+| heresy    | 0.9839 |   0.7672 | 1.1395 |    NaN |   0.7783 |  0.6756 | 0.8484 |
+| marriage  | 0.6126 |   0.6577 | 0.6552 | 0.7672 |      NaN |  0.7974 | 0.8676 |
+| penance   | 0.9152 |   0.8101 | 1.0992 | 0.7609 |   0.8146 |     NaN | 0.9026 |
+| second    | 1.0674 |   0.7861 | 1.2408 |  0.877 |   0.8796 |  0.8927 |    NaN |
 
 Because of the scale of the experiment, the results can be somewhat
 difficult to read, but they are entirely consistent with those obtained
@@ -1665,25 +1665,74 @@ second-recension *dicta*.
 
 ## Conclusion
 
-The hypothetical case statements or *themata* display both very tight
-clustering and clean separation from the first-recension *dicta*
-excluding the *dicta* from *de Penitentia*, the first- and
+<!--
+
+The hypothetical case statements or *themata* display both very
+tight clustering and clean separation from the first-recension
+*dicta* excluding the *dicta* from *de Penitentia*, the first- and
 second-recension *dicta* from *de Penitentia*, and the second-recension
-*dicta* excluding the *dicta* from *de Penitentia* when subjected to
-principal component analysis. The results of principal component
-analysis are in this respect entirely consistent with the results of the
-other tests, from the naive 2-dimensional visualizations to the
-Burrows's Delta experiments to which these samples have been subjected
-in this chapter. These unambiguous and consistent results make it highly
-likely that the case statements were written by a single author whose
-words appear nowhere else in the *Decretum*. To be specific, the
-outcomes of these tests indicate quite strongly that the author of the
-case statements was *not* the same person as the authors of either the
-first- or second-recension *dicta*.
+*dicta* excluding the *dicta* from *de Penitentia* when subjected
+to principal component analysis. The results of principal component
+analysis are in this respect entirely consistent with the results
+of the other tests, from the naive 2-dimensional visualizations to
+the Burrows's Delta experiments to which these samples have been
+subjected in this chapter. These unambiguous and consistent results
+make it highly likely that the case statements were written by a
+single author whose words appear nowhere else in the *Decretum*.
+To be specific, the outcomes of these tests indicate quite strongly
+that the author of the case statements was *not* the same person
+as the authors of either the first- or second-recension *dicta*.
 
 PCA also suggests (less strongly) that the first- and second-recension
-*dicta* were not the work of either one or two authors but were more
-likely to have been the product of collaborative authorship.
+*dicta* were not the work of either one or two authors but were
+more likely to have been the product of collaborative authorship.
+
+  -->
+
+The first, positive, result of the investigation presented in this
+dissertation is the finding that the case statements or *themata* were
+written by a single author whose words appear nowhere else in the
+*Decretum*. The author of the case statements was *not* the author of
+the first- or second-recension *dicta* or of the *dicta* in *de
+Penitentia*. Following the convention established by Winroth, who
+designated his hypothesized author of the second-recension *dicta* as
+Gratian 2, I have named this single author of the case statements
+Gratian 0, and I take him to be *the* historical Gratian. That the case
+statements have a single author is not surprising, but that they were
+not written by the author(s) of any of the collections of *dicta* is
+quite unexpected. This finding is supported both by the values for
+Burrows's Delta and the results of principal component analysis.[55]
+This result warrants a high degree of confidence, and future conjectural
+*novelle* will have to account for the fact that the case statements
+were not written by the author of either the first- or second-recension
+*dicta*.
+
+The second, negative, result is that principal component analysis (PCA)
+does not produce either of the two findings that might reasonably be
+expected on the basis of recent scholarly debate over the authorship of
+the *Decretum*. The PCA results do not show samples from the first- and
+second-recension *dicta* forming a single tight cluster in a way that
+would support Pennington's single-author hypothesis. Neither do they
+show the samples from the first- and second-recension *dicta* forming
+two distinct tight clusters separating cleanly from each other in an
+unambiguously bimodal distribution that would support Winroth's
+two-author hypothesis. Any attempt to make an argument on the basis of
+the results of principal component analysis in favor of either of the
+one- or two-author hypotheses would be unpersuasive. Treating the
+*dicta* from *de Penitentia* as a third collection separate and distinct
+from the first- and second-recension *dicta* complicates the picture
+further still. The most that we can say is that both the
+second-recension *dicta* and the *dicta* from *de Penitentia* display
+some degree of loose clustering, in that most samples from those
+collections of *dicta* appear in the same quadrant, and that both
+display some degree of partial separation from the first-recension
+*dicta*. These results are not compatible either with there having been
+a single author who wrote both the first- and second-recension *dicta*
+or there having been a single author who wrote the first-recension
+*dicta* for both *de Penitentia* and the rest of the *Decretum*. This
+second negative finding does not warrant the same level of confidence as
+the first positive result and represents a call for further
+investigation.
 
 <!-- SC: collaborative or multiple authorship? -->
 <!--
@@ -1948,14 +1997,14 @@ claustra monasterii consistunt" (Lichtenthal, Baden-Baden)*, Bamberger
 theologische Studien ; Bd. 6 (Frankfurt am Main ; PLang, 1998), 17–18.
 
 [45] Earlier versions of this section were presented as conference
-papers. "Can Stylometry Provide New Evidence about the Identity of
-Gratian 1 and Gratian 2?" was presented to the session on Canon Law in
-the Twelfth and Thirteenth Centuries at the *Rem non novam nec insolitam
+papers. I presented "Can Stylometry Provide New Evidence about the
+Identity of Gratian 1 and Gratian 2?" to the session on Canon Law in the
+Twelfth and Thirteenth Centuries at the *Rem non novam nec insolitam
 aggredimur* conference and grand opening of the Stephan Kuttner
-Institute of Medieval Canon Law at Yale Law School, May 21-22, 2015.
-"New evidence for the authorship of case statements and *dicta* in
-Gratian's *Decretum*" was presented to the Classical Sources III session
-at the Fifteenth International Congress of Medieval Canon Law (ICMCL) at
+Institute of Medieval Canon Law at Yale Law School, May 21-22, 2015. I
+presented "New evidence for the authorship of case statements and
+*dicta* in Gratian's *Decretum*" to the Classical Sources III session at
+the Fifteenth International Congress of Medieval Canon Law (ICMCL) at
 Université Paris II Panthéon-Assas, July 17-23, 2016.
 
 [46] For a general introduction to the use of principal component
@@ -2061,6 +2110,12 @@ statements are: *Hic primum queritur* (15), *Queritur* (8), *Modo primum
 queritur* (3), *Nunc primum queritur* (3), *Primo queritur* (2), *Primum
 queritur* (2), *Hic primo queritur* (1), *Modo queritur* (1), *Queritur
 autem* (1).
+
+[55] Indeed, it is worth reminding the reader here that Burrows's Delta
+indicates that the case statements are even less likely to have been
+written by the same author as the *dicta* collections in the *Decretum*
+than are the samples from the pseudo-Augustinian *De vera et falsa
+penitentia* quoted by Gratian in *de Penitentia*.
 
 <div align="center">
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
