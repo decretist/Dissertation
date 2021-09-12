@@ -32,7 +32,7 @@ one- or two-author hypotheses would be unpersuasive. Treating the
 from the first- and second-recension *dicta* complicates the picture
 further still. The most that we can say is that both the
 second-recension *dicta* and the *dicta* from *de Penitentia* display
-some degree of loose clustering in that most samples from those
+some degree of loose clustering, in that most samples from those
 collections of *dicta* appear in the same quadrant, and that both
 display some degree of partial separation from the first-recension
 *dicta*. These results are not compatible either with there having been
@@ -40,14 +40,112 @@ a single author who wrote both the first- and second-recension *dicta*
 or there having been a single author who wrote the first-recension
 *dicta* for both *de Penitentia* and the rest of the *Decretum*. This
 second negative finding does not warrant the same level of confidence as
-the first positive result, and represents a call for further
+the first positive result and represents a call for further
 investigation.
+
+The statement that Gratian is the author of the *Decretum* is a
+convenient shorthand in which the *Decretum* as a whole stands
+synecdochically for the *dicta*. Gratian scholars are in no danger of
+being misled by this shorthand. But they are in danger of being misled
+by the implied statement that Gratian is the author of the *dicta*.
+
+Scholarship on the *Decretum* in the aftermath of Noonan's debunking of
+the traditional Gratian legendary and Winroth's discovery of the first
+recension has taken for granted that either one or two authors wrote the
+*dicta* and that either the same one author or the first of the two
+authors (Gratian 1) wrote the case statements or *themata*. When I
+started work on this project in 2013, I implicitly accepted that
+assumption and fully expected stylometric results for the *dicta*
+(including the case statements) consistent with either Pennington's
+one-author hypothesis or Winroth's two-author hypothesis. My intention
+was simply to expand what I perceived to be an insufficient evidentiary
+basis for the debate over whether the *dicta* had one or two authors.
+However, it became clear at a very early stage of the project that the
+case statements or *themata* were instead written by a single author
+whose words appear nowhere else in the *Decretum*. Following Winroth,
+who refers to the hypothesized author of the second-recension *dicta* as
+Gratian 2, I named this figure Gratian 0, and I take him to be *the*
+historical Gratian.
+
+Contrary to expectation, none of the stylometric evidence produced at
+any stage of the project was compatible with either the one- or
+two-Gratian hypotheses for the authorship of the *dicta* not including
+the case statements. I became convinced that the individual *dicta* have
+to be distinguished from the collection as a whole and that it is not
+consistent with the stylometric evidence to think of the collection as a
+work of literature with some internal principle of unity written by
+either a single author or two authors. The *dicta* are more coherent
+than a gloss collection but less coherent than a treatise. What we have
+is a collection of texts and what we need is some idea of how that
+collection was composed. Much of the post-Noonan scholarship on the
+authorship of the *Decretum* has engaged in what I have referred to as a
+"quest of the historical Gratian." However, it appears that to search
+for one or more historical Gratians behind the collection of *dicta* is
+to ask a question that is incapable of producing a meaningful answer.
+
+How are we then to make sense of these unexpected results?
+
+The first questions to be answered about how the collection was composed
+are where and when it came into existence. I see no reason whatever to
+call into question the scholarly consensus that the *Decretum* emerged
+from the overlapping circles concerned with legal questions in early
+twelfth-century Bologna. The traditional assumption that Gratian worked
+in Bologna is almost the only feature of the Gratian legendary that
+Noonan did not seriously challenge,[2] and the development of Bologna as
+a center for the study of Roman and somewhat later canon law clearly
+seems to have benefited from the cluster effect so familiar in our age
+from the concentration of technology industries in Silicon Valley.
+
+That the case statements were both quite stable from an early stage in
+the evolution of the text of the *Decretum* (only 13 words were added,
+to C.19 d.init., in the second recension) and that they were written by
+an author whose words appear in none of the later *dicta*
+argues---strongly, I think---that the textual development of the
+*Decretum* started early, perhaps in the mid-1120s, and that the case
+statements were not written after the fact to scaffold more-or-less
+finished treatments of the cases.
+
+The *Marturi placitum* (1076) is evidence that the Roman law strand of
+the legal revolution had a lengthy prehistory---the long tail of a
+pattern of exponential growth in which for an extended period of time
+the number of people involved was quite small---before it broke the
+surface into historical visibility thirty years later in the first
+decade of the twelfth century. The results of the collective efforts of
+the circle we associate with the name of Gratian emerge into our field
+of view only after 1140. If the development of canon law studies
+followed the same pattern of long-tail exponential growth that the study
+of Roman law did, it would not be unreasonable to posit that the circle
+around Gratian had been at work in some form or another for more than a
+decade by 1140. (Pennington has argued for a long period of textual
+development for the Decretum, while Winroth has argued that Roman and
+canon law studies were nowhere near as fully developed by the end of the
+1130s as previously thought. These arguments have been thought of as
+being at odds, not least by Pennington and Winroth themselves, but I
+prefer to think of them as intuitions, from different starting points,
+of the same process of long-tail exponential growth, and therefore in
+some sense both right.)
+
+The textual stability and unique authorship of the case statements, as
+well as the inferred analogy between the early pattern of growth of the
+study of Roman law and that of canon law, suggest then that Gratian's
+project was in progress by the mid-1120s. If that tentative dating is
+correct, it seems plausible to connect the beginnings of Gratian's
+project with new understandings of the church as an independent
+political and juridical community in the aftermath of the Concordat of
+Worms (1122) and the First Lateran Council (1123), with the circle
+around Gratian systematically working through the implications of an
+epochal event for both the universal church and the church in its local
+and particular institutional context.
 
 [1] Indeed, it is worth reminding the reader here that Burrows's Delta
 indicates that the case statements are even less likely to have been
 written by the same author as the *dicta* collections in the *Decretum*
 than are the samples from the pseudo-Augustinian *De vera et falsa
 penitentia* quoted by Gratian in *de Penitentia*.
+
+[2] John T. Noonan, “Gratian Slept Here: The Changing Identity of the
+Father of the Systematic Study of Canon Law,” *Traditio* 35 (January
+1979): 162.
 
 <div align="center">
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
