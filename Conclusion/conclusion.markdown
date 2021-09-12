@@ -168,11 +168,10 @@ was a fundamentally conservative and optimistic disposition: his was the
 antithesis of Peter Abelard's project of subverting and even dissolving
 the whole notion of authority by showing that the authorities were in
 actual, not just apparent, disagreement. (I think the depiction of
-Gratian smiling in *Paradiso* 10.103
-<!-- and in the 18th century engraving that
-Winroth has popularized on the internet --> does actually capture
-something significant about the optimistic outlook that he brought to
-his engagement with the authorities.)
+Gratian smiling in *Paradiso* 10.103 <!-- and in the 18th century
+engraving that Winroth has popularized on the internet --> does
+actually capture something significant about the optimistic outlook
+that he brought to his engagement with the authorities.)
 
 At some point in the mid-1120s, Gratian became the convener of a study
 group that read the canons and started to work out a systematic
