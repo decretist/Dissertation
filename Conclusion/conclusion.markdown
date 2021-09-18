@@ -3,18 +3,17 @@ dissertation is the finding that the case statements or *themata* were
 written by a single author whose words appear nowhere else in the
 *Decretum*. The author of the case statements was *not* the author of
 the first- or second-recension *dicta* or of the *dicta* in *de
-Penitentia*. Following the convention established by Winroth, who
-designated his hypothesized author of the second-recension *dicta* as
-Gratian 2, I have named this single author of the case statements
-Gratian 0, and I take him to be *the* historical Gratian. That the case
-statements have a single author is not surprising, but that they were
-not written by the author(s) of any of the collections of *dicta* is
-quite unexpected. This finding is supported both by the values for
-Burrows's Delta and the results of principal component analysis.[1] This
-result warrants a high degree of confidence, and future conjectural
-*novelle* will have to account for the fact that the case statements
-were not written by the author of either the first- or second-recension
-*dicta*.
+Penitentia*. I have designated this single author of the case statements
+Gratian 0 to distinguish him from Gratian 1 and Gratian 2, the authors
+of the first- and second-recension *dicta* hypothesized by Winroth, and
+I take him to be *the* historical Gratian. That the case statements have
+a single author is not surprising, but that they were not written by the
+author(s) of any of the collections of *dicta* is quite unexpected. This
+finding is supported both by the values for Burrows's Delta and the
+results of principal component analysis.[1] This result warrants a high
+degree of confidence, and future conjectural *novelle* will have to
+account for the fact that the case statements were not written by the
+author of either the first- or second-recension *dicta*.
 
 The second, negative, result is that principal component analysis (PCA)
 does not produce either of the two findings that might reasonably be
@@ -139,6 +138,10 @@ around Gratian systematically working through the implications of an
 epochal event for both the universal church and the church in its local
 and particular institutional context.
 
+<!-- Stan Chodorow has reviewed to here -->
+
+------------------------------------------------------------------------
+
 <!--
 
 The *dicta* display some locality of reference, i.e., a given
@@ -168,10 +171,11 @@ was a fundamentally conservative and optimistic disposition: his was the
 antithesis of Peter Abelard's project of subverting and even dissolving
 the whole notion of authority by showing that the authorities were in
 actual, not just apparent, disagreement. (I think the depiction of
-Gratian smiling in *Paradiso* 10.103 <!-- and in the 18th century
-engraving that Winroth has popularized on the internet --> does
-actually capture something significant about the optimistic outlook
-that he brought to his engagement with the authorities.)
+Gratian smiling in *Paradiso* 10.103
+<!-- and in the 18th century engraving that
+Winroth has popularized on the internet --> does actually capture
+something significant about the optimistic outlook that he brought to
+his engagement with the authorities.)
 
 At some point in the mid-1120s, Gratian became the convener of a study
 group that read the canons and started to work out a systematic
@@ -193,14 +197,112 @@ for Gratian was to provide him with a pool of volunteer labor that made
 it possible to put on parchment the collection of canons he thought
 raised the really salient issues and his comments on them. Before the
 formation of the study group, I doubt that the collection of canons and
-comments had any concrete existence outside of Gratian's mind. Although
-Gratian 0 was the author in the literal sense of having formulated the
-exact working of the 3,592 words of the first-recension case statements,
-I do not believe that they predated the formation of the study group.
-Indeed, the existence of the case statements in written form makes
-little sense outside the context of the work of the study group. Rather,
-I think that Gratian developed them alongside the earliest group
-readings.
+comments had any concrete existence outside of Gratian's mind. In
+particular, I do not believe that case statements predated the formation
+of the study group. Indeed, the existence of the case statements in
+written form makes little sense outside the context of the work of the
+study group. Rather, I think that Gratian developed them alongside the
+earliest group readings.
+
+The person later identified as Gratian performed two distinct roles in
+the evolution of the text of the first recension, as author and as
+authority. Gratian 0 appears to be the author of the 3,592 words of the
+first-recension case statements or *themata* in the literal sense of
+having formulated their exact wording. The case statements were Gratian
+0's only direct contribution to the text of the *Decretum*, and his
+authorial signature appears nowhere else in the corpus of *dicta*.
+Unlike Winroth's Gratian 1 and Gratian 2, Gratian 0 is clearly one
+person. The facts that that the case statements were written by a single
+author whose words appear nowhere else in the *Decretum*, that their
+existence implies use by a reading or study group, and that almost no
+changes were made to their wording during the stages of the development
+of the *Decretum* into which we have any visibility, all support, in my
+opinion, arguments that the development of the text likely started in
+the mid-1120s and that the collection of *dicta* as a whole grew to its
+classical form over several decades.
+
+<!--
+
+Why did Gratian 0 make no direct contribution to the text of the
+*Decretum* other than the case statements or *themata*? I suspect
+that it was because his written Latin was not as good as that of
+other members of the study group. (See discussion in Chapter 3
+*supra* of the use of reflexives in C.3 d.init. and C.29 d.init.)
+I think it is natural to assume that Gratian was older than the
+other members of the study group: teachers are, after all, usually
+older than their students. Stipulating to Winroth's argument that
+the Siena necrology indicates that Gratian died on 10 August 1144
+or 1145 as bishop of Chiusi, and guessing that he was probably
+around age 60 at the time of his death, means that Gratian would
+have received the early Latin grammar-intensive portions of his
+education before 1100. That may not have been enough to keep up
+with his students as the standards of Latin composition rose as the
+twelfth century advanced.
+
+[As an aside, I think the anomalous Latin was what most convinced
+Winroth that I was onto something after I told him that the case
+statements were not written by the same author(s) who wrote the
+first-recension *dicta*. He was non-committal the first time I
+presented my results to him in 2013 or 2014, but at the Stephan
+Kuttner Institute event at Yale in 2015 he told me he was convinced
+because "ever since you pointed that out to me, I've noticed that
+his Latin is just not that good."]
+
+  -->
+
+------------------------------------------------------------------------
+
+Moving beyond the exact wording of the first-recension case statements,
+the second, and probably more significant, contribution made by the
+figure later identified as Gratian to the development of the *Decretum*
+was as the leader of the study group. It was Gratian's method of using
+hypothetical cases as a framework for applying the hermeneutical
+principles proposed in Ivo's *Prologue* for reconciling the
+contradictions presented by the canons that came to be memorialized in
+the first-recension *dicta*. This is not to say that his methods,
+arguments, and solutions were not worked out in the context of the study
+group, but they were worked out under his guidance and in accordance
+with his program. Members of the group clearly accepted Gratian's method
+of reconciling the canons as authoritative for them, and passed down to
+later students of canon law the understanding that Gratian was the
+author of the *Decretum* in the sense that it was his authority that lay
+behind the particular reading of the canons the collection embodied.
+Although the words of the *dicta* are demonstrably not his, the fact
+that his name came to be attached to the text strongly suggests that the
+method was his, and that is the basis for the authority claim made on
+Gratian's behalf by the community the exponential growth of the original
+study group ultimately created.
+
+Gratian 0 continued to contribute to the work as long as the first
+recension was under active development by the study group, which by the
+mid-1130s had evolved into something looking more like a university
+course, or even an informal network of courses: a proto-faculty. In
+fact, the first recension can probably be safely (if circularly) defined
+as that stage in the textual development of the *Decretum* which Gratian
+0 still personally guided. I think Winroth is right that the person
+called Gratian was not a contributor to the second recension.
+
+<!--
+
+That is something of a non-answer, as it does not put an end-date
+on Gratian's active involvement in the evolution of the text. He
+could have remained involved until he got a benefice (possibly the
+bishopric of Chiusi, c.1143), something he seems to have waited
+rather longer for than many of the other early contributors to the
+project. But the textual evolution of the first recension seems to
+have been more or less complete by the mid-1130s, and, if we believe
+Noonan and Grebner, Gratian was still acting as a legal consultant
+into the early 1140s. That leaves a gap of a half-decade or so
+(1136-1143?) when Gratian could have been, but does not seem to
+actually have been, involved with the further evolution of the text.
+I speculate that after the mid-1130s, deficiencies in Gratian's
+knowledge of Roman law, at least relative to that of other younger
+member of the loose proto-faculty, limited his further contributions
+to the project in the same way that relative deficiencies in his
+Latin skills had limited his contributions as author (as opposed
+to authority) at earlier stages of the project.
+
+  -->
 
 [1] Indeed, it is worth reminding the reader here that Burrows's Delta
 indicates that the case statements are even less likely to have been
