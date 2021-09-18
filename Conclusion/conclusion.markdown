@@ -60,11 +60,8 @@ hypothesis or Winroth's two-author hypothesis. My intention was simply
 to expand what I perceived to be an insufficient evidentiary basis for
 the debate over whether the *dicta* had one or two authors. However, it
 became clear at a very early stage of the project that the case
-statements, or *themata*, were instead written by a single author whose
-words appear nowhere else in the *Decretum*. Following Winroth, who
-refers to the hypothesized author of the second-recension *dicta* as
-Gratian 2, I named this figure Gratian 0, and I take him to be *the*
-historical Gratian.
+statements, or *themata*, were instead written by a single author
+(Gratian 0) whose words appear nowhere else in the *Decretum*.
 
 Contrary to expectation, none of the stylometric evidence produced at
 any stage of the project was compatible with either the one- or
@@ -169,9 +166,9 @@ an exercise to the reader." I think that it is also important to note
 that one of the things Gratian brought to the project from the outset
 was a fundamentally conservative and optimistic disposition: his was the
 antithesis of Peter Abelard's project of subverting and even dissolving
-the whole notion of authority by showing that the authorities were in
-actual, not just apparent, disagreement. (I think the depiction of
-Gratian smiling in *Paradiso* 10.103 <!-- and in the 18th century
+the whole notion of authority by showing that the authorities were
+in actual, not just apparent, disagreement. (I think the depiction
+of Gratian smiling in *Paradiso* 10.103 <!-- and in the 18th century
 engraving that Winroth has popularized on the internet --> does
 actually capture something significant about the optimistic outlook
 that he brought to his engagement with the authorities.)

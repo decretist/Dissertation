@@ -71,11 +71,8 @@ My intention was simply to expand what I perceived to be an
 insufficient evidentiary basis for the debate over whether the
 *dicta* had one or two authors. However, it became clear at a very
 early stage of the project that the case statements, or *themata*,
-were instead written by a single author whose words appear nowhere
-else in the *Decretum*. Following Winroth, who refers to the
-hypothesized author of the second-recension *dicta* as Gratian 2,
-I named this figure Gratian 0, and I take him to be *the* historical
-Gratian.
+were instead written by a single author (Gratian 0) whose words
+appear nowhere else in the *Decretum*.
 
 Contrary to expectation, none of the stylometric evidence produced
 at any stage of the project was compatible with either the one- or
