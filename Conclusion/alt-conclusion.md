@@ -265,8 +265,6 @@ his Latin is just not that good."]
 
   -->
 
----
-
 Moving beyond the exact wording of the first-recension case statements,
 the second, and probably more significant, contribution made by the
 figure later identified as Gratian to the development of the
