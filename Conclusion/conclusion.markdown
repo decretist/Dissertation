@@ -162,12 +162,14 @@ an exercise to the reader." I think that it is also important to note
 that one of the things Gratian brought to the project from the outset
 was a fundamentally conservative and optimistic disposition: his was the
 antithesis of Peter Abelard's project of subverting and even dissolving
-the whole notion of authority by showing that the authorities were in
-actual, not just apparent, disagreement. (I think the depiction of
-Gratian smiling in *Paradiso* 10.103 <!-- and in the 18th century
+the whole notion of authority by showing that the authorities were
+in actual, not just apparent, disagreement. (I think the depiction
+of Gratian smiling in *Paradiso* 10.103 <!-- and in the 18th century
 engraving that Winroth has popularized on the internet --> does
 actually capture something significant about the optimistic outlook
 that he brought to his engagement with the authorities.)
+
+------------------------------------------------------------------------
 
 At some point in the mid-1120s, Gratian became the convener of a study
 group that read the canons and started to work out a systematic
@@ -212,7 +214,7 @@ author of the 3,592 words of the first-recension case statements or
 *themata* in the literal sense of having formulated their exact wording.
 The case statements were Gratian 0's only direct contribution to the
 text of the *Decretum*, and his authorial signature appears nowhere else
-in the corpus of *dicta*. Unlike Winroth's Gratian 1 and Gratian 2,
+in the corpus of *dicta*.[3] Unlike Winroth's Gratian 1 and Gratian 2,
 Gratian 0 is clearly one person. The facts that that the case statements
 were written by a single author whose words appear nowhere else in the
 *Decretum*, that their existence implies use by a reading or study
@@ -312,6 +314,65 @@ earlier stages of the project.
 
 ------------------------------------------------------------------------
 
+Why were the contributors who followed Gratian all anonymous? The
+larger-than-expected number of contributors and the apparent absence of
+overlap between contributors to the first- and second-recension *dicta*
+suggests that the involvement of individual contributors was relatively
+brief, perhaps a year or two. Involvement in Gratian's project would
+have to have conferred significant real-world advantages for the
+contributors, almost certainly in the form of enhanced competitiveness
+for benefices, in order to justify the uncompensated scribal labor they
+put into it. When ecclesiastical preferment came their way, their
+involvement in Gratian's project probably ended. But the fact that they
+had been successful attracted others to take their place, which goes a
+long way toward explaining the pattern of exponential growth.
+
+The rapid turnover of contributors meant that the study group went
+through several "generations" of members between the mid-1120s and
+mid-1130s. By the time of Paucapalea in the late 1140s, turnover of
+membership in what had by that point become a quite substantial
+community was much slower, but there had been so many intervening
+"generations" that any information about the history of the project that
+had not been incorporated into the text of the *Decretum* was lost,
+apparently including for Paucapalea even the name of Gratian.
+
+What does all of this say about teachers and the teaching of canon law
+between the mid-1120s and 1140? In the 1120s and 1130s, the distinction
+between teacher and student was much less clear than it became a few
+decades later. Gratian was the leader of the study group, and the figure
+to whom the group deferred, because he was the one who had done by far,
+one suspects, the most reading in the sources of canon law. But having
+read widely in the canons was not the same thing as having fully worked
+out a jurisprudential system based on them, and there was a great deal
+that Gratian did not know at that point, such as whether and how to
+incorporate Roman law into his system. In some sense, then, they were
+all figuring it out together. We should not think of the Gratian of the
+1120s as the kind of guild-certified master, able to "explain it all for
+you," that we would expect to encounter in later decades.
+
+Although I am uncomfortable with using the terms teacher and student to
+describe the relationship between Gratian and the contributors the early
+stages of the project, I suspect that by the mid-1130s, we can envision
+the ongoing activity around Gratian as having evolved from being a
+reading or study group into something more like a course or even a loose
+proto-faculty. Gratian need not have been the only teacher at this later
+stage, and some of the early contributors, at least those still working
+in Bologna while awaiting a suitable benefice, may well have had
+students of their own by that point. As a result, some of the texts that
+became part of the collection of *dicta* could have come from teachers
+other than Gratian and some from students summarizing or reporting on
+solutions presented by teachers in classroom discussion.
+
+<!--
+
+This, in turn, is an argument in favor of the case statements having
+been one of the first parts of the *Decretum* reduced to a stable
+written form. The logical alternative, that case statements were
+written after the fact, would have to have taken place late enough
+in the development of the text that someone would have noticed.
+
+  -->
+
 [1] Indeed, it is worth reminding the reader here that Burrows's Delta
 indicates that the case statements are even less likely to have been
 written by the same author as the *dicta* collections in the *Decretum*
@@ -321,6 +382,35 @@ penitentia* quoted by Gratian in *de Penitentia*.
 [2] John T. Noonan, “Gratian Slept Here: The Changing Identity of the
 Father of the Systematic Study of Canon Law,” *Traditio* 35 (January
 1979): 162.
+
+[3] Pennington has argued against Winroth's claim that the development
+from the first to the second recension of the *Decretum* was
+accomplished in a single bound by someone other than the original
+Gratian on the grounds that someone would have noticed and remarked on
+such an extensive revision of the text by another author: "My main
+argument for not accepting the theory that there were two Gratians is
+quite simple. It is difficult to imagine that if a Gratian compiled the
+pre-Vulgate *Decretum*, and another person doubled the size from ca.
+2000 canons to ca. 4000, the first generation of jurists after Gratian
+would have not noticed or not known about the second Gratian's work and
+blithely attributed what was now a massive work to just 'Gratian.'"
+Kenneth Pennington, “The Biography of Gratian, the Father of Canon Law,”
+in *A Service Beyond All Recompense*, ed. Kurt Martens (Catholic
+University of America Press, 2018), 361–62. He could presumably make a
+similar argument against my claim that there was a change in authorship
+between the case statements and the first-recension *dicta*.
+
+They did not notice or know, however, because the *Decretum* came to the
+attention of a significant audience only among the second, not the
+first, generation of jurists after Gratian. The earliest significant
+change to the text to draw widespread notice was the division of the
+first part of the *Decretum* into distinctions by Paucapalea.
+Paucapalea, though, was far enough removed from the circumstances
+surrounding the composition of the text that he does not appear even to
+have known the name of its author. Ironically, Pennington's "someone
+would have noticed" argument is wrong precisely because his argument
+that the text of the *Decretum* underwent a long and slow process of
+development is right.
 
 <div align="center">
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
