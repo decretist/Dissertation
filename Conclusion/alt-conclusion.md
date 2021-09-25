@@ -159,12 +159,12 @@ before and after it.
   -->
 
 The historical Gratian is often said to have created a collection
-of canons that he used in the earliest course on canon law, <!-- and
-may also have written a few of the comments that are now part of
-the collection of *dicta* --> but we must be extremely careful about
-precisely what we mean when we say that Gratian "created a collection
-of canons" and especially when we say that the collection was "used
-in the earliest course on canon law."
+of canons that he used in the earliest course on canon law, <!--
+and may also have written a few of the comments that are now part
+of the collection of *dicta* --> but we must be extremely careful
+about precisely what we mean when we say that Gratian "created a
+collection of canons" and especially when we say that the collection
+was "used in the earliest course on canon law."
 
 I believe that it is reasonable to assume that the historical Gratian
 was, when he initiated the project, someone who had carefully read
@@ -184,8 +184,6 @@ Winroth has popularized on the internet --> does actually capture
 something significant about the optimistic outlook that he brought
 to his engagement with the authorities.)
 
----
-
 At some point in the mid-1120s, Gratian became the convener of a
 study group that read the canons and started to work out a systematic
 jurisprudence based on them. The formation of the study group was
@@ -193,36 +191,33 @@ obviously a crucial step in the development of canon law as a
 discipline, but to call it "the earliest course on canon law" is
 to anachronistically read back into its earliest stage the later
 evolution of the circle into a school, then a faculty, and finally
-a university. I think we can infer that in the early stage of his
-and the study group's work Gratian had a good command of the sources,
-but he was not yet in possession of a fully developed method for
+a university. We can infer that in the early stage of his and the
+study group's work Gratian had a good command of the sources, but
+he was not yet in possession of a fully developed method for
 reconciling the contradictions presented by the canons. His method
 and canon law studies were not yet developed fully enough to be
 systematically imparted to students, which is the basis for a
-university program. We can almost certainly say that Gratian 0 knew
-a great deal about the canonical tradition from his study of the
-earlier collections when the study group convened, but we cannot
+university program. We can almost certainly say that, when the study
+group convened, Gratian 0 knew a great deal about the canonical
+tradition from his study of the earlier collections, but we cannot
 say what the members of the group contributed to the organization
 of the canons into a topical arrangement. However, we can say that
-as the organization of the canons emerged, Gratian 0 greatly enhanced
-its significance and usefulness by writing the *themata* or case
-statements. He did not at this stage know so much more than the
-other participants in the study group that we can unambiguously
-call him *magister* and them *discipuli*, even if he was the group's
-central figure.
+Gratian 0 greatly enhanced its significance and usefulness by writing
+the *themata* or case statements. He did not at this stage know so
+much more than the other participants in the study group that we
+can unambiguously call him *magister* and them *discipuli*, even
+if he was the group's central figure.
 
 One of the most important things the formation of the study group
 did for Gratian was to provide him with a pool of volunteer labor
 that made it possible to put the collection of canons and his
-*themata* on parchment. Before the formation of the study group, I
-doubt that the collection of canons and his thematic commentary on
-what he saw as the major jurisprudential issues had any concrete
-existence outside of Gratian's mind. In particular, I do not believe
-that case statements predated the formation of the study group.
-Indeed, the existence of the case statements in written form makes
-little sense outside the context of the work of the study group.
-Rather, I think that Gratian developed them as a result of the
-earliest group readings and discussions.
+*themata* on parchment. It is unlikely that Gratian had written
+the case statements as a framework for organizing the canons
+thematically before the formation of the study group. Indeed, the
+existence of the case statements in written form makes little sense
+outside the context of the work of the study group. One has to
+think that Gratian developed them as a result of the earliest group
+readings and discussions.
 
 So, the evidence seems to show that the person later identified as
 Gratian performed two distinct roles in the evolution of the text
@@ -233,14 +228,15 @@ their exact wording. The case statements were Gratian 0's only
 direct contribution to the text of the *Decretum*, and his authorial
 signature appears nowhere else in the corpus of *dicta*.[^2] Unlike
 Winroth's Gratian 1 and Gratian 2, Gratian 0 is clearly one person.
-The facts that that the case statements were written by a single
-author whose words appear nowhere else in the *Decretum*, that their
-existence implies use by a reading or study group, and that almost
-no changes were made to their wording during the stages of the
-development of the *Decretum* that we can discern, all support, in
-my opinion, arguments that the development of the text likely started
-in the mid-1120s and that the collection of *dicta* as a whole grew
-to its classical form over several decades.
+The facts that the case statements were written by a single author
+whose words appear nowhere else in the *Decretum*, that they appear
+to have been written as a product of the work of a study group, and
+that almost no changes were made to their wording during those
+stages of the development of the *Decretum* for which we have textual
+evidence, all support, in my opinion, arguments that the development
+of the text likely started in the mid-1120s and that the collection
+of *dicta* as a whole grew to its classical form over several
+decades.
 
 <!--
 
@@ -280,31 +276,31 @@ hermeneutical principles proposed in Ivo's *Prologue* for reconciling
 the contradictions presented by the canons that came to be memorialized
 in the first-recension *dicta*. This is not to say that his methods,
 arguments, and solutions were not worked out in the context of the
-study group, but they were worked out under his guidance and in
-accordance with his program.
+study group, but that they were worked out under his guidance and
+in accordance with his program.
 
-Members of the group clearly accepted as authoritative for them
-Gratian's fundamental insight that the canonical tradition inherited
-from earlier collections could and should be organized into a
-comprehensive system of jurisprudence that would constitute the law
-of the church as well as his method of reconciling canons. They
-passed down to later students of canon law the understanding that
-Gratian was the author of the *Decretum* both in the sense that it
-reflected this fundamental insight and in the sense that it was his
-authority that lay behind the particular reading of the canons the
-collection embodied. Although the words of the *dicta* are
-demonstrably not his, the fact that his name came to be attached
-to the text strongly suggests that both the fundamental insight and
-method were his, and that these are the bases for the authority
-claim made on Gratian's behalf by the community the original study
-group led to.
+Members of the group clearly accepted as authoritative Gratian's
+fundamental insight that the canonical tradition inherited from
+earlier collections could and should be organized into a comprehensive
+system of jurisprudence that would constitute the law of the church,
+as well as his method of reconciling canons. They passed down to
+later students of canon law the understanding that Gratian was the
+author of the *Decretum* both in the sense that it reflected this
+fundamental insight and in the sense that it was his authority that
+lay behind the particular reading of the canons the collection
+embodied. Although the words of the *dicta* are demonstrably not
+his, the fact that his name came to be attached to the text strongly
+suggests that both the fundamental insight and method were his, and
+that these are the bases for the authority claim made on Gratian's
+behalf by the community of legal scholars the original study group
+gave rise to.
 
 Gratian 0 continued to contribute to the work as long as the first
 recension was under active development by the study group, which
 by the mid-1130s had evolved into something that could serve as the
-basis for a university course, or even a sequence of courses: a
-proto-faculty. I think Winroth is right that the person called
-Gratian was not a contributor to the second recension.
+basis for a university course, or even a sequence of courses. I
+think Winroth is right that the person called Gratian was not a
+contributor to the second recension.
 
 <!--
 
@@ -331,59 +327,60 @@ earlier stages of the project.
 
   -->
 
----
-
 Why were the contributors who followed Gratian all anonymous? The
 larger-than-expected number of contributors and the apparent absence
 of overlap between contributors to the first- and second-recension
 *dicta* suggests that the involvement of individual contributors
 was relatively brief, perhaps a year or two. Involvement in Gratian's
-project would have to have conferred significant real-world advantages
-for the contributors, almost certainly in the form of enhanced
-competitiveness for benefices, in order to justify the uncompensated
-scribal labor they put into it. When ecclesiastical preferment came
-their way, their involvement in Gratian's project probably ended.
-But the fact that they had been successful attracted others to take
-their place, which goes a long way toward explaining the pattern
-of exponential growth.
+project must have created significant real-world advantages for the
+contributors, almost certainly in the form of enhanced competitiveness
+for benefices, in order to justify the uncompensated intellectual
+and scribal labor they put into it. When ecclesiastical preferment
+came their way, their involvement in Gratian's project probably
+ended. But the fact that they had been successful attracted others
+to take their place, which goes a long way toward explaining the
+rapid growth both of the text itself through the creation of the
+cases and the collection of *dicta*, and of the community for which
+the text was the focal point.
 
 The rapid turnover of contributors meant that the study group went
 through several "generations" of members between the mid-1120s and
 mid-1130s. By the time of Paucapalea in the late 1140s, turnover
-of membership in what had by that point become a quite substantial
+of membership in what had by that point become quite a substantial
 community was much slower, but there had been so many intervening
-"generations" that any information about the history of the project
-that had not been incorporated into the text of the *Decretum* was
-lost, apparently including for Paucapalea even the name of Gratian.
+"generations" that the only evidence about the history of the project
+was incorporated into the text of the *Decretum*. As a result,
+Paucapalea did not even know the name of Gratian.
 
 What does all of this say about teachers and the teaching of canon
 law between the mid-1120s and 1140? In the 1120s and 1130s, the
 distinction between teacher and student was much less clear than
 it became a few decades later. Gratian was the leader of the study
 group, and the figure to whom the group deferred, because he was
-the one who had done by far, one suspects, the most reading in the
-sources of canon law. But having read widely in the canons was not
-the same thing as having fully worked out a jurisprudential system
-based on them, and there was a great deal that Gratian did not know
-at that point, such as whether and how to incorporate Roman law
-into his system. In some sense, then, they were all figuring it out
-together. We should not think of the Gratian of the 1120s as the
-kind of guild-certified master, able to "explain it all for you,"
-that we would expect to encounter in later decades.
+the one who had, it seems, done by far the most reading in the
+sources of canon law. But reading widely in the canons was not the
+same thing as working out a jurisprudential system based on them,
+and there was a great deal that Gratian did not know at that point,
+such as whether and how to incorporate Roman law into his system.
+In some sense, then, Gratian and the members of the study group
+were figuring it out together. We should not think of the Gratian
+of the 1120s as the kind of guild-certified master, able to "explain
+it all for you," that we encounter in the schools of canon law of
+later decades.
 
 Although I am uncomfortable with using the terms teacher and student
 to describe the relationship between Gratian and the contributors
 the early stages of the project, I suspect that by the mid-1130s,
 we can envision the ongoing activity around Gratian as having evolved
 from being a reading or study group into something more like a
-course or even a loose proto-faculty. Gratian need not have been
-the only teacher at this later stage, and some of the early
-contributors, at least those still working in Bologna while awaiting
-a suitable benefice, may well have had students of their own by
-that point. As a result, some of the texts that became part of the
-collection of *dicta* could have come from teachers other than
-Gratian and some from students summarizing or reporting on solutions
-presented by teachers in classroom discussion.
+course or even a proto-faculty. Gratian need not have been the only
+teacher at this later stage, and some of the early contributors,
+at least those still working in Bologna while awaiting a suitable
+benefice, may well have had students of their own by that point.
+As a result, some of the texts that became part of the collection
+of *dicta* could have come from teachers other than Gratian and
+some from students summarizing or reporting on solutions presented
+by teachers in classroom discussion.
 
 [^1]: Indeed, it is worth reminding the reader here that Burrows's
 Delta indicates that the case statements are even less likely to
