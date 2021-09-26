@@ -125,22 +125,42 @@ some sense both right.)
 
 The textual stability and unique authorship of the case statements, as
 well as the inferred analogy between the early pattern of growth of the
-study of both Roman law and canon law, suggest then that Gratian's
+study of both Roman law and canon law, suggest, then, that Gratian's
 project was in progress by the mid-1120s. If that tentative dating is
 correct, it seems plausible to connect the beginnings of Gratian's
 project with new understandings of the church as an independent
 political and juridical community in the aftermath of the Concordat of
-Worms (1122) and the First Lateran Council (1123), with the circle
-around Gratian systematically working through the implications of an
-epochal event for both the universal church and the church in its local
-and particular institutional context.
+Worms (1122) and the First Lateran Council (1123). I believe that it is
+reasonable to assume that the historical Gratian was, when he initiated
+the project, someone who had carefully read around a half-dozen
+important reform-era formal source collections. He was aware in a
+general way of how the new schools in northern France approached textual
+problems, and in particular of the hermeneutical approach to reading the
+canons outlined in Ivo's *Prologue* but which he "left as an exercise to
+the reader." However, Ivo's method presumes that one is interested in
+reconciling the contradictions between one canon and another or, at
+most, one carefully circumscribed selection of canons and another
+similarly circumscribed set. Gratian seems to have arrived at the
+crucial insight that the new period in church history inaugurated by the
+Concordat of Worms and the First Lateran Council required a system of
+canonical jurisprudence of a comprehensiveness that the reform-era
+collections had simply not contemplated and that a reconciliation of the
+contradictions in a selection of canons large enough to be generally
+representative of the tradition as a whole must provide the foundation
+for such a comprehensive system.
 
 <!--
 
-The *dicta* display some locality of reference, i.e., a given
-*dictum* is likely to discuss the same or a similar issue, and
-presumably to have the same author, as the *dicta* immediately
-before and after it.
+I think that it is also important to note that one of the things
+Gratian brought to the project from the outset was a fundamentally
+conservative and optimistic disposition: his was the antithesis of
+Peter Abelard's project of subverting and even dissolving the whole
+notion of authority by showing that the authorities were in actual,
+not just apparent, disagreement. (I think the depiction of Gratian
+smiling in *Paradiso* 10.103 and in the 18th century engraving that
+Winroth has popularized on the internet does actually capture
+something significant about the optimistic outlook that he brought
+to his engagement with the authorities.)
 
   -->
 
@@ -148,60 +168,58 @@ The historical Gratian is often said to have created a collection of
 canons that he used in the earliest course on canon law, <!--
 and may also have written a few of the comments that are now part
 of the collection of *dicta* --> but we must be extremely careful about
-precisely what we mean when we say that Gratian "created a collection of
-canons" and especially when we say that the collection was "used in the
-earliest course on canon law."
+precisely what we mean when we say <!-- that Gratian "created
+a collection of canons" and especially when we say --> that the
+collection was "used in the earliest course on canon law." At some point
+in the mid-1120s, Gratian became the convener of a study group that read
+the canons and started to work out a systematic jurisprudence based on
+them. That there was such a group is revealed by the evidence that the
+*dicta* of the first recension were written by multiple contributors and
+that these additions to the text were added to a single work. Had the
+writers of the *dicta* worked independently of Gratian and one another,
+their work would have been scattered in many copies of the cases, if it
+survived at all. So, the production of the first recension, with case
+statements and *dicta*, implies the existence of the study group. The
+formation of the study group was obviously a crucial step in the
+development of canon law as a discipline, but to call it "the earliest
+course on canon law" is to anachronistically read back into its earliest
+stage the later evolution of the circle into a school, then a faculty,
+and finally a university. We can infer that in the early stage of his
+and the study group's work Gratian had a good command of the sources,
+but he was not yet in possession of a method for reconciling the
+contradictions presented by the canons fully developed enough to be
+systematically imparted to students, which is the fundamental
+prerequisite for a university program. He did not at this stage know so
+much more than the other participants in the study group that we can
+unambiguously call him *magister* and them *discipuli*, even if he was
+the group's central figure and the one whose name was transmitted to
+later generations of canonists.
 
-I believe that it is reasonable to assume that the historical Gratian
-was, when he initiated the project, someone who had carefully read
-around a half-dozen important reform-era formal source collections. He
-was aware in a general way of how the new schools in northern France
-approached textual problems, and in particular of the hermeneutical
-approach to reading the canons outlined in Ivo's *Prologue* but "left as
-an exercise to the reader." I think that it is also important to note
-that one of the things Gratian brought to the project from the outset
-was a fundamentally conservative and optimistic disposition: his was the
-antithesis of Peter Abelard's project of subverting and even dissolving
-the whole notion of authority by showing that the authorities were in
-actual, not just apparent, disagreement. (I think the depiction of
-Gratian smiling in *Paradiso* 10.103
-<!-- and in the 18th century engraving that
-Winroth has popularized on the internet --> does actually capture
-something significant about the optimistic outlook that he brought to
-his engagement with the authorities.)
+<!--
 
-At some point in the mid-1120s, Gratian became the convener of a study
-group that read the canons and started to work out a systematic
-jurisprudence based on them. The formation of the study group was
-obviously a crucial step in the development of canon law as a
-discipline, but to call it "the earliest course on canon law" is to
-anachronistically read back into its earliest stage the later evolution
-of the circle into a school, then a faculty, and finally a university.
-We can infer that in the early stage of his and the study group's work
-Gratian had a good command of the sources, but he was not yet in
-possession of a fully developed method for reconciling the
-contradictions presented by the canons. His method and canon law studies
-were not yet developed fully enough to be systematically imparted to
-students, which is the basis for a university program. We can almost
-certainly say that, when the study group convened, Gratian 0 knew a
-great deal about the canonical tradition from his study of the earlier
-collections, but we cannot say what the members of the group contributed
-to the organization of the canons into a topical arrangement. However,
-we can say that Gratian 0 greatly enhanced its significance and
-usefulness by writing the *themata* or case statements. He did not at
-this stage know so much more than the other participants in the study
-group that we can unambiguously call him *magister* and them
-*discipuli*, even if he was the group's central figure.
+We can almost certainly say that, when the study group convened,
+Gratian 0 knew a great deal about the canonical tradition from his
+study of the earlier collections, but we cannot say what the members
+of the group contributed to the organization of the canons into a
+topical arrangement. However, we can say that Gratian 0 greatly
+enhanced its significance and usefulness by writing the *themata*
+or case statements.
 
-One of the most important things the formation of the study group did
-for Gratian was to provide him with a pool of volunteer labor that made
-it possible to put the collection of canons and his *themata* on
-parchment. It is unlikely that Gratian had written the case statements
-as a framework for organizing the canons thematically before the
-formation of the study group. Indeed, the existence of the case
-statements in written form makes little sense outside the context of the
-work of the study group. One has to think that Gratian developed them as
-a result of the earliest group readings and discussions.
+  -->
+
+Gratian's first important insight, that a comprehensive reconciliation
+of contradictory canons was the necessary foundation for a systematic
+jurisprudence, is probably what led him in the first instance to gather
+a circle to study the problem. Gratian's second important insight, that
+hypothetical cases could provide an effective framework for the
+comprehensive reconciliation he envisioned, probably emerged organically
+out of the work of the circle. It is unlikely that Gratian had written
+the case statements <!-- as a framework for
+organizing the canons thematically --> before the formation of the study
+group. Indeed, the existence of the case statements in written form
+makes little sense outside the context of the work of the study group.
+One has to think that Gratian developed them as a result of the earliest
+group readings and discussions.
 
 So, the evidence seems to show that the person later identified as
 Gratian performed two distinct roles in the evolution of the text of the
@@ -313,16 +331,19 @@ Why were the contributors who followed Gratian all anonymous? The
 larger-than-expected number of contributors and the apparent absence of
 overlap between contributors to the first- and second-recension *dicta*
 suggests that the involvement of individual contributors was relatively
-brief, perhaps a year or two. Involvement in Gratian's project must have
-created significant real-world advantages for the contributors, almost
-certainly in the form of enhanced competitiveness for benefices, in
-order to justify the uncompensated intellectual and scribal labor they
-put into it. When ecclesiastical preferment came their way, their
-involvement in Gratian's project probably ended. But the fact that they
-had been successful attracted others to take their place, which goes a
-long way toward explaining the rapid growth both of the text itself
-through the creation of the cases and the collection of *dicta*, and of
-the community for which the text was the focal point.
+brief, perhaps a year or two. One of the most important things the
+formation of the study group did for Gratian was to provide him with a
+pool of volunteer labor that made it possible to put the collection of
+canons and his *themata* on parchment. Involvement in Gratian's project
+must have created significant real-world advantages for the
+contributors, almost certainly in the form of enhanced competitiveness
+for benefices, in order to justify the uncompensated intellectual and
+scribal labor they put into it. When ecclesiastical preferment came
+their way, their involvement in Gratian's project probably ended. But
+the fact that they had been successful attracted others to take their
+place, which goes a long way toward explaining the rapid growth both of
+the text itself through the creation of the cases and the collection of
+*dicta*, and of the community for which the text was the focal point.
 
 The rapid turnover of contributors meant that the study group went
 through several "generations" of members between the mid-1120s and
@@ -368,6 +389,14 @@ been one of the first parts of the *Decretum* reduced to a stable
 written form. The logical alternative, that case statements were
 written after the fact, would have to have taken place late enough
 in the development of the text that someone would have noticed.
+
+  -->
+<!--
+
+The *dicta* display some locality of reference, i.e., a given
+*dictum* is likely to discuss the same or a similar issue, and
+presumably to have the same author, as the *dicta* immediately
+before and after it.
 
   -->
 
