@@ -1,6 +1,6 @@
 # the Gratian project
 
-![Gratian](img/Gratian.jpg)
+![Gratian](img/St-Omer.jpg)
 
 ## Dissertation
 
@@ -43,12 +43,16 @@ Reviewed by Stan Chodorow, 25 September 2021
 - [Appendix 2](Appendix/appendix2.markdown)
 - [Appendix 3](Appendix/appendix3.markdown) (18 May 2021)
 
+<!--
+
 ### *Extravagantes*
 
 - [Causa 4](Extra/causa4.markdown)
 - [N-grams](Extra/n-grams.markdown)
 - [Sg case statements](Extra/sg.markdown)
 - [*Correctores*](Extra/correctores.markdown)
+
+  -->
 
 ### Notebooks
 
