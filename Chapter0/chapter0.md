@@ -358,10 +358,6 @@ two chapters attempt to analyze what is known about the *Decretum*
 and its author to an extent that would allow meaningful statements
 about the authorship of the text to be made.
 
-<!--
-
-  -->
-
 ## Note on the Title of the Dissertation
 
 University policy required me to decide on the final title of my
