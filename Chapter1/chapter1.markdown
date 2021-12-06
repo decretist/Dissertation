@@ -4,7 +4,7 @@ authorship. It did not even have a title. However, as it entered
 widespread circulation in the middle decades of the twelfth century, the
 new textbook gave rise to a considerable body of commentary, and some
 early glosses referred to it as the *Concordia discordantium canonum*
-("Concordance of discordant canons"). The same glosses identified
+("Reconciliation of contradictory canons"). The same glosses identified
 Gratian, an otherwise unknown teacher thought to have worked in Bologna,
 as its author.[1] As a result, the book came to be commonly known as the
 *Decretum Gratiani* ("Gratian's *Decretum*").
