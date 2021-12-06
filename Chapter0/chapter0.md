@@ -385,7 +385,7 @@ would more accurately reflect the results of the project as delivered.
 ## Note on Translations
 
 I have, wherever possible, supplied for each Latin passage quoted
-the corresponding passage from a published English translation.[^25]
+the corresponding passage from a published English translation.[^24]
 In cases where no such translation was available, or I considered
 the available translation seriously misleading, I have supplied my
 own translation, indicated with the notation (trans. PLE). Special
@@ -527,7 +527,7 @@ the *Decretum* has traditionally been attributed to Gratian himself;
 the other fourth-fifths of the text is made up of excerpts from the
 authorities Gratian cited.
 
-[^25]: @jansen_medieval_2009; @somerville_prefaces_1998; and
+[^24]: @jansen_medieval_2009; @somerville_prefaces_1998; and
 @thompson_treatise_1993 have been particularly helpful resources
 in this regard.
 
