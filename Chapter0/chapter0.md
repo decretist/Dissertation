@@ -76,7 +76,7 @@ studies.
 
 From September 2007 to May 2009, I was a student in the History of
 Christianity master's program at Yale Divinity School. Among the
-courses I took was a one on Latin Paleography that Richard and Mary
+courses I took was one on Latin Paleography that Richard and Mary
 Rouse of UCLA taught in the Beinecke Rare Book and Manuscript
 Library. In October 2009, I attended a talk by David Ganz (then of
 King's College, London) who pointed out that there were two different
@@ -329,6 +329,8 @@ involvement in the project came to an end, whether through death,
 declining health, or ecclesiastical promotion, before the first-recension
 *dicta* were preserved in their permanent written form.
 
+<!--
+
 ## Outline of Chapters
 
 Background; the *Decretum*; Authority, Author, Authorship; Stylometry;
@@ -377,6 +379,8 @@ unsupervised topic modeling to stylometry using principal components
 analysis, the original title became obsolete. If I were to choose
 a title today, "Computer-aided Close Reading of Gratian's *Decretum*"
 would more accurately reflect the results of the project as delivered.
+
+  -->
 
 ## Note on Translations
 
