@@ -160,9 +160,9 @@ transformation of the *Decretum* in the 1150s.[10] Even though Omnibonus
 lived into the 1180s, the adaptation itself seems to date from around
 1156, perhaps a decade and a half after the end of whatever teaching
 career Gratian may have had, so the dates do not preclude his having
-been a student of Gratian.[11] The basis for the claim that Omnibonus
-was Gratian's student is an entry for the year 1130 in the chronicle of
-the Norman monk Robert of Torigni (†1186):
+been a student of Gratian. The basis for the claim that Omnibonus was
+Gratian's student is an entry for the year 1130 in the chronicle of the
+Norman monk Robert of Torigni (†1186):
 
 > *Gratianus episcopus Clusinus coadunavit decreta valde utilia ex
 > decretis, canonibus, doctoribus, legibus Romanis, sufficientia ad
@@ -173,7 +173,7 @@ the Norman monk Robert of Torigni (†1186):
 > decrees, canons, doctors, Roman laws, sufficient for deciding all
 > ecclesiastical cases, which are resorted to at the Roman curia and in
 > other ecclesiastical courts. Master Omnebonum bishop of Verona, who
-> had been his student, afterwards abbreviated them.)[12]
+> had been his student, afterwards abbreviated them.)[11]
 
 Robert of Torigni's brief chronicle entry contains six distinct factual
 assertions: i.) that Gratian was bishop of Chiusi, ii.) that he "brought
@@ -181,7 +181,7 @@ together the decrees" (*coadunavit decreta*) in a form useful to, and
 widely used by, ecclesiastical courts, iii.) that he did so around 1130,
 iv.) that "magister Omnebonum" was bishop of Verona, v.) that he
 abbreviated the *Decretum*, and vi.) that he had been Gratian's
-student.[13] Three of these factual assertions are uncontroversial: that
+student.[12] Three of these factual assertions are uncontroversial: that
 Gratian "brought together" the *Decretum*, that Omnibonus abbreviated
 it, and that Omnibonus was bishop of Verona.
 
@@ -189,7 +189,7 @@ Those scholars who interpret the discovery of the first-recension
 manuscripts as evidence that Gratian's work on the *Decretum* extended
 over a decade or more---Pennington and Larson, but not Winroth---have
 come to see Robert's 1130 date as more plausible than it had previously
-been thought to be.[14] Other scholars who accept a twelfth-century
+been thought to be.[13] Other scholars who accept a twelfth-century
 reference to a "Gratian of Chiusi, bishop" in a Siena necrology as
 referring to the Gratian associated with the *Decretum*---Winroth, but
 not Pennington---have come to see Robert's claim that Gratian was the
@@ -207,7 +207,7 @@ circumstances under which the *Decretum* was composed, would be in a
 preface to his abbreviation. Unfortunately, there is no printed edition
 of the abbreviation, and the only form in which a manuscript of the
 abbreviation is available is a low-resolution digitization of an old
-microfilm of Paris, Bibliothèque nationale de France, Latin 3886. It
+microfilm of Paris, Bibliothèque nationale de France, Latin 3886.[14] It
 does not appear to have a preface of any kind, but launches immediately
 into the abbreviation starting with "*Humanum genus duobus regitur*." In
 the apparent absence then of any first-hand evidence from Omnibonus
@@ -442,7 +442,7 @@ recension on the grounds that he thinks D.63 d.p.c.34 *must* refer to
 canon 28 from the Second Lateran Council of 1139. That first-recension
 *dictum* makes a reference to a canon, D.63 c.35, that was later
 incorporated into the second recension of the *Decretum* as D.63
-c.35[40] Winroth explicitly rejects Atria Larson's suggestion that the
+c.35.[40] Winroth explicitly rejects Atria Larson's suggestion that the
 canon referred to at D.63 d.p.c.34 is *not* canon 28 from Lateran II but
 rather a canon from an earlier council or synod convened by Innocent II
 at Rome in 1133 that was reissued at the 1139 council, a common practice
@@ -481,7 +481,7 @@ Sg manuscript of the *Decretum*, most notably in his 2004 chapter
 addition, Pennington directed a 2010 dissertation by Melodie Eichbauer,
 "From Gratian's *Concordia discordantium canonum* to Gratian's
 *Decretum*: The Evolution from Teaching Text to Comprehensive Code of
-Canon Law, that contributed to the debate over Sg.
+Canon Law," that contributed to the debate over Sg.
 
 Pennington builds on Larson's conjecture that the canon referred to at
 D.63 d.p.c.34 in the first recension and later incorporated as D.63 c.35
@@ -933,29 +933,23 @@ Linguistic Science. Series 3: Studies in the History of Linguistics v.5
 [Omnibonus](http://amesfoundation.law.harvard.edu/BioBibCanonists/Report_Biobib2.php?record_id=a363),
 *Bio-Bibliographical Guide to Medieval and Early Modern Jurists.*
 
-[11] There is no print edition of Omnibonus's adaptation (Ken
-Pennington, email to Paul Evans, 17 May 2021). The only online form in
-which the manuscript is available is a low-quality digitization of an
-old microfilm of Paris, Bibliothèque nationale de France, Latin 3886. I
-was therefore unable to look for any internal evidence in Omnibonus's
-adaptation (e.g., a comment in a preface), indicating that Gratian had
-been his teacher.
-
-[12] Stephan Kuttner, *Repertorium Der Kanonistik (1140-1234): Prodromus
+[11] Stephan Kuttner, *Repertorium Der Kanonistik (1140-1234): Prodromus
 Corporis Glossarum*, \[Vatican. Biblioteca Vaticana\] Studi e Testi, 71
 (Città del Vaticano: Biblioteca apostolica vaticana, 1937), 453. [MGH
 Scriptores SS 6,
 490](https://www.dmgh.de/mgh_ss_6/index.htm#page/490/mode/1up).
 
-[13] It is worth noting that by characterizing Gratian's activity as one
+[12] It is worth noting that by characterizing Gratian's activity as one
 of "bringing together" the decrees, Robert is making a fairly weak claim
 on behalf Gratian's authorship of the *Decretum*. It is also worth
 noting that Robert's description of the usefulness of the *Decretum*
 says nothing whatever about its use as a teaching text.
 
-[14] Atria A. Larson, “Early Stages of Gratian’s Decretum and the Second
+[13] Atria A. Larson, “Early Stages of Gratian’s Decretum and the Second
 Lateran Council: A Reconsideration,” *Bulletin of Medieval Canon Law* 27
 (2007): 54–55.
+
+[14] Ken Pennington, email to Paul Evans, 17 May 2021.
 
 [15] Noonan, “Gratian Slept Here,” 153–54.
 
