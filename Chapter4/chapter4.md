@@ -1779,6 +1779,8 @@ more likely to have been the product of collaborative authorship.
 
   -->
 
+<!--
+
 The first, positive, result of the investigation presented in this
 dissertation is the finding that the case statements or *themata*
 were written by a single author whose words appear nowhere else in
@@ -1825,7 +1827,21 @@ This second negative finding does not warrant the same level of
 confidence as the first positive result and represents a call for
 further investigation.
 
+[^55]: Indeed, it is worth reminding the reader here that Burrows's
+Delta indicates that the case statements are even less likely to
+have been written by the same author as the *dicta* collections in
+the *Decretum* than are the samples from the pseudo-Augustinian *De
+vera et falsa penitentia* quoted by Gratian in *de Penitentia*.
+
+  -->
+
 <!-- SC: collaborative or multiple authorship? -->
+
+The findings of the stylometric and PCA analysis of the case
+statements and *dicta* from Gratian's *Decretum* provide the
+foundation for, and are most appropriately discussed with, the
+general conclusions of the dissertation in the final chapter
+immediately following.
 
 [^4]: @mosteller_inference_1964 [14]. See also @adair_authorship_1944a [104].
 
@@ -2091,10 +2107,4 @@ case statements are: *Hic primum queritur* (15), *Queritur* (8),
 *Modo primum queritur* (3), *Nunc primum queritur* (3), *Primo
 queritur* (2), *Primum queritur* (2), *Hic primo queritur* (1),
 *Modo queritur* (1), *Queritur autem* (1).
-
-[^55]: Indeed, it is worth reminding the reader here that Burrows's
-Delta indicates that the case statements are even less likely to
-have been written by the same author as the *dicta* collections in
-the *Decretum* than are the samples from the pseudo-Augustinian *De
-vera et falsa penitentia* quoted by Gratian in *de Penitentia*.
 
