@@ -1,4 +1,4 @@
-all: appendix1.markdown appendix2.markdown appendix3.markdown
+all: appendix1.docx appendix2.docx appendix3.docx
 
 appendix1.markdown: appendix1.md
 	pandoc -o appendix1.markdown -f markdown -t gfm appendix1.md
