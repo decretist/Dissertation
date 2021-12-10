@@ -1,19 +1,18 @@
 The first result of the investigation presented in this dissertation is
 positive. It is that the case statements or *themata* were written by a
-single author whose words appear nowhere else in the *Decretum*. The
-author of the case statements was *not* the author of the first- or
-second-recension *dicta* or of the *dicta* in *de Penitentia*. I have
-designated this single author of the case statements Gratian 0 to
-distinguish him from Gratian 1 and Gratian 2, the authors of the first-
-and second-recension *dicta* hypothesized by Winroth, and I take Gratian
-0 to be *the* historical Gratian. That the case statements have a single
-author is not surprising, but that they were not written by the
-author(s) of any of the *dicta* is quite unexpected. This finding is
-supported both by the values for Burrows's Delta and the results of
-principal component analysis.[1] This result warrants a high degree of
-confidence, and future conjectural *novelle* will have to account for
-the fact that the case statements were not written by the author of
-either the first- or second-recension *dicta*.
+single author who was *not* the author of the first- or second-recension
+*dicta* or of the *dicta* in *de Penitentia*. I have designated this
+single author of the case statements Gratian 0 to distinguish him from
+Gratian 1 and Gratian 2, the authors of the first- and second-recension
+*dicta* hypothesized by Winroth, and I take Gratian 0 to be *the*
+historical Gratian. That the case statements have a single author is not
+surprising, but that they were not written by the author(s) of any of
+the *dicta* is quite unexpected. This finding is supported both by the
+values for Burrows's Delta and the results of principal component
+analysis.[1] This result warrants a high degree of confidence, and
+future conjectural *novelle* will have to account for the fact that the
+case statements were not written by the author of either the first- or
+second-recension *dicta*.
 
 The second result is negative. It is that principal component analysis
 (PCA) does not produce either of the two findings that might reasonably
@@ -59,7 +58,7 @@ Winroth's two-author hypothesis. My intention was simply to expand what
 I perceived to be an insufficient evidentiary basis for the debate over
 whether the *dicta* had one or two authors. However, it became clear at
 a very early stage of the project that the case statements, or
-*themata*, were instead written by a single author (Gratian 0) whose
+*themata*, were instead written by a single author---Gratian 0---whose
 words appear nowhere else in the *Decretum*.
 
 Contrary to expectation, none of the stylometric evidence produced at
@@ -228,14 +227,15 @@ The case statements were Gratian 0's only direct contribution to the
 text of the *Decretum*, and his authorial signature appears nowhere else
 in the corpus of *dicta*.[3] Unlike Winroth's Gratian 1 and Gratian 2,
 Gratian 0 is clearly one person. The facts that the case statements were
-written by a single author whose words appear nowhere else in the
-*Decretum*, that they appear to have been written as a product of the
-work of a study group, and that almost no changes were made to their
-wording during those stages of the development of the *Decretum* for
-which we have textual evidence, all support, in my opinion, arguments
-that the development of the text likely started in the mid-1120s and
-that the collection of *dicta* as a whole grew to its classical form
-over fifteen to twenty years.
+written by a single author who was not the author of the first- or
+second-recension *dicta* or of the *dicta* in *de Penitentia*, that they
+appear to have been written as a product of the work of a study group,
+and that almost no changes were made to their wording during those
+stages of the development of the *Decretum* for which we have textual
+evidence, all support, in my opinion, arguments that the development of
+the text likely started in the mid-1120s and that the collection of
+*dicta* as a whole grew to its classical form over fifteen to twenty
+years.
 
 <!--
 
