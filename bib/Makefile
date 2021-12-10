@@ -1,10 +1,12 @@
+all: biblio.docx biblio.markdown
+
+biblio.docx: biblio.md merged.bib ../ref/biblio.docx
+	pandoc -o biblio.docx --citeproc --reference-doc=../ref/biblio.docx biblio.md
+
 biblio.markdown: biblio.md merged.bib
 	pandoc -o biblio.markdown --citeproc -f markdown-smart -t gfm biblio.md
 	cat ../lic/license.html >> biblio.markdown
 
-biblio.docx: biblio.md merged.bib ../ref/final.docx
-	pandoc -o biblio.docx --citeproc --reference-doc=../ref/final.docx biblio.md
-
 clean:
-	rm -i biblio.markdown biblio.docx
+	rm -i biblio.docx biblio.markdown
 
