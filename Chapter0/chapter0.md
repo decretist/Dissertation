@@ -268,9 +268,9 @@ however, was that the case statements clustered far away from the
 *dicta*, extremely strong evidence that they had not been written
 by the same author. I immediately realized that if this accidental
 result held up under further testing it would be both significant
-and controversial. (See Figure 1 below.)[^19]
+and controversial. (See Figure 0 below.)[^19]
 
-![Figure 1 10 Sep 2013](JPGs/Photo51.jpg)
+![Figure 0 10 Sep 2013](JPGs/Photo51.jpg)
 
 Scholars working in the field of medieval canon law have long been
 accustomed to thinking of the author of the *dicta* (or after
